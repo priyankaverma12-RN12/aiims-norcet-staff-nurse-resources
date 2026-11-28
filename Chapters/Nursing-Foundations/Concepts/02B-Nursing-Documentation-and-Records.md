@@ -4,7 +4,7 @@
 
 **Topic priority:** 🟠 HIGH YIELD · **Study-ready, not studied.** Earlier group 02 Q6–7, 9, 12–13, 16, 20 (7) + [23 new MCQs](../MCQs/02B-Nursing-Documentation-and-Records-23-MCQs.md) = 30 allocated.
 
-Documentation patient care ka reliable record hai. Next nurse ko current condition, actual treatment, response and unfinished tasks samajhne mein help milti hai. Record legal accountability, continuity and quality improvement support karta hai. Good record factual, accurate, relevant, complete, concise, timely and attributable hona chahiye. Policy-specific terminology and approved abbreviations use karo.
+Nursing documentation ka matlab hai patient ki care ka reliable written ya electronic record banana. Maan lo next shift ki nurse patient ko pehli baar dekh rahi hai. Record padhkar use pata chalna chahiye ki patient ki current condition kya hai, kaunsa treatment diya gaya, patient ka response kya tha aur kaunsa kaam abhi baaki hai. Documentation se continuity of care, legal accountability aur quality improvement mein madad milti hai. Nurse ko facts accurately, relevant details ke saath, poore aur concise tareeke se, time par record karne chahiye. Entry se pata chalna chahiye ki record kisne banaya. Facility ke approved terms aur abbreviations hi use karne chahiye.
 
 <a name="practical-recording"></a>
 
@@ -24,12 +24,12 @@ Documentation patient care ka reliable record hai. Next nurse ko current conditi
 **▶️ [YouTube MCQ practice — Documentation and reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Medical Knowledge Online; indexed description confirms dedicated MCQ practice. Exact question/subsection coverage and playback pending; no historical exam claim.
 <!-- /job4-metadata -->
 
-- Actual observed facts and patient-reported statements separately record karo. Judgmental labels ki jagah relevant behavior and context.
-- Event ka actual time, assessment, intervention, response, communication and plan record karo. Anticipated care ko completed mat likho. Omitted or refused medicine, relevant reason and action document karo.
-- Late entry actual event time and current entry time honestly identify karti hai. Backdating misleading hai.
-- Paper correction original entry readable and correction attributable rakhe, according to policy. EHR approved correction workflow and audit trail preserve karo. Never erase or overwrite history deceptively.
-- Copy-forward content current assessment se verify karo. Wrong patient record open ho toh stop and approved identifiers verify karo.
-- Downtime approved paper/electronic fallback records use karo, restoration par reconcile and avoid duplicate medication administration.
+- Nurse jo facts khud observe karti hai aur jo baat patient khud batata hai, unhe alag tarah se record karti hai. Judgmental label lagane ki jagah actual relevant behavior aur context likhna chahiye.
+- Nurse event ka actual time, assessment, diya gaya intervention, patient ka response, communication aur next plan record karti hai. Jo care abhi sirf planned hai, use completed nahi likhna chahiye. Agar medicine omit hui ya patient ne refuse ki, toh relevant reason aur liya gaya action document karna chahiye.
+- Agar kisi event ki entry baad mein karni padti hai, toh nurse actual event time aur entry karne ka current time honestly identify karti hai. Backdating, yaani entry ko purane time par ki gayi dikhana, misleading hai.
+- Paper record mein correction facility policy ke hisaab se aisi honi chahiye ki original entry readable rahe aur pata chale ki correction kisne ki. Electronic health record, yaani EHR, mein approved correction method aur audit trail preserve karna chahiye. Purani history ko deceptively erase ya overwrite nahi karna chahiye.
+- Purani entry se copy-forward ki gayi information ko current assessment ke saath verify karna chahiye. Agar galat patient ka record khul gaya hai, toh nurse rukkar approved identifiers se correct patient verify karti hai.
+- Agar electronic system temporarily kaam nahi kar raha hai, toh nurse approved backup paper ya electronic record use karti hai. System restore hone par records reconcile karti hai, taaki information miss na ho aur medicine galti se dobara administer na ho.
 
 ```mermaid
 flowchart TD
@@ -60,17 +60,19 @@ flowchart TD
 
 | Format | Meaning |
 |---|---|
-| SOAP | Subjective, Objective, Assessment, Plan |
-| SOAPIE | SOAP plus Intervention and Evaluation, terminology varies by system |
-| SOAPIER | Expanded format adds revision |
-| PIE | Problem, Intervention, Evaluation |
-| DAR focus charting | Data, Action, Response |
-| Source-oriented | Entries organized by professional source |
-| Flow sheet | Repeated observations and trends |
-| Charting by exception | Deviations from defined standards, with routine documentation according to policy |
-| Kardex | Concise care summary where used, not a substitute for required permanent clinical records |
+| SOAP | Is format mein nurse Subjective data, Objective findings, Assessment aur Plan ko alag record karti hai. |
+| SOAPIE | SOAP ke saath Intervention aur Evaluation record kiye jaate hain. Terminology system ke hisaab se badal sakti hai. |
+| SOAPIER | Is expanded format mein Revision bhi add hoti hai, jisse zaroorat par care plan mein change record kiya ja sakta hai. |
+| PIE | Nurse Problem, Intervention aur Evaluation ko organize karke record karti hai. |
+| DAR focus charting | Nurse specific focus ke liye Data, Action aur Response record karti hai. |
+| Source-oriented | Entries ko information dene wale professional source ke according organize kiya jaata hai. |
+| Flow sheet | Nurse repeated observations ko aise record karti hai ki time ke saath trend compare kiya ja sake. |
+| Charting by exception | Nurse defined standards se deviations document karti hai aur routine documentation facility policy ke according karti hai. |
+| Kardex | Jahan Kardex use hota hai, wahan ye care ka concise summary deta hai. Ye required permanent clinical record ka substitute nahi hai. |
 
-Example SOAP: S patient reports poor sleep. O observed awakenings at recorded times. A sleep concern based on findings. P agreed review and appropriate comfort strategies. Do not insert unsupported diagnosis. Evaluation describes actual response. For a fall or incident, clinical chart records facts, assessment, care and notification, separate incident report completed as required. Speculative blame avoid karo.
+SOAP ko ek simple example se samjho. S mein nurse record karti hai ki patient ne poor sleep report ki hai. O mein woh actual observed awakenings aur unka time record karti hai. A mein available findings ke basis par sleep-related concern likhti hai. P mein agreed review aur appropriate comfort strategies ka plan record karti hai. Nurse ko unsupported diagnosis nahi likhna chahiye. Evaluation mein actual response record hota hai.
+
+Agar fall ya koi incident hota hai, toh clinical chart mein relevant facts, assessment, diya gaya care aur notification record karni chahiye. Facility ke rules ke hisaab se separate incident report bhi complete ki jaati hai. Bina evidence kisi ko blame nahi karna chahiye.
 
 <a name="privacy-and-accountability"></a>
 
@@ -90,7 +92,9 @@ Example SOAP: S patient reports poor sleep. O observed awakenings at recorded ti
 **▶️ [YouTube MCQ practice — Documentation and reporting](https://www.youtube.com/watch?v=nSbm7v2OiZE)** · Medical Knowledge Online; indexed description confirms dedicated MCQ practice. Exact question/subsection coverage and playback pending; no historical exam claim.
 <!-- /job4-metadata -->
 
-Access authorized clinical purpose ke liye relevant information only. Individual login share mat karo. Audit trail who changed what and when identify karta hai, not proof all clinical content is correct. Patient record access requests approved identity-verified process and applicable law se facilitate karo. Confidential information unapproved apps or personal accounts par mat send karo. Document education content, return demonstration, remaining gaps and plan. Urgent notification time, recipient, concern and response record karo, but charting alone does not replace escalation. Audit missing response entries and address workflow, technology and competency gaps.
+Nurse patient record ki sirf wahi information access karti hai jo authorized clinical purpose ke liye relevant hai. Apna individual login kisi doosre person ke saath share nahi karna chahiye. Audit trail se pata chalta hai ki record mein kisne, kya aur kab change kiya. Lekin audit trail se ye automatically prove nahi hota ki saari clinical information correct hai.
+
+Agar patient apna record access karna chahta hai, toh applicable law aur facility ke approved identity-verified process ke according request facilitate karni chahiye. Confidential information unapproved apps ya personal accounts par share nahi karni chahiye. Nurse patient education ka content, return demonstration, remaining learning gaps aur next plan document karti hai. Urgent notification ka time, recipient, concern aur response record karna zaroori hai. Lekin sirf chart mein likhna actual escalation ka substitute nahi hai. Agar audit mein response entries missing milti hain, toh workflow, technology aur staff competency se judi problems identify karke improve karni chahiye.
 
 <a name="sources-and-practice"></a>
 

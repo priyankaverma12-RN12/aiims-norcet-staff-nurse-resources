@@ -12,9 +12,9 @@
 **YouTube MCQ practice: verification pending** — specific Morse calculations and reassessment scenarios not confirmed. Existing teaching video below is separate. [Question bank](../MCQs/04A-Fall-Risk-and-Prevention-24-MCQs.md).
 <!-- /job4-metadata -->
 
-Fall ka meaning unplanned descent to floor ya lower level hai, injury ho ya na ho. Admission par assess karo aur change in condition, medicine, ward transfer ya fall ke baad reassess karo. Previous fall, weak gait, unfamiliar surroundings, impaired vision, postural dizziness, sedating medicines, urgent toileting and cognition important factors hain. Score clinical judgment replace nahi karta.
+Fall ka matlab hai ki patient bina planning ke floor ya kisi neeche ke level par gir jaata hai. Agar injury nahi bhi hui, tab bhi ise fall maana jaata hai. Jab patient admit hota hai, tab nurse uske girne ka risk assess karti hai. Agar patient ki condition ya medicine badalti hai, ward transfer hota hai ya patient gir jaata hai, toh nurse risk dobara assess karti hai. Pehle gir chuka patient, chalne mein kamzori, anjaan room, kam dikhna, khade hote hi chakkar aana, neend laane wali medicines, jaldi toilet jaane ki zarurat aur sochne ya samajhne mein dikkat jaise factors risk badha sakte hain. Risk score nurse ki clinical judgment ko support karta hai, lekin patient ko dekhkar liye gaye decision ki jagah nahi leta.
 
-Morse Fall Scale commonly used adult inpatient tool hai. Example item weights:
+Morse Fall Scale ek tool hai jise hospital mein admitted adult patients ka fall risk assess karne ke liye aam taur par use kiya jaata hai. Ismein alag-alag risk factors ke points jodkar score nikala jaata hai. Neeche kuch example item weights diye gaye hain:
 
 | Factor | Example scores |
 |---|---|
@@ -25,7 +25,7 @@ Morse Fall Scale commonly used adult inpatient tool hai. Example item weights:
 | Gait | Impaired 20, weak 10, normal or bed rest 0 |
 | Awareness of mobility limitations | Overestimates or forgets 15, recognizes limitations 0 |
 
-Example: 25 + 15 + 15 + 20 + 10 + 0 = 85. Local validated tool version and cutoff follow karo. Different settings use different thresholds. Mental status item orientation to one's mobility ability assess karta hai, date recall alone nahi.
+Example: 25 + 15 + 15 + 20 + 10 + 0 = 85. Is patient ka total score 85 aata hai. Nurse apni facility mein validated tool ke version aur uske cutoff ke hisaab se score interpret karti hai, kyunki har setting mein threshold same nahi hota. Mental status wale item mein nurse dekhti hai ki patient apni chalne ki limitations ko samajhta hai ya apni ability ko zarurat se zyada maanta hai. Sirf aaj ki date sahi bata dene se yeh item decide nahi hota.
 
 [MCQ Q1–4](../MCQs/04A-Fall-Risk-and-Prevention-24-MCQs.md).
 
@@ -39,7 +39,7 @@ Example: 25 + 15 + 15 + 20 + 10 + 0 = 85. Local validated tool version and cutof
 **YouTube MCQ practice: verification pending** — the general patient-safety session below remains supplementary.
 <!-- /job4-metadata -->
 
-🟠 HIGH YIELD. Universal precautions mein uncluttered floor, appropriate lighting, safe bed position and brakes, reachable call bell, personal items, suitable footwear aur orientation include hote hain. Individual plan mein actual risk ka matching intervention add karo. Urgency ho toh timely assisted toileting, visual impairment ho toh consistent room layout, dizziness ho toh symptom assessment before mobility, weakness ho toh trained assistance and prescribed aid. Patient and family ko plan samjhao, teach-back use karo.
+🟠 HIGH YIELD. Universal precautions woh basic safety measures hain jo har patient ke liye useful hote hain. Nurse floor se rukawat hataati hai, roshni theek rakhti hai, bed ko safe position mein rakhkar brakes lagati hai aur call bell aur zaruri samaan patient ki reach mein rakhti hai. Nurse suitable footwear aur room ki orientation bhi ensure karti hai. Ab individual plan mein patient ke actual risk ke hisaab se extra help add hoti hai. Agar patient ko baar-baar jaldi toilet jaana padta hai, toh nurse samay par assisted toileting arrange karti hai. Agar patient ko kam dikhta hai, toh room ka layout consistent rakha jaata hai. Agar patient ko chakkar aata hai, toh chalne se pehle symptoms assess kiye jaate hain. Kamzori hone par trained staff aur prescribed walking aid ki madad li jaati hai. Nurse patient aur family ko plan samjhati hai aur teach-back se check karti hai ki woh apne shabdon mein sahi safety steps bata pa rahe hain.
 
 ```mermaid
 flowchart TD
@@ -50,7 +50,7 @@ flowchart TD
  E --> B
 ```
 
-Alarms, wristbands aur scores alone falls prevent nahi karte. Staff response aur tailored care essential hai. Side rails patient-specific benefit and hazards assess karke use karo, routine all-rail restriction ya sedation falls prevent karne ke liye appropriate nahi. Rail climbing se injury risk badh sakta hai. Restraint policy separate topic hai.
+Alarm staff ko alert karta hai, wristband risk ki pehchan mein madad karta hai aur score assessment ko organize karta hai. Lekin in teenon se apne aap fall nahi rukta. Staff ka samay par response dena aur patient ke hisaab se care dena zaruri hai. Nurse side rails use karne se pehle patient ke liye unka benefit aur hazard assess karti hai. Har patient ke saare rails utha dena ya routine sedation dena safe fall prevention nahi hai. Agar patient rail ke upar se utarne ki koshish karta hai, toh usse aur zyada injury ho sakti hai. Restraint ki policy aur indications ko alag topic mein samjhenge.
 
 [MCQ Q5–15](../MCQs/04A-Fall-Risk-and-Prevention-24-MCQs.md).
 
@@ -62,7 +62,7 @@ Alarms, wristbands aur scores alone falls prevent nahi karte. Staff response aur
 **YouTube MCQ practice: verification pending** — dedicated post-fall assessment and injury escalation question coverage not established. [Related question bank](../MCQs/04A-Fall-Risk-and-Prevention-24-MCQs.md).
 <!-- /job4-metadata -->
 
-🔴 MOST IMPORTANT. Immediate safety and responsiveness, breathing and circulation assess karo, urgent help as indicated. Suspected head/spinal injury, severe pain, deformity or neurological changes mein unnecessary movement avoid karo and local emergency protocol follow karo. Anticoagulant patient with head impact needs prompt clinical assessment even if initially well. Injury absent lagne par bhi relevant observations and escalation follow karo. Objective event details, care, response and monitoring document karo. Incident report local procedure se complete karo, plan revise karo and team ko communicate karo.
+🔴 MOST IMPORTANT. Jab patient gir jaata hai, toh nurse sabse pehle surroundings ki safety dekhti hai aur patient ki responsiveness, breathing aur circulation assess karti hai. Zarurat ke hisaab se urgent help bulayi jaati hai. Agar head ya spinal injury ka doubt ho, severe pain ho, body part ki shape badli ho ya neurological changes dikh rahe hon, toh unnecessary movement se bacha jaata hai aur local emergency protocol follow kiya jaata hai. Agar anticoagulant medicine lene wale patient ke sir par chot lagi hai, toh shuru mein theek dikhne par bhi prompt clinical assessment chahiye, kyunki bleeding baad mein bhi nazar aa sakti hai. Injury turant nazar na aaye tab bhi relevant observations aur escalation zaruri hain. Nurse event ki objective details, di gayi care, patient ka response aur monitoring record karti hai. Uske baad local procedure ke mutabik incident report complete karti hai, fall prevention plan revise karti hai aur team ko changes batati hai.
 
 [MCQ Q16–20](../MCQs/04A-Fall-Risk-and-Prevention-24-MCQs.md).
 
@@ -74,7 +74,7 @@ Alarms, wristbands aur scores alone falls prevent nahi karte. Staff response aur
 **YouTube MCQ practice: verification pending** — fall-rate calculations and rehabilitation safety scenarios not confirmed. [Related question bank](../MCQs/04A-Fall-Risk-and-Prevention-24-MCQs.md).
 <!-- /job4-metadata -->
 
-Fall rate per 1,000 patient-days = number of falls / patient-days × 1,000. Example 6 falls in 2,000 patient-days = 3. Rate compare karte time population and reporting differences consider karo. Score completed hona care delivered hone ka proof nahi. Patient-specific intervention implementation audit karo. Supervised mobility and rehab function preserve karte hain, unnecessary bed rest deconditioning badha sakta hai.
+Fall rate per 1,000 patient-days = number of falls / patient-days × 1,000. Patient-days ka matlab hai ki sabhi admitted patients ke hospital mein rehne ke din jode jaate hain. Example: agar 2,000 patient-days mein 6 falls hue, toh 6 / 2,000 × 1,000 = 3 falls per 1,000 patient-days hoga. Do wards ke rates compare karte samay patient population aur reporting ke differences ko dhyan mein rakhna chahiye. Sirf risk score complete karna is baat ka proof nahi hai ki patient ko safety care bhi mili. Nurse aur quality team check karte hain ki patient-specific interventions sach mein implement hue ya nahi. Supervised mobility aur rehabilitation patient ki function aur strength preserve karne mein madad karte hain. Bina zarurat bed rest dene se muscles kamzor ho sakti hain aur deconditioning, yaani physical capacity kam hone ki problem, badh sakti hai.
 
 [MCQ Q21–24](../MCQs/04A-Fall-Risk-and-Prevention-24-MCQs.md).
 

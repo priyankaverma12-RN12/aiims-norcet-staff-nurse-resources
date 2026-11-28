@@ -22,7 +22,9 @@
 **🎬 [Teaching — Therapeutic communication and nurse–patient relationship](https://www.youtube.com/watch?v=JAB2nyI-8Ds)** · YourMindGuru title/metadata indexed; playback pending.
 <!-- /job4-metadata -->
 
-Therapeutic communication ka purpose patient ko support karna, accurate information samajhna aur patient ko care decisions mein participate karana hai. Sirf friendly baat karna enough nahi hai. Nurse patient ki concern sun kar relevant response, privacy and safe care ensure karti hai. Sender message bhejta hai, receiver uska meaning interpret karta hai, feedback se meaning confirm hota hai. Noise, language, sensory impairment, pain, fear and assumptions barriers ho sakte hain.
+Therapeutic communication ka matlab hai patient se aise baat karna jisse uski takleef samajh aaye, use emotional support mile aur woh apni care ke decisions mein participate kar sake. Sirf friendly baat karna kaafi nahi hai. Nurse dhyan se sunti hai, relevant questions poochti hai, privacy ka respect karti hai aur patient ko safe care samjhati hai.
+
+Communication mein ek person message bhejta hai aur doosra uska meaning samajhta hai. Feedback se pata chalta hai ki message sahi samjha gaya ya nahi. Maan lo nurse medicine ka time batati hai, lekin patient language barrier ki wajah se confuse ho jaata hai. Nurse ko ye check karna chahiye ki patient ne actually kya samjha. Noise, language difference, hearing ya vision ki dikkat, pain, fear aur pehle se bani assumptions communication mein rukawat ban sakti hain.
 
 ```mermaid
 flowchart LR
@@ -35,17 +37,17 @@ flowchart LR
 
 | Technique | Simple meaning and example |
 |---|---|
-| Open-ended question | Patient ko explain karne ka space. What is worrying you most? |
-| Focused closed question | Specific fact quickly clarify karna, especially urgent situation. Is the pain new? |
-| Reflection | Feeling ko gently reflect karna. You sound worried about going home. |
-| Clarification | Unclear message confirm karna. What do you mean by feeling weak? |
-| Focusing | Patient ki main concern identify karke explore karna |
-| Offering self | Appropriate presence. I can sit with you while we discuss this. |
-| Silence | Patient ko think and express karne ka time |
-| Summarizing | Key points and agreed plan review, corrections invite |
-| Empathy | Patient ki experience and emotion understand karne ki effort, without claiming exact same experience |
+| Open-ended question | Nurse aisa question poochti hai jisme patient apni baat detail mein bata sake. Jaise, What is worrying you most? |
+| Focused closed question | Nurse ek specific fact jaldi clarify karti hai, khaaskar urgent assessment mein. Jaise, Is the pain new? |
+| Reflection | Nurse patient ki feeling ko gently reflect karti hai, taaki use lage ki uski baat samjhi gayi hai. Jaise, You sound worried about going home. |
+| Clarification | Jab patient ka message clear nahi hai, toh nurse uska actual meaning poochti hai. Jaise, What do you mean by feeling weak? |
+| Focusing | Nurse patient ki main concern identify karti hai aur usi par relevant questions poochkar baat ko aage badhati hai. |
+| Offering self | Nurse appropriate presence aur support offer karti hai. Jaise, I can sit with you while we discuss this. |
+| Silence | Nurse patient ko sochne aur apni baat kehne ka samay deti hai, bina har pause ko turant bharne ki koshish kiye. |
+| Summarizing | Nurse important points aur agreed plan dobara batati hai aur patient ko correction ya clarification ka mauka deti hai. |
+| Empathy | Nurse patient ki feelings aur experience samajhne ki koshish karti hai, bina ye claim kiye ki usne bilkul wahi experience khud kiya hai. |
 
-False reassurance, dismissive generalization, unsolicited personal advice, arguing, changing subject and judgmental labels communication block kar sakte hain. Closed questions automatically wrong nahi hote. Urgent targeted assessment mein useful ho sakte hain. A patient feeling scared does not need an unsupported guarantee. Acknowledge emotion and explain what is known, unknown and next action.
+False reassurance ka matlab hai patient ko aisi guarantee dena jiske liye nurse ke paas evidence nahi hai. Maan lo patient operation se dar raha hai. Sirf ye kehna ki sab kuch pakka theek hoga, uske concern ko address nahi karta. Nurse uski feeling acknowledge karti hai aur batati hai ki abhi kya pata hai, kya uncertain hai aur next step kya hoga. Patient ki baat dismiss karna, personal advice thopna, argue karna, topic badalna aur judgmental labels use karna communication ko block kar sakte hain. Closed questions har baar galat nahi hote. Jab urgent situation mein specific information jaldi chahiye, tab focused closed questions useful ho sakte hain.
 
 <a name="barriers-and-adaptation"></a>
 
@@ -65,7 +67,11 @@ False reassurance, dismissive generalization, unsolicited personal advice, argui
 **🎬 [Teaching — Therapeutic communication and nurse–patient relationship](https://www.youtube.com/watch?v=JAB2nyI-8Ds)** · YourMindGuru title/metadata indexed; playback pending.
 <!-- /job4-metadata -->
 
-Language barrier mein qualified interpreter arrange karo. Patient se directly baat karo, short segments use karo and understanding confirm karo. Do not depend on a child interpreter for complex or sensitive decisions. Hearing or visual difficulty mein preferred accessible method ask karo. Aphasia or temporary inability to speak does not automatically mean loss of decision-making capacity. Appropriate communication aid provide karo. Patient nods yes toh understanding assume mat karo. Teach-back: patient apne words mein next step explain kare, nurse clarity check kare. Complex teaching small chunks mein do. Cultural norms and nonverbal behavior context mein interpret karo, stereotypes avoid karo. Sensitive topics private space mein discuss karo and safeguarding if indicated. Remote communication secure approved method and reliable connection se.
+Jab patient aur nurse ki language alag ho, toh qualified interpreter arrange karna chahiye. Nurse interpreter ke through bhi patient se directly baat karti hai, information chhote parts mein deti hai aur understanding check karti hai. Complex ya sensitive care decisions ke liye kisi bachche ko interpreter banana appropriate nahi hai. Agar patient ko sunne ya dekhne mein dikkat hai, toh nurse usse poochti hai ki kaunsa accessible communication method use karna aasaan rahega.
+
+Aphasia ka matlab language ko samajhne ya express karne mein difficulty ho sakti hai. Patient bol nahi paa raha hai, iska matlab ye automatically nahi hai ki woh decision lene mein incapable hai. Nurse appropriate communication aid arrange karti hai. Patient sir hila kar haan bolta hai, toh understanding assume nahi karni chahiye. Teach-back mein nurse patient se apne words mein next step batane ko kehti hai, taaki nurse check kar sake ki uski teaching kitni clear thi. Complex information ko chhote parts mein samjhana useful hai.
+
+Nurse cultural norms aur nonverbal behavior ko patient ke context mein samajhti hai aur stereotypes se bachti hai. Sensitive baat private jagah par karni chahiye aur safeguarding concern ho toh appropriate action lena chahiye. Remote communication mein approved secure method aur reliable connection use karna chahiye.
 
 <a name="professional-relationship"></a>
 
@@ -85,7 +91,9 @@ Language barrier mein qualified interpreter arrange karo. Patient se directly ba
 **🎬 [Teaching — Therapeutic communication and nurse–patient relationship](https://www.youtube.com/watch?v=JAB2nyI-8Ds)** · YourMindGuru title/metadata indexed; playback pending.
 <!-- /job4-metadata -->
 
-Orientation: role, purpose, trust and confidentiality limits. Working: concerns explore, agreed strategies and goals practice. Termination: progress and ending feelings review, continuity arrange. Professional boundaries patient-centered relationship protect karti hain. Personal friendship or informal medical advice channel replace nahi karta. Respect informed choices, do not impose personal preferences. Patient participates according to abilities and consent.
+Professional nurse-patient relationship ke orientation phase mein nurse apna role aur care ka purpose samjhati hai, trust develop karti hai aur confidentiality ki limits batati hai. Working phase mein nurse patient ki concerns explore karti hai aur agreed goals aur strategies par kaam karti hai. Termination phase mein nurse progress aur relationship khatam hone se judi feelings review karti hai aur zaroorat par continuity of care arrange karti hai.
+
+Professional boundaries ka purpose patient-centered relationship ko protect karna hai. Nurse ka role personal friendship ya informal medical advice channel nahi hai. Nurse apni preferences patient par impose nahi karti aur uske informed decisions ka respect karti hai. Patient apni abilities aur consent ke hisaab se care mein participate karta hai.
 
 <a name="sources-and-resources"></a>
 

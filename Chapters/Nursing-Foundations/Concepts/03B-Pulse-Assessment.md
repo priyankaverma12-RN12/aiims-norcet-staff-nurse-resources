@@ -4,7 +4,9 @@
 
 **Topic priority:** 🟠 HIGH YIELD · **Study-ready, not studied.** [27 new questions](../MCQs/03B-Pulse-Assessment-27-MCQs.md) + earlier group 03 Q4,5,16 = 30 allocated. No reused questions counted as new.
 
-Pulse heartbeat se generated arterial pressure wave hai. Rate (beats/min), rhythm (regularity), amplitude (strength) and symmetry assess karo. Common resting adult reference 60–100/min, age, conditioning, medicines, illness, pain and activity affect interpretation. Patient baseline important hai. Slow rate alone athletic adult mein disease prove nahi karti, but slow pulse with dizziness, hypotension or altered alertness requires urgent review.
+Jab heart contract karke blood arteries mein pump karta hai, toh arterial wall mein pressure wave travel karti hai. Isi wave ko hum suitable artery par fingers se feel kar sakte hain aur ise pulse kehte hain. Pulse assess karte waqt nurse sirf number count nahi karti. Woh rate, yaani ek minute mein beats ki sankhya, rhythm, yaani beats kitni regular hain, amplitude, yaani pulse kitni strong feel hoti hai, aur symmetry, yaani dono sides par pulse comparable hai ya nahi, check karti hai.
+
+Resting adult mein 60–100 beats per minute commonly used reference range hai. Lekin age, fitness, medicines, fever, illness, pain aur activity se pulse rate change ho sakti hai. Maan lo trained athlete ki resting pulse slow hai aur use koi symptom nahi hai. Sirf slow rate se disease confirm nahi hoti. Lekin slow pulse ke saath dizziness, low BP ya altered alertness ho, toh urgent clinical review zaroori hai. Patient ke usual baseline aur current symptoms ko saath mein samjho.
 
 <a name="sites-and-methods"></a>
 
@@ -18,16 +20,16 @@ Pulse heartbeat se generated arterial pressure wave hai. Rate (beats/min), rhyth
 
 | Site | Landmark |
 |---|---|
-| Radial | Thumb side wrist |
-| Brachial | Medial upper arm / near antecubital region |
-| Carotid | Side of neck, gently one side at a time when indicated |
-| Femoral | Groin region |
-| Popliteal | Behind knee |
-| Posterior tibial | Behind and below medial malleolus |
-| Dorsalis pedis | Dorsum of foot |
-| Apical | Usual adult left fifth intercostal space near midclavicular line |
+| Radial | Wrist ke thumb wali side par radial artery palpate ki jaati hai. |
+| Brachial | Upper arm ke medial side par, elbow ke antecubital region ke paas, brachial pulse locate ki ja sakti hai. |
+| Carotid | Neck ke side par carotid pulse feel ki jaati hai. Jab indicated ho, tab gently ek time par sirf ek side assess karni chahiye. |
+| Femoral | Groin region mein femoral artery ki pulse assess ki ja sakti hai. |
+| Popliteal | Knee ke peeche popliteal artery locate ki jaati hai. |
+| Posterior tibial | Ankle ke medial malleolus ke peeche aur thoda neeche posterior tibial pulse feel ki ja sakti hai. |
+| Dorsalis pedis | Foot ki upper surface, yaani dorsum, par dorsalis pedis pulse locate ki jaati hai. |
+| Apical | Adult mein apical heart rate usually left fifth intercostal space mein midclavicular line ke paas stethoscope se assess ki jaati hai. |
 
-Use index and middle fingers, not thumb own pulsation. Stable regular rate may be counted 30 seconds × 2 per policy. Irregular pulse count full minute, appropriate apical and rhythm evaluation as indicated. Infant routine HR generally apical auscultation for full minute. S1-S2 pair one beat. Apical impulse palpation and apical rate auscultation related but distinct. Anatomy varies.
+Peripheral pulse palpate karne ke liye nurse index aur middle fingers use karti hai. Thumb use karne se apni khud ki pulse feel ho sakti hai aur confusion ho sakta hai. Stable patient mein regular pulse ko facility policy permit kare toh 30 seconds count karke do se multiply kar sakte hain. Agar rhythm irregular ho, toh full minute count karo aur indicated apical rate ya rhythm evaluation arrange karo. Infant ka routine heart rate generally apical auscultation se full minute count kiya jaata hai. Heart sounds mein S1 aur S2 ka ek pair ek heartbeat represent karta hai. Apical impulse ko palpate karna aur apical heart rate ko stethoscope se sunna related lekin alag assessments hain. Patient ki anatomy mein variation ho sakti hai.
 
 ```mermaid
 flowchart TD
@@ -38,9 +40,11 @@ flowchart TD
  D --> F[If abnormal verify and escalate as indicated]
 ```
 
-Pulse deficit = simultaneous apical minus radial rate, ideally two observers for full minute. Some cardiac contractions may not generate palpable peripheral pulses. Common amplitude 0 absent, 1+ weak, 2+ expected, 3+ increased, 4+ bounding, local scales vary. Regular rhythm does not prove good amplitude. Thready/weak pulse may suggest poor perfusion but not diagnostic alone. Compare limbs, assess color, warmth, sensation, movement and clinical signs. New asymmetric or absent pulse especially after procedure needs prompt review. Doppler detection differs from palpable pulse, document method. A detected signal does not guarantee adequate tissue perfusion.
+Pulse deficit ka matlab simultaneously measured apical heart rate aur radial pulse rate ke beech difference hai. Kabhi heart contract karta hai lekin contraction se itni effective arterial wave generate nahi hoti ki wrist par pulse feel ho sake. Ideally do observers ek hi samay full minute ke liye apical aur radial rate count karte hain. Phir apical rate mein se radial rate subtract karte hain. Maan lo apical rate 90 hai aur radial rate 82 hai. Pulse deficit 8 beats per minute hoga.
 
-Pulsus alternans alternating amplitude with regular rhythm. Pulsus paradoxus exaggerated inspiratory systolic pressure decrease conventionally >10 mmHg, not reversal of arterial flow. Clinical context and appropriate measurement required. These terms support examination vocabulary, advanced differential diagnosis assigned to cardiovascular chapter.
+Pulse amplitude ke liye commonly 0 ka matlab absent, 1+ weak, 2+ expected, 3+ increased aur 4+ bounding hota hai. Local grading scale alag ho sakti hai. Regular rhythm hone se pulse ki strength automatically normal nahi ho jaati. Thready ya weak pulse poor perfusion ka clue ho sakti hai, lekin sirf isi finding se diagnosis confirm nahi hota. Nurse dono limbs compare karti hai aur skin colour, warmth, sensation, movement aur doosre clinical findings assess karti hai. Procedure ke baad nayi asymmetric ya absent pulse milne par prompt review zaroori hai. Agar Doppler se signal detect hota hai, toh method clearly document karo. Doppler signal aur palpable pulse alag findings hain aur detected signal se adequate tissue perfusion automatically prove nahi hoti.
+
+Pulsus alternans mein rhythm regular ho sakti hai, lekin ek pulse strong aur next pulse weak feel hoti hai. Pulsus paradoxus mein inspiration, yaani saans andar lene ke dauran, systolic BP ki fall unusually zyada hoti hai. Conventionally ye fall 10 mmHg se zyada hoti hai. Iska matlab arterial blood flow reverse hona nahi hai. Dono terms ko appropriate measurement aur clinical context ke saath interpret karna chahiye. Ye examination vocabulary ke liye important hain. Inke advanced causes aur differential diagnosis cardiovascular chapter mein detail se padhe jaayenge.
 
 <a name="nursing-judgment"></a>
 
@@ -50,7 +54,9 @@ Pulsus alternans alternating amplitude with regular rhythm. Pulsus paradoxus exa
 **▶️ YouTube MCQ practice:** [Vital-signs practice resources](#sources-and-video-practice) cover pulse abnormalities and influencing factors at topic level. Dedicated vascular and emergency escalation scenarios remain unverified. [Related practice bank](../MCQs/03B-Pulse-Assessment-27-MCQs.md).
 <!-- /job4-metadata -->
 
-Record activity, timing, site, rate, rhythm, amplitude and relevant symptoms. Compare baseline and trend. Medicines and fever may alter rate. New symptomatic rate change, weak pulses with clammy skin or altered alertness, or acute unilateral neurovascular changes require prompt assessment and escalation. Monitor electrical activity and mechanical perfusing beats can differ. Check actual patient and device signal, seek ECG evaluation as indicated.
+Pulse document karte waqt nurse batati hai ki patient kis activity ya position mein tha, reading kis time aur kis site par li gayi, rate kya thi, rhythm aur amplitude kaisi thi aur relevant symptoms kya the. Usual baseline aur previous readings se compare karne par change ki direction samajh aati hai. Medicines aur fever bhi rate affect kar sakte hain.
+
+Agar patient mein nayi symptomatic rate change, weak pulse ke saath clammy skin ya altered alertness, ya ek limb mein sudden neurovascular change milta hai, toh prompt assessment aur escalation chahiye. Monitor par electrical heart rate aur actually perfusing mechanical beats ki sankhya alag ho sakti hai. Isliye nurse patient ko directly assess karti hai, device signal check karti hai aur indicated ECG evaluation arrange karti hai.
 
 <a name="sources-and-video-practice"></a>
 

@@ -1,6 +1,6 @@
 # Communication, documentation and handover — historical evidence
 
-Reported third-party question pages, independent adaptations. Not official key authentication. No automatic count increase until comparison with previous 34 reported adaptations.
+Yahan third-party question reports se independently adapted practice questions diye gaye hain. Inhe authenticated official answer keys nahi maana gaya hai. Pehle se listed 34 reported adaptations ke saath comparison complete hone tak in questions ko total count mein automatically add nahi kiya jaayega.
 
 <a name="nvs-staff-nurse-september-2019--retrieved-report"></a>
 
@@ -19,19 +19,19 @@ Which response pattern helps a patient explore feelings and clarify meaning?
 
 <details><summary>Answer</summary>
 
-**B.** Reflecting and clarifying help understanding. Other responses can block expression. Closed-ended questions are not universally forbidden and can be useful for urgent focused data. [Retrieved report](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe).
+**B.** Reflection se nurse patient ki feeling samajhne ki koshish karti hai aur clarification se unclear baat ka meaning verify karti hai. Doosre responses patient ko apni feelings batane se rok sakte hain. Urgent focused assessment mein closed-ended questions bhi useful ho sakte hain. [Retrieved report](https://testbook.com/question-answer/which-of-the-following-responses-isare-not-forb--61e15d80e44ce4e754c97dfe).
 
 <!-- job5-rationale -->
-Therapeutic communication mein nurse patient ko apna experience aur feelings explore karne ka safe space deti hai. Reflection ka matlab patient ki expressed emotion ko gently acknowledge karna hai, jaise patient worried hai toh nurse keh sakti hai ki aapko is situation se anxiety ho rahi lagti hai. Clarification unclear words ka meaning verify karti hai, jaise weakness se patient ka matlab fatigue hai ya dizziness. Dono techniques se nurse assumption kam karti hai aur patient ko correction ya elaboration ka chance deti hai. Closed-ended questions bhi focused clinical assessment mein useful ho sakte hain, isliye har closed question ko forbidden mat samjho.
+Therapeutic communication mein nurse patient ko aisa safe environment deti hai jahan woh apni feelings aur experience openly bata sake. Reflection ka matlab hai ki nurse patient ki expressed feeling ko gently acknowledge karti hai. Maan lo patient kisi treatment se worried hai. Nurse keh sakti hai ki aapko is treatment ke baare mein kaafi chinta ho rahi hai, kya maine sahi samjha? Clarification mein nurse kisi unclear word ka actual meaning poochti hai. Jaise patient weakness batata hai, toh nurse pooch sakti hai ki use thakaan, chakkar ya koi aur difficulty ho rahi hai. Dono techniques assumptions kam karti hain aur patient ko apni baat clarify karne ka mauka deti hain. Closed-ended questions bhi focused urgent assessment mein useful ho sakte hain, isliye unhe har situation mein nontherapeutic nahi maanna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A arguing aur blame se patient defensive ho sakta hai aur concern share karna band kar sakta hai.
-- **B:** B reflection feelings acknowledge karti hai aur clarification meaning verify karti hai, dono therapeutic hain.
-- **C:** C unsolicited personal advice patient ki independent decision-making aur actual concern explore karne ko limit kar sakti hai. Clinically appropriate education alag cheez hai.
-- **D:** D uncomfortable topic change karne se important emotional concern unaddressed reh sakta hai.
+- **A:** Patient se argue karna aur use blame karna usse defensive ya uncomfortable bana sakta hai. Isse woh apni actual concern batana band kar sakta hai.
+- **B:** Reflection se patient ki feeling acknowledge hoti hai aur clarification se unclear statement ka meaning verify hota hai. Dono techniques patient ko apna experience explore karne mein help karti hain. Isliye B sahi hai.
+- **C:** Bina patient ki concern samjhe personal advice dene se uski independent decision-making aur apni feelings explore karne ka mauka kam ho sakta hai. Relevant clinical education dena isse alag cheez hai.
+- **D:** Jab bhi uncomfortable topic aaye aur nurse baat badal de, toh patient ki important emotional concern unresolved reh sakti hai. Nurse ko appropriate support ke saath uski baat sunni chahiye.
 
-**Exam clue:** Reflect feeling, clarify meaning. Advice dene se pehle concern samjho.
+**Exam clue:** Patient ki feeling ko reflect karo aur unclear words ka meaning clarify karo. Advice dene se pehle uski actual concern samjho.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610828/table/ptii.tab1/)
 <!-- /job5-rationale -->
@@ -63,19 +63,19 @@ An audit shows important nursing records are repeatedly incomplete. What should 
 
 <details><summary>Answer</summary>
 
-**A.** Missing entries may indicate inconsistency in documentation standards or system barriers. Investigate evidence and improve practice. Others undermine traceability. [Question-level indexed source](https://testbook.com/question-answer/during-a-quality-assurance-review-incomplete-nurs--69df436f10b5dd8cb689e310). Full page and official key not independently opened.
+**A.** Missing entries se pata chal sakta hai ki documentation standards consistently follow nahi ho rahe hain ya workflow mein koi problem hai. Administrator ko evidence check karke practice improve karni chahiye. Doosre options record ki traceability ko compromise karte hain. [Question-level indexed source](https://testbook.com/question-answer/during-a-quality-assurance-review-incomplete-nurs--69df436f10b5dd8cb689e310). Full page and official key not independently opened.
 
 <!-- job5-rationale -->
-Incomplete nursing records se receiving team ko patient ki current condition, interventions, response ya pending tasks ka reliable picture nahi mil sakta. Nursing administrator ko actual record sample, documentation requirements, workflow, staffing, training aur EHR barriers compare karne chahiye. Pehle gap ki nature aur patient safety impact samjho, phir targeted education ya system correction aur re-audit plan karo. Unrecorded action ko automatically completed ya absent assume mat karo. Missing data ko authorized transparent late-entry procedure ke through hi correct karna hai, speculation se nahi.
+Agar nursing records baar-baar incomplete milte hain, toh problem sirf writing ki nahi hai. Next nurse ko patient ki current condition, diya gaya treatment, patient ka actual response aur pending tasks samajhne mein difficulty ho sakti hai. Nursing administrator actual record samples ko facility ke written documentation standards aur practical workflow ke saath compare karta hai. Woh check karta hai ki staffing, training, unclear requirements ya electronic health record system ki difficulty se entries miss toh nahi ho rahi hain. Gap aur patient safety impact samajhne ke baad targeted education ya system improvement arrange ki ja sakti hai. Dobara audit karke check karna chahiye ki improvement actually hua hai ya nahi. Agar koi action record nahi hua hai, toh use automatically completed ya absent assume nahi karna chahiye. Verified missing details ko facility ke authorized transparent late-entry process se correct karna chahiye, guess karke nahi.
 
 **Option-by-option reasoning**
 
-- **A:** A documentation standard aur actual workflow dono investigate karta hai. Isse individual aur system causes identify ho sakte hain.
-- **B:** B oral handover useful hai lekin permanent clinical record aur accountability replace nahi kar sakta.
-- **C:** C missing data ko normal assume karna deterioration miss kar sakta hai aur record inaccurate banata hai.
-- **D:** D errors conceal karne se root cause aur safety improvement opportunities lose hoti hain.
+- **A:** Written standards aur actual workflow dono investigate karne se pata lag sakta hai ki staff ko requirement clear nahi hai ya system mein koi practical barrier hai. Isliye A problem ke cause ko identify karne ka best initial approach hai.
+- **B:** Oral handover se important information communicate ho sakti hai, lekin ye required permanent clinical record aur traceable accountability ka substitute nahi hai.
+- **C:** Missing data ka matlab finding normal thi, aisa nahi hota. Bina assessment ya documentation ke normal assume karne se deterioration miss ho sakti hai aur record inaccurate ho sakta hai.
+- **D:** Errors chhupane se team unke causes identify nahi kar paayegi. Honest quality review se future safety improve karne ke opportunities milti hain.
 
-**Exam clue:** Audit gap → verify standard and workflow → correct safely → re-audit.
+**Exam clue:** Audit mein missing record mile toh pehle standards aur workflow compare karke cause samjho. Phir safe correction karo aur dobara audit se improvement check karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/4-2-data-collection-and-documentation)
 <!-- /job5-rationale -->

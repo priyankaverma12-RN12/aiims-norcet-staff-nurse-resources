@@ -21,16 +21,16 @@
 **Correct answer: A. Clarify the discrepancy and verify measurement conditions**
 
 <!-- job5-rationale -->
-Assessment validation ka matlab conflicting information ko check karke accurate clinical picture banana hai. Patient ne 5 kg loss bataya aur record mein 1 kg hai. Ho sakta hai patient alag time period ya home scale ki baat kar raha ho. Nurse dates, scale calibration, clothes, weighing conditions aur previous baseline clarify kare. Zaroorat par standardized reweighing kare aur dono sources ko accurately document kare. Bina verify kiye weight loss ki severity decide karna care planning ko galat direction de sakta hai.
+Assessment validation ka matlab hai ki nurse information ko verify karti hai, taaki patient ki condition ki sahi picture mil sake. Yahan patient kehta hai ki uska weight 5 kg kam hua hai, lekin record mein sirf 1 kg ka difference hai. Ho sakta hai dono weights alag dates par ya alag machines se liye gaye hon. Nurse patient se poochti hai ki usne apna weight kab aur kahan measure kiya tha. Woh scale ki accuracy, clothes, weighing conditions aur purana baseline check karti hai. Zaroorat padne par same standardized conditions mein dobara weight leti hai. Dono sources ki information aur jo difference abhi resolve nahi hua hai, use accurately document karti hai. Bina verification weight loss ki severity decide karne se care plan galat ban sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** A discrepancy ko investigate karta hai, isliye correct hai.
-- **B:** B patient ke experience ko bina check kiye reject karta hai. Record bhi inaccurate ho sakta hai.
-- **C:** C average karna mathematically possible hai lekin dono values same observation nahi hain. Isse fake estimate banega.
-- **D:** D larger value ko confirmed kehna evidence se supported nahi hai.
+- **A:** Dono values ke beech difference ka reason samajhna zaroori hai. Dates, machine aur weighing conditions check karne se nurse pata laga sakti hai ki readings comparable hain ya nahi. Isliye A sahi hai.
+- **B:** Patient ki baat subjective information hai, lekin iska matlab ye nahi hai ki woh galat hai. Recorded measurement mein bhi error ho sakta hai. Isliye patient ki report ko bina check kiye reject karna sahi nahi hai.
+- **C:** Dono values ka average nikalne se 3 kg aa sakta hai, lekin ye actual verified weight loss nahi hoga. Agar dono readings alag time periods ki hain, toh average ka clinical meaning bhi nahi hoga.
+- **D:** Badi value ko confirmed likhne se risk ko seriously lene ka impression mil sakta hai, lekin ye evidence ke bina confirmation hoga. Nurse concern ko investigate aur document kare, value invent ya confirm na kare.
 
-**Exam clue:** Conflict = clarify, validate, document.
+**Exam clue:** Jab patient ki baat aur record match na karein, toh pehle difference clarify karo, measurements verify karo aur actual findings document karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -59,16 +59,16 @@ Assessment validation ka matlab conflicting information ko check karke accurate 
 **Correct answer: D. Comprehensive initial assessment including physical, functional and psychosocial needs**
 
 <!-- job5-rationale -->
-Comprehensive assessment mein patient ki present health, previous history, medicines, allergies, physical condition, daily activities, emotional state aur social support samjhe jaate hain. Chronic illness ka naam jaan lena kaafi nahi hai. Do patients with same illness ki mobility aur self-care needs alag ho sakti hain. Stable admission mein broad baseline later changes ko identify karne aur individualized plan banane mein help karta hai.
+Comprehensive initial assessment mein nurse patient ki poori condition ko samajhne ki koshish karti hai. Woh present illness, purani history, medicines, allergies, physical findings, daily activities, emotional condition aur social support ke baare mein information leti hai. Maan lo do patients ko ek hi chronic illness hai. Ek patient khud nahaa aur chal sakta hai, jabki doosre ko daily care mein madad chahiye. Sirf disease ka naam jaanne se dono ke liye same plan banana sahi nahi hoga. Stable admission par broad assessment se baseline milta hai. Baseline ka matlab hai patient ki shuru ki condition, jisse baad ke changes compare kiye ja sakte hain.
 
 **Option-by-option reasoning**
 
-- **A:** A ek specific symptom ke liye useful hai par full baseline missing rahega.
-- **B:** B discharge criteria future readiness se related hain, initial needs identify nahi karte.
-- **C:** C disease labels se patient ki actual function, concerns aur preferences pata nahi chalti.
-- **D:** D physical, functional aur psychosocial assessment cover karta hai, isliye correct hai.
+- **A:** Focused assessment ek specific symptom ko detail mein samajhne ke liye useful hota hai. Lekin stable new admission par sirf ek symptom check karne se patient ki doosri physical, functional aur emotional needs miss ho sakti hain.
+- **B:** Discharge criteria se pata chalta hai ki patient ko discharge karne ke liye kaunse conditions meet hone chahiye. Ye initial admission par patient ki overall needs jaanne ka substitute nahi hai.
+- **C:** Medical diagnoses ki list se diseases ka pata chalta hai, lekin patient ki current ability, concerns, preferences aur daily needs ka poora pata nahi chalta. Patient interview aur assessment bhi zaroori hain.
+- **D:** Comprehensive initial assessment physical condition, daily activities aur psychosocial needs sab cover karta hai. Isse patient-specific care plan banane aur later changes compare karne mein madad milti hai. Isliye D sahi hai.
 
-**Exam clue:** Stable new admission = comprehensive baseline. Emergency mein rapid assessment first.
+**Exam clue:** Stable new admission mein broad baseline assessment useful hota hai. Emergency mein life-threatening problems ka rapid assessment pehle karna chahiye.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -97,16 +97,16 @@ Comprehensive assessment mein patient ki present health, previous history, medic
 **Correct answer: C. A focused assessment of the affected area, exposure history and associated symptoms**
 
 <!-- job5-rationale -->
-Focused assessment ek specific new concern par centered hota hai. Adhesive ke baad localized itching mein nurse skin inspect kare, timing, exposure aur symptoms pooche. Redness, swelling, blistering aur spreading reaction jaise findings check kare. Adhesive irritation aur allergy different possibilities hain, diagnosis assume nahi karna hai. Agar breathing difficulty, facial swelling ya systemic symptoms develop hon toh urgent escalation chahiye.
+Focused assessment ka matlab hai ki nurse kisi specific new problem ko detail mein check karti hai. Yahan patient stable hai aur naya adhesive use karne ke baad ek limited area mein khujli ho rahi hai. Nurse skin inspect karti hai aur poochti hai ki adhesive kab lagaya gaya tha aur khujli kab shuru hui. Woh redness, swelling, blisters aur reaction spread hone jaise signs check karti hai. Adhesive se irritation bhi ho sakti hai aur allergy bhi ho sakti hai, isliye assessment ke bina diagnosis confirm nahi karna chahiye. Agar breathing difficulty, face swelling ya systemic symptoms develop hote hain, toh urgent escalation zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** A examination ke bina allergy label confirm karta hai, jo unsupported hai.
-- **B:** B new complaint ko routine assessment tak postpone karta hai.
-- **C:** C affected area, exposure aur related symptoms ko assess karta hai, isliye best hai.
-- **D:** D entire admission history repeat karne se targeted inspection unnecessarily delay ho sakta hai.
+- **A:** Khujli ke kai possible causes ho sakte hain. Skin examine kiye bina allergy confirm karna evidence ke bina conclusion nikalna hoga.
+- **B:** Patient ne nayi complaint batayi hai. Routine assessment ka wait karne se reaction ko time par pehchaanne mein delay ho sakta hai.
+- **C:** Affected skin, adhesive exposure aur associated symptoms ko check karne se nurse isi nayi complaint ke baare mein relevant information collect karti hai. Isliye C focused assessment ka best example hai.
+- **D:** Poora admission history dobara lena kuch situations mein useful ho sakta hai, lekin yahan pehle specific skin complaint inspect karna zyada relevant hai. Unnecessary history se targeted assessment delay ho sakta hai.
 
-**Exam clue:** New specific stable complaint = focused assessment.
+**Exam clue:** Stable patient ki nayi specific complaint mein focused assessment consider karo. Agar urgent systemic signs milte hain, toh emergency response ko priority do.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -135,16 +135,16 @@ Focused assessment ek specific new concern par centered hota hai. Adhesive ke ba
 **Correct answer: B. Collect observed findings and corroborate history with authorized caregivers and records, identifying each source**
 
 <!-- job5-rationale -->
-Patient reliably history nahi de paa raha hai toh nurse available information se assessment start karti hai. Consciousness change khud urgent assessment ka reason ho sakta hai. Observed signs, vital signs, prior records aur authorized caregiver ki history compare karo. Har information ka source identify karo, jaise caregiver ke according baseline mobility. Patient stabilize hone par direct history se missing details validate karo.
+Agar patient limited consciousness ki wajah se reliable history nahi de paa raha hai, toh nurse available evidence se assessment shuru karti hai. Consciousness mein change khud urgent assessment ki wajah ho sakta hai. Nurse observed signs aur vital signs check karti hai aur purane records aur authorized caregivers se relevant history leti hai. Maan lo caregiver batata hai ki patient pehle independently chalta tha. Nurse record mein clearly batati hai ki ye information caregiver se mili hai. Jab patient stable ho jaaye aur reliably communicate kar sake, tab missing details ko direct history se verify kar sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A age se functional ability infer karta hai, jo stereotype ho sakta hai.
-- **B:** B observation aur corroboration dono use karta hai aur source clear rakhta hai.
-- **C:** C caregiver ki baat ko patient ka direct statement likhna inaccurate hai.
-- **D:** D blank assessment se available important clinical evidence miss ho sakta hai.
+- **A:** Age se patient ki previous functional ability automatically pata nahi chalti. Same age ke do patients ki mobility aur self-care ability alag ho sakti hai. Isliye age ke basis par assumption banana sahi nahi hai.
+- **B:** Observed findings ke saath authorized caregivers aur records se corroboration karne se nurse available history ko verify kar sakti hai. Har source clearly identify karne se record bhi accurate rehta hai. Isliye B sahi hai.
+- **C:** Caregiver ki report useful ho sakti hai, lekin woh patient ka direct statement nahi hai. Dono ko ek jaisa record karna information ke actual source ko galat dikhata hai.
+- **D:** Patient ke hosh mein aane tak assessment blank chhodne se available important findings miss ho sakti hain. Nurse jo objectively assess kar sakti hai, use abhi record kare.
 
-**Exam clue:** Primary source unavailable ho toh secondary sources use karo, attribution preserve karo.
+**Exam clue:** Jab patient direct history nahi de sakta, toh available observed data aur authorized secondary sources use karo. Har information ka source clearly record karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -173,16 +173,16 @@ Patient reliably history nahi de paa raha hai toh nurse available information se
 **Correct answer: D. A consistent cluster of relevant signs, reported symptoms and contributing factors**
 
 <!-- job5-rationale -->
-Nursing diagnosis patient ki response ko identify karti hai, sirf disease ka naam nahi. Nurse relevant symptoms, examination findings aur contributing factors ko cluster karke dekhti hai. For example, mobility difficulty ko weakness, pain aur observed transfer difficulty support kar sakte hain. Agar findings conflict karein toh further assessment karo. Ek isolated unrelated value ko diagnosis ka proof mat banao.
+Nursing diagnosis mein nurse ye identify karti hai ki health condition ki wajah se patient ko kya problem ya risk ho raha hai. Iske liye ek doosre se related signs, patient ke bataye symptoms aur contributing factors ko ek saath dekhna chahiye. Maan lo patient kehta hai ki use bed se chair par jaane mein dard hota hai. Nurse weakness aur transfer karne mein actual difficulty bhi observe karti hai. Ye findings milkar mobility-related concern ko support kar sakti hain. Agar findings ek doosre se match nahi karti hain, toh nurse further assessment karti hai. Kisi ek unrelated result se diagnosis confirm nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A unrelated lab result se particular nursing problem establish nahi hoti.
-- **B:** B room aur medical code individual response nahi explain karte.
-- **C:** C experience helpful hai par current patient evidence replace nahi kar sakta.
-- **D:** D relevant consistent cues aur contributing factors ko combine karta hai, isliye correct hai.
+- **A:** Unrelated abnormal lab value kisi alag health problem ka clue ho sakti hai. Lekin jab uska proposed nursing concern se relevant connection nahi hai, toh usse diagnosis establish nahi hota.
+- **B:** Room assignment aur medical diagnosis code administrative ya disease-related information dete hain. Inse patient ki actual functional response aur care needs establish nahi hoti hain.
+- **C:** Nurse ka previous experience possible problems pehchaanne mein madad karta hai. Lekin current patient ki assessment findings ke bina diagnosis banana unsupported assumption ho sakta hai.
+- **D:** Relevant signs, reported symptoms aur contributing factors ko ek saath dekhne se patient-specific nursing concern ke liye evidence milta hai. Isliye D sahi hai.
 
-**Exam clue:** Cluster of cues se hypothesis banao, phir validate karo.
+**Exam clue:** Related cues ko ek saath samjho, possible nursing concern identify karo aur zaroorat padne par further assessment se validate karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -213,16 +213,16 @@ Nursing diagnosis patient ki response ko identify karti hai, sirf disease ka naa
 **Correct answer: C. Identify an evidence-supported human response and appropriate contributing factors rather than relabeling the disease**
 
 <!-- job5-rationale -->
-Diabetes mellitus ek medical disease label hai. Excessive thirst yani polydipsia uska possible symptom hai, disease ka cause nahi. Nursing care plan mein patient ki actual response aur supporting assessment identify karni hai. Thirst, hydration, urine output aur other findings evaluate karne se suitable care concern clear ho sakta hai. Sirf symptom se dehydration confirmed mat maan lo. Evidence-supported problem aur contributing factor select karo.
+Diabetes mellitus ek medical diagnosis hai. Excessive thirst, jise polydipsia kehte hain, diabetes mein ho sakne wala symptom hai, diabetes ka cause nahi. Nursing diagnosis ka focus patient ki actual response aur nursing care needs par hona chahiye. Nurse patient ki thirst, hydration, urine output aur doosri relevant assessment findings check karti hai. In findings se suitable nursing concern identify ho sakta hai. Sirf zyada pyaas lagne se dehydration confirm nahi karna chahiye. Problem aur contributing factors ko available evidence ke according select karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A thirst ko intervention bana deta hai, jabki thirst patient ka symptom hai.
-- **B:** B har lab value add karna diagnosis ko precise nahi banata.
-- **C:** C medical label repeat karne ke bajay nursing response identify karta hai.
-- **D:** D longer disease name bhi medical diagnosis hi rahega.
+- **A:** Excessive thirst patient ka symptom hai. Intervention nurse ka planned care action hota hai, isliye thirst ko intervention ki jagah likhna sahi nahi hai.
+- **B:** Lab results tab useful hote hain jab woh patient ke concern se related hon. Har lab value diagnostic label mein add karne se nursing diagnosis automatically accurate nahi ban jaati.
+- **C:** Nursing diagnosis ko medical disease label repeat karne ki jagah patient ki evidence-supported response aur relevant contributing factors describe karne chahiye. Isliye C sahi hai.
+- **D:** Diabetes ka longer medical name likhne se bhi focus disease par hi rahega. Isse patient-specific nursing concern identify nahi hoga.
 
-**Exam clue:** Disease aur human response alag rakho. Symptom ko etiology mat samjho.
+**Exam clue:** Medical disease, patient ke symptoms aur nursing response ko alag samjho. Symptom ko disease ka cause maan kar diagnosis mat likho.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -253,16 +253,16 @@ Diabetes mellitus ek medical disease label hai. Excessive thirst yani polydipsia
 **Correct answer: B. Negotiate an achievable goal that reflects the patient's preference and current abilities**
 
 <!-- job5-rationale -->
-Patient-centered planning mein nurse aur patient milkar realistic goal set karte hain. Dressing independence patient ke liye meaningful functional goal hai. Nurse current strength, balance, pain, movement restrictions aur required help assess kare. Goal ko stages mein divide kar sakte hain, jaise safe seated dressing with minimal assistance. Isse patient ki preference aur safety dono maintain hoti hain.
+Patient-centered planning ka matlab hai ki nurse patient ke saath milkar meaningful aur achievable goal banati hai. Yahan patient khud apne kapde pehenna chahta hai, jo uske liye important daily activity hai. Nurse uski current strength, balance, pain, movement restrictions aur required assistance assess karti hai. Agar poori independence abhi safe nahi hai, toh goal ko chhote stages mein divide kiya ja sakta hai. Maan lo pehla goal safely baithkar minimal help ke saath kapde pehenna ho. Is tarah patient ki preference bhi respect hoti hai aur injury ka risk bhi consider kiya jaata hai.
 
 **Option-by-option reasoning**
 
-- **A:** A rehabilitation ka relevant goal remove karta hai.
-- **B:** B achievable shared goal develop karta hai, isliye correct hai.
-- **C:** C nurse ki preference impose karta hai aur patient participation miss karta hai.
-- **D:** D unsafe goal accept karna fall ya injury risk badha sakta hai.
+- **A:** Functional goals remove karne se patient ki meaningful daily activity aur rehabilitation needs address nahi hongi. Goal ko safe aur achievable banana zyada appropriate hai.
+- **B:** Patient ki preference aur current ability ko discuss karke shared goal banane se care meaningful bhi rehti hai aur safe bhi. Isliye B patient-centered planning ka best example hai.
+- **C:** Nurse ka goal bina discussion impose karne se patient ki preference aur care mein participation ignore ho sakti hai. Nurse ko patient ke saath milkar goal decide karna chahiye.
+- **D:** Patient ki choice important hai, lekin unsafe goal accept karne se fall ya injury ho sakti hai. Current ability aur safety restrictions ko bhi dhyan mein rakhna chahiye.
 
-**Exam clue:** Mutually agreed, achievable aur safe goals.
+**Exam clue:** Goal aisa hona chahiye jo patient aur nurse milkar agree karein, patient achieve kar sake aur uski safety maintain rahe.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -293,16 +293,16 @@ Patient-centered planning mein nurse aur patient milkar realistic goal set karte
 **Correct answer: A. Adequacy must be operationally defined using an individualized measurable target and timeframe**
 
 <!-- job5-rationale -->
-Adequate fluids ek vague outcome hai kyunki adequacy patient ki condition par depend karti hai. Nurse authorized fluid plan, restrictions, intake-output aur relevant clinical findings ke according measurable target define kare. Timeframe evening tak ho sakta hai, lekin exact review time aur units specify karne chahiye. Heart failure ya renal disease mein unrestricted fluids unsafe ho sakte hain. Fixed universal volume prescribe mat karo.
+Adequate fluids ka matlab har patient ke liye same amount nahi hota. Agar care plan mein sirf adequate fluids likha hai, toh shift ke end par nurse kaise decide karegi ki goal achieve hua ya nahi? Nurse patient ke authorized fluid plan, restrictions, intake-output aur relevant clinical findings ke hisaab se measurable target aur review time define karti hai. Evening tak ka target useful ho sakta hai, lekin units aur review time clear hone chahiye. Heart failure ya kidney disease wale kuch patients ko fluid restriction ki zaroorat ho sakti hai, isliye sabke liye ek fixed volume prescribe karna safe nahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** A measurable individualized goal aur timeframe define karta hai.
-- **B:** B nursing action aur patient outcome ko mix karta hai.
-- **C:** C timeframe ke bina progress objectively compare karna difficult hota hai.
-- **D:** D clinical fluid requirements aur restrictions ignore karta hai.
+- **A:** Individualized measurable target aur review time clear hone se nurse actual intake ko patient ke prescribed ya approved plan se compare kar sakti hai. Isliye A sahi hai.
+- **B:** Nursing activity nurse ka action batati hai. Outcome patient mein expected result batata hai. Har goal ko nurse ki activity bana dene se patient ka measurable result clear nahi hoga.
+- **C:** Timeframe se pata chalta hai ki nurse ko goal kab evaluate karna hai. Bina review time ke progress ko objectively compare karna mushkil ho sakta hai.
+- **D:** Har patient ki fluid requirement aur restrictions alag ho sakti hain. Same target sab par apply karne se kuch patients mein harm ho sakta hai.
 
-**Exam clue:** SMART target measurable hona chahiye, patient-specific bhi.
+**Exam clue:** SMART outcome mein measurable result aur review time clear rakho. Fluid target hamesha patient ki individual condition aur authorized plan ke according hona chahiye.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -333,16 +333,16 @@ Adequate fluids ek vague outcome hai kyunki adequacy patient ki condition par de
 **Correct answer: C. Patient demonstrates the agreed skill safely using the required steps before discharge**
 
 <!-- job5-rationale -->
-Self-care skill ka actual learning outcome tab check hota hai jab patient skill perform kare. Nurse pehle demonstration de sakti hai, phir patient ko return demonstration karne de aur required steps observe kare. Agar patient unsafe step kare toh correction, practice aur reassessment kare. Discharge readiness sirf teaching complete hone se establish nahi hoti.
+Self-care skill ka matlab hai patient ka apni dekhbhaal ka koi kaam khud kar paana. Maan lo nurse patient ko koi naya care procedure sikhati hai. Sirf procedure dikhane se ye confirm nahi hota ki patient use safely kar sakta hai. Nurse patient se agreed steps ke according procedure karke dikhane ko kehti hai. Ise return demonstration kehte hain. Nurse actual performance observe karti hai, unsafe step ko correct karti hai aur zaroorat par practice aur reassessment karwati hai. Isse discharge se pehle pata chalta hai ki patient ko aur teaching ya assistance chahiye ya nahi.
 
 **Option-by-option reasoning**
 
-- **A:** A leaflet material milna skill perform karne ka proof nahi hai.
-- **B:** B caregiver ka guess direct performance evidence nahi hai.
-- **C:** C patient ki safe stepwise demonstration observe karta hai, isliye correct hai.
-- **D:** D nurse ka teaching action record hai, patient ka outcome nahi.
+- **A:** Leaflet patient ko instructions yaad rakhne mein help kar sakta hai. Lekin leaflet milne se ye proof nahi milta ki patient skill ko safely perform kar sakta hai.
+- **B:** Caregiver ka andaza patient ki understanding ke baare mein useful clue ho sakta hai. Lekin actual skill performance ko directly observe karna zyada reliable hai.
+- **C:** Patient jab agreed steps safely perform karke dikhata hai, toh nurse actual ability assess kar sakti hai. Isliye C skill-learning outcome evaluate karne ka best measure hai.
+- **D:** Nurse ne demonstration diya, ye teaching action ka record hai. Isse patient ne kitna seekha aur kya woh khud safely kar sakta hai, ye confirm nahi hota.
 
-**Exam clue:** Skill assessment = return demonstration. Knowledge assessment = teach-back.
+**Exam clue:** Practical skill check karne ke liye return demonstration useful hai. Patient ne instructions samjhi hain ya nahi, ye check karne ke liye teach-back use kiya ja sakta hai.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -373,16 +373,16 @@ Self-care skill ka actual learning outcome tab check hota hai jab patient skill 
 **Correct answer: B. Arrange a validated alternative or necessary equipment with the team, then update the plan**
 
 <!-- job5-rationale -->
-Implementation ke time equipment unavailable mile toh nurse feasibility aur safety reassess karti hai. Team ke saath approved equipment arrange karo ya clinically validated alternative identify karo. Agar intervention time-sensitive hai toh delay aur patient risk immediately escalate karo. Plan aur actual action accurately record karo. Unapproved device improvise karna harm create kar sakta hai.
+Implementation ka matlab hai planned care ko actually dena. Agar intervention ke liye required equipment ward mein available nahi hai, toh nurse pehle safety aur feasibility reassess karti hai. Woh healthcare team ke saath approved equipment arrange karti hai ya clinically validated alternative identify karti hai. Agar intervention time-sensitive hai, toh equipment na milne ki problem aur patient ko hone wala possible risk jaldi escalate karna chahiye. Nurse plan aur actually diye gaye care ko accurately document karti hai. Bina review kisi unapproved device se kaam chalana patient ko harm kar sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** A alternatives explore kiye bina goal abandon karta hai.
-- **B:** B safe equipment ya approved alternative arrange karke plan adapt karta hai.
-- **C:** C nonvalidated device patient safety compromise kar sakta hai.
-- **D:** D unperformed action ko completed record karna false documentation hai.
+- **A:** Equipment available na hone se goal automatically unnecessary nahi ho jaata. Goal abandon karne se pehle team ke saath safe alternatives explore karna chahiye.
+- **B:** Approved equipment ya validated alternative arrange karne se patient ki care safely continue ho sakti hai. Plan ko actual available resources ke hisaab se update bhi kiya ja sakta hai. Isliye B sahi hai.
+- **C:** Nonvalidated device ki safety aur suitability established nahi hoti. Bina review improvisation se patient injury ya ineffective treatment ka risk ho sakta hai.
+- **D:** Agar intervention actually perform nahi hua hai, toh usse completed document karna false record hoga. Actual delay aur action record karna chahiye.
 
-**Exam clue:** Resource problem = escalate, validate alternative, document actual care.
+**Exam clue:** Required resource na mile toh problem communicate karo, safe approved alternative arrange karo aur jo care actually di gayi hai wahi document karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -413,16 +413,16 @@ Implementation ke time equipment unavailable mile toh nurse feasibility aur safe
 **Correct answer: A. Document both performed interventions and the patient's response**
 
 <!-- job5-rationale -->
-Documentation care continuity ka important part hai. Prescribed treatment aur appropriate comfort measure dono actual interventions hain. Nurse time, relevant details aur patient response record kare. For example, positioning ke baad discomfort kam hua ya nahi, ye observe karke document karo. Expected outcome ko observed finding ki tarah likhna galat hai.
+Nursing documentation se healthcare team ko pata chalta hai ki patient ko kya care mili aur uske baad kya response aaya. Prescribed treatment aur nurse ke scope ke andar diya gaya comfort measure dono actual interventions hain. Nurse relevant time, performed actions aur patient response record karti hai. Maan lo nurse prescribed treatment ke saath patient ki position adjust karti hai. Woh check karti hai ki discomfort kam hua ya nahi aur jo actual finding mili hai, use document karti hai. Expected result ko observed result ke roop mein likhna accurate nahi hoga.
 
 **Option-by-option reasoning**
 
-- **A:** A performed actions aur actual response dono record karta hai.
-- **B:** B comfort measures ko informal kehkar useful nursing care omit karta hai.
-- **C:** C expectation ko fact bana deta hai, jo misleading hai.
-- **D:** D complaint na hone par bhi response assess karna chahiye.
+- **A:** Dono performed interventions aur patient ki actual response record karne se care ka clear record milta hai. Isse next nurse ko bhi patient ki condition samajhne mein madad milti hai. Isliye A sahi hai.
+- **B:** Comfort measure informal lag sakta hai, lekin woh bhi patient ko actually di gayi nursing care hai. Use omit karne se record incomplete ho sakta hai.
+- **C:** Expected result woh hai jo hum dekhna chahte hain. Jab tak result observe ya assess nahi hua hai, use actual finding ke roop mein document nahi karna chahiye.
+- **D:** Patient complaint nahi karta, iska matlab ye nahi hai ki response assessment aur documentation unnecessary hain. Nurse relevant response check karti hai aur findings record karti hai.
 
-**Exam clue:** Document what was done and what actually happened.
+**Exam clue:** Documentation mein clearly batao ki kaunsi care di gayi aur patient mein actually kya response dekha gaya.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/43-1-clinical-judgment-measure-model)
 <!-- /job5-rationale -->
@@ -453,16 +453,16 @@ Documentation care continuity ka important part hai. Prescribed treatment aur ap
 **Correct answer: D. Record partial achievement, assess barriers and revise the next target or intervention as appropriate**
 
 <!-- job5-rationale -->
-Evaluation mein planned target aur actual performance compare hoti hai. Target independent transfer tha, lekin patient ko one assistant chahiye. Improvement hui hai par full goal meet nahi hua. Nurse fatigue, pain, strength aur safety barriers assess kare. Team aur patient ke saath realistic next target set kare aur useful interventions retain kare. Partial success ko objectively record karna future care guide karta hai.
+Evaluation mein nurse planned target ko patient ki actual performance se compare karti hai. Yahan goal tha ki patient independently transfer kar sake, lekin abhi ek assistant ki zaroorat pad rahi hai. Iska matlab hai ki improvement hui hai, par full goal achieve nahi hua. Nurse check karti hai ki pain, fatigue, weakness ya safety-related difficulty ki wajah se patient abhi independent nahi ho paa raha hai. Patient aur team ke saath realistic next target decide kiya ja sakta hai. Jo interventions useful rahe hain, unhe appropriate hone par continue kiya ja sakta hai. Actual partial achievement record karne se aage ka care plan better ban sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** A some improvement ko full success keh raha hai jabki independence nahi mili.
-- **B:** B useful interventions bhi discard karta hai, jo progress lose kar sakta hai.
-- **C:** C barriers evaluate kiye bina plan indefinitely continue karta hai.
-- **D:** D actual partial result record karke reassessment aur modification karta hai.
+- **A:** Patient mein improvement hua hai, lekin agreed goal independence tha. Assistance ki zaroorat abhi bhi hai, isliye goal fully met likhna inaccurate hoga.
+- **B:** Poore plan ko failure maan lena actual improvement ko ignore karta hai. Useful interventions remove karne se patient ki progress affect ho sakti hai.
+- **C:** Plan ko bina reassessment hamesha same rakhne se existing barriers address nahi honge. Nurse ko actual performance ke hisaab se plan review karna chahiye.
+- **D:** Partial achievement ko accurately record karke nurse barriers assess karti hai aur appropriate target ya intervention modify karti hai. Isliye D evaluation ka best response hai.
 
-**Exam clue:** Goal met, partially met, unmet ko actual criteria se compare karo.
+**Exam clue:** Goal met, partially met aur unmet decide karne ke liye patient ki actual performance ko pehle se agreed criteria se compare karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
 <!-- /job5-rationale -->
@@ -493,16 +493,16 @@ Evaluation mein planned target aur actual performance compare hoti hai. Target i
 **Correct answer: B. Review whether to discontinue, maintain or replace interventions based on remaining risk and needs**
 
 <!-- job5-rationale -->
-Goal achieve hone ke baad nursing process stop nahi hota. Nurse check karti hai ki improvement stable hai aur risk abhi bhi present hai ya nahi. Kuch interventions unnecessary ho sakte hain, kuch maintenance ke liye continue karne pad sakte hain. Patient ki preferences aur current condition ke basis par plan review karo. Previous accurate record preserve karo.
+Goal achieve hone ke baad bhi nursing process automatically khatam nahi hota. Nurse dobara check karti hai ki improvement stable hai aur koi ongoing risk ya nayi care need toh nahi hai. Maan lo patient ki mobility improve ho gayi hai. Kuch assistance ki zaroorat ab nahi ho sakti, jabki kuch prevention measures abhi bhi useful ho sakte hain. Nurse patient ki current condition, preferences aur remaining risks dekhkar decide karti hai ki kaunsa intervention continue, modify ya discontinue karna hai. Purane accurate care records ko preserve karna bhi zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** A clinical history delete karna unsafe hai.
-- **B:** B remaining risk aur needs ke according care continue, modify ya discontinue karta hai.
-- **C:** C every intervention forever continue karna unnecessary burden create kar sakta hai.
-- **D:** D all assessment stop karne se new deterioration miss ho sakti hai.
+- **A:** Previous record se patient ki care aur improvement ka timeline samajh aata hai. Use delete karne se clinical history aur continuity of care affect ho sakti hai.
+- **B:** Remaining risks aur needs reassess karke nurse decide karti hai ki kaunsi care abhi useful hai aur kaunsi change ki ja sakti hai. Isliye B ongoing nursing process ka best example hai.
+- **C:** Jo intervention pehle useful tha, woh har future situation mein zaroori nahi hoga. Bina review hamesha continue karne se unnecessary burden ya risk ho sakta hai.
+- **D:** Goal achieve hone ke baad bhi patient ki condition badal sakti hai. Saari nursing assessment turant band karne se nayi deterioration miss ho sakti hai.
 
-**Exam clue:** Achieved goal = review ongoing needs, not automatic discharge from all care.
+**Exam clue:** Goal achieve hone par ongoing risks aur care needs review karo. Har intervention ko automatically continue ya stop mat karo.
 
 **Supporting reference:** [Clinical or nursing concept](https://openstax.org/books/fundamentals-nursing/pages/14-3-the-nurses-role-in-evaluation)
 <!-- /job5-rationale -->

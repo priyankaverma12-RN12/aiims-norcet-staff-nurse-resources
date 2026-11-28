@@ -4,7 +4,9 @@
 
 **Topic priority:** 🟠 HIGH YIELD · **Study-ready, not studied.** [26 new MCQs](../MCQs/03C-Respiration-Assessment-26-MCQs.md), four assigned earlier group 03 items Q6,12,13,15 = 30 provisional working slots. Q13 systemic deterioration allocation to be refined at semantic audit. Advanced respiratory diseases and oxygen administration separately assigned.
 
-Respiration ka bedside assessment sirf breaths count karna nahi hai. Rate, rhythm, depth, work of breathing, symmetry, symptoms and consciousness together evaluate karo. Ventilation means air movement, oxygenation means blood oxygenation, and cellular respiration metabolic process hai. Normal SpO2 alone ventilation establish nahi karta.
+Respiration assess karte waqt nurse sirf ye nahi dekhti ki patient ek minute mein kitni baar saans le raha hai. Woh rhythm, breath ki depth, saans lene ke liye kitni mehnat lag rahi hai, chest dono taraf equally move ho raha hai ya nahi, symptoms aur consciousness bhi check karti hai.
+
+Ventilation ka matlab lungs ke andar aur bahar air ka movement hai. Oxygenation ka matlab blood mein oxygenation ki process hai. Cellular respiration mein cells metabolic processes se energy banate hain. Ye related concepts hain, lekin ek hi cheez nahi hain. Maan lo patient oxygen support par hai aur SpO2 normal dikh rahi hai, lekin uski breathing bahut shallow hai. Sirf saturation number se ye confirm nahi hota ki ventilation adequate hai.
 
 <a name="procedure"></a>
 
@@ -14,7 +16,9 @@ Respiration ka bedside assessment sirf breaths count karna nahi hai. Rate, rhyth
 **▶️ YouTube MCQ practice:** [Vital Signs — VS Nursing Academy](https://www.youtube.com/watch?v=LM37c_byRHs) · Indexed description confirms respiration-rate topic coverage; specific question and playback pending. [Related bank](../MCQs/03C-Respiration-Assessment-26-MCQs.md).
 <!-- /job4-metadata -->
 
-Explain general vital sign assessment and maintain privacy. Stable resting patient mein spontaneous quiet breathing observe karo, often immediately after pulse measurement to minimize conscious alteration. One rise and fall = one breath. Regular stable pattern 30 seconds × 2 if policy permits, irregular breathing full minute and document pauses. Common adult resting reference 12–20/min, age and clinical context matter. Record activity, position, timing, rate and other findings. Assess sooner if symptoms or changes occur, not only scheduled times. Verify monitor discrepancies by direct patient assessment. Acute respiratory distress means urgent care, not waiting for perfect resting count.
+Nurse patient ko general vital-sign assessment samjhati hai aur privacy maintain karti hai. Stable resting patient ki natural quiet breathing observe karni chahiye. Aksar pulse assess karne ke turant baad breathing count ki jaati hai, taaki patient jaan-boojhkar apni breathing pattern change na kare. Chest ka ek baar rise aur fall hona ek breath count hota hai. Agar breathing stable aur regular hai, toh policy permit karne par 30 seconds count karke do se multiply kar sakte hain. Irregular breathing mein full minute count karo aur pauses bhi record karo.
+
+Resting adult mein commonly 12–20 breaths per minute reference range hoti hai. Age, activity aur clinical condition ke according interpretation change ho sakti hai. Nurse activity, position, time, measured rate aur doosri relevant findings record karti hai. Agar symptoms develop hon ya condition badle, toh next scheduled measurement ka wait nahi karna chahiye. Monitor aur patient ki actual condition match na kare, toh direct assessment se discrepancy check karo. Acute respiratory distress mein urgent care ko perfect resting count lene ke liye delay nahi karna chahiye.
 
 ```mermaid
 flowchart TD
@@ -27,17 +31,19 @@ flowchart TD
 
 | Term | Meaning |
 |---|---|
-| Eupnea | Quiet regular breathing |
-| Tachypnea | Rate above expected range |
-| Bradypnea | Rate below expected range |
-| Apnea | Absence of breathing, urgency depends on context but emergency signs require immediate action |
-| Dyspnea | Subjective breathing discomfort |
-| Orthopnea | Breathlessness lying flat, improved upright |
-| Cheyne–Stokes | Cyclic waxing/waning depth with apnea |
-| Kussmaul | Deep sustained, often rapid breathing with metabolic acidosis |
-| Biot-type/cluster | Clusters and irregular apneic pauses, labels vary |
+| Eupnea | Patient shaant aur regular tareeke se saans le raha hota hai. |
+| Tachypnea | Respiratory rate patient ke expected range se zyada hoti hai. |
+| Bradypnea | Respiratory rate expected range se kam hoti hai. |
+| Apnea | Breathing temporarily ya completely absent hoti hai. Emergency signs hone par immediate action lena zaroori hai. |
+| Dyspnea | Patient khud saans lene mein takleef ya discomfort feel karta hai. |
+| Orthopnea | Patient ko flat letne par breathlessness hoti hai aur upright position mein relief milta hai. |
+| Cheyne–Stokes | Breathing ki depth cyclically badhti aur kam hoti hai, aur beech mein apnea ke pauses aa sakte hain. |
+| Kussmaul | Patient sustained deep aur aksar rapid breathing karta hai, jo metabolic acidosis ke saath mil sakti hai. |
+| Biot-type/cluster | Breaths groups mein aati hain aur irregular apneic pauses ho sakte hain. Different references mein terminology vary kar sakti hai. |
 
-Tachypnea is not automatically hyperventilation. Hyperventilation relates to alveolar ventilation exceeding metabolic CO2 production. Total minute ventilation = rate × tidal volume. Example 20 × 300 mL = 6 L/min. Effective alveolar ventilation also accounts for dead space. Normal rate with shallow breathing may be inadequate. Breathing patterns provide cues, never definitive diagnosis or exact brain lesion localization on their own.
+Tachypnea ka matlab sirf rate fast hona hai. Hyperventilation mein alveolar ventilation body ki metabolic carbon dioxide production se zyada ho jaati hai. Isliye har fast breathing hyperventilation nahi hoti. Minute ventilation calculate karne ke liye breaths per minute ko tidal volume se multiply karte hain. Tidal volume har breath mein move hone wali air ki quantity hai. Maan lo patient ek minute mein 20 breaths leta hai aur har breath ka tidal volume 300 mL hai. Total minute ventilation 20 × 300 = 6000 mL/min, yaani 6 L/min hogi.
+
+Effective alveolar ventilation mein dead space bhi consider karna hota hai, kyunki saari inhaled air gas exchange mein participate nahi karti. Patient ki respiratory rate normal ho sakti hai, lekin breaths bahut shallow hon toh ventilation inadequate ho sakti hai. Breathing pattern possible clinical concern ka clue deta hai. Sirf pattern dekhkar exact disease ya brain lesion ki location confirm nahi karni chahiye.
 
 <a name="recognition-of-distress"></a>
 
@@ -49,7 +55,9 @@ Tachypnea is not automatically hyperventilation. Hyperventilation relates to alv
 **▶️ [YouTube MCQ practice — Abnormal respiratory patterns, Lung Health](https://www.youtube.com/watch?v=91CH6NbsC74&t=372s)** · Published 06:12 practice-question segment, specific item and playback pending. Do not infer cause from pattern alone. Dedicated distress and escalation scenario videos pending.
 <!-- /job4-metadata -->
 
-Retractions, nasal flaring, accessory muscle use, tripod posture, grunting in infants, asymmetry, stridor and changed consciousness are important cues. Exhaustion with declining apparent effort may represent fatigue, not improvement. Assess patient and seek timely emergency help according to condition. Respect tolerated position. New trends may be significant even before dramatic measurement abnormality. Postoperative pain and sedation affect depth and ventilation, assess both. An unresponsive patient with abnormal/absent breathing needs trained emergency/BLS response, not a mandatory waiting period or routine charting.
+Respiratory distress mein patient ko normal se zyada mehnat karke saans leni pad sakti hai. Nurse chest wall ke andar khinchne, yaani retractions, nostrils ke phailne, yaani nasal flaring, accessory muscles use hone aur aage jhukkar tripod position lene jaise signs check karti hai. Infants mein grunting important warning sign ho sakti hai. Chest movement asymmetry, stridor aur consciousness change ko bhi seriously lena chahiye.
+
+Maan lo patient pehle bahut mehnat se saans le raha tha aur ab suddenly uski breathing effort kam dikh rahi hai. Ye zaroori nahi ki woh improve ho gaya ho. Ho sakta hai woh thak gaya ho aur effective ventilation maintain na kar paa raha ho. Nurse overall condition assess karti hai aur indicated emergency help arrange karti hai. Patient ki tolerated safe position respect karo. Nayi trend ko ignore mat karo, chahe monitor par dramatic abnormality abhi na dikhe. Operation ke baad pain aur sedation dono breathing depth aur ventilation affect kar sakte hain, isliye dono assess karo. Unresponsive patient mein normal breathing absent ya abnormal ho toh trained emergency/BLS response shuru karna zaroori hai. Routine charting ya fixed waiting period ke liye emergency action delay nahi karna chahiye.
 
 <a name="sources-and-video-practice"></a>
 

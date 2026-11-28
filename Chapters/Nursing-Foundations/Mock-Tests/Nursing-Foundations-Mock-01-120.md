@@ -208,16 +208,16 @@ Fever, chills aur flank pain acute hemolytic reaction ya bacterial contamination
 **Correct: A. Impaired oxygenation**
 
 <!-- job5-rationale -->
-Surgery ke baad restlessness, fast breathing aur SpO2 86% serious breathing compromise ka signal ho sakte hain. Oxygen organs ko energy banane ke liye chahiye. Nurse ABCDE rapid assessment kare, help activate kare, reading ki reliability check kare aur patient ko appropriate oxygen aur urgent care protocol ke according support de. Reading recheck karne ke chakkar mein emergency care delay nahi karni hai. Cause ko separately investigate karna hai.
+Operation ke baad patient bechain hai, ek minute mein 32 baar saans le raha hai aur SpO2 86% hai. SpO2 blood mein hemoglobin ke oxygen se jude hone ka approximate percentage batata hai. Ye findings milkar serious breathing problem ka signal de sakti hain. Body ke organs ko energy banane ke liye oxygen ki zaroorat hoti hai, isliye oxygenation ki problem ko routine care se pehle address karna chahiye. Nurse rapid ABCDE assessment karti hai, urgent help bulati hai aur protocol ke hisaab se oxygen aur zaroori support deti hai. Reading ki reliability bhi check karti hai, lekin reading dobara lene ke chakkar mein emergency care delay nahi karti. Actual cause ko assessment ke saath investigate karna padta hai.
 
 **Option-by-option reasoning**
 
-- **A:** Impaired oxygenation current potentially life-threatening problem hai. A best hai.
-- **B:** Discharge diet teaching important hai, lekin unstable breathing ke samay delay ki ja sakti hai.
-- **C:** Constipation ka risk immediate oxygenation threat se kam urgent hai.
-- **D:** Sleep disturbance ka treatment breathing stabilize hone ke baad kiya ja sakta hai.
+- **A:** Impaired oxygenation ka matlab hai ki body ko oxygen milne ki process mein dikkat hai. Patient ki low saturation, fast breathing aur restlessness isi urgent concern ko support karti hain. Isliye A pehli priority hai.
+- **B:** Discharge diet samjhana patient ki recovery ke liye important hai. Lekin abhi patient ki breathing unstable ho sakti hai. Isliye diet teaching ko tab tak postpone karna chahiye jab tak urgent problem address nahi ho jaati.
+- **C:** Constipation ka risk operation ke baad ho sakta hai, lekin question mein oxygen ki kami ka current serious signal mil raha hai. Isliye constipation prevention se pehle breathing aur oxygenation ko assess karna zaroori hai.
+- **D:** Sleep pattern disturb hona patient ke comfort aur recovery ko affect kar sakta hai. Lekin breathing ki serious problem ko address kiye bina sleep par focus karna unsafe hoga.
 
-**Exam clue:** ABC life-threatening problems first. Low saturation ke saath patient ko dekho, sirf monitor ko nahi.
+**Exam clue:** Jab breathing ya oxygenation mein life-threatening problem ka signal mile, toh ABCDE assessment aur urgent help ko priority do. Monitor ki reading ke saath patient ki actual condition bhi dekho.
 
 **Supporting reference:** [Clinical or nursing concept](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -915,16 +915,16 @@ FiO2 ka matlab inhaled gas mein oxygen ka fraction hai. Venturi mask oxygen jet 
 **Correct: B. The reading may be falsely elevated**
 
 <!-- job5-rationale -->
-Arm below heart level hone se measuring site par gravity ki wajah se hydrostatic pressure badhta hai. Unsupported arm ko hold karne mein muscle contraction bhi pressure increase kar sakti hai. Isliye heart-level supported arm ke comparison mein reading elevated aa sakti hai. Stable patient mein back supported, feet flat, arm relaxed aur cuff ka midpoint heart level par rakhkar BP repeat karo.
+Maan lo patient ki arm chair ke side mein neeche latak rahi hai aur nurse us position mein BP measure karti hai. Heart level se neeche measuring site par gravity ki wajah se hydrostatic pressure badh sakta hai. Agar patient arm ko khud hold kar raha hai, toh muscle contraction bhi reading affect kar sakti hai. Dono factors ki wajah se BP falsely elevated aa sakta hai. Stable patient mein back supported, feet flat aur arm relaxed rakho. Cuff ka midpoint heart level par support karke reading repeat karo.
 
 **Option-by-option reasoning**
 
-- **A:** below-heart position generally reading ko raise kar sakti hai, lower necessarily nahi.
-- **B:** hydrostatic pressure aur unsupported arm ka expected bias explain karta hai.
-- **C:** zero BP expected effect nahi hai.
-- **D:** position specifically BP ko affect karti hai, sirf oxygen saturation ko nahi.
+- **A:** Arm heart level se neeche hone par reading falsely high ho sakti hai. Isliye necessarily low reading aayegi, ye statement sahi nahi hai.
+- **B:** Hydrostatic pressure aur unsupported arm ki muscle activity reading ko falsely elevate kar sakti hain. Isliye B sahi hai.
+- **C:** Arm ki position se BP reading zero hona expected nahi hai. Aisi reading mile toh patient aur measurement technique ko assess karna chahiye.
+- **D:** Arm ki position BP measurement ki accuracy ko affect karti hai. Ye effect sirf pulse oximetry tak limited nahi hai.
 
-**Exam clue:** Arm low → BP high bias. Arm supported at heart level.
+**Exam clue:** BP measure karte waqt arm relaxed aur supported rakho aur cuff ko heart level par position karo.
 
 [Concept reference](https://www.heart.org/en/health-topics/high-blood-pressure/understanding-blood-pressure-readings/monitoring-your-blood-pressure-at-home/)
 <!-- /job5-rationale -->
@@ -988,16 +988,16 @@ Dermis skin ki epidermis ke neeche wali layer hai. Stage 2 mein partial-thicknes
 **Correct: A. The patient reports burning pain on urination**
 
 <!-- job5-rationale -->
-Subjective data patient ka personal experience hai. Burning sensation nurse directly apne instruments se measure nahi kar sakti, lekin patient ki report important clinical evidence hai. Nurse onset, intensity aur associated urinary symptoms bhi pooch sakti hai. Urine test cause ko investigate kar sakta hai, par patient ki feeling ki category subjective hi rahegi.
+Subjective data woh information hai jo patient apne experience ke baare mein batata hai. Maan lo patient kehta hai ki urine pass karte waqt jalan hoti hai. Nurse is jalan ko khud patient ki tarah feel nahi kar sakti, lekin patient ki baat clinical assessment ke liye bahut important hai. Nurse pooch sakti hai ki jalan kab shuru hui, kitni zyada hai aur saath mein koi doosri urinary problem toh nahi hai. Urine test se cause investigate kiya ja sakta hai, lekin patient ne jo sensation batayi hai, woh subjective data hi rahega.
 
 **Option-by-option reasoning**
 
-- **A:** Burning patient khud report kar raha hai. Isi liye A subjective data hai.
-- **B:** Temperature thermometer se measure hota hai. Yeh objective data hai.
-- **C:** Urine output measured volume per time hai. Yeh objective data hai.
-- **D:** Visible distension examination mein observe ki ja sakti hai. Yeh objective finding hai.
+- **A:** Patient khud bata raha hai ki urine pass karte waqt burning pain hota hai. Ye uska personal experience hai, isliye A subjective data hai.
+- **B:** Nurse thermometer se 38.4°C temperature measure kar sakti hai. Kyunki ye measured value hai, isliye ye objective data hai.
+- **C:** Nurse ek specific time mein collect hue urine ko measure karke output record karti hai. Yahan 20 mL/hour measured finding hai, isliye ye objective data hai.
+- **D:** Nurse physical examination ke dauran abdomen ka phoolna dekh sakti hai. Ye observed finding hai, isliye ye objective data hai.
 
-**Exam clue:** Symptoms patient batata hai, signs examine ya measure kiye jaate hain.
+**Exam clue:** Patient apne symptoms batata hai. Nurse signs ko observe ya measure karti hai. Dono types ki information assessment mein important hoti hain.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -1389,16 +1389,16 @@ Jab patient exhale karta hai, carbon dioxide wali gas mask ke andar temporarily 
 **Correct: C. The first clear repetitive tapping sound**
 
 <!-- job5-rationale -->
-Manual auscultatory BP mein cuff pressure temporarily arterial flow ko stop karta hai. Jab cuff pressure gradually decrease hota hai aur systolic pressure ke neeche pahunchta hai, intermittent flow ki wajah se first repetitive tapping sound sunai deti hai. Yeh Korotkoff phase I hai aur adult systolic pressure record kiya jaata hai. Phase V yani sounds disappear hona generally adult diastolic reading hai. Proper deflation aur trained technique important hai.
+Manual BP measurement mein cuff inflate karne se brachial artery mein blood flow temporarily stop ho sakta hai. Nurse cuff ko dheere-dheere deflate karti hai aur stethoscope se Korotkoff sounds sunti hai. Jab cuff pressure systolic pressure se neeche aata hai, toh intermittent blood flow ki wajah se pehli clear repeated tapping sound sunai deti hai. Ise Korotkoff phase I kehte hain aur routine adult measurement mein ye systolic BP ka marker hota hai. Phase V mein sounds disappear ho jaati hain aur generally ye adult diastolic BP represent karta hai. Accurate result ke liye trained technique aur proper deflation zaroori hain.
 
 **Option-by-option reasoning**
 
-- **A:** wrist palpation se systolic estimate possible hai lekin yeh Korotkoff sound nahi hai.
-- **B:** disappearance generally diastolic pressure indicate karti hai.
-- **C:** first repetitive tapping phase I hai, systolic pressure ka marker.
-- **D:** loudness alone systolic pressure identify nahi karti.
+- **A:** Wrist par radial pulse palpate karke systolic pressure ka approximate estimate liya ja sakta hai. Lekin ye stethoscope se suni gayi Korotkoff sound nahi hai.
+- **B:** Sounds ka disappearance usually Korotkoff phase V hai, jo adult diastolic pressure record karne ke liye use hota hai.
+- **C:** Pehli clear repetitive tapping sound Korotkoff phase I hai. Ye routine adult systolic pressure indicate karti hai, isliye C sahi hai.
+- **D:** Sabse loud sound ko systolic pressure nahi maante. Nurse ko pehli repeated sound identify karni chahiye.
 
-**Exam clue:** Korotkoff I = systolic, V = adult diastolic.
+**Exam clue:** Korotkoff phase I systolic BP batati hai aur phase V usually adult diastolic BP batati hai.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-7-blood-pressure)
 <!-- /job5-rationale -->
@@ -1430,16 +1430,16 @@ Manual auscultatory BP mein cuff pressure temporarily arterial flow ko stop kart
 **Correct: B. Check hearing aids, reduce background noise and face the patient clearly**
 
 <!-- job5-rationale -->
-Hearing loss communication barrier hai, automatically cognitive impairment nahi. Nurse patient ki preferred communication method pooche, hearing aid function check kare, noise reduce kare aur face visible rakhe. Normal clear voice aur suitable pace use kare. Written support ya interpreter patient ki need ke according arrange karo aur understanding verify karo.
+Hearing loss ki wajah se patient instructions sunne mein dikkat experience kar sakta hai. Isse automatically ye prove nahi hota ki uski memory ya thinking mein problem hai. Nurse patient se preferred communication method poochti hai, hearing aid ka function check karti hai, background noise kam karti hai aur patient ki taraf face karke clear voice mein appropriate speed se bolti hai. Patient ki zaroorat ke hisaab se written support ya suitable interpreter arrange kiya ja sakta hai. Nurse baad mein understanding bhi verify karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A face away karne se visual speech cues aur clarity kam hoti hai.
-- **B:** B sensory access improve karta hai, isliye first appropriate response hai.
-- **C:** C shouting speech distort kar sakti hai aur discomfort create kar sakti hai.
-- **D:** D hearing barrier ko dementia assume karna unsupported hai.
+- **A:** Patient se muh pherkar bolne se facial expression aur lip movement jaise visual cues kam milte hain. Isse instructions samajhna aur mushkil ho sakta hai.
+- **B:** Hearing aid check karna, noise kam karna aur face visible rakhna patient ko information receive karne mein madad karta hai. Isliye A first appropriate response hai.
+- **C:** Zor se chillane se words distorted lag sakte hain aur patient ko discomfort ho sakta hai. Clear normal voice aur suitable pace zyada helpful ho sakte hain.
+- **D:** Hearing difficulty ko dementia maan lena unsupported assumption hai. Pehle communication barrier ko address karna chahiye.
 
-**Exam clue:** First remove communication barriers, then assess understanding.
+**Exam clue:** Understanding assess karne se pehle communication ki rukawat ko identify aur address karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -1593,16 +1593,16 @@ Grief natural response hai aur har person ka pattern different ho sakta hai. Nur
 **Correct: A. Remain present quietly and allow time for the patient to respond**
 
 <!-- job5-rationale -->
-Difficult news ke baad silence patient ko information process karne aur emotion settle karne ka time de sakta hai. Therapeutic silence ka matlab nurse attentive presence maintain karti hai, patient ko abandon nahi karti. Patient ready ho toh gently invite karo ki woh apni feeling share kare. Distress ke saath acute safety concern ho toh promptly assess karo.
+Difficult news sunne ke baad patient ko baat samajhne aur apni feelings sambhalne mein samay lag sakta hai. Therapeutic silence ka matlab ye nahi hai ki nurse patient ko akela chhod deti hai. Nurse shaant aur attentive tareeke se paas rehti hai aur patient ko bolne ka samay deti hai. Jab patient ready ho, toh nurse gently usse apni feelings share karne ka mauka de sakti hai. Agar distress ke saath immediate safety concern ho, toh prompt assessment karna zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** A quiet supportive presence aur adequate response time deta hai.
-- **B:** B crying ko suppress karta hai aur emotion expression discourage karta hai.
-- **C:** C pressure create karta hai jab patient ready nahi ho sakta.
-- **D:** D emotional concern se topic divert karta hai.
+- **A:** Shaant supportive presence se patient ko information process karne aur apni baat kehne ka samay milta hai. Isliye A sahi hai.
+- **B:** Rone se mana karne par patient apni feelings dabane ki koshish kar sakta hai. Nurse ko emotion express karne ke liye safe space dena chahiye.
+- **C:** Turant explanation maangne se patient par pressure pad sakta hai, jabki woh abhi bolne ke liye ready nahi hai.
+- **D:** Ward rules par baat shuru karne se patient ki emotional concern address nahi hoti. Pehle uski current need ko samajhna chahiye.
 
-**Exam clue:** Silence with presence is an active therapeutic technique.
+**Exam clue:** Therapeutic silence mein nurse present rehti hai aur patient ko response dene ka samay deti hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -1667,16 +1667,16 @@ Unconscious patient oral fluid ko safely swallow ya spit nahi kar sakta. Aspirat
 **Correct: A. When you say you feel weak, do you mean dizziness or difficulty moving your legs?**
 
 <!-- job5-rationale -->
-Clarification ka matlab ambiguous message ka exact meaning patient se verify karna hai. Weakness word dizziness, fatigue ya movement difficulty ke liye use ho sakta hai. Nurse options poochkar meaning clear karti hai aur patient ko other description ka chance bhi deti hai. Sudden focal weakness ya acute dizziness mein urgent clinical assessment bhi zaroori ho sakti hai.
+Clarification ka matlab hai patient ki baat ka actual meaning poochkar samajhna. Maan lo patient kehta hai ki use weakness feel ho rahi hai. Weakness se uska matlab chakkar, thakaan ya pair hilane mein difficulty ho sakta hai. Nurse gently poochti hai ki woh kya experience kar raha hai aur use apne words mein kuch aur describe karne ka mauka bhi deti hai. Agar sudden focal weakness ya acute dizziness jaise concerning symptoms hon, toh relevant urgent clinical assessment bhi zaroori ho sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A unclear term ka meaning verify karne ki koshish karta hai.
-- **B:** B patient ki statement reject karta hai.
-- **C:** C unsolicited directive patient ki own perspective explore nahi karti.
-- **D:** D exact feeling know karne ka assumption hai, clarification nahi.
+- **A:** Weakness ka meaning poochkar nurse unclear message ko verify karne ki koshish kar rahi hai. Isliye D clarification ka example hai.
+- **B:** Patient ki statement ko reject karne se woh apni complaint explain karne mein hesitate kar sakta hai. Ye clarification nahi hai.
+- **C:** Patient ko apni advice follow karne ka directive dene se uski baat ka actual meaning explore nahi hota.
+- **D:** Nurse patient ki exact feeling jaanti hai, aisa claim karna assumption hai. Is response se unclear symptom ka meaning verify nahi hota.
 
-**Exam clue:** Clarify ambiguous words, never assume their meaning.
+**Exam clue:** Jab patient ka word unclear ho, toh uska meaning poochho. Apni taraf se assume mat karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -1783,16 +1783,16 @@ Chest compression mein sternum ko rhythmically press karke heart se blood flow s
 **Correct: D. Can you tell me what worries you most about the surgery?**
 
 <!-- job5-rationale -->
-Therapeutic communication ka purpose patient ko safe environment dena hai jahan woh apne concerns honestly share kar sake. Surgery ka fear pain, anesthesia, outcome ya family concern se related ho sakta hai. Open-ended question patient ko apne words mein main worry batane deta hai. Nurse phir specific information aur support de sakti hai. Pehle fear explore karo, phir reassure karne ki jagah factual explanation do.
+Therapeutic communication ka matlab hai patient se aise baat karna ki woh apni takleef aur concerns bina dar ke bata sake. Maan lo kal patient ka operation hai aur use dar lag raha hai. Ho sakta hai use anesthesia, pain, operation ke result ya family ki chinta ho. Agar nurse poochti hai ki sabse zyada kis baat ka dar hai, toh patient ko apne words mein jawab dene ka mauka milta hai. Isse nurse actual concern samajhkar relevant factual information aur support de sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A patient ko batata hai ki uski feeling galat hai, jo judgmental hai.
-- **B:** B outcome ke baare mein unsupported reassurance deta hai.
-- **C:** C fear ko trivialize karta hai aur patient ko bolne se rokta hai.
-- **D:** D specific concern explore karta hai aur conversation open rakhta hai.
+- **A:** Patient ko ye kehna ki use dar nahi lagna chahiye, uski feeling par judgment dena hai. Nurse ko pehle samajhna chahiye ki patient kis baat se dara hua hai.
+- **B:** Bina evidence ye kehna ki chinta ki koi baat nahi hai, false reassurance ho sakta hai. Patient ki actual concern abhi samjhi bhi nahi gayi hai.
+- **C:** Sabhi patients ka operation hona is patient ke dar ko kam nahi karta. Is tarah jawab dene se patient ko lag sakta hai ki uski concern important nahi hai.
+- **D:** Ye open-ended question patient ko apni actual worry explain karne ka mauka deta hai. Nurse phir usi concern par support de sakti hai, isliye D sahi hai.
 
-**Exam clue:** Open-ended question = explore, not dismiss.
+**Exam clue:** Open-ended question patient ko apni baat khulkar batane deta hai. Uski feeling dismiss karne ke bajay reason samjho.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -2059,16 +2059,16 @@ Compression depth batati hai chest ko kitna neeche press karna hai. Average adul
 **Correct: A. Falsely high blood pressure**
 
 <!-- job5-rationale -->
-BP cuff ka inflatable bladder arm ke circumference ke hisaab se fit hona chahiye. Agar cuff chhota ya narrow hai, artery ko occlude karne ke liye device ko zyada pressure register karna pad sakta hai. Isse measured BP true BP se high aa sakta hai, jise undercuffing error kehte hain. Arm circumference measure karke manufacturer ki size range select karo, bare upper arm par cuff lagao aur correct position mein repeat karo. Ek wrong-size reading par chronic hypertension diagnose mat karo.
+BP cuff ke andar ek inflatable bladder hota hai jo upper arm ki artery par pressure apply karta hai. Agar patient ki arm ke comparison mein cuff bahut chhota hai, toh artery ko compress karne ke liye zyada cuff pressure ki zaroorat pad sakti hai. Isse machine actual BP se zyada reading dikha sakti hai. Ise undercuffing error kehte hain. Nurse arm circumference measure karti hai aur manufacturer ki recommended size range ke according cuff select karti hai. Stable patient mein correct cuff aur proper position ke saath reading repeat karni chahiye. Galat cuff se li gayi ek reading ke basis par chronic hypertension diagnose nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** undersized cuff falsely high BP de sakta hai.
-- **B:** cuff BP measure karta hai, respiratory rate nahi.
-- **C:** small cuff generally opposite direction mein error create karta hai. Too large cuff reading underestimate kar sakta hai, although effect device par depend karta hai.
-- **D:** cuff size measurement accuracy ko affect karti hai.
+- **A:** Undersized cuff ki wajah se measured BP actual pressure se zyada aa sakta hai. Isliye A sahi hai.
+- **B:** BP cuff arterial pressure measure karne ke liye use hota hai. Respiratory rate alag assessment hai, jisme breaths count ki jaati hain.
+- **C:** Bahut chhota cuff generally BP reading ko falsely high kar sakta hai. Bahut bada cuff reading underestimate kar sakta hai, lekin effect device aur fit par depend karta hai.
+- **D:** Cuff size ka measurement accuracy par effect ho sakta hai. Isliye patient ki arm circumference ke according suitable cuff choose karna important hai.
 
-**Exam clue:** Small cuff → high reading. Correct circumference → correct cuff.
+**Exam clue:** Chhota BP cuff falsely high reading de sakta hai. Arm circumference measure karke suitable cuff select karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-7-blood-pressure)
 <!-- /job5-rationale -->
@@ -2239,16 +2239,16 @@ Informed consent ka matlab sirf form par signature lena nahi hai. Patient ko sam
 **Correct: A. Count the apical pulse for a full minute and assess rhythm**
 
 <!-- job5-rationale -->
-Irregular radial pulse mein har heartbeat ka peripheral pulse wave equal strength se feel nahi ho sakta. Short count ko multiply karne par rhythm variation miss ho sakti hai. Stethoscope se apical heartbeats full 60 seconds count karo aur rhythm, symptoms aur other observations assess karo. New irregularity, dizziness, chest pain ya instability par timely clinical escalation karo. Rhythm ki exact diagnosis ke liye ECG ki zaroorat ho sakti hai.
+Irregular radial pulse ka matlab hai ki wrist par feel hone wali pulse beats evenly spaced nahi hain. Kuch cardiac contractions se peripheral pulse wave weak ya undetectable bhi ho sakti hai. Agar nurse sirf paanch seconds count karke rate multiply kare, toh irregular rhythm ka pattern miss ho sakta hai. Nurse stethoscope se apical heartbeats full 60 seconds count karti hai aur rhythm, symptoms aur relevant observations assess karti hai. Agar irregularity nayi hai ya chest pain, dizziness ya instability ke saath hai, toh timely clinical escalation zaroori hai. Exact electrical rhythm identify karne ke liye ECG evaluation ki zaroorat ho sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** full-minute apical count heart contractions ko directly assess karne mein help karta hai.
-- **B:** five-second sample irregular rhythm ka reliable minute estimate nahi deta.
-- **C:** old value current heart rate nahi batati.
-- **D:** respiratory rate alag vital sign hai aur heart rhythm replace nahi karti.
+- **A:** Full minute tak apical heart rate count karne aur rhythm assess karne se irregular beats ka better assessment mil sakta hai. Isliye A sahi hai.
+- **B:** Paanch seconds ka count irregular rhythm mein poore minute ki reliable representation nahi hai. Multiply karne par rate ka error badh sakta hai.
+- **C:** Previous shift ki value comparison ke liye useful ho sakti hai, lekin usse current heart rate confirm nahi hoti.
+- **D:** Respiratory rate se patient ki breathing ki frequency pata chalti hai. Ye heart rate aur rhythm assessment ko replace nahi karti.
 
-**Exam clue:** Irregular pulse → apical full minute, assess symptoms.
+**Exam clue:** Irregular pulse mein full-minute apical assessment consider karo aur patient ke symptoms aur rhythm bhi check karo.
 
 [Concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-5-heart-rate)
 
@@ -2590,16 +2590,16 @@ Rapid fresh bleeding aur rising pulse hemorrhage ke signs ho sakte hain. Blood l
 **Correct: B. Assessment**
 
 <!-- job5-rationale -->
-Dekho, ADPIE nursing process ke paanch steps hain: Assessment, Diagnosis, Planning, Implementation aur Evaluation. Assessment mein nurse patient ki baat sunti hai aur physical findings collect karti hai. Nausea ke saath vomiting, fluid intake, urine output aur vital signs check karne se dehydration ya deterioration ka risk samajh aata hai. Severe symptoms mein rapid assessment aur zaroori urgent care saath-saath chal sakti hai. Isliye B sahi hai.
+Dekho, ADPIE nursing process ke paanch steps hain. Inmein Assessment, Diagnosis, Planning, Implementation aur Evaluation aate hain. Assessment mein nurse patient ki baat sunti hai aur uski condition se related findings collect karti hai. Is question mein patient ne severe nausea, yaani ulti jaisa lagne ki problem, batayi hai. Lekin nurse ne abhi vital signs aur hydration check nahi ki hai. Woh vomiting, fluid intake, urine output aur vital signs assess karegi, taaki samajh sake ki dehydration ya condition kharab hone ka risk hai ya nahi. Agar severe symptoms hain, toh rapid assessment aur urgent care saath-saath chal sakti hain. Isliye B sahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** Implementation ka matlab selected care ko karna hai. Bina patient ki zaroorat samjhe routine plan execute karna sahi nahi.
-- **B:** Assessment pehle hoti hai aur uske results ke basis par diagnosis aur plan banta hai.
-- **C:** Evaluation mein care ke baad result compare karte hain. Abhi koi result evaluate nahi karna hai.
-- **D:** Planning mein goals aur interventions decide hote hain. Abhi zaroori data hi missing hai.
+- **A:** Implementation ka matlab hai ki nurse planned care ko actually deti hai. Is situation mein routine care ka plan follow karne se pehle nurse ko patient ki current problem aur safety samajhni hai. Isliye implementation is question ka best answer nahi hai.
+- **B:** Assessment mein nurse patient se information leti hai aur examination ya measurements se zaroori findings collect karti hai. Yahan hydration aur vital signs abhi check nahi hue hain. Isliye assessment karna sahi step hai.
+- **C:** Evaluation mein nurse care dene ke baad actual result ko goal se compare karti hai. Is question mein abhi patient ki problem ka initial assessment bhi complete nahi hua hai. Isliye evaluation current step nahi hai.
+- **D:** Planning mein nurse patient ke liye goals aur suitable interventions decide karti hai. Lekin agar zaroori assessment data nahi hai, toh individualized plan banana mushkil hoga. Isliye planning se pehle assessment ki zaroorat hai.
 
-**Exam clue:** Assessment = data collection, evaluation = result checking.
+**Exam clue:** Jab question mein zaroori patient information abhi collect nahi hui ho, toh assessment ko consider karo. Jab care ke baad result check karna ho, toh evaluation hoti hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -3239,16 +3239,16 @@ Patient ke paas injection seekhne ki physical ability hai, lekin use abhi sahi t
 **Correct: D. Respiratory rate of 28/min**
 
 <!-- job5-rationale -->
-Objective data woh finding hai jo examination, observation ya measurement se milti hai. Nurse chest movements count karke respiratory rate document karti hai. Resting adult mein 28/min generally raised rate hai, par age aur clinical context bhi dekhna hota hai. Is finding ki category objective hai, chahe underlying cause abhi pata na ho.
+Objective data woh finding hai jo nurse examination, observation ya measurement se collect kar sakti hai. Respiratory rate ka matlab hai ki patient ek minute mein kitni baar saans leta hai. Nurse chest movements count karke rate document karti hai. Resting adult mein 28 breaths per minute aam taur par raised rate hota hai, lekin patient ki age aur clinical condition bhi dekhni hoti hai. Nurse ko cause abhi pata na ho tab bhi measured respiratory rate objective finding hi hai. Isliye D sahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** Anxiety ki patient report subjective hai. Observable tremor jaise signs objective ho sakte hain.
-- **B:** Itching ki feeling subjective hai. Visible scratch marks objective hote hain.
-- **C:** Dizziness ki report patient ka experience hai. Balance test alag objective finding ho sakta hai.
-- **D:** Rate ko count kiya ja sakta hai. D objective data hai.
+- **A:** Patient jab apni anxiety ke baare mein batata hai, toh woh subjective data hota hai. Agar nurse haathon ka tremor observe kare, toh woh objective finding ho sakti hai.
+- **B:** Patient ko wound mein khujli feel hona uska personal experience hai, isliye ye subjective data hai. Agar nurse skin par scratch marks dekhe, toh woh alag objective finding hogi.
+- **C:** Chakkar aana patient ka apna experience hai. Patient ki report subjective data hai. Agar nurse balance test karke koi abnormal finding observe karti hai, toh woh alag objective finding hogi.
+- **D:** Nurse patient ki breathing count karke respiratory rate measure kar sakti hai. Isliye 28/min objective data hai.
 
-**Exam clue:** Question mein reports, describes aur says jaise words subjective data ka clue dete hain.
+**Exam clue:** Jab patient apni feeling report karta hai, toh subjective data consider karo. Jab nurse koi finding observe ya measure karti hai, toh woh objective data ho sakti hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->

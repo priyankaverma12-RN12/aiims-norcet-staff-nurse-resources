@@ -4,7 +4,7 @@
 
 **Topic priority:** 🟠 HIGH YIELD · **Study-ready, not studied.** Earlier group 02 Q5, 8, 17, 19 (4) + [26 new MCQs](../MCQs/02C-Clinical-Handover-and-Team-Communication-26-MCQs.md) = 30 allocated. Transfer/admission and management chapters have separate clinical scope, avoid repeated stems.
 
-Handover ka matlab information aur current care responsibility ko safely next responsible clinician/team tak transfer karna hai. Message bhejna alone enough nahi, recipient understands and accepts relevant tasks, questions clarify hoti hain. Use facility-approved structure. Critical current condition and urgency first, relevant context and tasks next. Patient identification approved identifiers se verify karo.
+Handover ka matlab hai ki nurse patient ki relevant information aur current care responsibility ko next responsible clinician ya team tak safely transfer karti hai. Sirf message bhejna kaafi nahi hai. Receiving person ko information samajhni chahiye, relevant tasks accept karne chahiye aur unclear baat clarify karni chahiye. Facility-approved structured format use karna helpful hai. Nurse pehle current serious condition aur urgency batati hai, phir relevant background aur pending tasks explain karti hai. Approved patient identifiers se patient identity verify karni chahiye.
 
 <a name="sbar-and-i-pass"></a>
 
@@ -24,20 +24,20 @@ Handover ka matlab information aur current care responsibility ko safely next re
 
 | SBAR | Meaning |
 |---|---|
-| Situation | Who, what is happening now, urgency |
-| Background | Relevant diagnosis, history, treatment or recent procedure |
-| Assessment | Current findings and reasoned clinical concern |
-| Recommendation | Specific requested action and urgency |
+| Situation | Nurse batati hai ki patient kaun hai, abhi kya ho raha hai aur problem kitni urgent hai. |
+| Background | Nurse relevant diagnosis, history, treatment ya recent procedure batati hai, taaki receiving team ko context samajh aaye. |
+| Assessment | Nurse actual current findings aur unke basis par apni clinical concern batati hai. |
+| Recommendation | Nurse clearly batati hai ki kaunsa action ya review chahiye aur kitni jaldi chahiye. |
 
-Example: Situation patient has new concerning clinical change. Background recent treatment and relevant diagnosis. Assessment actual observations and concern. Recommendation prompt bedside review and agreed escalation. Do not delay emergency care to finish a template. ISBAR adds Identification/Introduction according to the local format.
+SBAR ko ek example se samjho. Situation mein nurse batati hai ki patient mein naya concerning change aaya hai. Background mein recent treatment aur relevant diagnosis batati hai. Assessment mein actual observations aur apni concern explain karti hai. Recommendation mein prompt bedside review aur agreed escalation request karti hai. Agar emergency hai, toh template complete karne ke chakkar mein urgent care delay nahi karni chahiye. ISBAR mein local format ke according Identification ya Introduction bhi add hota hai.
 
 | I-PASS | Meaning |
 |---|---|
-| Illness severity | Current stability/urgency |
-| Patient summary | Relevant clinical context and course |
-| Action list | Tasks, who and when |
-| Situation awareness and contingency planning | What changes to watch and what to do |
-| Synthesis by receiver | Receiver confirms understanding and clarifies |
+| Illness severity | Nurse patient ki current stability aur urgency batati hai. |
+| Patient summary | Nurse relevant clinical background aur ab tak patient ki condition ka course summarize karti hai. |
+| Action list | Nurse batati hai ki kaunsa task baaki hai, kaun karega aur kab tak karna hai. |
+| Situation awareness and contingency planning | Nurse batati hai ki kaunse changes par dhyan dena hai aur agar woh changes aayein toh kya action lena hai. |
+| Synthesis by receiver | Receiving clinician important information apne words mein confirm karta hai aur unclear points clarify karta hai. |
 
 ```mermaid
 flowchart TD
@@ -48,7 +48,9 @@ flowchart TD
  D --> B
 ```
 
-Check-back closed-loop: sender communicates, receiver repeats key content, sender verifies or corrects. Teach-back checks patient understanding, check-back verifies staff communication. Call-out important urgent information team ko announce karta hai. Task assignment named person/role and acknowledgment ke saath. Brief shared plan before activity, huddle changing situation mein replan, debrief activity ke baad learning. Persistent safety concern respectfully restate karo, supporting evidence and approved escalation pathway follow karo.
+Closed-loop communication mein sender message deta hai, receiver important information repeat karta hai aur sender confirm karta hai ki message sahi samjha gaya ya zaroorat par correction karta hai. Is method ko check-back kehte hain. Teach-back mein patient ki understanding check ki jaati hai, jabki check-back staff ke beech message ki accuracy verify karta hai.
+
+Call-out mein important urgent information team ko clearly announce ki jaati hai. Task assign karte waqt responsible person ya role clear hona chahiye aur uski acknowledgment milni chahiye. Brief mein activity se pehle team shared plan banati hai. Huddle mein situation badalne par plan dobara discuss kiya jaata hai. Debrief mein activity ke baad team learning review karti hai. Agar safety concern resolve nahi hua hai, toh nurse respectfully concern dobara batati hai, supporting evidence share karti hai aur approved escalation pathway follow karti hai.
 
 <a name="transfer-and-shift-safety"></a>
 
@@ -66,7 +68,9 @@ Check-back closed-loop: sender communicates, receiver repeats key content, sende
 **YouTube MCQ practice: verification pending** — dedicated handover question-solving video not verified. [Supplementary written handoff and SBAR practice](https://nursing.growthoval.com/practice/fundamentals-safety/handoff-sbar/) (indexed; not a YouTube video or Indian exam provenance).
 <!-- /job4-metadata -->
 
-Current medicines/infusions, access, allergies and reaction uncertainty, precautions, functional needs, restrictions, observations, pending tests and consultations, escalation plan communicate karo as relevant. Verify discrepancies against authorized current orders. Time-sensitive outstanding tasks have responsible person and due time. Sent secure message is not proof of receipt or action. Protect handover from nonurgent interruptions but emergency response remains priority. Bedside involvement helps identify discrepancies, sensitive details privately share with authorized team according to consent and law. Incomplete information clearly identify, do not invent gaps. Receiving team accepts current responsibility according to policy. Clinical chart and handover complement each other.
+Shift ya transfer handover mein nurse relevant current medicines aur infusions, vascular access, allergies aur reaction ke baare mein uncertainty, precautions, functional needs, restrictions, observations, pending tests, consultations aur escalation plan communicate karti hai. Agar orders mein difference mile, toh current authorized orders se verify karna chahiye. Time-sensitive pending task ke liye responsible person aur due time clear hona chahiye. Secure message bhejne se automatically prove nahi hota ki receiving person ne use padha aur action liya.
+
+Handover ko nonurgent interruptions se protect karna useful hai, lekin emergency response hamesha priority rehta hai. Bedside par patient ko appropriately involve karne se kuch discrepancies identify ho sakti hain. Sensitive details consent aur applicable law ke hisaab se authorized team ke saath private tareeke se share karni chahiye. Jo information incomplete hai, use clearly incomplete batana chahiye. Gaps ko invent nahi karna chahiye. Receiving team policy ke according current responsibility accept karti hai. Clinical chart aur handover dono ek doosre ko complement karte hain.
 
 <a name="sources-and-resources"></a>
 

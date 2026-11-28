@@ -17,16 +17,16 @@ D. Palpation
 **Correct answer: B. Percussion**
 
 <!-- job5-rationale -->
-Percussion mein body surface ko gently tap karke produced sound aur vibration se underlying air, fluid ya tissue density ka indirect clue milta hai. Normally aerated lung resonance aur dense tissue dullness produce kar sakta hai. Gas-filled stomach par tympany commonly heard hoti hai. Finding ko symptoms aur other exam observations se correlate karo. Percussion alone disease confirm nahi karti.
+Percussion mein nurse body surface par gently tap karti hai aur resulting sound aur vibration interpret karti hai. Maan lo nurse lung ke upar tap karti hai. Normally aerated lung mein resonance mil sakti hai. Agar underlying tissue dense hai ya fluid present hai, toh dullness mil sakti hai. Gas-filled stomach par tympany commonly sunai deti hai. In sounds se underlying air, fluid aur tissue density ka indirect clue milta hai. Nurse findings ko symptoms aur doosre examination results ke saath interpret karti hai. Percussion alone exact disease confirm nahi karti.
 
 **Option-by-option reasoning**
 
-- **A:** Inspection visual appearance, symmetry aur movement observe karti hai, tapping nahi.
-- **B:** Percussion mein examiner tapping se sound produce karke interpret karta hai, isliye B correct hai.
-- **C:** Auscultation mein body-generated sounds listen karte hain, usually stethoscope se.
-- **D:** Palpation touch se tenderness, warmth, texture aur size assess karti hai.
+- **A:** Inspection mein nurse appearance, symmetry aur movement ko aankhon se observe karti hai. Ismein tapping karke sound produce nahi ki jaati.
+- **B:** Percussion mein nurse tapping karke sound produce aur interpret karti hai. Isliye B sahi hai.
+- **C:** Auscultation mein nurse body ke andar naturally generate hone wali sounds sunti hai, usually stethoscope se. Ye percussion se alag technique hai.
+- **D:** Palpation mein touch se tenderness, warmth, texture aur size jaise findings assess ki jaati hain. Ye tapping se sound interpret karne ki technique nahi hai.
 
-**Exam clue:** IPPA: look, feel, tap, listen. Abdomen uses conventional IAPP order.
+**Exam clue:** IPPA mein inspection, palpation, percussion aur auscultation aate hain. Routine abdomen assessment mein conventional order inspection, auscultation, percussion aur palpation hota hai.
 
 [Clinical concept reference](https://openstax.org/books/clinical-nursing-skills/pages/24-3-nursing-assessment)
 

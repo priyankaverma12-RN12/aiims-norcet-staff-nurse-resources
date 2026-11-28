@@ -16,16 +16,16 @@ Which anatomical landmark usually corresponds to the adult cardiac apical impuls
 **Correct answer: C. Left fifth intercostal space near the midclavicular line**
 
 <!-- job5-rationale -->
-Adult cardiac apex commonly left fifth intercostal space near midclavicular line par chest wall ke close hota hai. PMI palpation mein localized ventricular impulse feel karte hain, jabki apical pulse auscultation mein stethoscope se heartbeats count karte hain. Dono related anatomical areas use kar sakte hain but assessment technique different hai. Body position, chest anatomy aur cardiac enlargement location change kar sakte hain. Unexpected displaced impulse ko clinical context mein report karo.
+Heart ka apex uska lower pointed portion hai jo adult mein usually left fifth intercostal space aur midclavicular line ke paas chest wall ke close hota hai. Intercostal space do ribs ke beech ki jagah hai. Midclavicular line collarbone ke midpoint se neeche jaane wali imaginary line hai. PMI, yaani point of maximal impulse, palpate karne mein nurse localized ventricular impulse feel karti hai. Apical pulse assess karne mein nurse stethoscope se heartbeats sunti hai. Anatomical area related hai, lekin dono techniques alag hain. Patient ki position, anatomy aur cardiac enlargement ki wajah se location change ho sakti hai. Unexpected displaced impulse ko clinical context mein report karo.
 
 **Option-by-option reasoning**
 
-- **A:** Left second intercostal space parasternal area pulmonic auscultation site hai, usual apex nahi.
-- **B:** Right second intercostal space parasternal area aortic auscultation site hai.
-- **C:** Left fifth intercostal space near MCL usual adult apex hai, isliye C correct hai.
-- **D:** Epigastric pulsation abdominal aorta ya transmitted impulse se related ho sakti hai, usual apex landmark nahi.
+- **A:** Left second intercostal space sternum ke paas pulmonic valve sounds assess karne ka common area hai. Ye usual adult apex nahi hai.
+- **B:** Right second intercostal space sternum ke paas aortic auscultation ka common landmark hai. Ye usual apex ka location nahi hai.
+- **C:** Left fifth intercostal space near midclavicular line usual adult cardiac apex ka landmark hai. Isliye C sahi hai.
+- **D:** Epigastric region mein abdominal aorta ya transmitted cardiac impulse feel ho sakta hai. Ye usual adult apical impulse ka landmark nahi hai.
 
-**Exam clue:** Adult apex = left fifth ICS, MCL. Palpated PMI and auscultated apical rate are distinct.
+**Exam clue:** Adult apex ka usual landmark left fifth intercostal space near midclavicular line hai. PMI palpation aur apical heart rate auscultation ko alag samjho.
 
 [Clinical concept reference](https://openstax.org/books/clinical-nursing-skills/pages/15-5-heart-rate)
 

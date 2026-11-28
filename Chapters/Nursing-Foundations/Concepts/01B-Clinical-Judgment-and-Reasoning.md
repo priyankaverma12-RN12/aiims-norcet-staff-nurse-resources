@@ -14,7 +14,11 @@
 
 **Topic priority:** 🟠 HIGH YIELD · **Study-ready, not studied.** Earlier group 01 Q4, Q10 and Q17 + [27 new questions](../MCQs/01B-Clinical-Judgment-and-Reasoning-27-MCQs.md) = 30 allocated. Group 30 integrated prioritization cases remain separately assigned and not counted here.
 
-Clinical judgment means patient ki information ko samajhkar safe decision lena. Clinical reasoning is thinking process behind decision. Critical thinking means evidence question karna, assumptions identify karna and alternatives evaluate karna. Nurse observation, experience, guidelines, clinical context and patient preferences integrate karti hai. Clinical judgment measurement model (CJMM) is an educational framework, not claim of official NORCET model.
+Clinical judgment ka matlab hai ki nurse patient ki condition samajhkar ek safe decision leti hai. Clinical reasoning woh sochne ka process hai jisse nurse decision tak pahunchti hai. Critical thinking ka matlab hai ki nurse evidence ko dhyan se dekhti hai, apne assumptions ko check karti hai aur doosri possible explanations par bhi sochti hai.
+
+Maan lo ek patient pehle theek se baat kar raha tha, lekin ab use baar-baar jagana pad raha hai. Sirf itna dekhkar ki patient so raha hai, nurse ye decide nahi karegi ki sab theek hai. Woh patient ki breathing, vital signs, medicines, pehle ki condition aur doosri relevant findings ko ek saath dekhegi. Nurse apne experience, clinical guidelines, patient ki actual condition aur preferences ko dhyan mein rakhkar decision leti hai.
+
+Clinical Judgment Measurement Model, jise CJMM kehte hain, nursing students ko is tarah sochna sikhane ka ek educational framework hai. Ye official NORCET model hone ka claim nahi hai.
 
 ```mermaid
 flowchart TD
@@ -29,14 +33,18 @@ flowchart TD
 
 | Activity | Simple explanation | Example |
 |---|---|---|
-| Recognize cues | Relevant clue notice karo | Usual alert patient unusually sleepy |
-| Analyze cues | Related clues connect karo | Drowsiness plus changed breathing, medication history and observations |
-| Prioritize hypotheses | Most urgent and supported possible problem pehle consider karo | Assess ventilation and other serious causes |
-| Generate solutions | Safe feasible options identify karo | Prompt assessment, urgent help and protocol-based action |
-| Take action | Appropriate intervention and communication | Escalate deterioration and provide indicated support |
-| Evaluate outcomes | Response compare karo | Repeat clinical assessment, adjust if worsening |
+| Recognize cues | Nurse aisi relevant finding ko pehchaanti hai jo patient ki condition samajhne mein madad kar sakti hai. | Jo patient aam taur par alert rehta tha, woh ab unusually sleepy lag raha hai. |
+| Analyze cues | Nurse related findings ko ek saath dekhti hai aur samajhti hai ki unka kya matlab ho sakta hai. | Nurse neend, breathing mein badlav, medicine history aur observations ko ek saath dekhti hai. |
+| Prioritize hypotheses | Nurse possible problems mein se pehle us problem ko consider karti hai jo evidence se support hoti hai aur jismein delay se serious nuksaan ho sakta hai. | Nurse ventilation aur doosri serious causes ko turant assess karti hai. |
+| Generate solutions | Nurse sochti hai ki patient ki current condition mein kaunse steps safe hain aur practically kiye ja sakte hain. | Nurse prompt assessment, urgent help aur protocol ke hisaab se care ka plan banati hai. |
+| Take action | Nurse zaroori action leti hai aur relevant healthcare team ko patient ki condition batati hai. | Nurse deterioration ko escalate karti hai aur indicated support deti hai. |
+| Evaluate outcomes | Nurse dobara patient ki condition check karti hai aur dekhti hai ki action ka kya result hua. | Agar reassessment mein condition aur kharab milti hai, toh nurse care ko adjust karti hai aur zaroori help leti hai. |
 
-Life threats require immediate response, not exhaustive history first. ABC or ABCDE structured assessment useful hai, but immediate context matters. Cardiac arrest uses resuscitation algorithm. Actual problem always wins over risk is not universal, imminent severe risk can be more urgent. Early warning scores support, not replace, clinical judgment. New concerning findings warrant review even if score not yet high. Trend compare with baseline. One severe value may also require immediate response.
+Agar patient ki jaan ko turant khatra hai, toh nurse ko poori history lene ke liye urgent care delay nahi karni chahiye. ABC ka matlab airway, breathing aur circulation hai. ABCDE mein disability, yaani neurological condition, aur exposure, yaani zaroorat ke hisaab se body examine karna, bhi aata hai. Ye structured assessment helpful hai, lekin patient ki actual situation ko dhyan mein rakhna zaroori hai. Cardiac arrest mein appropriate resuscitation algorithm follow kiya jaata hai.
+
+Exam mein kabhi-kabhi kaha jaata hai ki actual problem ko risk se pehle address karo. Lekin ye har situation ka fixed rule nahi hai. Agar kisi serious problem ka risk turant jaan ko khatre mein daal sakta hai, toh woh bhi priority ban sakta hai.
+
+Early warning score nurse ko deterioration pehchaanne mein madad karta hai, lekin ye clinical judgment ki jagah nahi le sakta. Agar nayi finding concerning hai, toh score zyada na hone par bhi nurse ko review arrange karna chahiye. Purane baseline ke saath nayi findings compare karne se trend samajh aata hai. Kabhi ek hi bahut abnormal value bhi urgent response ki wajah ban sakti hai.
 
 <a name="common-cognitive-errors"></a>
 
@@ -54,7 +62,11 @@ Life threats require immediate response, not exhaustive history first. ABC or AB
 **YouTube MCQ practice: verification pending** — dedicated cognitive-bias question practice not verified.
 <!-- /job4-metadata -->
 
-Anchoring = first explanation par atak jana. Confirmation bias = sirf supporting evidence choose karna. Premature closure = alternatives check kiye bina conclusion. Hindsight bias = later outcome dekhkar assume karna ki pehle sab clear tha. Correct approach: check contradictory cues, review timing, consider alternative explanations, seek team advice, identify uncertainty and reassess. Data validation is important, but unstable patient care delay nahi hona chahiye.
+Anchoring tab hota hai jab nurse pehli possible explanation par atak jaati hai aur nayi information milne par bhi apni soch nahi badalti. Maan lo kisi patient ki drowsiness ko pehle thakaan maana gaya tha. Agar baad mein breathing abnormal milti hai, toh nurse ko thakaan wali explanation par atke nahi rehna chahiye.
+
+Confirmation bias tab hota hai jab hum sirf wahi evidence dekhte hain jo hamari pehle se bani hui soch ko support karta hai. Premature closure tab hota hai jab hum doosri possible causes ko check kiye bina bahut jaldi conclusion par pahunch jaate hain. Hindsight bias tab hota hai jab outcome pata chalne ke baad humein lagta hai ki pehle se hi sab kuch clear hona chahiye tha, jabki us waqt information limited ho sakti thi.
+
+In mistakes se bachne ke liye nurse ko un findings par bhi dhyan dena chahiye jo uski pehli explanation se match nahi karti hain. Nurse timing check karti hai, doosri possibilities par sochti hai, zaroorat padne par team se advice leti hai aur apni uncertainty ko accept karke reassessment karti hai. Data verify karna important hai, lekin unstable patient ko zaroori urgent care dene mein delay nahi hona chahiye.
 
 <a name="nursing-role-and-examples"></a>
 
@@ -72,7 +84,13 @@ Anchoring = first explanation par atak jana. Confirmation bias = sirf supporting
 **▶️ [YouTube MCQ practice — Nursing process and critical thinking](https://www.youtube.com/watch?v=Nczi2xT76QA)** · ADAPT NCLEX REVIEW, description and published topic chapters verified; supplementary clinical reasoning scenarios, exact question coverage/playback pending.
 <!-- /job4-metadata -->
 
-Assistant reports new inability to groom. Nurse is responsible for assessment and interpretation, assistant report valuable cue hai. Patient reports symptom with no initial objective sign, don't dismiss, reassess and communicate persistent concern. Team disagreements evidence and urgent safety actions par focus karein. Unavailable required monitoring early escalate karo. Critical result notify per protocol while assessing patient. Reassessment timing intervention onset, risk and protocol-dependent. Patient consent, values, family preference and cultural context care plan mein include karo. Reflection after incidents individual reasoning plus system factors evaluate karti hai, nonpunitive improvement useful hai.
+Maan lo nursing assistant batata hai ki patient pehle khud grooming kar leta tha, lekin aaj nahi kar paa raha hai. Ye ek valuable clue hai. Nurse ki responsibility hai ki woh patient ka assessment kare aur samjhe ki ye change kyun hua ho sakta hai.
+
+Agar patient kisi symptom ki report karta hai aur shuru mein objective sign nahi milta, toh nurse ko patient ki baat dismiss nahi karni chahiye. Nurse dobara assessment karti hai aur agar concern bana rehta hai, toh relevant team ko batati hai. Agar team ke members ki rai alag hai, toh discussion evidence aur patient ki urgent safety par focused hona chahiye.
+
+Agar required monitoring available nahi hai, toh nurse ko ye problem jaldi escalate karni chahiye. Critical test result aane par nurse protocol ke hisaab se team ko inform karti hai aur patient ki condition assess karti hai. Reassessment kab karna hai, ye intervention ka effect shuru hone ke expected time, patient ke risk aur applicable protocol par depend karta hai.
+
+Care plan banate waqt nurse patient ki consent, values, family preferences aur cultural context ko dhyan mein rakhti hai. Kisi incident ke baad reflection ka matlab hai ki team ye samjhe ki individual decision-making aur system ki conditions ne outcome ko kaise affect kiya. Sirf kisi ko blame karne ki jagah improvement par focus karna useful hota hai.
 
 <a name="references-and-videos"></a>
 

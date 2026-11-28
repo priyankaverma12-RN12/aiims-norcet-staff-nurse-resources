@@ -14,7 +14,9 @@
 **▶️ [YouTube MCQ practice — Nursing Margdarshan R.N.M., image-based equipment questions](https://www.youtube.com/watch?v=tUteiKjol8s)** · Description lists pulse oximeter among equipment MCQs; device-level practice only, exact question and playback pending.
 <!-- /job4-metadata -->
 
-SpO2 peripheral arterial hemoglobin oxygen saturation ka noninvasive estimate hai. Conventional sensor red and infrared light use karta hai because oxygenated and deoxygenated hemoglobin differently absorb karte hain. Device pulsatile arterial optical signal analyze karta hai. Display usually SpO2 percentage and pulse rate show karta hai, not ECG rhythm, PaCO2 or hemoglobin concentration.
+Pulse oximeter ek noninvasive device hai jo peripheral arterial blood mein hemoglobin ki oxygen saturation estimate karta hai. SpO2 ka matlab hai ki available hemoglobin ke oxygen-binding sites ka approximate kitna percentage oxygen se occupied hai. Conventional pulse oximeter sensor red aur infrared light use karta hai. Oxygenated aur deoxygenated hemoglobin in lights ko alag tareeke se absorb karte hain. Device pulsatile arterial optical signal analyze karke saturation estimate karta hai.
+
+Display par usually SpO2 percentage aur pulse rate dikhte hain. Ye ECG nahi hai, isliye exact electrical heart rhythm establish nahi karta. Ye PaCO2, yaani arterial carbon dioxide pressure, ya hemoglobin concentration bhi directly measure nahi karta.
 
 ```mermaid
 flowchart LR
@@ -25,16 +27,18 @@ flowchart LR
  E --> F[Interpret with clinical assessment]
 ```
 
-Healthy adult at sea level often has SpO2 95–100%, but baseline, altitude and illness matter. Target saturation individualized hota hai, not everyone must reach 100%. Some patients at risk of hypercapnic respiratory failure have prescribed 88–92% targets. Follow local protocol and clinician plan. New distress needs urgent assessment regardless of number.
+Sea level par healthy adult ki SpO2 aksar 95–100% hoti hai. Lekin patient ki usual baseline, altitude aur clinical condition bhi matter karti hai. Har patient ko 100% saturation tak pahunchana zaroori nahi hai. Kuch patients jinmein hypercapnic respiratory failure ka risk hai, unke liye clinician 88–92% target prescribe kar sakta hai. Nurse patient-specific target, local protocol aur authorized treatment plan follow karti hai. Agar patient ko nayi breathing distress ho rahi hai, toh number apparently normal hone par bhi urgent assessment chahiye.
 
 | Parameter | Meaning | Limitation |
 |---|---|---|
-| SpO2 | Estimated oxygen-bound hemoglobin percentage | Not total oxygen content or ventilation |
-| PaO2 | Arterial dissolved oxygen partial pressure | Not identical to saturation |
-| PaCO2 | Arterial carbon dioxide pressure | Not measured by pulse oximeter |
-| Hemoglobin | Oxygen-carrying protein concentration | Low Hb can reduce oxygen content despite high SpO2 |
+| SpO2 | Ye oxygen se occupied hemoglobin ka approximate percentage batata hai. | Isse total oxygen content ya ventilation directly pata nahi chalti. |
+| PaO2 | Ye arterial blood mein dissolved oxygen ka partial pressure batata hai. | Ye hemoglobin saturation ke exactly barabar nahi hota. |
+| PaCO2 | Ye arterial blood mein carbon dioxide ka partial pressure batata hai. | Pulse oximeter PaCO2 measure nahi karta. |
+| Hemoglobin | Ye blood mein oxygen carry karne wale protein ki concentration hai. | Hemoglobin kam ho toh high SpO2 ke bawajood total oxygen content kam ho sakta hai. |
 
-Example: bus mein available seats 98% occupied hain, but bus mein seats bahut kam hain toh passengers total kam honge. Similarly severe anemia mein saturation high ho sakti hai, total oxygen content low. Oxygen delivery also circulation par depend karti hai. Oxygen dissociation curve sigmoid hai, upper flat portion par PaO2 may change substantially with little saturation change. Oximeter cannot quantify hyperoxia.
+Is concept ko bus ke example se samjho. Ek bus mein agar 98% seats occupied hain, toh occupancy percentage high hai. Lekin agar bus mein total seats hi bahut kam hain, toh total passengers bhi kam ho sakte hain. Isi tarah severe anemia mein available hemoglobin kam hota hai. Us hemoglobin ka saturation high ho sakta hai, lekin blood ka total oxygen content phir bhi kam ho sakta hai. Tissues tak oxygen delivery blood circulation par bhi depend karti hai.
+
+Oxygen dissociation curve hemoglobin saturation aur PaO2 ka relationship dikhati hai aur iska shape sigmoid, yaani S jaisa, hota hai. Curve ke upper flat part par PaO2 mein considerable change hone ke bawajood saturation mein sirf chhota change dikh sakta hai. Isliye pulse oximeter high saturation ke basis par hyperoxia, yaani oxygen ka excessive level, quantify nahi kar sakta.
 
 <a name="safe-procedure"></a>
 
@@ -44,7 +48,9 @@ Example: bus mein available seats 98% occupied hain, but bus mein seats bahut ka
 **YouTube MCQ practice: verification pending** — specific sensor placement, care and error-management questions not established; existing teaching resources below retained. [Related original practice](../MCQs/03D-Pulse-Oximetry-Assessment-29-MCQs.md).
 <!-- /job4-metadata -->
 
-Explain, verify patient, hand hygiene and check current condition. Choose validated compatible sensor for age and approved site, e.g. finger or appropriate ear/infant sensor. Inspect skin and perfusion. Apply per manufacturer instructions, avoid excessive pressure. Reduce motion and interfering nail products when feasible. Check signal quality and compare displayed pulse with clinical pulse as appropriate. Record stable reading plus time, oxygen support, device/flow or concentration and symptoms. Continuous monitoring needs ordered targets, appropriate alarms, skin checks and site rotation per policy. Clean reusable sensors between patients. Do not delay urgent care to obtain a perfect reading.
+Pulse oximetry se pehle nurse patient ki identity verify karti hai, procedure samjhati hai, hand hygiene karti hai aur current condition assess karti hai. Patient ki age aur approved measurement site ke according validated compatible sensor choose karna chahiye. Finger sensor, appropriate ear sensor ya infant sensor alag situations mein use ho sakte hain. Nurse skin aur perfusion check karti hai aur manufacturer instructions ke according sensor lagati hai, taaki excessive pressure na pade.
+
+Agar patient move kar raha hai ya nail products reading interfere kar rahe hain, toh feasible hone par interference kam karo. Signal quality check karo aur zaroorat ke hisaab se displayed pulse rate ko patient ki clinical pulse se compare karo. Stable reading ke saath time, symptoms, oxygen support aur applicable device, flow rate ya concentration record karo. Continuous monitoring mein prescribed targets, appropriate alarms, skin checks aur policy ke according sensor site rotation chahiye. Reusable sensor ko patients ke beech approved method se clean karna chahiye. Agar patient unstable hai, toh perfect reading ka wait karke urgent care delay nahi karni chahiye.
 
 ```mermaid
 flowchart TD
@@ -66,14 +72,14 @@ flowchart TD
 **YouTube MCQ practice: verification pending** — specific artifacts and clinical scenarios not established. Do not infer accuracy from an apparently normal display alone.
 <!-- /job4-metadata -->
 
-- Motion, cold extremities, low perfusion, nail products, ambient light and poor sensor fit can compromise accuracy.
-- BP cuff inflation on same limb may temporarily interrupt pulsatile signal. Use suitable alternate site when feasible.
-- Skin pigmentation-related bias is a documented limitation, not a reason to apply fixed numerical corrections. Symptoms and confirmatory assessment when indicated are essential.
-- Conventional two-wavelength SpO2 may be falsely reassuring in carbon monoxide poisoning and unreliable in methemoglobinemia. Appropriate co-oximetry and clinical evaluation needed.
-- Oxygenation is not ventilation. A sedated patient may retain CO2 despite normal saturation on oxygen.
-- Same saturation on increasing oxygen support can indicate deterioration.
-- Consumer wellness monitors may lack medical-purpose validation. Do not rely on them alone for concerning symptoms.
-- Alarm acknowledgment is not clinical resolution. Assess patient, verify equipment, act and reassess.
+- Patient ki movement, cold extremities, poor perfusion, nail products, ambient light aur loose ya unsuitable sensor fit se reading inaccurate ho sakti hai. Nurse patient aur signal dono check karti hai.
+- Agar BP cuff aur oximeter same limb par hain, toh cuff inflate hone par pulsatile signal temporarily interrupt ho sakta hai. Feasible hone par suitable alternate site use ki ja sakti hai.
+- Skin pigmentation-related measurement bias documented limitation hai. Iska solution har patient ki reading mein fixed number add ya subtract karna nahi hai. Symptoms, clinical findings aur indicated confirmatory assessment ko saath mein consider karo.
+- Carbon monoxide poisoning mein conventional two-wavelength oximeter falsely reassuring saturation dikha sakta hai. Methemoglobinemia mein bhi reading unreliable ho sakti hai. Aise concerns mein appropriate co-oximetry aur clinical evaluation chahiye.
+- Oxygenation aur ventilation alag hain. Maan lo sedated patient oxygen support par hai. SpO2 normal dikh sakti hai, lekin ventilation inadequate hone se carbon dioxide retain ho sakti hai. Nurse ko breathing aur consciousness bhi assess karni chahiye.
+- Agar same SpO2 maintain karne ke liye oxygen support badhana pad raha hai, toh ye patient ki condition deteriorate hone ka clue ho sakta hai. Number ke saath support requirement ka trend bhi dekho.
+- Consumer wellness monitor necessarily medical-purpose validated nahi hota. Concerning symptoms hone par sirf aise monitor ki reading par depend nahi karna chahiye.
+- Alarm acknowledge karne se underlying clinical concern solve nahi ho jaati. Nurse patient assess karti hai, equipment aur signal verify karti hai, indicated action leti hai aur response dobara check karti hai.
 
 <a name="clinical-references"></a>
 
