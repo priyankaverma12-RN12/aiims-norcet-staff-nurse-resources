@@ -17,7 +17,8 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
 - Placental structure and function: [20 original MCQs](../MCQs/05A-Placental-Structure-and-Function-20-MCQs.md) · [Concepts](05A-Placental-Structure-and-Function.md) · [Reported evidence](../Previous-Year-Questions/05A-Placenta-Reported-Exam-Evidence.md). Published; independent review pending.
 - Fetal membranes: [20 original MCQs](../MCQs/05B-Fetal-Membranes-20-MCQs.md) · [Concepts](05B-Fetal-Membranes.md) · [Reported evidence](../Previous-Year-Questions/05B-Fetal-Membranes-Reported-Evidence.md). Published; independent audit pending.
 - Amniotic fluid: [20 original MCQs](../MCQs/05C-Amniotic-Fluid-20-MCQs.md) · [Concepts](05C-Amniotic-Fluid.md) · [Reported evidence](../Previous-Year-Questions/05C-Amniotic-Fluid-Reported-Evidence.md). Published; independent review pending.
-- Umbilical cord: separate topic package pending.
+- Umbilical cord: [20 original MCQs](../MCQs/05D-Umbilical-Cord-20-MCQs.md) · [Concepts](05D-Umbilical-Cord.md) · [Reported evidence](../Previous-Year-Questions/05D-Umbilical-Cord-Reported-Evidence.md). Published; independent review pending.
+- Six-topic batch allocation: 120 new original questions, 20 per topic. Next: fetal assessment, then subsequent chapters in existing order. No mock completion or learning attempt recorded.
 - fetal assessment
 - normal pregnancy and labor
 - partograph and delivery
