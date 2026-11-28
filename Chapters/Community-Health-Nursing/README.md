@@ -15,11 +15,11 @@
 
 ## Manual chapter work claim
 
-State: CLAIMED
-Owner: community-pr61-b10-20261128-1234Z
-Scope: PR61 Batch10 deficit-only supplements for 21,24–35 subject to actual label counts and distinct objectives; preserve Batch09 and PR62 overlap allocations; no shared navigation, no specialty treatment.
-Claimed UTC: 2026-11-28T12:34:12Z
-Expiry UTC: 2026-11-28T13:04:12Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Latest candidate: [PR62 — Batch 01](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/62), head `b6157733d7f4e1b0180e98569d35f47ddce7fb84`. Five banks, 100 original MCQs, 400 individual Roman Hinglish option rationales, 100 exam clues, 16 Easy, 55 Medium, 29 Difficult. All bank and candidate index exact remote readbacks passed, 100 distinct normalized stems, four options and aligned key per question. Not live. Preserve four existing originals and two reported adaptations. Resume actual remaining topic banks on the same candidate branch after exclusive ownership, then ten 120-question original-only mocks, then source-traced PYQs. Concept/visual, video and independent release checks remain pending. No repeat retrospective audit during content creation. Preserve other owners and five hourly schedules.
 
@@ -66,3 +66,8 @@ PR61 verified head `2462be3a9491bc6861d27ec178e232487f8f0105`. Added five actual
 ## PR61 Batch 09 checkpoint — 28 November 2026
 
 PR61 verified head `7599266a6df8890111a48abcf99f0e649d12cf6d`. Added 96 Easy originals in 16 topic-mapped six-question balance supplements (banks 06–12,14–20,22–23), 384 individual Roman Hinglish rationales and 96 clues. All selected banks had only 1–2 Easy versus 9–11 Medium questions; Easy-only deficit additions, not a forced split. Cumulative 896 staged originals, 3584 rationales, 40 original topic banks plus 16 supplements; 183 Easy/376 Medium/337 Difficult. All supplements and five refinements verified by exact readback; recovered HMIS remote write after disconnect without duplication. 96 distinct normalized new stems, no structural errors, no exact matches against 320 prior corresponding bank stems in two scoped comparison groups. Full cross-topic/adjacent/PR62 semantic comparison remains pending. Compare shows only 16 new files and zero deletions, all 40 original banks intact. PR62 coordination 7238748603 read; sibling head 436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5 preserved. Overlapping initial topics deferred, proposed single authoritative inventory reconciliation recorded but not executed; no mocks/PYQs or live credit, full curriculum/independent item evidence/clinical/semantic/difficulty/video/CI/navigation release gates pending. Next verify remaining curriculum and reserve distinct deficient topics for up to 100 new Easy/Medium questions; coordinate PR62 reconciliation before mocks. Preserve other sessions, learner history and five schedules; no retrospective audit repetition.
+
+
+## PR61 Batch 10 checkpoint — 28 November 2026
+
+PR61 verified head `760510aafdeed4a8aa25bc29e5f1551247988da3`. Added 78 Easy originals in 13 topic-mapped six-question supplements (21,24–35), 312 individual Roman Hinglish rationales and 78 clues. Six Easy additions per topic with actual 1–2 Easy versus 9–10 Medium and 8–10 Difficult deficits; no forced split. Cumulative 974 staged originals, 3896 rationales, 40 original banks plus 29 supplements; 261 Easy/376 Medium/337 Difficult. All new files and two refinements exactly read back; 78 distinct normalized stems and clues, zero structural errors, zero exact stem matches against 260 corresponding earlier bank questions. Git comparison confirms 13 new files only, zero deletions and all 896 previous originals preserved. PR62 head 436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5 and coordination 7238748603 checked; initial shared topics 01–05 remain unreconciled, malaria bank 13 needs adjacent screening, banks 36–40 already balanced 7/7/6. Other lanes untouched. Official topic sources retrieved and linked; some page opens and RKSK handbook screenshot failed; item-level evidence, semantic/clinical/difficulty and video review remain pending. Next coordinate bounded PR62 allocation review, screen malaria overlap, verify genuine residual gaps and remaining topic-specific deficits; no mock/PYQ or live credit until mandatory gates. Preserve all five schedules and learner history.
