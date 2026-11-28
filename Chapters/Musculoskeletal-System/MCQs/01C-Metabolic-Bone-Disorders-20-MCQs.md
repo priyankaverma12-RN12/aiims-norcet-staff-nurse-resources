@@ -8,22 +8,24 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Primary failure of mineral deposition into otherwise abundant osteoid
-- **B.** Reduced bone mass and deterioration of bone microarchitecture
+- **A.** Reduced bone mass and deterioration of bone microarchitecture
+- **B.** Primary failure of mineral deposition into otherwise abundant osteoid
 - **C.** Inflammation confined to synovial fluid
 - **D.** Abnormal thickening of all cortical bone
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Reduced bone mass and deterioration of bone microarchitecture**
+**Correct answer: A. Reduced bone mass and deterioration of bone microarchitecture**
 
-**A kyun galat hai:** Osteoid mein defective mineral deposition osteomalacia ka main mechanism hai, jo osteoporosis se alag hai.
+**A kyun sahi hai:** Osteoporosis mein bone ki quantity kam ho sakti hai aur internal supporting structure weak ho jaata hai. Isliye comparatively minor force se bhi fracture ho sakta hai.
 
-**B kyun sahi hai:** Osteoporosis mein bone ki quantity kam ho sakti hai aur internal supporting structure weak ho jaata hai. Isliye comparatively minor force se bhi fracture ho sakta hai.
+**B kyun galat hai:** Osteoid mein defective mineral deposition osteomalacia ka main mechanism hai, jo osteoporosis se alag hai.
 
 **C kyun galat hai:** Synovial inflammation arthritis ka concern hai. Ye generalized bone fragility ka primary mechanism nahi hai.
 
 **D kyun galat hai:** Osteoporosis mein bone uniformly thick nahi hoti. Strength kam ho sakti hai even jab symptoms absent hon.
+
+**Exam clue:** Osteoporosis mein bone strength reduce hoti hai.
 
 **Clinical reference:** [NIAMS bone density](https://www.niams.nih.gov/health-topics/bone-mineral-density-tests-what-numbers-mean). Indexed source, independent full-page verification pending.
 
@@ -35,22 +37,24 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Normal bone density
+- **A.** Osteomalacia confirmed by DXA alone
 - **B.** Low bone mass without meeting the densitometric osteoporosis threshold
-- **C.** Osteoporosis by the adult T-score criterion
-- **D.** Osteomalacia confirmed by DXA alone
+- **C.** Normal bone density
+- **D.** Osteoporosis by the adult T-score criterion
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Osteoporosis by the adult T-score criterion**
+**Correct answer: D. Osteoporosis by the adult T-score criterion**
 
-**A kyun galat hai:** Normal T-score generally −1.0 ya usse zyada hota hai. −2.7 normal range mein nahi hai.
+**A kyun galat hai:** DXA bone mineral density measure karta hai. Isse osteomalacia ka cause independently confirm nahi hota.
 
 **B kyun galat hai:** Low bone mass ka intermediate range −1.0 se neeche aur −2.5 se upar hota hai. Ye value usse bhi kam hai.
 
-**C kyun sahi hai:** Postmenopausal women ke appropriate DXA site par T-score −2.5 ya usse kam osteoporosis criterion meet karta hai. −2.7 is range mein aata hai, lekin overall care mein clinical risk bhi dekha jaata hai.
+**C kyun galat hai:** Normal T-score generally −1.0 ya usse zyada hota hai. −2.7 normal range mein nahi hai.
 
-**D kyun galat hai:** DXA bone mineral density measure karta hai. Isse osteomalacia ka cause independently confirm nahi hota.
+**D kyun sahi hai:** Postmenopausal women ke appropriate DXA site par T-score −2.5 ya usse kam osteoporosis criterion meet karta hai. −2.7 is range mein aata hai, lekin overall care mein clinical risk bhi dekha jaata hai.
+
+**Exam clue:** Postmenopausal T-score −2.5 ya lower osteoporosis range hai.
 
 **Clinical reference:** [NIAMS bone density](https://www.niams.nih.gov/health-topics/bone-mineral-density-tests-what-numbers-mean). Indexed source, independent full-page verification pending.
 
@@ -62,22 +66,24 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** A Z-score is generally preferred for age-matched interpretation in this population
-- **B.** The postmenopausal T-score cutoff alone establishes osteoporosis in every adult
-- **C.** DXA values are not influenced by the reference population
-- **D.** A low result rules out secondary causes of bone disease
+- **A.** The postmenopausal T-score cutoff alone establishes osteoporosis in every adult
+- **B.** DXA values are not influenced by the reference population
+- **C.** A low result rules out secondary causes of bone disease
+- **D.** A Z-score is generally preferred for age-matched interpretation in this population
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. A Z-score is generally preferred for age-matched interpretation in this population**
+**Correct answer: D. A Z-score is generally preferred for age-matched interpretation in this population**
 
-**A kyun sahi hai:** Premenopausal adult mein Z-score same age ke reference se comparison deta hai. Low reading ko clinical history, fractures aur secondary causes ke saath interpret karna chahiye.
+**A kyun galat hai:** Postmenopausal T-score classification har young adult mein independently diagnosis establish nahi karti.
 
-**B kyun galat hai:** Postmenopausal T-score classification har young adult mein independently diagnosis establish nahi karti.
+**B kyun galat hai:** Reference population score interpretation ka essential part hai. T-score aur Z-score different comparisons use karte hain.
 
-**C kyun galat hai:** Reference population score interpretation ka essential part hai. T-score aur Z-score different comparisons use karte hain.
+**C kyun galat hai:** Low BMD secondary cause ki possibility ko exclude nahi karti. Investigation ki zaroorat ho sakti hai.
 
-**D kyun galat hai:** Low BMD secondary cause ki possibility ko exclude nahi karti. Investigation ki zaroorat ho sakti hai.
+**D kyun sahi hai:** Premenopausal adult mein Z-score same age ke reference se comparison deta hai. Low reading ko clinical history, fractures aur secondary causes ke saath interpret karna chahiye.
+
+**Exam clue:** Younger adult DXA mein Z-score context important hai.
 
 **Clinical reference:** [NIAMS bone density](https://www.niams.nih.gov/health-topics/bone-mineral-density-tests-what-numbers-mean). Indexed source, independent full-page verification pending.
 
@@ -89,22 +95,24 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Isolated meniscal tear
-- **B.** Acute gout of the knee
-- **C.** Peripheral venous thrombosis as the sole explanation
-- **D.** Vertebral compression fracture
+- **A.** Peripheral venous thrombosis as the sole explanation
+- **B.** Vertebral compression fracture
+- **C.** Acute gout of the knee
+- **D.** Isolated meniscal tear
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Vertebral compression fracture**
+**Correct answer: B. Vertebral compression fracture**
 
-**A kyun galat hai:** Meniscus knee ke andar cartilage structure hai. Ye height loss aur spinal pain ka fitting explanation nahi hai.
+**A kyun galat hai:** Venous thrombosis serious ho sakti hai, lekin acute back pain aur loss of height ko compression fracture better explain karta hai.
 
-**B kyun galat hai:** Gout joint mein crystal inflammation karta hai. Is history mein vertebral fragility important concern hai.
+**B kyun sahi hai:** Weak vertebral body minor load se compress ho sakti hai. New back pain aur height loss vertebral fracture ke clues hain, isliye clinician se imaging assessment arrange karna chahiye.
 
-**C kyun galat hai:** Venous thrombosis serious ho sakti hai, lekin acute back pain aur loss of height ko compression fracture better explain karta hai.
+**C kyun galat hai:** Gout joint mein crystal inflammation karta hai. Is history mein vertebral fragility important concern hai.
 
-**D kyun sahi hai:** Weak vertebral body minor load se compress ho sakti hai. New back pain aur height loss vertebral fracture ke clues hain, isliye clinician se imaging assessment arrange karna chahiye.
+**D kyun galat hai:** Meniscus knee ke andar cartilage structure hai. Ye height loss aur spinal pain ka fitting explanation nahi hai.
+
+**Exam clue:** New back pain aur height loss vertebral fracture suggest kar sakte hain.
 
 **Clinical reference:** [NOGG guideline summary](https://www.nogg.org.uk/full-guideline/summary-main-recommendations). Direct page retrieved.
 
@@ -145,22 +153,24 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** The DXA category alone, regardless of clinical history
-- **B.** The patient's serum calcium alone
-- **C.** Combined clinical fracture-risk assessment and appropriate treatment review
-- **D.** The assumption that treatment is never indicated before a T-score of −2.5
+- **A.** Combined clinical fracture-risk assessment and appropriate treatment review
+- **B.** The assumption that treatment is never indicated before a T-score of −2.5
+- **C.** The patient's serum calcium alone
+- **D.** The DXA category alone, regardless of clinical history
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Combined clinical fracture-risk assessment and appropriate treatment review**
+**Correct answer: A. Combined clinical fracture-risk assessment and appropriate treatment review**
 
-**A kyun galat hai:** DXA category useful hai, lekin previous fracture jaise strong predictors ignore karne se risk underestimate ho sakta hai.
+**A kyun sahi hai:** Fracture risk sirf BMD par depend nahi karta. Prior fragility fracture aur dusre risk factors ke saath FRAX ya relevant clinical assessment management decision mein help karte hain.
 
-**B kyun galat hai:** Serum calcium normal hone par bhi osteoporosis ho sakti hai. Ye fracture probability ka standalone measure nahi hai.
+**B kyun galat hai:** High clinical risk wale patients ko −2.5 threshold se pehle bhi treatment ki zaroorat ho sakti hai.
 
-**C kyun sahi hai:** Fracture risk sirf BMD par depend nahi karta. Prior fragility fracture aur dusre risk factors ke saath FRAX ya relevant clinical assessment management decision mein help karte hain.
+**C kyun galat hai:** Serum calcium normal hone par bhi osteoporosis ho sakti hai. Ye fracture probability ka standalone measure nahi hai.
 
-**D kyun galat hai:** High clinical risk wale patients ko −2.5 threshold se pehle bhi treatment ki zaroorat ho sakti hai.
+**D kyun galat hai:** DXA category useful hai, lekin previous fracture jaise strong predictors ignore karne se risk underestimate ho sakta hai.
+
+**Exam clue:** Fracture history aur risk factors ko DXA ke saath interpret karo.
 
 **Clinical reference:** [NOGG guideline summary](https://www.nogg.org.uk/full-guideline/summary-main-recommendations). Direct page retrieved.
 
@@ -189,6 +199,8 @@
 
 **D kyun galat hai:** Systemic glucocorticoids osteoporosis risk factor hain, bone strength badhane ki guarantee nahi.
 
+**Exam clue:** Long-term systemic steroid exposure bone risk badhata hai.
+
 **Clinical reference:** [NOGG guideline summary](https://www.nogg.org.uk/full-guideline/summary-main-recommendations). Direct page retrieved.
 
 **YouTube MCQ practice:** Verification pending.
@@ -199,22 +211,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Begin repeated loaded end-range spinal flexion without supervision
+- **A.** Perform high-impact jumping before any assessment
 - **B.** Avoid every form of muscle strengthening indefinitely
-- **C.** Seek an individualized strengthening plan that avoids unsafe loaded spinal flexion and adapts exercises to fracture history
-- **D.** Perform high-impact jumping before any assessment
+- **C.** Begin repeated loaded end-range spinal flexion without supervision
+- **D.** Seek an individualized strengthening plan that avoids unsafe loaded spinal flexion and adapts exercises to fracture history
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Seek an individualized strengthening plan that avoids unsafe loaded spinal flexion and adapts exercises to fracture history**
+**Correct answer: D. Seek an individualized strengthening plan that avoids unsafe loaded spinal flexion and adapts exercises to fracture history**
 
-**A kyun galat hai:** Vertebral fracture history mein loaded end-range flexion excessive spinal load create kar sakti hai.
+**A kyun galat hai:** High-impact exercise har high-risk patient ke liye suitable nahi; assessment zaroori hai.
 
 **B kyun galat hai:** Complete exercise avoidance se strength aur function deteriorate ho sakte hain.
 
-**C kyun sahi hai:** Individualized plan strength improve karne ke saath fracture history, spinal loading aur movement safety consider karta hai.
+**C kyun galat hai:** Vertebral fracture history mein loaded end-range flexion excessive spinal load create kar sakti hai.
 
-**D kyun galat hai:** High-impact exercise har high-risk patient ke liye suitable nahi; assessment zaroori hai.
+**D kyun sahi hai:** Individualized plan strength improve karne ke saath fracture history, spinal loading aur movement safety consider karta hai.
 
 **Exam clue:** Osteoporosis exercise advice risk-specific hona chahiye, blanket bed rest nahi.
 
@@ -229,21 +241,23 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
 - **A.** Take with milk immediately before lying down
-- **B.** Take after waking with plain water and remain upright for at least 30 minutes, before food or other oral medicines
-- **C.** Take with breakfast and calcium tablets to increase absorption
+- **B.** Take with breakfast and calcium tablets to increase absorption
+- **C.** Take after waking with plain water and remain upright for at least 30 minutes, before food or other oral medicines
 - **D.** Crush and hold the tablet in the mouth until it dissolves
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Take after waking with plain water and remain upright for at least 30 minutes, before food or other oral medicines**
+**Correct answer: C. Take after waking with plain water and remain upright for at least 30 minutes, before food or other oral medicines**
 
 **A kyun galat hai:** Milk ka calcium absorption interfere kar sakta hai aur lying down esophageal exposure badhata hai.
 
-**B kyun sahi hai:** Alendronate empty stomach par plain water ke saath lene se absorption better hota hai. Upright rehne se tablet food pipe mein rukkar irritation karne ka risk kam hota hai. Prescribed administration instructions follow karo.
+**B kyun galat hai:** Food aur calcium tablet drug absorption reduce kar sakte hain. Inhe prescribed interval ke baad lena chahiye.
 
-**C kyun galat hai:** Food aur calcium tablet drug absorption reduce kar sakte hain. Inhe prescribed interval ke baad lena chahiye.
+**C kyun sahi hai:** Alendronate empty stomach par plain water ke saath lene se absorption better hota hai. Upright rehne se tablet food pipe mein rukkar irritation karne ka risk kam hota hai. Prescribed administration instructions follow karo.
 
 **D kyun galat hai:** Conventional tablet ko mouth mein dissolve karna mucosal irritation create kar sakta hai. Formulation-specific instructions follow karo.
+
+**Exam clue:** Plain water, fasting aur upright position yaad rakho.
 
 **Clinical reference:** [NHS alendronic acid](https://www.nhs.uk/medicines/alendronic-acid/how-and-when-to-take-alendronic-acid/). Indexed source, independent full-page verification pending.
 
@@ -255,22 +269,24 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Advise taking the next dose while lying down
+- **A.** Explain that these symptoms always prove successful bone repair
 - **B.** Recommend doubling the dose with an antacid
 - **C.** Arrange prompt medical assessment and review further dosing with the prescriber
-- **D.** Explain that these symptoms always prove successful bone repair
+- **D.** Advise taking the next dose while lying down
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Arrange prompt medical assessment and review further dosing with the prescriber**
 
-**A kyun galat hai:** Lying down medicine ka esophageal contact badha sakta hai. Ye symptoms ke cause ko safe tareeke se address nahi karta.
+**A kyun galat hai:** Bone repair ka success painful swallowing se measure nahi hota. Ye adverse effect ka concern hai.
 
 **B kyun galat hai:** Dose double karna toxicity ka risk badha sakta hai. Antacid ke saath absorption bhi affect ho sakta hai.
 
 **C kyun sahi hai:** Painful swallowing aur chest discomfort food pipe irritation ya injury ka warning sign ho sakte hain. Nurse prompt assessment arrange karti hai aur further dose ke baare mein prescriber se guidance leti hai.
 
-**D kyun galat hai:** Bone repair ka success painful swallowing se measure nahi hota. Ye adverse effect ka concern hai.
+**D kyun galat hai:** Lying down medicine ka esophageal contact badha sakta hai. Ye symptoms ke cause ko safe tareeke se address nahi karta.
+
+**Exam clue:** New dysphagia ko routine adverse effect maan kar ignore mat karo.
 
 **Clinical reference:** [NHS alendronic acid](https://www.nhs.uk/medicines/alendronic-acid/how-and-when-to-take-alendronic-acid/). Indexed source, independent full-page verification pending.
 
@@ -282,22 +298,24 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Discuss a clinician-directed transition plan before stopping or delaying treatment
-- **B.** Stop immediately because all fracture risk has disappeared
+- **A.** Stop immediately because all fracture risk has disappeared
+- **B.** Discuss a clinician-directed transition plan before stopping or delaying treatment
 - **C.** Substitute intermittent calcium alone without review
 - **D.** Wait until a vertebral fracture occurs before seeking advice
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Discuss a clinician-directed transition plan before stopping or delaying treatment**
+**Correct answer: B. Discuss a clinician-directed transition plan before stopping or delaying treatment**
 
-**A kyun sahi hai:** Denosumab stop ya substantially delay hone par bone resorption rebound kar sakti hai aur vertebral fracture risk badh sakta hai. Isliye subsequent therapy ka plan prescriber ke saath pehle decide karna zaroori hai.
+**A kyun galat hai:** Improved BMD ka matlab treatment abruptly stop karna safe hona nahi hai.
 
-**B kyun galat hai:** Improved BMD ka matlab treatment abruptly stop karna safe hona nahi hai.
+**B kyun sahi hai:** Denosumab stop ya substantially delay hone par bone resorption rebound kar sakti hai aur vertebral fracture risk badh sakta hai. Isliye subsequent therapy ka plan prescriber ke saath pehle decide karna zaroori hai.
 
 **C kyun galat hai:** Calcium adequate nutrition ka part hai, lekin denosumab transition therapy ka automatic substitute nahi hai.
 
 **D kyun galat hai:** Fracture hone ka wait preventive care ko fail karta hai. Transition pehle plan honi chahiye.
+
+**Exam clue:** Denosumab stop karne se pehle transition plan chahiye.
 
 **Clinical reference:** [NOGG pharmacological options](https://www.nogg.org.uk/full-guideline/section-6-pharmacological-treatment-options). Indexed source, independent full-page verification pending.
 
@@ -309,22 +327,24 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** All osteoporosis monitoring becomes unnecessary
+- **A.** The patient should stop all prescribed treatment without follow-up
 - **B.** The patient should independently repeat the anabolic course indefinitely
-- **C.** The patient should stop all prescribed treatment without follow-up
+- **C.** All osteoporosis monitoring becomes unnecessary
 - **D.** Subsequent antiresorptive therapy may be needed to maintain treatment gains
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Subsequent antiresorptive therapy may be needed to maintain treatment gains**
 
-**A kyun galat hai:** Fracture risk aur therapy response ka follow-up ab bhi important hai.
+**A kyun galat hai:** Bina plan stop karne se treatment gains lose ho sakte hain. Transition review zaroori hai.
 
 **B kyun galat hai:** Anabolic medicines ki duration aur repeat eligibility drug-specific hoti hai. Patient khud indefinite course start nahi karta.
 
-**C kyun galat hai:** Bina plan stop karne se treatment gains lose ho sakte hain. Transition review zaroori hai.
+**C kyun galat hai:** Fracture risk aur therapy response ka follow-up ab bhi important hai.
 
 **D kyun sahi hai:** Anabolic therapy bone formation promote karti hai. Course ke baad appropriate antiresorptive medicine se gained bone benefit maintain karne mein madad mil sakti hai. Specific regimen clinician decide karta hai.
+
+**Exam clue:** Anabolic course ke baad maintenance strategy plan karo.
 
 **Clinical reference:** [NOGG guideline summary](https://www.nogg.org.uk/full-guideline/summary-main-recommendations). Direct page retrieved.
 
@@ -337,21 +357,21 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Osteomalacia is always due to low calcium intake alone
-- **B.** Low phosphate excludes impaired bone mineralization
-- **C.** Every patient should self-start high-dose phosphate
-- **D.** Renal phosphate loss or another metabolic cause requires further assessment
+- **B.** Renal phosphate loss or another metabolic cause requires further assessment
+- **C.** Low phosphate excludes impaired bone mineralization
+- **D.** Every patient should self-start high-dose phosphate
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Renal phosphate loss or another metabolic cause requires further assessment**
+**Correct answer: B. Renal phosphate loss or another metabolic cause requires further assessment**
 
 **A kyun galat hai:** Osteomalacia defective mineralization hai, aur different vitamin D ya phosphate disorders cause ho sakte hain.
 
-**B kyun galat hai:** Phosphate mineralization ke liye important hai; persistent deficiency relevant finding ho sakti hai.
+**B kyun sahi hai:** Persistent low phosphate with adequate intake renal loss ya other metabolic cause ka clue ho sakta hai; further biochemical evaluation necessary hai.
 
-**C kyun galat hai:** Phosphate replacement cause, renal function aur monitoring ke hisaab se clinician decide karta hai.
+**C kyun galat hai:** Phosphate mineralization ke liye important hai; persistent deficiency relevant finding ho sakti hai.
 
-**D kyun sahi hai:** Persistent low phosphate with adequate intake renal loss ya other metabolic cause ka clue ho sakta hai; further biochemical evaluation necessary hai.
+**D kyun galat hai:** Phosphate replacement cause, renal function aur monitoring ke hisaab se clinician decide karta hai.
 
 **Exam clue:** Mineralization disorder ka cause identify karo, sirf calcium intake par focus mat karo.
 
@@ -365,22 +385,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Excessive absorption of dietary vitamin D
-- **B.** Impaired absorption of fat-soluble vitamin D
-- **C.** Direct infection of the articular cartilage
-- **D.** Increased mechanical load alone
+- **A.** Increased mechanical load alone
+- **B.** Direct infection of the articular cartilage
+- **C.** Impaired absorption of fat-soluble vitamin D
+- **D.** Excessive absorption of dietary vitamin D
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Impaired absorption of fat-soluble vitamin D**
+**Correct answer: C. Impaired absorption of fat-soluble vitamin D**
 
-**A kyun galat hai:** Fat malabsorption vitamin D absorption ko improve nahi karta.
+**A kyun galat hai:** Mechanical loading symptoms affect kar sakta hai, lekin malabsorption-related biochemical cause explain nahi karta.
 
-**B kyun sahi hai:** Vitamin D fat-soluble hai. Malabsorption ki wajah se reported adequate intake ke baad bhi absorbed amount insufficient ho sakta hai, jo mineralization affect karta hai.
+**B kyun galat hai:** Cartilage infection separate diagnosis hai; malabsorption-related osteomalacia ka mechanism nahi.
 
-**C kyun galat hai:** Cartilage infection separate diagnosis hai; malabsorption-related osteomalacia ka mechanism nahi.
+**C kyun sahi hai:** Vitamin D fat-soluble hai. Malabsorption ki wajah se reported adequate intake ke baad bhi absorbed amount insufficient ho sakta hai, jo mineralization affect karta hai.
 
-**D kyun galat hai:** Mechanical loading symptoms affect kar sakta hai, lekin malabsorption-related biochemical cause explain nahi karta.
+**D kyun galat hai:** Fat malabsorption vitamin D absorption ko improve nahi karta.
 
 **Exam clue:** Adequate intake aur adequate absorption same nahi hain.
 
@@ -394,22 +414,24 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Normal calcium definitively excludes osteomalacia
-- **B.** Normal calcium proves vitamin D status is adequate
-- **C.** Calcium can be maintained by compensatory regulation, so further clinical and biochemical evaluation is needed
+- **A.** Calcium can be maintained by compensatory regulation, so further clinical and biochemical evaluation is needed
+- **B.** Normal calcium definitively excludes osteomalacia
+- **C.** Normal calcium proves vitamin D status is adequate
 - **D.** Normal calcium establishes Paget disease
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Calcium can be maintained by compensatory regulation, so further clinical and biochemical evaluation is needed**
+**Correct answer: A. Calcium can be maintained by compensatory regulation, so further clinical and biochemical evaluation is needed**
 
-**A kyun galat hai:** Normal calcium alone osteomalacia exclude nahi karta. Bone mineralization ek broader metabolic process hai.
+**A kyun sahi hai:** Body calcium ko hormones ke through regulate karti hai. Isliye ek normal calcium result ke bawajood vitamin D deficiency ya mineralization problem possible hai. Clinician relevant tests aur history evaluate karta hai.
 
-**B kyun galat hai:** Vitamin D status ko serum calcium se directly confirm nahi kiya ja sakta. Relevant vitamin D test aur context chahiye.
+**B kyun galat hai:** Normal calcium alone osteomalacia exclude nahi karta. Bone mineralization ek broader metabolic process hai.
 
-**C kyun sahi hai:** Body calcium ko hormones ke through regulate karti hai. Isliye ek normal calcium result ke bawajood vitamin D deficiency ya mineralization problem possible hai. Clinician relevant tests aur history evaluate karta hai.
+**C kyun galat hai:** Vitamin D status ko serum calcium se directly confirm nahi kiya ja sakta. Relevant vitamin D test aur context chahiye.
 
 **D kyun galat hai:** Normal calcium Paget disease ka specific diagnostic proof nahi hai. Uske liye disease-specific evaluation hoti hai.
+
+**Exam clue:** Normal calcium akela osteomalacia exclude nahi karta.
 
 **Clinical reference:** [NHS rickets and osteomalacia](https://www.nhs.uk/conditions/rickets-and-osteomalacia/). Indexed source, independent full-page verification pending.
 
@@ -421,22 +443,24 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Rickets occurs only after growth plates have fused
-- **B.** Osteomalacia always causes infection of the growth plate
-- **C.** They are unrelated to impaired mineralization
-- **D.** Rickets involves mineralization abnormalities of the growing skeleton, whereas osteomalacia describes defective mineralization of bone matrix
+- **A.** They are unrelated to impaired mineralization
+- **B.** Rickets involves mineralization abnormalities of the growing skeleton, whereas osteomalacia describes defective mineralization of bone matrix
+- **C.** Osteomalacia always causes infection of the growth plate
+- **D.** Rickets occurs only after growth plates have fused
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Rickets involves mineralization abnormalities of the growing skeleton, whereas osteomalacia describes defective mineralization of bone matrix**
+**Correct answer: B. Rickets involves mineralization abnormalities of the growing skeleton, whereas osteomalacia describes defective mineralization of bone matrix**
 
-**A kyun galat hai:** Growth plates fused hone ke baad classic rickets nahi hota. Growing skeleton is distinction mein important hai.
+**A kyun galat hai:** Dono disorders mineralization se linked hain, age aur affected skeletal structures presentation ko change karte hain.
 
-**B kyun galat hai:** Infection osteomalacia ka defining feature nahi hai. Mineralization defect primary concern hai.
+**B kyun sahi hai:** Growing child mein growth plate aur developing bone ki mineralization disturb ho sakti hai, jise rickets kehte hain. Osteomalacia bone matrix ke defective mineralization ko describe karta hai aur adults mein classic presentation hoti hai.
 
-**C kyun galat hai:** Dono disorders mineralization se linked hain, age aur affected skeletal structures presentation ko change karte hain.
+**C kyun galat hai:** Infection osteomalacia ka defining feature nahi hai. Mineralization defect primary concern hai.
 
-**D kyun sahi hai:** Growing child mein growth plate aur developing bone ki mineralization disturb ho sakti hai, jise rickets kehte hain. Osteomalacia bone matrix ke defective mineralization ko describe karta hai aur adults mein classic presentation hoti hai.
+**D kyun galat hai:** Growth plates fused hone ke baad classic rickets nahi hota. Growing skeleton is distinction mein important hai.
+
+**Exam clue:** Rickets growth plate involve karta hai.
 
 **Clinical reference:** [NHS rickets and osteomalacia](https://www.nhs.uk/conditions/rickets-and-osteomalacia/). Indexed source, independent full-page verification pending.
 
@@ -448,22 +472,24 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Increased and disorganized bone remodeling that may produce enlarged but structurally abnormal bone
-- **B.** Uniformly absent osteoclast and osteoblast activity
-- **C.** Pure synovial inflammation without bone involvement
-- **D.** Deficiency of articular cartilage only
+- **A.** Uniformly absent osteoclast and osteoblast activity
+- **B.** Pure synovial inflammation without bone involvement
+- **C.** Deficiency of articular cartilage only
+- **D.** Increased and disorganized bone remodeling that may produce enlarged but structurally abnormal bone
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Increased and disorganized bone remodeling that may produce enlarged but structurally abnormal bone**
+**Correct answer: D. Increased and disorganized bone remodeling that may produce enlarged but structurally abnormal bone**
 
-**A kyun sahi hai:** Paget disease mein localized bone turnover excessive aur disorganized ho sakta hai. Bone enlarge bhi ho sakti hai lekin structure mechanically abnormal rehta hai.
+**A kyun galat hai:** Paget disease mein remodeling cells absent nahi hote. Unki abnormal activity disease mechanism ka part hai.
 
-**B kyun galat hai:** Paget disease mein remodeling cells absent nahi hote. Unki abnormal activity disease mechanism ka part hai.
+**B kyun galat hai:** Synovial inflammation joint lining se related hai. Paget disease primarily bone remodeling disorder hai.
 
-**C kyun galat hai:** Synovial inflammation joint lining se related hai. Paget disease primarily bone remodeling disorder hai.
+**C kyun galat hai:** Cartilage deficiency alone abnormal bone enlargement aur turnover explain nahi karti.
 
-**D kyun galat hai:** Cartilage deficiency alone abnormal bone enlargement aur turnover explain nahi karti.
+**D kyun sahi hai:** Paget disease mein localized bone turnover excessive aur disorganized ho sakta hai. Bone enlarge bhi ho sakti hai lekin structure mechanically abnormal rehta hai.
+
+**Exam clue:** Paget mein remodeling accelerated aur disorganized hai.
 
 **Clinical reference:** [Paget's Association clinical guideline](https://www.paget.org.uk/health-and-research-professionals/clinical-guideline/). Indexed source, independent full-page verification pending.
 
@@ -475,22 +501,24 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** It independently proves every elevated value comes from bone
-- **B.** It is a useful marker of bone turnover but hepatic sources and clinical context must be considered
-- **C.** It measures blood oxygenation rather than tissue activity
-- **D.** A normal value always excludes limited Paget disease
+- **A.** A normal value always excludes limited Paget disease
+- **B.** It measures blood oxygenation rather than tissue activity
+- **C.** It is a useful marker of bone turnover but hepatic sources and clinical context must be considered
+- **D.** It independently proves every elevated value comes from bone
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. It is a useful marker of bone turnover but hepatic sources and clinical context must be considered**
+**Correct answer: C. It is a useful marker of bone turnover but hepatic sources and clinical context must be considered**
 
-**A kyun galat hai:** Total ALP bone-specific nahi hai. Hepatic conditions bhi elevation cause kar sakti hain.
+**A kyun galat hai:** Limited disease mein total ALP normal ho sakta hai. Normal result se har case exclude nahi hota.
 
-**B kyun sahi hai:** Alkaline phosphatase bone formation activity ke saath increase ho sakta hai. Liver bhi is enzyme ka source hai, isliye clinician liver tests aur imaging ke context mein result interpret karta hai.
+**B kyun galat hai:** ALP enzyme test hai, oxygen saturation ka measurement nahi hai.
 
-**C kyun galat hai:** ALP enzyme test hai, oxygen saturation ka measurement nahi hai.
+**C kyun sahi hai:** Alkaline phosphatase bone formation activity ke saath increase ho sakta hai. Liver bhi is enzyme ka source hai, isliye clinician liver tests aur imaging ke context mein result interpret karta hai.
 
-**D kyun galat hai:** Limited disease mein total ALP normal ho sakta hai. Normal result se har case exclude nahi hota.
+**D kyun galat hai:** Total ALP bone-specific nahi hai. Hepatic conditions bhi elevation cause kar sakti hain.
+
+**Exam clue:** Total ALP bone-specific test nahi hai.
 
 **Clinical reference:** [Paget's Association clinical guideline](https://www.paget.org.uk/health-and-research-professionals/clinical-guideline/). Indexed source, independent full-page verification pending.
 
@@ -502,22 +530,24 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Assume hearing changes are unrelated and need no evaluation
-- **B.** Insert ear drops indefinitely without assessment
-- **C.** Arrange hearing and specialist assessment because skull involvement can affect auditory function
+- **A.** Arrange hearing and specialist assessment because skull involvement can affect auditory function
+- **B.** Assume hearing changes are unrelated and need no evaluation
+- **C.** Insert ear drops indefinitely without assessment
 - **D.** Recommend forceful jaw exercises as definitive treatment
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Arrange hearing and specialist assessment because skull involvement can affect auditory function**
+**Correct answer: A. Arrange hearing and specialist assessment because skull involvement can affect auditory function**
 
-**A kyun galat hai:** Hearing loss Paget skull involvement se related ho sakta hai, isliye ignore karna appropriate nahi hai.
+**A kyun sahi hai:** Skull ki abnormal remodeling hearing structures ya related pathways ko affect kar sakti hai. New hearing change ko assess karke appropriate specialist referral karna zaroori hai.
 
-**B kyun galat hai:** Ear drops sirf selected external ear conditions mein useful hote hain. Underlying hearing problem evaluate kiye bina use appropriate nahi hai.
+**B kyun galat hai:** Hearing loss Paget skull involvement se related ho sakta hai, isliye ignore karna appropriate nahi hai.
 
-**C kyun sahi hai:** Skull ki abnormal remodeling hearing structures ya related pathways ko affect kar sakti hai. New hearing change ko assess karke appropriate specialist referral karna zaroori hai.
+**C kyun galat hai:** Ear drops sirf selected external ear conditions mein useful hote hain. Underlying hearing problem evaluate kiye bina use appropriate nahi hai.
 
 **D kyun galat hai:** Jaw exercises skull bone disease aur hearing impairment ka definitive treatment nahi hain.
+
+**Exam clue:** Skull involvement ke saath hearing change assess karvao.
 
 **Clinical reference:** [Paget's Association clinical guideline](https://www.paget.org.uk/health-and-research-professionals/clinical-guideline/). Indexed source, independent full-page verification pending.
 
@@ -529,22 +559,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Give the dose regardless of calcium status
+- **A.** Discontinue all osteoporosis treatment permanently without a plan
 - **B.** Double the injection dose to compensate
 - **C.** Review hypocalcemia with the prescriber and arrange correction and monitoring before dosing
-- **D.** Discontinue all osteoporosis treatment permanently without a plan
+- **D.** Give the dose regardless of calcium status
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Review hypocalcemia with the prescriber and arrange correction and monitoring before dosing**
 
-**A kyun galat hai:** Denosumab hypocalcemia worsen kar sakta hai; existing low calcium ignore nahi karna.
+**A kyun galat hai:** Permanent unplanned discontinuation rebound fracture risk create kar sakta hai; treatment plan clinician decide kare.
 
 **B kyun galat hai:** Dose double karne ka indication nahi aur harm ho sakta hai.
 
 **C kyun sahi hai:** Pre-existing hypocalcemia ko correct karna aur risk-specific monitoring zaroori hai. Prescriber ke saath timing coordinate karo, unnecessary long interruption bhi avoid karo.
 
-**D kyun galat hai:** Permanent unplanned discontinuation rebound fracture risk create kar sakta hai; treatment plan clinician decide kare.
+**D kyun galat hai:** Denosumab hypocalcemia worsen kar sakta hai; existing low calcium ignore nahi karna.
 
 **Exam clue:** Denosumab mein calcium safety aur planned dosing continuity dono important hain.
 
