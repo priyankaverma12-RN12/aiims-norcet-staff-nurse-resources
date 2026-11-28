@@ -231,6 +231,10 @@ try:
         print("Chapter-relative README image resolved and decoded.",flush=True)
         page.goto(base + "?" + urlencode({"doc": sample}))
         ready(page)
+        expect(page.locator("#content .difficulty-label[data-level=easy]").first).to_be_visible()
+        expect(page.locator("#content .difficulty-label .difficulty-icon").first).to_have_attribute("aria-hidden","true")
+        expect(page.get_by_role("button",name="Start timed practice")).to_have_attribute("data-ui-icon","timer")
+        assert page.get_by_role("button",name="Start timed practice").bounding_box()["height"]>=44
         assert page.locator("#content details").count() >= 44
         assert page.locator("#content details[open]").count() == 0
         image = page.locator('#content img[src*="airway-zones.svg"]').first
@@ -239,6 +243,8 @@ try:
         expect(page.locator(".quiz-panel")).to_contain_text("44 questions available for practice")
         expect(page.locator("#content h1").first).to_have_text("Day 1 — Respiratory Anatomy & Physiology")
         page.get_by_role("button",name="Learn with instant feedback").click()
+        expect(page.locator(".question-stem .difficulty-label[data-level=easy]")).to_be_visible()
+        expect(page.get_by_role("button",name="Check answer")).to_have_attribute("data-ui-icon","check")
         expect(page.locator(".original-explanation")).to_have_count(0)
         page.locator("input[name=learn-choice][value=B]").check()
         expect(page.locator(".learn-feedback")).to_have_count(0)
