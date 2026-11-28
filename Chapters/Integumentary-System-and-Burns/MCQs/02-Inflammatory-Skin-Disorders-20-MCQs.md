@@ -81,7 +81,7 @@ Allergic contact dermatitis mein sensitized T cells delayed inflammation produce
 
 ### Q4. Which investigation helps identify a suspected delayed allergy to a topical cosmetic ingredient?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Skin prick testing alone
 - **B.** Blood culture
@@ -156,7 +156,7 @@ Eyelid skin thin hoti hai aur potent steroid ka prolonged use atrophy aur perioc
 
 ### Q7. A child with eczema develops painful monomorphic vesicles and fever. What should the nurse prioritize?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Routine emollient advice alone
 - **B.** Application of an occlusive cosmetic dressing
@@ -181,7 +181,7 @@ Eczema herpeticum mein herpes simplex widespread compromised skin par spread kar
 
 ### Q8. A patient has well-demarcated plaques with silvery scales over both elbows and knees. Which condition is most consistent?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Acute urticaria
 - **B.** Chronic plaque psoriasis
@@ -200,13 +200,13 @@ Plaque psoriasis mein immune-mediated inflammation aur rapid epidermal turnover 
 - **C.** Diaper dermatitis moisture aur irritants se covered area mein develop hoti hai. Elbow aur knee plaques uska typical pattern nahi hai.
 - **D.** Tinea versicolor mein fine scaling aur pigment changes often trunk par hote hain. Thick silvery extensor plaques psoriasis ko support karte hain.
 
-**Clinical reference:** [DermNet clinical reference](https://dermnetnz.org/topics/dermatitis) · [OpenStax integumentary disorders](https://openstax.org/books/medical-surgical-nursing/pages/14-1-integumentary-disorders). **YouTube MCQ practice:** specific coverage verification pending. Broad indexed [integumentary MCQ session](https://www.youtube.com/watch?v=A5ffPLsCkjk) is not a verified exact match.
+**Clinical reference:** [DermNet clinical reference](https://dermnetnz.org/topics/psoriasis) · [OpenStax integumentary disorders](https://openstax.org/books/medical-surgical-nursing/pages/14-1-integumentary-disorders). **YouTube MCQ practice:** specific coverage verification pending. Broad indexed [integumentary MCQ session](https://www.youtube.com/watch?v=A5ffPLsCkjk) is not a verified exact match.
 
 </details>
 
 ### Q9. A patient with psoriasis develops new plaques along scratch marks. Which phenomenon is illustrated?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Nikolsky sign
 - **B.** Darier sign
@@ -225,7 +225,7 @@ Koebner phenomenon mein susceptible skin par trauma ke baad same disease ke new 
 - **B.** Darier sign rubbing ke baad mast cell lesion mein swelling aur redness se related hai. Psoriasis ke trauma-induced plaques isse different hain.
 - **D.** Dermographism mein pressure se transient wheal develop hota hai. Persistent psoriatic plaque formation Koebner phenomenon hai.
 
-**Clinical reference:** [DermNet clinical reference](https://dermnetnz.org/topics/dermatitis) · [OpenStax integumentary disorders](https://openstax.org/books/medical-surgical-nursing/pages/14-1-integumentary-disorders). **YouTube MCQ practice:** specific coverage verification pending. Broad indexed [integumentary MCQ session](https://www.youtube.com/watch?v=A5ffPLsCkjk) is not a verified exact match.
+**Clinical reference:** [DermNet clinical reference](https://dermnetnz.org/topics/psoriasis) · [OpenStax integumentary disorders](https://openstax.org/books/medical-surgical-nursing/pages/14-1-integumentary-disorders). **YouTube MCQ practice:** specific coverage verification pending. Broad indexed [integumentary MCQ session](https://www.youtube.com/watch?v=A5ffPLsCkjk) is not a verified exact match.
 
 </details>
 
@@ -250,13 +250,13 @@ Psoriasis ke saath inflammatory arthritis bhi ho sakti hai. Morning stiffness au
 - **C.** Topical skin steroid joint inflammation ka adequate treatment nahi hai. Joint assessment aur appropriate management chahiye.
 - **D.** Bina cause assess kiye complete immobility recommend karna function ko affect kar sakta hai. First step appropriate evaluation hai.
 
-**Clinical reference:** [DermNet clinical reference](https://dermnetnz.org/topics/dermatitis) · [OpenStax integumentary disorders](https://openstax.org/books/medical-surgical-nursing/pages/14-1-integumentary-disorders). **YouTube MCQ practice:** specific coverage verification pending. Broad indexed [integumentary MCQ session](https://www.youtube.com/watch?v=A5ffPLsCkjk) is not a verified exact match.
+**Clinical reference:** [DermNet clinical reference](https://dermnetnz.org/topics/psoriasis) · [OpenStax integumentary disorders](https://openstax.org/books/medical-surgical-nursing/pages/14-1-integumentary-disorders). **YouTube MCQ practice:** specific coverage verification pending. Broad indexed [integumentary MCQ session](https://www.youtube.com/watch?v=A5ffPLsCkjk) is not a verified exact match.
 
 </details>
 
 ### Q11. A patient fears that shaking hands with someone who has psoriasis will transmit the disease. Which response is correct?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Psoriasis spreads through airborne droplets
 - **B.** Psoriasis requires isolation until plaques disappear
@@ -275,13 +275,13 @@ Psoriasis immune-mediated inflammatory disease hai aur person-to-person contact 
 - **B.** Isolation infectious transmission prevent karne ke liye use hoti hai. Psoriasis ke plaques ki wajah se isolation indicated nahi hai.
 - **C.** Intact skin contact psoriasis transmit nahi karta. Is belief ko correct karna stigma kam kar sakta hai.
 
-**Clinical reference:** [DermNet clinical reference](https://dermnetnz.org/topics/dermatitis) · [OpenStax integumentary disorders](https://openstax.org/books/medical-surgical-nursing/pages/14-1-integumentary-disorders). **YouTube MCQ practice:** specific coverage verification pending. Broad indexed [integumentary MCQ session](https://www.youtube.com/watch?v=A5ffPLsCkjk) is not a verified exact match.
+**Clinical reference:** [DermNet clinical reference](https://dermnetnz.org/topics/psoriasis) · [OpenStax integumentary disorders](https://openstax.org/books/medical-surgical-nursing/pages/14-1-integumentary-disorders). **YouTube MCQ practice:** specific coverage verification pending. Broad indexed [integumentary MCQ session](https://www.youtube.com/watch?v=A5ffPLsCkjk) is not a verified exact match.
 
 </details>
 
 ### Q12. An adult has greasy yellowish scales on the scalp and nasolabial folds. Which diagnosis is most consistent?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Plaque morphea
 - **B.** Seborrhoeic dermatitis
@@ -381,7 +381,7 @@ New topical product irritant ya allergen ho sakta hai. Suspected exposure stop k
 
 ### Q16. Which characteristic best distinguishes individual urticarial wheals from persistent eczematous lesions?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Individual wheals usually resolve within 24 hours without scaling
 - **B.** Every wheal develops thick permanent scale
@@ -406,7 +406,7 @@ Urticaria mein histamine-related dermal swelling se transient wheals aate hain. 
 
 ### Q17. A patient with sudden generalized wheals develops stridor and hypotension. What is the immediate nursing priority?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Apply emollient and reassess tomorrow
 - **B.** Wait for patch testing
@@ -481,7 +481,7 @@ Nails se scratching micro-injuries create kar sakti hai aur microbes ko entry mi
 
 ### Q20. A patient with widespread erythema and scaling develops chills and unstable temperature regulation. Which nursing action is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Reassure that extensive dermatitis cannot affect fluid balance
 - **B.** Encourage unsupervised strong steroid application over the entire body
@@ -500,6 +500,6 @@ Widespread inflammatory skin involvement barrier aur temperature regulation ko c
 - **B.** Large surface par potent topical steroid absorption aur adverse effects badha sakta hai. Treatment clinician ke supervision mein hona chahiye.
 - **C.** Systemic symptoms present hone par skin normalize hone ka wait unsafe hai. Prompt assessment zaroori hai.
 
-**Clinical reference:** [DermNet clinical reference](https://dermnetnz.org/topics/dermatitis) · [OpenStax integumentary disorders](https://openstax.org/books/medical-surgical-nursing/pages/14-1-integumentary-disorders). **YouTube MCQ practice:** specific coverage verification pending. Broad indexed [integumentary MCQ session](https://www.youtube.com/watch?v=A5ffPLsCkjk) is not a verified exact match.
+**Clinical reference:** [DermNet clinical reference](https://dermnetnz.org/topics/erythroderma) · [OpenStax integumentary disorders](https://openstax.org/books/medical-surgical-nursing/pages/14-1-integumentary-disorders). **YouTube MCQ practice:** specific coverage verification pending. Broad indexed [integumentary MCQ session](https://www.youtube.com/watch?v=A5ffPLsCkjk) is not a verified exact match.
 
 </details>
