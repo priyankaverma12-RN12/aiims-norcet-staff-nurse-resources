@@ -1,10 +1,10 @@
 # Dedicated Mental Health Nursing manual claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: mental-health-manual-20261128-0439Z
+Scope: Mental Health Group 02C cognitive screening/MMSE new topic files and local indexes only. No PR merges or other job edits.
+Claimed UTC: 2026-11-28T04:39:00Z
+Expiry UTC: 2026-11-28T05:09:00Z
 
 ## Verified continuation — Group 02B, 28 November 2026
 
