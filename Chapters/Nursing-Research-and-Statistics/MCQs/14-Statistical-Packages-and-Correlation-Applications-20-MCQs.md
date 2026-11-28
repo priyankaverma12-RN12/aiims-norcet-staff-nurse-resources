@@ -27,26 +27,26 @@
 
 </details>
 
-### Q2. In a statistical package, a variable coded 1 = urban and 2 = rural is mistakenly treated as continuous. What is the best correction?
+### Q2. A statistical package reads a column of decimal measurements such as 2,5 and 3,7 as text because the import locale expects a decimal point. What is the appropriate correction?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Calculate the mean residence code and interpret it as distance
-- **B.** Change rural to 100 so the variable becomes continuous
-- **C.** Set the measurement level to nominal and preserve meaningful value labels
-- **D.** Remove the variable solely because it contains numbers
+- **A.** Round the original values to whole numbers
+- **B.** Remove the decimal column from the dataset
+- **C.** Configure the appropriate decimal locale and verify the imported numeric values against the source
+- **D.** Interpret each text value as a separate nominal category
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Set the measurement level to nominal and preserve meaningful value labels**
+**Correct: C. Configure the appropriate decimal locale and verify the imported numeric values against the source**
 
-**C.** Urban/rural unordered categories hain. Numeric storage codes unhe quantitative measurements nahi banate.
+**C.** Decimal separators locale ke according differ karte hain. Suitable import settings apply karo and sample values source ke against compare karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Mean of arbitrary codes actual geographical distance represent nahi karta. Category frequencies appropriate hain.
-- **B.** Different numeric code classification nature change nahi karta. Correct metadata needed hai.
-- **D.** Category coding legitimate hai. Measurement level correct karo rather than unnecessarily discard.
+- **A.** Rounding measurement precision lose kar sakti hai and actual import problem solve nahi karti. Original decimals retain karo.
+- **B.** Column removal useful observations discard kar dega. Parsing setting correct karke values verify kar sakte hain.
+- **D.** Text storage import error ki wajah se hui hai. Actual variable quantitative hai and category treatment scientific meaning change kar dega.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -452,26 +452,26 @@
 
 </details>
 
-### Q19. A team wants another analyst to reproduce its exact statistical outputs. Which package workflow is best?
+### Q19. A statistical package shows an estimated mean of 3.48 on screen but exports it with one decimal place as 3.5. The researcher must use that estimate in another prespecified calculation. What should be retained for calculation?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Save only a cropped screenshot of the final significant result
-- **B.** Rely on the analyst's memory of clicked menus
-- **C.** Save the analysis syntax or reproducible script, software version, input data version and analysis settings
-- **D.** Delete all intermediate decisions once the results are published
+- **A.** The rounded display value only
+- **B.** The highest available decimal precision from the underlying output
+- **C.** A randomly selected value between 3 and 4
+- **D.** A value rounded to the nearest integer before every operation
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Save the analysis syntax or reproducible script, software version, input data version and analysis settings**
+**Correct: B. The highest available decimal precision from the underlying output**
 
-**C.** Documented code and versions exact steps traceable banate hain. Permissible data access and privacy conditions preserve karo.
+**B.** Available unrounded estimate retain karne se repeated calculation mein rounding error kam hota hai. Final result ko justified reporting precision par round karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Screenshot data processing and model settings preserve nahi karti. Reproduction ke liye fuller record needed hai.
-- **B.** Memory incomplete ho sakti hai. Saved reproducible steps and configuration more reliable hain.
-- **D.** Undocumented transformations audit difficult banati hain. Appropriate versioned records preserve karo.
+- **A.** Displayed 3.5 reporting ke liye suitable ho sakta hai but intermediate calculation mein avoidable rounding error aa sakta hai. Underlying precision use karo.
+- **C.** Random replacement actual estimate represent nahi karega. Verified numeric output use karo.
+- **D.** Har intermediate step par integer rounding error accumulate kar sakti hai. Round final reported value appropriately, not every step.
 
 **YouTube MCQ practice:** verification pending.
 
