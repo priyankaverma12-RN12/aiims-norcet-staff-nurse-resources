@@ -65,3 +65,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Umbilical cord — 28 November 2026
 
 [Two RRB 20 July 2019 Shift II and 21 July 2019 Shift I reported adaptations](05D-Umbilical-Cord-Reported-Evidence.md). Related vessel-count items not double counted. Current obstetric reported total: 18. HPRCA/HPSSC official item matching pending. Aarogyam Part 27 indexed 28:55 SUA topic lead provisional only; no actual playback or exact item verification.
+
+## Fetal movements — 28 November 2026
+
+[HSSC Staff Nurse 2019 reported quickening-timing adaptation](06A-Fetal-Movements-Reported-Evidence.md). Retrieved third-party question, official paper/key not authenticated. RRB, UP NHM and HSSC related terminology leads not allocated again. Current obstetric reported total 19. One provisional quickening MCQ topic mapping, 19 specific mapping gaps and 20 exact playback gaps.
