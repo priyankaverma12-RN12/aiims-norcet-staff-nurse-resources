@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-10c-transfer-20261128T1641Z
+Scope: Isolated PR35 transfer of prepared 10C candidate, concept, SVG and review. No shared navigation or other workstream changes.
+Claimed UTC: 2026-11-28T16:41:00Z
+Expiry UTC: 2026-11-28T17:11:00Z
 
 ## Latest released checkpoint — 10B adult underweight and oral nutrition rehabilitation
 
