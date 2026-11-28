@@ -1,10 +1,10 @@
 # Independent vulvar and Bartholin topic claim
 
-State: CLAIMED
-Owner: gyne-v15-v11-correction-20261128
-Scope: Vulvar MCQ file Q11 and Q15 only, own claim and audit addendum. No shared README.
-Claimed UTC: 2026-11-28T08:00:00Z
-Expiry UTC: 2026-11-28T09:00:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: 504 indexed original slots, 20 preserved overlapping AUB raw slots excluded. No mocks until topic banks complete.
 
@@ -22,3 +22,8 @@ Baseline: 504 indexed original slots, 20 preserved overlapping AUB raw slots exc
 - Vulvar Q10/13/14 rewritten, commit cacfb4b598c82d6168ac3240af2f9ed6ac2d7856; 20 questions and hidden answers verified.
 - Fistula Q1 rewritten to postoperative ureter injury escalation after detecting within-bank overlap with F6; final commit 1d30dc3f33b5b7b96087f540701890859000d242, 20 questions and hidden answers verified.
 - Audit revised and checkpointed at cfee1a52c798239ef05b8bc207992e19067cfd85. Physical slots 623 and allocated originals 564 preserved. Full 40-item independent clinical/source audit incomplete; README distinct count unchanged; no mocks.
+
+## 28 Nov 2026 — V11/V15 clinical and duplicate correction
+- V11 internal overlap with V10 corrected to lichen simplex chronicus. V15 generic STI counseling overlap corrected to CDC-supported genital ulcer syphilis/HIV evaluation. Vulvar bank commit d5e0caa66590d6ae45362aa5242a260d90e4c962, blob cfe7e344e13d8801386acdb330555981c22c15c4. Remote readback 20 Q and 20 hidden answers.
+- Cross-bank audit addendum commit 516e01af95b1933d182ce2a7555fccd738fc7a80, exact remote readback verified. CDC ulcer, CDC herpes and WHO simple fistula source pages directly checked. Full 40-item clinical/distractor and all-link audit remains incomplete.
+- Preserve 564 allocated original slots, 20 Vulvar unallocated, 20 Fistula unallocated and 19 menstrual revision = 623 raw slots. No shared README count change, no mocks.
