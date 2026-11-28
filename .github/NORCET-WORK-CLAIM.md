@@ -1,10 +1,10 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: forward-pr48-reconcile-20261128-085709Z
+Scope: PR48 isolated latest-main reconciliation and semantic review only; no shared navigation or Renal writes.
+Claimed UTC: 2026-11-28T08:57:09Z
+Expiry UTC: 2026-11-28T09:27:09Z
 
 ## Latest isolated sequential review checkpoint — Group10A–D, 28 November 2026
 
