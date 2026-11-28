@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-09a-food-contaminants-20261128-1138Z
+Scope: PR35 isolated new 09A additives, chemical contaminants and residues nutrition bank, concept, diagram and evidence only. No shared navigation, other jobs or production edits.
+Claimed UTC: 2026-11-28T11:38:56Z
+Expiry UTC: 2026-11-28T12:08:56Z
 
 ## Latest released checkpoint — 08E dietary sodium, potassium and magnesium
 
