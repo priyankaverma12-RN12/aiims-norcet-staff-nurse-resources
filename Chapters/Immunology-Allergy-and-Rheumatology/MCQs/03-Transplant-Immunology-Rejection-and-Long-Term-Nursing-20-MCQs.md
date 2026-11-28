@@ -291,7 +291,7 @@
 
 **B kyun galat hai:** Labour tak wait karne se early fetal exposure ka risk address nahi hoga.
 
-**C kyun sahi hai:** Mycophenolate pregnancy-related fetal risk se associated hai. Planned pregnancy se pehle team safe alternative aur graft protection assess karegi.
+**C kyun sahi hai:** Mycophenolate se miscarriage aur birth defects ka risk badhta hai. Planned pregnancy se pehle transplant team medicine ka suitable alternative, pregnancy timing aur graft ki stability assess karegi. Tab tak patient prescribed contraception aur medication plan follow kare. Khud se treatment band na kare.
 
 **D kyun galat hai:** All immunosuppressants abruptly stop karne se rejection risk ho sakta hai.
 
@@ -320,11 +320,11 @@
 
 **C kyun galat hai:** Herbal product prescribed transplant therapy ka replacement nahi hai.
 
-**D kyun sahi hai:** Vomiting ke baad medicine absorb hui ya nahi, ye uncertain ho sakta hai. Prompt team review se drug level aur alternative management safely decide hota hai.
+**D kyun sahi hai:** Vomiting ke baad kitni medicine absorb hui, ye pata lagana mushkil ho sakta hai. Persistent vomiting se dehydration bhi ho sakti hai. Patient transplant team ko turant bataye ki last dose kab li aur vomiting kab hui. Team decide karegi ki drug level, fluid assessment ya treatment mein change chahiye. Apne aap repeat dose na le.
 
 **Exam clue:** Vomiting se immunosuppressant absorption affect ho sakti hai.
 
-**Clinical reference:** [Source F](https://www.nhsbt.nhs.uk/organ-transplantation/heart/benefits-and-risks-of-a-heart-transplant/risks-of-a-heart-transplant/longer-term-risks-of-a-heart-transplant/)
+**Clinical reference:** [Source F](https://www.nhsbt.nhs.uk/organ-transplantation/kidney/living-with-a-kidney-transplant/warning-signs-after-a-kidney-transplant/)
 
 </details>
 
@@ -341,7 +341,7 @@
 
 **Correct answer: A. The prescribed sampling time relative to the dose**
 
-**A kyun sahi hai:** Tacrolimus level dose ke timing se change hota hai. Prescribed collection timing verify karne se result ko dose adjustment ke liye correctly interpret kiya ja sakta hai.
+**A kyun sahi hai:** Tacrolimus ka blood level dose ke baad badalta hai. Agar trough level order hua hai, toh sample aam taur par next scheduled dose ke just pehle liya jaata hai. Last dose ka time, formulation aur sampling time document karo. Dose ko kab lena hai, ye transplant team ki instructions se confirm karo.
 
 **B kyun galat hai:** Meal preference nutrition ke liye useful ho sakti hai, sampling timing ka substitute nahi.
 
@@ -359,22 +359,22 @@
 
 **Difficulty:** Difficult | **Priority:** High Yield | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Transplant immunology and nursing
 
-- **A.** Graft-versus-host disease due to recipient platelet activation
+- **A.** Donor T cells attacking recipient tissues in graft-versus-host disease
 - **B.** Pre-existing recipient antibodies causing rapid vascular graft injury
-- **C.** Slow accumulation of chronic mechanical wear over years
-- **D.** Isolated delayed T-cell response developing over several months
+- **C.** Progressive chronic allograft injury with fibrosis
+- **D.** Newly activated recipient T cells causing acute cellular rejection
 
 <details><summary>Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Pre-existing recipient antibodies causing rapid vascular graft injury**
 
-**A kyun galat hai:** GVHD donor immune cells ke host tissues par attack se related hai, recipient platelet activation se nahi.
+**A kyun galat hai:** GVHD mein donor immune cells recipient ke tissues par attack karte hain. Is scenario mein injury recipient antibodies se donor kidney mein ho rahi hai, isliye direction alag hai.
 
-**B kyun sahi hai:** Pre-existing donor-reactive antibodies reperfusion ke baad rapid graft vascular injury cause kar sakti hain. Ye hyperacute rejection ka classical mechanism hai.
+**B kyun sahi hai:** Recipient mein pehle se maujood donor-reactive HLA ya ABO antibodies graft ki blood vessels ko damage kar sakti hain. Isse clotting aur blood supply rukne ka risk hota hai. Ye hyperacute rejection ka classical mechanism hai, lekin immediate surgical vascular complication ko bhi urgently exclude karna zaroori hai.
 
-**C kyun galat hai:** Chronic process usually gradual hota hai, minute-level onset explain nahi karta.
+**C kyun galat hai:** Chronic allograft injury mein tissue damage aur fibrosis dheere dheere develop hote hain. Reperfusion ke turant baad graft ka abruptly fail hona is pattern se match nahi karta.
 
-**D kyun galat hai:** New T-cell response ko develop hone mein time chahiye, immediate antibody injury se different hai.
+**D kyun galat hai:** Acute cellular rejection mein recipient T cells graft par attack karte hain. Naya cellular response develop hone mein time lagta hai, jabki pehle se bani antibodies reperfusion ke waqt hi injury kar sakti hain.
 
 **Exam clue:** Minutes after reperfusion aur pre-existing antibodies hyperacute pattern suggest karte hain.
 
@@ -428,7 +428,7 @@
 
 **C kyun galat hai:** Pain absent hone par bhi kidney dysfunction clinically significant ho sakta hai.
 
-**D kyun sahi hai:** High tacrolimus concentration kidney toxicity contribute kar sakti hai. Rising creatinine ke other causes bhi possible hain, isliye team dose aur graft evaluation decide karegi.
+**D kyun sahi hai:** Tacrolimus ka level target se upar ho toh kidney toxicity possible hai. Lekin pehle sample ka timing, last dose aur interacting medicines verify karo. Creatinine badhne ke doosre causes, jaise obstruction, infection ya rejection, bhi assess karne padte hain. Team zaroorat ke hisaab se repeat level, imaging ya biopsy decide karegi.
 
 **Exam clue:** Graft dysfunction mein toxicity aur rejection dono differentiate karne padte hain.
 
@@ -449,7 +449,7 @@
 
 **Correct answer: A. Notify the transplant team for evaluation of delayed graft function, obstruction, vascular problems or rejection**
 
-**A kyun sahi hai:** Early low urine output delayed graft function ya surgical aur immune causes se ho sakta hai. Team hemodynamics, imaging, labs aur indicated biopsy se cause differentiate karegi.
+**A kyun sahi hai:** Early low urine output ke kai causes ho sakte hain. Nurse blood pressure, fluid balance aur catheter patency check kare aur transplant team ko promptly inform kare. Graft ki blood supply ya urine drainage mein blockage urgent causes hain. Team labs, Doppler imaging aur zaroorat par biopsy se delayed graft function aur rejection mein fark karegi.
 
 **B kyun galat hai:** Urine volume ek clue hai, rejection ka definitive test nahi.
 
@@ -478,7 +478,7 @@
 
 **A kyun galat hai:** Analgesic symptoms kam kar sakta hai, underlying graft immune injury reverse nahi karta.
 
-**B kyun sahi hai:** Cellular rejection mein graft par immune attack hota hai. Specialist rejection severity aur biopsy findings ke basis par immune suppression adjust kar sakta hai.
+**B kyun sahi hai:** Cellular rejection mein recipient T cells graft ko damage karte hain. Specialist organ type, biopsy findings aur severity ke hisaab se immunosuppression adjust karta hai. Kuch cases mein corticosteroids use hote hain. Nurse prescribed treatment ke saath infection aur glucose jaise adverse effects monitor kare.
 
 **C kyun galat hai:** Immunosuppression permanently remove karne se immune attack badh sakta hai.
 
@@ -540,7 +540,7 @@
 
 **Exam clue:** Post-transplant rash plus diarrhoea plus liver abnormalities ko urgent multisystem warning pattern samjho.
 
-**Clinical reference:** [Merck Manual — Hematopoietic Stem Cell Transplantation](https://www.merckmanuals.com/professional/hematology/hematopoietic-stem-cell-transplantation/hematopoietic-stem-cell-transplantation)
+**Clinical reference:** [NCI PDQ — Acute GVHD clinical manifestations](https://www.cancer.gov/about-cancer/treatment/side-effects/mouth-throat/oral-complications-hp-pdq)
 
 </details>
 
