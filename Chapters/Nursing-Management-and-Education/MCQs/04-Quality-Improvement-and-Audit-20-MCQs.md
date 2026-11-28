@@ -506,26 +506,28 @@
 
 ### Q19. A hospital quality project seeks to improve a local discharge process, while a separate investigation is designed primarily to generate broadly generalizable knowledge. What is the best distinction?
 
-**Difficulty:** Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
-- **A.** All quality improvement is automatically exempt from every ethics and privacy requirement
-- **B.** All research must involve a new drug
+- **A.** The stated local improvement aim is sufficient to classify the first project without considering its methods
+- **B.** The second project is research only if it uses a randomized experimental design
 - **C.** The first is primarily local quality improvement and the second may be research, with governance review determined by the design and local rules
-- **D.** Quality improvement and research have identical purposes in every case
+- **D.** The distinction depends primarily on whether the project team intends to publish the findings
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. The first is primarily local quality improvement and the second may be research, with governance review determined by the design and local rules**
 
-**A kyun galat hai:** QI label se privacy, consent ya governance duties automatically disappear nahi hoti. Appropriate institutional review check karna chahiye.
+**A kyun galat hai:** Local improvement aim useful clue hai, lekin project ki actual methods, risks aur patient data ka use bhi assess karna chahiye. Sirf QI label se privacy, consent ya governance requirements automatically remove nahi hoti.
 
-**B kyun galat hai:** Research observational, qualitative ya other non-drug methods se bhi ho sakti hai. New drug mandatory nahi hai.
+**B kyun galat hai:** Generalizable knowledge ke liye observational, qualitative ya doosre suitable research designs bhi use ho sakte hain. Randomized experimental design research classify karne ke liye universal requirement nahi hai.
 
 **C kyun sahi hai:** QI ka primary purpose usually local service improve karna hota hai, jabki research generalizable knowledge produce karne ki koshish kar sakti hai. Dono overlap kar sakte hain aur ethics ya governance requirements local rules aur design par depend karti hain.
 
-**D kyun galat hai:** Dono mein data use ho sakta hai, lekin main purpose aur governance needs differ kar sakti hain. Har case ko separately evaluate karna zaroori hai.
+**D kyun galat hai:** QI project ki learning bhi publish ho sakti hai aur har research project publish ho, yeh zaroori nahi hai. Publication intention akela classification decide nahi karta. Actual purpose, design, risk aur applicable institutional rules consider karo.
 
-**Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing)
+**Exam clue:** Project classification depends on its actual purpose and design; intended publication alone does not determine its status.
+
+**Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing) · [HQIP ethics in QI and clinical audit, October 2025](https://www.hqip.org.uk/guidance/guide-to-managing-ethical-issues-in-quality-improvement-or-clinical-audit-projects/) (UK methodology, apply local Indian governance requirements).
 
 **YouTube MCQ practice:** Verification pending.
 
