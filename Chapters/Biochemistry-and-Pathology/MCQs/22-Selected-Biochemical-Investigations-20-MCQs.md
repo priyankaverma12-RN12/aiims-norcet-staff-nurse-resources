@@ -104,7 +104,7 @@
 
 ### Q5. An old teaching note describes a mini-GTT but does not specify dose, sampling time or diagnostic rule. What is the safest way to use this term in contemporary nursing practice?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Glucose challenge protocols | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Glucose challenge protocols | **Exam focus:** NORCET-style original
 
 - **A.** Assume it always means a fasting 100-g diagnostic test
 - **B.** Apply a standard 75-g two-hour threshold regardless of actual dose
@@ -176,7 +176,7 @@
 
 ### Q8. An extended glucose tolerance curve is proposed as a standalone investigation for suspected postprandial hypoglycemia. What limitation warrants specialist clarification?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Glucose challenge protocols | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Glucose challenge protocols | **Exam focus:** NORCET-style original
 
 - **A.** A low value always proves an insulin-secreting tumor
 - **B.** Every extended curve is equivalent to a routine fasting glucose measurement
@@ -192,7 +192,7 @@
 - **C.** Low post-load glucose alone actual symptomatic disorder prove nahi karti. Symptoms aur corresponding reliable plasma glucose ka relationship important hai. Extended GTT historical terminology hai, modern evaluation clinician-directed honi chahiye.
 - **D.** Delayed timed samples selected protocols mein meaningful ho sakte hain. Limitation indiscriminate interpretation ki hai, sampling itself ki nahi.
 
-**Clinical reference:** [Relevant reference](https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/glucose-tolerance-test). Full item-specific verification and independent review pending.
+**Clinical reference:** [Relevant reference](https://academic.oup.com/jcem/article/94/3/709/2596247). Full item-specific verification and independent review pending.
 
 **YouTube MCQ practice:** Exact item mapping pending.
 
@@ -202,7 +202,7 @@
 
 ### Q9. Aldolase catalyzes a cleavage reaction during glycolysis. Which pair of triose phosphates is generated directly from fructose-1,6-bisphosphate?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Muscle enzyme interpretation | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Muscle enzyme interpretation | **Exam focus:** NORCET-style original
 
 - **A.** Glucose-6-phosphate and fructose-6-phosphate
 - **B.** Glyceraldehyde-3-phosphate and dihydroxyacetone phosphate
@@ -226,7 +226,7 @@
 
 ### Q10. A patient with proximal weakness and suspected inflammatory myopathy has a normal creatine kinase result but elevated serum aldolase. Which conclusion is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Muscle enzyme interpretation | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Muscle enzyme interpretation | **Exam focus:** NORCET-style original
 
 - **A.** Normal CK conclusively excludes inflammatory muscle disease
 - **B.** Aldolase elevation establishes liver failure rather than myopathy
@@ -300,7 +300,7 @@
 
 ### Q13. Which molecular description best distinguishes prostate-specific antigen from the historical prostatic acid phosphatase marker?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Prostatic markers | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Prostatic markers | **Exam focus:** NORCET-style original
 
 - **A.** PSA is a serine protease whereas prostatic acid phosphatase hydrolyzes phosphate esters at acidic pH
 - **B.** Both are identical isoforms of alkaline phosphatase
@@ -316,7 +316,7 @@
 - **C.** PSA and PAP enzyme proteins hain, antibody and hormone classification inaccurate hai.
 - **D.** Markers prostate-associated proteins quantify karte hain. Testosterone separate steroid hormone assay hai.
 
-**Clinical reference:** [Relevant reference](https://www.mayocliniclabs.com/test-catalog/Overview/8019). Full item-specific verification and independent review pending.
+**Clinical reference:** [Relevant reference](https://pubmed.ncbi.nlm.nih.gov/1715106/). Full item-specific verification and independent review pending.
 
 **YouTube MCQ practice:** Exact item mapping pending.
 
@@ -324,7 +324,7 @@
 
 ### Q14. An examination note describes prostatic acid phosphatase as the routine primary screening test for prostate cancer. Which update is appropriate?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Prostatic markers | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Prostatic markers | **Exam focus:** NORCET-style original
 
 - **A.** PAP is the preferred universal modern population screening test
 - **B.** PSA is no longer used for any prostate cancer follow-up
@@ -372,7 +372,7 @@
 
 ### Q16. A patient taking finasteride has serial PSA measurements as part of clinician-directed evaluation. Which medication-related factor should accompany the laboratory result?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Prostatic markers | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Prostatic markers | **Exam focus:** NORCET-style original
 
 - **A.** Finasteride makes all PSA assays incapable of detecting any PSA
 - **B.** Finasteride can lower circulating PSA, affecting comparison with untreated reference expectations
@@ -396,7 +396,7 @@
 
 ### Q17. After prostate cancer treatment, serial PSA results rise before any new symptoms appear. Which interpretation is safest?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Prostatic markers | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Prostatic markers | **Exam focus:** NORCET-style original
 
 - **A.** The rise directly identifies the precise metastatic site
 - **B.** No clinical review is needed until symptoms occur
@@ -422,7 +422,7 @@
 
 ### Q18. A serum albumin report changes units from g/dL to g/L. The earlier result was 3.8 g/dL and the newer result is 38 g/L. What is the numerical relationship?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Reference values and reporting | **Exam focus:** NORCET-style original
+**Difficulty:** Easy | **Priority:** High | **Topic:** Reference values and reporting | **Exam focus:** NORCET-style original
 
 - **A.** They represent the same mass concentration
 - **B.** The new result is ten times higher in physiological concentration
@@ -446,7 +446,7 @@
 
 ### Q19. Two laboratories report identical ALT activities of 45 U/L but use upper reference limits of 35 and 55 U/L. Which interpretation is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Reference values and reporting | **Exam focus:** NORCET-style original
+**Difficulty:** Medium | **Priority:** High | **Topic:** Reference values and reporting | **Exam focus:** NORCET-style original
 
 - **A.** Both results must be flagged abnormal because one laboratory uses 35 U/L
 - **B.** The same numerical activity may be flagged differently because applicable reference limits differ
@@ -486,7 +486,7 @@
 - **C.** Reference limits and critical alert limits different clinical purposes serve karte hain. Boundary crossing automatically emergency nahi.
 - **D.** Central 95 percent interval selected reference group ke middle 95 percent cover karta hai. Remaining approximately 5 percent tails mein ho sakte hain. Out-of-range result disease automatically prove nahi karta.
 
-**Clinical reference:** [Relevant reference](https://medlineplus.gov/lab-tests/how-to-understand-your-lab-results/). Original interpretation exercise using stated values.
+**Clinical reference:** [Relevant reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC2556592/). Original interpretation exercise using stated values.
 
 **YouTube MCQ practice:** Exact item mapping pending.
 
@@ -494,4 +494,6 @@
 
 ## Evidence limits
 
-ADA 2026 indexed text supports named pregnancy protocols. Full direct page retrieval failed. IVGTT research review indexed only. Extended and mini GTT terminology requires additional current clinical-source validation; no unsupported legacy fixed-load rule asserted. Mayo aldolase and PAP, NCI PSA and MedlinePlus direct pages retrieved. Specific PSA protease and medication source review, statistical reference interval source review, and independent clinical review still pending. No historical credit.
+ADA 2026 indexed text supports named pregnancy protocols. Full direct page retrieval failed. Q8 now also links the indexed Endocrine Society guideline, which advises against OGTT for suspected postprandial hypoglycemia. Q13 and Q20 now link indexed biochemical and reference-interval reviews. IVGTT research review indexed only. Extended and mini GTT terminology requires additional current clinical-source validation; no unsupported legacy fixed-load rule asserted. Mayo aldolase and PAP, NCI PSA and MedlinePlus direct pages retrieved. Specific PSA protease and medication source review, statistical reference interval source review, and independent clinical review still pending. No historical credit.
+
+Second-pass author calibration: Easy labels identify recall or direct interpretation, Medium labels identify straightforward applications, and Difficult labels identify multi-step interpretation or specialist assay mechanisms. These editorial labels have not been independently calibrated against learner response data.
