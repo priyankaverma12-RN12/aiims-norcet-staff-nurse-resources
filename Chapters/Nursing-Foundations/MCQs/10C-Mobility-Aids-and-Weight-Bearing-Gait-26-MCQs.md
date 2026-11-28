@@ -23,7 +23,7 @@
 
 **C. Kyun galat hai:** Cane ko peeche rakhne se forward movement mein useful support nahi milega.
 
-**D. Kyun sahi hai:** Cane weak leg ke saath advance karne se us phase mein additional support milta hai. Phir strong leg aage aati hai.
+**D. Kyun sahi hai:** Cane aur weaker leg ko prescribed conventional pattern mein saath aage le jaane se weaker limb ko support milta hai. Cane ka tip stable surface par aane ke baad stronger leg aage badhti hai. Kuch training programmes cane ko weak foot se just pehle advance karna sikhate hain. Dono mein key principle hai ki weaker limb load lene se pehle aid support ready ho.
 
 **Exam clue:** Cane ki side aur cane advance karne ki timing alag concepts hain.
 
@@ -73,7 +73,7 @@
 - **A.** Left leg
 - **B.** Right leg
 - **C.** Both legs simultaneously
-- **D.** The weaker leg after placing both feet on the curb
+- **D.** The weaker leg first after moving the cane onto the curb
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -85,11 +85,11 @@
 
 **C. Kyun galat hai:** Dono legs ek saath lift karna normal supported step pattern nahi hai.
 
-**D. Kyun galat hai:** Dono feet already curb par hone ke baad leading limb ka decision meaningful nahi rahega.
+**D. Kyun galat hai:** Agar weaker limb pehle step par chali gayi toh weaker limb ko body lift karne ka load handle karna pad sakta hai. Isliye prescribed conventional ascent mein stronger limb pehle move karti hai.
 
 **Exam clue:** Trained stair pattern mein stronger limb generally ascent lead karti hai.
 
-**Clinical reference:** [Mobility guidance](https://opentextbc.ca/hcalabtheoryandpractice/chapter/client-ambulation-using-assistive-devices/).
+**Clinical reference:** [MedlinePlus cane, single curb ascent](https://medlineplus.gov/ency/patientinstructions/000343.htm).
 
 **YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
 
@@ -223,9 +223,9 @@
 
 ### Q08. A patient with a standard walker is about to load it after moving it forward. One rubber foot remains on a raised door threshold while the other three are on the floor. What is the safest action?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Threshold negotiation
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Threshold negotiation
 
-- **A.** Load the walker to flatten the threshold
+- **A.** Advance the walker beyond the threshold while remaining in the unsupported standing position
 - **B.** Step over the threshold before correcting the frame
 - **C.** Ask a caregiver to hold the elevated foot down
 - **D.** Stop and arrange a stable placement or trained threshold technique
@@ -234,7 +234,7 @@
 
 **Correct answer: D. Stop and arrange a stable placement or trained threshold technique**
 
-**A. Kyun galat hai:** Patient ke load se threshold flatten hoga ye assume nahi kar sakte. Frame rock kar sakta hai.
+**A. Kyun galat hai:** Agar frame ko bahut door advance karna pade aur patient unsupported ho jaaye toh balance compromise ho sakta hai. Trained technique ke bina threshold cross karne ke liye reach extend mat karo.
 
 **B. Kyun galat hai:** Unstable frame par step karna fall risk create karta hai.
 
@@ -275,7 +275,7 @@
 
 **Exam clue:** Device design se gait technique badalti hai.
 
-**Clinical reference:** [Mobility guidance](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients).
+**Clinical reference:** [MedlinePlus walker](https://medlineplus.gov/ency/patientinstructions/000342.htm).
 
 **YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
 
@@ -337,7 +337,7 @@
 
 **Exam clue:** Chair se rise aur walker se walking alag phases hain.
 
-**Clinical reference:** [Mobility guidance](https://medlineplus.gov/ency/patientinstructions/000342.htm).
+**Clinical reference:** [MedlinePlus walker](https://medlineplus.gov/ency/patientinstructions/000342.htm).
 
 **YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
 
@@ -430,7 +430,7 @@
 
 **Exam clue:** Four-point gait mein four individual advances count karo.
 
-**Clinical reference:** [Mobility guidance](https://emodules.kvv.edu.in/e-modules/walking-aids/).
+**Clinical reference:** [Osmosis clinical skills, assistive devices for ambulation](https://www.osmosis.org/learn/Assistive_devices_for_ambulation:_Clinical_skills_notes).
 
 **YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
 
@@ -461,7 +461,7 @@
 
 **Exam clue:** Two-point gait ko simultaneous opposite pairs se identify karo.
 
-**Clinical reference:** [Mobility guidance](https://emodules.kvv.edu.in/e-modules/walking-aids/).
+**Clinical reference:** [Osmosis clinical skills, assistive devices for ambulation](https://www.osmosis.org/learn/Assistive_devices_for_ambulation:_Clinical_skills_notes).
 
 **YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
 
@@ -492,7 +492,7 @@
 
 **Exam clue:** Non-weight-bearing order ko har step mein preserve karo.
 
-**Clinical reference:** [Mobility guidance](https://openstax.org/books/clinical-nursing-skills/pages/25-2-physical-assessment).
+**Clinical reference:** [MedlinePlus crutches](https://medlineplus.gov/ency/patientinstructions/000344.htm).
 
 **YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
 
@@ -523,7 +523,7 @@
 
 **Exam clue:** To ka matlab tips tak aur through ka matlab tips se aage.
 
-**Clinical reference:** [Mobility guidance](https://emodules.kvv.edu.in/e-modules/walking-aids/).
+**Clinical reference:** [Osmosis clinical skills, assistive devices for ambulation](https://www.osmosis.org/learn/Assistive_devices_for_ambulation:_Clinical_skills_notes).
 
 **YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
 
@@ -531,7 +531,7 @@
 
 ---
 
-### Q18. A patient prescribed partial weight bearing is told to limit affected-leg loading to 25% of body weight. The patient weighs 80 kg. Which approximate mass-equivalent load is the training target?
+### Q18. In a hypothetical scale-based training exercise, a clinician specifies an affected-leg load equivalent to 25% of body weight. The patient weighs 80 kg. Which approximate mass-equivalent load is the training target?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Weight-bearing calculation
 
@@ -548,13 +548,13 @@
 
 **B. Kyun galat hai:** 60 kg body weight ka 75 percent hai. Ye prescribed amount se zyada hai.
 
-**C. Kyun sahi hai:** 80 ka 25 percent 80 × 0.25 = 20 kg hota hai. Ye scale-based training ka approximate mass-equivalent target hai. Actual walking load ko therapist supervise kare.
+**C. Kyun sahi hai:** 80 ka 25 percent 80 × 0.25 = 20 kg hota hai. Ye scale-based training ka approximate mass-equivalent target hai. Ye ek explicitly defined arithmetic example hai, routine prescription recommendation nahi. 2024 UK BOASt percentage ya kilogram se weight-bearing restrictions prescribe karne ke bajay functional restrictions specify karne ko kehti hai. Actual walking load aur safe technique treating team decide kare.
 
 **D. Kyun galat hai:** 80 kg full body weight hai. Partial restriction ko satisfy nahi karta.
 
-**Exam clue:** Percentage ko body weight se multiply karo, lekin scale reading dynamic walking load nahi hoti.
+**Exam clue:** Exam arithmetic mein percentage ko body weight se multiply karo. Clinical restriction ko khud se percentage mein convert mat karo.
 
-**Clinical reference:** [Mobility guidance](https://openstax.org/books/clinical-nursing-skills/pages/25-2-physical-assessment).
+**Clinical reference:** [BOASt weight-bearing guidance, August 2024](https://www.boa.ac.uk/resource/mobilisation-and-weightbearing-after-orthopaedic-surgery-musculoskeletal-injury-boast.html).
 
 **YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
 
@@ -577,7 +577,7 @@
 
 **A. Kyun galat hai:** As tolerated ka matlab forcefully full load dena nahi hai. Symptoms aur clinical guidance ke according progression chahiye.
 
-**B. Kyun sahi hai:** Clinician ki clearance ke according patient tolerated load use kar sakta hai. Prescribed aid aur symptom response ko reassessment tak respect karo.
+**B. Kyun sahi hai:** Clinician ki clearance ke according patient tolerated load use kar sakta hai. Prescribed aid aur symptom response ko reassessment tak respect karo. WBAT terminology service ke hisaab se vary kar sakti hai, isliye treating team's functional instructions follow karo.
 
 **C. Kyun galat hai:** Strict non-weight-bearing alag restriction hai. Updated order ko ignore karke unnecessary unloading mat impose karo.
 
@@ -585,7 +585,7 @@
 
 **Exam clue:** WBAT ka matlab symptom-guided allowed loading hai, mandatory full loading nahi.
 
-**Clinical reference:** [Mobility guidance](https://openstax.org/books/clinical-nursing-skills/pages/25-2-physical-assessment).
+**Clinical reference:** [MedlinePlus crutches](https://medlineplus.gov/ency/patientinstructions/000344.htm).
 
 **YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
 
@@ -606,7 +606,7 @@
 
 **Correct answer: D. Clarify the clinician's intended loading definition and obtain supervised training**
 
-**A. Kyun galat hai:** Touch-down terminology aur exact load definitions services mein vary kar sakti hain. Universal 15 kg assume mat karo.
+**A. Kyun galat hai:** Touch-down terminology aur exact load definitions services mein vary kar sakti hain. 2024 BOASt limited weightbearing ke liye specific functional restrictions document karne ko kehti hai. Universal 15 kg assume mat karo.
 
 **B. Kyun galat hai:** 50 percent loading prescribed restriction se zyada ho sakti hai. Exact order clarify karna zaroori hai.
 
@@ -616,7 +616,7 @@
 
 **Exam clue:** Ambiguous weight-bearing order ko numerical guess se resolve mat karo.
 
-**Clinical reference:** [Mobility guidance](https://openstax.org/books/clinical-nursing-skills/pages/25-2-physical-assessment).
+**Clinical reference:** [BOASt weight-bearing guidance, August 2024](https://www.boa.ac.uk/resource/mobilisation-and-weightbearing-after-orthopaedic-surgery-musculoskeletal-injury-boast.html).
 
 **YouTube MCQ practice:** Item-specific verification pending. Teaching and practice leads are separated in the evidence register.
 
@@ -690,22 +690,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Walker type selection
 
-- **A.** Whether the rollator matches the patient's clothing
+- **A.** Whether the rollator has a higher listed maximum user weight, without assessing gait control
 - **B.** Whether the patient can walk faster without any training
 - **C.** Whether the patient can safely control the wheeled device while meeting the required support and weight-bearing needs
-- **D.** Whether both devices have the same number of handles
+- **D.** Whether the rollator has a seat and basket, regardless of prescribed unloading needs
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Whether the patient can safely control the wheeled device while meeting the required support and weight-bearing needs**
 
-**A. Kyun galat hai:** Colour device suitability decide nahi karta. Safety aur function priority hain.
+**A. Kyun galat hai:** Weight rating equipment safety ka important part hai, lekin suitable rating se patient ka braking control aur required limb unloading establish nahi hota. Gait assessment bhi chahiye.
 
 **B. Kyun galat hai:** Speed independent safety ka proof nahi hai. New device training aur assessment chahiye.
 
 **C. Kyun sahi hai:** Rollator movement aur braking control demand kar sakta hai. Therapist ko support needs, weight-bearing order aur device control assess karna chahiye.
 
-**D. Kyun galat hai:** Same handle count se stability, wheel behaviour aur loading capacity same nahi ho jaati.
+**D. Kyun galat hai:** Seat aur basket convenient features hain. Lekin convenience se required support ya prescribed limb unloading satisfy hona prove nahi hota.
 
 **Exam clue:** Device upgrade speed ke basis par nahi, safe functional fit ke basis par karo.
 
