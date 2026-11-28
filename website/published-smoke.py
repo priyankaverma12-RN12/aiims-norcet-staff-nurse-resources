@@ -18,6 +18,24 @@ for c in expected["chapters"]:
         assert total==sum(f["slots"] for f in c["records"] if f["category"]==key)
     print("LIVE INVENTORY CHAPTER:",c["id"],json.dumps(c["totals"],sort_keys=True),flush=True)
 
+
+def expand_chapter(page, kind="metric"):
+    card=page.locator(".metric-chapter" if kind=="metric" else ".completion-chapter").first
+    expect(card).to_be_visible(timeout=30000)
+    if card.get_attribute("open") is None:
+        card.locator(":scope > summary").click()
+    return card
+
+def expand_folders(page, kind="metric", only=None):
+    card=expand_chapter(page,kind)
+    groups=card.locator(".metric-category" if kind=="metric" else ".completion-category")
+    expect(groups.first).to_be_visible()
+    for group in groups.all():
+        if only is None or group.get_attribute("data-kind")==only:
+            if group.get_attribute("open") is None:
+                group.locator(":scope > summary").click()
+    return card
+
 with sync_playwright() as p:
     api=p.request.new_context(timeout=30000)
     for filename,wanted in [("study-metrics.json",expected),("source-audit.json",audit),("title-audit.json",json.loads((site/"title-audit.json").read_text(encoding="utf-8")))]:
@@ -54,7 +72,8 @@ with sync_playwright() as p:
         expect(page.locator(".daily-total strong")).to_have_text("0 MCQs")
         expect(page.locator(".daily-goal-select select")).to_have_count(0)
         expect(page.locator("#home-link")).to_have_attribute("aria-current","page")
-        expect(page.locator("#library-overview")).to_have_attribute("open","")
+        expect(page.locator("#library-overview")).not_to_have_attribute("open","")
+        page.locator("#library-overview>summary").click()
         assert page.locator(".stats").bounding_box()["height"]<=(255 if width<600 else 110)
         assert page.locator(".hero").bounding_box()["height"]<=(300 if width<600 else 240)
         assert page.locator(".stats").bounding_box()["y"]<page.locator("#daily-study").bounding_box()["y"]
@@ -147,6 +166,7 @@ with sync_playwright() as p:
         expect(page.locator("#reader-completion input")).to_be_checked()
         expect(page.locator(".quiz-bank-progress-line strong").last).to_have_text("100%")
         go({"metrics":"1","chapter":"Respiratory-System"})
+        expand_folders(page,only="mcq")
         metric=page.locator(".tracked-resource-card").filter(has=page.locator(".metric-record-title",has_text="Day 1 — Respiratory Anatomy & Physiology")).first
         expect(metric.locator("input[type=checkbox]")).to_be_checked()
         page.once("dialog",lambda d:d.accept())
@@ -160,6 +180,8 @@ with sync_playwright() as p:
         ready()
         expect(page.locator(".resource-subtitle .resource-question-count")).to_contain_text("MCQs")
         page.locator(".compact-index input[type=search]").fill("Respiratory Anatomy")
+        expect(page.locator(".index-resource-group[open]")).to_have_count(0)
+        page.locator(".index-resource-group[data-kind=mcq]>summary").click()
         index=page.locator(".compact-index .tracked-resource-card").filter(has=page.locator("a[href*='Day-01-Complete-Respiratory-Anatomy-Physiology.md']")).first
         expect(index.locator(".resource-question-count")).to_contain_text("44 MCQs")
         index.locator("input[type=checkbox]").check()
@@ -171,10 +193,14 @@ with sync_playwright() as p:
         go({"progress":"1","chapter":chapter["id"]})
         expect(page.locator(".completion-stat").first).to_be_visible(timeout=30000)
         expect(page.locator(".completion-stat").first.locator("strong")).to_have_text("0%")
+        expect(page.locator(".completion-chapter").first).not_to_have_attribute("open","")
+        expand_chapter(page,"progress")
+        expect(page.locator(".completion-category[open]")).to_have_count(0)
         for section in ["theory","mcq","mock","pyq"]:
             expect(page.locator(f".completion-category[data-kind={section}]")).to_have_count(1)
         expect(page.locator(".completion-resource")).to_have_count(0)
         page.locator("#progress-kind").select_option("mcq")
+        expand_folders(page,"progress","mcq")
         expect(page.locator(".completion-category[data-kind=theory]")).to_have_count(0)
         first=page.locator(".completion-resource").first
         expect(first).to_be_visible()
@@ -182,10 +208,11 @@ with sync_playwright() as p:
         expect(page.locator(".completion-resource").first.locator("input")).to_be_checked()
         expect(page.locator(".completion-resource").first.locator(".completion-question-label strong")).to_have_text("100% covered")
         page.reload()
-        expect(page.locator(".completion-category[data-kind=mcq]>summary")).to_be_visible(timeout=30000)
-        page.locator(".completion-category[data-kind=mcq]>summary").click()
+        expect(page.locator(".completion-chapter").first).not_to_have_attribute("open","")
+        expand_folders(page,"progress","mcq")
         expect(page.locator(".completion-resource input:checked").first).to_be_visible(timeout=30000)
         page.locator("#progress-filter").select_option("done")
+        expand_folders(page,"progress","mcq")
         expect(page.locator(".completion-resource")).to_have_count(1)
         page.once("dialog",lambda d:d.accept())
         page.locator(".completion-resource .completion-reset").click()
@@ -194,6 +221,7 @@ with sync_playwright() as p:
         fit()
         page.locator("#progress-filter").select_option("")
         page.locator("#progress-kind").select_option("mock")
+        expand_folders(page,"progress","mock")
         mock=page.locator(".completion-resource").first
         expect(mock).to_be_visible()
         mock.locator("input[type=checkbox]").check()
@@ -205,17 +233,23 @@ with sync_playwright() as p:
         go({"metrics":"1","chapter":chapter["id"]})
         expect(page.locator("#metrics-totals .metric-tile")).to_have_count(6,timeout=30000)
         expect(page.locator("#metrics-chapter")).to_have_value(chapter["id"])
+        expect(page.locator(".metric-chapter").first).not_to_have_attribute("open","")
+        expand_chapter(page)
+        expect(page.locator(".metric-category[open]")).to_have_count(0)
+        expand_folders(page)
         records=page.locator(".metric-records a.metric-record:not([data-category=theory])")
         expect(records).to_have_count(len(chapter["records"]))
         actual=records.evaluate_all("""els=>els.map(e=>({path:new URL(e.href).searchParams.get('doc'),slots:Number(e.querySelector('.metric-record-count strong').textContent.replace(/,/g,''))}))""")
-        assert actual==[{"path":r["path"],"slots":r["slots"]} for r in chapter["records"]]
+        assert sorted((r["path"],r["slots"]) for r in actual)==sorted((r["path"],r["slots"]) for r in chapter["records"])
         assert records.first.evaluate("""e=>{const s=getComputedStyle(e.closest('.tracked-resource-card')||e);return parseFloat(s.borderTopWidth)>0&&parseFloat(s.borderRadius)>0&&e.getBoundingClientRect().height>=44&&getComputedStyle(e).textDecorationLine==='none'}""")
         assert page.locator(".metric-records").first.evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==(1 if width<900 else 2)
         expect(records.first.locator(".metric-record-title")).to_be_visible()
         expect(records.first.locator(".metric-record-count")).to_be_visible()
         page.locator("#metrics-category").select_option("mock")
+        expand_folders(page,only="mock")
         expect(records).to_have_count(sum(r["category"]=="mock" for r in chapter["records"]))
         page.locator("#metrics-category").select_option("")
+        expand_folders(page)
         expect(records).to_have_count(len(chapter["records"]))
         print(f"Published metrics resource cards {width}x{height}: exact counts, full links, responsive grid and filtering passed.",flush=True)
 
@@ -226,6 +260,7 @@ with sync_playwright() as p:
         assert page.locator(".metric-tile strong").all_text_contents()==expected_values
         assert page.locator("#study-history-year option").count()>=5
         page.locator("#metrics-category").select_option("theory")
+        expand_folders(page,only="theory")
         theory_cards=page.locator(".metric-record[data-category=theory]")
         expect(theory_cards).to_have_count(len(theory))
         actual_theory=theory_cards.evaluate_all("els=>els.map(e=>new URL(e.href).searchParams.get('doc'))")
@@ -254,6 +289,8 @@ with sync_playwright() as p:
         go({"doc":"Chapters/Nursing-Foundations/README.md"})
         ready()
         expect(page.locator(".compact-index")).to_be_visible()
+        expect(page.locator(".index-resource-group[open]")).to_have_count(0)
+        expect(page.locator(".outline-card")).not_to_have_attribute("open","")
         expect(page.locator("#original-index")).not_to_have_attribute("open","")
         if width<600:
             expect(page.locator(".outline-card")).not_to_have_attribute("open","")
@@ -293,6 +330,7 @@ with sync_playwright() as p:
         expect(page.locator(".daily-action.primary-daily")).to_be_visible()
         expect(page.locator(".study-day.today strong")).to_have_text("1")
         go({"metrics":"1","chapter":"Respiratory-System"})
+        expand_folders(page,only="mcq")
         expect(page.locator(".metric-record").filter(has_text="Day 1 — Respiratory Anatomy & Physiology").filter(has_text="1 / 44 practised").first).to_be_visible(timeout=30000)
         fit()
         # Return to the real bank: existing coverage persists, opening alone does not increase it.
@@ -319,6 +357,7 @@ with sync_playwright() as p:
         expect(page.locator(".quiz-bank-progress-line strong").last).to_have_text("100%")
         go({"progress":"1","chapter":"Respiratory-System"})
         page.locator("#progress-filter").select_option("done")
+        expand_folders(page,"progress","mcq")
         expect(page.locator(".completion-resource")).to_have_count(1)
         expect(page.locator(".completion-resource .completion-question-label")).to_contain_text("44 / 44 checked")
         page.once("dialog",lambda d:d.accept())
@@ -404,7 +443,9 @@ with sync_playwright() as p:
         expect(page.locator(".metric-chapter").first).to_be_visible(timeout=30000)
         expect(page.locator(".metric-record")).to_have_count(0)
         page.locator(".metric-chapter > summary").first.click()
-        expect(page.locator(".metric-record").first).to_be_visible()
+        expect(page.locator(".metric-category[open]")).to_have_count(0)
+        expect(page.locator(".metric-record")).to_have_count(0)
+        assert page.locator(".metric-category").count()>=4
         page.locator("#metrics-search").fill("no matching topic xyz")
         expect(page.locator("#metrics-list .empty-state")).to_be_visible()
         page.locator("#clear-metrics").click()
