@@ -236,30 +236,30 @@
 
 </details>
 
-### Q09. A patient has completed limb-sparing surgery with an endoprosthetic reconstruction for a bone tumor. Why must the nurse confirm the surgeon's specific loading restriction before ambulation?
+### Q09. Following neoadjuvant chemotherapy and resection of osteosarcoma, the pathology report documents 95% tumor necrosis. What does this result generally indicate?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Reconstruction stability and soft-tissue repair determine safe loading progression
-- **B.** All endoprosthetic reconstructions permit full loading immediately
-- **C.** Pain absence alone confirms implant stability
-- **D.** Weight-bearing restrictions are relevant only after fractures without tumors
+- **A.** The remaining 5% viable cells establish that chemotherapy had no effect
+- **B.** A strong histological response that can have favorable prognostic significance, without guaranteeing cure
+- **C.** A reason to stop prescribed postoperative treatment independently
+- **D.** Proof that no further surveillance is needed
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Reconstruction stability and soft-tissue repair determine safe loading progression**
+**Correct answer: B. A strong histological response that can have favorable prognostic significance, without guaranteeing cure**
 
-**A kyun sahi hai:** Reconstruction method, fixation aur repaired muscles/tendons safe loading decide karte hain. Nurse documented surgical plan aur physiotherapy instructions follow karti hai.
+**A kyun galat hai:** 95% necrosis ka matlab tumor ka majority portion nonviable ho gaya hai. Remaining viable cells treatment planning ke liye important hain, lekin no response ka conclusion incorrect hai.
 
-**B kyun galat hai:** Different reconstructions ke restrictions vary karte hain. Immediate full loading universal rule nahi hai.
+**B kyun sahi hai:** Resected tumor mein high necrosis preoperative chemotherapy response ka marker hai. Osteosarcoma mein 90% ya greater necrosis generally favorable prognostic association rakhti hai, par individual cure guarantee nahi karti.
 
-**C kyun galat hai:** Pain relief mechanical stability establish nahi karti. Surgical plan ke bina load increase unsafe ho sakta hai.
+**C kyun galat hai:** Postoperative regimen specialist protocol aur patient-specific risk se decide hota hai. Nurse patient ko independently treatment stop karne ki advice nahi deti.
 
-**D kyun galat hai:** Tumor reconstruction ke baad bhi loading precautions required ho sakti hain. Restrictions sirf ordinary fractures tak limited nahi hain.
+**D kyun galat hai:** Recurrence aur treatment effects monitor karne ke liye follow-up still required hai. Histological response alone surveillance end nahi karti.
 
-**Exam clue:** Tumor reconstruction ke baad surgeon-specific rehabilitation plan follow karo.
+**Exam clue:** Histological response prognostic information hai, treatment completion ka substitute nahi.
 
-**Clinical reference:** [NCI osteosarcoma PDQ (professional)](https://www.cancer.gov/types/bone/hp/osteosarcoma-treatment-pdq). Retrieved relevant text.
+**Clinical reference:** [NCI osteosarcoma professional PDQ](https://www.cancer.gov/types/bone/hp/osteosarcoma-treatment-pdq). Source indexed, full independent item-level review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -526,30 +526,30 @@
 
 </details>
 
-### Q19. A teenager undergoing workup for a possible bone sarcoma has elevated alkaline phosphatase. Which interpretation should guide nursing communication?
+### Q19. A postoperative bone sarcoma pathology report states that malignant cells are present at the surgical resection margin. What does this finding mean?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** The result independently proves osteosarcoma
-- **B.** The result may reflect bone turnover but is not a tissue diagnosis
-- **C.** Normal alkaline phosphatase would exclude every bone malignancy
-- **D.** The result identifies the exact tumor location
+- **A.** The entire tumor is proven completely removed
+- **B.** The patient has developed a new unrelated benign bone tumor
+- **C.** Cancer cells reach the cut tissue edge, raising concern about residual local disease
+- **D.** The report measures only serum calcium
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. The result may reflect bone turnover but is not a tissue diagnosis**
+**Correct answer: C. Cancer cells reach the cut tissue edge, raising concern about residual local disease**
 
-**A kyun galat hai:** ALP different physiological aur pathological conditions mein increase ho sakta hai. Ek elevated value malignancy confirm nahi karti.
+**A kyun galat hai:** Negative margin adequate removal ko support kar sakta hai. Positive margin complete removal ka proof nahi hai.
 
-**B kyun sahi hai:** Growth, healing aur bone-forming tumor activity ALP affect kar sakte hain. Imaging, clinical evaluation aur appropriate pathology diagnosis establish karte hain.
+**B kyun galat hai:** Positive margin existing resected tumor ke edge par malignant cells describe karti hai. Ye new benign lesion diagnosis nahi hai.
 
-**C kyun galat hai:** Normal value all tumors exclude nahi karti. Clinical suspicion ko complete assessment chahiye.
+**C kyun sahi hai:** Positive margin mein malignant cells removed specimen ke cut edge tak milte hain. Local residual disease ka concern ho sakta hai aur oncology team further management plan karti hai.
 
-**D kyun galat hai:** ALP blood enzyme measurement hai. Exact tumor site imaging se evaluate hoti hai.
+**D kyun galat hai:** Pathology margin tissue examination se determine hota hai. Serum calcium blood biochemical result hai.
 
-**Exam clue:** Bone turnover marker ko diagnostic biopsy ka substitute mat samjho.
+**Exam clue:** Positive surgical margin ko oncology planning ke liye important finding samjho.
 
-**Clinical reference:** [NCI primary bone cancer](https://www.cancer.gov/types/bone/bone-fact-sheet). Retrieved relevant text.
+**Clinical reference:** [NCI surgical pathology reports](https://www.cancer.gov/about-cancer/diagnosis-staging/diagnosis/pathology-reports-fact-sheet). Source indexed, full independent item-level review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
