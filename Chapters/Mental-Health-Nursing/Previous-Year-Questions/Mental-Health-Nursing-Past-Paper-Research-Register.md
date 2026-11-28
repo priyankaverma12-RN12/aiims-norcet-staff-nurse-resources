@@ -34,3 +34,8 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 
 - [NORCET 8 Prelims 2025 memory-based MMSE adaptation](02C-MMSE-Reported-Evidence.md). Direct Testbook report and source's score-band interpretation retrieved, clinical caveat documented. Official booklet/key pending.
 - 9 cumulative reported adaptations. No newly authenticated official exact question. Other paper and key checks remain pending.
+
+## 28 November 2026 — Group 02D
+
+- [NORCET 5 Prelims Shift 2 reported GCS components adaptation](02D-Neurological-Examination-Reported-Evidence.md). NPrep item directly retrieved. Official booklet and key pending.
+- 10 cumulative reported adaptations. No newly authenticated official exact question. GMCH and HPRCA/HPSSSB paper leads require item-level verification.
