@@ -13,11 +13,11 @@
 
 ## Manual chapter work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: tropical-pr66-b02-20261128-1219Z
+Scope: PR66 Batch02 clinical nursing dengue, malaria, chikungunya, shigellosis and amoebiasis only. No PR61/62 community programme or navigation edits.
+Claimed UTC: 2026-11-28T12:19:57Z
+Expiry UTC: 2026-11-28T12:49:57Z
 
 ## Candidate checkpoint — 28 November 2026
 
