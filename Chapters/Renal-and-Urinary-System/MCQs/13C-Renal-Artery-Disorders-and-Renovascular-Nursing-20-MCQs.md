@@ -427,28 +427,28 @@ Atherosclerotic plaque manipulation cholesterol crystals release kar sakti hai j
 
 </details>
 
-### Q18. Why can severe unilateral renal artery stenosis coexist with relatively preserved total estimated GFR?
+### Q18. A patient is newly diagnosed with renal fibromuscular dysplasia. Why might the specialist arrange a one-time vascular imaging survey extending beyond the renal arteries?
 
 **Difficulty:** Medium | **Topic:** Renal artery disorders and renovascular nursing | **Priority:** High | **Type:** Original practice
 
-- **A.** The narrowed artery always increases ipsilateral renal blood flow
-- **B.** Total eGFR measures each kidney separately
-- **C.** A normal eGFR proves all renal arteries are patent
-- **D.** The contralateral kidney may maintain substantial overall filtration
+- **A.** Confirm that the bladder empties completely
+- **B.** Exclude every possible future vascular complication permanently
+- **C.** Measure filtration in each individual nephron
+- **D.** Identify additional arterial lesions, aneurysms or dissections in other vascular territories
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. The contralateral kidney may maintain substantial overall filtration**
+**Correct: D. Identify additional arterial lesions, aneurysms or dissections in other vascular territories**
 
-Opposite kidney compensation total eGFR preserve kar sakti hai, affected kidney ki perfusion phir bhi reduced ho sakti hai.
+FMD sirf renal arteries tak limited nahi ho sakti. International consensus ek baar brain se pelvis tak appropriate vascular imaging consider karne ko support karta hai, taaki additional involvement aur clinically silent aneurysm ya dissection identify ho sake. Modality aur contrast safety treating team decide karti hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Flow-limiting stenosis affected kidney perfusion reduce kar sakti hai.
-- **B.** Routine eGFR combined filtration estimate hai, separate renal contribution nahi.
-- **C.** Normal aggregate function arterial patency definitively establish nahi karti.
+- **A.** Bladder emptying postvoid residual assessment se evaluate hoti hai; systemic arterial imaging ka yeh purpose nahi hai.
+- **B.** Ek imaging survey current lesions identify kar sakta hai, future complications ki lifelong absence guarantee nahi karta.
+- **C.** Vascular imaging individual nephron filtration directly measure nahi karti; kidney function ke liye appropriate biochemical aur selected functional tests chahiye.
 
-**Exam clue:** Total GFR can mask unilateral ischemic dysfunction.
+**Exam clue:** Renal FMD can be part of multivessel disease.
 
 </details>
 
@@ -506,3 +506,5 @@ Treatment goal BP control, renal preservation aur cardiovascular stability hai, 
 - [AHA scientific statement on renovascular revascularization](https://pmc.ncbi.nlm.nih.gov/articles/PMC11731842/), indexed evidence for selected high-risk presentations, medical treatment and intervention principles (Q2–13,19–20).
 - [MSD Manual renal artery stenosis and occlusion](https://www.msdmanuals.com/professional/nephrology/renovascular-disorders/renal-artery-stenosis-and-occlusion), indexed etiology, renal hypoperfusion, diagnosis and embolic disease (Q1–10,16–19).
 - [Renal artery stenosis clinical overview](https://www.ncbi.nlm.nih.gov/books/NBK430718/), indexed diagnostic and management context. Q14–15 peri-procedural nursing and Q16–17 embolic diagnosis require dedicated procedural and question-level verification before publication. No historical question credit or verified video claims.
+
+- [2019 international FMD consensus](https://journals.sagepub.com/doi/full/10.1177/1358863X18821816) and [2026 clinical kidney journal review](https://doi.org/10.1093/ckj/sfag234), indexed guidance on one-time multivessel imaging (Q18).
