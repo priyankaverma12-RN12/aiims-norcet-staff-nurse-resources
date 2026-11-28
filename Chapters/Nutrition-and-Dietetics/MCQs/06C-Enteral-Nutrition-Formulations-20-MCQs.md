@@ -378,25 +378,25 @@
 
 </details>
 
-### Q18. A tube-fed adult with documented fat maldigestion is being considered for a formula with a larger proportion of medium-chain triglycerides. Which property is relevant to this selection?
+### Q18. A dietitian approves addition of a modular nutrient to a commercially sealed ready-to-hang enteral formula. Which change in product-handling classification should the nutrition team recognize?
 
 **Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
-- **A.** Medium-chain triglycerides provide no energy
-- **B.** Medium-chain triglycerides can be absorbed with less reliance on the usual long-chain fat digestive and transport pathways
-- **C.** All medium-chain triglycerides must first be converted into glucose inside the feeding container
-- **D.** A formula rich in MCT automatically meets every nutrient need regardless of the volume given
+- **A.** The modified product retains its unopened closed-system handling limits automatically
+- **B.** Opening or decanting the product for addition creates an open system requiring an appropriate revised handling and hang-time plan
+- **C.** Adding a modular nutrient makes the finished mixture sterile again
+- **D.** The handling classification is determined only by the formula's calorie density
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Medium-chain triglycerides can be absorbed with less reliance on the usual long-chain fat digestive and transport pathways**
+**Correct: B. Opening or decanting the product for addition creates an open system requiring an appropriate revised handling and hang-time plan**
 
-- **A. Incorrect:** MCT energy-yielding fats hain. Fat maldigestion mein selected formulation consideration ho sakti hai.
-- **B. Correct:** MCT digestion and absorption long-chain triglycerides se differ kar sakti hai. Formula choice clinical cause and actual tolerance ke according hoti hai. MCT essential fatty acid requirement alone fully meet nahi karti.
-- **C. Incorrect:** MCT food mein glucose mein convert nahi hote before administration. Metabolism absorption ke baad occur karta hai.
-- **D. Incorrect:** Fat type alone completeness, protein, vitamins or mineral adequacy establish nahi karta. Actual formula composition and intake assess karein.
+- **A. Incorrect:** Sealed ready-to-hang product ke closed-system limits intact packaging aur approved handling par depend karte hain. Product kholkar modify karne ke baad wahi limits automatically apply nahi hoti.
+- **B. Correct:** Modular nutrient add karne ke liye sealed formula ko kholna ya doosre container mein transfer karna open system banata hai. Handling steps aur contamination risk change hote hain. Nutrition team product instructions aur local infection-control policy ke according safe preparation aur hang time decide kare.
+- **C. Incorrect:** Nutrient addition sterilization process nahi hai. Extra manipulation contamination introduce kar sakti hai. Approved preparation aur hygiene important hain.
+- **D. Incorrect:** Energy density kcal per mL batati hai. Open ya closed classification packaging aur preparation se decide hoti hai, calories se nahi.
 
-**Evidence:** Dietitians Australia enteral manual 2018, indexed; mechanistic and specialist source review pending.
+**Evidence:** [HSE National Guideline on Adult Home Enteral Nutrition](https://assets.hse.ie/media/documents/ncr/National_Guideline_on_Adult_Home_Enteral_Nutrition.pdf), section 3.3.9 indexed text; [ASPEN Safe Practices for Enteral Nutrition Therapy](https://aspenjournals.onlinelibrary.wiley.com/doi/10.1177/0148607116673053), indexed handling recommendations. No fixed hang-time prescription asserted. Independent review pending.
 
 </details>
 
@@ -448,4 +448,4 @@
 
 - [ESPEN home enteral nutrition 2022](https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Home_enteral_nutrition.pdf), extracted product and monitoring recommendation text checked; screenshot returned no usable page. [NICE CG32](https://www.nice.org.uk/guidance/cg32/resources/guidance-nutrition-support-in-adults-pdf-975383198917), PDF text retrieved, screenshot cache miss. [MSD enteral nutrition](https://www.msdmanuals.com/professional/nutritional-disorders/nutritional-support/enteral-nutrition?ruleredirectid=743autoredirectid%3D25240), indexed formula classifications, free-water data and density guidance; direct cache miss. [Dietitians Australia enteral nutrition manual](https://member.dietitiansaustralia.org.au/Common/Uploaded%20files/DAA/Resource_Library/2020/DAA_Enteral_nutrition_manual_NSIG_2018.pdf), indexed corroborating formula types. Actual product labels, specialist clinical review, local policy and independent semantic calibration pending. No dedicated verified MCQ video or historical evidence.
 
-- Q18 replaced the repeated energy-density/water comparison with MCT formulation selection. The 2018 manual supports the formulation lead at index level, and the mechanistic detail needs independent source confirmation. No bedside tube-care task credited.
+- Final Q18 replaces both the initial repeated energy-density/water comparison and the interim MCT question (overlap with 01C Q19). The final task tests packaging classification after authorized formula modification. HSE and ASPEN indexed evidence mapped above. No fixed hang time asserted. No bedside tube-care task credited.
