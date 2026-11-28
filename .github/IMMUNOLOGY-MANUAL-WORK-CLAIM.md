@@ -1,10 +1,10 @@
 # Immunology, Allergy and Rheumatology chapter claim
 
-State: FREE
-Owner: none
-Scope: PR77 Bank02 corrective checkpoint complete. No active writer.
-Claimed UTC: 2026-11-28T16:27:00Z
-Expiry UTC: 2026-11-28T16:57:00Z
+State: CLAIMED
+Owner: immunology-pr77-bank03-20261128T1630Z
+Scope: isolated PR77 Bank03 corrections only. No shared navigation, Renal or other chapter changes.
+Claimed UTC: 2026-11-28T16:30:08Z
+Expiry UTC: 2026-11-28T17:00:08Z
 
 Preflight: Main chapter README and MCQs directory contain four preserved starter questions, no full mocks and only a past-paper research register. No matching open PR, branch or chapter-specific claim was returned. Other existing scopes and learner history are protected. All candidate work is separate from production until required reviews and integration.
 
