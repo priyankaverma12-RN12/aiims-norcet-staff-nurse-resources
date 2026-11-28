@@ -28,7 +28,7 @@ Authorized forensic examination aur collection ke baad designated custodian appr
 
 ## Child-sensitive care
 
-POCSO section 27 prior FIR ko medical examination ka prerequisite nahi banata. Girl child ki examination woman doctor se karane ka specified safeguard hai. Parent ya trusted person ki presence required hai, aur agar woh available nahi hain toh institution head nominated woman ka alternative provision hai. Consent, safety, reporting aur emergency care current applicable law aur policy ke according coordinate hoti hain.
+POCSO section 19 mein applicable offence ki information Special Juvenile Police Unit ya local police ko report karne ka provision hai. Internal hospital reporting alone statutory report ka replacement nahi hai. POCSO section 27 prior FIR ko medical examination ka prerequisite nahi banata. Girl child ki examination woman doctor se karane ka specified safeguard hai. Parent ya trusted person ki presence required hai, aur agar woh available nahi hain toh institution head nominated woman ka alternative provision hai. Consent, safety, reporting aur emergency care current applicable law aur policy ke according coordinate hoti hain.
 
 ## Evidence
 
@@ -36,7 +36,7 @@ POCSO section 27 prior FIR ko medical examination ka prerequisite nahi banata. G
 - [MoRTH GSR 594(E), 29 September 2020](https://morth.gov.in/sites/default/files/notifications_document/GSR%20594%28E%29%2029th%20September%202020%20Good%20Samaritan_0.pdf), rules 168 and 169 text inspected, screenshot cache miss.
 - [NCRB BNSS text](https://cytrain.ncrb.gov.in/staticpage/web_pages/ChaptersBNSS.html), section 397 direct HTML inspected.
 - [MoHFW guidelines for medico-legal care of survivors of sexual violence](https://mohfw.gov.in/sites/default/files/9535223249_1.pdf), consent, privacy, injury documentation and custody text inspected, screenshot cache miss. Historical penal-section references not used for current statutory answers.
-- [POCSO section 27](https://indiankanoon.org/doc/146335316/), statutory text indexed. [India Code model guidelines](https://www.indiacode.nic.in/bitstream/123456789/7746/1/pocso-modelguidelines.pdf) supporting indexed lead.
+- [Official India Code POCSO Act](https://upload.indiacode.nic.in/showfile?actid=AC_CEN_13_14_00005_201232_1517807323686&filename=a2012-32.pdf&type=actfile), sections 19 and 27 text inspected, screenshot cache miss. [India Code model guidelines](https://www.indiacode.nic.in/bitstream/123456789/7746/1/pocso-modelguidelines.pdf) supporting indexed lead.
 - Dedicated MCQ practice and teaching video verification pending. No historical exam claims.
 
 Independent legal, clinical, comprehensive semantic and rendered review pending.
