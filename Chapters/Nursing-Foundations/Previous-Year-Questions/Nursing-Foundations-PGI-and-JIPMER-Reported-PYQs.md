@@ -6,7 +6,7 @@
 
 ### PYQ1. Which general nursing measure prevents traction on an indwelling urinary catheter?
 
-**Reported exam:** PGIMER Nursing Officer, 2020
+**⚪ Reported exam attribution pending:** PGIMER Nursing Officer, 2020 · direct source verification pending
 
 [Question source](https://nprep.in/question-answer/a-patient-with-urinary-catheterization-is-admitted-to-the-ward-what-should-jlsUytxqVRurBzpBd2WXD)
 
@@ -19,13 +19,26 @@
 
 **Correct: A. Secure the catheter using an appropriate device with slack**
 
-Securement urethral traction reduce karti hai. Exact site anatomy, sex, device aur policy par depend karti hai. Original source location wording ko safer general principle mein adapt kiya gaya hai.
+Urinary catheter par tension se urethral lining injure ho sakti hai. Securement device catheter ko stable rakhta hai, slack patient ki movement allow karta hai aur drainage bag ka weight separately support hota hai. Securement location patient ki anatomy, device aur facility policy ke hisaab se choose karo.
+
+**Har option ka reason**
+
+- **A (Sahi):** Suitable device aur slack urethral traction kam karte hain.
+- **B (Galat):** Heavy bag catheter se latkane par bag ka weight urethra par pull karta hai.
+- **C (Galat):** Moving rail catheter ko kheench sakti hai, especially jab rail reposition hoti hai.
+- **D (Galat):** Securement remove karne se patient movement catheter par transfer ho sakti hai.
+
+**Exam clue:** Secure catheter and bag separately, no traction.
+
+**Clinical reference:** [CDC CAUTI recommendations](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html). Historical source attribution pending direct verification. **YouTube MCQ practice:** Specific verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
 ### PYQ2. For a female patient with a urinary catheter, where is a suitable securement device commonly placed if consistent with local policy?
 
-**Reported exam:** PGIMER Sangrur Nursing Officer, 2023
+**⚪ Reported exam attribution pending:** PGIMER Sangrur Nursing Officer, 2023 · direct source verification pending
 
 [Question source](https://nprep.in/question-answer/a-female-patient-with-urinary-catheterization-is-admitted-to-the-ward-what-yHWA4fJ21qaSGO5pHApTH)
 
@@ -38,13 +51,26 @@ Securement urethral traction reduce karti hai. Exact site anatomy, sex, device a
 
 **Correct: D. Upper thigh with slack to avoid traction**
 
-Female catheter ko upper thigh par suitable device se secure karna commonly appropriate hai. Tubing slack movement allow karti hai aur pulling reduce karti hai. Tight traction aur moving rail unsafe hain.
+Female catheter ki tubing ko commonly upper thigh par appropriate device se secure kiya ja sakta hai. Isse patient movement ke waqt urethral opening par tension kam hoti hai. Correct site device instructions aur local policy par depend karti hai, isliye upper thigh ko har situation ka universal rule mat samjho.
+
+**Har option ka reason**
+
+- **A (Galat):** Urethral opening par direct tension mucosa ko injure kar sakti hai.
+- **B (Galat):** Moving rail ka position change catheter kheench sakta hai.
+- **C (Galat):** Opposite bed par bina slack fixation patient movement restrict karti hai aur traction badhati hai.
+- **D (Sahi):** Upper thigh par suitable securement aur slack commonly appropriate hai, agar protocol permit kare.
+
+**Exam clue:** Site is individualized, the principle is zero urethral traction.
+
+**Clinical reference:** [CDC CAUTI recommendations](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html). Historical source attribution pending direct verification. **YouTube MCQ practice:** Specific verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
 ### PYQ3. Which routine practice is inappropriate for catheter-associated urinary tract infection prevention?
 
-**Reported exam:** SGPGI Nursing Officer, 2022
+**⚪ Reported exam attribution pending:** SGPGI Nursing Officer, 2022 · direct source verification pending
 
 [Question source](https://nprep.in/question-answer/which-of-the-following-interventions-is-not-included-in-the-prevention-of-DYbU_Vku_z8etLmvNrUo2)
 
@@ -57,7 +83,22 @@ Female catheter ko upper thigh par suitable device se secure karna commonly appr
 
 **Correct: C. Disconnect the closed drainage system repeatedly without clinical need**
 
-Unnecessary disconnection se microorganisms system mein enter kar sakte hain. CDC closed drainage, free flow, appropriate catheter use aur timely removal support karta hai. Ye prevention principles current guidance ke basis par explained hain.
+CAUTI catheter-associated urinary tract infection hai. Unnecessary catheter use aur open drainage connections bacteria ko urinary tract tak pahunchne ka chance dete hain. Closed drainage, hand hygiene, unobstructed flow aur prompt removal main prevention measures hain. Agar system compromise ho toh authorized aseptic replacement protocol follow karo.
+
+**Har option ka reason**
+
+- **A (Galat):** Indication khatam hone par removal catheter exposure kam karti hai. Yeh recommended measure hai.
+- **B (Galat):** Handling se pehle aur baad hand hygiene microorganisms transfer ka risk kam karti hai. Yeh appropriate measure hai.
+- **C (Sahi):** Repeated unnecessary disconnection contamination ka rasta kholti hai. Yeh inappropriate practice hai aur negative stem ka correct answer hai.
+- **D (Galat):** Unobstructed flow maintain karna urine stagnation aur backflow risk kam karne mein madad karta hai. Yeh appropriate measure hai.
+
+**Exam clue:** Negative stem: identify the unsafe action, not the prevention measure.
+
+**Clinical reference:** [CDC CAUTI recommendations](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html). Historical source attribution pending direct verification. **YouTube MCQ practice:** Specific verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
+
+**HPRCA evidence lead:** [Assistant Staff Nurse post code 26004, 21 March 2026 Shift 1](https://rojgarbee.com/himachal-pradesh/staff-nurse/old-question-papers/26004-shift-1-21-mar-2026) search extract includes indwelling catheter infection prevention. Direct item and answer key retrieval failed. Not an authenticated match.
 
 </details>
 

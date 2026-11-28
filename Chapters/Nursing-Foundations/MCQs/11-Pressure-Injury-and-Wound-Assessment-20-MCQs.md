@@ -4,7 +4,7 @@
 
 ### Q1. A bedbound patient has intact skin with persistent nonblanchable redness over the sacrum. Which pressure injury stage is consistent?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 Safdarjung Staff Nurse 28 February 2019 — related reported concept](https://testbook.com/question-answer/which-of-the-following-is-the-earliest-sign-of-pre--6267d00cea6a3829d9b1662e)**
 
 - **A.** Stage 2
 - **B.** Stage 3
@@ -15,15 +15,29 @@
 
 **Correct: D. Stage 1**
 
-Stage 1 mein skin intact hoti hai lekin localized nonblanchable redness ya color change present ho sakta hai. Dark skin mein warmth, firmness aur pain bhi assess karna chahiye.
+Sacrum spine ke neeche ki bony area hai. Jab patient der tak ek hi position mein rehta hai, pressure aur shear se tissue ka blood supply aur cell function affect ho sakte hain. Agar skin abhi intact hai lekin localized redness pressure release karne par bhi fade nahi hoti, toh stage 1 consider karte hain. Dark skin mein visible redness kam clear ho sakti hai, isliye surrounding skin se color, warmth, firmness aur pain compare karo. Pressure offload karo aur reassess karo.
 
-**Baaki options kyun sahi nahi hain?** Stage 2 partial-thickness skin loss hai. Stage 3 full-thickness loss hai. Unstageable mein depth obscured hoti hai.
+**Option-wise explanation:**
+- **A (Galat):** Stage 2 mein skin ka partial-thickness loss ya serum-filled blister hota hai, jo is stem mein nahi hai.
+- **B (Galat):** Stage 3 mein skin ki poori thickness lost hoti hai aur fat visible ho sakta hai. Yahan skin intact hai.
+- **C (Galat):** Unstageable mein open full-thickness injury ki depth slough ya eschar se hidden hoti hai.
+- **D (Sahi):** Intact skin par persistent nonblanchable redness aur pressure history stage 1 ko support karti hai.
+
+**Exam clue:** Intact skin + nonblanchable localized redness = stage 1.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
+
+[Legacy revision practice: Mock 01, Q41](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q41-a-bedbound-patient-has-intact-skin-with-persistent-nonblanchable-redness-over-the-sacrum-which-pressure-injury-stage-is-consistent) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q2. Which finding is consistent with a stage 2 pressure injury?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Exposed muscle and bone
 - **B.** Full-thickness loss obscured by eschar
@@ -34,15 +48,29 @@ Stage 1 mein skin intact hoti hai lekin localized nonblanchable redness ya color
 
 **Correct: C. Partial-thickness skin loss with exposed dermis and no visible adipose tissue**
 
-Stage 2 pressure injury mein dermis expose ho sakti hai aur wound bed pink-red moist hota hai. Fat aur deeper structures visible nahi hone chahiye.
+Dermis skin ki epidermis ke neeche wali layer hai. Stage 2 mein partial-thickness loss se viable pink ya red moist dermis dikh sakti hai. Serum-filled blister bhi ho sakta hai. Fat, granulation tissue, slough aur eschar stage 2 mein nahi hone chahiye. Pressure-related cause confirm karo. Moisture dermatitis aur skin tear ko stage 2 label mat karo.
 
-**Baaki options kyun sahi nahi hain?** Intact redness stage 1 hai. Muscle-bone stage 4 indicate kar sakte hain. Obscured depth unstageable hai.
+**Option-wise explanation:**
+- **A (Galat):** Exposed muscle ya bone stage 4 ke saath consistent hai.
+- **B (Galat):** Eschar agar full-thickness damage ki depth hide kare toh unstageable injury consider hoti hai.
+- **C (Sahi):** Exposed dermis aur visible fat na hona stage 2 ki depth ko describe karta hai, agar wound pressure-related hai.
+- **D (Galat):** Intact nonblanchable redness stage 1 ki finding hai.
+
+**Exam clue:** Stage 2 = partial thickness, dermis visible, no fat/slough/eschar.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury)
+
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
+
+[Legacy revision practice: Mock 01, Q30](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q30-which-finding-is-consistent-with-a-stage-2-pressure-injury) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q3. A pressure injury has full-thickness skin loss with visible adipose tissue but no exposed fascia, muscle, tendon or bone. Which stage fits?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Stage 4
 - **B.** Stage 3
@@ -53,15 +81,29 @@ Stage 2 pressure injury mein dermis expose ho sakti hai aur wound bed pink-red m
 
 **Correct: B. Stage 3**
 
-Stage 3 mein entire skin thickness lost ho sakti hai aur fat visible ho sakta hai. Exposed deeper supporting structures stage 4 suggest karte hain.
+Full-thickness skin loss mein epidermis aur dermis dono ki poori thickness damage ho chuki hoti hai. Stage 3 mein subcutaneous adipose tissue yani skin ke neeche ka fat dikh sakta hai. Wound ki depth body site ke hisaab se vary karti hai. Agar fascia, muscle, tendon, ligament, cartilage ya bone exposed ya directly palpable ho, toh stage 4 consider karo. Slough poori depth hide kare toh stage confirm nahi kar sakte.
 
-**Baaki options kyun sahi nahi hain?** Stage 1 skin intact hai. Stage 2 superficial loss hai. Stage 4 deeper tissue exposure se related hai.
+**Option-wise explanation:**
+- **A (Galat):** Stage 4 ke liye deeper supporting structure exposed ya directly palpable hona chahiye.
+- **B (Sahi):** Visible adipose tissue aur deeper structure exposure na hona stage 3 ke saath consistent hai.
+- **C (Galat):** Stage 1 mein skin intact hoti hai, isliye fat visible nahi hota.
+- **D (Galat):** Stage 2 dermis tak limited hota hai aur fat visible nahi hota.
+
+**Exam clue:** Visible fat without exposed deeper structures = stage 3, when depth is assessable.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury)
+
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
+
+[Legacy revision practice: Mock 01, Q120](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q120-a-pressure-injury-has-full-thickness-skin-loss-with-visible-adipose-tissue-but-no-exposed-fascia-muscle-tendon-or-bone-which-stage-fits) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q4. A pressure injury exposes tendon and bone at its base. Which stage is consistent?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Stage 4
 - **B.** Stage 2
@@ -72,15 +114,29 @@ Stage 3 mein entire skin thickness lost ho sakti hai aur fat visible ho sakta ha
 
 **Correct: A. Stage 4**
 
-Stage 4 full-thickness skin aur tissue loss hai jisme fascia, muscle, tendon, cartilage ya bone exposed ya directly palpable ho sakte hain.
+Tendon muscle ko bone se jodta hai. Pressure injury mein tendon ya bone expose hone ka matlab damage skin se kaafi neeche pahunch chuka hai. Yeh stage 4 ki finding hai. Patient ki perfusion, infection ke signs, pain aur wound extent assess karo aur specialist ko involve karo. Exposed bone se osteomyelitis ka suspicion ho sakta hai, lekin bone exposure akela infection confirm nahi karta.
 
-**Baaki options kyun sahi nahi hain?** Stage 1 intact skin hai. Stage 2 dermis tak limited hai. Stage 3 mein deeper structures exposed nahi hote.
+**Option-wise explanation:**
+- **A (Sahi):** Stage 4 mein full-thickness tissue loss ke saath tendon ya bone exposed ya palpable ho sakta hai.
+- **B (Galat):** Stage 2 mein sirf partial-thickness skin loss hota hai.
+- **C (Galat):** Stage 3 mein tendon ya bone expose nahi hoti, jo yahan present hai.
+- **D (Galat):** Stage 1 mein skin intact hoti hai.
+
+**Exam clue:** Exposed/palpable tendon or bone in pressure injury = stage 4.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.msdmanuals.com/professional/dermatologic-disorders/pressure-injury/pressure-injuries)
+
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
+
+[Legacy revision practice: Mock 01, Q36](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q36-a-pressure-injury-exposes-tendon-and-bone-at-its-base-which-stage-is-consistent) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q5. A pressure injury base is entirely covered by slough and eschar, preventing confirmation of tissue depth. How should it be classified?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 ESIC Staff Nurse 26 February 2019 Shift III — related staging concept, historical management caveat](https://testbook.com/question-answer/to-properly-stage-a-pressure-ulcer--619cfdb9ecc1b27849a42955)**
 
 - **A.** Unstageable pressure injury
 - **B.** Stage 2 by default
@@ -91,15 +147,29 @@ Stage 4 full-thickness skin aur tissue loss hai jisme fascia, muscle, tendon, ca
 
 **Correct: A. Unstageable pressure injury**
 
-Jab slough ya eschar wound depth hide karta hai, actual stage determine nahi ho sakti. Isliye unstageable category use hoti hai until appropriate assessment possible ho.
+Slough dead ya nonviable tissue ka soft moist material ho sakta hai. Eschar usually dry dark necrotic tissue ki layer hoti hai. Jab yeh wound base ko cover karke tissue loss ki actual extent nahi dekhne dete, toh unstageable pressure injury classify karte hain. Sirf staging karne ke liye stable dry heel eschar ya ischemic limb eschar ko remove nahi karna chahiye. Perfusion aur specialist assessment important hain.
 
-**Baaki options kyun sahi nahi hain?** Stage 1 intact skin hai. Stage 2 superficial depth confirmed chahiye. Healed stage 4 ka evidence nahi diya gaya hai.
+**Option-wise explanation:**
+- **A (Sahi):** Depth obscured hone se stage 3 aur stage 4 ke beech reliable distinction nahi ho sakta, isliye unstageable correct hai.
+- **B (Galat):** Stage 2 mein visible dermis hoti hai aur slough ya eschar nahi hota.
+- **C (Galat):** Stage 1 mein skin intact hoti hai, wound base par necrotic covering nahi hoti.
+- **D (Galat):** Healed stage 4 kehne ke liye healing history chahiye. Current obscured wound ko healed assume nahi kar sakte.
+
+**Exam clue:** Unstageable = full-thickness injury whose depth is obscured.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.msdmanuals.com/professional/dermatologic-disorders/pressure-injury/pressure-injuries)
+
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
+
+[Legacy revision practice: Mock 02, Q26](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q26-a-pressure-injury-base-is-entirely-covered-by-slough-and-eschar-preventing-confirmation-of-tissue-depth-how-should-it-be-classified) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q6. A patient has persistent deep maroon discoloration of intact heel skin after prolonged pressure. Which category should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Stage 2 in every case
 - **B.** Normal blanchable erythema
@@ -110,15 +180,29 @@ Jab slough ya eschar wound depth hide karta hai, actual stage determine nahi ho 
 
 **Correct: D. Deep tissue pressure injury**
 
-Deep tissue pressure injury mein deep red, maroon ya purple discoloration ho sakti hai. Pressure history aur clinical assessment important hain kyunki other causes bhi possible hain.
+Deep tissue pressure injury mein damage deep tissue mein shuru ho sakta hai, jab pressure aur shear bone ke paas tissues ko affect karte hain. Surface skin intact reh sakti hai, lekin deep red, maroon ya purple nonblanchable discoloration dikh sakti hai. Pressure history, skin temperature, pain aur perfusion assess karo. Vascular ischemia, trauma ya doosre causes ko exclude karo, kyunki color akela diagnosis confirm nahi karta.
 
-**Baaki options kyun sahi nahi hain?** Stage 2 exposed dermis hai. Persistent maroon change normal blanching nahi hai. Skin tear separate injury mechanism hai.
+**Option-wise explanation:**
+- **A (Galat):** Stage 2 mein exposed dermis ya serum-filled blister hota hai, har maroon area stage 2 nahi hota.
+- **B (Galat):** Persistent maroon discoloration normal temporary blanchable redness se different hai.
+- **C (Galat):** Skin tear mechanical trauma se skin layers separate hone ki injury hai. Is stem se skin tear establish nahi hoti.
+- **D (Sahi):** Prolonged pressure ke baad persistent maroon change deep tissue pressure injury ka warning pattern hai.
+
+**Exam clue:** Maroon/purple nonblanchable pressure-related change → consider DTPI.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**▶️ [YouTube MCQ practice — pressure injury staging, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published 29 July 2025. Retrieved creator and description confirm a dedicated bedsore MCQ session covering causes, stages and prevention. Staging topic-level only, individual categories, exact questions and playback not verified. Direct video open failed.
+
+**Supplementary practice lead:** [Level Up RN — pressure injury staging quiz within a teaching video](https://www.youtube.com/watch?v=V1pXP3TluWs). Indexed description confirms a staging quiz at the end, exact question and playback unverified.
+
+[Legacy revision practice: Mock 02, Q34](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q34-a-patient-has-persistent-deep-maroon-discoloration-of-intact-heel-skin-after-prolonged-pressure-which-category-should-be-considered) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q7. Which intervention directly reduces sustained pressure on the heels in a bedbound patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Massage persistent nonblanchable redness
 - **B.** Keep both heels pressed against the mattress
@@ -129,15 +213,27 @@ Deep tissue pressure injury mein deep red, maroon ya purple discoloration ho sak
 
 **Correct: C. Offload the heels with appropriate support and reassess positioning**
 
-Heel offloading calcaneus ke upar tissue pressure kam kar sakti hai. Support calf ko distribute karke heel free rakhne mein help karta hai.
+Heel ke neeche calcaneus yani heel bone hoti hai aur soft tissue comparatively kam hota hai. Sustained pressure se local tissue damage ho sakta hai. Heel ko bed surface se completely offload karne ke liye appropriate calf support ya assessed heel suspension device use karo. Device fit, skin, circulation aur alignment regularly reassess karo.
 
-**Baaki options kyun sahi nahi hain?** Hard ring localized pressure create kar sakti hai. Redness massage tissue damage worsen kar sakti hai. Continuous contact pressure maintain karta hai.
+**Option-wise explanation:**
+- **A (Galat):** Nonblanchable redness massage karne se vulnerable tissue par aur mechanical force pad sakti hai.
+- **B (Galat):** Heel mattress se pressed rahe toh sustained pressure kam nahi hoga.
+- **C (Sahi):** Appropriate offloading heel aur mattress ka contact pressure kam karti hai. Reassessment se naya pressure point identify hota hai.
+- **D (Galat):** Hard ring edge par concentrated pressure bana sakti hai aur safe offloading ka substitute nahi hai.
+
+**Exam clue:** Float the heel safely and check skin/device fit.
+
+**Clinical references:** [Reference 1](https://www.internationalguideline.com/repositioning) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**YouTube practice lead:** [Sachin Nursing Classes — Pressure Ulcer MCQs](https://www.youtube.com/watch?v=zekFeo4KM0c). Creator and description retrieved, general prevention practice confirmed. Specific heel-offloading coverage, exact question and playback pending. Direct video open failed.
+
+[Legacy revision practice: Mock 02, Q65](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q65-which-intervention-directly-reduces-sustained-pressure-on-the-heels-in-a-bedbound-patient) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q8. A patient has incontinence, diffuse irregular superficial redness across the buttocks and no clear pressure-point pattern. Which assessment is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Apply pressure staging to all dermatitis
 - **B.** Consider moisture-associated skin damage rather than automatically assigning a pressure stage
@@ -148,15 +244,27 @@ Heel offloading calcaneus ke upar tissue pressure kam kar sakti hai. Support cal
 
 **Correct: B. Consider moisture-associated skin damage rather than automatically assigning a pressure stage**
 
-Urine-stool exposure se moisture-associated dermatitis ho sakti hai. Distribution, depth aur pressure history compare karke correct classification karna chahiye.
+Urine aur stool skin barrier ko irritate karte hain aur excessive moisture skin ko fragile bana sakti hai. Incontinence-associated dermatitis aksar diffuse, irregular aur superficial hoti hai. Pressure injury commonly localized pressure ya device contact se related hoti hai. Dono conditions ek saath bhi ho sakti hain. Nurse cause, distribution, depth, moisture aur pressure history assess karke prevention aur skin protection plan banati hai.
 
-**Baaki options kyun sahi nahi hain?** Stage 3 full-thickness pressure loss hai. Moisture injury real problem hai. Dermatitis ko automatically pressure stage nahi diya jaata.
+**Option-wise explanation:**
+- **A (Galat):** Har dermatitis pressure-related nahi hoti, isliye pressure stages automatically apply nahi karte.
+- **B (Sahi):** Moisture-associated damage ko differential mein consider karna correct hai. Final classification full assessment par depend karti hai.
+- **C (Galat):** Stage 3 full-thickness pressure injury hoti hai. Diffuse superficial redness se stage 3 prove nahi hota.
+- **D (Galat):** Moisture presence skin ko normal nahi banati. Barrier damage aur discomfort assess karna chahiye.
+
+**Exam clue:** Pressure injury staging is not used for IAD alone.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 02, Q100](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q100-a-patient-has-incontinence-diffuse-irregular-superficial-redness-across-the-buttocks-and-no-clear-pressure-point-pattern-which-assessment-is-important) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q9. Which scale assesses factors such as sensory perception, moisture, activity, mobility, nutrition and friction or shear?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 AIIMS Raipur Nursing Officer 9 September 2017 — related reported concept](https://testbook.com/question-answer/which-condition-is-assessed-using-braden-scale--62d6912f31e5ec63b5258842)**
 
 - **A.** Bishop score
 - **B.** Braden Scale
@@ -167,15 +275,27 @@ Urine-stool exposure se moisture-associated dermatitis ho sakti hai. Distributio
 
 **Correct: B. Braden Scale**
 
-Braden Scale pressure injury risk ke multiple domains assess karti hai. Lower score usually higher risk indicate karta hai, with clinical judgment.
+Braden Scale patient ke pressure injury risk ko structured way mein assess karti hai. Ismein sensation, moisture, activity, mobility, nutrition aur friction/shear ko score karte hain. Total score generally 6 se 23 hota hai, jisme lower score higher risk suggest karta hai. Scale ko clinical assessment aur individualized prevention ke saath use karo, universal cutoff ko blindly apply mat karo.
 
-**Baaki options kyun sahi nahi hain?** GCS consciousness, Apgar newborn adaptation aur Bishop cervical readiness assess karta hai.
+**Option-wise explanation:**
+- **A (Galat):** Bishop score cervix ki readiness for labor induction assess karta hai.
+- **B (Sahi):** Braden ke six domains stem mein listed hain aur pressure injury risk assessment se match karte hain.
+- **C (Galat):** Glasgow Coma Scale eye, verbal aur motor response se consciousness assess karta hai.
+- **D (Galat):** Apgar newborn ki immediate postbirth adaptation assess karta hai.
+
+**Exam clue:** Braden = six pressure injury risk domains, lower score generally higher risk.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/fundamentals-nursing/pages/24-3-wound-classification) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 03, Q103](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q103-which-scale-assesses-factors-such-as-sensory-perception-moisture-activity-mobility-nutrition-and-friction-or-shear) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q10. A patient at high pressure injury risk is on a pressure-redistributing mattress. Which plan remains appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 HPSSC Staff Nurse 2021 Series A post code 892 Q9 — related reported concept**
 
 - **A.** Continue individualized repositioning, skin inspection and other prevention measures
 - **B.** Stop all repositioning because the mattress eliminates risk
@@ -186,15 +306,29 @@ Braden Scale pressure injury risk ke multiple domains assess karti hai. Lower sc
 
 **Correct: A. Continue individualized repositioning, skin inspection and other prevention measures**
 
-Special mattress pressure distribute kar sakti hai lekin risk completely remove nahi karti. Nurse repositioning schedule patient tolerance aur skin response se adjust karti hai.
+Pressure-redistributing mattress body weight ko larger surface par distribute karke peak pressure kam kar sakti hai. Lekin prolonged loading, shear, moisture aur poor perfusion ka risk poori tarah eliminate nahi hota. Repositioning frequency individual risk, skin response, support surface aur tolerance par depend karti hai. Patient ko reposition karo, pressure points inspect karo aur nutrition/moisture care continue rakho.
 
-**Baaki options kyun sahi nahi hain?** No repositioning aur delayed inspection injury miss kar sakte hain. Hard objects focal pressure badha sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Mattress ke saath repositioning aur skin assessment continue karna best listed plan hai.
+- **B (Galat):** Special mattress risk zero nahi karti. Repositioning automatically stop karna unsafe hai.
+- **C (Galat):** Discharge tak skin inspect na karne se early damage miss ho sakta hai.
+- **D (Galat):** Firm objects bony prominence ke neeche focal pressure increase kar sakte hain.
+
+**Exam clue:** Support surface helps but does not replace individualized repositioning.
+
+**Clinical references:** [Reference 1](https://www.internationalguideline.com/repositioning) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**Related historical evidence:** [HPSSC Staff Nurse 2021 Series A post code 892 Q9](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2021-part-1-hpssc-hamirpur/) directly retrieved third-party report includes a traditional two-hour repositioning option. This is related concept evidence only, not this stem. Current practice individualizes intervals. Official key not authenticated.
+
+**▶️ [YouTube MCQ practice — pressure injury prevention and repositioning, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c)** · Published description confirms dedicated bedsore prevention practice and lists repositioning. Topic-level only, mattress-specific question and playback unverified. Direct video open failed.
+
+[Legacy revision practice: Mock 03, Q37](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q37-a-patient-at-high-pressure-injury-risk-is-on-a-pressure-redistributing-mattress-which-plan-remains-appropriate) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q11. Which phase of wound healing involves formation of granulation tissue and new blood vessels?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Hemostasis alone
 - **B.** Initial inflammatory phase alone
@@ -205,15 +339,27 @@ Special mattress pressure distribute kar sakti hai lekin risk completely remove 
 
 **Correct: D. Proliferative phase**
 
-Proliferation mein fibroblasts matrix banati hain aur new capillaries grow karti hain. Granulation tissue wound filling aur repair support karta hai.
+Wound healing ke overlapping phases mein proliferative phase woh time hai jab fibroblasts collagen-rich matrix banate hain aur angiogenesis yani nayi small blood vessels develop hoti hain. Granulation tissue wound gap fill karta hai aur epithelial cells surface restore karte hain. Healing speed blood supply, nutrition, infection aur other factors se affect hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Hemostasis bleeding control karti hai. Inflammation debris removal mein role rakhti hai. Remodeling collagen organization aur strength change karti hai.
+**Option-wise explanation:**
+- **A (Galat):** Hemostasis mainly initial bleeding stop karne ke liye clot formation karta hai.
+- **B (Galat):** Inflammation mein immune cells debris aur microbes clear karte hain. Granulation formation ka main phase proliferation hai.
+- **C (Galat):** Remodeling mein collagen reorganize hota hai aur scar strength gradually improve hoti hai.
+- **D (Sahi):** New vessels aur granulation tissue proliferative phase ki characteristic findings hain.
+
+**Exam clue:** Granulation + angiogenesis = proliferation.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing) · [Reference 2](https://openstax.org/books/medical-surgical-nursing/pages/28-2-wound-healing-process)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 03, Q40](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q40-which-phase-of-wound-healing-involves-formation-of-granulation-tissue-and-new-blood-vessels) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q12. A clean surgical incision develops separation of wound edges without visible internal organs. Which term is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 AIIMS Jodhpur Nursing Officer 10 December 2019 — related reported concept](https://testbook.com/question-answer/on-physical-examination-the-nurse-notes-that-ther--625d56bf0488a30908a9c91e)**
 
 - **A.** Primary intention healing without complication
 - **B.** Maceration only
@@ -224,15 +370,27 @@ Proliferation mein fibroblasts matrix banati hain aur new capillaries grow karti
 
 **Correct: C. Dehiscence**
 
-Dehiscence wound edges ka separation hai. Nurse wound protect karti hai aur urgent surgical assessment leti hai.
+Dehiscence ka matlab surgically closed wound ke edges ka partial ya complete separation hai. Abdominal incision mein coughing, strain, infection ya poor healing se risk badh sakta hai. Patient ko unnecessary movement se bachao, wound protect karo aur prompt surgical assessment arrange karo. Internal organ protrusion ho toh evisceration emergency consider hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Evisceration mein internal organs protrude karte hain. Normal primary healing mein edges approximate rehti hain. Maceration excess moisture damage hai.
+**Option-wise explanation:**
+- **A (Galat):** Normal primary intention mein edges approximate rehti hain. Separation complication hai.
+- **B (Galat):** Maceration excessive moisture se surrounding skin soft aur weak hone ko kehte hain.
+- **C (Sahi):** Wound edges separate hain aur organs protrude nahi kar rahe, isliye dehiscence appropriate term hai.
+- **D (Galat):** Evisceration mein internal organs wound ke through protrude karte hain. Stem mein woh finding absent hai.
+
+**Exam clue:** Dehiscence = incision opens, evisceration = organs protrude.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596725/) · [Reference 2](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 03, Q28](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q28-a-clean-surgical-incision-develops-separation-of-wound-edges-without-visible-internal-organs-which-term-is-appropriate) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q13. A postoperative abdominal wound opens and bowel becomes visible. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Cover the bowel with dry adhesive tape directly
 - **B.** Allow the patient to walk to the treatment room
@@ -243,15 +401,27 @@ Dehiscence wound edges ka separation hai. Nurse wound protect karti hai aur urge
 
 **Correct: C. Activate urgent surgical help and protect exposed tissue with sterile saline-moistened dressing according to protocol**
 
-Evisceration emergency hai. Exposed tissue ko protect karna aur patient ko appropriate safe position mein rakhkar urgent surgical help lena chahiye.
+Evisceration mein abdominal incision open ho jaata hai aur internal organ wound se bahar protrude kar sakta hai. Yeh urgent surgical emergency hai. Patient ke paas raho, urgent help activate karo, ABC aur vitals assess karo. Exposed tissue ko sterile normal saline-moistened dressing se protocol ke mutabik protect karo. Organs ko wapas push mat karo. Patient ko safe position mein rakho aur surgical team ki instructions follow karo.
 
-**Baaki options kyun sahi nahi hain?** Organs manually replace nahi karne chahiye. Dry adhesive injury kar sakti hai. Walking strain badha sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Dry adhesive tape exposed bowel se chipak kar tissue damage kar sakti hai.
+- **B (Galat):** Walking se abdominal strain aur tissue injury ka risk badh sakta hai. Help patient tak bulani chahiye.
+- **C (Sahi):** Urgent surgical escalation aur sterile saline-moistened protection exposed tissue ko drying aur additional injury se bachane mein madad karte hain.
+- **D (Galat):** Bowel ko manually push back karna unsafe hai aur further trauma ya contamination cause kar sakta hai.
+
+**Exam clue:** Evisceration = call surgical help, protect with sterile saline-moistened dressing, do not replace organs.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596725/) · [Reference 2](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 04, Q81](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q81-a-postoperative-abdominal-wound-opens-and-bowel-becomes-visible-what-is-the-priority) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q14. Which wound drainage is described as thin and clear to pale yellow?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Feculent
 - **B.** Serous
@@ -262,15 +432,27 @@ Evisceration emergency hai. Exposed tissue ko protect karna aur patient ko appro
 
 **Correct: B. Serous**
 
-Serous drainage clear ya straw-colored watery fluid hoti hai. Amount aur change clinical context mein assess kiye jaate hain.
+Serous drainage thin watery fluid hoti hai jo clear ya light straw-yellow dikh sakti hai. Small amount healing ke kuch phases mein normal ho sakta hai. Drainage ka amount, color, odor aur trend wound ke overall assessment ke saath interpret karo.
 
-**Baaki options kyun sahi nahi hain?** Purulent pus-like, sanguineous bloody aur feculent stool-like hoti hai.
+**Option-wise explanation:**
+- **A (Galat):** Feculent drainage stool-like material ki tarah hoti hai aur possible abnormal bowel communication ki evaluation chahiye.
+- **B (Sahi):** Serous drainage thin clear ya pale yellow fluid hoti hai, jo stem se match karti hai.
+- **C (Galat):** Purulent drainage pus-like, cloudy ya thick ho sakti hai. Infection ke signs assess karne chahiye.
+- **D (Galat):** Sanguineous drainage blood-dominant red fluid hoti hai, clear straw-colored nahi.
+
+**Exam clue:** Serous = watery clear/straw, sanguineous = blood.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596725/) · [Reference 2](https://opentextbc.ca/clinicalskills/chapter/wound-assessment/)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 04, Q102](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q102-which-wound-drainage-is-described-as-thin-and-clear-to-pale-yellow) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q15. A wound develops increasing pain, spreading warmth and purulent drainage. What is the most appropriate response?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 HPRCA Assistant Staff Nurse 20 March 2026 morning Q93 — related reported concept](https://www.scribd.com/document/1045794040/20-March-HPRCA-Nursing-Staff-paper)**
 
 - **A.** Assess and escalate for possible wound infection
 - **B.** Assume all drainage indicates normal healing
@@ -281,15 +463,27 @@ Serous drainage clear ya straw-colored watery fluid hoti hai. Amount aur change 
 
 **Correct: A. Assess and escalate for possible wound infection**
 
-Increasing pain, spreading redness-warmth aur pus infection suggest kar sakte hain. Nurse vitals aur wound findings assess karke treatment team ko inform karti hai.
+Wound pain ka increase, spreading warmth aur purulent drainage ek possible infection pattern hai. Nurse wound aur surrounding skin inspect karti hai, temperature, pulse, BP aur overall symptoms assess karti hai aur treatment team ko timely inform karti hai. Systemic deterioration ho toh urgent escalation karo. Culture aur antimicrobial treatment clinical indication aur order ke hisaab se hote hain.
 
-**Baaki options kyun sahi nahi hain?** All drainage normal nahi hoti. Inspection avoid karna deterioration miss kar sakta hai. Forceful massage tissue harm kar sakti hai.
+**Option-wise explanation:**
+- **A (Sahi):** Assessment aur escalation infection ya other complication ko timely identify karne mein help karte hain.
+- **B (Galat):** Har drainage normal nahi hoti. Purulence aur increasing pain ko ignore karne se treatment delay ho sakta hai.
+- **C (Galat):** Inspection ke bina wound seal karne se progression aur drainage miss ho sakte hain.
+- **D (Galat):** Inflamed skin massage karne se pain aur tissue trauma badh sakta hai, aur infection ka cause treat nahi hota.
+
+**Exam clue:** New pain + spreading warmth + pus = assess for infection and escalate.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596725/) · [Reference 2](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 04, Q36](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q36-a-wound-develops-increasing-pain-spreading-warmth-and-purulent-drainage-what-is-the-most-appropriate-response) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q16. Which healing method describes a clean incision with edges brought together using sutures?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Secondary intention
 - **B.** Tertiary intention without initial closure
@@ -300,15 +494,27 @@ Increasing pain, spreading redness-warmth aur pus infection suggest kar sakte ha
 
 **Correct: D. Primary intention**
 
-Primary intention mein wound edges close approximate hoti hain aur tissue gap small hota hai. Healing comparatively direct ho sakti hai.
+Primary intention healing mein wound edges surgically approximate ki jaati hain, jaise clean incision mein sutures ya staples se. Tissue gap small rehne ke kaaran closure comparatively direct hota hai. Nurse edge approximation, drainage aur infection signs check karti hai.
 
-**Baaki options kyun sahi nahi hain?** Secondary intention mein wound open fill hoti hai. Tertiary delayed primary closure hai. Pressure necrosis injury mechanism hai.
+**Option-wise explanation:**
+- **A (Galat):** Secondary intention mein wound open rehti hai aur gap granulation aur contraction se fill hota hai.
+- **B (Galat):** Tertiary intention delayed primary closure hai, jab wound pehle open manage hoti hai aur baad mein close ki jaati hai.
+- **C (Galat):** Pressure necrosis tissue injury ka mechanism hai, closure method nahi.
+- **D (Sahi):** Clean incision ke sutured edges primary intention healing describe karte hain.
+
+**Exam clue:** Primary = edges approximated from the start.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 04, Q63](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q63-which-healing-method-describes-a-clean-incision-with-edges-brought-together-using-sutures) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q17. An open wound is allowed to fill with granulation tissue and contract without immediate edge approximation. Which healing type is this?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Primary intention
 - **B.** Immediate surgical closure
@@ -319,15 +525,27 @@ Primary intention mein wound edges close approximate hoti hain aur tissue gap sm
 
 **Correct: D. Secondary intention**
 
-Secondary intention mein tissue gap granulation, contraction aur epithelialization se close hota hai. Wound size ke hisaab se time longer ho sakta hai.
+Secondary intention mein wound edges immediately close nahi ki jaati. Wound depth aur gap ko granulation tissue fill karta hai, contraction se area reduce hota hai aur epithelial cells surface cover karte hain. Healing ka duration wound size, perfusion aur infection par depend karta hai. Wound care ka goal healing environment support karna hai.
 
-**Baaki options kyun sahi nahi hain?** Primary intention edges close karta hai. Immediate closure different approach hai. Open wound bhi heal kar sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Primary intention mein edges initially close ki jaati hain, jo stem mein nahi ho raha.
+- **B (Galat):** Immediate surgical closure secondary intention ke described open healing process se different hai.
+- **C (Galat):** Open wound bhi repair kar sakti hai. Open hona no healing response ka proof nahi hai.
+- **D (Sahi):** Granulation, contraction aur epithelialization se open tissue gap ka heal hona secondary intention hai.
+
+**Exam clue:** Secondary = open wound fills and contracts.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/fundamentals-nursing/pages/24-4-wound-healing) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 05, Q24](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q24-an-open-wound-is-allowed-to-fill-with-granulation-tissue-and-contract-without-immediate-edge-approximation-which-healing-type-is-this) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q18. Why does excess wound exudate increase the risk of periwound maceration?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Exudate eliminates every microorganism
 - **B.** Moisture prevents any tissue damage
@@ -338,15 +556,27 @@ Secondary intention mein tissue gap granulation, contraction aur epithelializati
 
 **Correct: C. Prolonged moisture softens and weakens surrounding skin**
 
-Moisture prolonged contact mein skin barrier weaken kar sakti hai aur surrounding skin white-soft dikh sakti hai. Suitable dressing exudate manage karne mein help karti hai.
+Periwound skin wound ke aas-paas ki skin hai. Excess exudate yani wound se nikla fluid agar lambe time tak skin ke contact mein rahe, toh skin waterlogged, soft aur fragile ho sakti hai. Isse maceration kehte hain. Suitable absorbent dressing, appropriate change interval aur skin barrier se excess moisture control karo. Wound bed ke liye moist environment aur surrounding skin ki protection alag cheezein hain.
 
-**Baaki options kyun sahi nahi hain?** Excess moisture barrier strengthen nahi karti. Exudate sterile hona guaranteed nahi hai. Tissue damage possible hai.
+**Option-wise explanation:**
+- **A (Galat):** Exudate microbial growth ko hamesha eliminate nahi karta. Wound cause aur infection assess karni chahiye.
+- **B (Galat):** Controlled moisture healing support kar sakti hai, lekin excess moisture skin damage cause kar sakti hai.
+- **C (Sahi):** Prolonged moisture skin barrier ko soften aur weaken karti hai, jo maceration ka mechanism hai.
+- **D (Galat):** Excess fluid epidermal barrier ko permanently strong nahi banata. Skin breakdown risk badhta hai.
+
+**Exam clue:** Moist wound bed does not mean soggy periwound skin.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596725/)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 05, Q35](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q35-why-does-excess-wound-exudate-increase-the-risk-of-periwound-maceration) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q19. Which documentation best enables comparison of wound progression over time?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** A different unrecorded measurement technique at every change
 - **B.** Consistent measurements, tissue appearance, drainage, surrounding skin and pain findings
@@ -357,15 +587,27 @@ Moisture prolonged contact mein skin barrier weaken kar sakti hai aur surroundin
 
 **Correct: B. Consistent measurements, tissue appearance, drainage, surrounding skin and pain findings**
 
-Standardized wound measurements aur descriptions se trend compare karna possible hota hai. Nurse patient response aur infection signs bhi document karti hai.
+Wound progression ko compare karne ke liye same standardized measurement technique use karo. Length, width aur appropriate depth ke saath tissue appearance, exudate, odor where relevant, surrounding skin, pain aur tunneling/undermining agar present ho toh protocol ke hisaab se record karo. Previous assessment se compare karo, taaki healing ya deterioration objectively identify ho sake.
 
-**Baaki options kyun sahi nahi hain?** Vague phrase aur brand alone insufficient hain. Inconsistent measurements reliable comparison reduce karti hain.
+**Option-wise explanation:**
+- **A (Galat):** Har baar unrecorded different technique se dimensions compare karna unreliable ho jaata hai.
+- **B (Sahi):** Consistent measurements aur clinical findings together healing trend aur complications evaluate karne mein help karte hain.
+- **C (Galat):** Sirf better likhne se objective size, drainage ya tissue condition ka pata nahi chalta.
+- **D (Galat):** Dressing brand useful detail ho sakti hai, lekin wound findings ko replace nahi kar sakti.
+
+**Exam clue:** Use consistent dimensions plus wound bed, drainage, periwound and pain.
+
+**Clinical references:** [Reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596725/) · [Reference 2](https://opentextbc.ca/clinicalskills/chapter/wound-assessment/)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 05, Q47](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q47-which-documentation-best-enables-comparison-of-wound-progression-over-time) — same topic-bank question, not a new original.
 
 </details>
 
 ### Q20. A dry stable heel eschar has no redness, drainage or fluctuation in a patient with poor limb perfusion. What is the safest nursing approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Protect and assess perfusion and obtain wound specialist guidance rather than automatically debriding
 - **B.** Remove the eschar forcefully at bedside
@@ -376,9 +618,21 @@ Standardized wound measurements aur descriptions se trend compare karna possible
 
 **Correct: A. Protect and assess perfusion and obtain wound specialist guidance rather than automatically debriding**
 
-Stable heel eschar protective covering ki tarah act kar sakti hai. Ischemia mein debridement se injury worsen ho sakti hai, isliye specialist assessment important hai.
+Eschar dead tissue ki dry dark covering hai. Stable heel eschar dry, adherent aur intact hoti hai aur surrounding redness, drainage ya fluctuance nahi hoti. Poor limb perfusion yani blood supply kam hone par automatic debridement se wound enlarge ho sakti hai aur healing difficult ho sakti hai. Heel offload aur protect karo, vascular perfusion aur infection signs assess karo, wound/vascular specialist ko involve karo. Agar eschar unstable ho ya infection ke signs develop hon toh urgent reassessment chahiye.
 
-**Baaki options kyun sahi nahi hain?** Forceful removal, unapproved soaking aur massage tissue compromise kar sakte hain. Stage 2 classification appropriate nahi hai.
+**Option-wise explanation:**
+- **A (Sahi):** Protection, perfusion assessment aur specialist guidance is specific stable ischemic heel finding mein appropriate hain.
+- **B (Galat):** Forceful removal se viable tissue damage, larger wound aur infection risk ho sakta hai. Staging ke liye bhi automatic removal nahi karte.
+- **C (Galat):** Bina assessment soaking se stable dry covering soften ho sakti hai aur underlying ischemic tissue expose ho sakta hai.
+- **D (Galat):** Eschar stage 2 ka feature nahi hai. Massage vulnerable heel tissue ko injure kar sakti hai.
+
+**Exam clue:** Stable dry heel/ischemic eschar: protect, assess, do not automatically soften or remove.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.msdmanuals.com/professional/dermatologic-disorders/pressure-injury/pressure-injuries)
+
+**Dedicated YouTube MCQ practice:** specific verified mapping pending.
+
+[Legacy revision practice: Mock 05, Q59](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q59-a-dry-stable-heel-eschar-has-no-redness-drainage-or-fluctuation-in-a-patient-with-poor-limb-perfusion-what-is-the-safest-nursing-approach) — same topic-bank question, not a new original.
 
 </details>
 
@@ -386,3 +640,12 @@ Stable heel eschar protective covering ki tarah act kar sakti hai. Ischemia mein
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Fundamentals of Nursing](https://openstax.org/books/fundamentals-nursing/pages/index) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index)
 
 Follow current facility protocols, authorized orders and professional scope.
+
+
+## 📜 Historical and practice evidence recheck — 27 November 2026
+
+- Q1: Safdarjung Staff Nurse 28 February 2019 memory-based report on early skin discoloration. Q9: AIIMS Raipur Nursing Officer 9 September 2017 memory-based report on Braden pressure injury risk assessment. Q12: AIIMS Jodhpur Nursing Officer 10 December 2019 memory-based report on incision separation. All three direct third-party question pages retrieved. They test related concepts, not authenticated exact stems or official answer keys. The Jodhpur explanation uses an unrelated ophthalmic definition of evisceration, which should not replace surgical wound terminology.
+- Q5: ESIC Staff Nurse 26 February 2019 Shift III direct reported question on eschar obscuring pressure injury depth. Its displayed key advocates eschar removal for staging. Do not interpret that as a universal clinical rule. Current [International Guideline fourth edition](https://www.internationalguideline.com/the-international-guideline) and [Wound Healing Society guideline update](https://pmc.ncbi.nlm.nih.gov/articles/PMC11403384/) support the distinction between obscured depth and appropriate clinical debridement decisions. Q20's stable dry ischemic heel protection remains unchanged. The prior HPSSC Q9 evidence for Q10 is retained with its individualized repositioning caveat.
+- Q15: HPRCA Assistant Staff Nurse 20 March 2026 morning third-party response-sheet transcript Q93, question ID 4410091676932, tests escalation of concerning wound discharge during pediatric dressing. Different patient scenario. Original key color and final official key not authenticated. No candidate data copied. No pressure sore, pressure ulcer or bed sore keyword match found in that transcript. HPRCA 21 March paper and September 2026 paper listings remain research leads, not authenticated item-level evidence.
+- SGPGI 28 February 2024 Shift I prevention and AIIMS Jodhpur 2019 evisceration source leads indexed but direct retrieval failed. No additional label or adaptation counted. Other all-India official keys remain pending.
+- Q1–6 and Q10 have qualified topic-level Sachin Nursing Classes practice mappings from the retrieved published description. Q7 retains a general prevention lead, not a specific heel-offloading match. Q8–9 and Q11–20 remain specific practice gaps, including Q9 Braden scale. [NCLEX Bootcamp — Wounds & Hygiene Nursing School Guide](https://www.youtube.com/watch?v=Wu2de43OUwI) has mixed teaching/quick-check segments, but exact tested concepts of each check are not verified. [Adda247 Nursing wound-healing phases short](https://www.youtube.com/watch?v=wM9kG88H4kI) is supplementary teaching, not dedicated question practice. No exact playback or transcript verified. 13 specific practice gaps remain.

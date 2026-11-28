@@ -101,7 +101,7 @@ Hands microorganisms transfer kar sakte hain. Indicated moments par hand hygiene
 
 ### PYQ6. During female urinary catheter preparation, which cleaning direction helps avoid transfer of organisms from the anal area toward the urethra?
 
-**Reported exam:** NORCET 4, 2023, reported paper transcription
+**⚪ Reported exam attribution pending:** NORCET 4, 2023, reported paper transcription · direct source verification pending
 
 [Question source](https://nextnurse.in/pyq/norcet/norcet-norcet-4)
 
@@ -114,7 +114,20 @@ Hands microorganisms transfer kar sakte hain. Indicated moments par hand hygiene
 
 **Correct: A. Front to back with the approved aseptic technique**
 
-Front-to-back cleansing contamination risk reduce karne mein help karti hai. Exact sterile preparation facility protocol se follow hoti hai. Reverse wiping aur used swab reuse organisms transfer kar sakte hain.
+Female urinary meatus anus ke paas hota hai. Anus ke area mein gut bacteria ho sakte hain, isliye cleansing front se back ki taraf ki jaati hai. Acute-care catheter insertion mein approved aseptic preparation aur fresh sterile supplies follow karna zaroori hai. Routine catheter maintenance hygiene ko insertion preparation se confuse mat karo.
+
+**Har option ka reason**
+
+- **A (Sahi):** Front-to-back cleaning anus se urethra ki taraf contamination transfer ka risk kam karti hai. Approved insertion protocol follow karna chahiye.
+- **B (Galat):** Back-to-front wiping anal organisms urethral opening tak la sakti hai. Used swab reuse karna contamination aur badha sakta hai.
+- **C (Galat):** Anus se urethra ki taraf repeatedly wiping karne se contamination ka risk badhta hai.
+- **D (Galat):** Insertion se pehle indicated aseptic preparation skip karna infection prevention ke against hai.
+
+**Exam clue:** Front to back during preparation, each swab as protocol directs.
+
+**Clinical reference:** [CDC CAUTI recommendations](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html). Historical source attribution pending direct verification. **YouTube MCQ practice:** Specific verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
@@ -133,13 +146,28 @@ Front-to-back cleansing contamination risk reduce karne mein help karti hai. Exa
 
 **Correct: D. Reduce leakage of medication into subcutaneous tissue**
 
-Z-track skin aur subcutaneous tissue displace karke needle pathway offset karti hai. Isse selected irritating IM drugs ka leakage kam ho sakta hai. Intradermal wheal aur IV route different hain. Allergy prevention guaranteed nahi hai.
+Z-track selected IM medicines ke liye ek technique hai. Skin aur subcutaneous tissue ko side mein move kiya jaata hai, phir medicine suitable muscle mein deliver hoti hai. Needle nikalne ke baad tissue release hone par puncture track offset ho jaata hai. Isse medicine ka superficial tissue mein wapas leak hona kam ho sakta hai. Product aur local protocol ke according technique select karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Dermal wheal superficial skin injection se related hai. Z-track ka target muscle hai.
+- **B (Galat):** IV route directly vein mein medicine pahunchata hai. Z-track IM technique hai.
+- **C (Galat):** Allergy immune reaction hai. Injection track change karne se drug allergy ka risk eliminate nahi hota.
+- **D (Sahi):** Offset tissue path selected medicine ke subcutaneous tissue mein leakage ko kam karne mein help karta hai. Yahi technique ka intended purpose hai.
+
+**Exam clue:** Z-track ka main purpose leakage kam karna hai, allergy prevention nahi.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK596739/)
+
+**Historical verification:** Existing reported adaptation, not an authenticated official paper or key. Original linked report could not be reopened in this run.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### PYQ8. Which pressure injury stage is consistent with partial-thickness skin loss and exposed dermis without visible adipose or deeper structures?
 
-**Reported exam:** NORCET 4, 2023, reported paper transcription
+**⚪ Reported exam attribution pending:** NORCET 4, 2023, reported paper transcription · direct question verification pending
 
 [Question source](https://nextnurse.in/pyq/norcet/norcet-norcet-4)
 
@@ -152,7 +180,20 @@ Z-track skin aur subcutaneous tissue displace karke needle pathway offset karti 
 
 **Correct: C. Stage 2**
 
-Stage 2 partial-thickness loss hai. Stage 1 skin intact hoti hai. Stage 3 full-thickness skin loss aur stage 4 exposed or palpable deeper structures se related hai. Current staging definitions use ki gayi hain rather than older wording.
+Stage 2 pressure injury mein skin ki upper layer ka kuch hissa lose hota hai aur dermis yani epidermis ke neeche ki layer expose ho sakti hai. Wound pink ya red moist dikh sakta hai, ya serum-filled blister ho sakta hai. Is stage mein fat, granulation tissue, slough aur eschar visible nahi hote. Pressure-related cause confirm karna zaroori hai. Moisture-associated dermatitis ya skin tear ko automatically pressure injury stage mat do.
 
+**Option-wise explanation:**
+- **A (Galat):** Stage 3 mein poori skin thickness lost hoti hai aur subcutaneous fat dikh sakta hai. Yeh partial-thickness description se match nahi karta.
+- **B (Galat):** Stage 4 mein fascia, muscle, tendon, cartilage ya bone jaise deeper structures exposed ya directly palpable ho sakte hain. Stem mein aisa nahi hai.
+- **C (Sahi):** Stage 2 ki definition partial-thickness skin loss with exposed dermis hai, jab visible fat aur deeper structures absent hon aur pressure cause supported ho.
+- **D (Galat):** Stage 1 mein skin intact rehti hai aur localized nonblanchable color change hota hai. Dermis exposed nahi hoti.
+
+**Exam clue:** Stage 2: exposed dermis without visible fat, slough or deeper tissue.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK553107/).
+
+**Evidence status:** Existing NORCET 4 2023 transcription attribution retained. Source indexed but direct question retrieval failed this run. Clinical answer checked independently. Original wording and official key unverified.
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 </details>
 

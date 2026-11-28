@@ -1,42 +1,90 @@
-# Nursing Study Hub — website preview
+# Nursing Study Hub — premium study workspace
 
-This website reads the public main branch at runtime. No original Markdown, claims, checkpoints or study folders are edited.
+Live website: https://priyankaverma12-rn12.github.io/aiims-norcet-staff-nurse-resources/
 
-## Practice features
+The website reads the public repository's main branch at runtime. The 35 chapter packages and their original Markdown, evidence labels, diagrams, answer keys and study status remain the single source of truth.
 
-Select answers, clear, jump, submit or let the countdown expire. A suggested source time is used where recognizable (135 minutes for the tested 120-question mock). Customize 1–300 minutes and opt in or out of one-third negative marking. Scores follow the published source keys, not an independent medical validation. Only unambiguous numbered four-option questions with a single explicit key are eligible. Unsupported items remain readable. Shared diagrams and introductory material remain available in original reading mode. Bookmarks are local to the browser. The latest quiz module can save and resume attempts locally, with source-signature validation. Attempts are not synchronized across devices. Answers and original rationales are available after submission.
+## Interface
+A responsive dashboard organizes chapter cards by the eight curriculum workstreams discovered in the original index. Search and filter by study area, jump straight to theory, MCQs, mocks, PYQs and revision, or continue recent documents. Reader pages have section tabs, an outline on wider screens, and searchable resource folders. Dark/light preference, bookmarks, saved attempts and recent reading are device-local. The dashboard counts library entries and device-local activity only, not syllabus completion. Unsupported quiz formats remain in reading mode.
 
-## Preview and regression tests
+## Practice
+The source-key parser, negative marking, countdown, expiry, saved-attempt validation and original rationale review remain in place. Question progress reflects answered questions, not score before submission. No clinical or exam provenance edits.
 
-From the repository root on the preview branch, run `python -m http.server 8000` and open http://localhost:8000/website/. Internet is required for live Markdown, directory API and pinned CDN renderer and sanitizer. Anonymous API requests may be rate limited. Run `node --check website/app.js`, `node --check website/quiz.js` `node website/quiz.test.cjs` and `node website/navigation.test.cjs`.
+## Preview and verification
+Serve the repository locally with `python -m http.server 8000` and open http://localhost:8000/website/. Internet access is required for live Markdown and the pinned Markdown/sanitizer libraries. Anonymous GitHub directory API requests may be rate limited. Run `node --check website/app.js`, `node --check website/quiz.js`, `node website/quiz.test.cjs`, and `python website/browser-smoke.py` after installing Playwright Chromium.
 
-## GitHub Pages deployment checklist
+The existing Pages workflow runs the browser gate before deploying website/ from main. It checks actual source navigation, real diagram loading, scoring, hidden answers, bookmarks, timer expiry and responsive layouts. The premium UI adds search, group filtering and recent-reading checks. The previous production build passed all 35 chapter pages and the live homepage check in run 46013632909. Verify a new run before claiming the premium build is live. No other jobs or study files should change.
 
-The manual-only workflow `.github/workflows/nursing-study-pages.yml` deploys only website/ and only from main. Review and merge the PR, then select GitHub Actions under repository Settings → Pages → Build and deployment. Run the workflow manually from Actions on main. Verify its actual deployment URL and browser smoke tests before adding a link to the root README. No Pages settings changed or deployment run yet.
+## Mobile-first refinement
 
-Expected default URL (not verified live): https://priyankaverma12-rn12.github.io/aiims-norcet-staff-nurse-resources/
+Phone and touch layouts use 44px minimum key control targets, 52px answer rows, 16px form text, responsive resource shortcuts, and horizontally scrollable study tables. The deployment gate now checks five emulated touch viewports (320, 390, 430, 768 and 844px wide), including phone landscape and tablet, along with search, persisted theme, answer controls and timer expiry. These are emulation tests, not physical-device certification.
 
-Proposed root README line (insert once after verifying deployment, with fresh blob SHA and coordination with shared jobs):
+## Navigation and media reliability
+The reader now has clickable breadcrumbs, highlighted resource tabs and an active section indicator, a collapsible page outline and a back-to-top control. Mermaid diagrams are rendered on demand using a pinned Mermaid version in strict mode and displayed as SVG images; original code remains available if a diagram fails. Same-repository GitHub/raw/root-relative image references are normalized, and local source images are copied to a static fallback cache by the deployment job. A missing source image is clearly labeled with its source link; no clinical diagram is invented. Directory browsing can fall back to a deployment-time catalog if the live anonymous API is unavailable. The catalog is a snapshot, not a replacement for live source updates.
 
-```md
-**[🚀 Launch Nursing Study Hub](https://priyankaverma12-rn12.github.io/aiims-norcet-staff-nurse-resources/)**
-```
+The build scans every chapter Markdown file for inline image/link references and Mermaid fences and validates SVG XML; its `source-audit.json` lists detected missing references. This is a static scan, not a certification of every link, anchor, external URL or rendered chart. Browser tests cover a representative actual Mermaid flowchart, fallback image loading, breadcrumbs, active tabs and the existing five touch viewports. Run `python website/build-site-data.py` before local browser testing. Previous premium and touch-first deployment runs 46014579995 and 46014810067 passed. Verify the new release independently.
 
-## Verification — 27 November 2026
+Catalog-aware navigation omits missing resource folders from shortcut lists. A sticky reading-location strip identifies the chapter and currently visible section; adjacent documents and parent folders are linked where catalog data is available. The browser audit additionally attempts to parse every Mermaid block and decode every staged image asset, reporting exceptions in source-audit.json without changing source content. Syntax parsing is not the same as fully rendering every flowchart.
 
-- All 35 current chapter README targets retrieved from main. This verifies source paths, not browser navigation or every child link.
-- Final parser matched 221/221 numbered headings across five current source files: Respiratory Day 1 (44), Nursing Foundations Mock 01 (120), incident reporting (26), Eye anatomy (30), and medication-monitoring reported adaptation (1). Separate hint and answer blocks are supported.
-- Exact remote quiz.js and styles.css were copied to local Chromium component fixtures and Git blob hashes matched. At 1440×900, 390×844 and 320×720, score, wrong/correct classes, answer dropdown, synthetic SVG, mocked bookmark state and no horizontal overflow passed. Clock fast-forward auto-submission passed. The original GitHub airway-zones.svg source was retrieved.
-- Live browser navigation and external network requests were blocked. Real CDN integration, actual diagram rendering, browser storage persistence across reload and all child-link rendering remain pending. Do not describe the site as production-tested.
+## Dedicated results and review
 
-## Deployment gate
+Submitting manually opens an accessible confirmation dialog, then a dedicated results screen. Timer expiry submits automatically. Results show net marks and percentage (net marks divided by scoreable questions), correct/incorrect/unanswered counts and accuracy among attempted questions. Review filters and eight-question pagination display each original question, the learner's selected option, correct answer and original extracted GitHub explanation without rewriting it. Finished results and in-progress attempts remain device-local and use source-signature validation. Returning to reading retains the saved result; replacing it requires confirmation. The results URL can reopen a saved result on the same browser. Automated tests check the source explanation text, score, filters, pagination, reload and responsive timer-expiry results. Unsupported source formats remain in original reading mode.
 
-The manual Pages workflow now runs the Node regression checks and `python website/browser-smoke.py` with Playwright Chromium before publishing. The browser test exercises all chapter pages, a real respiratory diagram, answer visibility, scoring, bookmark persistence after reload, mobile layout and timer expiry using live public source files. The test was prepared but has not run in CI yet. The current execution environment cannot resolve raw.githubusercontent.com, and the GitHub connector cannot configure Pages or dispatch workflows. Enable GitHub Actions publishing and manually run the workflow after merge. A failing test blocks deployment. Do not add the root README launch link until the live URL is verified.
+## V6 — Simpler study workspace and metrics
 
-The exact remote parser and score functions passed all eight regression assertions again at checkpoint a1a7cf722f8ce3cf60e60c61a29697ae9ba14eec.
+Metrics are generated from the deployed Git checkout by `build-metrics.cjs` (called by `build-site-data.py`). Counts are detected A–D question occurrences by file, not certified unique originals; topic banks, mock slots, PYQ/reported adaptations, imported and embedded practice are separate. Evidence-only research files are not counted as question slots. The dashboard shows the snapshot date/commit, chapter filters, category filters and clickable topic-bank counts. Original indexes remain accessible via a disclosure, with direct resource links and search. PYQ records with recognizable four-option lists are styled as cards without rewriting questions, evidence, answers or references. Unrecognized records remain readable in original format. The phone outline is collapsed by default and expands on demand. Animation is minimal and disabled under reduced-motion preferences. No source study material changed.
 
-Saved-attempt validation passed four additional function-level checks for valid data, invalid choice, invalid position and changed source key. Browser resume still requires execution of the integration gate.
+## V7 — Learning feedback and consistent resource titles
 
-## Follow-up verification — 27 November 2026
+The website builds a display-title catalog from each chapter document's source heading and stable path. Topic names, mock numbers, dates, and draft labels remain meaningful; counts and resource types appear as subtitles rather than filename clutter. Original file paths and Markdown are unchanged. Source headings remain available on GitHub and original heading IDs are assigned before display-title formatting. Untimed learning gives supportive feedback and original explanations only after an explicit check; timed practice still conceals answer correctness until submission. Untimed sessions do not overwrite saved timed attempts. Correct-answer feedback and high-score result animations are brief, silent, and reduced-motion-aware. Design principles: W3C WCAG headings/labels and animation from interactions; Shute (2008), Focus on Formative Feedback, DOI 10.3102/0034654307313795. Automated checks cover representative real titles, correct/incorrect feedback, original rationale access, and reduced-motion public layout.
 
-All 35 chapter README sources were retrieved again. The score and persistence suite passed 16 assertions against fetched JavaScript; 12 navigation assertions passed on the local helper copy. This branch preserves the live browser deployment gate and extends it to test attempt resume after reload. Live browser and deployment are still unverified due to external DNS restrictions. No changes to study content, main README or Pages settings. The root README link remains proposed until the hosted URL is verified.
+### V7 verification repair
+Fixed the collection-label fallback so valid Theory and MCQs labels survive generic-title handling. Title audit now checks every catalog record and produces title-audit.json with explicit review flags. Public verification compares that JSON to the deployment checkout. Timed milestones, one-time celebration, exact learning explanation and saved-attempt isolation have dedicated browser regression tests. Original clinical files are unchanged.
+
+## V8 — Personal daily study routine
+
+Daily progress, a configurable 5/10/20/30-question goal, seven-day activity, quick five-question practice and due-revision suggestions are device-local. Only checked learning questions and submitted timed answers count. Same-bank repeats count once per local calendar day, not as unique clinical questions across banks. Revision suggestions use a simple next-day interval for incorrect answers and three days for correct answers. These are pragmatic defaults, not a validated individualized spaced-repetition algorithm or mastery certification. No telemetry, public score publishing or account is introduced. Source headings, questions, answers and timed attempts are preserved. Progress labels are factual local activity, not invented priority labels. Evidence: health-professions retrieval/spacing review https://doi.org/10.1007/s10459-023-10274-3, habit formation https://doi.org/10.1080/17437199.2011.603640, progressive disclosure https://www.nngroup.com/articles/progressive-disclosure/, WCAG interaction motion https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.
+
+## V9 — My progress
+
+A separate device-local completion checklist tracks actual published theory resources, MCQ banks, mocks, reported PYQ practice and revision resources by chapter. Manual completion is explicit and independent of accuracy. Percent complete is completed resources divided by eligible resources. Question-slot coverage combines the checked-question count with all slots in a manually marked bank. Drafts and evidence-only indexes do not count. A bank count change requires reconfirmation. Reset per resource, chapter or all tracked chapters clears completion and question/revision coverage, while retaining daily activity history, saved attempts and bookmarks. No clinical source content is modified. Resource-level tracking does not imply completion of every subsection of a combined topic file.
+
+### V9.1 — automatic question-bank completion
+
+Opening a bank shows cumulative saved coverage but does not count as practice. Each checked interactive answer and submitted timed answer updates the bank's distinct question coverage. Fully supported banks automatically count as completed when every current question is checked, irrespective of score. Remaining-question practice resumes only unreviewed questions. Current question fingerprints prevent stale questions from inflating coverage after source changes. Manual completion remains available for reading-only or unsupported formats. An explicit unmark can override auto-completion; reset clears both marks and tracked answers. The global inventory is a deployed snapshot, while a loaded bank reconciles its own current source counts. Original content and saved timed results are unchanged.
+
+### V9.2 — progress from every study route
+
+Library chapter cards show separate inventory counts and completion bars; resource listings, recent resources, compact indexes and Metrics cards share mark-done and reset controls with the reader and Progress page. Navigation anchors and completion controls are separate. Counts use the same deployment snapshot and remain separate by category; uncounted resources do not get invented question totals. Chapter totals are not unique-question counts. Drafts and evidence-only documents retain navigation but not completion controls.
+
+### V10 — Simple study language and immediate mistake review
+
+All website-generated question-count labels use questions or MCQs; internal schema field names remain compatible. The original study notes are unchanged. Review mistakes offers up to five currently incorrect answers from the same bank, even before a scheduled review. A correct recheck removes the question from the mistakes list; repeated checks do not inflate daily counts. The home dashboard offers a remaining-question shortcut for the recent partly studied bank and a mistake-review shortcut when available. Weekly feedback acknowledges study days without a streak penalty. Existing progress, saved results and revision dates remain intact. Fixed the public test selector to target the search box rather than the completion checkboxes.
+
+### V10.1 — mock counts and study labels
+
+Mock test totals count published question-containing documents classified as Mock test (including short topic mocks). Draft fragments and plans are not additional tests. Draft sections and their question totals are shown separately. Existing inventory counts and stored progress are unchanged. Shared readable type, count and personal-status labels appear on chapter, topic, Metrics and Progress cards. No invented difficulty or priority badges; colour is supplementary to text. The existing tests verify actual counts and status changes.
+
+### V10.2 — Today’s progress includes Mark done
+
+The daily goal combines actual checked answers with self-reported question totals from existing dated completion marks. Per bank and local day, use the larger count instead of adding both. The home screen separately displays answers checked here and additional questions marked done. Theory-only marks count as study topics but not questions. Existing marks made today are recognized without migration; older marks do not add to today's goal. Undoing/resetting a mark removes manual credit from its dated day; real answered-question history and test results are unchanged. Home refreshes on progress events, tab visibility and returning from browser history. Internal progress keys and original study content stay intact.
+
+### V10.3 — score-based learning feedback
+
+Every completed learning session displays score, percentage, correct and incorrect answers and specific next-step guidance. Perfect scores and scores of at least 80% celebrate; 60–79% encourages improvement, 40–59% suggests revisiting missed concepts, and lower scores recommend more topic study and practice. These are motivational thresholds, not exam pass marks. Students can retry the exact session or its missed questions without changing saved timed results. Original explanations are available for missed questions. Timed results use the same guidance with their existing net score. Also repairs the previous daily-goal release syntax error. Reduced motion remains respected.
+
+### V10.4 — daily 50-MCQ goal
+
+The daily goal is fixed at 50 MCQs, replacing the old selector. Existing browser activity, marks and revision history survive the change; legacy goals normalize to 50 on read/save. The actual daily total continues beyond 50 and is shown separately from the goal bar. Motivational feedback and 10/25/40/50 milestones reflect actual study activity; weekly totals use the same counts. Daily totals combine checked questions and additional manually marked questions without counting the same bank twice in a day. Repeated questions in different banks may still overlap. No score or clinical content changes.
+
+### V10.5 — theory topic counts
+
+Library and home show theory totals and completed counts. Theory shortcuts, directory cards, reader tabs, chapter summaries, Metrics and Progress use the same published Theory document classification. One eligible theory document equals one topic, not a count of headings. Drafts, indexes and research notes are excluded; embedded MCQs retain their separate question count. Metrics adds a Theory filter and cards without duplicating documents already listed for embedded questions in the default view. Tests verify counts, exact destinations and live completion changes. Existing question and progress data stay compatible.
+
+### V11 — coordinated page-wise usability polish
+
+Nine review areas: home/daily study, Library, chapter navigation, theory reader, MCQ practice, timed results, Metrics, Progress and mobile/accessibility. The release adds active navigation, clearable filters, real home MCQ/mock totals, saved-question search, counts on all available reader tabs, topic-list summaries, adjustable reader text, reversible focus mode, a study-mode guide, direct timed-result mistake practice, and on-demand Metrics cards. Existing study material, progress storage, keys, source explanations and test scoring are unchanged. Animations are short and disabled by reduced-motion preference. The public browser regression covers active navigation, lazy metrics, filters, reading preferences and focus mode on desktop and mobile. No claim of independent manual review of every clinical document.
+
+### V11.1 — review and navigation hardening
+
+Preserve historical named-anchor behavior from PR #8 without merging its content edits. Saved questions now have a dedicated single-question practice action, while the original reading link remains available. Progress, bookmark labels and theme changes synchronize across same-origin browser tabs. Revision recommendations ignore obsolete question fingerprints. Source loading failures offer retry and original-material links. Existing learner data, timed attempts, content, and scheduled publishing jobs are unchanged. Public browser checks exercise these changes and dark/reduced-motion behavior.

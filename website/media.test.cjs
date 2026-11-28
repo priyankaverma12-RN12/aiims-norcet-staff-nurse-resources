@@ -1,0 +1,45 @@
+'use strict';
+const assert=require('node:assert/strict');
+const {resolveResource,diagramSource}=require('./media.js');
+const p='Chapters/Respiratory-System/Concepts/Day-01.md',repo='priyankaverma12-RN12/aiims-norcet-staff-nurse-resources';
+assert.equal(resolveResource('../Assets/airway-zones.svg',p).path,'Chapters/Respiratory-System/Assets/airway-zones.svg');
+assert.equal(resolveResource('/Chapters/Respiratory-System/Assets/a.svg',p).path,'Chapters/Respiratory-System/Assets/a.svg');
+assert.equal(resolveResource('https://github.com/'+repo+'/blob/main/Chapters/a.svg?raw=true',p).path,'Chapters/a.svg');
+assert.equal(resolveResource('https://raw.githubusercontent.com/'+repo+'/refs/heads/main/Chapters/a.svg',p).path,'Chapters/a.svg');
+assert.equal(resolveResource('https://github.com/'+repo+'/tree/main/Chapters/Respiratory-System/Concepts',p).path,'Chapters/Respiratory-System/Concepts/');
+assert.equal(resolveResource('../Assets/a%20b.svg',p).raw,'https://raw.githubusercontent.com/'+repo+'/main/Chapters/Respiratory-System/Assets/a%20b.svg');
+assert.equal(resolveResource('javascript:alert(1)',p),null);
+assert.equal(resolveResource('https://example.com/a.png',p).external,true);
+assert.equal(diagramSource('%%{init: {"securityLevel":"loose"}}%%\nflowchart TD\nA-->B'),'flowchart TD\nA-->B');
+console.log('Media resolver and diagram source regression tests passed.');
+
+assert.equal(resolveResource('Assets/respiratory-tract.svg','Chapters/Respiratory-System/README.md').path,'Chapters/Respiratory-System/Assets/respiratory-tract.svg');
+assert.equal(resolveResource('/Assets/study-ui.css',p).path,'Assets/study-ui.css');
+assert.equal(resolveResource('Assets/a.svg',p).path,'Chapters/Respiratory-System/Concepts/Assets/a.svg');
+console.log('Chapter-relative and root-relative Assets regression tests passed.');
+
+const {findStudyFragment}=require('./media.js');
+const heading={id:'day-1'},legacy={getAttribute:n=>n==='name'?'old heading':null},shadow={getAttribute:n=>n==='name'?'day-1':null};
+const root={querySelectorAll:s=>s==='[id]'?[heading]:s==='a[name]'?[legacy,shadow]:[]};
+assert.equal(findStudyFragment(root,'#day-1'),heading);
+assert.equal(findStudyFragment(root,'#old%20heading'),legacy);
+assert.equal(findStudyFragment(root,'#missing'),null);
+assert.equal(findStudyFragment(root,'#%zz'),null);
+assert.equal(findStudyFragment(root,'#'),null);
+assert.equal(findStudyFragment(root,'day-1'),null);
+assert.equal(findStudyFragment(root,'#%22%5D'),null);
+console.log('Study fragment and legacy anchor regression tests passed.');
+
+const {studyDocumentPath}=require('./media.js');
+const navBase='Chapters/Eye-and-ENT-Nursing/README.md';
+assert.equal(studyDocumentPath(resolveResource('MCQs',navBase)),'Chapters/Eye-and-ENT-Nursing/MCQs/');
+assert.equal(studyDocumentPath(resolveResource('MCQs/',navBase)),'Chapters/Eye-and-ENT-Nursing/MCQs/');
+assert.equal(studyDocumentPath(resolveResource('Concepts/A%20B.md#topic',navBase)),'Chapters/Eye-and-ENT-Nursing/Concepts/A B.md');
+assert.equal(studyDocumentPath(resolveResource('https://github.com/'+repo+'/tree/main/Chapters/Eye-and-ENT-Nursing/MCQs',navBase)),'Chapters/Eye-and-ENT-Nursing/MCQs/');
+assert.equal(studyDocumentPath(resolveResource('Assets/diagram.svg',navBase)),null);
+assert.equal(studyDocumentPath(resolveResource('https://example.com/a.md',navBase)),null);
+assert.equal(studyDocumentPath({path:'Chapters/../README.md'}),null);
+assert.equal(studyDocumentPath({path:'Chapters/Test//foo.md'}),null);
+assert.equal(studyDocumentPath({path:'Chapters/Test/A, B.md'}),'Chapters/Test/A, B.md');
+assert.equal(studyDocumentPath({path:'Chapters/Test/a%2Fb.md'}),null);
+console.log('Extensionless chapter folder and safe study destination tests passed.');

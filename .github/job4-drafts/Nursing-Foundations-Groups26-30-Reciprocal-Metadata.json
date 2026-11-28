@@ -1,0 +1,1140 @@
+{
+  "status": "STAGED ONLY — no live integration",
+  "purpose": "100 main-branch bank-to-mock mappings validated by exact stem, four option texts, shuffled answer letter and correct answer identity in the immediately preceding checks. The five mock blobs were subsequently rechecked unchanged. Before application re-fetch the source and target, verify identities and latest claims, coordinate with PR12 and Job5, merge only metadata/anchors, preserve all existing unique evidence and rationale content. Proposed metadata is inherited, not new clinical or historical certification. Do not count these as reciprocal until live readback.",
+  "pr12_observed_head": "ebb28367253e250c7aefed780e60788c4cd85c16",
+  "pr12_branch_validation": "pending",
+  "job5": "Run48B; 1712 live explanations, 6848 reasons, 20 staged legacy blocks",
+  "bank_directory": "Chapters/Nursing-Foundations/MCQs/",
+  "mock_directory": "Chapters/Nursing-Foundations/Mock-Tests/",
+  "bank_snapshots": [
+    {
+      "file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "blob": "6656f946c44469dc76a62b0ffd75883f36d27148"
+    },
+    {
+      "file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "blob": "60ed3a6d9062e4fe0f64d0edbdc8cfd1324505cf"
+    },
+    {
+      "file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "blob": "8011c2fc1c2afa572557f72c6d8368c17eac7d86"
+    },
+    {
+      "file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "blob": "f948ab48e0dc193e65df4512de9b41359c833a0a"
+    },
+    {
+      "file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "blob": "ee4c4cb64febb09dd6ac7293294ceac42b648a2e"
+    }
+  ],
+  "mock_snapshots": [
+    {
+      "file": "Nursing-Foundations-Mock-01-120.md",
+      "blob": "7109d02abed0cb2381367e5bdc14ba7732e9b417"
+    },
+    {
+      "file": "Nursing-Foundations-Mock-02-120.md",
+      "blob": "88f4beb32dd7e959bd4d00f172b9af7020b2617c"
+    },
+    {
+      "file": "Nursing-Foundations-Mock-03-120.md",
+      "blob": "76f768e2e5b14a0179d68a89b4991cfeb7219243"
+    },
+    {
+      "file": "Nursing-Foundations-Mock-04-120.md",
+      "blob": "7a654a81fda00298cba6954fed4c4dc7a50cae5b"
+    },
+    {
+      "file": "Nursing-Foundations-Mock-05-120.md",
+      "blob": "b909218a3ca6eef4921487aea0a7163b816e20de"
+    }
+  ],
+  "entries": [
+    {
+      "group": 26,
+      "bank_question": 1,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 14,
+      "mock_anchor": "q14-which-ethical-principle-supports-a-competent-patients-right-to-accept-or-refuse-treatment",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q1-which-ethical-principle-supports-a-competent-patients-right-to-accept-or-refuse-treatment",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Raipur Nursing Officer, 9 September 2017 — related reported concept**"
+    },
+    {
+      "group": 26,
+      "bank_question": 2,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 1,
+      "mock_anchor": "q1-which-ethical-principle-refers-to-acting-for-the-patients-benefit",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q2-which-ethical-principle-refers-to-acting-for-the-patients-benefit",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 3,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 115,
+      "mock_anchor": "q115-which-principle-is-illustrated-by-avoiding-an-unnecessary-invasive-procedure-that-may-injure-a-patient",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q3-which-principle-is-illustrated-by-avoiding-an-unnecessary-invasive-procedure-that-may-injure-a-patient",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept**"
+    },
+    {
+      "group": 26,
+      "bank_question": 4,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 117,
+      "mock_anchor": "q117-two-patients-need-the-same-limited-clinical-resource-which-ethical-principle-guides-fair-allocation-based-on-relevant-criteria",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q4-two-patients-need-the-same-limited-clinical-resource-which-ethical-principle-guides-fair-allocation-based-on-relevant-criteria",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 RRB Nursing Superintendent, 29 April 2025 Shift III — related reported concept**"
+    },
+    {
+      "group": 26,
+      "bank_question": 5,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 31,
+      "mock_anchor": "q31-which-action-demonstrates-veracity-in-nursing",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q5-which-action-demonstrates-veracity-in-nursing",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 6,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 74,
+      "mock_anchor": "q74-a-patient-requests-that-a-particular-health-detail-not-be-discussed-with-visitors-what-should-the-nurse-do",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q6-a-patient-requests-that-a-particular-health-detail-not-be-discussed-with-visitors-what-should-the-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 7,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 21,
+      "mock_anchor": "q21-a-patient-appears-unable-to-understand-the-consequences-of-a-proposed-treatment-because-of-acute-delirium-what-is-appropriate",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q7-a-patient-appears-unable-to-understand-the-consequences-of-a-proposed-treatment-because-of-acute-delirium-what-is-appropriate",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 8,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 116,
+      "mock_anchor": "q116-which-step-should-occur-before-developing-an-individualized-patient-education-plan",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q8-which-step-should-occur-before-developing-an-individualized-patient-education-plan",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 9,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 41,
+      "mock_anchor": "q41-a-patient-can-describe-insulin-administration-but-cannot-correctly-demonstrate-it-which-learning-domain-needs-further-assessment",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q9-a-patient-can-describe-insulin-administration-but-cannot-correctly-demonstrate-it-which-learning-domain-needs-further-assessment",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 10,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 115,
+      "mock_anchor": "q115-which-method-best-evaluates-a-newly-taught-dressing-change-skill",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q10-which-method-best-evaluates-a-newly-taught-dressing-change-skill",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 11,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 6,
+      "mock_anchor": "q6-a-patient-has-limited-literacy-and-speaks-a-different-language-which-education-approach-is-best",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q11-a-patient-has-limited-literacy-and-speaks-a-different-language-which-education-approach-is-best",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 12,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 109,
+      "mock_anchor": "q109-which-teaching-objective-is-measurable-and-patient-centered",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q12-which-teaching-objective-is-measurable-and-patient-centered",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 13,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 44,
+      "mock_anchor": "q44-a-patient-requests-a-religious-dietary-accommodation-that-appears-compatible-with-treatment-what-should-the-nurse-do",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q13-a-patient-requests-a-religious-dietary-accommodation-that-appears-compatible-with-treatment-what-should-the-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 14,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 113,
+      "mock_anchor": "q113-which-approach-is-appropriate-when-a-patient-prefers-a-same-gender-caregiver-for-intimate-hygiene",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q14-which-approach-is-appropriate-when-a-patient-prefers-a-same-gender-caregiver-for-intimate-hygiene",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 15,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 1,
+      "mock_anchor": "q1-a-patient-reports-using-a-traditional-herbal-product-along-with-prescribed-anticoagulants-what-should-the-nurse-do",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q15-a-patient-reports-using-a-traditional-herbal-product-along-with-prescribed-anticoagulants-what-should-the-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 16,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 88,
+      "mock_anchor": "q88-what-is-health-literacy-in-the-context-of-nursing-education",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q16-what-is-health-literacy-in-the-context-of-nursing-education",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 17,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 115,
+      "mock_anchor": "q115-a-nurse-has-a-conflict-of-interest-in-recommending-a-paid-product-to-a-patient-which-action-is-appropriate",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q17-a-nurse-has-a-conflict-of-interest-in-recommending-a-paid-product-to-a-patient-which-action-is-appropriate",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 18,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 95,
+      "mock_anchor": "q95-which-nursing-action-reflects-accountability",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q18-which-nursing-action-reflects-accountability",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 DSSSB Nursing Officer, 27 August 2019 Shift III — related reported concept**"
+    },
+    {
+      "group": 26,
+      "bank_question": 19,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 45,
+      "mock_anchor": "q45-a-patient-refuses-a-student-nurses-participation-in-an-intimate-procedure-what-should-the-supervising-nurse-do",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q19-a-patient-refuses-a-student-nurses-participation-in-an-intimate-procedure-what-should-the-supervising-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 26,
+      "bank_question": 20,
+      "bank_file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 56,
+      "mock_anchor": "q56-which-teaching-strategy-is-most-appropriate-when-the-patient-is-exhausted-and-unable-to-concentrate",
+      "reciprocal_destination": "../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q20-which-teaching-strategy-is-most-appropriate-when-the-patient-is-exhausted-and-unable-to-concentrate",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 1,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 38,
+      "mock_anchor": "q38-what-is-the-main-goal-of-palliative-care",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q1-what-is-the-main-goal-of-palliative-care",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 2,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 97,
+      "mock_anchor": "q97-a-patient-with-advanced-illness-says-that-maintaining-alertness-matters-more-than-complete-pain-relief-what-should-the-nurse-do",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q2-a-patient-with-advanced-illness-says-that-maintaining-alertness-matters-more-than-complete-pain-relief-what-should-the-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 3,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 48,
+      "mock_anchor": "q48-which-response-is-most-therapeutic-when-a-newly-bereaved-person-begins-crying",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q3-which-response-is-most-therapeutic-when-a-newly-bereaved-person-begins-crying",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 4,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 100,
+      "mock_anchor": "q100-a-family-member-feels-angry-and-sad-at-different-times-after-a-death-what-explanation-is-accurate",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q4-a-family-member-feels-angry-and-sad-at-different-times-after-a-death-what-explanation-is-accurate",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 NVS Staff Nurse, September 2019 — related reported concept**"
+    },
+    {
+      "group": 27,
+      "bank_question": 5,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 43,
+      "mock_anchor": "q43-which-term-describes-grief-occurring-before-an-expected-loss-such-as-anticipated-death-from-advanced-illness",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q5-which-term-describes-grief-occurring-before-an-expected-loss-such-as-anticipated-death-from-advanced-illness",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Bhubaneswar Nursing Officer, 15 September 2019 — related reported concept**"
+    },
+    {
+      "group": 27,
+      "bank_question": 6,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 51,
+      "mock_anchor": "q51-a-dying-patient-has-dry-mouth-limited-oral-intake-and-an-aspiration-risk-which-comfort-measure-is-appropriate",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q6-a-dying-patient-has-dry-mouth-limited-oral-intake-and-an-aspiration-risk-which-comfort-measure-is-appropriate",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 7,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 81,
+      "mock_anchor": "q81-a-patient-near-end-of-life-has-distressing-breathlessness-despite-an-initial-plan-what-should-the-nurse-do",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q7-a-patient-near-end-of-life-has-distressing-breathlessness-despite-an-initial-plan-what-should-the-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 8,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 96,
+      "mock_anchor": "q96-which-nursing-action-maintains-dignity-when-providing-personal-care-to-a-dying-patient",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q8-which-nursing-action-maintains-dignity-when-providing-personal-care-to-a-dying-patient",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 9,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 47,
+      "mock_anchor": "q47-a-patient-has-a-documented-do-not-attempt-resuscitation-order-which-interpretation-is-correct",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q9-a-patient-has-a-documented-do-not-attempt-resuscitation-order-which-interpretation-is-correct",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 10,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 62,
+      "mock_anchor": "q62-a-family-demands-cpr-despite-a-valid-documented-plan-and-the-patients-previously-expressed-wishes-what-should-the-nurse-do",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q10-a-family-demands-cpr-despite-a-valid-documented-plan-and-the-patients-previously-expressed-wishes-what-should-the-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 11,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 25,
+      "mock_anchor": "q25-which-aspect-of-care-is-addressed-by-offering-access-to-a-spiritual-counselor-when-a-patient-requests-it",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q11-which-aspect-of-care-is-addressed-by-offering-access-to-a-spiritual-counselor-when-a-patient-requests-it",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 12,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 64,
+      "mock_anchor": "q64-a-terminally-ill-patient-says-i-do-not-want-my-family-informed-about-this-detail-what-is-the-appropriate-response",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q12-a-terminally-ill-patient-says-i-do-not-want-my-family-informed-about-this-detail-what-is-the-appropriate-response",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 13,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 119,
+      "mock_anchor": "q119-what-is-the-purpose-of-advance-care-planning",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q13-what-is-the-purpose-of-advance-care-planning",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 14,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 101,
+      "mock_anchor": "q101-a-family-asks-why-the-dying-patient-is-eating-less-which-response-is-most-appropriate",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q14-a-family-asks-why-the-dying-patient-is-eating-less-which-response-is-most-appropriate",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 15,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 33,
+      "mock_anchor": "q33-a-patient-with-advanced-disease-develops-new-severe-pain-that-is-different-from-the-usual-symptoms-what-should-the-nurse-do",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q15-a-patient-with-advanced-disease-develops-new-severe-pain-that-is-different-from-the-usual-symptoms-what-should-the-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 16,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 90,
+      "mock_anchor": "q90-which-action-is-appropriate-after-a-patients-death-once-required-verification-and-instructions-are-complete",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q16-which-action-is-appropriate-after-a-patients-death-once-required-verification-and-instructions-are-complete",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 17,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 17,
+      "mock_anchor": "q17-a-death-may-require-medicolegal-investigation-what-should-the-nurse-do-before-removing-lines-or-altering-the-body",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q17-a-death-may-require-medicolegal-investigation-what-should-the-nurse-do-before-removing-lines-or-altering-the-body",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 18,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 23,
+      "mock_anchor": "q23-which-intervention-can-support-a-family-during-bedside-end-of-life-care",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q18-which-intervention-can-support-a-family-during-bedside-end-of-life-care",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 19,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 79,
+      "mock_anchor": "q79-a-bereaved-person-reports-inability-to-manage-daily-activities-and-expresses-thoughts-of-self-harm-what-is-the-priority",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q19-a-bereaved-person-reports-inability-to-manage-daily-activities-and-expresses-thoughts-of-self-harm-what-is-the-priority",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 27,
+      "bank_question": 20,
+      "bank_file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 60,
+      "mock_anchor": "q60-a-nurse-feels-emotionally-overwhelmed-after-repeated-patient-deaths-which-professional-response-is-appropriate",
+      "reciprocal_destination": "../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q20-a-nurse-feels-emotionally-overwhelmed-after-repeated-patient-deaths-which-professional-response-is-appropriate",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 1,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 118,
+      "mock_anchor": "q118-before-a-planned-lumbar-puncture-a-patient-develops-new-focal-neurological-deficits-and-declining-consciousness-which-action-is-appropriate",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q1-before-a-planned-lumbar-puncture-a-patient-develops-new-focal-neurological-deficits-and-declining-consciousness-which-action-is-appropriate",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 2,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 106,
+      "mock_anchor": "q106-which-position-is-commonly-used-to-facilitate-lumbar-puncture-when-appropriate",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q2-which-position-is-commonly-used-to-facilitate-lumbar-puncture-when-appropriate",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS NORCET 6 Prelims 2024 — related reported concept**"
+    },
+    {
+      "group": 28,
+      "bank_question": 3,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 98,
+      "mock_anchor": "q98-when-cerebrospinal-fluid-opening-pressure-is-being-measured-which-patient-position-is-generally-needed-for-standard-interpretation",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q3-when-cerebrospinal-fluid-opening-pressure-is-being-measured-which-patient-position-is-generally-needed-for-standard-interpretation",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 4,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 90,
+      "mock_anchor": "q90-which-procedure-removes-fluid-from-the-pleural-space-for-diagnosis-or-symptom-relief",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q4-which-procedure-removes-fluid-from-the-pleural-space-for-diagnosis-or-symptom-relief",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 5,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 84,
+      "mock_anchor": "q84-a-patient-develops-sudden-dyspnea-and-unilateral-reduced-breath-sounds-after-thoracentesis-what-is-the-priority",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q5-a-patient-develops-sudden-dyspnea-and-unilateral-reduced-breath-sounds-after-thoracentesis-what-is-the-priority",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 6,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 75,
+      "mock_anchor": "q75-which-procedure-removes-fluid-from-the-peritoneal-cavity",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q6-which-procedure-removes-fluid-from-the-peritoneal-cavity",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 7,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 64,
+      "mock_anchor": "q64-after-removal-of-a-large-volume-of-ascitic-fluid-a-patient-becomes-dizzy-and-hypotensive-what-should-the-nurse-do",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q7-after-removal-of-a-large-volume-of-ascitic-fluid-a-patient-becomes-dizzy-and-hypotensive-what-should-the-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 8,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 85,
+      "mock_anchor": "q85-which-investigation-allows-direct-visualization-of-the-lower-urinary-tract-including-the-bladder",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q8-which-investigation-allows-direct-visualization-of-the-lower-urinary-tract-including-the-bladder",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 9,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 92,
+      "mock_anchor": "q92-a-patient-is-returning-from-an-upper-gi-endoscopy-with-residual-sedation-and-topical-throat-anesthesia-which-assessment-is-important-before-oral-intake",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q9-a-patient-is-returning-from-an-upper-gi-endoscopy-with-residual-sedation-and-topical-throat-anesthesia-which-assessment-is-important-before-oral-intake",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 10,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 3,
+      "mock_anchor": "q3-which-test-records-the-electrical-activity-of-the-heart-using-surface-electrodes",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q10-which-test-records-the-electrical-activity-of-the-heart-using-surface-electrodes",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 11,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 94,
+      "mock_anchor": "q94-a-patient-receiving-ecg-monitoring-has-a-flat-trace-but-is-awake-with-a-palpable-regular-pulse-what-should-the-nurse-do-first",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q11-a-patient-receiving-ecg-monitoring-has-a-flat-trace-but-is-awake-with-a-palpable-regular-pulse-what-should-the-nurse-do-first",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 12,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 13,
+      "mock_anchor": "q13-which-investigation-records-electrical-activity-generated-by-the-brain",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q12-which-investigation-records-electrical-activity-generated-by-the-brain",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 13,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 6,
+      "mock_anchor": "q6-before-an-mri-a-patient-reports-an-implanted-device-but-does-not-know-its-type-what-is-the-safest-action",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q13-before-an-mri-a-patient-reports-an-implanted-device-but-does-not-know-its-type-what-is-the-safest-action",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 14,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 51,
+      "mock_anchor": "q51-a-patient-scheduled-for-iodinated-contrast-imaging-reports-a-previous-severe-contrast-reaction-what-should-the-nurse-do",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q14-a-patient-scheduled-for-iodinated-contrast-imaging-reports-a-previous-severe-contrast-reaction-what-should-the-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 15,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 41,
+      "mock_anchor": "q41-which-sample-collection-method-is-used-for-a-bedside-capillary-glucose-measurement",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q15-which-sample-collection-method-is-used-for-a-bedside-capillary-glucose-measurement",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 16,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 96,
+      "mock_anchor": "q96-a-bedside-glucose-meter-result-is-inconsistent-with-a-symptomatic-patients-condition-which-action-is-appropriate",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q16-a-bedside-glucose-meter-result-is-inconsistent-with-a-symptomatic-patients-condition-which-action-is-appropriate",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 17,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 98,
+      "mock_anchor": "q98-what-is-the-purpose-of-checking-a-diagnostic-procedures-preparation-instructions-before-transport",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q17-what-is-the-purpose-of-checking-a-diagnostic-procedures-preparation-instructions-before-transport",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 18,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 74,
+      "mock_anchor": "q74-following-a-procedure-involving-arterial-access-a-patient-develops-increasing-puncture-site-swelling-and-a-weak-distal-pulse-what-should-the-nurse-do",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q18-following-a-procedure-involving-arterial-access-a-patient-develops-increasing-puncture-site-swelling-and-a-weak-distal-pulse-what-should-the-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 19,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 55,
+      "mock_anchor": "q55-which-procedure-measures-pulmonary-airflow-and-volumes-using-a-breathing-maneuver",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q19-which-procedure-measures-pulmonary-airflow-and-volumes-using-a-breathing-maneuver",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 28,
+      "bank_question": 20,
+      "bank_file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 90,
+      "mock_anchor": "q90-a-patient-becomes-acutely-unwell-during-a-diagnostic-test-what-is-the-appropriate-nursing-priority",
+      "reciprocal_destination": "../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q20-a-patient-becomes-acutely-unwell-during-a-diagnostic-test-what-is-the-appropriate-nursing-priority",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 1,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 2,
+      "mock_anchor": "q2-which-mechanism-contributes-to-increased-venous-thromboembolism-risk-during-prolonged-immobility",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q1-which-mechanism-contributes-to-increased-venous-thromboembolism-risk-during-prolonged-immobility",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 2,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 27,
+      "mock_anchor": "q27-a-patient-with-unilateral-leg-swelling-develops-sudden-shortness-of-breath-and-pleuritic-chest-pain-which-action-has-highest-priority",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q2-a-patient-with-unilateral-leg-swelling-develops-sudden-shortness-of-breath-and-pleuritic-chest-pain-which-action-has-highest-priority",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 SGPGI Staff Nurse 28 Feb 2024 Shift 1 — related reported concept**"
+    },
+    {
+      "group": 29,
+      "bank_question": 3,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 13,
+      "mock_anchor": "q13-what-is-a-common-musculoskeletal-consequence-of-prolonged-disuse",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q3-what-is-a-common-musculoskeletal-consequence-of-prolonged-disuse",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 4,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 8,
+      "mock_anchor": "q8-why-can-prolonged-immobilization-increase-the-risk-of-a-joint-contracture",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q4-why-can-prolonged-immobilization-increase-the-risk-of-a-joint-contracture",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 5,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 91,
+      "mock_anchor": "q91-which-intervention-helps-preserve-muscle-function-in-a-stable-bedbound-patient-who-can-contract-muscles-but-cannot-yet-walk",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q5-which-intervention-helps-preserve-muscle-function-in-a-stable-bedbound-patient-who-can-contract-muscles-but-cannot-yet-walk",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 6,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 42,
+      "mock_anchor": "q42-a-patient-has-been-on-bed-rest-for-weeks-and-is-beginning-rehabilitation-why-should-upright-activity-be-progressed-gradually",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q6-a-patient-has-been-on-bed-rest-for-weeks-and-is-beginning-rehabilitation-why-should-upright-activity-be-progressed-gradually",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 7,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 56,
+      "mock_anchor": "q56-which-complication-is-associated-with-reduced-deep-breathing-and-secretion-clearance-during-immobility",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q7-which-complication-is-associated-with-reduced-deep-breathing-and-secretion-clearance-during-immobility",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 8,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 114,
+      "mock_anchor": "q114-a-patient-receiving-prescribed-compression-stockings-reports-toe-numbness-and-the-stockings-have-rolled-into-a-tight-band-what-should-the-nurse-do",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q8-a-patient-receiving-prescribed-compression-stockings-reports-toe-numbness-and-the-stockings-have-rolled-into-a-tight-band-what-should-the-nurse-do",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 9,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 30,
+      "mock_anchor": "q30-which-action-is-appropriate-for-a-patient-using-an-intermittent-pneumatic-compression-device",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q9-which-action-is-appropriate-for-a-patient-using-an-intermittent-pneumatic-compression-device",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 10,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 78,
+      "mock_anchor": "q78-a-patient-with-limited-mobility-and-poor-intake-is-developing-constipation-which-mechanism-contributes",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q10-a-patient-with-limited-mobility-and-poor-intake-is-developing-constipation-which-mechanism-contributes",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 11,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 20,
+      "mock_anchor": "q20-which-intervention-supports-functional-independence-during-rehabilitation",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q11-which-intervention-supports-functional-independence-during-rehabilitation",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 12,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 60,
+      "mock_anchor": "q60-a-patient-with-a-recent-stroke-has-neglect-of-the-affected-side-during-grooming-which-approach-is-appropriate",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q12-a-patient-with-a-recent-stroke-has-neglect-of-the-affected-side-during-grooming-which-approach-is-appropriate",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 13,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 110,
+      "mock_anchor": "q110-which-assessment-tool-focuses-on-independence-in-activities-such-as-feeding-bathing-transfers-and-toileting",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q13-which-assessment-tool-focuses-on-independence-in-activities-such-as-feeding-bathing-transfers-and-toileting",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 14,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 4,
+      "mock_anchor": "q4-a-patient-with-new-lower-limb-weakness-is-being-assessed-for-transfer-ability-which-finding-is-most-relevant",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q14-a-patient-with-new-lower-limb-weakness-is-being-assessed-for-transfer-ability-which-finding-is-most-relevant",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 15,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 14,
+      "mock_anchor": "q14-why-is-regular-skin-inspection-important-under-an-orthosis-or-splint",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q15-why-is-regular-skin-inspection-important-under-an-orthosis-or-splint",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 16,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 71,
+      "mock_anchor": "q71-a-patient-becomes-exhausted-midway-through-a-rehabilitation-session-which-action-is-appropriate",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q16-a-patient-becomes-exhausted-midway-through-a-rehabilitation-session-which-action-is-appropriate",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 17,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 105,
+      "mock_anchor": "q105-which-intervention-helps-maintain-joint-alignment-in-a-patient-unable-to-reposition-independently",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q17-which-intervention-helps-maintain-joint-alignment-in-a-patient-unable-to-reposition-independently",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 18,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 42,
+      "mock_anchor": "q42-a-patient-has-new-weakness-numbness-and-pain-beneath-a-limb-support-device-what-is-the-priority",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q18-a-patient-has-new-weakness-numbness-and-pain-beneath-a-limb-support-device-what-is-the-priority",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 19,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 30,
+      "mock_anchor": "q30-which-finding-is-an-appropriate-measurable-rehabilitation-outcome",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q19-which-finding-is-an-appropriate-measurable-rehabilitation-outcome",
+      "metadata_candidate": "**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse"
+    },
+    {
+      "group": 29,
+      "bank_question": 20,
+      "bank_file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 81,
+      "mock_anchor": "q81-an-older-patient-with-prolonged-immobility-is-preparing-for-discharge-home-which-plan-addresses-multiple-safety-risks",
+      "reciprocal_destination": "../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q20-an-older-patient-with-prolonged-immobility-is-preparing-for-discharge-home-which-plan-addresses-multiple-safety-risks",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 1,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 71,
+      "mock_anchor": "q71-four-patients-call-simultaneously-which-needs-assessment-first",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q1-four-patients-call-simultaneously-which-needs-assessment-first",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 2,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 107,
+      "mock_anchor": "q107-which-patient-should-the-nurse-assess-first-after-receiving-handover",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q2-which-patient-should-the-nurse-assess-first-after-receiving-handover",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 3,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 23,
+      "mock_anchor": "q23-a-patient-is-receiving-an-iv-infusion-and-reports-burning-at-the-cannula-site-the-site-is-red-and-warm-along-the-vein-without-cool-swelling-what-should-the-nurse-suspect",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q3-a-patient-is-receiving-an-iv-infusion-and-reports-burning-at-the-cannula-site-the-site-is-red-and-warm-along-the-vein-without-cool-swelling-what-should-the-nurse-suspect",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 4,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-01-120.md",
+      "mock_question": 110,
+      "mock_anchor": "q110-during-a-medication-round-a-patient-has-a-newly-low-blood-pressure-and-is-due-for-an-antihypertensive-what-is-the-safest-first-step",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q4-during-a-medication-round-a-patient-has-a-newly-low-blood-pressure-and-is-due-for-an-antihypertensive-what-is-the-safest-first-step",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 5,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 78,
+      "mock_anchor": "q78-a-patient-with-a-feeding-tube-is-due-for-medicines-but-initial-placement-has-not-been-confirmed-what-is-the-priority",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q5-a-patient-with-a-feeding-tube-is-due-for-medicines-but-initial-placement-has-not-been-confirmed-what-is-the-priority",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 JIPMER Staff Nurse 23 Feb 2020 — related reported concept** · **🟣 AIIMS Delhi Nursing Officer 15 Sep 2019 — related reported concept**"
+    },
+    {
+      "group": 30,
+      "bank_question": 6,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 24,
+      "mock_anchor": "q24-a-patient-with-a-urinary-catheter-has-new-suprapubic-pain-and-low-drainage-which-is-the-best-initial-nursing-assessment",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q6-a-patient-with-a-urinary-catheter-has-new-suprapubic-pain-and-low-drainage-which-is-the-best-initial-nursing-assessment",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 7,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 101,
+      "mock_anchor": "q101-a-patient-receiving-blood-develops-fever-and-shaking-chills-but-the-nurse-is-unsure-whether-the-symptoms-are-transfusion-related-what-is-the-safest-action",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q7-a-patient-receiving-blood-develops-fever-and-shaking-chills-but-the-nurse-is-unsure-whether-the-symptoms-are-transfusion-related-what-is-the-safest-action",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 AIIMS NORCET 9 Mains 27 Sep 2025 — related reported concept**"
+    },
+    {
+      "group": 30,
+      "bank_question": 8,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-02-120.md",
+      "mock_question": 108,
+      "mock_anchor": "q108-a-postoperative-patient-is-due-to-ambulate-but-reports-unilateral-calf-pain-and-new-swelling-which-plan-is-safest",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q8-a-postoperative-patient-is-due-to-ambulate-but-reports-unilateral-calf-pain-and-new-swelling-which-plan-is-safest",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 9,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 54,
+      "mock_anchor": "q54-a-patient-is-confused-pulling-at-an-iv-and-attempting-to-climb-out-of-bed-which-intervention-should-be-considered-before-routine-restraint-use",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q9-a-patient-is-confused-pulling-at-an-iv-and-attempting-to-climb-out-of-bed-which-intervention-should-be-considered-before-routine-restraint-use",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 10,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 73,
+      "mock_anchor": "q73-a-nurse-is-preparing-a-sterile-dressing-and-a-patient-suddenly-develops-severe-respiratory-distress-what-takes-priority",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q10-a-nurse-is-preparing-a-sterile-dressing-and-a-patient-suddenly-develops-severe-respiratory-distress-what-takes-priority",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 11,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 102,
+      "mock_anchor": "q102-a-patient-has-an-order-for-iv-antibiotics-but-the-wristband-identifiers-differ-from-the-medication-record-which-action-is-appropriate",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q11-a-patient-has-an-order-for-iv-antibiotics-but-the-wristband-identifiers-differ-from-the-medication-record-which-action-is-appropriate",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 12,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-03-120.md",
+      "mock_question": 104,
+      "mock_anchor": "q104-a-patient-with-severe-pain-is-prescribed-opioid-analgesia-but-is-currently-difficult-to-arouse-with-a-respiratory-rate-of-8min-which-response-is-best",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q12-a-patient-with-severe-pain-is-prescribed-opioid-analgesia-but-is-currently-difficult-to-arouse-with-a-respiratory-rate-of-8min-which-response-is-best",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 13,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 38,
+      "mock_anchor": "q38-a-patients-glucose-is-low-and-the-patient-is-confused-and-unable-to-swallow-safely-which-action-is-correct",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q13-a-patients-glucose-is-low-and-the-patient-is-confused-and-unable-to-swallow-safely-which-action-is-correct",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 14,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 106,
+      "mock_anchor": "q106-after-a-limb-bandage-is-applied-the-patient-develops-new-pallor-and-tingling-distal-to-it-which-assessment-should-be-performed-immediately",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q14-after-a-limb-bandage-is-applied-the-patient-develops-new-pallor-and-tingling-distal-to-it-which-assessment-should-be-performed-immediately",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 15,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 92,
+      "mock_anchor": "q92-a-bedbound-patients-sacral-skin-is-intact-but-nonblanchable-discoloration-has-appeared-which-plan-is-best",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q15-a-bedbound-patients-sacral-skin-is-intact-but-nonblanchable-discoloration-has-appeared-which-plan-is-best",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 16,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-04-120.md",
+      "mock_question": 79,
+      "mock_anchor": "q79-a-patient-returns-from-a-procedure-with-new-oxygen-requirements-and-a-pending-urgent-laboratory-test-what-is-the-safest-nursing-action",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q16-a-patient-returns-from-a-procedure-with-new-oxygen-requirements-and-a-pending-urgent-laboratory-test-what-is-the-safest-nursing-action",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 17,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 111,
+      "mock_anchor": "q111-a-nurse-discovers-that-a-patient-received-twice-the-prescribed-dose-of-a-high-alert-drug-what-comes-first",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q17-a-nurse-discovers-that-a-patient-received-twice-the-prescribed-dose-of-a-high-alert-drug-what-comes-first",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 18,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 31,
+      "mock_anchor": "q31-which-task-is-most-appropriate-to-delegate-to-a-trained-assistant-for-a-stable-patient-when-permitted-by-policy",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q18-which-task-is-most-appropriate-to-delegate-to-a-trained-assistant-for-a-stable-patient-when-permitted-by-policy",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 19,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 5,
+      "mock_anchor": "q5-two-urgent-tasks-compete-a-stable-patient-needs-scheduled-oral-medication-and-another-has-new-stridor-what-is-the-best-prioritization",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q19-two-urgent-tasks-compete-a-stable-patient-needs-scheduled-oral-medication-and-another-has-new-stridor-what-is-the-best-prioritization",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    },
+    {
+      "group": 30,
+      "bank_question": 20,
+      "bank_file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+      "mock_file": "Nursing-Foundations-Mock-05-120.md",
+      "mock_question": 100,
+      "mock_anchor": "q100-a-nurse-reassesses-an-intervention-and-finds-the-patient-has-deteriorated-rather-than-met-the-goal-which-approach-demonstrates-clinical-judgment",
+      "reciprocal_destination": "../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q20-a-nurse-reassesses-an-intervention-and-finds-the-patient-has-deteriorated-rather-than-met-the-goal-which-approach-demonstrates-clinical-judgment",
+      "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
+    }
+  ]
+,
+  "revalidation": {
+    "date": "2026-11-28",
+    "main_snapshot": "4b43260f8737d8b4c91c494243f483178b6f4b13",
+    "pr12_snapshot": "1e26eff6e61b567b9a2783e0f61e8655b33bc40c",
+    "pr8_observed_head": "c05cedba76c9193b5c55c24045ef03012cbcd6f9",
+    "job5_release": "88cb33c48de5c6f99627dd2549bf648aaf2bfd4d",
+    "job5_live_reviewed": 1864,
+    "job5_live_rationales": 7456,
+    "job5_staged_legacy": 100,
+    "job5_staged_rationales": 400,
+    "group30_draft_blob": "4984cfd178c2554d28511e4c6e237b6fe25f57f0",
+    "main_and_pr12_exact_identity_matches": 100,
+    "main_and_pr12_identity_failures": 0,
+    "main_bank_side_links": 100,
+    "main_new_reciprocal_links": 0,
+    "pr12_new_reciprocal_links": 0,
+    "bank_blobs": [
+      {
+        "file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+        "blob": "6656f946c44469dc76a62b0ffd75883f36d27148"
+      },
+      {
+        "file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+        "blob": "11935e80b3229d8e8d79e3b9ac977cfc4f16d7bc"
+      },
+      {
+        "file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+        "blob": "eb7c917489b43884c9b4f8fcfbf6df7ae1b6c56b"
+      },
+      {
+        "file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+        "blob": "34e7fb66b88b72a5313e9074c18fd7abe66557cd"
+      },
+      {
+        "file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+        "blob": "17a2429bb18b3ed3ff2a988e6186cd309c4a7b85"
+      }
+    ],
+    "main_mock_blobs": [
+      {
+        "file": "Nursing-Foundations-Mock-01-120.md",
+        "blob": "7109d02abed0cb2381367e5bdc14ba7732e9b417"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-02-120.md",
+        "blob": "88f4beb32dd7e959bd4d00f172b9af7020b2617c"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-03-120.md",
+        "blob": "76f768e2e5b14a0179d68a89b4991cfeb7219243"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-04-120.md",
+        "blob": "7a654a81fda00298cba6954fed4c4dc7a50cae5b"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-05-120.md",
+        "blob": "b909218a3ca6eef4921487aea0a7163b816e20de"
+      }
+    ],
+    "pr12_mock_blobs": [
+      {
+        "file": "Nursing-Foundations-Mock-01-120.md",
+        "blob": "9cb16146ac1750a5cd1dbab1d526993617a84d36"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-02-120.md",
+        "blob": "aedadb980c8ccb028821e52f3a52e3879ba18bda"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-03-120.md",
+        "blob": "fe1fc4849726bf8925315f0d11c27a52f0c7f196"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-04-120.md",
+        "blob": "0ed5e440b08d4c32b147ef0122d110b5e5d82686"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-05-120.md",
+        "blob": "3e0b49dc290a2d51fbe13fa7feb2b1865b8b3020"
+      }
+    ],
+    "integration_status": "STAGED ONLY — PR12 overlap remains; coordinate latest PR and Job5 staged rationales before writing shared mocks. Revalidate current blobs immediately before integration."
+  }
+}

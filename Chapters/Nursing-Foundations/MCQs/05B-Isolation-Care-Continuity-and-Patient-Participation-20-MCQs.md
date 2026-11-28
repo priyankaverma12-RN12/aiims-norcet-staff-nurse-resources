@@ -27,6 +27,8 @@ D. Remove contact precautions during the reassessment
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
+
 **YouTube MCQ practice: verification pending.**
 
 </details>
@@ -55,6 +57,10 @@ D. Arrange timely protected assistance and verify actual intake
 [Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
+
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
+
+[Digby et al., 2024 — exploratory isolation-care study](https://pubmed.ncbi.nlm.nih.gov/38887821/). Yeh chhoti research study patient comfort, communication aur unmet care needs ko samajhne mein madad karti hai, treatment guideline ya exam evidence nahi hai.
 
 **YouTube MCQ practice: verification pending.**
 
@@ -85,6 +91,8 @@ D. Stop repositioning until transmission risk resolves
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
+
 **YouTube MCQ practice: verification pending.**
 
 </details>
@@ -113,6 +121,10 @@ D. Wait for the next routine round
 [Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
+
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
+
+[Digby et al., 2024 — exploratory isolation-care study](https://pubmed.ncbi.nlm.nih.gov/38887821/). Yeh chhoti research study patient comfort, communication aur unmet care needs ko samajhne mein madad karti hai, treatment guideline ya exam evidence nahi hai.
 
 **YouTube MCQ practice: verification pending.**
 
@@ -143,6 +155,8 @@ D. Move the patient to a crowded communal space without reviewing risk
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
+
 **YouTube MCQ practice: verification pending.**
 
 </details>
@@ -171,6 +185,8 @@ D. Remove the mobility goal from the care plan
 [Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#essential-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
+
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
 
 **YouTube MCQ practice: verification pending.**
 
@@ -201,6 +217,8 @@ D. Continue routine care without explanation
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#psychosocial-and-accessible-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
+
 **YouTube MCQ practice: verification pending.**
 
 </details>
@@ -229,6 +247,8 @@ D. Explain the clinical reason for precautions and invite the patient to discuss
 [Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#psychosocial-and-accessible-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
+
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
 
 **YouTube MCQ practice: verification pending.**
 
@@ -259,6 +279,12 @@ D. End isolation without clinical review
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#psychosocial-and-accessible-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
+
+[Digby et al., 2024 — exploratory isolation-care study](https://pubmed.ncbi.nlm.nih.gov/38887821/). Yeh chhoti research study patient comfort, communication aur unmet care needs ko samajhne mein madad karti hai, treatment guideline ya exam evidence nahi hai.
+
+[CDC — MDRO guidance, impact of Contact Precautions on patient well-being](https://www.cdc.gov/infection-control/hcp/mdro-management/prevention-control.html). Is section mein limited studies ke basis par anxiety aur depression jaise possible effects discuss kiye gaye hain. Har isolated patient ko depression hai, aisa assume nahi karna chahiye.
+
 **YouTube MCQ practice: verification pending.**
 
 </details>
@@ -287,6 +313,10 @@ D. Advise the patient to avoid all social contact until discharge
 [Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#psychosocial-and-accessible-care) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
+
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
+
+[Digby et al., 2024 — exploratory isolation-care study](https://pubmed.ncbi.nlm.nih.gov/38887821/). Yeh chhoti research study patient comfort, communication aur unmet care needs ko samajhne mein madad karti hai, treatment guideline ya exam evidence nahi hai.
 
 **YouTube MCQ practice: verification pending.**
 
@@ -556,6 +586,12 @@ D. Measure only the number of gowns used
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#quality-evaluation) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
 
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
+
+[Digby et al., 2024 — exploratory isolation-care study](https://pubmed.ncbi.nlm.nih.gov/38887821/). Yeh chhoti research study patient comfort, communication aur unmet care needs ko samajhne mein madad karti hai, treatment guideline ya exam evidence nahi hai.
+
+[CDC — MDRO guidance, impact of Contact Precautions on patient care](https://www.cdc.gov/infection-control/hcp/mdro-management/prevention-control.html). Review mein kuch settings mein kam clinical contact aur preventable adverse events report hue the. Isliye ward ke actual care delays ko measure aur address karna important hai.
+
 **YouTube MCQ practice: verification pending.**
 
 </details>
@@ -584,6 +620,12 @@ D. The absence of any visitor regardless of patient preference
 [Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#quality-evaluation) · [Clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK610837/)
+
+[CDC — isolation-related adverse effects and continuity of care](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html). Part III.B mein isolation ke saath patient ki care aur emotional needs par dhyan dene ki guidance hai.
+
+[Digby et al., 2024 — exploratory isolation-care study](https://pubmed.ncbi.nlm.nih.gov/38887821/). Yeh chhoti research study patient comfort, communication aur unmet care needs ko samajhne mein madad karti hai, treatment guideline ya exam evidence nahi hai.
+
+[CDC — MDRO guidance, impact of Contact Precautions on patient care and well-being](https://www.cdc.gov/infection-control/hcp/mdro-management/prevention-control.html). Infection prevention ke saath possible care-related harm ko bhi rokna zaroori hai. Ye evidence universal risk estimate nahi deta.
 
 **YouTube MCQ practice: verification pending.**
 
@@ -620,7 +662,7 @@ D. Send the used plates home unwashed
 
 ### Q22. A patient on Droplet Precautions needs urgent diagnostic transport but cannot tolerate a mask because of respiratory distress. Which nursing decision is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **🟣 [RRB JPR Staff Nurse 6 Jun 2018 — related reported concept](https://testbook.com/question-answer/droplet-precautions-require--61a0ce41a8580d61bed188a7)**
 
 A. Delay urgent evaluation until the patient can tolerate the mask
 B. Force the mask tightly onto the patient
@@ -642,6 +684,8 @@ D. Remove all precautions during transport
 [Additional clinical reference](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
+
+**Historical evidence limitation:** Is third-party report mein droplet precautions ke mask use par sawal tha. Hamara original sawal breathing distress ke saath urgent transport par hai. Purane three-feet rule ko aaj ka universal rule mat samjho. Current guidance, patient ki respiratory safety aur facility protocol follow karo. Official key independently authenticate nahi hui hai.
 
 **YouTube MCQ practice: verification pending.**
 
@@ -853,6 +897,8 @@ D. Ask the patient to perform all exercises alone despite needing assistance
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
 
+[CDC — task-specific training and documented competency, II.A](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
+
 **YouTube MCQ practice: verification pending.**
 
 </details>
@@ -881,6 +927,8 @@ D. Omit the hearing assessment without informing the patient
 [Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
+
+[CDC — reusable equipment reprocessing policy, I.B.9 and IV.E](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 **YouTube MCQ practice: verification pending.**
 

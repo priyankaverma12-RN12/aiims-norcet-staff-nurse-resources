@@ -4,7 +4,7 @@
 
 ### Q1. A peripheral IV site becomes swollen, cool and pale during infusion of a nonvesicant fluid. Which complication is most likely?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 AIIMS Bhatinda Nursing Officer 29 September 2019 — related tested concept only](https://testbook.com/question-answer/which-assessment-finding-would-lead-the-nurse-to-s--61766870613e4705166811dc)**
 
 - **A.** Infiltration
 - **B.** Phlebitis with classic warmth and erythema
@@ -32,11 +32,13 @@ Nonvesicant IV fluid vein se surrounding tissue mein leak ho toh infiltration ke
 **▶️ [IV therapy exam practice — Open Exam Prep](https://www.youtube.com/watch?v=EYZr_4lXdbk)** — indexed description explicitly covers infiltration versus phlebitis and initial actions. Exact item and playback pending.
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 01, Q3](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q3-a-peripheral-iv-site-becomes-swollen-cool-and-pale-during-infusion-of-a-nonvesicant-fluid-which-complication-is-most-likely)
+
 </details>
 
 ### Q2. A vesicant infusion leaks into surrounding tissue. Which first response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Flush the line forcefully to disperse the vesicant
 - **B.** Continue the infusion at a lower rate
@@ -64,11 +66,13 @@ Vesicant tissue necrosis ya blistering cause kar sakta hai. Infusion immediately
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 01, Q113](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q113-a-vesicant-infusion-leaks-into-surrounding-tissue-which-first-response-is-appropriate)
+
 </details>
 
 ### Q3. Which finding is characteristic of peripheral IV phlebitis?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 ESIC Staff Nurse 26 February 2019 Shift III — related tested concept only](https://testbook.com/question-answer/patient-complains-of-pain-and-has-redness-with-swe--619ce31a248341eb1e6ab242)**
 
 - **A.** An intact site without symptoms
 - **B.** A normal oral temperature alone
@@ -96,11 +100,13 @@ Mechanical, chemical ya infectious irritation vein wall inflammation cause kar s
 **▶️ [IV therapy exam practice — Open Exam Prep](https://www.youtube.com/watch?v=EYZr_4lXdbk)** — indexed description explicitly covers infiltration versus phlebitis and initial actions. Exact item and playback pending.
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 01, Q74](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q74-which-finding-is-characteristic-of-peripheral-iv-phlebitis)
+
 </details>
 
 ### Q4. A nurse meets unexpected resistance while flushing a peripheral cannula. What should happen next?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Use a sharp instrument to clear the catheter
 - **B.** Stop and assess for obstruction, position and infiltration according to protocol
@@ -128,11 +134,13 @@ Resistance kink, closed clamp, catheter displacement ya occlusion ka clue ho sak
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 01, Q25](../Mock-Tests/Nursing-Foundations-Mock-01-120.md#q25-a-nurse-meets-unexpected-resistance-while-flushing-a-peripheral-cannula-what-should-happen-next)
+
 </details>
 
 ### Q5. Which solution is commonly used for routine compatible peripheral IV flushing when prescribed and appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Undiluted antiseptic solution
 - **B.** Sterile 0.9% sodium chloride
@@ -160,11 +168,13 @@ Sterile normal saline suitable compatible peripheral access ke routine flushing 
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 02, Q83](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q83-which-solution-is-commonly-used-for-routine-compatible-peripheral-iv-flushing-when-prescribed-and-appropriate)
+
 </details>
 
 ### Q6. An IV dressing is damp and loose. What is the appropriate nursing action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Assess the site and replace the dressing aseptically according to protocol
 - **B.** Reinforce it indefinitely without inspecting the site
@@ -192,11 +202,13 @@ Loose damp dressing barrier aur securement compromise karti hai. Hand hygiene ke
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 02, Q4](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q4-an-iv-dressing-is-damp-and-loose-what-is-the-appropriate-nursing-action)
+
 </details>
 
 ### Q7. Before accessing a needleless IV connector, which action reduces infection risk?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Touch the connector opening with bare fingers
 - **B.** Rinse it with tap water
@@ -224,11 +236,13 @@ Connector surface organisms carry kar sakta hai. Hand hygiene, approved antisept
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 02, Q16](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q16-before-accessing-a-needleless-iv-connector-which-action-reduces-infection-risk)
+
 </details>
 
 ### Q8. Two IV medicines are ordered through the same lumen and compatibility is unknown. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Assume no interaction if the doses are small
 - **B.** Use the mixture even if a precipitate appears
@@ -256,11 +270,13 @@ Physical precipitate ke alawa invisible degradation ya potency loss possible hai
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 02, Q120](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q120-two-iv-medicines-are-ordered-through-the-same-lumen-and-compatibility-is-unknown-what-should-the-nurse-do)
+
 </details>
 
 ### Q9. An older patient develops new crackles, breathlessness and worsening oxygenation during rapid IV fluid administration. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Ask the patient to drink extra fluid before assessment
 - **B.** Ignore the symptoms until the bag is empty
@@ -288,11 +304,13 @@ Rapid fluids ke baad crackles, dyspnea aur low saturation pulmonary congestion s
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 03, Q96](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q96-an-older-patient-develops-new-crackles-breathlessness-and-worsening-oxygenation-during-rapid-iv-fluid-administration-which-action-is-appropriate)
+
 </details>
 
 ### Q10. Which device delivers a prescribed IV volume at a controlled programmed rate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Incentive spirometer
 - **B.** Infusion pump
@@ -320,11 +338,13 @@ Infusion pump programmed volume/time control karta hai. Example: 500 mL/4 h = 12
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 03, Q22](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q22-which-device-delivers-a-prescribed-iv-volume-at-a-controlled-programmed-rate)
+
 </details>
 
 ### Q11. A central-line dressing is removed for a planned change. Which measure is especially important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Maintain aseptic technique and use the indicated sterile dressing and skin preparation
 - **B.** Leave the insertion site exposed throughout the shift
@@ -352,11 +372,13 @@ Central catheter bloodstream infection ka route ban sakta hai. Hand hygiene, ase
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 03, Q66](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q66-a-central-line-dressing-is-removed-for-a-planned-change-which-measure-is-especially-important)
+
 </details>
 
 ### Q12. A patient develops sudden dyspnea and hypotension during manipulation of a central venous line. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Leave the catheter open to atmosphere
 - **B.** Ask the patient to walk to the treatment room
@@ -384,11 +406,13 @@ Sudden dyspnea aur hypotension central-line manipulation ke waqt venous air embo
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 03, Q12](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q12-a-patient-develops-sudden-dyspnea-and-hypotension-during-manipulation-of-a-central-venous-line-which-response-is-appropriate)
+
 </details>
 
 ### Q13. Which site characteristic is most important when selecting a peripheral IV vein?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** A vein directly through infected skin whenever possible
 - **B.** The most bruised site regardless of condition
@@ -416,11 +440,13 @@ Vein condition, skin integrity, therapy properties, duration, patient preference
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 04, Q23](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q23-which-site-characteristic-is-most-important-when-selecting-a-peripheral-iv-vein)
+
 </details>
 
 ### Q14. A patient has persistent bleeding at a peripheral IV removal site while receiving anticoagulation. Which immediate action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Leave the site uncovered without pressure
 - **B.** Apply an excessively tight circumferential band indefinitely
@@ -448,11 +474,13 @@ Anticoagulation clot formation affect karti hai. Appropriate direct pressure pun
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 04, Q105](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q105-a-patient-has-persistent-bleeding-at-a-peripheral-iv-removal-site-while-receiving-anticoagulation-which-immediate-action-is-appropriate)
+
 </details>
 
 ### Q15. Which observation should prompt assessment of possible IV line dislodgement?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** A patient requesting a meal
 - **B.** New leakage around the insertion site and changed external catheter position
@@ -480,11 +508,13 @@ New leakage aur external catheter position change displacement ya access failure
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 04, Q19](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q19-which-observation-should-prompt-assessment-of-possible-iv-line-dislodgement)
+
 </details>
 
 ### Q16. A nurse is preparing to administer a drug that requires a specific IV infusion duration. Which check is essential?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Verify the manufacturer's or pharmacy-approved concentration, rate and administration instructions
 - **B.** Give every IV drug as a rapid bolus
@@ -512,11 +542,13 @@ IV drug concentration, dilution, duration aur monitoring drug-specific hote hain
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 04, Q74](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q74-a-nurse-is-preparing-to-administer-a-drug-that-requires-a-specific-iv-infusion-duration-which-check-is-essential)
+
 </details>
 
 ### Q17. What should the nurse document after peripheral IV insertion?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
 
 - **A.** Site, catheter details, time, relevant assessment and patient response according to policy
 - **B.** Only the color of the dressing
@@ -544,11 +576,13 @@ Documentation future assessment aur traceability support karti hai. Site/lateral
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 05, Q114](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q114-what-should-the-nurse-document-after-peripheral-iv-insertion)
+
 </details>
 
 ### Q18. Which principle guides the ongoing need for an invasive vascular catheter?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Keep every catheter until hospital discharge regardless of need
 - **B.** Replace a working catheter solely because a patient asks for a different color
@@ -576,11 +610,13 @@ Unnecessary invasive access infection, thrombosis aur device complications ka ex
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 05, Q14](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q14-which-principle-guides-the-ongoing-need-for-an-invasive-vascular-catheter)
+
 </details>
 
 ### Q19. A patient receiving a blood product through an IV develops chills, dyspnea and back pain. Which immediate nursing response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 AIIMS NORCET 9 Mains 27 September 2025 — related tested concept only](https://testbook.com/question-answer/during-a-blood-transfusion-a-patient-suddenly-dev--692ee9e35f2b488969718e97)**
 
 - **A.** Discard the bag and tubing before notifying anyone
 - **B.** Give the next blood unit without investigation
@@ -605,14 +641,16 @@ Chills, dyspnea aur back pain serious transfusion reaction suggest karte hain. T
 
 [Clinical reference](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/management-of-suspected-reactions)
 
-**YouTube MCQ practice: specific verification pending.**
+**▶️ [YouTube MCQ practice — transfusion reaction priorities, Nursing Wallah by PW](https://www.youtube.com/watch?v=RpMSsU42K4o&t=1070s)** · Published 18 March 2026. Published chapter 17:50 in the MCQ countdown session covers reaction priorities. Topic-level only, exact question and playback not verified.
 <!-- /job5-rationale -->
+
+[Legacy revision practice: Mock 05, Q120](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q120-a-patient-receiving-a-blood-product-through-an-iv-develops-chills-dyspnea-and-back-pain-which-immediate-nursing-response-is-appropriate)
 
 </details>
 
 ### Q20. Before starting an ordered IV infusion after transfer, the pump displays a different rate from the current prescription. Which action is correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
 
 - **A.** Program a faster rate to make up for lost time
 - **B.** Reconcile the order and pump settings before continuing and assess the patient's condition
@@ -640,9 +678,20 @@ Transfer par previous setting current order se mismatch ho sakti hai. Patient co
 **YouTube MCQ practice: specific verification pending.**
 <!-- /job5-rationale -->
 
+[Legacy revision practice: Mock 05, Q103](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q103-before-starting-an-ordered-iv-infusion-after-transfer-the-pump-displays-a-different-rate-from-the-current-prescription-which-action-is-correct)
+
 </details>
 
 ## Study references
 [INC curriculum](https://apnc.nic.in/pdf/syllabus/BSc%20nursing%20syllabus%20%281%29.pdf) · [OpenStax Clinical Nursing Skills](https://openstax.org/books/clinical-nursing-skills/pages/index) · [OpenStax medication administration](https://openstax.org/books/fundamentals-nursing/pages/11-3-the-medication-administration-process) · [CDC CAUTI recommendations](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html)
 
 Follow facility protocols, current orders and professional scope.
+
+
+## 📜 Historical evidence and practice recheck — 27 November 2026
+
+- Q1: AIIMS Bhatinda 29 September 2019 memory-based report directly retrieved, related infiltration findings. Its compress advice is not a universal treatment rule. Follow the infusate-specific protocol.
+- Q3: ESIC 26 February 2019 Shift III third-party report directly retrieved, related painful inflamed IV site management. Local inflammation does not by itself prove thrombosis. The source's fixed 72-hour replacement statement is not a universal current recommendation. [WHO peripheral catheter guidance](https://www.who.int/publications/i/item/9789240093829) and [CDC catheter recommendations](https://www.cdc.gov/infection-control/hcp/intravascular-catheter-related-infections/summary-recommendations.html) are current reference leads.
+- Q19: NORCET 9 Mains 27 September 2025 memory-based report directly retrieved, related stop-transfusion priority. Follow [Lifeblood suspected reaction guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/management-of-suspected-reactions) and local policy for maintaining IV access without flushing the implicated blood tubing.
+- NORCET 2022 phlebitis and NORCET 6 extravasation-related report direct retrieval failed. HPRCA 20 March 2026 third-party response-sheet transcript searches for cannula and transfusion yielded no match. No official historical paper or key authenticated and no new adaptation counted.
+- Q1 and Q3 retain earlier qualified topic-level practice links. Q19 has a new published chapter marker. The Nursing Wallah countdown chapter 01:36:03 also compares infiltration and thrombophlebitis, but its dextrose extravasation terminology should not be treated as universal for vesicants. Q2 and the remaining 16 scenario-specific practice gaps remain pending. Exact playback and transcripts not verified.

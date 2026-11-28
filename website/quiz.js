@@ -35,52 +35,173 @@ function validateAttempt(saved,items){
  for(const [id,a] of Object.entries(saved.selected)){if(!allowed.has(id)||!['A','B','C','D'].includes(a))return null;selected[id]=a}
  return {...saved,selected};
 }
+function resultMetrics(items,selected,penalty){
+ const s=scoreBank(items,selected,penalty),answered=s.correct+s.wrong;
+ return {...s,answered,percentage:s.total?100*s.score/s.total:0,accuracy:answered?100*s.correct/answered:null};
+}
+
+function performanceFeedback(percent){
+ if(percent===100)return {level:'perfect',greeting:'Hurrah! Perfect score!',advice:'You answered every question correctly. Keep this knowledge fresh with revision or move on to the next topic.',celebrate:true,symbol:'★'};
+ if(percent>=80)return {level:'strong',greeting:'Excellent work!',advice:'You did very well on these questions. Review the ones you missed, then keep learning.',celebrate:true,symbol:'✓'};
+ if(percent>=60)return {level:'good',greeting:'Well done! Keep improving.',advice:'You are making good progress. Review your incorrect answers and try another short practice session.',celebrate:false,symbol:'✓'};
+ if(percent>=40)return {level:'developing',greeting:'Good effort — more practice will help.',advice:'Revisit the concepts behind your incorrect answers, then practise those questions again.',celebrate:false,symbol:'↻'};
+ return {level:'review',greeting:'Keep going — this topic needs more practice.',advice:'Read the topic notes, review each missed explanation, and try the questions again. Aim to improve your next score.',celebrate:false,symbol:'↻'};
+}
+
+// Bounded decorative reward. No audio, input interception or saved-state changes.
+function addStudyCelebration(host,animate=true){
+ if(!host||host.querySelector('.study-celebration'))return;
+ const icon=document.createElement('span');icon.className='study-celebration';icon.setAttribute('aria-hidden','true');icon.textContent='🎉';host.append(icon);
+ if(!animate||matchMedia('(prefers-reduced-motion: reduce)').matches)return;
+ const burst=document.createElement('span');burst.className='study-confetti';burst.setAttribute('aria-hidden','true');
+ for(let i=0;i<12;i++){const part=document.createElement('i'),angle=i*Math.PI/6;part.style.setProperty('--dx',Math.round(Math.cos(angle)*100)+'px');part.style.setProperty('--dy',Math.round(Math.sin(angle)*68)+'px');part.style.setProperty('--spin',(i%2?1:-1)*150+'deg');part.style.setProperty('--piece-color',['#f6c453','#78c9ac','#ec8c9e','#89b5fa'][i%4]);if(i%4===0){part.className='confetti-star';part.textContent='✦'}burst.append(part)}
+ host.append(burst);burst.addEventListener('animationend',()=>burst.remove(),{once:true});
+}
+function answerStatus(q,selected){return !selected[q.id]?'skipped':selected[q.id]===q.key?'correct':'incorrect'}
 function mountQuiz(md,path,content,render,route){
  const bank=parseBank(md);if(!bank.total)return;
- const el=(tag,txt)=>{const n=document.createElement(tag);if(txt!==undefined)n.textContent=txt;return n};
- const btn=(label,fn)=>{const b=el('button',label);b.type='button';b.onclick=fn;return b};
- const root=el('section');root.className='quiz-panel';content.before(root);
- const title=el('h2','Interactive practice');root.append(title);
- const info=el('p',bank.items.length+' scoreable questions out of '+bank.total+' detected numbered headings. '+(bank.rejected.length?'Unsupported headings: '+bank.rejected.join(', ')+'. Use original reading mode for these.':'All detected numbered headings parsed.'));
- root.append(info);if(!bank.items.length)return;
- root.append(el('p','Custom practice only. Original source remains available for shared diagrams, notes and unsupported questions. Scores use the published key, not an independent clinical revalidation.'));
+ const el=(tag,txt,cls)=>{const n=document.createElement(tag);if(txt!==undefined)n.textContent=txt;if(cls)n.className=cls;return n};
+ const btn=(label,fn,cls)=>{const b=el('button',label,cls);b.type='button';b.onclick=fn;
+  const icon=/^(?:Start timed|Resume saved attempt)/.test(label)?'timer':/^(?:Learn with|Quick 5|Continue remaining)/.test(label)?'book':/^(?:Check answer|Submit)/.test(label)?'check':/^(?:Review|Practise mistakes|Revise|Try again)/.test(label)?'review':'';
+  if(icon)b.dataset.uiIcon=icon;return b};
+ const root=el('section',undefined,'quiz-panel');root.id='practice';content.before(root);
+ const intro=el('div',undefined,'practice-intro');intro.append(el('p','STUDY • PRACTISE • REVIEW','kicker'),el('h2','Interactive practice'));
+ const info=el('p',bank.items.length+' questions available for practice. '+(bank.rejected.length?'Some questions can only be read in the original notes.':'Choose a study mode below.'),'muted');intro.append(el('p',typeof knownTitle==='function'?knownTitle(path):'', 'practice-topic'),info);root.append(intro);
+ if(!bank.items.length)return;
+ const description=el('p','Choose a study mode. Learn with instant explanations or take a timed test with answers hidden until submission.','muted');intro.append(description);const tips=el('div',undefined,'study-mode-guide');for(const [label,detail] of [['Quick practice','5 questions · no timer'],['Learning','Check answers and learn as you go'],['Timed practice','Test yourself before seeing answers']]){const item=el('div');item.append(el('strong',label),el('small',detail));tips.append(item)}intro.append(tips);
+ const config=el('div',undefined,'quiz-config');
  const minutes=el('input');minutes.type='number';minutes.min='1';minutes.max='300';minutes.value=String(Number(md.match(/(?:Suggested time|Time limit)\s*:\s*(\d+)\s*minutes/i)?.[1]||Math.min(bank.items.length,135)));
- const timeLabel=el('label','Timer minutes (custom practice) ');timeLabel.append(minutes);
- const neg=el('input');neg.type='checkbox';neg.checked=/[−–-]\s*1\s*\/\s*3/.test(md);const negLabel=el('label',' Deduct ⅓ for incorrect answers');negLabel.prepend(neg);
- const config=el('div');config.className='quiz-config';config.append(timeLabel,negLabel);root.append(config);
- const state=el('p');state.setAttribute('role','status');root.append(state);
- const body=el('div');root.append(body);
- const controls=el('div');controls.className='quiz-controls';root.append(controls);
- let selected={},started=false,finished=false,timer=null,deadline=0,penalty=0,at=0;
+ const timeLabel=el('label','Timer minutes ');timeLabel.append(minutes);
+ const neg=el('input');neg.type='checkbox';neg.checked=/[−–-]\s*1\s*\/\s*3/.test(md);const negLabel=el('label',' Deduct ⅓ for incorrect answers');negLabel.prepend(neg);config.append(timeLabel,negLabel);root.append(config);
+ const actions=el('div',undefined,'practice-start-actions');root.append(actions);
+ const state=el('p');state.setAttribute('role','status');state.setAttribute('aria-live','off');root.append(state);
+ const body=el('div',undefined,'practice-body');root.append(body);
+ const controls=el('div',undefined,'quiz-controls');root.append(controls);
+ let selected={},started=false,finished=false,timer=null,deadline=0,penalty=0,at=0,reviewFilter='all',reviewPage=0,submitReason='submitted',palette=null,progress=null,milestone=null,highestMilestone=0;
  const attemptKey='nursing-attempt-v1:'+path;
- function persist(){try{localStorage.setItem(attemptKey,JSON.stringify({signature:bankSignature(bank.items),selected,finished,deadline,penalty,at}))}catch{}}
- function clearSaved(){try{localStorage.removeItem(attemptKey)}catch{}}
+ const signature=bankSignature(bank.items);
+ if(typeof attachBankProgress==='function')attachBankProgress(root,path);
+ function persist(){try{localStorage.setItem(attemptKey,JSON.stringify({signature,selected,finished,deadline,penalty,at,submitReason}));return true}catch{return false}}
  function getSaved(){try{return validateAttempt(JSON.parse(localStorage.getItem(attemptKey)||'null'),bank.items)}catch{return null}}
+ function clearSaved(){try{localStorage.removeItem(attemptKey)}catch{}}
  function loadMarks(){try{const v=JSON.parse(localStorage.getItem('nursing-marks-v1')||'[]');return Array.isArray(v)?v.filter(m=>m&&typeof m.path==='string'&&typeof m.stem==='string'):[]}catch{return []}}
- function toggleMark(q,b){let marks=loadMarks();const exists=marks.some(m=>m.path===path&&m.stem===q.stem);marks=exists?marks.filter(m=>!(m.path===path&&m.stem===q.stem)):[...marks,{path,stem:q.stem}];try{localStorage.setItem('nursing-marks-v1',JSON.stringify(marks));b.textContent=exists?'☆ Bookmark':'★ Bookmarked'}catch{state.textContent='Bookmark storage unavailable.'}}
- function finish(){if(!started||finished)return;finished=true;clearInterval(timer);persist();const s=scoreBank(bank.items,selected,penalty);state.textContent='Result: '+s.correct+' correct · '+s.wrong+' incorrect · '+s.skipped+' skipped · Score '+s.score.toFixed(2)+' / '+s.total;draw()}
- function tick(){const remain=Math.max(0,Math.ceil((deadline-Date.now())/1000));const status='Time remaining: '+Math.floor(remain/60)+':'+String(remain%60).padStart(2,'0')+' · '+Object.keys(selected).length+'/'+bank.items.length+' answered';if(state.textContent!==status)state.textContent=status;if(!remain)finish()}
- function draw(){body.replaceChildren();controls.replaceChildren();if(!started)return;persist();const q=bank.items[at];const h=el('h3','Question '+(at+1)+' / '+bank.items.length);body.append(h);const mark=btn(loadMarks().some(m=>m.path===path&&m.stem===q.stem)?'★ Bookmarked':'☆ Bookmark',()=>toggleMark(q,mark));body.append(mark);
- const stem=el('div');render(stem,q.stem+'\n\n'+q.extra,path);body.append(stem);
- const field=el('fieldset');field.append(el('legend','Select one answer'));
- for(let i=0;i<4;i++){const letter='ABCD'[i],label=el('label');label.className='quiz-option';const input=el('input');input.type='radio';input.name='quiz-choice';input.value=letter;input.checked=selected[q.id]===letter;input.disabled=finished;input.onchange=()=>{selected[q.id]=letter;persist();tick()};const text=el('div');render(text,letter+'. '+q.options[i],path);label.append(input,text);if(finished&&letter===q.key)label.classList.add('correct-choice');if(finished&&selected[q.id]===letter&&letter!==q.key)label.classList.add('wrong-choice');field.append(label)}body.append(field);
- if(finished){const d=el('details');d.append(el('summary','Answer and original explanation'));const ex=el('div');render(ex,q.explanation,path);d.append(ex);body.append(d)}
- const prev=btn('← Previous',()=>{at--;draw()});prev.disabled=at===0;const next=btn('Next →',()=>{at++;draw()});next.disabled=at===bank.items.length-1;const jump=el('select');jump.setAttribute('aria-label','Jump to question');bank.items.forEach((x,i)=>{const op=el('option',(i+1)+ (selected[x.id]?' ✓':''));op.value=String(i);op.selected=i===at;jump.append(op)});jump.onchange=()=>{at=Number(jump.value);draw()};controls.append(prev,jump,next);
- if(!finished){controls.append(btn('Clear answer',()=>{delete selected[q.id];draw();tick()}),btn('Submit test',()=>{if(confirm('Submit this attempt?'))finish()}))}
- controls.append(btn('Exit to original reading',()=>{if(!finished&&!confirm('Discard this attempt?'))return;clearInterval(timer);clearSaved();started=false;finished=false;selected={};at=0;body.replaceChildren();controls.replaceChildren();state.textContent='';config.hidden=false;start.hidden=false;content.hidden=false}));
+ function toggleMark(q,b){let marks=loadMarks();const exists=marks.some(m=>m.path===path&&m.stem===q.stem);marks=exists?marks.filter(m=>!(m.path===path&&m.stem===q.stem)):[...marks,{path,stem:q.stem}];try{localStorage.setItem('nursing-marks-v1',JSON.stringify(marks));b.textContent=exists?'☆ Bookmark':'★ Bookmarked';b.setAttribute('aria-pressed',String(!exists));document.dispatchEvent(new CustomEvent('study-bookmarks-change'))}catch{b.textContent='Bookmark unavailable'}}
+ function markButton(q){const saved=loadMarks().some(m=>m.path===path&&m.stem===q.stem);const b=btn(saved?'★ Bookmarked':'☆ Bookmark',()=>toggleMark(q,b));b.setAttribute('aria-pressed',String(saved));b.dataset.bookmarkStem=q.stem;return b}
+ function setView(view){root.dataset.view=view;const locationText=document.getElementById('reading-position');if(locationText)locationText.textContent=view==='results'?'Test results & answer review':view==='practice'?(root.dataset.learning==='true'?'Learning mode':'Interactive practice'):'Document introduction';const u=new URL(location.href);if(view==='results')u.searchParams.set('view','results');else u.searchParams.delete('view');if(view!=='setup')u.hash='';u.searchParams.delete('session');history.replaceState(history.state,'',u.href)}
+ function focusHeading(h){h.tabIndex=-1;h.focus({preventScroll:true});h.scrollIntoView({block:'start',behavior:'instant'})}
+ function stopTimer(){clearInterval(timer);timer=null}
+ function showSetup(){delete root.dataset.learning;stopTimer();started=false;finished=false;selected={};at=0;body.replaceChildren();controls.replaceChildren();state.textContent='';state.classList.remove('result-announcement');state.setAttribute('aria-live','off');intro.hidden=false;config.hidden=false;actions.hidden=false;content.hidden=false;setView('setup');drawStartActions()}
+ function showResults(reason='submitted',focus=true,celebrate=false){
+  stopTimer();for(const dialog of root.querySelectorAll('dialog[open]'))dialog.close();started=true;finished=true;submitReason=reason;intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;body.replaceChildren();controls.replaceChildren();setView('results');
+  const s=resultMetrics(bank.items,selected,penalty);const saved=persist();const daily=celebrate&&typeof recordRoutine==='function'?recordRoutine(path,bank.items,selected):null;
+  state.textContent='Result: '+s.correct+' correct · '+s.wrong+' incorrect · '+s.skipped+' skipped · Score '+s.score.toFixed(2)+' / '+s.total;
+  state.classList.add('result-announcement');state.setAttribute('aria-live','polite');
+  const hero=el('div',undefined,'result-hero'),copy=el('div',undefined,'result-copy'),check=el('span','✓','result-check');check.setAttribute('aria-hidden','true');copy.append(check,el('p','ATTEMPT COMPLETE','result-kicker'));
+  const feedback=performanceFeedback(s.percentage);hero.dataset.performance=feedback.level;check.textContent=feedback.symbol;
+  const h=el('h2',feedback.greeting,'result-heading');if(celebrate&&feedback.celebrate)hero.classList.add('result-celebration');copy.append(h,el('p',(reason==='expired'?'Time is up. Your answers have been submitted. ':'')+feedback.advice));
+  const metric=el('div',undefined,'result-score');metric.append(el('span','YOUR SCORE'),el('strong',s.score.toFixed(2)+' / '+s.total),el('span',s.percentage.toFixed(1)+'% of available marks'));hero.append(copy,metric);if(feedback.celebrate)addStudyCelebration(hero,celebrate);body.append(hero);if(daily?.saved&&daily.changed){const note=el('p',daily.after>=daily.goal?daily.after+' MCQs studied today — goal complete!':daily.after+' / '+daily.goal+' MCQs studied today.','daily-result-note');if(daily.after>=daily.goal)addStudyCelebration(note,daily.before<daily.goal);if(daily.before<daily.goal&&daily.after>=daily.goal)note.classList.add('celebrate-once');body.append(note)}else if(daily&&!daily.saved)body.append(el('p','Your browser could not save daily progress. Your results are still shown.','load-error'));
+  const stats=el('div',undefined,'result-stats');
+  for(const [label,value,cls] of [['Correct',s.correct,'is-correct'],['Incorrect',s.wrong,'is-incorrect'],['Unanswered',s.skipped,'is-skipped'],['Accuracy',s.accuracy===null?'—':s.accuracy.toFixed(1)+'%','']]){const card=el('div',undefined,'result-stat '+cls);card.append(el('span',label),el('strong',String(value)));stats.append(card)}body.append(stats);
+  const bar=el('div',undefined,'result-distribution');bar.setAttribute('role','img');bar.setAttribute('aria-label',s.correct+' correct, '+s.wrong+' incorrect, '+s.skipped+' unanswered');for(const [n,cls] of [[s.correct,'dist-correct'],[s.wrong,'dist-incorrect'],[s.skipped,'dist-skipped']]){const segment=el('span',undefined,cls);segment.style.flex=String(n);bar.append(segment)}body.append(bar);
+  body.append(el('p','Marks: +1 per correct answer, '+(penalty?'−⅓ per incorrect answer':'no deduction for incorrect answers')+', 0 for unanswered. Percentage uses net marks divided by total questions; accuracy uses correct answers divided by attempted questions.','result-note'));
+  if(!saved)body.append(el('p','Your result is available on this screen, but browser storage is unavailable. Refreshing may lose the attempt.','load-error'));
+  const commands=el('div',undefined,'result-actions');const reviewButton=btn('Review my answers ↓',()=>focusHeading(reviewHeading),'primary-action');const retake=btn('Try again',()=>{if(confirm('Start a new attempt? This replaces the saved result for this question bank.')){clearSaved();showSetup();focusHeading(intro.querySelector('h2'))}});const readButton=btn('Back to study material',()=>{showSetup();focusHeading(content.querySelector('h1')||content)});commands.append(reviewButton);const missed=bank.items.filter(q=>answerStatus(q,selected)==='incorrect');if(missed.length)commands.append(btn('Practise mistakes ('+missed.length+')',()=>startLearning('mistakes',missed)));commands.append(retake,readButton);body.append(commands);
+  const review=el('section',undefined,'answer-review');const reviewHeading=el('h2','Review your answers');review.append(reviewHeading,el('p','Compare your selection with the published answer. Every explanation below is taken directly from the original GitHub question bank.','muted'));
+  const filters=el('div',undefined,'review-filters');filters.setAttribute('aria-label','Filter answer review');const list=el('div',undefined,'review-list');const nav=el('div',undefined,'review-pagination');review.append(filters,list,nav);body.append(review);
+  const perPage=8;reviewFilter='all';reviewPage=0;
+  function drawReview(focusList=false){
+   filters.replaceChildren();list.replaceChildren();nav.replaceChildren();
+   for(const [id,label,n] of [['all','All',s.total],['correct','Correct',s.correct],['incorrect','Incorrect',s.wrong],['skipped','Unanswered',s.skipped]]){const b=btn(label+' ('+n+')',()=>{reviewFilter=id;reviewPage=0;drawReview(true)},'review-filter');b.setAttribute('aria-pressed',String(reviewFilter===id));filters.append(b)}
+   const matches=bank.items.map((q,i)=>({q,i})).filter(({q})=>reviewFilter==='all'||answerStatus(q,selected)===reviewFilter);const pages=Math.max(1,Math.ceil(matches.length/perPage));reviewPage=Math.min(reviewPage,pages-1);
+   const range=el('p',matches.length?'Showing '+(reviewPage*perPage+1)+'–'+Math.min((reviewPage+1)*perPage,matches.length)+' of '+matches.length+' questions':'No questions in this category.','review-range');list.append(range);
+   for(const {q,i} of matches.slice(reviewPage*perPage,(reviewPage+1)*perPage)){
+    const status=answerStatus(q,selected),choice=selected[q.id],card=el('article',undefined,'review-card '+status);const meta=el('div',undefined,'review-card-meta');const title=el('h3','Question '+(i+1)+' of '+s.total);meta.append(title,el('span',status==='correct'?'✓ Correct':status==='incorrect'?'✕ Incorrect':'— Unanswered','review-status '+status),markButton(q));card.append(meta);
+    const stem=el('div',undefined,'question-stem');render(stem,q.stem+'\n\n'+q.extra,path);card.append(stem);
+    const choices=el('ol',undefined,'review-options');choices.setAttribute('aria-label','Submitted answer and correct answer');
+    for(let j=0;j<4;j++){const letter='ABCD'[j],row=el('li',undefined,'review-option');if(letter===q.key)row.classList.add('correct-choice');if(letter===choice&&choice!==q.key)row.classList.add('wrong-choice');const option=el('div',undefined,'review-option-text');render(option,letter+'. '+q.options[j],path);row.append(option);const labels=el('div',undefined,'review-option-labels');if(letter===choice)labels.append(el('span','Your answer','selection-label'));if(letter===q.key)labels.append(el('span','Correct answer','correct-label'));row.append(labels);choices.append(row)}card.append(choices);
+    const summary=el('div',undefined,'answer-comparison');summary.append(el('p','Your answer: '+(choice||'Not answered')),el('p','Correct answer: '+q.key));card.append(summary);
+    const details=el('details',undefined,'original-explanation');details.open=true;details.append(el('summary','Original explanation'));const ex=el('div',undefined,'explanation-body');render(ex,q.explanation,path);details.append(ex);card.append(details);list.append(card)
+   }
+   if(pages>1){const previous=btn('← Previous review page',()=>{reviewPage--;drawReview(true)});previous.disabled=reviewPage===0;const next=btn('Next review page →',()=>{reviewPage++;drawReview(true)});next.disabled=reviewPage===pages-1;nav.append(previous,el('span','Page '+(reviewPage+1)+' / '+pages),next)}
+   if(focusList)focusHeading(range);
+  }
+  drawReview();if(focus)focusHeading(h);
  }
- const start=btn('Start timed practice',()=>{const mins=Number(minutes.value);if(!Number.isFinite(mins)||mins<1||mins>300){state.textContent='Enter 1–300 minutes.';return}if(getSaved()&&!confirm('Replace your saved attempt with a new test?'))return;started=true;finished=false;selected={};at=0;penalty=neg.checked?1/3:0;deadline=Date.now()+mins*60000;config.hidden=true;start.hidden=true;content.hidden=true;draw();tick();if(!finished)timer=setInterval(tick,250)});
- root.append(start);
- const saved=getSaved();
- if(saved){
-  const resume=btn(saved.finished?'Review saved result':'Resume saved attempt',()=>{
-   ({selected,finished,deadline,penalty,at}=saved);started=true;config.hidden=true;start.hidden=true;resume.hidden=true;discard.hidden=true;content.hidden=true;
-   if(finished){const s=scoreBank(bank.items,selected,penalty);state.textContent='Saved result: '+s.correct+' correct · '+s.wrong+' incorrect · '+s.skipped+' skipped · Score '+s.score.toFixed(2)+' / '+s.total;draw()}
-   else{draw();tick();if(!finished)timer=setInterval(tick,250)}
-  });
-  const discard=btn('Discard saved attempt',()=>{clearSaved();resume.remove();discard.remove()});
-  root.append(resume,discard);
-  start.addEventListener('click',()=>{if(started){resume.hidden=true;discard.hidden=true}});
+ function finish(reason='submitted'){if(!started||finished)return;showResults(reason,true,true)}
+ function tick(){if(!started||finished)return;const remain=Math.max(0,Math.ceil((deadline-Date.now())/1000));const text='Time remaining: '+Math.floor(remain/60)+':'+String(remain%60).padStart(2,'0')+' · '+Object.keys(selected).length+'/'+bank.items.length+' answered';if(state.textContent!==text)state.textContent=text;if(!remain)finish('expired')}
+ function syncProgress(announce=false){const answered=Object.keys(selected).length;if(progress)progress.value=answered;if(announce&&milestone){const reached=Math.floor(4*answered/bank.items.length);if(reached>highestMilestone){highestMilestone=reached;milestone.textContent=reached>=4?'All questions answered. Review your selections before submitting.':reached>=2?'Good progress — '+answered+' questions answered.':'Nice start — keep going.';milestone.hidden=false;milestone.classList.remove('celebrate-once');void milestone.offsetWidth;milestone.classList.add('celebrate-once')}}if(palette){for(const b of palette.querySelectorAll('button[data-index]')){const i=Number(b.dataset.index),yes=!!selected[bank.items[i].id];b.classList.toggle('answered',yes);b.setAttribute('aria-label','Question '+(i+1)+(yes?', answered':', unanswered'));if(i===at)b.setAttribute('aria-current','step');else b.removeAttribute('aria-current')}}}
+ function confirmSubmit(){const answered=Object.keys(selected).length,skipped=bank.items.length-answered;
+  if(typeof HTMLDialogElement==='undefined'||typeof HTMLDialogElement.prototype.showModal!=='function'){if(confirm('Submit '+answered+' answered and '+skipped+' unanswered questions?'))finish();return}
+  const d=el('dialog',undefined,'submit-dialog'),h=el('h2','Ready to submit?');h.id='submit-dialog-title';d.setAttribute('aria-labelledby',h.id);d.append(h,el('p','You have answered '+answered+' of '+bank.items.length+' questions. '+skipped+' will remain unanswered. You can review the correct answers and explanations after submission.'));
+  const row=el('div',undefined,'result-actions');row.append(btn('Keep practising',()=>d.close()),btn('Submit and see results',()=>{d.close();finish()},'primary-action'));d.append(row);root.append(d);d.addEventListener('close',()=>d.remove(),{once:true});d.showModal()
  }
+ function drawPractice(focus=false){
+  state.setAttribute('aria-live','off');body.replaceChildren();controls.replaceChildren();state.classList.remove('result-announcement');if(!started||finished)return;persist();const q=bank.items[at];const meta=el('div',undefined,'question-meta'),h=el('h3','Question '+(at+1)+' / '+bank.items.length);meta.append(h,markButton(q));body.append(meta);
+  progress=el('progress',undefined,'quiz-progress');progress.max=bank.items.length;progress.setAttribute('aria-label','Questions answered');body.append(progress);milestone=el('p',undefined,'practice-milestone');milestone.setAttribute('aria-live','polite');milestone.hidden=true;body.append(milestone);
+  const questionMap=el('details',undefined,'question-map');questionMap.append(el('summary','Question navigator'));palette=el('div',undefined,'question-palette');for(let i=0;i<bank.items.length;i++){const b=btn(String(i+1),()=>{at=i;drawPractice(true)});b.dataset.index=String(i);palette.append(b)}questionMap.append(palette);body.append(questionMap);syncProgress();
+  const stem=el('div',undefined,'question-stem');render(stem,q.stem+'\n\n'+q.extra,path);body.append(stem);
+  const field=el('fieldset');field.append(el('legend','Select one answer'));
+  for(let i=0;i<4;i++){const letter='ABCD'[i],label=el('label',undefined,'quiz-option'),input=el('input');input.type='radio';input.name='quiz-choice';input.value=letter;input.checked=selected[q.id]===letter;input.onchange=()=>{selected[q.id]=letter;syncProgress(true);persist();tick()};const text=el('div');render(text,letter+'. '+q.options[i],path);label.append(input,text);field.append(label)}body.append(field);
+  const prev=btn('← Previous',()=>{at--;drawPractice(true)});prev.disabled=at===0;const next=btn('Next →',()=>{at++;drawPractice(true)},'primary-action');next.disabled=at===bank.items.length-1;const jump=el('select');jump.setAttribute('aria-label','Jump to question');bank.items.forEach((x,i)=>{const op=el('option',String(i+1)+(selected[x.id]?' ✓':''));op.value=String(i);op.selected=i===at;jump.append(op)});jump.onchange=()=>{at=Number(jump.value);drawPractice(true)};controls.append(prev,jump,next,btn('Clear answer',()=>{delete selected[q.id];drawPractice();tick()}),btn('Submit test',confirmSubmit,'primary-action'));
+  controls.append(btn('Save & exit',()=>{persist();showSetup();focusHeading(intro.querySelector('h2'))}));if(focus)focusHeading(h)
+ }
+ function begin(saved){
+  stopTimer();started=true;finished=false;intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;setView('practice');
+  if(saved){({selected,finished,deadline,penalty,at}=saved);submitReason=saved.submitReason||'submitted';if(finished){showResults(submitReason);return}}
+  else{selected={};at=0;penalty=neg.checked?1/3:0;deadline=Date.now()+Number(minutes.value)*60000;submitReason='submitted'}
+  highestMilestone=Math.floor(4*Object.keys(selected).length/bank.items.length);drawPractice(true);tick();if(!finished)timer=setInterval(tick,250)
+ }
+
+ // Untimed learning is separate from the saved timed attempt. Correctness is revealed only on explicit check.
+ function startLearning(mode='all',sessionItems=null){
+  const routine=loadRoutine(),known=routine.banks[path]?.questions||{};const lesson=sessionItems|| (mode==='all'?bank.items:mode==='remaining'?bank.items.filter(q=>!Object.hasOwn(known,practiceKey(q))):quickItems(routine,path,bank.items,mode));if(!lesson.length){state.textContent=mode==='remaining'?'You have already checked all practice questions.':mode==='mistakes'?'You have no incorrect answers to review here.':'No questions need revision today.';const u=new URL(location.href);u.searchParams.delete('session');history.replaceState(history.state,'',u.href);return}
+  stopTimer();intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;root.dataset.learning='true';setView('practice');state.setAttribute('aria-live','polite');
+  let index=0,choice='',checked=0,correct=0,locked=false;const sessionAnswers={};
+  function leave(){delete root.dataset.learning;showSetup();focusHeading(intro.querySelector('h2'))}
+  function drawLearn(){
+   body.replaceChildren();controls.replaceChildren();choice='';locked=false;const q=lesson[index];
+   state.textContent=(mode==='all'?'Learning mode':mode==='remaining'?'Continue learning':mode==='review'?'Revision session':mode==='mistakes'?'Review mistakes':mode==='saved'?'Saved question practice':'Quick practice')+' · '+checked+' / '+lesson.length+' checked · No timer';
+   const meta=el('div',undefined,'question-meta'),h=el('h3','Question '+(index+1)+' / '+lesson.length);meta.append(h,markButton(q));body.append(meta);
+   const meter=el('progress',undefined,'quiz-progress');meter.max=lesson.length;meter.value=checked;meter.setAttribute('aria-label','Questions checked');body.append(meter);
+   const stem=el('div',undefined,'question-stem');render(stem,q.stem+'\n\n'+q.extra,path);body.append(stem);
+   const field=el('fieldset');field.append(el('legend','Choose an answer, then check it'));const optionRows=[];
+   const check=btn('Check answer',()=>{if(!choice||locked)return;locked=true;checked++;sessionAnswers[q.id]=choice;const right=choice===q.key;if(right)correct++;const daily=recordRoutine(path,bank.items,{[q.id]:choice});
+    for(const [letter,row,input] of optionRows){input.disabled=true;if(letter===q.key){row.classList.add('correct-choice');row.append(el('span','Correct answer','learn-option-label'))}if(letter===choice&&letter!==q.key){row.classList.add('wrong-choice');row.append(el('span','Your answer','learn-option-label'))}}
+    const feedback=el('div',undefined,'learn-feedback '+(right?'learn-correct':'learn-review'));feedback.setAttribute('role','status');
+    feedback.append(el('strong',right?'✓ Nice work! You got it right.':'Good effort — review this answer.'),el('p',right?'You selected '+choice+'. Keep building your understanding.':'You selected '+choice+'. The published answer is '+q.key+'.'));
+    if(right)feedback.classList.add('celebrate-once');body.append(feedback);if(daily.saved){const crossed=daily.before<daily.goal&&daily.after>=daily.goal;const goalNote=el('p',crossed?'Hurrah! 50 MCQs completed today!':daily.after+' / '+daily.goal+' MCQs studied today'+(daily.after>daily.goal?' · Goal exceeded!':daily.after===daily.goal?' · Goal complete!':''),'daily-result-note'+(crossed?' celebrate-once':''));if(daily.after>=daily.goal)addStudyCelebration(goalNote,crossed);body.append(goalNote)}else if(!daily.saved)body.append(el('p','Your browser could not save daily progress.','load-error'));
+    const explanation=el('details',undefined,'original-explanation');explanation.open=true;explanation.append(el('summary','Original explanation'));const ex=el('div',undefined,'explanation-body');render(ex,q.explanation,path);explanation.append(ex);body.append(explanation);meter.value=checked;state.textContent=(mode==='all'?'Learning mode':mode==='remaining'?'Continue learning':mode==='review'?'Revision session':mode==='mistakes'?'Review mistakes':'Quick practice')+' · '+checked+' / '+lesson.length+' checked · '+correct+' correct';check.disabled=true;next.disabled=false;
+   },'primary-action');check.disabled=true;
+   for(let i=0;i<4;i++){const letter='ABCD'[i],row=el('label',undefined,'quiz-option'),input=el('input');input.type='radio';input.name='learn-choice';input.value=letter;input.onchange=()=>{choice=letter;check.disabled=false};const txt=el('div');render(txt,letter+'. '+q.options[i],path);row.append(input,txt);field.append(row);optionRows.push([letter,row,input])}body.append(field);
+   const next=btn(index===lesson.length-1?'Finish learning':'Next question →',()=>{if(!locked)return;if(index+1<lesson.length){index++;drawLearn()}else finishLearning()},'primary-action');next.disabled=true;
+   controls.append(check,next,btn('Exit learning',()=>{if(!checked||confirm('Exit learning? Checked questions remain in your daily progress. Your timed attempt is unchanged.'))leave()}));focusHeading(h)
+  }
+  function finishLearning(){
+   body.replaceChildren();controls.replaceChildren();const wrong=checked-correct,percentage=checked?100*correct/checked:0,feedback=performanceFeedback(percentage);
+   state.textContent=checked+' checked · '+correct+' correct · '+wrong+' incorrect';const locationText=document.getElementById('reading-position');if(locationText)locationText.textContent='Learning results';
+   const sessionTitle=mode==='all'||mode==='remaining'?'Learning session complete!':mode==='review'?'Revision complete!':mode==='mistakes'?'Mistake review complete!':mode==='saved'?'Saved question complete!':'Quick practice complete!';
+   const hero=el('div',undefined,'result-hero learning-result'),copy=el('div',undefined,'result-copy'),symbol=el('span',feedback.symbol,'result-check');symbol.setAttribute('aria-hidden','true');hero.dataset.performance=feedback.level;if(feedback.celebrate)hero.classList.add('result-celebration');
+   const h=el('h2',sessionTitle,'result-heading');copy.append(symbol,el('p',typeof knownTitle==='function'?knownTitle(path):'Your topic','result-kicker'),h,el('strong',feedback.greeting,'learning-greeting'),el('p',feedback.advice));
+   const metric=el('div',undefined,'result-score');metric.append(el('span','YOUR SCORE'),el('strong',correct+' / '+checked),el('span',percentage.toFixed(1)+'% correct'));hero.append(copy,metric);if(feedback.celebrate)addStudyCelebration(hero,true);body.append(hero);
+   const stats=el('div',undefined,'result-stats learning-result-stats');for(const [label,value,cls] of [['Correct',correct,'is-correct'],['Incorrect',wrong,'is-incorrect'],['Questions checked',checked,''],['Accuracy',percentage.toFixed(1)+'%','']]){const card=el('div',undefined,'result-stat '+cls);card.append(el('span',label),el('strong',String(value)));stats.append(card)}body.append(stats);
+   const bar=el('div',undefined,'result-distribution');bar.setAttribute('role','img');bar.setAttribute('aria-label',correct+' correct, '+wrong+' incorrect');for(const [n,cls] of [[correct,'dist-correct'],[wrong,'dist-incorrect']]){const segment=el('span',undefined,cls);segment.style.flex=String(n);bar.append(segment)}body.append(bar,el('p','Score for this learning session: 1 mark per correct answer, no deduction for incorrect answers. Your overall topic progress is shown separately above.','result-note'));
+   const missed=lesson.filter(q=>sessionAnswers[q.id]&&sessionAnswers[q.id]!==q.key),commands=el('div',undefined,'result-actions');
+   if(missed.length)commands.append(btn('Practise mistakes ('+missed.length+')',()=>startLearning('mistakes',missed),'primary-action'));
+   commands.append(btn('Try these questions again',()=>startLearning(mode,lesson),missed.length?'':'primary-action'));
+   const current=loadRoutine().banks[path]?.questions||{},remaining=bank.items.filter(q=>!Object.hasOwn(current,practiceKey(q))).length;if(remaining)commands.append(btn('Continue '+remaining+' remaining questions',()=>startLearning('remaining')));
+   commands.append(btn('Back to study material',leave));body.append(commands);
+   if(missed.length){const review=el('details',undefined,'learning-missed-review');review.append(el('summary','Review missed answers and explanations ('+missed.length+')'));for(const q of missed){const card=el('article',undefined,'review-card incorrect'),stem=el('div',undefined,'question-stem');render(stem,q.stem+'\n\n'+q.extra,path);card.append(stem,el('p','Your answer: '+sessionAnswers[q.id]+' · Correct answer: '+q.key,'answer-comparison'));const options=el('div');render(options,q.options.map((o,i)=>'ABCD'[i]+'. '+o).join('\n\n'),path);card.append(options);const explanation=el('details',undefined,'original-explanation');explanation.append(el('summary','Original explanation'));const ex=el('div',undefined,'explanation-body');render(ex,q.explanation,path);explanation.append(ex);card.append(explanation,markButton(q));review.append(card)}body.append(review)}
+   focusHeading(h);
+  }
+  drawLearn();
+ }
+
+ document.addEventListener('study-bookmarks-change',()=>{const saved=loadMarks();for(const b of root.querySelectorAll('button[data-bookmark-stem]')){const marked=saved.some(m=>m.path===path&&m.stem===b.dataset.bookmarkStem);b.textContent=marked?'★ Bookmarked':'☆ Bookmark';b.setAttribute('aria-pressed',String(marked))}});
+ document.addEventListener('study-progress-change',()=>{if(root.dataset.view==='setup')drawStartActions()});
+ function drawStartActions(){
+  actions.replaceChildren();const saved=getSaved();const start=btn('Start timed practice',()=>{const mins=Number(minutes.value);if(!Number.isFinite(mins)||mins<1||mins>300){state.textContent='Enter 1–300 minutes.';return}if(saved&&!confirm('Start a new attempt and replace the saved attempt or result?'))return;clearSaved();begin(null)},'primary-action');actions.append(start,btn('Learn with instant feedback',()=>startLearning(),'learning-start'),btn('Quick 5-question practice',()=>startLearning('quick'),'quick-start'));const known=loadRoutine().banks[path]?.questions||{},remaining=bank.items.filter(q=>!Object.hasOwn(known,practiceKey(q))).length;if(remaining>0&&remaining<bank.items.length)actions.append(btn('Continue remaining '+remaining+' questions',()=>startLearning('remaining'),'learning-start'));const missed=missedItems(loadRoutine(),path,bank.items).length;if(missed)actions.append(btn('Review mistakes ('+missed+')',()=>startLearning('mistakes'),'mistakes-start'));if(quickItems(loadRoutine(),path,bank.items,'review').length)actions.append(btn('Revise due questions',()=>startLearning('review')));
+  if(saved)actions.append(btn(saved.finished?'Review saved result':'Resume saved attempt',()=>begin(saved)),btn('Discard saved attempt',()=>{if(confirm('Remove the saved attempt or result from this device?')){clearSaved();drawStartActions()}}));
+ }
+ drawStartActions();const saved=getSaved(),session=new URLSearchParams(location.search).get('session');if(session==='saved'){const stem=new URLSearchParams(location.search).get('question'),matches=bank.items.filter(q=>q.stem===stem);if(matches.length===1)startLearning('saved',matches);else{setView('setup');state.textContent='This saved question has changed or could not be found. Choose a practice mode or read the original notes.'}}else if(['quick','review','remaining','mistakes'].includes(session)){startLearning(session)}else if(new URLSearchParams(location.search).get('view')==='results'){if(saved?.finished)begin(saved);else{setView('setup');state.textContent='No saved result is available for this question bank.'}}
 }
-if(typeof module!=='undefined')module.exports={parseBank,scoreBank,bankSignature,validateAttempt};
+if(typeof module!=='undefined')module.exports={parseBank,scoreBank,bankSignature,validateAttempt,resultMetrics,answerStatus,performanceFeedback};

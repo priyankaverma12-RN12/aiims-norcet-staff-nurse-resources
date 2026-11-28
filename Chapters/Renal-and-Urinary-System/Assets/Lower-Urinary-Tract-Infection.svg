@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 470" role="img" aria-labelledby="t d">
+<title id="t">Ascending urinary infection and nursing escalation</title><desc id="d">Kidneys above the bladder connect through two ureters. Bacteria may enter through the urethra and cause cystitis in the bladder. Fever, rigors, flank pain or instability require urgent assessment for systemic infection.</desc>
+<rect width="800" height="470" rx="18" fill="#f8fafc"/>
+<g font-family="Arial,sans-serif" fill="#17324d"><text x="400" y="35" text-anchor="middle" font-size="23" font-weight="bold">Lower UTI: location and warning signs</text>
+<path d="M180 78 C113 55 105 145 155 157 C192 168 205 127 180 78Z" fill="#e7b5b5" stroke="#995454" stroke-width="3"/>
+<path d="M314 78 C381 55 389 145 339 157 C302 168 289 127 314 78Z" fill="#e7b5b5" stroke="#995454" stroke-width="3"/>
+<text x="247" y="67" text-anchor="middle" font-size="17">Kidneys</text>
+<path d="M177 135 Q190 205 224 249 M317 135 Q304 205 270 249" fill="none" stroke="#bc8c55" stroke-width="8" stroke-linecap="round"/>
+<text x="93" y="198" font-size="17">Ureters</text><path d="M159 193 L188 193" stroke="#66788a" stroke-width="2"/>
+<path d="M205 250 Q247 220 289 250 Q306 293 269 314 Q247 327 225 314 Q188 293 205 250Z" fill="#f3c49d" stroke="#b86d35" stroke-width="3"/>
+<path d="M247 320 L247 403" stroke="#bc8c55" stroke-width="12" stroke-linecap="round"/>
+<text x="78" y="276" font-size="17">Bladder</text><path d="M143 271 L198 271" stroke="#66788a" stroke-width="2"/>
+<text x="90" y="368" font-size="17">Urethra</text><path d="M156 363 L234 363" stroke="#66788a" stroke-width="2"/>
+<defs><marker id="a" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto"><path d="M0 0 L9 4 L0 8Z" fill="#a34232"/></marker></defs>
+<path d="M270 401 L270 331" fill="none" stroke="#a34232" stroke-width="3" marker-end="url(#a)"/>
+<text x="285" y="409" font-size="15">Ascending bacteria</text>
+<path d="M293 246 Q335 212 330 164" fill="none" stroke="#a34232" stroke-width="3" stroke-dasharray="7 6" marker-end="url(#a)"/>
+<rect x="425" y="90" width="345" height="122" rx="12" fill="#e8f3ed" stroke="#568c6d"/>
+<text x="445" y="120" font-size="19" font-weight="bold">Localized cystitis</text><text x="445" y="149" font-size="16">Dysuria, urgency, frequency</text><text x="445" y="174" font-size="16">Suprapubic discomfort</text><text x="445" y="196" font-size="15">Assess risk factors and symptoms.</text>
+<rect x="425" y="232" width="345" height="166" rx="12" fill="#fff0e8" stroke="#b86d35"/>
+<text x="445" y="262" font-size="19" font-weight="bold">Urgent assessment</text><text x="445" y="292" font-size="16">Fever, rigors, flank pain</text><text x="445" y="318" font-size="16">Vomiting or new confusion</text><text x="445" y="344" font-size="16">Hypotension or rapid breathing</text><text x="445" y="373" font-size="15">Escalate even if fever is absent.</text>
+<text x="400" y="449" text-anchor="middle" font-size="14">Original schematic • not to scale • clinical decisions depend on the whole patient</text></g></svg>

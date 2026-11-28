@@ -19,13 +19,28 @@
 
 **Correct: A. Heparin**
 
-ABG sample ko clot hone se bachane ke liye suitable heparinized collection device use hoti hai. Actual practice mein balanced dry heparin device aur lab instructions follow karni hain. Adrenaline aur dopamine vasopressors hain, warfarin oral anticoagulant hai.
+ABG yani arterial blood gas mein arterial blood ki oxygen, carbon dioxide aur acid-base condition measure ki jaati hai. Agar sample clot ho jaaye toh analyzer ka result unreliable ho sakta hai. Isliye lab-approved preheparinized device, preferably balanced dry heparin, aur correct sample volume use karo. Air bubbles aur transport delay bhi avoid karne hain.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Heparin sample ke andar clot formation kam karti hai. Approved ABG syringe mein yahi suitable anticoagulant hai.
+- **B (Galat):** Warfarin oral medicine hai jo liver mein vitamin K dependent clotting factors par effect karti hai. Tablet ko sample mein daalna valid ABG collection technique nahi hai.
+- **C (Galat):** Adrenaline emergency medicine hai jo cardiovascular response par effect karti hai. Yeh ABG sample ka anticoagulant nahi hai.
+- **D (Galat):** Dopamine cardiovascular support ke liye use ho sakti hai. Iska role collected blood ko clot-free rakhna nahi hai.
+
+**Exam clue:** ABG ke liye lab-approved heparinized device yaad rakho.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK138661/?report=reader)
+
+**Historical verification:** Existing reported adaptation, not an authenticated official paper or key. Third-party 2021 paper page retrieved. Exact original item and official key authentication remain pending.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
 ### PYQ2. Which position is commonly used for gynecological examination when both legs are supported?
 
-**Reported exam:** HPSSC Staff Nurse 2021, Series A, Q2
+**🔵 Reported exam adaptation:** HPSSC Staff Nurse 2021 · Series A · post code 892 · Q2 · third-party source retrieved; official key pending
 
 [Question source](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2021-part-1-hpssc-hamirpur/)
 
@@ -38,13 +53,26 @@ ABG sample ko clot hone se bachane ke liye suitable heparinized collection devic
 
 **Correct: D. Lithotomy**
 
-Lithotomy mein patient supine hoti hai aur hips-knees flexed aur legs supported hoti hain. Prone face-down, Fowler sitting aur Trendelenburg head-down tilt hai.
+Lithotomy position mein patient peeth ke bal leti hai. Hips aur knees flexed rehte hain aur dono legs appropriate support par rakhi jaati hain. Isse pelvic aur perineal area examination ke liye accessible ho jaata hai. Nurse privacy, consent, safe leg support aur pressure ya nerve injury ke risk ka dhyan rakhti hai. Har gynecological procedure ke liye lithotomy zaroori nahi hoti. Patient ki condition aur procedure ke hisaab se position select hoti hai.
 
+**Option-wise explanation:**
+- **A (Galat):** Prone mein patient pet ke bal leti hai. Dono legs supported rakhkar pelvic examination ka described access is position se nahi milta.
+- **B (Galat):** High Fowler mein patient ka upper body upright hota hai. Yeh breathing support ke liye useful ho sakti hai, lekin stirrups wali pelvic examination position nahi hai.
+- **C (Galat):** Trendelenburg mein poora bed head-down tilt hota hai. Yeh apne aap mein lithotomy ki leg support aur pelvic access wali position nahi hai.
+- **D (Sahi):** Lithotomy mein hips aur knees flexed aur legs supported rehti hain. Isse pelvic examination ke liye suitable access milta hai.
+
+**Exam clue:** Pelvic examination with both legs supported = lithotomy.
+
+**Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed).
+
+**Historical evidence:** The existing HP General Studies report was directly retrieved. Series A, post code 892, Q2 includes lithotomy as source option 1. This independently worded adaptation has lithotomy as option D. Official original booklet and key were not authenticated. The source question asks more broadly about gynecological procedures, so the adaptation is narrower and clinically safer.
+
+**YouTube MCQ practice:** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Indexed publisher description confirms positioning MCQs broadly. Lithotomy-specific coverage and exact playback are pending.
 </details>
 
 ### PYQ3. Which direct measure helps relieve sustained pressure in a bedbound patient at risk of pressure injury?
 
-**Reported exam:** HPSSC Staff Nurse 2021, Series A, Q9
+**🔵 Reported exam adaptation:** HPSSC Staff Nurse 2021, Series A, post code 892, Q9 · third-party source retrieved, official key pending
 
 [Question source](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2021-part-1-hpssc-hamirpur/)
 
@@ -57,8 +85,21 @@ Lithotomy mein patient supine hoti hai aur hips-knees flexed aur legs supported 
 
 **Correct: C. Individualized repositioning at an appropriate interval**
 
-Traditional paper two-hourly repositioning ko test karta tha. Current practice mein interval skin, support surface, tolerance aur risk assessment ke according individualize hota hai. Hygiene, moisture control aur nutrition bhi prevention bundle ka part hain.
+Bedbound patient apni position khud change nahi kar paata. Jab body ka weight ek hi bony area par der tak padta hai, toh tissue deform ho sakta hai aur blood supply affect ho sakti hai. Repositioning ka matlab patient ko safely nayi position mein lana hai, taaki pehle loaded pressure points se pressure hat sake. 2026 International Guideline R4–R7 ke mutabik interval patient ki skin response, mobility, clinical condition, comfort aur support surface ke hisaab se individualize karna chahiye. Appropriate pressure redistribution surface par kai at-risk patients ke liye do ya teen ghante ka interval consider ho sakta hai, lekin yeh conditional recommendation hai aur sab par fixed rule nahi hai. Nutrition, moisture management aur skin checks bhi continue karo.
 
+**Option-wise explanation:**
+- **A (Galat):** Nutrition healing aur tissue health support karti hai, lekin nutrition alone se loaded bony point ka pressure directly nahi hatta.
+- **B (Galat):** Moisture control skin barrier protect karta hai, lekin prolonged mechanical pressure ko apne aap relieve nahi karta.
+- **C (Sahi):** Individualized repositioning loaded area se pressure redistribute karti hai. Isliye given choices mein sustained pressure ko directly reduce karne wala action hai.
+- **D (Galat):** Bathing cleanliness maintain karti hai, lekin sirf daily bath se prolonged pressure ka risk address nahi hota.
+
+**Exam clue:** Pressure relief directly by repositioning, interval individualized.
+
+**Clinical reference:** [Clinical guidance](https://www.internationalguideline.com/repositioning).
+
+**Evidence status:** Historical source directly retrieved: HPSSC Staff Nurse 1 August 2021, Series A, post code 892, Q9. The third-party [reported key](https://testbook.com/question-answer/most-effective-way-to-prevent-bed-sore-in-bedridde--697c404f56992687f107db88) gives source option 1 (two-hourly position change). This adaptation uses current individualized guidance and key C. Official original booklet/key not authenticated.
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 </details>
 
 ### PYQ4. Which hospital emergency code commonly signals a cardiac arrest response in facilities using this conventional code system?
@@ -95,7 +136,22 @@ Code Blue commonly cardiac arrest ya medical resuscitation response indicate kar
 
 **Correct: B. Anterolateral thigh, vastus lateralis**
 
-Vastus lateralis infant mein suitable muscle mass aur anatomical access provide karti hai. Other sites route ya age suitability ke hisaab se different hain. Needle size aur vaccine-specific guidance check karni chahiye.
+Infant ke thigh ke front aur outer side par vastus lateralis muscle hoti hai. Is age mein routine IM vaccination ke liye yeh generally preferred site hai. Nurse age, muscle mass, vaccine instructions aur correct needle length check karti hai. Is rule ko har age aur har medicine par blindly apply nahi karna chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Abdominal fat selected subcutaneous medicines ke liye use ho sakta hai. Routine infant IM vaccine ka target skeletal muscle hai.
+- **B (Sahi):** Vastus lateralis infant mein suitable muscle mass aur safe anatomical access provide karti hai. Routine infant IM vaccine ke liye yeh best listed option hai.
+- **C (Galat):** Posterior gluteal region universal first choice nahi hai. Sciatic nerve injury aur unintended fat deposition ke concerns bhi hain.
+- **D (Galat):** Forearm dermis intradermal tests ya selected intradermal products ke liye relevant ho sakti hai. Yeh routine IM vaccine ka target nahi hai.
+
+**Exam clue:** Infant routine IM vaccine = anterolateral thigh.
+
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/vaccines/hcp/imz-best-practices/vaccine-administration.html)
+
+**Historical verification:** Existing reported adaptation, not an authenticated official paper or key. Third-party 2021 paper page retrieved. Exact original item and official key authentication remain pending.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -139,7 +195,7 @@ Ishihara plates colored dot patterns use karti hain jisme numbers ya shapes iden
 
 ### PYQ8. Which gauge is conventionally coded pink for a peripheral IV cannula that may be adequate for routine red-cell transfusion in a suitable patient?
 
-**Reported exam:** HPSSC Staff Nurse 2021, Series A, Q51, corrected concept
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · **🔵 HPSSC Staff Nurse 2021, Series A, post code 892, Q51 — corrected reported concept**
 
 [Question source](https://hpgeneralstudies.com/solved-paper-hp-staff-nurse-exam-2021-part-1-hpssc-hamirpur/)
 
@@ -302,7 +358,24 @@ Fried's rule historical infant dose formula hai. Young age in years aur Clark we
 
 **Correct: B. Immediate clinical assessment and vital signs with escalation as needed**
 
-Acute patient mein ABC aur vital signs assess karna routine paperwork se pehle important hai. Indexed question admission ke first nursing step par tha, lekin full page reopen nahi hua. Isliye scenario independently clarify kiya gaya hai aur exact official answer claim nahi kiya.
+Clinically unstable patient mein airway, breathing ya circulation compromise ho sakta hai. Nurse immediate ABCDE assessment karti hai, vital signs check karti hai aur urgent help activate karti hai. Life-threatening problem milne par authorized emergency care assessment ke saath hi shuru karo. Paperwork aur routine orientation baad mein ki ja sakti hain. Patient ko safe monitoring aur appropriate team support ki zaroorat hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Meal schedule routine orientation ka part hai. Respiratory ya circulatory deterioration ko pehle address karna zaroori hai.
+- **B (Sahi):** Immediate assessment, vital signs aur escalation potentially life-threatening problems ko identify aur treat karne ki priority hain.
+- **C (Galat):** Full administrative form pehle complete karne se urgent care delay ho sakti hai.
+- **D (Galat):** Belongings inventory useful hai lekin unstable patient ki immediate clinical safety se pehle nahi.
+
+**Exam clue:** Unstable admission = assess and stabilize before paperwork.
+
+**Clinical references:** [Resuscitation Council UK ABCDE approach](https://www.resus.org.uk/library/abcde-approach) · [OpenStax Patient Admission](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission).
+
+**Historical evidence limitation:** Existing source attribution remains provisional. The indexed third-party paper was located again, but direct retrieval failed. HPRCA Post Code 25026 final-key listing dated 29 May 2026 was indexed, not the official item or its matching answer. This independently clarified adaptation is not an authenticated exact question.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+
+**Previous evidence note (preserved):** Acute patient mein ABC aur vital signs assess karna routine paperwork se pehle important hai. Indexed question admission ke first nursing step par tha, lekin full page reopen nahi hua. Isliye scenario independently clarify kiya gaya hai aur exact official answer claim nahi kiya.
 
 </details>
 

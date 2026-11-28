@@ -526,7 +526,7 @@
 
 **Exam clue:** Loop diuretic site is thick ascending limb.
 
-[📖 Related concept](../Concepts/Renal-Pharmacology.md#3-diuretics-and-adverse-effect-assessment) · [Clinical reference](https://kdigo.org/wp-content/uploads/2026/05/KDIGO-2024-CKD-Guideline-Summary-Recommendations-and-Practice-Points.pdf)
+[📖 Related concept](../Concepts/Renal-Pharmacology.md#3-diuretics-and-adverse-effect-assessment) · [Clinical reference](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=08a44bdd-028d-41af-9d4e-70971b0bcc4e)
 
 **▶️ [Diuretic pharmacology MCQs part 1](https://www.youtube.com/watch?v=PBQSw_PoZf0)**. Indexed description includes furosemide and mannitol comparison. Broad related topic only, exact item/playback pending.
 
@@ -555,7 +555,7 @@
 
 **Exam clue:** Loop diuretics can cause contraction-related alkalosis.
 
-[📖 Related concept](../Concepts/Renal-Pharmacology.md#3-diuretics-and-adverse-effect-assessment) · [Clinical reference](https://kdigo.org/wp-content/uploads/2026/05/KDIGO-2024-CKD-Guideline-Summary-Recommendations-and-Practice-Points.pdf)
+[📖 Related concept](../Concepts/Renal-Pharmacology.md#3-diuretics-and-adverse-effect-assessment) · [Clinical reference](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=08a44bdd-028d-41af-9d4e-70971b0bcc4e)
 
 **YouTube MCQ practice: verification pending**
 
@@ -584,7 +584,7 @@
 
 **Exam clue:** New tinnitus during IV loop therapy requires review.
 
-[📖 Related concept](../Concepts/Renal-Pharmacology.md#3-diuretics-and-adverse-effect-assessment) · [Clinical reference](https://kdigo.org/wp-content/uploads/2026/05/KDIGO-2024-CKD-Guideline-Summary-Recommendations-and-Practice-Points.pdf)
+[📖 Related concept](../Concepts/Renal-Pharmacology.md#3-diuretics-and-adverse-effect-assessment) · [Clinical reference](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=08a44bdd-028d-41af-9d4e-70971b0bcc4e)
 
 **YouTube MCQ practice: verification pending**
 
@@ -613,7 +613,7 @@
 
 **Exam clue:** Sequential blockade requires close monitoring.
 
-[📖 Related concept](../Concepts/Renal-Pharmacology.md#3-diuretics-and-adverse-effect-assessment) · [Clinical reference](https://kdigo.org/wp-content/uploads/2026/05/KDIGO-2024-CKD-Guideline-Summary-Recommendations-and-Practice-Points.pdf)
+[📖 Related concept](../Concepts/Renal-Pharmacology.md#3-diuretics-and-adverse-effect-assessment) · [Clinical reference](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=08a44bdd-028d-41af-9d4e-70971b0bcc4e)
 
 **YouTube MCQ practice: verification pending**
 
@@ -642,7 +642,7 @@
 
 **Exam clue:** Mannitol can worsen volume expansion in anuria.
 
-[📖 Related concept](../Concepts/Renal-Pharmacology.md#3-diuretics-and-adverse-effect-assessment) · [Clinical reference](https://kdigo.org/wp-content/uploads/2026/05/KDIGO-2024-CKD-Guideline-Summary-Recommendations-and-Practice-Points.pdf)
+[📖 Related concept](../Concepts/Renal-Pharmacology.md#3-diuretics-and-adverse-effect-assessment) · [Clinical reference](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=8ad3145e-00e7-4412-b9a5-06f00f264f30)
 
 **▶️ [Diuretic pharmacology MCQs part 1](https://www.youtube.com/watch?v=PBQSw_PoZf0)**. Indexed description includes furosemide and mannitol comparison. Broad related topic only, exact item/playback pending.
 
@@ -789,7 +789,7 @@
 
 **Exam clue:** Digoxin toxicity risk rises with hypokalemia and renal impairment.
 
-[📖 Related concept](../Concepts/Renal-Pharmacology.md#4-nephrotoxicity-accumulation-and-transitions-of-care) · [Clinical reference](https://kdigo.org/wp-content/uploads/2026/05/KDIGO-2024-CKD-Guideline-Summary-Recommendations-and-Practice-Points.pdf)
+[📖 Related concept](../Concepts/Renal-Pharmacology.md#4-nephrotoxicity-accumulation-and-transitions-of-care) · [Clinical reference](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ce62a741-a981-4880-8ce3-93269606a730)
 
 **YouTube MCQ practice: verification pending**
 

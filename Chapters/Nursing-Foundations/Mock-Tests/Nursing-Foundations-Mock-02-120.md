@@ -50,7 +50,7 @@ Nursing outcome patient mein expected change ko describe karta hai. SMART ka mat
 
 ### Q2. Which body mechanics technique reduces spinal strain when moving an object within safe lifting limits?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Lift with one hand while reaching across the body
 - **B.** Keep knees rigid while bending from the waist
@@ -61,13 +61,23 @@ Nursing outcome patient mein expected change ko describe karta hai. SMART ka mat
 
 **Correct: C. Keep the load close and use a stable base with hip and knee movement**
 
-Load body ke paas ho toh spine par leverage kam padta hai. Stable stance aur legs ka use strain reduce kar sakta hai. Patient transfers ke liye mechanical aids bhi use karne chahiye.
+Object lifting mein load ka weight aur body se distance dono spinal torque par asar karte hain. Load paas rakhne se moment arm kam hota hai. Stable base aur hip-knee movement help karte hain. Yeh patient ke manual lifting ko safe banane ki guarantee nahi hai. Patient handling mein assessed mechanical aids use karein.
 
-**Baaki options kyun sahi nahi hain?** Far load, twisting aur awkward reaching back strain badhate hain.
+**Option-wise explanation:**
+- **A (Galat):** One-hand cross-body reach asymmetrical load aur rotation badhata hai.
+- **B (Galat):** Rigid knees aur waist se excessive bending back muscles par strain badha sakti hai.
+- **C (Sahi):** Close load, stable stance aur hip-knee movement object lifting mein control aur leverage improve karte hain.
+- **D (Galat):** Door load aur trunk twist dono lumbar strain badhate hain. Load jitna door, moment arm utna bada.
+
+**Exam clue:** Object lifting ≠ dependent patient lifting. Mechanical aids ko priority dein.
+
+**Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
+
+**MCQ practice lead (topic-level, description indexed only):** [VS Nursing Academy — Patient Safety and Positioning MCQ Sessions, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg). Exact question and playback not verified.
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q5](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q5](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q5-which-body-mechanics-technique-reduces-spinal-strain-when-moving-an-object-within-safe-lifting-limits)
 
 ### Q3. A nurse documents ineffective airway clearance related to retained secretions as evidenced by weak cough and coarse breath sounds. What do the weak cough and breath sounds represent?
 
@@ -113,7 +123,7 @@ Problem-focused diagnosis mein problem, contributing factor aur evidence identif
 
 ### Q4. An IV dressing is damp and loose. What is the appropriate nursing action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Reinforce it indefinitely without inspecting the site
 - **B.** Cover it with a used towel
@@ -143,11 +153,11 @@ Loose damp dressing barrier aur securement compromise karti hai. Hand hygiene ke
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q6](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q6](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q6-an-iv-dressing-is-damp-and-loose-what-is-the-appropriate-nursing-action)
 
 ### Q5. An order specifies 500 mL IV fluid over 4 hours using an infusion pump. What is the programmed rate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 50 mL/hour
 - **B.** 250 mL/hour
@@ -173,13 +183,15 @@ Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related IV flow mL/hour problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q7](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q7](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q7-an-order-specifies-500-ml-iv-fluid-over-4-hours-using-an-infusion-pump-what-is-the-programmed-rate)
 
 ### Q6. When adjusting a walker for a patient, which finding generally indicates a suitable handgrip height?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Slight elbow flexion while standing upright with hands on the grips
 - **B.** Grips at eye level
@@ -190,17 +202,27 @@ Rate = volume/time = 500/4 = 125 mL/hour. Reverse: 125 × 4 = 500 mL.
 
 **Correct: A. Slight elbow flexion while standing upright with hands on the grips**
 
-Walker height aisi honi chahiye ki patient upright rahe aur elbows slightly bend ho. Isse weight transfer aur control easier hota hai.
+Walker grips generally standing mein wrist crease ke aas-paas set hote hain, jisse shoulders relaxed aur elbows slightly flexed reh sakein. Therapist patient ki footwear, balance aur specific device ke hisaab se fitting karta hai.
 
-**Baaki options kyun sahi nahi hain?** Raised shoulders, rigid elbows aur excessive bending incorrect adjustment suggest karte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Slight elbow flexion ke saath upright posture walker par controlled pressure aur comfortable reach allow karta hai.
+- **B (Galat):** Eye-level grips shoulders ko unnecessarily elevate karte hain aur normal gait control nahi dete.
+- **C (Galat):** Locked elbows aur elevated shoulders poor fit ya excessive height suggest karte hain.
+- **D (Galat):** Marked trunk flexion walker too low ya poor setup indicate kar sakta hai. Isse balance aur back strain affect ho sakte hain.
+
+**Exam clue:** Walker grip fit = upright, relaxed shoulders, slight elbow bend.
+
+**Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
+
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q7](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q7](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q7-when-adjusting-a-walker-for-a-patient-which-finding-generally-indicates-a-suitable-handgrip-height)
 
 ### Q7. Which bed-making action reduces airborne dispersal of microorganisms from used linen?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Roll soiled linen inward without shaking and place it in the designated container
 - **B.** Carry wet linen against the uniform
@@ -211,13 +233,23 @@ Walker height aisi honi chahiye ki patient upright rahe aur elbows slightly bend
 
 **Correct: A. Roll soiled linen inward without shaking and place it in the designated container**
 
-Soiled linen ko gently contain karne se microorganisms aur contaminants spread kam ho sakte hain. Facility laundry handling process follow karna hai.
+Used linen par microorganisms aur body fluids ho sakte hain. Shaking se contaminants hawa aur nearby surfaces tak spread ho sakte hain. Linen ko gently inward contain karke designated bag mein patient care area mein rakho. PPE aur hand hygiene facility policy ke mutabik use karo.
 
-**Baaki options kyun sahi nahi hain?** Shaking aur contact with uniform or other bed contamination spread kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Gently rolling aur designated container contamination spread kam karte hain.
+- **B (Galat):** Uniform se wet linen contact clothing contamination ka risk badhata hai.
+- **C (Galat):** Vigorous shaking contaminated particles disperse kar sakti hai.
+- **D (Galat):** Doosre patient ke bed par dirty linen rakhne se cross-contamination hoti hai.
+
+**Exam clue:** Contain soiled linen at point of use, never shake.
+
+**Clinical reference:** [CDC linen management](https://www.cdc.gov/healthcare-associated-infections/hcp/cleaning-global/appendix-d.html)
+
+**▶️ [YouTube MCQ practice — bed making and safety, Sachin Nursing Classes](https://www.youtube.com/watch?v=rD_VJjoezVs).** Published 10 May 2025. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q7](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q7](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q7-which-bed-making-action-reduces-airborne-dispersal-of-microorganisms-from-used-linen)
 
 ### Q8. A reusable instrument will enter sterile tissue. Which processing level is generally required?
 
@@ -261,7 +293,7 @@ Spaulding classification mein critical items woh hain jo sterile tissue ya vascu
 
 ### Q9. Which wound characteristic commonly favors an absorbent foam dressing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** An exposed organ needing emergency coverage
 - **B.** A wound needing no assessment
@@ -272,13 +304,26 @@ Spaulding classification mein critical items woh hain jo sterile tissue ya vascu
 
 **Correct: C. Moderate exudate when the product is appropriate**
 
-Foam fluid absorb aur cushioning provide kar sakti hai. Wound ki depth aur exudate level check karna important hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Dry ischemic wound aur exposed organ ko different clinical plan chahiye. Assessment skip nahi karni chahiye.
+Foam dressing fluid absorb karne wali porous material hai. Suitable moderate-exudate wound mein moisture balance aur cushioning support karti hai. Product capacity, wound depth, surrounding skin aur saturation assess karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Exposed organ emergency protection aur surgical assessment maangta hai.
+- **B (Galat):** Assessment ke bina exudate aur tissue condition pata nahi chalegi.
+- **C (Sahi):** Moderate exudate foam ke absorption se manage ho sakta hai.
+- **D (Galat):** Dry ischemic wound mein perfusion assessment aur individualized plan chahiye.
+
+**Exam clue:** Foam for suitable exuding wounds.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q5](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q5](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q5-which-wound-characteristic-commonly-favors-an-absorbent-foam-dressing)
 
 ### Q10. A patient receiving oxygen asks to smoke near the bedside. Which response is appropriate?
 
@@ -366,7 +411,7 @@ Near miss safety incident hai jisme error patient tak pahunchne se pehle interce
 
 ### Q12. During an enema, the patient develops marked abdominal pain and bleeding. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Stop the procedure and obtain prompt clinical assessment
 - **B.** Reinsert the tip repeatedly without assessment
@@ -377,17 +422,27 @@ Near miss safety incident hai jisme error patient tak pahunchne se pehle interce
 
 **Correct: A. Stop the procedure and obtain prompt clinical assessment**
 
-Marked pain aur bleeding mucosal injury ya other complication suggest kar sakte hain. Nurse procedure stop karke patient assess karti hai.
+Enema ke dauran marked pain ya bleeding possible mucosal injury ya serious complication ka signal hai. Nurse infusion ya insertion immediately rok kar patient ki condition aur vital signs assess karti hai. Prompt clinical help lo, aur bina review procedure dobara shuru mat karo.
 
-**Baaki options kyun sahi nahi hain?** Continued administration, pressure aur repeated insertion injury worsen kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Procedure stop karke clinical assessment arrange karna further harm se bachata hai.
+- **B (Galat):** Repeated insertion injured tissue ko aur damage kar sakti hai.
+- **C (Galat):** Full volume complete karne se safety concern solve nahi hota aur injury badh sakti hai.
+- **D (Galat):** Resistance ko force se overcome karna rectal trauma ka risk badhata hai.
+
+**Exam clue:** Marked pain, bleeding or resistance = stop and assess.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/14-5-administering-other-medications).
+
+**▶️ [YouTube MCQ practice — enema contraindications and complications, Nurspire5](https://www.youtube.com/watch?v=uLtkyfhgK7U).** Published 19 April 2026. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q7](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q7](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q7-during-an-enema-the-patient-develops-marked-abdominal-pain-and-bleeding-what-should-the-nurse-do)
 
 ### Q13. Which practice helps prevent urethral traction from an indwelling catheter?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Use an appropriate securement device and allow adequate slack
 - **B.** Attach the tubing tightly so the catheter pulls during movement
@@ -398,17 +453,30 @@ Marked pain aur bleeding mucosal injury ya other complication suggest kar sakte 
 
 **Correct: A. Use an appropriate securement device and allow adequate slack**
 
-Securement catheter movement limit karti hai aur slack patient movement ke dauran urethral pulling kam karta hai. Location anatomy aur policy se choose hoti hai.
+Traction ka matlab catheter se urethra par khinchav padna hai. Jab patient hilta hai ya bag heavy hota hai, tube kheench sakti hai aur dard, bleeding ya tissue damage ho sakta hai. Appropriate securement aur enough slack movement ke dauran is khinchav ko kam karte hain.
 
-**Baaki options kyun sahi nahi hain?** Tight tubing, hanging bag aur rail movement traction badha sakte hain.
+**Har option ka reason**
+
+- **A (Sahi):** Suitable securement catheter ko stable rakhta hai aur slack patient movement allow karta hai. Site anatomy aur policy par depend karti hai.
+- **B (Galat):** Tube tight rakhna movement ko catheter par transfer karta hai aur trauma ka risk badhata hai.
+- **C (Galat):** Bag ka weight catheter par padne se urethra par pull badhta hai.
+- **D (Galat):** Moving rail se tube bandhne par rail upar-neeche hone se catheter khinch sakta hai.
+
+**Exam clue:** Secure catheter and support bag separately.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q5](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q5](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q5-which-practice-helps-prevent-urethral-traction-from-an-indwelling-catheter)
 
 ### Q14. What is the purpose of a closed suction surgical drain?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Remove and collect fluid from a surgical space
 - **B.** Replace wound sutures
@@ -419,17 +487,30 @@ Securement catheter movement limit karti hai aur slack patient movement ke daura
 
 **Correct: A. Remove and collect fluid from a surgical space**
 
-Drain blood aur serous fluid collect kar sakti hai. Output trends surgical healing aur complications assess karne mein help karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Enteral tube feeding, BP device aur sutures different functions perform karte hain.
+Closed suction drain surgery ke baad operative space mein jama blood ya serous fluid nikalti hai. Tubing reservoir se connected hoti hai aur prescribed negative pressure fluid removal support karta hai. Nurse seal, output aur site assess karti hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Surgical space se fluid collect karna drain ka purpose hai.
+- **B (Galat):** Sutures incision edges hold karte hain, drain unka replacement nahi.
+- **C (Galat):** Arterial BP cuff ya arterial monitoring device se measure hota hai.
+- **D (Galat):** Enteral feeding GI tract mein nutrition deti hai.
+
+**Exam clue:** Closed drain removes operative-space fluid.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/?report=printable)
+
+**▶️ [YouTube MCQ practice — Drainage System, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=rPigPdwDZq8)**. Title and description cover surgical drains and drain care. Topic-level only, exact question, playback and timestamp pending.
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q7](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q7](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q7-what-is-the-purpose-of-a-closed-suction-surgical-drain)
 
 ### Q15. A patient develops acute hypoxemia and bilateral lung infiltrates during or within hours of transfusion without clear circulatory overload. Which complication should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Transfusion-related acute lung injury
 - **B.** A normal post-transfusion change
@@ -440,17 +521,32 @@ Drain blood aur serous fluid collect kar sakti hai. Output trends surgical heali
 
 **Correct: A. Transfusion-related acute lung injury**
 
-TRALI transfusion-related acute lung injury hai jisme pulmonary edema aur oxygenation failure ho sakti hai. TACO aur other causes bhi urgently assess karne hote hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Chronic iron overload immediate pattern explain nahi karta. Dehydration aur normal response serious hypoxemia explain nahi karte.
+TRALI transfusion-related acute lung injury hai. Lung capillaries leak karne par fluid air sacs mein aa sakta hai, bina primarily cardiac volume overload ke. Acute hypoxemia aur bilateral pulmonary edema during ya within six hours transfusion ke compatible clues hain. Transfusion stop karo, ABC aur oxygenation assess karo aur urgent medical help aur blood bank ko notify karo. TACO, sepsis aur other causes exclude karne ke liye clinical review zaroori hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** TRALI is pattern ke liye relevant serious reaction hai. Diagnosis further assessment se hota hai.
+- **B (Galat):** New hypoxemia normal transfusion response nahi hai.
+- **C (Galat):** Simple dehydration acute bilateral lung edema pattern explain nahi karti.
+- **D (Galat):** Chronic iron overload usually repeated transfusions ke baad develop hota hai, immediate lung injury pattern nahi.
+
+**Exam clue:** TRALI: acute hypoxemia and bilateral edema, usually within six hours.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/TRALI)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q6](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q6](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q6-a-patient-develops-acute-hypoxemia-and-bilateral-lung-infiltrates-during-or-within-hours-of-transfusion-without-clear-circulatory-overload-which-complication-should-be-considered)
 
 ### Q16. Before accessing a needleless IV connector, which action reduces infection risk?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Touch the connector opening with bare fingers
 - **B.** Skip cleaning if the previous nurse used it recently
@@ -480,7 +576,7 @@ Connector surface organisms carry kar sakta hai. Hand hygiene, approved antisept
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q7](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q7](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q7-before-accessing-a-needleless-iv-connector-which-action-reduces-infection-risk)
 
 ### Q17. The apical pulse is 112/min and simultaneous radial pulse is 98/min. What is the pulse deficit?
 
@@ -527,7 +623,7 @@ Pulse deficit ka matlab apical heart rate aur palpable radial pulse rate ke beec
 
 ### Q18. What is the primary purpose of an occupied bed-making technique?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Transfer every patient to a stretcher regardless of stability
 - **B.** Avoid cleaning the bed when occupied
@@ -538,17 +634,27 @@ Pulse deficit ka matlab apical heart rate aur palpable radial pulse rate ke beec
 
 **Correct: C. Change linen safely while a patient remains in bed**
 
-Occupied bed technique dependent patient ko bed mein rakhkar linen change karne mein help karti hai. Nurse safety, privacy aur alignment maintain karti hai.
+Occupied bed making ka matlab patient bed par rehte hue linen safely change karna hai. Jo patient transfer tolerate nahi karta, uske liye suitable technique unnecessary transfer avoid kar sakti hai. Nurse patient ki mobility, assistance, skin, devices, privacy aur safe alignment assess karti hai.
 
-**Baaki options kyun sahi nahi hain?** Unnecessary transfer risk add kar sakta hai. Bed hygiene still required hai. Empty admission bed unoccupied technique hai.
+**Option-wise explanation:**
+- **A (Galat):** Har patient ko stretcher par transfer karna unnecessary fall aur device dislodgement risk add kar sakta hai.
+- **B (Galat):** Bed occupied hone se hygiene ki need khatam nahi hoti.
+- **C (Sahi):** Occupied technique ka purpose patient ko bed mein rakhkar safe linen change karna hai.
+- **D (Galat):** Future admission ke liye empty bed prepare karna unoccupied bed making hai.
+
+**Exam clue:** Occupied = patient remains in bed, assessed assistance.
+
+**Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion) · [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed)
+
+**▶️ [YouTube MCQ practice — bed making and safety, Sachin Nursing Classes](https://www.youtube.com/watch?v=rD_VJjoezVs).** Published 10 May 2025. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q8](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q8](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q8-what-is-the-primary-purpose-of-an-occupied-bed-making-technique)
 
 ### Q19. A 20-kg child is prescribed 10 mg/kg per dose of a drug. What is the calculated dose per administration?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 2000 mg
 - **B.** 20 mg
@@ -574,13 +680,15 @@ Dose = weight × prescribed mg/kg = 20 × 10 = 200 mg per dose. Reverse: 200/20 
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related weight-based dosage problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q5](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q5](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q5-a-20-kg-child-is-prescribed-10-mgkg-per-dose-of-a-drug-what-is-the-calculated-dose-per-administration)
 
 ### Q20. Which term describes fever fluctuating above normal without returning to normal during the observed period?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Intermittent fever
 - **B.** Hypothermia
@@ -591,13 +699,26 @@ Dose = weight × prescribed mg/kg = 20 × 10 = 200 mg per dose. Reverse: 200/20 
 
 **Correct: D. Remittent fever**
 
-Remittent pattern mein fever rise-fall karti hai lekin normal level tak nahi aati. Nurse actual temperature trend document karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Intermittent fever normal tak aa sakti hai. Normothermia aur hypothermia fever patterns nahi hain.
+Remittent fever mein temperature rise aur fall karta hai lekin normal range tak nahi aata during observed period. Nurse same suitable measurement route aur timing document karti hai. Pattern exam classification mein useful hai, lekin diagnosis clinical assessment aur investigations ke saath hi establish hota hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Intermittent fever normal range tak return karti hai.
+- **B (Galat):** Hypothermia abnormally low core temperature hai.
+- **C (Galat):** Normothermia normal temperature state hai, fluctuating fever nahi.
+- **D (Sahi):** Remittent pattern mein elevated readings fluctuate karti hain without normal interval.
+
+**Exam clue:** Remittent: fluctuates, remains above normal.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK324/)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q7](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q7](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q7-which-term-describes-fever-fluctuating-above-normal-without-returning-to-normal-during-the-observed-period)
 
 ## Block 2
 
@@ -768,7 +889,7 @@ Sterilization validated physical ya chemical process hai jo viable microbial lif
 
 ### Q26. A pressure injury base is entirely covered by slough and eschar, preventing confirmation of tissue depth. How should it be classified?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 ESIC Staff Nurse 26 February 2019 Shift III — related staging concept, historical management caveat** · Legacy topic-bank reuse
 
 - **A.** Healed stage 4
 - **B.** Unstageable pressure injury
@@ -779,13 +900,23 @@ Sterilization validated physical ya chemical process hai jo viable microbial lif
 
 **Correct: B. Unstageable pressure injury**
 
-Jab slough ya eschar wound depth hide karta hai, actual stage determine nahi ho sakti. Isliye unstageable category use hoti hai until appropriate assessment possible ho.
+Slough dead ya nonviable tissue ka soft moist material ho sakta hai. Eschar usually dry dark necrotic tissue ki layer hoti hai. Jab yeh wound base ko cover karke tissue loss ki actual extent nahi dekhne dete, toh unstageable pressure injury classify karte hain. Sirf staging karne ke liye stable dry heel eschar ya ischemic limb eschar ko remove nahi karna chahiye. Perfusion aur specialist assessment important hain.
 
-**Baaki options kyun sahi nahi hain?** Stage 1 intact skin hai. Stage 2 superficial depth confirmed chahiye. Healed stage 4 ka evidence nahi diya gaya hai.
+**Option-wise explanation:**
+- **A (Galat):** Healed stage 4 kehne ke liye healing history chahiye. Current obscured wound ko healed assume nahi kar sakte.
+- **B (Sahi):** Depth obscured hone se stage 3 aur stage 4 ke beech reliable distinction nahi ho sakta, isliye unstageable correct hai.
+- **C (Galat):** Stage 1 mein skin intact hoti hai, wound base par necrotic covering nahi hoti.
+- **D (Galat):** Stage 2 mein visible dermis hoti hai aur slough ya eschar nahi hota.
+
+**Exam clue:** Unstageable = full-thickness injury whose depth is obscured.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.msdmanuals.com/professional/dermatologic-disorders/pressure-injury/pressure-injuries)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q5](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q5](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q5-a-pressure-injury-base-is-entirely-covered-by-slough-and-eschar-preventing-confirmation-of-tissue-depth-how-should-it-be-classified)
 
 ### Q27. Which route delivers a prescribed drug directly into systemic venous circulation?
 
@@ -898,7 +1029,7 @@ Extended-release tablet medicine ko gradually release karne ke liye designed hot
 
 ### Q30. Which additive is commonly used for a CBC sample?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Delhi Nursing Officer, 16 September 2018 — related reported concept**
 
 - **A.** EDTA
 - **B.** No additive with clot formation
@@ -909,13 +1040,28 @@ Extended-release tablet medicine ko gradually release karne ke liye designed hot
 
 **Correct: A. EDTA**
 
-EDTA calcium bind karke clotting prevent karti hai aur blood cell count ke liye sample suitable rakhti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Citrate coagulation tests aur fluoride glucose tests mein use ho sakti hain. Clotted CBC sample unsuitable ho sakta hai.
+CBC yani complete blood count red cells, white cells, platelets aur related indices measure karta hai. EDTA calcium ions bind karke clot formation rokta hai aur routine hematology ke liye cell suspension preserve karne mein help karta hai. Correct tube, fill aur gentle mixing lab instructions ke according rakho.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** EDTA routine CBC ke liye commonly used anticoagulant hai. Yeh calcium bind karke clotting prevent karta hai.
+- **B (Galat):** Clotted blood mein cells aur platelets clot mein trap ho sakte hain, isliye routine CBC unreliable ho sakta hai.
+- **C (Galat):** Sodium citrate routinely coagulation tests ke liye select hota hai. Specialized hematology exceptions routine CBC rule ko change nahi karti.
+- **D (Galat):** Fluoride glycolysis slow karne ke liye glucose sampling systems mein use ho sakta hai. Routine CBC ke liye preferred additive nahi hai.
+
+**Exam clue:** CBC = EDTA. Tube color manufacturer aur laboratory se verify karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/10-4-blood-sampling)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+
+**Related historical evidence:** [AIIMS Delhi Nursing Officer, 16 September 2018 — memory-based report](https://testbook.com/question-answer/anticoagulant-present-in-hemogram-vial--62bd5c0ecc48a16cb684456c). Yeh third-party question hemogram ke anticoagulant ka concept test karta hai. Official paper aur key independently authenticate nahi hue hain. Yeh exact PYQ nahi hai.
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q5](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q5](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q5-which-additive-is-commonly-used-for-a-cbc-sample)
 
 ### Q31. Which action demonstrates veracity in nursing?
 
@@ -940,7 +1086,7 @@ Veracity truthfulness hai. Nurse jo information know karti hai woh accurately sh
 
 ### Q32. A Jackson-Pratt drain bulb is fully expanded and prescribed suction is lost. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess the system and restore suction using the approved device procedure
 - **B.** Ignore the loss of suction
@@ -951,13 +1097,26 @@ Veracity truthfulness hai. Nurse jo information know karti hai woh accurately sh
 
 **Correct: A. Assess the system and restore suction using the approved device procedure**
 
-Compressed bulb negative pressure create karti hai. Nurse tubing, seal aur output check karke approved method se suction restore karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Puncture aur disconnection contamination risk badhate hain. Prescribed suction ignore nahi karni chahiye.
+Jackson-Pratt bulb compress hone se negative pressure create hota hai. Expanded bulb suction loss ka clue hai. Tubing, seal, output aur connections assess karo. Approved emptying aur recompression process follow karo aur unresolved loss of suction report karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Assessment aur approved restoration safe device care hai.
+- **B (Galat):** Ignore karne se fluid retention ya malfunction miss ho sakta hai.
+- **C (Galat):** Disconnection suction fail rakhti hai aur infection risk badhati hai.
+- **D (Galat):** Puncture se closed system damage aur contamination ho sakti hai.
+
+**Exam clue:** JP drain: maintain prescribed suction.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK593201/?report=printable)
+
+**▶️ [YouTube MCQ practice — Drainage System, VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=rPigPdwDZq8)**. Title and description cover surgical drains and drain care. Topic-level only, exact question, playback and timestamp pending.
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q8](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q8](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q8-a-jackson-pratt-drain-bulb-is-fully-expanded-and-prescribed-suction-is-lost-what-should-the-nurse-do)
 
 ### Q33. A patient has an order for an enteric-coated medication via a feeding tube. What should the nurse do?
 
@@ -995,7 +1154,7 @@ Enteric coating stomach acid se medicine ya stomach lining ko protect kar sakti 
 
 ### Q34. A patient has persistent deep maroon discoloration of intact heel skin after prolonged pressure. Which category should be considered?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Stage 2 in every case
 - **B.** Skin tear by definition
@@ -1006,13 +1165,23 @@ Enteric coating stomach acid se medicine ya stomach lining ko protect kar sakti 
 
 **Correct: C. Deep tissue pressure injury**
 
-Deep tissue pressure injury mein deep red, maroon ya purple discoloration ho sakti hai. Pressure history aur clinical assessment important hain kyunki other causes bhi possible hain.
+Deep tissue pressure injury mein damage deep tissue mein shuru ho sakta hai, jab pressure aur shear bone ke paas tissues ko affect karte hain. Surface skin intact reh sakti hai, lekin deep red, maroon ya purple nonblanchable discoloration dikh sakti hai. Pressure history, skin temperature, pain aur perfusion assess karo. Vascular ischemia, trauma ya doosre causes ko exclude karo, kyunki color akela diagnosis confirm nahi karta.
 
-**Baaki options kyun sahi nahi hain?** Stage 2 exposed dermis hai. Persistent maroon change normal blanching nahi hai. Skin tear separate injury mechanism hai.
+**Option-wise explanation:**
+- **A (Galat):** Stage 2 mein exposed dermis ya serum-filled blister hota hai, har maroon area stage 2 nahi hota.
+- **B (Galat):** Skin tear mechanical trauma se skin layers separate hone ki injury hai. Is stem se skin tear establish nahi hoti.
+- **C (Sahi):** Prolonged pressure ke baad persistent maroon change deep tissue pressure injury ka warning pattern hai.
+- **D (Galat):** Persistent maroon discoloration normal temporary blanchable redness se different hai.
+
+**Exam clue:** Maroon/purple nonblanchable pressure-related change → consider DTPI.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q6](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q6](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q6-a-patient-has-persistent-deep-maroon-discoloration-of-intact-heel-skin-after-prolonged-pressure-which-category-should-be-considered)
 
 ### Q35. During handover using SBAR, which information belongs in the Recommendation section?
 
@@ -1057,7 +1226,7 @@ SBAR structured handover method hai. S mein present concern, B mein relevant pre
 
 ### Q36. Which document element is essential for safe discharge medication instructions?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the date of admission
 - **B.** Only the color of each tablet
@@ -1068,17 +1237,27 @@ SBAR structured handover method hai. S mein present concern, B mein relevant pre
 
 **Correct: D. Clear drug name, dose, route, frequency and relevant changes**
 
-Patient ko ghar par medicine ka correct schedule pata hona chahiye. Clear instructions aur changes explain karne se dosing errors kam ho sakte hain.
+Safe medication instruction mein patient ko clearly pata hona chahiye kaunsi medicine, kitni dose, kis route se, kitni baar aur kab leni hai. New, changed aur stopped medicines reconcile karo. Relevant adverse effects aur missed-dose instructions approved plan se explain karo. Patient se apne words mein schedule repeat karwao aur ambiguity clarify karo.
 
-**Baaki options kyun sahi nahi hain?** Color unreliable identification hai. Abbreviations confuse kar sakti hain. Admission date medicine plan nahi batati.
+**Option-wise explanation:**
+- **A (Galat):** Admission date se home dose schedule nahi pata chalta.
+- **B (Galat):** Color same medicine ke different formulations mein vary kar sakta hai aur different medicines similar dikh sakti hain.
+- **C (Galat):** Unexplained abbreviations misinterpretation cause kar sakti hain. Plain language use karo.
+- **D (Sahi):** Drug name, dose, route, frequency aur changes clear hone se medication errors reduce karne mein help milti hai.
+
+**Exam clue:** Name, dose, route, frequency and changes must be clear.
+
+**Clinical references:** [Clinical reference 1](https://www.ahrq.gov/patient-safety/settings/hospital/match/chapter-7.html) · [Clinical reference 2](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q7](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q7](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q7-which-document-element-is-essential-for-safe-discharge-medication-instructions)
 
 ### Q37. Why is ventrogluteal placement often preferred to dorsogluteal placement for a suitable non-vaccine IM drug?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It is relatively distant from the sciatic nerve and major vessels
 - **B.** It eliminates the need to assess anatomy
@@ -1089,17 +1268,32 @@ Patient ko ghar par medicine ka correct schedule pata hona chahiye. Clear instru
 
 **Correct: A. It is relatively distant from the sciatic nerve and major vessels**
 
-Ventrogluteal region mein sciatic nerve injury ka risk relatively lower ho sakta hai. Nurse drug, volume aur patient anatomy assess karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** IV direct circulation mein jaata hai. Ventrogluteal region muscle contain karta hai aur landmarking required hai.
+Ventrogluteal site hip ke lateral region mein gluteal muscles ko access karti hai. Dorsogluteal site ke comparison mein sciatic nerve aur major vessels se relative distance iski safety advantage hai. Drug formulation, permitted site, volume, patient anatomy aur correct landmarking verify karo. Site ko blindly select karna safe nahi hai.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Sciatic nerve aur major vessels se relative distance suitable ventrogluteal placement ka main safety reason hai.
+- **B (Galat):** Correct anatomical assessment aur landmarks phir bhi zaroori hain. No site is automatically risk-free.
+- **C (Galat):** IV medication directly bloodstream mein enter karti hai. IM absorption drug aur tissue perfusion par depend karti hai, universally IV se faster nahi.
+- **D (Galat):** Ventrogluteal region muscle contain karti hai. Isi muscle tissue mein suitable IM medicine deliver hoti hai.
+
+**Exam clue:** Ventrogluteal: relative neurovascular safety, not no-risk placement.
+
+**Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q5](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q5](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q5-why-is-ventrogluteal-placement-often-preferred-to-dorsogluteal-placement-for-a-suitable-non-vaccine-im-drug)
 
 ### Q38. An AED announces that a shock is advised. Which action is correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wait several minutes after shock before resuming compressions
 - **B.** Delay shock until a complete clinical history is obtained
@@ -1110,13 +1304,25 @@ Ventrogluteal region mein sciatic nerve injury ka risk relatively lower ho sakta
 
 **Correct: D. Ensure no one is touching the patient, deliver the shock as directed and resume CPR promptly**
 
-AED shock ke waqt contact avoid karna rescuer safety ke liye important hai. Shock ke baad CPR promptly resume hoti hai according to algorithm.
+AED rhythm analyse karke shockable rhythm mein shock advise karta hai. Shock se pehle sabko patient se contact hatana chahiye, aur device prompts follow karne chahiye. Shock ke turant baad usual algorithm mein chest compressions resume hoti hain, jab tak clear signs ya team assessment se circulation return ka indication na ho. Long unnecessary pause se perfusion gir sakti hai.
 
-**Baaki options kyun sahi nahi hain?** Touching unsafe hai. History aur long pause perfusion delay karte hain.
+**Option-wise explanation:**
+- **A (Galat):** Shock ke baad minutes tak wait karna CPR interruption ko badha deta hai.
+- **B (Galat):** Complete history ka wait indicated shock ko unnecessarily delay karta hai.
+- **C (Galat):** Shock ke waqt patient ko touch karna rescuer safety risk create karta hai.
+- **D (Sahi):** Clear contact, deliver advised shock, then promptly resume CPR according to device and team protocol.
+
+**Exam clue:** AED: clear, shock if advised, resume CPR promptly.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q7](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q7](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q7-an-aed-announces-that-a-shock-is-advised-which-action-is-correct)
 
 ### Q39. A nurse notices an incorrect medication entry in an electronic health record. What is the appropriate action?
 
@@ -1161,7 +1367,7 @@ Electronic record mein error correct karna zaroori hai, lekin original entry aur
 
 ### Q40. A patient with suspected fever has shaking chills while temperature is rising. Which explanation is most accurate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Shivering always means the core temperature is normal
 - **B.** Shivering indicates that body heat production has ceased
@@ -1172,19 +1378,32 @@ Electronic record mein error correct karna zaroori hai, lekin original entry aur
 
 **Correct: C. The body's current temperature may be below the newly raised set point**
 
-Fever onset mein set point raise hota hai. Body current temperature ko relative cold samajhkar muscles shiver karwati hai aur heat generate karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Normal temperature necessarily nahi hai. Hypothalamic regulation active hai. Shivering heat produce karti hai.
+Fever ki onset mein hypothalamus higher set point establish karta hai. Body ka actual temperature is target se abhi kam hota hai, isliye patient ko thand lag sakti hai even while temperature rising ho. Shivering muscle contraction ke through heat generate karti hai aur peripheral vasoconstriction heat loss kam karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Shivering normal core temperature prove nahi karti.
+- **B (Galat):** Shivering heat production badhati hai, band nahi karti.
+- **C (Sahi):** Current temperature raised set point se kam ho sakta hai, jo chills explain karta hai.
+- **D (Galat):** Hypothalamus ka set point change hona permanent failure nahi hai.
+
+**Exam clue:** Chills while fever rises = body trying to reach higher set point.
+
+**Clinical reference:** [Clinical guidance](https://www.merckmanuals.com/professional/infectious-diseases/biology-of-infectious-disease/fever)
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q5](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q5](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q5-a-patient-with-suspected-fever-has-shaking-chills-while-temperature-is-rising-which-explanation-is-most-accurate)
 
 ## Block 3
 
 ### Q41. Which pain scale commonly uses numbers from 0 to 10 for a patient who can understand numerical ratings?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 MPESB Nursing Officer, 25 November 2022 Shift I — related reported concept only**
 
 - **A.** Apgar score
 - **B.** Numeric rating scale
@@ -1195,13 +1414,27 @@ Fever onset mein set point raise hota hai. Body current temperature ko relative 
 
 **Correct: B. Numeric rating scale**
 
-Numeric rating mein zero no pain aur ten worst imaginable pain represent karta hai. Nurse same scale se response compare kar sakti hai.
+Numeric rating scale ya NRS patient ko number se intensity express karne deti hai. Common 0–10 scale mein 0 no pain aur 10 worst imaginable pain ko represent karta hai. Patient se scale ka meaning confirm karo. Reassessment mein same appropriate scale aur functional goal use karne se response compare kar sakte hain.
 
-**Baaki options kyun sahi nahi hain?** GCS consciousness, Braden pressure risk aur Apgar newborn adaptation assess karte hain.
+**Option-wise explanation:**
+- **A (Galat):** Apgar score newborn ki immediate adaptation assess karta hai, adult pain rating nahi.
+- **B (Sahi):** Numeric rating scale 0–10 numbers use karti hai aur suitable communicative patients ke liye appropriate hai.
+- **C (Galat):** Glasgow Coma Scale consciousness ko assess karti hai. Yeh pain intensity score nahi hai.
+- **D (Galat):** Braden Scale pressure injury risk assess karti hai, pain intensity nahi.
+
+**Exam clue:** NRS = pain 0–10, not GCS or Braden.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-4-pain-assessment)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+
+**Related historical evidence:** [MPESB Nursing Officer, 25 November 2022 Shift I — third-party question page](https://testbook.com/question-answer/a-nurse-is-assessing-a-client-with-bone-cancer-pai--677d2fa6d6ad1b93a093ab1c). The retrieved third-party item tests pain intensity in bone cancer. Its explanation discusses numerical pain assessment. This is related evidence, not the same stem or an authenticated official key.
+
+**Supplementary practice lead:** [Pain and pain scale — JINC E-NURSING](https://www.youtube.com/watch?v=nYuWCxkc4m0). Publisher title identifies guide solution and description includes MCQ tags, exact coverage unverified.
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q5](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q5](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q5-which-pain-scale-commonly-uses-numbers-from-0-to-10-for-a-patient-who-can-understand-numerical-ratings)
 
 ### Q42. A patient has been on bed rest for weeks and is beginning rehabilitation. Why should upright activity be progressed gradually?
 
@@ -1247,7 +1480,7 @@ Anticipatory grief loss hone se pehle develop ho sakta hai. Patient aur family f
 
 ### Q44. What is the role of pulse oximetry in oxygen therapy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Replace assessment of breathing effort
 - **B.** Estimate peripheral arterial oxygen saturation and track trends with clinical assessment
@@ -1258,17 +1491,27 @@ Anticipatory grief loss hone se pehle develop ho sakta hai. Patient aur family f
 
 **Correct: B. Estimate peripheral arterial oxygen saturation and track trends with clinical assessment**
 
-Pulse oximeter hemoglobin oxygen saturation estimate karta hai. Nurse waveform, perfusion aur patient symptoms ke saath reading interpret karti hai.
+Pulse oximeter light ke through hemoglobin ke oxygen saturation ka estimate deta hai, jise SpO2 kehte hain. Yeh trend monitor karne mein useful hai, lekin poor perfusion, movement, nail products aur skin pigmentation reading ko affect kar sakte hain. Nurse saturation ko respiratory rate, work of breathing aur patient symptoms ke saath interpret karti hai. Concern ho toh indicated blood gas ya other assessment arrange karo.
 
-**Baaki options kyun sahi nahi hain?** PaCO2 ABG se assess hoti hai. Hb separate blood test hai. Respiratory effort still assess karna chahiye.
+**Option-wise explanation:**
+- **A (Galat):** Normal SpO2 inadequate ventilation ya increased breathing effort ko exclude nahi karta. Clinical respiratory assessment zaroori hai.
+- **B (Sahi):** SpO2 arterial oxygen saturation ka noninvasive estimate hai. Clinical findings ke saath trend useful hai.
+- **C (Galat):** Saturation hemoglobin ke oxygen-bound fraction ka estimate hai, total hemoglobin concentration nahi.
+- **D (Galat):** Standard pulse oximeter carbon dioxide pressure directly measure nahi karta. PaCO2 ke liye arterial blood gas assessment useful ho sakti hai.
+
+**Exam clue:** SpO2 estimates saturation, not PaCO2, Hb or ventilation.
+
+**Clinical references:** [Reference 1](https://www.fda.gov/consumers/consumer-updates/pulse-oximeter-basics) · [Reference 2](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning)
+
+**▶️ [YouTube MCQ practice — pulse oximetry, Nursing Wallah by PW (43:28)](https://www.youtube.com/watch?v=GRozFrA3VCg&t=2608s).** Publisher description of the 20 April 2026 MCQ Countdown session lists this topic chapter. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q5](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q5](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q5-what-is-the-role-of-pulse-oximetry-in-oxygen-therapy)
 
 ### Q45. Which statement about aspiration before routine IM vaccination reflects current guidance?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It is performed only after vaccine delivery
 - **B.** It is not recommended at correctly selected vaccine sites
@@ -1279,17 +1522,30 @@ Pulse oximeter hemoglobin oxygen saturation estimate karta hai. Nurse waveform, 
 
 **Correct: B. It is not recommended at correctly selected vaccine sites**
 
-Recommended vaccination sites par large vessels generally nahi hoti. Routine aspiration recommended nahi hai. Non-vaccine drugs ke liye product aur policy check karo.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Mandatory aspiration, after-injection aspiration aur deliberate blood return vaccination guidance se match nahi karte.
+Aspiration ka matlab needle insert karne ke baad injection se pehle plunger withdraw karke blood return check karna hai. CDC routine vaccines ke recommended anatomical sites par aspiration necessary nahi maanta, kyunki wahan large blood vessels present nahi hoti aur aspiration discomfort badha sakti hai. Is recommendation ko sab non-vaccine IM drugs ke liye universal rule mat banao. Unke liye product instructions aur local policy follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Vaccine delivery ke baad aspiration karna pre-injection check ka purpose fulfill nahi karta.
+- **B (Sahi):** Correctly selected recommended vaccine sites par routine aspiration recommended nahi hai.
+- **C (Galat):** Every vaccine ke liye mandatory aspiration current CDC guidance se match nahi karti.
+- **D (Galat):** Blood return intentionally seek karna routine vaccine delivery ka requirement nahi hai. Vaccine intended muscle tissue mein jaati hai.
+
+**Exam clue:** Routine IM vaccination: no aspiration at recommended sites.
+
+**Clinical references:** [Clinical reference 1](https://www.cdc.gov/vaccines/hcp/imz-best-practices/vaccine-administration.html) · [Clinical reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596739/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q6](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q6](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q6-which-statement-about-aspiration-before-routine-im-vaccination-reflects-current-guidance)
 
 ### Q46. A patient on oxygen suddenly becomes confused, tachypneic and cyanotic. Which response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wait until the prescribed oxygen bag is empty
 - **B.** Remove monitoring because readings may be abnormal
@@ -1300,17 +1556,27 @@ Recommended vaccination sites par large vessels generally nahi hoti. Routine asp
 
 **Correct: C. Assess airway and breathing, verify delivery and activate urgent clinical help**
 
-Oxygen therapy ke bawajood patient deteriorate ho sakta hai. Nurse airway, ventilation aur oxygen supply assess karke emergency escalation karti hai.
+New confusion, tachypnea aur cyanosis oxygen delivery ya breathing mein serious problem ke clues ho sakte hain. Cyanosis mein lips ya mucosa bluish lag sakti hain, lekin is sign ka absent hona safety prove nahi karta. Nurse airway aur breathing urgently assess karti hai, oxygen source aur device verify karti hai, monitoring continue karti hai aur emergency help activate karti hai. Zarurat par trained team ventilation support arrange karti hai.
 
-**Baaki options kyun sahi nahi hain?** Device presence adequate oxygenation guarantee nahi karti. Monitoring remove aur delay unsafe hain.
+**Option-wise explanation:**
+- **A (Galat):** Supply khatam hone tak wait karna patient ko further hypoxemia ke risk mein rakhta hai.
+- **B (Galat):** Monitoring remove karne se deterioration ka trend miss ho sakta hai. Reading ko clinical assessment ke saath check karo.
+- **C (Sahi):** Airway and breathing assessment, delivery check aur urgent escalation immediate safety priorities hain.
+- **D (Galat):** Oxygen device laga hona adequate gas exchange ki guarantee nahi hai.
+
+**Exam clue:** New confusion or cyanosis on oxygen = urgent reassessment.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/clinical-nursing-skills/pages/18-4-management-of-impaired-cardiopulmonary-functioning) · [Reference 2](https://pubmed.ncbi.nlm.nih.gov/34728574/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q8](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q8](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q8-a-patient-on-oxygen-suddenly-becomes-confused-tachypneic-and-cyanotic-which-response-is-appropriate)
 
 ### Q47. Which practice improves patient orientation after admission?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Keep the call bell out of reach
 - **B.** Avoid answering questions until discharge
@@ -1321,17 +1587,29 @@ Oxygen therapy ke bawajood patient deteriorate ho sakta hai. Nurse airway, venti
 
 **Correct: D. Explain the call bell, room facilities, safety precautions and relevant ward routine**
 
-Orientation patient ko environment safely use karne aur help access karne mein support karti hai. Nurse language aur sensory needs consider karti hai.
+New ward patient ke liye unfamiliar environment ho sakti hai. Nurse call bell ka use demonstrate karti hai, accessible location par rakhti hai aur bathroom, assistance, visiting routine aur relevant precautions explain karti hai. Patient ki language, hearing, vision aur mobility needs ke according teaching adjust karo. Understanding confirm karo.
 
-**Baaki options kyun sahi nahi hain?** Assumptions aur inaccessible call bell safety reduce karte hain. Questions timely answer karne chahiye.
+**Option-wise explanation:**
+- **A (Galat):** Call bell out of reach hone par patient help nahi bula paayega aur fall risk badh sakta hai.
+- **B (Galat):** Questions postpone karne se uncertainty aur unsafe self-care badh sakti hai.
+- **C (Galat):** Har patient ward se familiar ho, yeh assumption safe nahi hai.
+- **D (Sahi):** Clear orientation aur accessible help system patient ko environment safely use karne mein help karte hain.
+
+**Exam clue:** Orient, demonstrate call bell, confirm access.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-1-patient-admission)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary teaching only:** [CASS RN — Nursing Fundamentals: Admits, Discharge, Transfers](https://www.youtube.com/watch?v=2lhbhDXtKpc). Publisher description confirms general procedures, not MCQ practice.
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q5](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q5](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q5-which-practice-improves-patient-orientation-after-admission)
 
 ### Q48. How should a filled anticoagulant tube be mixed?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Gently invert it according to manufacturer directions
 - **B.** Open and stir with a nonsterile stick
@@ -1342,17 +1620,30 @@ Orientation patient ko environment safely use karne aur help access karne mein s
 
 **Correct: A. Gently invert it according to manufacturer directions**
 
-Gentle inversion additive ko blood ke saath distribute karti hai. Excess shaking cell damage cause kar sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Vigorous shaking hemolysis risk hai. Open stirring contamination aur clotting test error cause kar sakte hain.
+Anticoagulant ko collected blood mein uniformly mix hona chahiye. Manufacturer ki recommended gentle inversions se mixing hoti hai bina unnecessary mechanical stress ke. Har tube ka inversion count same nahi hota. Sample mein clot, foam ya hemolysis ho toh lab instructions follow karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Gentle inversion additive ko distribute karti hai aur excessive shaking se bachati hai.
+- **B (Galat):** Tube kholkar nonsterile stick use karna contamination aur exposure risk badhata hai.
+- **C (Galat):** Anticoagulated sample ko clot hone dena intended test ko unreliable bana sakta hai.
+- **D (Galat):** Vigorous shaking cells ko damage kar sakti hai aur foam ya hemolysis ka risk badha sakti hai.
+
+**Exam clue:** Mix gently as directed, never assume universal inversion count.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK138665/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q8](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q8](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q8-how-should-a-filled-anticoagulant-tube-be-mixed)
 
 ### Q49. A patient has diabetes, reduced foot sensation and thick toenails. Which approach is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess foot circulation and sensation and arrange appropriate nail care when risk is high
 - **B.** Soak feet in very hot water
@@ -1363,17 +1654,27 @@ Gentle inversion additive ko blood ke saath distribute karti hai. Excess shaking
 
 **Correct: A. Assess foot circulation and sensation and arrange appropriate nail care when risk is high**
 
-Neuropathy mein injury ya burn patient ko feel nahi ho sakti. Safe foot assessment aur qualified nail care wound risk reduce karte hain.
+Diabetes mein peripheral neuropathy ka matlab feet ki nerves ka sensation reduce hona hai. Poor circulation aur reduced protective sensation ke saath chhoti cut ya burn bhi unnoticed rehkar wound ban sakti hai. Foot skin, circulation, sensation aur nail condition assess karo. High-risk thick nails ya callus ke liye trained foot-care specialist arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Deep cutting, heat aur unassessed blade use tissue injury kar sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Risk assessment aur appropriate specialist nail care injury prevention support karte hain.
+- **B (Galat):** Very hot water reduced sensation wale foot ko burn kar sakta hai.
+- **C (Galat):** Unassessed sharp blade skin cut aur infection ka risk badhata hai.
+- **D (Galat):** Deep corner cutting ingrown nail, bleeding ya tissue injury cause kar sakti hai.
+
+**Exam clue:** Neuropathy = assess first, avoid heat and sharp self-care.
+
+**Clinical reference:** [ADA 2026 foot care](https://doi.org/10.2337/dc26-s012) · [ADA daily foot care](https://diabetes.org/health-wellness/diabetes-and-your-feet/foot-care-tips)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q6](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q6](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q6-a-patient-has-diabetes-reduced-foot-sensation-and-thick-toenails-which-approach-is-safest)
 
 ### Q50. Why can a markedly underfilled citrate tube affect coagulation tests?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** The ratio never affects the result
 - **B.** Excess citrate relative to blood may prolong measured clotting time
@@ -1384,13 +1685,26 @@ Neuropathy mein injury ya burn patient ko feel nahi ho sakti. Safe foot assessme
 
 **Correct: B. Excess citrate relative to blood may prolong measured clotting time**
 
-Blood volume kam ho toh citrate proportion zyada ho jaata hai. Extra calcium binding test ko distort kar sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Underfill accuracy improve nahi karti. Calcium binding citrate ka mechanism hai aur ratio relevant hai.
+Citrate tube mein additive ki quantity fixed hoti hai. Jab required blood se bahut kam sample aata hai toh blood ke comparison mein citrate zyada ho jaata hai. Lab mein calcium add karne par bhi extra citrate calcium bind kar sakta hai, jis se clotting time falsely prolonged aa sakta hai. Lab rejection ya recollection policy follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Ratio coagulation results ke liye important hai. Fill line ignore karna error cause kar sakta hai.
+- **B (Sahi):** Extra citrate clot formation delay kar sakta hai, isliye measured clotting time falsely long aa sakta hai.
+- **C (Galat):** Citrate calcium bind karta hai. Underfill mein yeh effect relative amount ke hisaab se zyada ho sakta hai.
+- **D (Galat):** Underfill blood aur additive ratio disturb karta hai. Accuracy improve nahi hoti.
+
+**Exam clue:** Underfilled citrate tube = ratio error and possible false prolongation.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK138675/?report=classic)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q7](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q7](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q7-why-can-a-markedly-underfilled-citrate-tube-affect-coagulation-tests)
 
 ### Q51. A dying patient has dry mouth, limited oral intake and an aspiration risk. Which comfort measure is appropriate?
 
@@ -1415,7 +1729,7 @@ End-of-life mein dry mouth distressing ho sakta hai. Gentle oral care comfort pr
 
 ### Q52. Which additive is used for routine PT and aPTT samples?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** EDTA as the standard
 - **B.** Sodium citrate with correct blood-to-additive ratio
@@ -1426,17 +1740,30 @@ End-of-life mein dry mouth distressing ho sakta hai. Gentle oral care comfort pr
 
 **Correct: B. Sodium citrate with correct blood-to-additive ratio**
 
-Citrate calcium reversibly bind karti hai aur lab controlled clotting test kar sakti hai. Correct fill level important hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** EDTA CBC, fluoride glucose aur clot activator serum collection se related hain.
+PT yani prothrombin time aur aPTT yani activated partial thromboplastin time clotting pathways assess karte hain. Sodium citrate calcium ko reversibly bind karta hai. Lab controlled calcium aur reagents add karke clot banne ka time measure karti hai. Standard collection mein blood-to-citrate ratio aam taur par 9:1 hota hai, aur high hematocrit jaise exceptions mein lab adjustment kar sakti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** EDTA strong calcium binding karta hai aur routine CBC ke liye suitable hai. Routine coagulation testing ka standard nahi.
+- **B (Sahi):** Correct citrate ratio sample aur reagent ke balance ko maintain karta hai. Routine PT/aPTT ke liye yahi appropriate option hai.
+- **C (Galat):** Clot activator serum formation promote karta hai. Coagulation test ke liye properly anticoagulated plasma chahiye.
+- **D (Galat):** Fluoride glucose metabolism ko slow karne wale sample additives mein use ho sakta hai. PT/aPTT ke liye standard nahi.
+
+**Exam clue:** PT/aPTT = sodium citrate, correct fill line.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/clinical-nursing-skills/pages/10-4-blood-sampling)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Specimen collection and laboratory safety, Q6](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md)
+[Source topic bank: Specimen collection and laboratory safety, Q6](../MCQs/20-Specimen-Collection-and-Laboratory-Safety-20-MCQs.md#q6-which-additive-is-used-for-routine-pt-and-aptt-samples)
 
 ### Q53. A patient has a new ostomy and is being discharged tomorrow but cannot demonstrate appliance care. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Tell the patient to improvise without equipment
 - **B.** Mark teaching complete because a leaflet was provided
@@ -1447,17 +1774,27 @@ Citrate calcium reversibly bind karti hai aur lab controlled clotting test kar s
 
 **Correct: C. Assess barriers and arrange further teaching and necessary discharge support**
 
-Safe home care ke liye practical skill important hai. Nurse teach-back, demonstration aur caregiver or specialist support coordinate kar sakti hai.
+Ostomy ek surgically created opening hai jisse intestinal contents pouch mein collect ho sakte hain. Home par patient ko pouch empty/change karna, skin protect karna aur warning signs recognize karna seekhna hota hai. Agar skill demonstrate nahi ho rahi toh pain, vision, dexterity, anxiety, literacy ya supply barriers assess karo. Return demonstration, chosen caregiver aur stoma specialist support coordinate karo. Team se discharge readiness review karo.
 
-**Baaki options kyun sahi nahi hain?** Leaflet alone competence prove nahi karta. Follow-up useful hai. Improvised care leakage aur skin injury cause kar sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Improvised equipment leakage aur skin breakdown ka risk badha sakta hai.
+- **B (Galat):** Leaflet dene se competence automatically establish nahi hoti. Actual demonstration check karo.
+- **C (Sahi):** Barrier assessment aur additional teaching/support safe home care ke liye appropriate hai.
+- **D (Galat):** Reading ability practical skill ya follow-up needs eliminate nahi karti.
+
+**Exam clue:** Discharge teaching requires assessed ability, not leaflet delivery alone.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge) · [Clinical reference 2](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q6](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q6](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q6-a-patient-has-a-new-ostomy-and-is-being-discharged-tomorrow-but-cannot-demonstrate-appliance-care-what-should-the-nurse-do)
 
 ### Q54. A patient requires maximal assistance and cannot bear weight. Which transfer method is safest?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Attempt an unsupported stand-pivot transfer
 - **B.** Have the patient hold the nurse's neck for support
@@ -1468,17 +1805,27 @@ Safe home care ke liye practical skill important hai. Nurse teach-back, demonstr
 
 **Correct: D. Use an appropriate mechanical lift with trained staff after assessment**
 
-Non-weight-bearing dependent patient manual transfer mein fall aur caregiver injury ka risk high hai. Suitable lift aur trained team safer transfer provide karte hain.
+Non-weight-bearing dependent patient apne legs se transfer support nahi kar sakta. Assessment ke baad compatible full-body mechanical lift, suitable sling aur trained staff use karein. Equipment capacity, lines, skin aur patient comfort check karein.
 
-**Baaki options kyun sahi nahi hain?** Single manual lift, unsupported standing aur neck holding unsafe ho sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Unsupported stand-pivot ke liye adequate weight bearing aur control chahiye. Is patient mein fall ka risk hai.
+- **B (Galat):** Nurse ki neck pakadne se nurse aur patient dono injured ho sakte hain. Yeh approved transfer support nahi hai.
+- **C (Galat):** Ek nurse ka manual dependent lift patient fall aur musculoskeletal injury ka high-risk method hai.
+- **D (Sahi):** Suitable mechanical lift body weight support karta hai aur manual lifting strain kam karta hai. Trained staff aur assessed sling zaroori hain.
+
+**Exam clue:** Cannot bear weight + maximal assistance = assessed mechanical lift.
+
+**Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
+
+**YouTube MCQ practice: specific verification pending.**
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q6](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q6](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q6-a-patient-requires-maximal-assistance-and-cannot-bear-weight-which-transfer-method-is-safest)
 
 ### Q55. What is the purpose of the Z-track technique for selected IM medications?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 HPSSSB Staff Nurse, October 2020 — related reported concept only**
 
 - **A.** Create a dermal wheal
 - **B.** Increase venous access
@@ -1489,13 +1836,30 @@ Non-weight-bearing dependent patient manual transfer mein fall aur caregiver inj
 
 **Correct: C. Reduce leakage back into subcutaneous tissue**
 
-Skin aur subcutaneous tissue displace karke needle track offset kiya jaata hai. Isse selected irritating IM drugs ka leakage kam ho sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Wheal ID injection mein banti hai. Venous access IV route hai. Allergy Z-track se prevent nahi hoti.
+Z-track technique mein selected IM medicine ke liye skin aur underlying subcutaneous tissue ko displace kiya jaata hai. Needle remove hone ke baad displaced tissue release hone se puncture path offset ho jaata hai. Iska purpose medication ke superficial tissue mein wapas leak hone ka risk kam karna hai, especially irritating ya staining formulations ke liye jab indicated ho. Drug-specific instructions follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Dermal wheal intradermal technique se associated hai, Z-track ka purpose nahi.
+- **B (Galat):** Venous access IV procedure ka objective hai. Z-track selected IM administration ka method hai.
+- **C (Sahi):** Offset tissue track medicine ko muscle mein retain karne aur leakage reduce karne mein help karta hai.
+- **D (Galat):** Allergy immune response se related hoti hai. Z-track allergic reaction prevention guarantee nahi karta.
+
+**Exam clue:** Z-track reduces tracking of selected IM medicine into superficial tissue.
+
+**Clinical references:** [Clinical reference 1](https://www.ncbi.nlm.nih.gov/books/NBK596739/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+
+**Related historical evidence:** [HPSSSB Staff Nurse, October 2020 — third-party report](https://testbook.com/question-answer/which-of-the-following-is-injected-deep-i-m-by--61b9c14d908510dedf620a9a). Retrieved historical item tests a drug associated with Z-track and discusses prevention of leakage. Related concept only, not a present-day drug-route recommendation. Official key unverified.
+
+**Supplementary teaching only:** [Level Up RN — Intradermal, Subcutaneous, and Intramuscular Injections](https://www.youtube.com/watch?v=mHeETNVXeoY). Publisher chapter list confirms injection demonstrations, not dedicated MCQs.
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q7](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q7](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q7-what-is-the-purpose-of-the-z-track-technique-for-selected-im-medications)
 
 ### Q56. Which complication is associated with reduced deep breathing and secretion clearance during immobility?
 
@@ -1520,7 +1884,7 @@ Immobility aur shallow breathing se lung ke kuch areas poorly ventilated reh sak
 
 ### Q57. Why should a medication not be added directly to a blood component bag?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It may be incompatible, contaminate the product or cause a dosing or identification error
 - **B.** All drugs are guaranteed compatible with red cells
@@ -1531,17 +1895,32 @@ Immobility aur shallow breathing se lung ke kuch areas poorly ventilated reh sak
 
 **Correct: A. It may be incompatible, contaminate the product or cause a dosing or identification error**
 
-Blood component controlled product hai. Unapproved addition reaction, contamination ya incompatibility cause kar sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Blood every drug neutralize nahi karta. Universal compatibility aur routine addition incorrect hain.
+Blood component ek carefully prepared biological product hai. Direct medicine addition se chemical incompatibility, clotting, contamination aur incorrect dose ka risk ho sakta hai. Medication ke liye separate approved route ya lumen arrange karo aur compatibility pharmacist aur blood bank se verify karo.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Unapproved medicine addition product safety aur dose accuracy affect kar sakti hai.
+- **B (Galat):** Universal drug compatibility established nahi hai.
+- **C (Galat):** Blood har drug ko neutralize nahi karta.
+- **D (Galat):** Routine transfusion mein medicines bag mein add karna required nahi hai.
+
+**Exam clue:** Never add medication directly to a blood component bag.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/transfusion-process/administration-blood-components)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q8](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q8](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q8-why-should-a-medication-not-be-added-directly-to-a-blood-component-bag)
 
 ### Q58. Why should rescuers allow complete chest recoil between compressions?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Recoil is needed only after defibrillation
 - **B.** Recoil supports venous return and cardiac filling
@@ -1552,17 +1931,29 @@ Blood component controlled product hai. Unapproved addition reaction, contaminat
 
 **Correct: B. Recoil supports venous return and cardiac filling**
 
-Compression release hone par chest pressure decrease hota hai aur blood heart ki taraf return kar sakta hai. Leaning is filling ko impair kar sakti hai.
+Recoil ka matlab har compression ke baad chest ko apni normal position mein poora wapas aane dena hai. Jab chest release hoti hai toh venous blood ko heart ki taraf return karne ka mauka milta hai. Agar rescuer chest par leaned rehta hai toh filling aur circulation compromise ho sakti hai. Hands ko position par rakho lekin residual pressure release karo.
 
-**Baaki options kyun sahi nahi hain?** Continuous pressure normal recoil rokta hai. Recoil har compression cycle mein important hai.
+**Option-wise explanation:**
+- **A (Galat):** Recoil har compression cycle ka part hai. Defibrillation ke baad hi zaroori nahi hota.
+- **B (Sahi):** Complete recoil heart filling aur agle compression ke liye blood flow support karta hai.
+- **C (Galat):** Recoil heart ko blood receive karne se nahi rokta. Yeh filling support karta hai.
+- **D (Galat):** Leaning intrathoracic pressure ko elevated rakh sakti hai aur venous return impair kar sakti hai.
+
+**Exam clue:** Press, release fully, avoid leaning.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q5](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q5](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q5-why-should-rescuers-allow-complete-chest-recoil-between-compressions)
 
 ### Q59. A patient at risk of hypercapnic respiratory failure has an oxygen prescription specifying a target saturation range. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Titrate oxygen to the prescribed target and arrange indicated blood gas assessment
 - **B.** Withhold oxygen during severe hypoxemia solely because COPD is present
@@ -1573,17 +1964,29 @@ Compression release hone par chest pressure decrease hota hai aur blood heart ki
 
 **Correct: A. Titrate oxygen to the prescribed target and arrange indicated blood gas assessment**
 
-Some patients mein uncontrolled oxygen hypercapnia worsen kar sakti hai. Target-based oxygen aur clinical monitoring safety improve karte hain. Severe hypoxemia urgent treatment maangti hai.
+Hypercapnia ka matlab blood mein carbon dioxide ka level zyada hona hai. Kuch patients mein excessive oxygen ventilation-perfusion matching aur hemoglobin ke CO2 carriage mein changes ke through PaCO2 badha sakti hai. Isliye oxygen ko prescribed target ke hisaab se titrate karte hain. Hypercapnic respiratory failure ke risk mein adult target often 88–92% hota hai jab tak blood gas se individualized plan clear ho. Severe hypoxemia ko untreated nahi chhodna chahiye. Clinical deterioration mein urgent emergency support lo.
 
-**Baaki options kyun sahi nahi hain?** Universal 100% target inappropriate ho sakta hai. Oxygen completely withhold karna harmful ho sakta hai. Reassessment essential hai.
+**Option-wise explanation:**
+- **A (Sahi):** Target-based titration aur indicated blood gas assessment oxygenation aur ventilation dono ko appropriately assess karne mein help karte hain.
+- **B (Galat):** COPD ka label oxygen rokne ka reason nahi hai. Severe hypoxemia urgently address karni hai.
+- **C (Galat):** Patient ki oxygen requirement aur CO2 status change ho sakte hain. Ek setting par bina monitoring rehna unsafe hai.
+- **D (Galat):** Universal 100% target unnecessary hyperoxia aur susceptible patient mein CO2 retention ka risk badha sakta hai.
+
+**Exam clue:** Treat hypoxemia, titrate to target and assess CO2 risk.
+
+**Clinical references:** [Reference 1](https://pubmed.ncbi.nlm.nih.gov/34728574/) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
+
+**Supplementary practice lead:** [Oxygen Therapy FON MCQ Countdown Series](https://www.youtube.com/watch?v=GRozFrA3VCg). Indexed title only, direct retrieval failed and specific coverage unverified. Not counted as verified dedicated mapping.
+
+**▶️ [YouTube MCQ practice — oxygen therapy in COPD, Nursing Wallah by PW (34:43)](https://www.youtube.com/watch?v=tOxTKjgTcTo&t=2083s).** Publisher chapter list for the 29 December 2025 respiratory MCQ session confirms this topic. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q6](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q6](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q6-a-patient-at-risk-of-hypercapnic-respiratory-failure-has-an-oxygen-prescription-specifying-a-target-saturation-range-which-action-is-appropriate)
 
 ### Q60. A patient injecting insulin repeatedly into one spot develops firm fatty lumps. Which teaching is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Use the identical puncture point daily
 - **B.** Rotate sites systematically and avoid abnormal tissue according to guidance
@@ -1594,13 +1997,26 @@ Some patients mein uncontrolled oxygen hypercapnia worsen kar sakti hai. Target-
 
 **Correct: B. Rotate sites systematically and avoid abnormal tissue according to guidance**
 
-Repeated injections lipohypertrophy cause kar sakti hain aur insulin absorption unpredictable ho sakti hai. Rotation aur site assessment important hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Lump mein repeated dosing, forceful massage aur same puncture point tissue problems worsen kar sakte hain.
+Lipohypertrophy ka matlab repeated insulin exposure aur local injection trauma ke saath subcutaneous fatty tissue ka thickened ya lumpy ho jaana hai. Abnormal tissue mein insulin absorption delayed ya variable ho sakti hai. Nurse site examine karti hai aur systematic rotation, fresh needles aur abnormal areas avoid karna sikhati hai. Normal tissue par switch karne se insulin absorption change ho sakti hai, isliye glucose monitoring aur dose review prescribing team ke saath zaroori hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Same puncture point daily use karne se local tissue injury aur lipohypertrophy continue ho sakti hai.
+- **B (Sahi):** Systematic rotation aur abnormal tissue avoidance insulin absorption ko more predictable banane mein help karte hain.
+- **C (Galat):** Lumps mein repeated dosing se variable absorption ka concern persist karta hai.
+- **D (Galat):** Forceful massage lipohypertrophy ka treatment nahi hai aur local trauma badha sakti hai.
+
+**Exam clue:** Rotate insulin injection sites and reassess glucose when changing away from lumps.
+
+**Clinical references:** [Clinical reference 1](https://pmc.ncbi.nlm.nih.gov/articles/PMC6437255/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Injection techniques and drug routes, Q8](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md)
+[Source topic bank: Injection techniques and drug routes, Q8](../MCQs/19-Injection-Techniques-and-Drug-Routes-20-MCQs.md#q8-a-patient-injecting-insulin-repeatedly-into-one-spot-develops-firm-fatty-lumps-which-teaching-is-appropriate)
 
 ## Block 4
 
@@ -1646,7 +2062,7 @@ Cleaning physical soil, blood aur organic material ko water, detergent aur appro
 
 ### Q62. Which theorist is associated with fourteen basic human needs and helping patients gain independence?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Martha Rogers
 - **B.** Hildegard Peplau
@@ -1657,17 +2073,30 @@ Cleaning physical soil, blood aur organic material ko water, detergent aur appro
 
 **Correct: D. Virginia Henderson**
 
-Henderson ne breathing, eating, elimination aur other basic activities ko nursing assistance se connect kiya. Aim patient independence support karna hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Peplau relationship, Rogers unitary human beings aur King goal attainment theory se associated hain.
+Henderson ne nursing care ko fourteen basic human needs se joda. Jaise patient ko saans lene, khane, movement, rest aur hygiene mein help ki zaroorat ho sakti hai. Nurse strength, knowledge aur ability assess karke help deti hai, taaki patient jitna possible ho independent ban sake.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Rogers person aur environment ko ek integrated whole ke roop mein samjhati hain.
+- **B (Galat):** Peplau ka focus therapeutic relationship aur communication par hai, fourteen needs par nahi.
+- **C (Galat):** King ka focus nurse aur patient ke milkar goal decide karne aur achieve karne par hai.
+- **D (Sahi):** Henderson ki fourteen basic needs patient ki nursing care aur independence ko assess karne ka framework deti hain.
+
+**Exam clue:** Fourteen basic needs aur independence ka clue Henderson se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q5](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q5](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q5-which-theorist-is-associated-with-fourteen-basic-human-needs-and-helping-patients-gain-independence)
 
 ### Q63. Which specimen handling action is appropriate for a stool sample?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Mix the sample with disinfectant
 - **B.** Collect the sample from a shared toilet after flushing
@@ -1678,13 +2107,23 @@ Henderson ne breathing, eating, elimination aur other basic activities ko nursin
 
 **Correct: D. Use the specified clean container and avoid contamination with urine or toilet water**
 
-Urine aur toilet water specimen dilute ya contaminate kar sakte hain. Correct container, label aur lab transport instructions follow karni chahiye.
+Stool test ki reliability specimen ke sahi collection par depend karti hai. Urine, toilet water ya chemicals sample ki composition badal sakte hain. Nurse test-specific container, patient identifiers, collection time, infection precautions aur laboratory transport instructions follow karti hai.
 
-**Baaki options kyun sahi nahi hain?** Shared toilet, disinfectant aur missing label result reliability compromise karte hain.
+**Option-wise explanation:**
+- **A (Galat):** Disinfectant organisms ko destroy ya test reaction ko alter kar sakta hai.
+- **B (Galat):** Shared toilet se sample mein doosre organisms ya water mix ho sakta hai.
+- **C (Galat):** Unlabeled container se sample ki patient identity confirm nahi hoti aur wrong result attribution ho sakta hai.
+- **D (Sahi):** Specified clean container aur contamination se bachav valid specimen obtain karne mein help karte hain.
+
+**Exam clue:** Correct patient, correct container, uncontaminated sample.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/10-2-stool-collection).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q5](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q5](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q5-which-specimen-handling-action-is-appropriate-for-a-stool-sample)
 
 ### Q64. After removal of a large volume of ascitic fluid, a patient becomes dizzy and hypotensive. What should the nurse do?
 
@@ -1709,7 +2148,7 @@ Large-volume drainage circulation ko affect kar sakti hai. New hypotension aur d
 
 ### Q65. Which intervention directly reduces sustained pressure on the heels in a bedbound patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Keep both heels pressed against the mattress
 - **B.** Place a hard ring beneath each heel
@@ -1720,13 +2159,23 @@ Large-volume drainage circulation ko affect kar sakti hai. New hypotension aur d
 
 **Correct: C. Offload the heels with appropriate support and reassess positioning**
 
-Heel offloading calcaneus ke upar tissue pressure kam kar sakti hai. Support calf ko distribute karke heel free rakhne mein help karta hai.
+Heel ke neeche calcaneus yani heel bone hoti hai aur soft tissue comparatively kam hota hai. Sustained pressure se local tissue damage ho sakta hai. Heel ko bed surface se completely offload karne ke liye appropriate calf support ya assessed heel suspension device use karo. Device fit, skin, circulation aur alignment regularly reassess karo.
 
-**Baaki options kyun sahi nahi hain?** Hard ring localized pressure create kar sakti hai. Redness massage tissue damage worsen kar sakti hai. Continuous contact pressure maintain karta hai.
+**Option-wise explanation:**
+- **A (Galat):** Heel mattress se pressed rahe toh sustained pressure kam nahi hoga.
+- **B (Galat):** Hard ring edge par concentrated pressure bana sakti hai aur safe offloading ka substitute nahi hai.
+- **C (Sahi):** Appropriate offloading heel aur mattress ka contact pressure kam karti hai. Reassessment se naya pressure point identify hota hai.
+- **D (Galat):** Nonblanchable redness massage karne se vulnerable tissue par aur mechanical force pad sakti hai.
+
+**Exam clue:** Float the heel safely and check skin/device fit.
+
+**Clinical references:** [Reference 1](https://www.internationalguideline.com/repositioning) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q7](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q7](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q7-which-intervention-directly-reduces-sustained-pressure-on-the-heels-in-a-bedbound-patient)
 
 ### Q66. A patient receives an analgesic according to the care plan. The nurse reassesses pain and sedation at the appropriate interval. Which nursing process phase is illustrated by reassessment of the outcome?
 
@@ -1774,7 +2223,7 @@ Analgesic dena implementation hai. Uske baad nurse pain score aur sedation ko ap
 
 ### Q67. A 24-kg child has a prescription for 30 mg/kg/day divided into three equal doses. What is the amount per dose?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** 360 mg
 - **B.** 720 mg
@@ -1800,13 +2249,15 @@ Daily mass = 24 × 30 = 720 mg/day. Per dose = 720/3 = 240 mg. Reverse: 240 × 3
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/11-2-dosing)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related pediatric dosage problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q6](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q6](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q6-a-24-kg-child-has-a-prescription-for-30-mgkgday-divided-into-three-equal-doses-what-is-the-amount-per-dose)
 
 ### Q68. During transfusion an older patient develops dyspnea, hypertension and signs of volume overload. Which complication is particularly relevant?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 AIIMS NORCET 6 Prelims, 2024 — related reported concept**
 
 - **A.** An uncomplicated vasovagal reaction
 - **B.** Expected therapeutic response
@@ -1817,17 +2268,34 @@ Daily mass = 24 × 30 = 720 mg/day. Per dose = 720/3 = 240 mg. Reverse: 240 × 3
 
 **Correct: D. Transfusion-associated circulatory overload**
 
-TACO mein transfused volume circulation overload kar sakta hai. Breathlessness aur hypertension possible clues hain. Urgent assessment aur reaction protocol needed hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Iron deficiency acute overload explain nahi karti. New respiratory distress normal response nahi hai. Vasovagal reaction often hypotension ke saath hoti hai.
+TACO ka full form transfusion-associated circulatory overload hai. Transfused volume patient ke heart aur circulation ki capacity se zyada ho jaaye toh fluid lungs mein jama ho sakta hai. Dyspnea, rising BP, crackles, raised JVP aur positive fluid balance clues ho sakte hain. Transfusion stop karo, ABC assess karo aur urgent help lo. Oxygen, positioning aur prescribed diuretics clinical assessment ke according use hote hain. TACO aur TRALI overlap bhi kar sakte hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Vasovagal reaction mein aksar BP fall aur relative bradycardia hoti hai, volume overload typical nahi.
+- **B (Galat):** New dyspnea aur hypertension ko expected response nahi maan sakte.
+- **C (Galat):** Iron deficiency acute pulmonary fluid overload explain nahi karti.
+- **D (Sahi):** TACO mein excess circulatory volume respiratory distress cause kar sakta hai.
+
+**Exam clue:** TACO: respiratory distress with evidence of overload.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/adverse-events/TACO)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**▶️ [YouTube MCQ practice — circulatory overload versus septicemia, Nursing Wallah by PW (25:21)](https://www.youtube.com/watch?v=RpMSsU42K4o&t=1521s).** 18 March 2026 MCQ Countdown session ki published chapter list is topic ko cover karti hai. Exact question aur playback confirm nahi hue hain.
+
+**Related historical evidence:** [NORCET 6 Prelims 2024 memory-based report](https://testbook.com/question-answer/after-blood-transfusion-sign-and-symptom-of-circu--662a478cb5c94215148dee68). Is report mein transfusion ke baad circulatory overload ke findings poochhe gaye hain. Official paper aur key authenticate nahi hue hain. Yeh original question related concept test karta hai.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q5](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q5](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q5-during-transfusion-an-older-patient-develops-dyspnea-hypertension-and-signs-of-volume-overload-which-complication-is-particularly-relevant)
 
 ### Q69. A patient wears removable dentures. Which action protects the dentures during cleaning?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Wrap them in a disposable tissue without labeling
 - **B.** Boil every denture regardless of material
@@ -1838,17 +2306,27 @@ TACO mein transfused volume circulation overload kar sakta hai. Breathlessness a
 
 **Correct: C. Handle them over a lined basin and use appropriate denture care**
 
-Denture drop hone par break ho sakti hai. Lined basin aur labeled storage accidental loss aur damage reduce karte hain.
+Dentures removable artificial teeth hain. Inhe drop karne se fracture ho sakta hai aur tissue mein wrap karne se accidental discard ka risk hota hai. Cleaning ke waqt suitable lined basin use karo, material-specific cleaner aur temperature follow karo. Remove karne par labeled suitable container mein patient ki preferences aur product guidance ke according store karo.
 
-**Baaki options kyun sahi nahi hain?** Hard surface damage risk badhati hai. Boiling material distort kar sakti hai. Tissue mein denture accidentally discard ho sakti hai.
+**Option-wise explanation:**
+- **A (Galat):** Unmarked tissue mein denture waste samajhkar discard ho sakti hai.
+- **B (Galat):** Boiling heat-sensitive denture material ko distort kar sakti hai.
+- **C (Sahi):** Lined basin impact reduce karta hai aur suitable denture care material protect karti hai.
+- **D (Galat):** Hard floor par girne se fracture ka risk badh sakta hai.
+
+**Exam clue:** Protect dentures from impact, heat and loss.
+
+**Clinical reference:** [OpenStax hygiene assistance](https://openstax.org/books/clinical-nursing-skills/pages/7-3-assisting-with-hygiene-and-health-promotion) · [OpenStax hygiene practices](https://openstax.org/books/clinical-nursing-skills/pages/7-1-hygiene-practices)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
-[Source topic bank: Hygiene, bed making and comfort, Q5](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md)
+[Source topic bank: Hygiene, bed making and comfort, Q5](../MCQs/13-Hygiene-Bed-Making-and-Comfort-20-MCQs.md#q5-a-patient-wears-removable-dentures-which-action-protects-the-dentures-during-cleaning)
 
 ### Q70. A urine culture is ordered for a patient with an existing indwelling catheter. Where should a fresh specimen usually be obtained?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 NORCET 20 November 2021 Shift II — related reported concept** · Legacy topic-bank reuse
 
 - **A.** From fluid used to wash the patient's skin
 - **B.** By disconnecting the tubing at any point
@@ -1859,17 +2337,29 @@ Denture drop hone par break ho sakti hai. Lined basin aur labeled storage accide
 
 **Correct: D. From the designated sampling port using aseptic technique**
 
-Sampling port fresh urine collect karne mein help karta hai without unnecessarily breaking system. Nurse port disinfect karke protocol follow karti hai.
+Urine culture lab mein microorganisms ki growth check karta hai. Purana bag urine patient ke fresh bladder urine ko accurately represent nahi kar sakta. Fresh sample ke liye designated needleless sampling port ko disinfect karke sterile syringe ya compatible adaptor se aseptic collection karo. Arbitrary tubing puncture mat karo.
 
-**Baaki options kyun sahi nahi hain?** Old bag urine bacterial growth se misleading ho sakti hai. Disconnection infection risk badhati hai. Skin wash urine specimen nahi hai.
+**Har option ka reason**
 
+- **A (Galat):** Skin wash fluid mein urine sample nahi hota aur contamination misleading result de sakti hai.
+- **B (Galat):** Tubing disconnect karna unnecessary contamination aur CAUTI risk badhata hai.
+- **C (Galat):** Din bhar bag mein pada urine contaminated ya colonized ho sakta hai, isliye culture ke liye appropriate nahi hai.
+- **D (Sahi):** Designated port fresh sample lene deta hai aur closed connection preserve karta hai. Sample ko label karke lab instructions follow karo.
+
+**Exam clue:** Culture = fresh aseptic sampling port. Old bag urine ya arbitrary puncture nahi.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**Related exam evidence:** [AIIMS NORCET, 20 November 2021 Shift II — memory-based report](https://testbook.com/question-answer/a-patient-is-unconscious-nurse-is-going-to-take-th--65f82ec5c3d23f0c2a353e20). Reported option 4 uses older ambiguous aspiration wording. Current CDC guidance favors the designated needleless sampling port, not arbitrary tubing puncture.
+
+**YouTube MCQ practice:** Specific coverage verification pending.
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q6](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q6](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q6-a-urine-culture-is-ordered-for-a-patient-with-an-existing-indwelling-catheter-where-should-a-fresh-specimen-usually-be-obtained)
 
 ### Q71. Which method best supports independence in a patient with limited hand strength during feeding?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Provide suitable adaptive utensils and assistance only as needed
 - **B.** Feed the patient completely without checking ability
@@ -1880,17 +2370,27 @@ Sampling port fresh urine collect karne mein help karta hai without unnecessaril
 
 **Correct: A. Provide suitable adaptive utensils and assistance only as needed**
 
-Adaptive utensils grip aur control improve kar sakte hain. Nurse patient ko jitna safely possible ho khud eat karne deti hai.
+Limited hand strength mein patient spoon ko grip karne ya food ko mouth tak le jaane mein difficulty feel kar sakta hai. Adapted handle, suitable utensil aur assessed positioning se patient apna kaam jitna safely possible ho khud kar sakta hai. Nurse adequate time, dignity aur required help provide karti hai.
 
-**Baaki options kyun sahi nahi hain?** Unnecessary full assistance independence reduce kar sakti hai. Meal remove karna intake reduce karta hai. Standard utensils barrier ho sakte hain.
+**Option-wise explanation:**
+- **A (Sahi):** Adaptive utensils grip aur control improve karte hain. Need-based assistance independence maintain karti hai.
+- **B (Galat):** Ability check kiye bina complete feeding patient ki remaining skills use karne ka chance kam karti hai.
+- **C (Galat):** Slow eating ki wajah se tray remove karna nutritional intake reduce kar sakta hai.
+- **D (Galat):** Standard utensils force karne se fatigue aur frustration badh sakti hai.
+
+**Exam clue:** Promote safe self-feeding with appropriate aids.
+
+**Clinical references:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/6-swallowing-nutrition-and-oral-care)
+
+**Dedicated YouTube MCQ practice:** verification pending.
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q5](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q5](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q5-which-method-best-supports-independence-in-a-patient-with-limited-hand-strength-during-feeding)
 
 ### Q72. During the initial meeting, a nurse and patient identify the presenting concern and establish roles. Which phase of Peplau's relationship is illustrated?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Termination
 - **B.** Resolution after goals are achieved
@@ -1901,13 +2401,26 @@ Adaptive utensils grip aur control improve kar sakte hain. Nurse patient ko jitn
 
 **Correct: D. Orientation**
 
-Orientation phase mein nurse aur patient meet karke problem identify aur relationship ki purpose establish karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Termination ya resolution relationship conclude hone par hoti hai. Initial interaction necessary hai.
+Orientation relationship ki shuruaat hai. Jab nurse pehli baar patient se milti hai, toh apna role batati hai, patient ki concerns sunti hai aur care ka purpose clarify karti hai. Isse trust build hota hai. Peplau ke original framework mein orientation, identification, exploitation aur resolution phases hain. Modern teaching mein beech ke phases ko working phase ke andar bhi samjhaya jaata hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Termination relationship ke end ko describe karti hai, pehli meeting ko nahi.
+- **B (Galat):** Resolution mein goals aur needs review hone ke baad professional relationship conclude hota hai.
+- **C (Galat):** Bina patient se interaction kiye evaluation karna initial relationship establish nahi karta.
+- **D (Sahi):** Orientation mein initial meeting, concerns identify karna aur roles clarify karna hota hai.
+
+**Exam clue:** Pehli meeting aur roles clarify karne ko orientation se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q7](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q7](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q7-during-the-initial-meeting-a-nurse-and-patient-identify-the-presenting-concern-and-establish-roles-which-phase-of-peplaus-relationship-is-illustrated)
 
 ### Q73. A patient's fingers are cold and a pulse oximeter reading fluctuates widely with a poor waveform. What should the nurse do?
 
@@ -1994,7 +2507,7 @@ Paracentesis abdomen ki peritoneal cavity se ascitic fluid remove karti hai. Dia
 
 ### Q76. Which goal is served by preoperative instruction in deep breathing and mobilization?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Eliminate the need to reassess after surgery
 - **B.** Replace postoperative pain management
@@ -2005,17 +2518,30 @@ Paracentesis abdomen ki peritoneal cavity se ascitic fluid remove karti hai. Dia
 
 **Correct: D. Prepare the patient for appropriate postoperative recovery activities**
 
-Preoperative teaching patient ko recovery exercises samajhne ka time deti hai. Surgery ke baad nurse condition aur restrictions ke according practice reinforce karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Teaching complications completely prevent nahi karti. Pain control aur assessment still important hain.
+Operation ke baad pain, anesthesia aur bed rest ki wajah se patient shallow breathing kar sakta hai aur kam move kar sakta hai. Isse lung ke air sacs collapse hone aur immobility-related complications ka risk badh sakta hai. Surgery se pehle nurse suitable deep breathing, coughing aur mobilization techniques samjha sakti hai. Baad mein stability, pain aur surgical restrictions dekhkar exercises reinforce ki jaati hain.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Teaching postoperative assessment ki zaroorat khatam nahi karti.
+- **B (Galat):** Pain management ke bina patient deep breath ya movement comfortably nahi kar paata.
+- **C (Galat):** Koi exercise sabhi possible postoperative complications ko prevent karne ki guarantee nahi deti.
+- **D (Sahi):** Preoperative instruction patient ko recovery activities ke liye mentally aur practically prepare karti hai.
+
+**Exam clue:** Recovery exercises ko patient ki current condition ke hisaab se reinforce karo.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/fundamentals-nursing/pages/31-2-preoperative-phase)
+
+**▶️ [YouTube MCQ practice — deep breathing and postoperative teaching, ADAPT NCLEX REVIEW (11:31)](https://www.youtube.com/watch?v=Ci3Sy-0m8h4&t=691s).** 7 January 2025 ki published question chapter list is related topic ko cover karti hai. Exact item aur playback confirm nahi hue hain.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q6](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q6](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q6-which-goal-is-served-by-preoperative-instruction-in-deep-breathing-and-mobilization)
 
 ### Q77. During enteral feeding, the tube's external marking changes substantially. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Increase feeding rate to compensate for interruption
 - **B.** Stop feeding and re-establish placement according to protocol before further use
@@ -2026,13 +2552,23 @@ Preoperative teaching patient ko recovery exercises samajhne ka time deti hai. S
 
 **Correct: B. Stop feeding and re-establish placement according to protocol before further use**
 
-External length change tube migration indicate kar sakti hai. Nurse feed stop karke position verify karwati hai.
+External marking tube ke nose ke paas visible length batati hai. Marking mein major change tube migrate hone ka warning hai. Tube tip esophagus ya airway mein shift ho sakti hai. Feed aur medicines stop karo, patient assess karo aur approved method se placement dobara confirm karvao. Confirmed safe use se pehle flush ya feed resume mat karo.
 
-**Baaki options kyun sahi nahi hain?** Blind advancement airway injury ya malposition cause kar sakti hai. Faster rate aur ignoring change unsafe hain.
+**Option-wise explanation:**
+- **A (Galat):** Rate increase displacement correct nahi karta.
+- **B (Sahi):** Feed hold aur placement re-verification wrong-route administration prevent karte hain.
+- **C (Galat):** Cough absent hone se wrong placement exclude nahi hota.
+- **D (Galat):** Blind advancement tube ko wrong route mein le ja sakta hai aur tissue damage kar sakta hai.
+
+**Exam clue:** Changed external length = hold, check, confirm before use.
+
+**Clinical references:** [NHS England NG safety](https://www.england.nhs.uk/patient-safety/patient-safety-insight/patient-safety-alerts/enduring-standards/standards-that-remain-valid/medical-device-safety/) · [Open RN enteral tube management](https://www.ncbi.nlm.nih.gov/books/NBK593216/)
+
+**YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q7](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q7](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q7-during-enteral-feeding-the-tubes-external-marking-changes-substantially-what-should-the-nurse-do)
 
 ### Q78. A patient with a feeding tube is due for medicines, but initial placement has not been confirmed. What is the priority?
 
@@ -2057,7 +2593,7 @@ Unconfirmed tube respiratory tract mein ho sakti hai. Feed, water ya medicines i
 
 ### Q79. A patient has a patient-controlled analgesia pump. Which teaching is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Press repeatedly on behalf of an unresponsive patient
 - **B.** Disable the prescribed lockout interval
@@ -2068,17 +2604,27 @@ Unconfirmed tube respiratory tract mein ho sakti hai. Feed, water ya medicines i
 
 **Correct: C. Only the patient should activate the dose button unless a specifically authorized protocol applies**
 
-PCA patient ko pain ke according prescribed bolus request karne deti hai. Patient asleep ya oversedated ho toh self-activation naturally kam hoti hai. Proxy dosing overdose risk create kar sakti hai.
+Patient-controlled analgesia ya PCA ek programmed pump hai jisme patient prescribed bolus request karta hai. Lockout ka matlab dose ke baad set interval tak next bolus automatically nahi milti. Patient ka alert enough hona ek safety protection hai. Unauthorized proxy dosing is protection ko bypass kar sakti hai. Nurse pump settings, pain, sedation aur breathing monitor karti hai. Special clinician-controlled analgesia sirf explicitly authorized separate protocol ke under hoti hai.
 
-**Baaki options kyun sahi nahi hain?** Family or staff unauthorized activation safety barrier bypass karti hai. Lockout disable karna unsafe hai.
+**Option-wise explanation:**
+- **A (Galat):** Unresponsive patient ko proxy bolus dene ki jagah urgent airway, breathing aur sedation assessment chahiye.
+- **B (Galat):** Prescribed lockout disable karne se repeated doses aur overdose ka risk badhta hai.
+- **C (Sahi):** Routine PCA button sirf patient press kare. Special authorized protocol ko routine family dosing se confuse mat karo.
+- **D (Galat):** Sleeping patient ke behalf par family ka button press karna sedation aur respiratory depression ka risk badha sakta hai.
+
+**Exam clue:** PCA: patient presses, lockout stays enabled.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/30-5-pain-management)
+
+**▶️ [YouTube MCQ practice — PCA safety and opioid risk, Nursing McQs](https://www.youtube.com/watch?v=1BwXR37xAO4).** Publisher description dated 28 June 2025 explicitly lists case-based MCQs on PCA safety and opioid risk. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q6](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q6](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q6-a-patient-has-a-patient-controlled-analgesia-pump-which-teaching-is-most-appropriate)
 
 ### Q80. A postoperative patient in recovery has gurgling respirations and reduced consciousness. What takes priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Teach discharge exercises before assessment
 - **B.** Check the meal preference first
@@ -2089,13 +2635,26 @@ PCA patient ko pain ke according prescribed bolus request karne deti hai. Patien
 
 **Correct: D. Assess airway patency and breathing and obtain appropriate airway support**
 
-Gurgling secretions ya airway obstruction suggest kar sakti hai. Reduced consciousness ke saath airway compromise urgent priority hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Oral fluid aspiration risk badhati hai. Meal aur discharge teaching breathing stabilize hone ke baad appropriate hain.
+Gurgling awaaz airway mein secretions ya fluid ka clue ho sakti hai. Jab consciousness kam hoti hai, toh patient airway ko khud protect nahi kar paata. Nurse turant airway aur breathing assess karti hai, emergency help leti hai aur trained team ke saath indicated airway positioning, suction, oxygen ya ventilation support arrange karti hai. Routine care ke liye emergency assessment delay nahi karna chahiye.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Discharge exercises immediate life-threatening problems manage hone ke baad sikhayi jaati hain.
+- **B (Galat):** Meal preference breathing compromise address nahi karti aur assessment delay kar sakti hai.
+- **C (Galat):** Reduced consciousness mein oral fluid lungs mein ja sakta hai.
+- **D (Sahi):** Airway aur breathing first priority hain, kyunki oxygen supply rukne par patient rapidly deteriorate ho sakta hai.
+
+**Exam clue:** Reduced consciousness aur abnormal breathing mein airway aur breathing ko priority do.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q7](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q7](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q7-a-postoperative-patient-in-recovery-has-gurgling-respirations-and-reduced-consciousness-what-takes-priority)
 
 ## Block 5
 
@@ -2164,7 +2723,7 @@ Sparking electrical equipment shock, burn ya fire hazard create karta hai. Patie
 
 ### Q83. Which solution is commonly used for routine compatible peripheral IV flushing when prescribed and appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Sterile 0.9% sodium chloride
 - **B.** Tap water
@@ -2194,7 +2753,7 @@ Sterile normal saline suitable compatible peripheral access ke routine flushing 
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q5](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q5](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q5-which-solution-is-commonly-used-for-routine-compatible-peripheral-iv-flushing-when-prescribed-and-appropriate)
 
 ### Q84. A patient develops sudden dyspnea and unilateral reduced breath sounds after thoracentesis. What is the priority?
 
@@ -2281,7 +2840,7 @@ Respiration normally automatic hoti hai lekin patient conscious effort se breath
 
 ### Q87. A patient is medically ready for discharge but has no safe means of obtaining essential medication. What is the appropriate nursing response?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Advise the patient to stop all prescribed medication
 - **B.** Discharge without mentioning the issue
@@ -2292,17 +2851,27 @@ Respiration normally automatic hoti hai lekin patient conscious effort se breath
 
 **Correct: C. Escalate the barrier to the discharge team and coordinate a feasible plan**
 
-Access barrier treatment interruption cause kar sakta hai. Nurse social work, pharmacy aur team ke saath safe continuity plan arrange karti hai.
+Medically ready hone ke bawajood essential medicine obtain na kar paana safe discharge mein barrier hai. Cost, availability, transportation ya patient understanding check karo. Pharmacy, case management, social support aur prescribing team se feasible access plan arrange karwao. Patient ko bina authorization treatment stop ya substitute karne ko mat kaho. Plan aur follow-up document karo.
 
-**Baaki options kyun sahi nahi hain?** Omission aur medication stopping unsafe hain. Another patient's medicine transfer inappropriate hai.
+**Option-wise explanation:**
+- **A (Galat):** All medicines abruptly stop karna serious deterioration cause kar sakta hai. Prescriber review zaroori hai.
+- **B (Galat):** Issue mention na karne se patient essential therapy miss kar sakta hai.
+- **C (Sahi):** Barrier escalate karke practical solution coordinate karna continuity of treatment support karta hai.
+- **D (Galat):** Another patient's medicines dena identification, prescription aur safety rules violate kar sakta hai.
+
+**Exam clue:** Medication access is part of discharge readiness.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/fundamentals-nursing/pages/8-3-patient-discharge) · [Clinical reference 2](https://www.ahrq.gov/patient-safety/patients-families/engagingfamilies/strategy4/index.html)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Admission, transfer and discharge, Q8](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md)
+[Source topic bank: Admission, transfer and discharge, Q8](../MCQs/18-Admission-Transfer-and-Discharge-20-MCQs.md#q8-a-patient-is-medically-ready-for-discharge-but-has-no-safe-means-of-obtaining-essential-medication-what-is-the-appropriate-nursing-response)
 
 ### Q88. A patient has unilateral leg weakness and is learning to walk with a cane. In which hand is the cane usually held?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** The hand on the weaker side in all cases
 - **B.** Either hand without evaluating gait
@@ -2313,17 +2882,27 @@ Access barrier treatment interruption cause kar sakta hai. Nurse social work, ph
 
 **Correct: D. The hand opposite the weaker leg**
 
-Opposite hand mein cane weak leg ke stance phase ko support karti hai. Physiotherapist patient-specific gait instruction deta hai.
+Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki jaati hai. Cane aur weaker leg ka coordinated movement base of support badhata hai aur affected hip ki demand reduce kar sakta hai. Gait pattern therapist se individualize karein.
 
-**Baaki options kyun sahi nahi hain?** Same-side use kuch situations mein modified ho sakta hai lekin usual pattern opposite hand hai. Behind-body support unsafe hai. Gait assessment needed hai.
+**Option-wise explanation:**
+- **A (Galat):** Same-side use kuch individualized conditions mein ho sakta hai, lekin all cases mein nahi. Usual teaching opposite hand hai.
+- **B (Galat):** Bina gait assessment kisi bhi side use karna unsafe ho sakta hai, especially poor balance ya upper-limb weakness mein.
+- **C (Galat):** Cane body ke peeche dono hands se pakadna safe forward support aur normal gait pattern ko compromise karta hai.
+- **D (Sahi):** Opposite hand mein cane weak leg ke stance phase ko support karti hai. Yeh standard teaching pattern hai.
+
+**Exam clue:** Weak left leg → cane usually right hand.
+
+**Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
+
+**▶️ [YouTube MCQ practice — cane ambulation, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=hjn6I5P77KE&t=4178s)** · Published question chapter 1:09:38, 24 November 2024. Topic-level only, exact item and playback pending.
 
 </details>
 
-[Source topic bank: Mobility, positioning and body mechanics, Q8](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md)
+[Source topic bank: Mobility, positioning and body mechanics, Q8](../MCQs/10-Mobility-Positioning-and-Body-Mechanics-20-MCQs.md#q8-a-patient-has-unilateral-leg-weakness-and-is-learning-to-walk-with-a-cane-in-which-hand-is-the-cane-usually-held)
 
 ### Q89. Which IV fluid is conventionally compatible with standard red-cell administration, subject to blood bank policy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** 0.9% sodium chloride
 - **B.** 5% dextrose as the universal compatible solution
@@ -2334,17 +2913,32 @@ Opposite hand mein cane weak leg ke stance phase ko support karti hai. Physiothe
 
 **Correct: A. 0.9% sodium chloride**
 
-Normal saline commonly blood administration line ke liye compatible solution hai. Local transfusion policy aur equipment instructions verify karni hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Dextrose ya water red cells ko damage kar sakte hain. Calcium-containing fluid ki compatibility automatically assume nahi karni chahiye.
+0.9% sodium chloride isotonic normal saline hai aur standard red-cell administration ke saath universally compatible crystalloid mana jaata hai. Blood administration set, filter aur local blood bank policy follow karo. Other solutions ko same line mein tabhi use karo jab specific compatibility established ho.
+
+**Option-wise explanation:**
+
+- **A (Sahi):** Normal saline standard compatible option hai.
+- **B (Galat):** Dextrose-containing fluid red cells ko damage kar sakti hai aur universally compatible nahi hai.
+- **C (Galat):** Sterile water alone hypotonic hai aur hemolysis cause kar sakta hai.
+- **D (Galat):** Calcium-containing fluids ko routine compatible assume nahi karte. Citrated blood ke saath clotting concern ho sakta hai.
+
+**Exam clue:** Blood line: 0.9% saline, approved set and policy.
+
+**Clinical reference:** [Clinical guidance](https://www.lifeblood.com.au/health-professionals/clinical-practice/transfusion-process/administration-blood-components)
+
+**Indian guidance:** [DGHS Blood Transfusion Services and national standards/manual overview](https://www.dghs.mohfw.gov.in/bts.php).
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Blood transfusion and fluid balance, Q7](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md)
+[Source topic bank: Blood transfusion and fluid balance, Q7](../MCQs/22-Blood-Transfusion-and-Fluid-Balance-20-MCQs.md#q7-which-iv-fluid-is-conventionally-compatible-with-standard-red-cell-administration-subject-to-blood-bank-policy)
 
 ### Q90. A 750-mL IV infusion is prescribed over 6 hours with a drop factor of 20 gtt/mL. What is the nearest whole drop rate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 HPSSSB Staff Nurse October 2020 — related calculation concept only](https://testbook.com/question-answer/infusion-of-1000-ml-of-ns-over-12-hrs-require-how--61b9b9238f094c8109585eb0)** · **[🟣 AIIMS NORCET 9 Mains 27 September 2025 — related calculation concept only](https://testbook.com/question-answer/a-patient-is-ordered-to-receive-500-ml-of-0-9-nor--692eeb0485d5af5dbcd0885a)** · Legacy topic-bank reuse
 
 - **A.** 250 gtt/min
 - **B.** 42 gtt/min
@@ -2370,9 +2964,11 @@ Normal saline commonly blood administration line ke liye compatible solution hai
 [Calculation reference](https://openstax.org/books/clinical-nursing-skills/pages/13-3-intravenous-infusion)
 <!-- /job5-rationale -->
 
+**▶️ [Numerical question practice — VS Nursing Academy — Ritika Mam](https://www.youtube.com/watch?v=b6CtL33WFQQ)** — published description inspected 27 November 2026, explicitly covers related gravity drops/minute problems. Topic-level mapping only, exact question, timestamp and playback not verified.
+
 </details>
 
-[Source topic bank: Drug dose and infusion calculations, Q8](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md)
+[Source topic bank: Drug dose and infusion calculations, Q8](../MCQs/07-Drug-Dose-and-Infusion-Calculations-20-MCQs.md#q8-a-750-ml-iv-infusion-is-prescribed-over-6-hours-with-a-drop-factor-of-20-gttml-what-is-the-nearest-whole-drop-rate)
 
 ### Q91. Which intervention helps preserve muscle function in a stable bedbound patient who can contract muscles but cannot yet walk?
 
@@ -2397,7 +2993,7 @@ Active or assisted exercises patient ki remaining strength use karti hain. Nurse
 
 ### Q92. A patient in recovery has rapidly falling BP, rising pulse and increasing wound drainage. Which complication is most concerning?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** A simple knowledge deficit
 - **B.** Normal sleep physiology
@@ -2408,17 +3004,30 @@ Active or assisted exercises patient ki remaining strength use karti hain. Nurse
 
 **Correct: D. Postoperative hemorrhage with impaired perfusion**
 
-Bleeding se circulating volume kam ho sakta hai. Tachycardia aur hypotension poor perfusion suggest karte hain, isliye urgent surgical review chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Ye stable recovery ka expected pattern nahi hai. Sleep aur knowledge deficit blood loss explain nahi karte.
+Hemorrhage ka matlab significant bleeding hai. Jab blood circulation se nikalta hai, toh organs tak oxygen aur blood pahunchne mein dikkat ho sakti hai. Pulse badhna, BP girna aur wound drainage rapidly badhna ongoing blood loss ke warning signs hain. Nurse ABC, vital signs, perfusion aur wound assess karke urgent surgical help activate karti hai aur hemorrhage protocol follow karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Knowledge deficit teaching ki need dikhata hai, lekin physiological deterioration urgent hai.
+- **B (Galat):** Normal sleep increasing wound blood loss aur circulatory instability explain nahi karti.
+- **C (Galat):** Rapidly falling BP aur increasing drainage routine recovery ka expected pattern nahi hai.
+- **D (Sahi):** Hemorrhage circulating volume kam kar sakta hai, isliye tachycardia aur hypotension impaired perfusion ka concern hain.
+
+**Exam clue:** Falling BP, rising pulse aur increasing bloody drainage ko urgent bleeding warning samjho.
+
+**Clinical reference:** [Clinical guidance](https://openstax.org/books/medical-surgical-nursing/pages/27-1-postanesthesia-recovery-and-care)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q8](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q8](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q8-a-patient-in-recovery-has-rapidly-falling-bp-rising-pulse-and-increasing-wound-drainage-which-complication-is-most-concerning)
 
 ### Q93. What is the usual purpose of flushing an enteral feeding tube with prescribed water?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Replace all nutritional requirements
 - **B.** Maintain tube patency and provide ordered water when appropriate
@@ -2429,17 +3038,27 @@ Bleeding se circulating volume kam ho sakta hai. Tachycardia aur hypotension poo
 
 **Correct: B. Maintain tube patency and provide ordered water when appropriate**
 
-Water flush formula aur medicines ke residues clear karke blockage risk reduce kar sakti hai. Amount fluid restriction aur protocol ke hisaab se hoti hai.
+Patency ka matlab tube ka passage open hona hai. Formula aur medicines ke particles tube mein collect hokar blockage bana sakte hain. Prescribed water flush residue clear karne aur planned hydration mein help karta hai. Tube placement pehle verify hona chahiye. Water type aur volume route, clinical condition aur fluid allowance ke hisaab se choose karo. Resistance par forceful flushing mat karo.
 
-**Baaki options kyun sahi nahi hain?** Flushing position proof nahi hai. Stomach sterilize nahi hota. Water calories aur nutrients replace nahi karta.
+**Option-wise explanation:**
+- **A (Galat):** Water nutrition ke calories, protein aur micronutrients provide nahi karta.
+- **B (Sahi):** Appropriate flushing tube open rakhne aur ordered water dene mein help karti hai.
+- **C (Galat):** Water flush stomach ko sterile nahi banata.
+- **D (Galat):** Flush easily pass hone se tip stomach mein hai, yeh confirm nahi hota.
+
+**Exam clue:** Flush for patency/hydration, not placement confirmation.
+
+**Clinical references:** [NHS SPS medicines via enteral tubes](https://sps.nhs.uk/articles/administering-a-medicine-through-an-enteral-feeding-tube/) · [Open RN enteral tube management](https://www.ncbi.nlm.nih.gov/books/NBK593216/)
+
+**YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q8](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q8](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q8-what-is-the-usual-purpose-of-flushing-an-enteral-feeding-tube-with-prescribed-water)
 
 ### Q94. Which wound is typically suited to an alginate dressing when clinically indicated?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Any wound regardless of exudate
 - **B.** A moderately to heavily exuding wound
@@ -2450,17 +3069,30 @@ Water flush formula aur medicines ke residues clear karke blockage risk reduce k
 
 **Correct: B. A moderately to heavily exuding wound**
 
-Alginate fluid absorb karke gel form kar sakti hai. Dry wound mein product adhere kar sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Dry wound aur intact skin universal indications nahi hain. Dressing exudate aur tissue ke hisaab se choose hoti hai.
+Alginate fibers wound fluid absorb karke gel bana sakti hain. Moderate ya heavy exudate wale selected wounds mein useful hoti hain. Dry wound mein gel banne ke liye fluid nahi milta aur dressing adhere kar sakti hai. Product aur secondary dressing instructions follow karo.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Har wound mein alginate suitable nahi hoti.
+- **B (Sahi):** Moderate-heavy exudate alginate ki absorption property se manage ho sakta hai.
+- **C (Galat):** Intact skin par bina indication alginate ki zaroorat nahi.
+- **D (Galat):** Dry wound mein unnecessary drying ya adherence ho sakti hai.
+
+**Exam clue:** Alginate absorbs fluid and forms gel.
+
+**Clinical reference:** [Clinical guidance](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Wound_Assessment_and_Management/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Wound dressings, drains and bandaging, Q6](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md)
+[Source topic bank: Wound dressings, drains and bandaging, Q6](../MCQs/21-Wound-Dressings-Drains-and-Bandaging-20-MCQs.md#q6-which-wound-is-typically-suited-to-an-alginate-dressing-when-clinically-indicated)
 
 ### Q95. An adult is unresponsive and makes occasional gasping sounds. How should a trained responder interpret gasping?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** It proves spontaneous circulation has returned
 - **B.** It establishes effective normal breathing
@@ -2471,13 +3103,25 @@ Alginate fluid absorb karke gel form kar sakti hai. Dry wound mein product adher
 
 **Correct: C. It is abnormal breathing that can occur during cardiac arrest**
 
-Agonal gasps ineffective breathing ho sakte hain. Nurse rapid pulse check aur arrest assessment karke appropriate CPR start karti hai.
+Agonal gasping mein patient occasional irregular gasps le sakta hai, lekin yeh effective normal ventilation nahi hoti. Cardiac arrest ke early phase mein gasps present ho sakte hain. Healthcare worker responsiveness, breathing aur pulse ko rapidly assess karta hai. Definite pulse 10 seconds ke andar feel na ho toh CPR start karna chahiye. Lay rescuer normal breathing absent hone par emergency dispatcher guidance follow kare.
 
-**Baaki options kyun sahi nahi hain?** Gasping normal ventilation ya definite pulse prove nahi karti.
+**Option-wise explanation:**
+- **A (Galat):** Gasping se return of spontaneous circulation prove nahi hota. Iske liye clinical assessment chahiye.
+- **B (Galat):** Occasional gasps effective normal breathing establish nahi karte.
+- **C (Sahi):** Gasping abnormal breathing hai aur cardiac arrest mein ho sakti hai.
+- **D (Galat):** Gasping serious emergency ka sign ho sakti hai. Assessment skip nahi karna chahiye.
+
+**Exam clue:** Agonal gasps are not normal breathing.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q8](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q8](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q8-an-adult-is-unresponsive-and-makes-occasional-gasping-sounds-how-should-a-trained-responder-interpret-gasping)
 
 ### Q96. Which nursing action maintains dignity when providing personal care to a dying patient?
 
@@ -2502,7 +3146,7 @@ Patient ki dignity aur participation illness severity se khatam nahi hoti. Nurse
 
 ### Q97. Which nursing action reduces skin injury from a nasal cannula?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Tighten tubing maximally against the skin
 - **B.** Assess pressure points around the ears and nose and use suitable protective measures
@@ -2513,17 +3157,27 @@ Patient ki dignity aur participation illness severity se khatam nahi hoti. Nurse
 
 **Correct: B. Assess pressure points around the ears and nose and use suitable protective measures**
 
-Tubing continuous pressure aur friction create kar sakti hai. Skin inspection aur suitable fit injury prevent karne mein help karte hain.
+Nasal cannula tubing ear aur nostril ke aas-paas pressure aur friction bana sakti hai. Jab tissue par pressure sustained rehta hai toh blood supply aur tissue tolerance affect ho sakti hai. Nurse skin color, discomfort, fit aur pressure points regularly assess karti hai. Suitable padding ya approved protective measure use karo bina oxygen delivery impair kiye.
 
-**Baaki options kyun sahi nahi hain?** Tight tubing, hard clips aur ignoring redness pressure damage badha sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Maximum tightening se friction aur pressure badh sakte hain. Device ko secure rakhna hai, constrict nahi.
+- **B (Sahi):** Skin inspection aur appropriate device fit pressure-related damage ko identify aur reduce karte hain.
+- **C (Galat):** Redness early pressure damage ka sign ho sakti hai. Oxygen flow normal hona skin safety prove nahi karta.
+- **D (Galat):** Hard clips fragile skin par concentrated pressure daal sakte hain.
+
+**Exam clue:** Oxygen device checks include skin and pressure points.
+
+**Clinical references:** [Reference 1](https://www.internationalguideline.com/drpi) · [Reference 2](https://www.ncbi.nlm.nih.gov/books/NBK596733/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Oxygen therapy and basic airway care, Q7](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md)
+[Source topic bank: Oxygen therapy and basic airway care, Q7](../MCQs/15-Oxygen-Therapy-and-Basic-Airway-Care-20-MCQs.md#q7-which-nursing-action-reduces-skin-injury-from-a-nasal-cannula)
 
 ### Q98. A patient has an indwelling catheter solely because of a now-resolved short-term indication. What is the best next step?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Replace it with a larger catheter regardless of need
 - **B.** Clamp it indefinitely to test bladder strength
@@ -2534,17 +3188,30 @@ Tubing continuous pressure aur friction create kar sakti hai. Skin inspection au
 
 **Correct: D. Review removal eligibility and remove promptly according to authorized protocol**
 
-Catheter jitni der unnecessary rahegi utna infection aur trauma exposure badh sakta hai. Nurse daily indication review aur removal pathway follow karti hai.
+Catheter jitne din bladder mein rehti hai, bacteria ko device par settle hone aur infection develop karne ka zyada mauka milta hai. Jab initial indication resolve ho jaaye, removal eligibility check karke authorized nurse-led protocol ya order ke under prompt removal karo. Baad mein voiding aur retention ke signs monitor karo.
 
-**Baaki options kyun sahi nahi hain?** Automatic retention avoid karna chahiye. Indefinite clamping aur larger catheter unnecessary harm kar sakte hain.
+**Har option ka reason**
+
+- **A (Galat):** Larger size lagana resolved indication ko solve nahi karta aur trauma badha sakta hai.
+- **B (Galat):** Indefinite clamping bladder distension kar sakti hai. Routine clamping before removal required nahi hai.
+- **C (Galat):** Rest of admission tak automatically rakhne se unnecessary catheter-days badhte hain.
+- **D (Sahi):** Indication resolve hone par safe removal assess karna infection prevention ka important step hai.
+
+**Exam clue:** Daily review and prompt removal. Routine clamping nahi.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q8](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q8](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q8-a-patient-has-an-indwelling-catheter-solely-because-of-a-now-resolved-short-term-indication-what-is-the-best-next-step)
 
 ### Q99. Which nursing theory primarily emphasizes therapeutic nurse-patient interpersonal relationships?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Roy's adaptation model
 - **B.** Peplau's theory
@@ -2555,17 +3222,30 @@ Catheter jitni der unnecessary rahegi utna infection aur trauma exposure badh sa
 
 **Correct: B. Peplau's theory**
 
-Peplau ne nurse-patient relationship ko therapeutic process maana. Orientation aur working phases mein trust aur problem solving important hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Orem self-care, Roy adaptation aur Nightingale environment par focus karti hain.
+Therapeutic relationship ka matlab hai aisa professional rishta jisme nurse trust, communication aur support se patient ko problem manage karne mein help karti hai. Peplau ke model mein nurse patient ki concerns sunti hai, milkar goals par kaam karti hai aur professional boundaries maintain karti hai. Care sirf procedure karne tak limited nahi rehti.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Roy patient ke physical aur emotional changes ke saath adjustment par focus karti hain.
+- **B (Sahi):** Peplau ka model nurse-patient relationship ko therapeutic care ka central part maanta hai.
+- **C (Galat):** Orem patient ki self-care ability aur care ki need ke gap par focus karti hain.
+- **D (Galat):** Nightingale patient ke environment ko recovery ke liye suitable banane par focus karti hain.
+
+**Exam clue:** Jab question therapeutic interpersonal relationship par ho, toh Peplau ko yaad rakho.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q6](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q6](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q6-which-nursing-theory-primarily-emphasizes-therapeutic-nurse-patient-interpersonal-relationships)
 
 ### Q100. A patient has incontinence, diffuse irregular superficial redness across the buttocks and no clear pressure-point pattern. Which assessment is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Apply pressure staging to all dermatitis
 - **B.** Assume the skin is normal because moisture is present
@@ -2576,13 +3256,23 @@ Peplau ne nurse-patient relationship ko therapeutic process maana. Orientation a
 
 **Correct: D. Consider moisture-associated skin damage rather than automatically assigning a pressure stage**
 
-Urine-stool exposure se moisture-associated dermatitis ho sakti hai. Distribution, depth aur pressure history compare karke correct classification karna chahiye.
+Urine aur stool skin barrier ko irritate karte hain aur excessive moisture skin ko fragile bana sakti hai. Incontinence-associated dermatitis aksar diffuse, irregular aur superficial hoti hai. Pressure injury commonly localized pressure ya device contact se related hoti hai. Dono conditions ek saath bhi ho sakti hain. Nurse cause, distribution, depth, moisture aur pressure history assess karke prevention aur skin protection plan banati hai.
 
-**Baaki options kyun sahi nahi hain?** Stage 3 full-thickness pressure loss hai. Moisture injury real problem hai. Dermatitis ko automatically pressure stage nahi diya jaata.
+**Option-wise explanation:**
+- **A (Galat):** Har dermatitis pressure-related nahi hoti, isliye pressure stages automatically apply nahi karte.
+- **B (Galat):** Moisture presence skin ko normal nahi banati. Barrier damage aur discomfort assess karna chahiye.
+- **C (Galat):** Stage 3 full-thickness pressure injury hoti hai. Diffuse superficial redness se stage 3 prove nahi hota.
+- **D (Sahi):** Moisture-associated damage ko differential mein consider karna correct hai. Final classification full assessment par depend karti hai.
+
+**Exam clue:** Pressure injury staging is not used for IAD alone.
+
+**Clinical references:** [Reference 1](https://openstax.org/books/medical-surgical-nursing/pages/28-3-pressure-injury) · [Reference 2](https://www.internationalguideline.com/assessment)
+
+**▶️ [YouTube MCQ practice — pressure injury stages and prevention, Sachin Nursing Classes](https://www.youtube.com/watch?v=zekFeo4KM0c).** Published 29 July 2025. Retrieved publisher description confirms stages and prevention MCQs. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Pressure injuries and wound assessment, Q8](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md)
+[Source topic bank: Pressure injuries and wound assessment, Q8](../MCQs/11-Pressure-Injury-and-Wound-Assessment-20-MCQs.md#q8-a-patient-has-incontinence-diffuse-irregular-superficial-redness-across-the-buttocks-and-no-clear-pressure-point-pattern-which-assessment-is-important)
 
 ## Block 6
 
@@ -2609,7 +3299,7 @@ Transfusion reaction confirm hone se pehle further exposure stop karna important
 
 ### Q102. A newly inserted nasogastric tube is intended for feeding. Which action is essential before first use?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **🟣 JIPMER Staff Nurse 23 February 2020 — related reported concept** · **🟣 AIIMS Raipur Nursing Officer 9 September 2017 — related reported concept** · Legacy topic-bank reuse
 
 - **A.** Inject air and rely on an abdominal whoosh alone
 - **B.** Assume correct placement because the patient can speak
@@ -2620,13 +3310,25 @@ Transfusion reaction confirm hone se pehle further exposure stop karna important
 
 **Correct: D. Confirm placement using the approved evidence-based method and document authorization for use**
 
-NG tube accidentally respiratory tract mein ja sakti hai. Initial placement approved method, such as radiography when indicated, se confirm karna essential hai. Local protocol follow karna chahiye.
+Nasogastric ya NG tube nose se stomach tak jaane ke liye insert hoti hai, lekin galti se airway mein bhi ja sakti hai. Feed, medicine ya flush dene se pehle approved placement confirmation zaroori hai. NHS England standard mein approved gastric aspirate pH 1–5.5 ya appropriately interpreted X-ray acceptable hain. Agar aspirate unavailable ya pH unsafe ho toh protocol ke mutabik X-ray ya escalation chahiye. Kuch settings initial X-ray require karti hain. Documented clearance se pehle tube mein kuch introduce mat karo.
 
-**Baaki options kyun sahi nahi hain?** Air auscultation reliable confirmation nahi hai. Speech aur external length alone correct location prove nahi karte.
+**Option-wise explanation:**
+- **A (Galat):** Air inject karke whoosh sunna reliable location test nahi hai. Airway tube mein bhi misleading sound mil sakti hai.
+- **B (Galat):** Patient speak kar paaye toh bhi tube respiratory tract mein ho sakti hai.
+- **C (Galat):** External length insertion estimate deta hai, tip ki actual location prove nahi karta.
+- **D (Sahi):** Evidence-based placement confirmation aur documentation wrong-route feeding se harm prevent karte hain.
+
+**Exam clue:** No first use before approved placement confirmation. Never rely on whoosh.
+
+**Clinical references:** [NHS England NG safety](https://www.england.nhs.uk/patient-safety/patient-safety-insight/patient-safety-alerts/enduring-standards/standards-that-remain-valid/medical-device-safety/) · [Open RN enteral tube management](https://www.ncbi.nlm.nih.gov/books/NBK593216/)
+
+**YouTube MCQ practice lead:** [Voogly by Sahu Sir — Enteral vs Parenteral Nutrition MCQ class](https://www.youtube.com/watch?v=rZz7iDEj7Tg). Indexed publisher description includes enteral/parenteral routes. Direct retrieval failed, exact question coverage and playback pending.
+
+**▶️ [YouTube MCQ practice — NG/NET placement, ADAPT NCLEX REVIEW](https://www.youtube.com/watch?v=w0f695f8Svg&t=4797s)** · Published chapter 1:19:57 identifies tube-placement confirmation. Topic-level only, exact question and playback pending. Direct open failed.
 
 </details>
 
-[Source topic bank: Nutrition, feeding and aspiration prevention, Q6](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md)
+[Source topic bank: Nutrition, feeding and aspiration prevention, Q6](../MCQs/12-Nutrition-Feeding-and-Aspiration-Prevention-20-MCQs.md#q6-a-newly-inserted-nasogastric-tube-is-intended-for-feeding-which-action-is-essential-before-first-use)
 
 ### Q103. Which quality improvement approach primarily seeks to identify system contributors after a serious patient safety event?
 
@@ -2713,7 +3415,7 @@ Telephone medication order mein sound-alike medicine names, dose aur units mishe
 
 ### Q105. Which position is traditionally used for routine rectal enema administration in a suitable patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Delhi Nursing Officer, 15 September 2019 — related reported concept only** · **🟣 NHM MP CHO, 27 January 2021 Shift II — related reported concept only**
 
 - **A.** Standing unsupported
 - **B.** Left lateral position with appropriate hip and knee flexion
@@ -2724,13 +3426,25 @@ Telephone medication order mein sound-alike medicine names, dose aur units mishe
 
 **Correct: B. Left lateral position with appropriate hip and knee flexion**
 
-Left lateral position rectal access aur colon ke anatomical direction mein fluid movement support kar sakti hai. Nurse patient restrictions consider karti hai.
+Routine rectal enema mein suitable patient ko left lateral ya modified Sims position mein rakhna common nursing practice hai. Isse rectal access aur distal colon ke anatomical pathway ke hisaab se administration support hota hai. Nurse consent, privacy, mobility restrictions aur product-specific protocol check karti hai.
 
-**Baaki options kyun sahi nahi hain?** Other positions routine access ya safety ke liye less suitable ho sakti hain.
+**Option-wise explanation:**
+- **A (Galat):** Unsupported standing se fall risk badhta hai aur controlled administration mushkil hoti hai.
+- **B (Sahi):** Left side lying with hip and knee flexion usual rectal access aur comfortable positioning support karti hai.
+- **C (Galat):** High Fowler oral feeding ya breathing support ke liye useful ho sakta hai, lekin routine rectal enema position nahi hai.
+- **D (Galat):** Flat prone without rectal access procedure ke liye suitable nahi hai.
+
+**Exam clue:** Traditional exam answer: left lateral or Sims, subject to patient safety.
+
+**Clinical reference:** [Topic reference](https://openstax.org/books/clinical-nursing-skills/pages/14-5-administering-other-medications).
+
+**Related historical evidence:** [AIIMS Delhi 15 September 2019 memory-based report](https://testbook.com/question-answer/nurse-advised-to-give-enema-for-patient-with-chron--62c258bbc970f2ccd43fa073) · [NHM MP CHO 27 January 2021 Shift II third-party question page](https://testbook.com/question-answer/while-administering-enema-patient-should-be-placed--62e73b207cbf34075de55d9b). Both publisher-reported answers support the related positioning concept. Official papers and keys not authenticated.
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q8](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q8](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q8-which-position-is-traditionally-used-for-routine-rectal-enema-administration-in-a-suitable-patient)
 
 ### Q106. A patient has intact skin but is immobile and incontinent. Which nursing diagnosis best describes the current skin concern?
 
@@ -2776,7 +3490,7 @@ Immobility mein body ke kuch areas par pressure lamba samay reh sakta hai, jisse
 
 ### Q107. Which approach is appropriate for routine meatal hygiene in a catheterized patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Avoid all perineal cleaning
 - **B.** Use abrasive brushes on the urethral opening
@@ -2787,13 +3501,26 @@ Immobility mein body ke kuch areas par pressure lamba samay reh sakta hai, jisse
 
 **Correct: C. Provide routine hygiene and clean after soiling according to policy**
 
-Routine gentle hygiene secretions aur soil remove karti hai. Har patient mein repeated antiseptic cleaning CAUTI prevent karne ka standard substitute nahi hai.
+Meatus urethra ka external opening hai. Catheter ke around routine gentle cleaning se stool, sweat aur secretions remove hote hain. CAUTI rokne ke liye catheter in place hone par baar-baar antiseptic lagana recommended routine substitute nahi hai. Insertion ke waqt aseptic preparation ek alag baat hai.
 
-**Baaki options kyun sahi nahi hain?** Strong chemicals irritation cause kar sakte hain. No cleaning aur abrasive brushes skin damage risk badhate hain.
+**Har option ka reason**
+
+- **A (Galat):** Cleaning avoid karne se stool aur secretions jama ho sakte hain aur discomfort badhta hai.
+- **B (Galat):** Abrasive brush delicate mucosa ko injure kar sakta hai.
+- **C (Sahi):** Gentle routine hygiene aur soiling ke baad cleaning skin ko clean aur comfortable rakhte hain.
+- **D (Galat):** Strong antiseptics routine preventive benefit establish nahi karte aur tissue irritation kar sakte hain.
+
+**Exam clue:** Routine hygiene during catheter care, sterile technique during acute-care insertion.
+
+**Clinical reference:** [Topic reference](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
+
+**YouTube MCQ practice:** Specific coverage verification pending.
+
+**Supplementary topic practice:** [Nurses Pro — catheterization exam MCQs, published chapter at 29:34](https://www.youtube.com/watch?v=jQhLFhssrNE&t=1774s). Publisher description and chapter marker indexed. Specific question coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Urinary elimination and catheter care, Q7](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md)
+[Source topic bank: Urinary elimination and catheter care, Q7](../MCQs/09-Urinary-Elimination-and-Catheter-Care-20-MCQs.md#q7-which-approach-is-appropriate-for-routine-meatal-hygiene-in-a-catheterized-patient)
 
 ### Q108. A postoperative patient is due to ambulate, but reports unilateral calf pain and new swelling. Which plan is safest?
 
@@ -2818,7 +3545,7 @@ New unilateral swelling DVT ka clue ho sakti hai. Nurse routine activity adjust 
 
 ### Q109. A patient has a temperature of 35°C after prolonged cold exposure and is becoming confused. Which approach is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Encourage vigorous exercise without assessment
 - **B.** Give alcohol to increase warmth
@@ -2829,17 +3556,30 @@ New unilateral swelling DVT ka clue ho sakti hai. Nurse routine activity adjust 
 
 **Correct: C. Assess urgently, prevent further heat loss and initiate suitable rewarming under protocol**
 
-Hypothermia circulation aur neurological function affect kar sakti hai. Nurse wet exposure reduce karke appropriate rewarming aur monitoring arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Direct intense heat burns cause kar sakti hai. Exercise aur alcohol condition worsen kar sakte hain.
+Cold exposure aur confusion ke saath 35°C reading concerning hai, chahe exact core temperature confirm karna baaki ho. Heat loss rokna aur urgent clinical assessment important hai. Wet clothing safely replace karo, patient ko insulated warm environment mein rakho, gentle handling aur suitable rewarming under protocol arrange karo. ABC aur cardiac status monitor karo. Altered consciousness mein oral drinks mat do.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Vigorous exercise without assessment unstable patient ke liye unsafe ho sakti hai.
+- **B (Galat):** Alcohol heat loss aur impaired judgement badha sakta hai.
+- **C (Sahi):** Urgent assessment, insulation aur appropriate rewarming worsening cold injury ko address karte hain.
+- **D (Galat):** Intense direct heat numb tissue ko burn kar sakti hai.
+
+**Exam clue:** Cold exposure plus confusion: urgent assessment and controlled rewarming.
+
+**Clinical reference:** [Clinical guidance](https://www.nhs.uk/conditions/hypothermia/)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q8](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q8](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q8-a-patient-has-a-temperature-of-35c-after-prolonged-cold-exposure-and-is-becoming-confused-which-approach-is-appropriate)
 
 ### Q110. A frail patient is prescribed an enema and has severe renal impairment. Which safety check is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assume all enema solutions are interchangeable
 - **B.** Increase the volume independently if the first result is poor
@@ -2850,17 +3590,27 @@ Hypothermia circulation aur neurological function affect kar sakti hai. Nurse we
 
 **Correct: D. Verify the product, contraindications and electrolyte risk before administration**
 
-Certain enemas, especially sodium phosphate, electrolyte disturbances cause kar sakti hain. Kidney disease mein risk higher ho sakta hai, isliye product aur order review important hai.
+Sodium phosphate enema mein phosphate aur sodium load hota hai. Severe renal impairment mein kidney in electrolytes ko effectively handle nahi kar pa sakti. Hyperphosphatemia, calcium disturbance, dehydration aur further kidney injury ka risk ho sakta hai. Frail patient ka prescription, contraindications aur product-specific guidance review karo aur concern ho toh administration se pehle prescriber se clarification lo.
 
-**Baaki options kyun sahi nahi hain?** Solutions interchangeable nahi hain. Unreviewed phosphate aur volume increase unsafe ho sakte hain.
+**Option-wise explanation:**
+- **A (Galat):** Enema solutions ka mechanism, electrolyte content aur safety profile alag ho sakta hai.
+- **B (Galat):** Apne aap volume badhana fluid aur electrolyte harm ka risk badha sakta hai.
+- **C (Galat):** Kidney disease phosphate product ke liye important risk factor hai. Bina review use karna unsafe hai.
+- **D (Sahi):** Product, renal status aur contraindications verify karna preventable harm ko reduce karta hai.
+
+**Exam clue:** Renal impairment mein phosphate enema ko routine interchangeable product mat samjho.
+
+**Clinical reference:** [Topic reference](https://medlineplus.gov/druginfo/meds/a614018.html) (indexed guidance, direct page retrieval failed).
+
+**▶️ [YouTube MCQ practice — enema contraindications and complications, Nurspire5](https://www.youtube.com/watch?v=uLtkyfhgK7U).** Published 19 April 2026. Publisher description confirms topic-level MCQ coverage. Exact item coverage and playback remain unverified.
 
 </details>
 
-[Source topic bank: Bowel elimination, enema and stoma care, Q6](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md)
+[Source topic bank: Bowel elimination, enema and stoma care, Q6](../MCQs/14-Bowel-Elimination-Enema-and-Stoma-Care-20-MCQs.md#q6-a-frail-patient-is-prescribed-an-enema-and-has-severe-renal-impairment-which-safety-check-is-important)
 
 ### Q111. Which nonpharmacological measure can supplement prescribed postoperative pain treatment?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Positioning, relaxation and suitable incision support
 - **B.** Force painful exercise without assessment
@@ -2871,17 +3621,27 @@ Certain enemas, especially sodium phosphate, electrolyte disturbances cause kar 
 
 **Correct: A. Positioning, relaxation and suitable incision support**
 
-Relaxation aur positioning muscle tension aur discomfort reduce kar sakte hain. Incision support movement ke waqt useful ho sakti hai.
+Postoperative pain incision aur tissue inflammation se ho sakti hai. Positioning uncomfortable tension kam kar sakti hai. Gentle relaxation anxiety aur muscle tension kam karne mein help karti hai. Coached incision support movement ya coughing ko easier bana sakti hai. Ye measures individualized analgesic plan ko supplement karte hain, replace nahi.
 
-**Baaki options kyun sahi nahi hain?** Analgesic withholding aur forced movement unnecessary pain badha sakte hain. Uncontrolled heat burns cause kar sakti hai.
+**Option-wise explanation:**
+- **A (Sahi):** Safe positioning, relaxation aur suitable incision support multimodal comfort plan ke useful components hain.
+- **B (Galat):** Painful exercise force karne se patient injure ho sakta hai. Activity plan assessment-based hona chahiye.
+- **C (Galat):** Prescribed analgesia automatically withhold karna unnecessary pain aur poor function ka risk badha sakta hai.
+- **D (Galat):** Insensate skin temperature injury notice nahi kar paati. Uncontrolled heat burn kar sakti hai.
+
+**Exam clue:** Combine non-drug measures with indicated analgesia.
+
+**Clinical references:** [Clinical reference 1](https://openstax.org/books/medical-surgical-nursing/pages/27-2-postoperative-pain-management)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q8](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q8](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q8-which-nonpharmacological-measure-can-supplement-prescribed-postoperative-pain-treatment)
 
 ### Q112. Which theorist developed the Adaptation Model of nursing?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Lydia Hall
 - **B.** Dorothy Johnson
@@ -2892,17 +3652,30 @@ Relaxation aur positioning muscle tension aur discomfort reduce kar sakte hain. 
 
 **Correct: D. Sister Callista Roy**
 
-Roy model person ko adaptive system ke roop mein dekhta hai. Nursing physiological, self-concept, role aur interdependence adaptation support karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Johnson behavioral systems, Hall care-core-cure aur Abdellah nursing problems se associated hain.
+Adaptation ka matlab hai badli hui condition ke saath adjust karna. Jaise stroke ke baad patient ko movement, apne baare mein soch aur ghar ke roles mein changes face karne pad sakte hain. Roy ke model mein nurse physiological needs, self-concept, role function aur relationships mein adjustment assess karke patient ko support karti hai.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Hall ka model care, core aur cure ke three circles se associated hai.
+- **B (Galat):** Johnson ka model organized behavioral patterns aur unke balance par focus karta hai.
+- **C (Galat):** Abdellah ka framework twenty-one nursing problems ko organize karta hai.
+- **D (Sahi):** Sister Callista Roy ke model mein patient ko changes ke saath adjust karne mein support diya jaata hai.
+
+**Exam clue:** Adaptation aur four adaptive modes ko Roy se jodo.
+
+**Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
+
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q8](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q8](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q8-which-theorist-developed-the-adaptation-model-of-nursing)
 
 ### Q113. A patient has a known latex allergy before surgery. Which action is important?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wait for allergic symptoms before changing equipment
 - **B.** Use latex equipment if the surgery is brief
@@ -2913,13 +3686,26 @@ Roy model person ko adaptive system ke roop mein dekhta hai. Nursing physiologic
 
 **Correct: C. Communicate the allergy and ensure a latex-safe perioperative plan**
 
-Latex exposure severe reaction trigger kar sakti hai. Perioperative team ko allergy pehle se pata hona chahiye taaki suitable equipment ready ho.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Brief exposure aur premedication risk eliminate nahi karte. Reaction ka wait unsafe hai.
+Latex allergy mein immune system natural rubber latex ke proteins par react kar sakta hai. Severe reaction mein airway swelling, breathing problem aur low BP ho sakta hai. Nurse allergy ko record aur communicate karti hai aur team ke saath latex-safe gloves, devices aur environment arrange karti hai. Premedication exposure avoid karne ka replacement nahi hoti.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Symptoms ka wait karne se preventable exposure aur serious reaction ho sakti hai.
+- **B (Galat):** Brief surgery mein bhi latex reaction trigger kar sakta hai.
+- **C (Sahi):** Team ko pehle inform karne aur latex-safe plan banane se exposure risk kam hota hai.
+- **D (Galat):** Premedication allergy risk completely khatam nahi karti, isliye alert remove karna unsafe hai.
+
+**Exam clue:** Known latex allergy mein exposure prevent karo.
+
+**Clinical reference:** [Clinical guidance](https://www.allergy.org.au/hp/papers/management-of-latex-allergic-patients/operating-suite)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q5](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q5](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q5-a-patient-has-a-known-latex-allergy-before-surgery-which-action-is-important)
 
 ### Q114. A patient receiving prescribed compression stockings reports toe numbness and the stockings have rolled into a tight band. What should the nurse do?
 
@@ -2944,7 +3730,7 @@ Rolled stocking focal compression create kar sakti hai aur blood flow ya nerve f
 
 ### Q115. When two trained rescuers are available, how often should the chest compressor generally change during adult CPR?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 RRB Nursing Superintendent 29 April 2025 Shift II — related reported concept**
 
 - **A.** Approximately every two minutes or sooner if fatigued
 - **B.** Only when the patient regains consciousness
@@ -2955,13 +3741,27 @@ Rolled stocking focal compression create kar sakti hai aur blood flow ya nerve f
 
 **Correct: A. Approximately every two minutes or sooner if fatigued**
 
-CPR physically tiring hai aur fatigue se compression quality gir sakti hai. Around two-minute switch short interruption ke saath quality maintain karne mein help karta hai.
+Repeated chest compressions physically tiring hoti hain. Rescuer fatigue hone par compressions shallow ya irregular ho sakti hain, kabhi fatigue notice hone se pehle bhi. Do trained rescuers available hon toh approximately har 2 minutes mein compressor change karo, ya fatigue hone par pehle. Switch ko rhythm analysis ya planned brief pause ke saath coordinate karo taaki interruption minimum ho.
 
-**Baaki options kyun sahi nahi hain?** Long delay fatigue badhati hai. Every compression switch unnecessary interruption karega. ROSC tak wait nahi karna chahiye.
+**Option-wise explanation:**
+- **A (Sahi):** Around two-minute rotation compression quality maintain karne mein help karti hai. Fatigue pehle ho toh sooner switch appropriate hai.
+- **B (Galat):** Consciousness return ka wait karna rotation ka criterion nahi hai. CPR quality abhi maintain karni hai.
+- **C (Galat):** Ten minutes tak same compressor rakhne se fatigue ke karan quality decline ho sakti hai.
+- **D (Galat):** Har single compression ke baad switch karne se unnecessary interruptions aur coordination problem hongi.
+
+**Exam clue:** Switch compressor about every 2 minutes, with minimal interruption.
+
+**Clinical references:** [Clinical reference 1](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-basic-life-support)
+
+**Supplementary MCQ practice lead:** [Mission High — CPR, BLS and ACLS expected MCQs](https://www.youtube.com/watch?v=qu0xKnLbdmw). Indexed title and description, direct retrieval failed. Exact topic/question coverage and playback pending.
+
+**▶️ [YouTube MCQ practice — adult BLS and CPR, The Nurse](https://www.youtube.com/watch?v=ztNcRcHC05U).** Publisher description dated 6 August 2026 covers arrest recognition, CPR sequence, compression quality, rescuer switching and AED use. Topic-level coverage only. Exact item and playback unverified.
+
+**Related historical evidence:** [Third-party reported question](https://testbook.com/question-answer/while-performing-cpr-in-a-patient-who-had-cardiac--681c89fac2c0bed03160e486). Retrieved third-party item concerns rescuer switching interval. Official paper and key not independently authenticated.
 
 </details>
 
-[Source topic bank: First aid and basic life support, Q6](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md)
+[Source topic bank: First aid and basic life support, Q6](../MCQs/16-First-Aid-and-Basic-Life-Support-20-MCQs.md#q6-when-two-trained-rescuers-are-available-how-often-should-the-chest-compressor-generally-change-during-adult-cpr)
 
 ### Q116. Which step should occur before developing an individualized patient education plan?
 
@@ -2986,7 +3786,7 @@ Education patient ke current knowledge aur practical needs se start honi chahiye
 
 ### Q117. Which temperature pattern returns to normal at least once in a 24-hour period despite fever spikes?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS NORCET, 1 September 2020 — related reported concept**
 
 - **A.** Remittent fever that never reaches normal
 - **B.** Continuous fever
@@ -2997,13 +3797,28 @@ Education patient ke current knowledge aur practical needs se start honi chahiye
 
 **Correct: C. Intermittent fever**
 
-Intermittent fever mein temperature periodically normal range tak aa sakta hai. Pattern ko serial observations se identify kiya jaata hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Continuous fever relatively sustained hoti hai. Remittent fever fluctuate karti hai lekin normal tak nahi aati. Hyperthermia separate mechanism hai.
+Intermittent fever mein high temperature ke periods ke beech temperature normal range tak laut sakta hai, conventional definition mein daily pattern ke andar. Nurse serial readings, timing, medication aur clinical signs document karti hai. Fever pattern alone infection ka cause establish nahi karta.
+
+**Option-wise explanation:**
+
+- **A (Galat):** Remittent fever fluctuate karti hai lekin observed period mein normal tak nahi pahunchti.
+- **B (Galat):** Continuous fever relatively sustained elevated temperature hai.
+- **C (Sahi):** Intermittent fever mein high readings ke beech normal temperature ka interval milta hai.
+- **D (Galat):** Sustained hyperthermia raised-set-point fever pattern ka equivalent nahi hai.
+
+**Exam clue:** Intermittent: returns to normal.
+
+**Clinical reference:** [Clinical guidance](https://www.ncbi.nlm.nih.gov/books/NBK324/)
+
+**Related historical evidence:** [🟣 AIIMS NORCET, 1 September 2020 — related intermittent-fever concept](https://testbook.com/question-answer/a-type-of-fever-in-which-after-every-24-hours-the--6172bdc3c7862366de70db07). Retrieved memory-based report supports intermittent fever. This original question is not an exact authenticated PYQ.
+
+**▶️ [YouTube MCQ practice — Vital Signs, VS Nursing Academy (Ritika Mam)](https://www.youtube.com/watch?v=LM37c_byRHs)**. Published description lists body temperature and fever patterns/alterations. Topic-level only, exact question and playback pending.
 
 </details>
 
-[Source topic bank: Temperature regulation and thermal nursing care, Q6](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md)
+[Source topic bank: Temperature regulation and thermal nursing care, Q6](../MCQs/23-Temperature-Regulation-and-Thermal-Nursing-Care-20-MCQs.md#q6-which-temperature-pattern-returns-to-normal-at-least-once-in-a-24-hour-period-despite-fever-spikes)
 
 ### Q118. Which tissue layer is targeted in an intradermal injection?
 
@@ -3041,7 +3856,7 @@ Dermis epidermis ke neeche skin ki layer hai. Intradermal injection superficial 
 
 ### Q119. Following opioid administration, a patient has worsening sedation before respiratory rate falls markedly. Which action is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 AIIMS Bathinda Nursing Officer, 29 September 2019 — related reported concept only**
 
 - **A.** Give another opioid because the patient is quiet
 - **B.** Stop all monitoring once pain improves
@@ -3052,17 +3867,29 @@ Dermis epidermis ke neeche skin ki layer hai. Intradermal injection superficial 
 
 **Correct: D. Assess respiratory status and sedation urgently and follow the opioid safety protocol**
 
-Increasing sedation opioid respiratory depression ka early warning ho sakti hai. Nurse breathing aur responsiveness check karke protocol se intervention arrange karti hai.
+Opioids brain ke breathing drive ko suppress kar sakte hain. Increasing sedation, yani patient ka progressively zyada drowsy ya difficult to arouse hona, respiratory depression se pehle warning ho sakti hai. Nurse responsiveness, breathing rate, depth, oxygenation aur appropriate ventilation monitoring urgently assess karti hai. Further opioid safety protocol ke hisaab se hold/review karo aur urgent help ya naloxone as indicated arrange karo.
 
-**Baaki options kyun sahi nahi hain?** Quietness safety prove nahi karti. Additional opioid deterioration worsen kar sakti hai. Monitoring required hai.
+**Option-wise explanation:**
+- **A (Galat):** Quiet patient oversedated ho sakta hai. Additional opioid breathing ko aur depress kar sakti hai.
+- **B (Galat):** Pain improve hone par bhi adverse effects develop ho sakte hain. Monitoring continue honi chahiye.
+- **C (Galat):** Sedation adequate analgesia ka reliable proof nahi hai. Excessive sedation unsafe ho sakti hai.
+- **D (Sahi):** Urgent assessment aur opioid safety protocol preventable deterioration ko identify aur treat karne mein help karte hain.
+
+**Exam clue:** Increasing sedation after opioid = respiratory safety check, not extra opioid.
+
+**Clinical references:** [Clinical reference 1](https://www.apsf.org/article/using-the-2018-guidelines-from-the-joint-commission-to-kickstart-your-hospitals-program-to-reduce-opioid-induced-ventilatory-impairment/)
+
+**▶️ [YouTube MCQ practice — PCA safety and opioid risk, Nursing McQs](https://www.youtube.com/watch?v=1BwXR37xAO4).** Publisher description dated 28 June 2025 explicitly lists case-based MCQs on PCA safety and opioid risk. Exact item and playback unverified.
+
+**Related historical evidence:** [AIIMS Bathinda Nursing Officer, 29 September 2019 — third-party question page](https://testbook.com/question-answer/which-of-the-following-objective-assessment-data-w--61766ff4277fdc0fd9bc45b5). Retrieved memory-based report concerns respiratory assessment before opioid administration. Related opioid safety concept, not this post-dose sedation scenario. Official key unverified.
 
 </details>
 
-[Source topic bank: Pain, rest, sleep and comfort therapy, Q7](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md)
+[Source topic bank: Pain, rest, sleep and comfort therapy, Q7](../MCQs/17-Pain-Rest-Sleep-and-Comfort-Therapy-20-MCQs.md#q7-following-opioid-administration-a-patient-has-worsening-sedation-before-respiratory-rate-falls-markedly-which-action-is-most-appropriate)
 
 ### Q120. Two IV medicines are ordered through the same lumen and compatibility is unknown. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assume no interaction if the doses are small
 - **B.** Use the mixture even if a precipitate appears
@@ -3092,5 +3919,5 @@ Physical precipitate ke alawa invisible degradation ya potency loss possible hai
 
 </details>
 
-[Source topic bank: IV therapy and vascular access, Q8](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md)
+[Source topic bank: IV therapy and vascular access, Q8](../MCQs/08-IV-Therapy-and-Vascular-Access-20-MCQs.md#q8-two-iv-medicines-are-ordered-through-the-same-lumen-and-compatibility-is-unknown-what-should-the-nurse-do)
 

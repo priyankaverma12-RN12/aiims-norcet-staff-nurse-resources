@@ -36,3 +36,25 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 - [CKD-MBD: two reported adaptations](CKD-Mineral-Bone-Disorder-Reported-Evidence.md), NORCET 11 Prelims 2026 coaching memory-based Q3 retrieved as PDF text (image retrieval failed), RRB Staff Nurse 20 July 2019 Shift III Chvostek sign directly retrieved. Official booklet/key not authenticated. AIIMS Jodhpur 2019 lead inaccessible. Two related video mappings across bank and adaptation, no exact playback.
 
 - [Renal diet: one reported adaptation](Renal-Diet-and-Nutrition-Reported-Evidence.md), GMCH Nursing Officer 29 June 2025 HD high-quality protein report directly retrieved. Adaptation preserves the egg-white nutritional principle without copying source wording or inaccurate blanket plant-protein rationale. Earlier AIIMS Delhi 2019 diet evidence not counted again. Dedicated video mapping pending.
+
+- [Renal pharmacology: two reported adaptations](Renal-Pharmacology-Reported-Evidence.md), RRB Nursing Superintendent 29 April 2025 Shift 2 loop-diuretic hypokalemia symptoms and AIIMS NORCET 1 September 2020 memory-based furosemide hyponatremia. Both direct third-party reports retrieved. Official papers and keys not authenticated. Specific video mappings remain incomplete.
+
+- [Glomerulonephritis: one reported adaptation](Glomerulonephritis-Reported-Evidence.md), MP Vyapam Group 5 Staff Nurse 27 June 2023 Shift 2 Q82, third-party hosted PDF text retrieved (QID 2752100), screenshot cache miss. BHU 2015 reports indexed but direct retrieval failed. No official key authentication. One original and one adaptation related MCQ video chapter marker, no exact playback.
+
+- [Nephritic syndrome: one reported adaptation](Nephritic-Syndrome-Reported-Evidence.md), UPSC ESIC Nursing Officer 7 July 2024 retrieved report. DSSSB 2019, AIIMS Bathinda 2019 and GSSSB 2022 related records retrieved, not counted again. One adaptation topic-level MCQ video marker, all original specific practice videos pending. No official key authentication.
+
+## 27 November 2026 — Nephrotic syndrome
+
+- [Two independently worded reported adaptations](Nephrotic-Syndrome-Reported-Evidence.md): ESIC Nursing Officer 7 July 2024 characteristic features and RRB Staff Nurse 21 July 2019 Shift II steroid treatment objective; both retrieved third-party reports, not authenticated official keys.
+- NHM MP CHO 27 January 2021 Shift 1 daily weight report retrieved, mapped to existing renal assessment concept without adding a duplicate. RRB 25 November 2026 memory-based lead indexed, direct retrieval failed, not counted.
+- One related nephrotic-features MCQ chapter marker (Nursing Wallah 38:40), exact playback pending; other adaptation and all 30 originals lack specific verified practice-video mapping. Wider all-India extraction pending.
+
+- [RPGN: JSSC Grade A Nurse 16 July 2022 reported adaptation](RPGN-Reported-Evidence.md), Type II hypersensitivity in anti-GBM disease. Direct question page retrieved. Official key and dedicated video verification pending.
+
+- [IgA nephropathy: historical and dedicated practice-video evidence gaps](IgA-Nephropathy-Reported-Evidence.md). NORCET 11 Mains 2026 Q95 indexed third-party item uses IgA nephropathy only as a distractor, not the reported answer. Direct page retrieval failed. No new historical adaptation counted. Medical entrance differential practice marker is a related lead only. All 30 original nursing-question video mappings remain pending.
+
+- [Lower UTI and cystitis: historical and dedicated practice-video evidence gaps](Lower-UTI-Reported-Evidence.md). SCTIMST Set A Staff Nurse 1 September 2019 Q8 official paper extracted text reviewed, recurrent UTI item reserved for the separate topic. Screenshot unavailable, official key not authenticated. UP NHM 24 January 2021 third-party indexed PDF lead directly inaccessible. No new counted historical adaptation. Nursing MCQ video candidate indexed, direct watch retrieval failed. All 30 specific question mappings remain pending.
+
+- [Pyelonephritis: NORCET 7 Prelims 2024 reported source and video gaps](Pyelonephritis-Reported-Evidence.md). Direct third-party memory-based report retrieved, official key not authenticated. One independently phrased mechanism exercise retained uncounted pending overlap reconciliation, historical inventory unchanged. HPRCA 25026 official key listing indexed, third-party paper retrieval failed. Broad UTI dedicated question-practice candidate indexed, all 30 exact mappings plus exercise pending.
+
+- [Asymptomatic bacteriuria: clinical and dedicated practice evidence](Asymptomatic-Bacteriuria-Reported-Evidence.md). IDSA and EAU direct text, ACOG indexed pregnancy/GBS recommendations reviewed. Bounded all-India search located general exam archives and HPRCA 25026 key listing but no authenticated topic-specific item/key pair. No historical count added. ASB question-discussion indexed excerpt and Sachin Nursing Classes broad UTI practice candidate located. All 30 exact mappings/playback pending.
