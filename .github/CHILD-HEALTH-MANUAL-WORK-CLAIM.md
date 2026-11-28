@@ -1,10 +1,10 @@
 # Child Health Nursing manual chapter claim
 
-State: FREE
-Owner: NONE
-Scope: Reserved continuation of existing isolated draft PR45; no active writer
-Claimed UTC: NONE
-Expiry UTC: NONE
+State: CLAIMED
+Owner: child-health-b03-priority-fixes-20261128-075807Z
+Scope: PR45 isolated existing 02D bronchiolitis, 02E EA/TEF, 02B UIP/AEFI, matching concept/evidence and candidate inventories only. No shared navigation, live counts, other owners or schedules.
+Claimed UTC: 2026-11-28T07:58:07Z
+Expiry UTC: 2026-11-28T08:28:07Z
 
 ## Verified checkpoint — Batch 03 corrective audit
 
