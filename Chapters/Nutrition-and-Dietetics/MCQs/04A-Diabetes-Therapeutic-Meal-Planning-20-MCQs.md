@@ -224,23 +224,23 @@
 
 </details>
 
-### Q12. A patient chooses sugar-free biscuits and assumes they can be omitted from the meal carbohydrate plan. What should the nurse verify?
+### Q12. A homemade dish contains 120 g of carbohydrate in the full cooked recipe and is divided into four equal carbohydrate portions. A patient eats one and a half of these portions. What carbohydrate amount should be entered in the meal plan?
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Diabetes therapeutic meal planning | **Type:** Original practice
 
-- **A.** Only the colour of the sugar-free symbol
-- **B.** Whether the biscuit is packaged individually rather than in a box
-- **C.** The product's price as a substitute for nutrient information
-- **D.** The actual carbohydrate content from starches and other ingredients
+- **A.** 30 g
+- **B.** 60 g
+- **C.** 180 g
+- **D.** 45 g
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. The actual carbohydrate content from starches and other ingredients**
+**Correct: D. 45 g**
 
-- **A. Incorrect:** Symbol colour nutritional content verify nahi karta. Nutrition information check karein.
-- **B. Incorrect:** Packaging form carbohydrate content establish nahi karti. Actual ingredient and portion data needed hain.
-- **C. Incorrect:** Price composition reliably predict nahi karta. Label aur serving amount relevant hain.
-- **D. Correct:** Sugar-free claim total carb-free claim nahi hai. Flour, starch aur some other ingredients carbohydrate contribute kar sakte hain.
+- **A. Incorrect:** Yeh one portion ka carbohydrate amount hai. Additional half portion 15 g add karna chahiye.
+- **B. Incorrect:** 60 g two equal portions ka amount hai. Patient ne one and a half portions liye hain.
+- **C. Incorrect:** Yeh whole recipe ko 1.5 se multiply karne par aata hai. Pehle recipe ko four portions mein divide karein.
+- **D. Correct:** Full recipe 120 g hai aur four equal portions mein per portion 30 g hoga. 1.5 portions se 45 g carbohydrate milti hai. Actual recipe aur division accurate hona chahiye.
 
 </details>
 
@@ -408,3 +408,5 @@
 
 - [ADA 2026 nutrition and behavior standards](https://doi.org/10.2337/dc26-S005), indexed recommendations, PMC direct challenge. [ADA 2026 hospital care](https://doi.org/10.2337/dc26-s016), indexed. [CDC carb counting](https://www.cdc.gov/diabetes/healthy-eating/carb-counting-manage-blood-sugar.html) and [CDC meal planning](https://www.cdc.gov/diabetes/healthy-eating/diabetes-meal-planning.html), indexed. Local insulin, fasting and sick-day protocols and independent clinical review pending. Q3–4 are educational calculation only.
 - [Voogly Nutrition Marathon MCQs + Concepts](https://www.youtube.com/watch?v=6t6nwvW56l4), indexed mixed-format lead includes therapeutic diets. Q1–20 exact item mapping/playback pending. No historical provenance claimed.
+
+- Second source check: CDC meal planning and carb counting direct HTML retrieved, confirming plate fractions and 15-g carbohydrate-serving convention. ADA 2026 recommendation 5.26 on SGLT2/ketogenic eating and 5.19 on delayed alcohol-related hypoglycaemia located in indexed text. Q12 replaced with a recipe-portion calculation to avoid repeating the prior label-claim task. Local medication protocol and independent review remain pending.

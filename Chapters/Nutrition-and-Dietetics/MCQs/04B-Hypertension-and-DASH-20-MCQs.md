@@ -408,3 +408,5 @@
 
 - [NHLBI DASH eating plan](https://www.nhlbi.nih.gov/health/dash-eating-plan), direct HTML reference table reviewed, 2026 update. [NHLBI living with DASH](https://www.nhlbi.nih.gov/health/dash/living-with-dash), indexed. [WHO sodium reduction](https://www.who.int/news-room/fact-sheets/detail/sodium-reduction) and [WHO 2025 lower-sodium salt substitute guideline](https://www.who.int/publications/i/item/9789240105591), indexed recommendations. Pregnancy, kidney disease and medication safety require local specialist review. Q1–20 independent clinical review pending.
 - [Voogly Nutrition Marathon MCQs + Concepts](https://www.youtube.com/watch?v=6t6nwvW56l4), indexed mixed-format therapeutic diets lead. No item-level playback, timestamp or historical exam attribution verified.
+
+- WHO 2025 guideline overview directly retrieved. Indexed recommendation explicitly excludes pregnant women, children and people with compromised potassium excretion. Do not generalize population guidance to individual clinical prescriptions. NHLBI reference table and sodium levels directly reviewed.

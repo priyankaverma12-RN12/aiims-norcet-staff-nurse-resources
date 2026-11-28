@@ -84,23 +84,23 @@
 
 </details>
 
-### Q5. A properly tested drink leaves 2.5 mL in the syringe after 10 seconds. Which IDDSI level does this result indicate?
+### Q5. A kitchen proposes serving unrestricted-size soft food from IDDSI Level 7 Easy to Chew to an adult prescribed Level 6 Soft and Bite-Sized because both are soft. What is the key concern?
 
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
-- **A.** Level 0, Thin
-- **B.** Level 2, Mildly Thick
-- **C.** Level 1, Slightly Thick
-- **D.** Level 3, Moderately Thick
+- **A.** The two levels always have identical size and chewing requirements
+- **B.** Level 7 Easy to Chew is classified as a thin drink
+- **C.** Level 7 Easy to Chew does not have the same particle-size restriction as Level 6, so it is not an automatic substitute
+- **D.** A kitchen can independently change the prescription if the food is tender
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Level 1, Slightly Thick**
+**Correct: C. Level 7 Easy to Chew does not have the same particle-size restriction as Level 6, so it is not an automatic substitute**
 
-- **A. Incorrect:** Thin level mein less than 1 mL remains. 2.5 mL thin threshold se above hai.
-- **B. Incorrect:** Level 2 range approximately 4–8 mL hai. Given value lower range mein hai.
-- **C. Correct:** 2.5 mL level 1 range ke clearly andar hai. Standard syringe aur test timing result interpretation ke liye necessary hain.
-- **D. Incorrect:** Level 3 mein more than 8 mL with some flow expected hota hai. 2.5 mL usse much lower hai.
+- **A. Incorrect:** Softness similarity ka matlab same particle-size and chewing needs nahi. Level labels distinguish karna important hai.
+- **B. Incorrect:** Level 7 food texture hai. Thin drink level 0 hoti hai.
+- **C. Correct:** Level 6 softness ke saath adult bite-size limit bhi apply karti hai. Level 7 Easy to Chew ke pieces unrestricted ho sakte hain, which matters for choking risk. Prescribed texture must be followed.
+- **D. Incorrect:** Patient-specific level qualified swallowing assessment se decide hota hai. Kitchen texture test prescription change authorize nahi karta.
 
 </details>
 
@@ -408,3 +408,5 @@
 
 - [IDDSI framework and current documents](https://www.iddsi.org/resources/framework-documents), indexed current version 2.2; direct 520. [IDDSI testing methods v2.0](https://www.iddsi.org/images/Publications-Resources/DetailedDefnTestMethods/English/V2TestingMethodsEnglish31july2019.pdf), [flow test poster](https://www.iddsi.org/images/Publications-Resources/Poster/OtherPosters/iddsi_poster_flow_test_jan2020.pdf) and [adult consumer handouts](https://www.iddsi.org/images/Publications-Resources/PatientHandouts/English/Adults/consumer_handouts_for_adults_all_levels.pdf), PDF extracted text reviewed. Screenshot retrieval cache miss. [IDDSI mixed consistencies](https://www.iddsi.org/images/Publications-Resources/Publications/MixedDualConsistencies.pdf), indexed only. Questions use non-boundary numerical examples and independently worded scenarios. Current v2.2 changes, local protocols, qualified swallowing clinician review and PDF visual verification pending. No clinical prescription is made by these items.
 - IDDSI demonstration videos referenced by the official handouts are instructional, not dedicated exam MCQs. [Voogly Nutrition Marathon MCQs + Concepts](https://www.youtube.com/watch?v=6t6nwvW56l4) indexed mixed-format therapeutic diet lead only. Q1–20 exact practice video mapping/playback pending. No historical provenance claimed.
+
+- Current framework site index identifies detailed definitions v2.2 and testing methods v2.0. Direct current definitions access returned 520. [Adult Level 7 Easy to Chew handout](https://www.iddsi.org/images/Publications-Resources/PatientHandouts/English/Adults/7_easy_to_chew_adult_consumer_handout_30jan2019.pdf) indexed, supporting Q5 replacement. Older testing methods text verified. No IDDSI diagram reproduced, all explanatory material independently worded. Visual and current definition reconciliation pending.

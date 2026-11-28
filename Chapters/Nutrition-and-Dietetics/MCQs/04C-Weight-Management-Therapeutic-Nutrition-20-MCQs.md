@@ -184,43 +184,43 @@
 
 </details>
 
-### Q10. A patient wants to monitor progress using a single daily weight measurement. Which advice best prevents overinterpretation of normal short-term fluctuation?
+### Q10. An adult with BMI 28 kg/m² has waist circumference 84 cm and height 168 cm. What is the waist-to-height ratio used as an additional central adiposity measure under NICE guidance?
 
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
-- **A.** Treat every small overnight gain as an equal gain in body fat
-- **B.** Change the scale and clothing each day to obtain more accurate trends
-- **C.** Use comparable measurement conditions and interpret trends rather than isolated small changes
-- **D.** React to each reading with an immediate major change in prescribed nutrition
+- **A.** 2.0
+- **B.** 84
+- **C.** 0.50
+- **D.** 28
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Use comparable measurement conditions and interpret trends rather than isolated small changes**
+**Correct: C. 0.50**
 
-- **A. Incorrect:** Rapid fluctuations often fluid or gut contents reflect karte hain. Fat change exact infer nahi karna chahiye.
-- **B. Incorrect:** Measurement conditions change comparison ko distort kar sakti hain. Consistency better hai.
-- **C. Correct:** Hydration, bowel content aur time of day daily weight vary kar sakte hain. Longer trend clinical goals ke saath interpret karein.
-- **D. Incorrect:** Single measurement noise ho sakti hai. Major plan adjustments overall assessment par based honi chahiye.
+- **A. Incorrect:** Yeh height divided by waist hai, required ratio ka inverse.
+- **B. Incorrect:** 84 cm waist circumference alone hai, height-adjusted ratio nahi.
+- **C. Correct:** Waist aur height same units mein honi chahiye. 84 divided by 168 equals 0.50. NICE BMI below 35 wale adults mein is additional measure ko use karti hai, clinical context ke saath.
+- **D. Incorrect:** 28 BMI value hai, waist-to-height ratio nahi. Dono measures different information provide karte hain.
 
 </details>
 
-### Q11. A nurse identifies sugar-sweetened drinks as a substantial source of energy in an adult's diet. What is a specific behavioural goal rather than a vague instruction?
+### Q11. A patient has gained weight after starting a medicine known to promote weight gain, despite following a documented nutrition plan. Which intervention is appropriate?
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
-- **A.** Tell the patient only to eat better
-- **B.** Agree on replacing a defined routine sugary drink with an acceptable unsweetened alternative and review progress
-- **C.** Ban every beverage including water
-- **D.** Assess success solely by the patient's knowledge of drink brands
+- **A.** Stop the suspected medicine immediately without considering its indication
+- **B.** Request a medication review with the treating team while continuing individualized nutrition support
+- **C.** Assume the recorded dietary plan must be false
+- **D.** Prescribe more restriction without assessing the medication or clinical status
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Agree on replacing a defined routine sugary drink with an acceptable unsweetened alternative and review progress**
+**Correct: B. Request a medication review with the treating team while continuing individualized nutrition support**
 
-- **A. Incorrect:** Vague advice measurable action specify nahi karti. Concrete achievable target useful hai.
-- **B. Correct:** Specific achievable replacement se patient action aur follow-up measure kar sakta hai. Alternative preferences and clinical needs respect karein.
-- **C. Incorrect:** Hydration essential hai. Sugar reduction ka aim all liquids eliminate karna nahi.
-- **D. Incorrect:** Brand recall actual drink choice change measure nahi karta.
+- **A. Incorrect:** Abrupt discontinuation underlying illness worsen kar sakti hai. Prescriber-guided review needed hai.
+- **B. Correct:** Some medicines appetite, metabolism ya weight affect kar sakti hain. ADA medication review support karti hai when clinically appropriate. Treatment benefit and alternatives prescriber assess karta hai.
+- **C. Incorrect:** Medication effects and other factors weight change contribute kar sakte hain. Patient report ko automatically reject karna inappropriate hai.
+- **D. Incorrect:** Unnecessary restriction adequacy aur adherence harm kar sakti hai. Underlying contributing factors review karein.
 
 </details>
 
@@ -364,23 +364,23 @@
 
 </details>
 
-### Q19. A patient who prefers vegetarian meals is advised by another person that weight management is impossible without a meat-based diet. What is the best response?
+### Q19. A patient has reached a stable weight two years after bariatric surgery and asks whether nutritional follow-up can stop. Which response best reflects long-term care?
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
-- **A.** A nutritionally adequate vegetarian pattern can be individualized to the person's health goals
-- **B.** All vegetarian meals necessarily exceed energy needs
-- **C.** Meat consumption is required for every weight-management intervention
-- **D.** The patient should remove every source of protein to avoid meat
+- **A.** Continue long-term nutrition monitoring and prescribed supplementation under the shared-care plan
+- **B.** Stop all vitamin and mineral monitoring once body weight is stable
+- **C.** Use only daily weight readings to detect every postoperative nutrient deficiency
+- **D.** Take a single large supplement dose each year instead of the prescribed regimen
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. A nutritionally adequate vegetarian pattern can be individualized to the person's health goals**
+**Correct: A. Continue long-term nutrition monitoring and prescribed supplementation under the shared-care plan**
 
-- **A. Correct:** Dietary pattern diverse acceptable foods se plan ho sakta hai. Energy, protein, micronutrients aur preferences assess karna important hai.
-- **B. Incorrect:** Vegetarian food composition and portions vary karte hain. Pattern alone energy excess prove nahi karta.
-- **C. Incorrect:** Protein and other nutrients suitable vegetarian sources se bhi obtain ho sakte hain. Individual adequacy review karein.
-- **D. Incorrect:** Protein removal nutrition compromise karega. Acceptable protein sources identify karein.
+- **A. Correct:** Surgical changes nutrient intake aur absorption affect kar sakte hain beyond weight stabilization. NICE annual nutritional monitoring after specialist discharge recommend karti hai, with individualized supplementation.
+- **B. Incorrect:** Stable weight micronutrient adequacy prove nahi karta. Deficiency risk persist ho sakta hai.
+- **C. Incorrect:** Micronutrient deficiencies specific history, examination aur labs se assess hoti hain. Weight alone sufficient nahi.
+- **D. Incorrect:** One arbitrary dose ongoing requirements cover karne ka reliable method nahi. Specific supplements and timing clinical plan guide karta hai.
 
 </details>
 
@@ -408,3 +408,5 @@
 
 - [NIDDK treatment for overweight and obesity](https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/treatment), [NIDDK weight maintenance](https://www.niddk.nih.gov/health-information/weight-management/adult-overweight-obesity/eating-physical-activity), [CDC healthy weight](https://www.cdc.gov/healthy-weight-growth/losing-weight/index.html), indexed. [ADA 2026 nutrition standards](https://doi.org/10.2337/dc26-S005), indexed. Further specialist guidance for eating disorders, paediatric obesity, sarcopenia, very-low-energy diets and adverse effects required before publication. No universal deficit, dose or restrictive regimen prescribed.
 - [Voogly Nutrition Marathon MCQs + Concepts](https://www.youtube.com/watch?v=6t6nwvW56l4), general mixed-format indexed lead. Exact Q1–20 video mapping/playback pending. No historical provenance claimed.
+
+- Direct NIDDK lifestyle and weight-maintenance pages subsequently retrieved. Additional indexed [NICE NG246 assessment](https://www.nice.org.uk/guidance/ng246/chapter/Identifying-and-assessing-overweight-obesity-and-central-adiposity), [nutrition and activity](https://www.nice.org.uk/guidance/ng246/chapter/Physical-activity-and-diet), [bariatric follow-up](https://www.nice.org.uk/guidance/ng246/chapter/Medicines-and-surgery) and [ADA 2026 weight management](https://doi.org/10.2337/dc26-S008). Q10, Q11 and Q19 replaced following overlap review. Specialist nutrition and medical review remains pending.
