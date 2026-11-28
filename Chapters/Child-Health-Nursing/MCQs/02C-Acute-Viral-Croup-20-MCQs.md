@@ -35,20 +35,20 @@ Original practice, not PYQs. Draft-only. Treatment timing follows the named RCH 
 
 **Difficulty:** Easy | **Priority:** 🟠 Important | **Topic:** Acute viral croup | **Type:** Original
 
-- **A.** Rotavirus
-- **B.** Hepatitis A virus
-- **C.** Human papillomavirus
+- **A.** Respiratory syncytial virus
+- **B.** Influenza A virus
+- **C.** Human adenovirus
 - **D.** Human parainfluenza virus
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Human parainfluenza virus**
 
-- **A.** Rotavirus predominantly gastroenteritis cause karta hai. Yeh typical viral croup ka classic organism nahi hai.
+- **A.** RSV croup cause kar sakta hai, lekin infant bronchiolitis ke saath iska association zyada classic hai. Typical croup ke most common viral cause ke question mein parainfluenza choose karte hain.
 
-- **B.** Hepatitis A mainly liver infection cause karta hai. Yeh subglottic swelling ka usual cause nahi hai.
+- **B.** Influenza A respiratory infection ke saath croup bhi cause kar sakta hai, but classic most common association parainfluenza hai.
 
-- **C.** HPV recurrent respiratory papillomatosis se related ho sakta hai, jo chronic hoarseness ya obstruction de sakta hai. Acute viral croup ka classic cause parainfluenza hai.
+- **C.** Adenovirus respiratory disease aur occasionally croup produce kar sakta hai. Is question ka best answer most common classic cause parainfluenza hai.
 
 - **D.** Parainfluenza virus croup ka common cause hai, although other respiratory viruses bhi croup kar sakte hain. Viral inflammation larynx aur trachea ko narrow karti hai.
 
