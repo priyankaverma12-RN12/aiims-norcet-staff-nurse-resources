@@ -1,0 +1,83 @@
+name: Reconcile MCQ publication
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - ops/mcq-publication-reconciliation-20261128
+    paths:
+      - 'Chapters/**'
+      - '.github/workflows/mcq-publication-reconciliation.yml'
+permissions:
+  contents: read
+  pull-requests: read
+  actions: read
+concurrency:
+  group: mcq-publication-reconciliation
+  cancel-in-progress: true
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Compare candidate files, main and last verified deployment
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('node:fs');
+            const assert = require('node:assert/strict');
+            const repo = context.repo;
+            const study = p => /^Chapters\/[^/]+\/(?:MCQs|Mock-Tests|Previous-Year-Questions|Concepts)\/.*\.md$/i.test(p);
+            const state = (candidate, target) => !candidate ? 'removed-in-candidate' : !target ? 'absent' : candidate === target ? 'exact' : 'different';
+            assert.equal(state('a', undefined), 'absent');
+            assert.equal(state('a', 'a'), 'exact');
+            assert.equal(state('a', 'b'), 'different');
+            assert.equal(state(undefined, 'b'), 'removed-in-candidate');
+            const tree = async sha => {
+              const {data} = await github.rest.git.getTree({...repo, tree_sha: sha, recursive: '1'});
+              if (data.truncated) throw new Error('Truncated tree: ' + sha);
+              return new Map(data.tree.filter(x => x.type === 'blob').map(x => [x.path, x.sha]));
+            };
+            const {data: branch} = await github.rest.repos.getBranch({...repo, branch: 'main'});
+            const mainSha = branch.commit.sha;
+            const {data: runs} = await github.rest.actions.listWorkflowRuns({...repo, workflow_id: 'nursing-study-pages.yml', branch: 'main', status: 'success', per_page: 1});
+            const deployment = runs.workflow_runs[0];
+            if (!deployment) throw new Error('No successful Pages deployment found');
+            const [main, live] = await Promise.all([tree(mainSha), tree(deployment.head_sha)]);
+            const productionDelta = [...new Set([...main.keys(), ...live.keys()])].filter(p => p.startsWith('Chapters/') && main.get(p) !== live.get(p)).map(path => ({path, mainBlob: main.get(path) || null, deployedBlob: live.get(path) || null}));
+            const pulls = await github.paginate(github.rest.pulls.list, {...repo, state:'open', per_page:100});
+            const report = {generatedAt:new Date().toISOString(), mainSha, verifiedDeploymentSha:deployment.head_sha, verifiedDeploymentRun:deployment.html_url, productionDelta, pullRequests:[], errors:[], limits:'Open PRs only; no branch-only or closed-unmerged recovery; paths are not question counts or clinical approval. Deployment may be newer than the last successful verification.'};
+            for (const pr of pulls) {
+              try {
+                const files = await github.paginate(github.rest.pulls.listFiles, {...repo, pull_number:pr.number, per_page:100});
+                if (files.length >= 3000) throw new Error('PR files API cap reached');
+                const selected = files.filter(f => study(f.filename) || study(f.previous_filename || ''));
+                if (!selected.length) continue;
+                const candidate = await tree(pr.head.sha);
+                const {data: current} = await github.rest.pulls.get({...repo, pull_number:pr.number});
+                if (current.head.sha !== pr.head.sha || current.state !== 'open') throw new Error('PR changed during scan; recheck');
+                const paths = selected.map(f => {
+                  const p = f.filename, h = candidate.get(p), m = main.get(p), d = live.get(p);
+                  return {path:p, previousPath:f.previous_filename || null, change:f.status, candidateBlob:h || null, mainBlob:m || null, deployedBlob:d || null, mainState:state(h,m), deploymentState:state(h,d)};
+                });
+                report.pullRequests.push({number:pr.number, url:pr.html_url, draft:pr.draft, head:pr.head.sha, paths});
+              } catch (e) {
+                report.errors.push({number:pr.number, head:pr.head.sha, error:String(e.message || e)});
+              }
+            }
+            fs.writeFileSync('publication-reconciliation.json', JSON.stringify(report, null, 2));
+            const rows = report.pullRequests.map(pr => [String(pr.number), String(pr.draft), String(pr.paths.length), String(pr.paths.filter(p=>p.mainState==='absent').length), String(pr.paths.filter(p=>p.mainState==='different').length), String(pr.paths.filter(p=>p.deploymentState==='exact').length)]);
+            await core.summary.addHeading('MCQ publication reconciliation')
+              .addRaw('Main: '+mainSha+'; last verified deployment: '+deployment.head_sha+'; changed chapter paths: '+productionDelta.length+'.')
+              .addEOL().addRaw('File paths, not question totals. Review and release candidate batches separately; never auto-merge them. See issue #72.')
+              .addEOL().addTable([[{data:'PR',header:true},{data:'Draft',header:true},{data:'Study paths',header:true},{data:'Absent from main',header:true},{data:'Different on main',header:true},{data:'Exact on deployment',header:true}],...rows])
+              .addRaw('Scan errors: '+report.errors.length+'. See JSON for exact paths and blob hashes.').write();
+            if (report.errors.length) core.setFailed('Incomplete scan; inspect artifact and re-run');
+      - name: Retain reconciliation ledger
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: publication-reconciliation
+          path: publication-reconciliation.json
+          if-no-files-found: error
+          retention-days: 30

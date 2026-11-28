@@ -160,3 +160,8 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## HELLP syndrome — 28 November 2026
 
 [08D evidence and reported adaptation](08D-HELLP-Syndrome-Evidence.md). RRB Staff Nurse 20 July 2019 Shift III report directly retrieved, pre-eclampsia association, one independently worded adaptation. Official booklet and key pending. HPRCA post 25026 listing indexed only. Direct StatPearls, NHM and NICE NCBI text, specialty guidance indexed. Twenty-one specific video gaps. Obstetrics adaptations 29.
+
+
+## Hypertensive treatment and nursing management — 28 November 2026
+
+[08E evidence register](08E-Hypertensive-Treatment-Evidence.md). Twenty original slots, no newly authenticated historical adaptation. UKTIS, LactMed, NHS SPS and NICE source mappings documented; independent clinical review and question-specific video coverage pending. Obstetrics historical adaptations remain 29.

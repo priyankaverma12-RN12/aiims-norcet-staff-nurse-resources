@@ -29,3 +29,17 @@ assert.equal(findStudyFragment(root,'#'),null);
 assert.equal(findStudyFragment(root,'day-1'),null);
 assert.equal(findStudyFragment(root,'#%22%5D'),null);
 console.log('Study fragment and legacy anchor regression tests passed.');
+
+const {studyDocumentPath}=require('./media.js');
+const navBase='Chapters/Eye-and-ENT-Nursing/README.md';
+assert.equal(studyDocumentPath(resolveResource('MCQs',navBase)),'Chapters/Eye-and-ENT-Nursing/MCQs/');
+assert.equal(studyDocumentPath(resolveResource('MCQs/',navBase)),'Chapters/Eye-and-ENT-Nursing/MCQs/');
+assert.equal(studyDocumentPath(resolveResource('Concepts/A%20B.md#topic',navBase)),'Chapters/Eye-and-ENT-Nursing/Concepts/A B.md');
+assert.equal(studyDocumentPath(resolveResource('https://github.com/'+repo+'/tree/main/Chapters/Eye-and-ENT-Nursing/MCQs',navBase)),'Chapters/Eye-and-ENT-Nursing/MCQs/');
+assert.equal(studyDocumentPath(resolveResource('Assets/diagram.svg',navBase)),null);
+assert.equal(studyDocumentPath(resolveResource('https://example.com/a.md',navBase)),null);
+assert.equal(studyDocumentPath({path:'Chapters/../README.md'}),null);
+assert.equal(studyDocumentPath({path:'Chapters/Test//foo.md'}),null);
+assert.equal(studyDocumentPath({path:'Chapters/Test/A, B.md'}),'Chapters/Test/A, B.md');
+assert.equal(studyDocumentPath({path:'Chapters/Test/a%2Fb.md'}),null);
+console.log('Extensionless chapter folder and safe study destination tests passed.');
