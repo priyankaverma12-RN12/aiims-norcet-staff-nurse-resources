@@ -6,7 +6,7 @@
 
 ### Q1. Immediately after a clean surgical incision, which process initially helps limit blood loss?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Platelet activation and fibrin clot formation
 - **B.** Collagen remodelling into a mature scar
@@ -31,7 +31,7 @@ Hemostasis injury ke turant baad clot banakar bleeding control karta hai. Platel
 
 ### Q2. During early wound inflammation, which role of neutrophils is most relevant?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Production of mature scar collagen as the primary matrix cell
 - **B.** Restoration of the epidermal pigment pattern
@@ -81,7 +81,7 @@ Macrophages dead cells aur debris clear karte hain aur growth signals release ka
 
 ### Q4. A wound bed appears moist, pink-red and granular during uncomplicated repair. Which process does this finding most directly represent?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Complete scar maturation
 - **B.** Black eschar formation
@@ -106,7 +106,7 @@ Granulation tissue mein new capillaries aur connective tissue matrix hoti hai. P
 
 ### Q5. A clean surgical wound has closely approximated edges secured with sutures. Which healing method is intended?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Secondary intention
 - **B.** Delayed primary closure after an open period
@@ -131,7 +131,7 @@ Primary intention mein wound edges closely approximate kiye jaate hain. Tissue g
 
 ### Q6. A large open wound with tissue loss cannot be approximated and gradually fills from the base. Which healing method is occurring?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Primary intention
 - **B.** Secondary intention
@@ -306,7 +306,7 @@ New tissue fragile hota hai aur adherent dressing remove karne par damage ho sak
 
 ### Q13. Which finding best describes serosanguineous drainage?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Thick green-yellow purulent material
 - **B.** Only dry black necrotic tissue
@@ -331,7 +331,7 @@ Serosanguineous fluid serum aur small amount blood ka mixture hota hai. Isliye t
 
 ### Q14. A postoperative abdominal patient reports a sudden pulling sensation and the incision partially separates without visible organs. Which action is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Reduce strain, cover the wound appropriately and promptly notify the surgical team
 - **B.** Encourage forceful coughing without support
@@ -356,7 +356,7 @@ Incision separation dehiscence ho sakti hai. Nurse strain reduce karti hai, woun
 
 ### Q15. A postoperative abdominal wound opens and bowel is visible. Which immediate nursing response is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Reinsert the bowel manually at the bedside
 - **B.** Apply dry pressure directly over exposed bowel
@@ -431,7 +431,7 @@ Consistent method se serial measurements comparable bante hain. Size, tissue aur
 
 ### Q18. A chronic lower-limb wound shows poor perfusion and absent distal pulses. Which principle should guide the next care decision?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Apply high compression immediately without arterial assessment
 - **B.** Perform aggressive debridement without evaluating circulation
@@ -456,7 +456,7 @@ Absent pulses arterial insufficiency ka clue ho sakte hain. Vascular assessment 
 
 ### Q19. A healed incision remains weaker than uninjured skin several weeks after closure. Which phase explains gradual improvement in tensile strength?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Initial platelet plug formation only
 - **B.** Collagen remodelling and reorganization
