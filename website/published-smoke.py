@@ -302,7 +302,7 @@ with sync_playwright() as p:
         expect(page.locator(".learning-result")).to_have_attribute("data-performance","review")
         expect(page.locator(".learning-result.result-celebration")).to_have_count(0)
         expect(page.locator(".learning-result-stats")).to_contain_text("Incorrect")
-        page.locator(".learning-missed-review summary").click()
+        page.locator(".learning-missed-review > summary").click()
         expect(page.locator(".learning-missed-review .review-card")).to_have_count(4)
         expect(page.locator(".learning-missed-review .original-explanation")).to_have_count(4)
         page.get_by_role("button",name="Practise mistakes (4)",exact=True).click()

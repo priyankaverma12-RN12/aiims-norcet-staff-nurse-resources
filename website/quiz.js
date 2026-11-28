@@ -42,7 +42,7 @@ function resultMetrics(items,selected,penalty){
 
 function performanceFeedback(percent){
  if(percent===100)return {level:'perfect',greeting:'Hurrah! Perfect score!',advice:'You answered every question correctly. Keep this knowledge fresh with revision or move on to the next topic.',celebrate:true,symbol:'★'};
- if(percent>=80)return {level:'strong',greeting:'Excellent work!',advice:'You have a strong understanding of this topic. Review the questions you missed, then keep learning.',celebrate:true,symbol:'✓'};
+ if(percent>=80)return {level:'strong',greeting:'Excellent work!',advice:'You did very well on these questions. Review the ones you missed, then keep learning.',celebrate:true,symbol:'✓'};
  if(percent>=60)return {level:'good',greeting:'Well done! Keep improving.',advice:'You are making good progress. Review your incorrect answers and try another short practice session.',celebrate:false,symbol:'✓'};
  if(percent>=40)return {level:'developing',greeting:'Good effort — more practice will help.',advice:'Revisit the concepts behind your incorrect answers, then practise those questions again.',celebrate:false,symbol:'↻'};
  return {level:'review',greeting:'Keep going — this topic needs more practice.',advice:'Read the topic notes, review each missed explanation, and try the questions again. Aim to improve your next score.',celebrate:false,symbol:'↻'};
