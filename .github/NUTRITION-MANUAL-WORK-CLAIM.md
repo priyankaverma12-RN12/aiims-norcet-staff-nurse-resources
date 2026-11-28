@@ -1,10 +1,13 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-10a-glim-20261128-1227Z
-Scope: Isolated PR35 prepared GLIM adult diagnostic bank, guide, SVG and inventory. No shared navigation or other chapter writes.
-Claimed UTC: 2026-11-28T12:27:02Z
-Expiry UTC: 2026-11-28T12:57:02Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 10A GLIM adult malnutrition diagnosis
+
+Candidate head: f842aa6c3142e6d15e39743612ae82dadda7f889
+Inventory: 900 staged originals, 3600 individual Roman Hinglish rationales, 45 banks, 28 guides and 28 SVGs. Four legacy originals and one reported adaptation separately preserved. Prepared GLIM bank transferred, two intake stems clarified with explicit 2025 dating. New 20 originals (7 Easy, 8 Medium, 5 Difficult), 80 rationales, guide and rendered diagram. Bank 0bf6b644f4f055d8d77d84adb86b23e387636cff, guide f15603f57587ebf6297284e4687bee080350939c, SVG 2cdabcaf8e75ea9d145866de769979b40e1a1386. Exact remote readbacks, structural validation, zero normalized matches against 180 targeted Nutrition/Geriatric stems, matching SVG blob and rendering passed. Current CI 46144965167 pending. Draft only. Full preflight, independent clinical/dietetic/pharmacy/regulatory, exhaustive semantic, INC, 2026 GLIM intake Delphi full-text reconciliation, AMB 2026, source/video, earlier flagged clusters, PR7/8 and integration gates incomplete. Next screen distinct adult underweight and diarrhea diet objectives before further content. No other workstream, website, learner history or five automation changes.
 
 ## Latest released checkpoint — 09E cookery methods and practical food preparation
 
