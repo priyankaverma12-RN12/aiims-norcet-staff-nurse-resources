@@ -14,6 +14,8 @@ NICE NG133 mein chronic hypertension ka treatment sustained BP 140 systolic ya 9
 
 Agar systolic BP 160 ya zyada hai, ya diastolic 110 ya zyada hai, toh dono numbers badhne ka wait nahi karte. Severe reading ko correct technique ke saath jaldi repeat karte hain, aam taur par 15 minute ke andar. Persistent severe BP emergency treatment maangta hai. Nurse obstetric emergency team ko alert karti hai, IV access aur assessment prepare karti hai, aur local order ke mutabik medicine deti hai. ACOG-based pathways treatment ko confirmed severe BP ke baad 30–60 minute ke andar shuru karne par zor dete hain. Treatment ke baad BP ko protocol ke interval par repeat karte hain. Dose ko bina recheck ke automatic repeat nahi karte.
 
+Agar sahi interval par prescribed emergency doses dene ke baad bhi BP severe range mein hai aur protocol ki dose limit poori ho gayi hai, toh nurse apne aap extra dose nahi deti hai. ACOG Committee Opinion 767 ke mutabik urgent specialist consultation chahiye taaki next suitable medicine ya intervention decide ho sake. Nurse pehle di gayi medicines ki timing aur response batati hai aur maternal aur indicated fetal monitoring jaari rakhti hai.
+
 ```mermaid
 flowchart TD
  A[Severe BP reading] --> B[Prompt repeat with correct technique]
