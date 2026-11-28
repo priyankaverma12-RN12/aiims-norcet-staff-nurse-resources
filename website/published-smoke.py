@@ -45,15 +45,22 @@ with sync_playwright() as p:
             assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth+2"),"Horizontal overflow"
         page.goto(base+"?build="+commit)
         expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
-        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 10 questions")
+        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
-        page.locator(".daily-goal-select select").select_option("5")
-        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 5 questions")
+        expect(page.locator(".daily-target strong")).to_have_text("50 MCQs")
+        expect(page.locator(".daily-total strong")).to_have_text("0 MCQs")
+        expect(page.locator(".daily-goal-select select")).to_have_count(0)
         fit()
         # Library entry point: counts and controls must be reachable without using Progress first.
         respiratory=page.locator(".chapter-card").filter(has=page.locator(".chapter strong",has_text="Respiratory System"))
         expect(respiratory.locator(".chapter .resource-question-count")).to_contain_text("MCQs")
         expect(respiratory.locator(".chapter-card-progress")).to_be_visible()
+        theory_all=[p for p,m in expected["resources"].items() if m["type"]=="Theory" and not m["draft"]]
+        expect(page.locator("#theory-total")).to_have_text(str(len(theory_all)))
+        for c in page.locator(".chapter-card .chapter").evaluate_all("""els=>els.map(e=>({id:new URL(e.href).searchParams.get('doc').split('/')[1],text:e.querySelector('.study-tag[data-role=theory-count]')?.textContent}))"""):
+            n=sum(p.startswith("Chapters/"+c["id"]+"/") for p in theory_all)
+            assert c["text"]==f"{n} theory topic{'s' if n!=1 else ''} · 0 done",c
+        expect(respiratory.locator(".chapter-links a[data-study-section=Concepts] .study-tag[data-kind=theory]")).to_be_visible()
         resp=next(c for c in expected["chapters"] if c["id"]=="Respiratory-System")
         resp_mocks=[f for f in resp["records"] if f["category"]=="mock" and expected["resources"][f["path"]]["type"]=="Mock test" and not expected["resources"][f["path"]]["draft"]]
         expect(respiratory.locator(".chapter .study-tag[data-kind=mock]")).to_have_text(f"{len(resp_mocks)} mock tests · {sum(f['slots'] for f in resp_mocks):,} questions")
@@ -77,11 +84,13 @@ with sync_playwright() as p:
         assert page.evaluate("(p)=>loadCompletion()[p].slots",sample)==44
         # Marks from any study list must count toward the daily home goal immediately.
         page.goto(base+"?build="+commit)
-        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 50 MCQs",timeout=30000)
         expect(page.locator(".daily-count-breakdown")).to_contain_text("0 answered here")
         expect(page.locator(".daily-count-breakdown")).to_contain_text("44 more marked done")
         expect(page.locator(".study-day.today strong")).to_have_text("44")
-        expect(page.locator("#daily-study h2")).to_have_text("Daily goal complete!")
+        expect(page.locator("#daily-study h2")).to_have_text("Almost there!")
+        expect(page.locator(".daily-progress-label")).to_contain_text("6 remaining")
+        expect(page.locator(".daily-total strong")).to_have_text("44 MCQs")
         # Marked completion and an actual answer in the same bank do not count twice.
         go({"doc":sample})
         ready()
@@ -91,16 +100,16 @@ with sync_playwright() as p:
         page.once("dialog",lambda d:d.accept())
         page.get_by_role("button",name="Exit learning").click()
         page.goto(base+"?build="+commit)
-        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 50 MCQs",timeout=30000)
         expect(page.locator(".daily-count-breakdown")).to_contain_text("1 answered here")
         expect(page.locator(".daily-count-breakdown")).to_contain_text("43 more marked done")
         # Mark/unmark from a recent card on the home screen must refresh the goal without navigation.
         recent=page.locator("#recent .tracked-resource-card").filter(has=page.locator("a[href*='Day-01-Complete-Respiratory-Anatomy-Physiology.md']")).first
         expect(recent.locator("input[type=checkbox]")).to_be_checked()
         recent.locator("input[type=checkbox]").uncheck()
-        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions")
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 50 MCQs")
         recent.locator("input[type=checkbox]").check()
-        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions")
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 50 MCQs")
         # Verify unmark/reset without corrupting the subsequent existing regression.
         go({"doc":sample.rsplit("/",1)[0]+"/"})
         ready()
@@ -120,7 +129,7 @@ with sync_playwright() as p:
         metric.locator(".completion-reset").click()
         expect(metric.locator(".tracked-resource-line strong")).to_have_text("0%")
         page.goto(base+"?build="+commit)
-        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 50 MCQs",timeout=30000)
         expect(page.locator(".daily-count-breakdown")).to_contain_text("0 more marked done")
         print(f"Daily manual mark, existing answer deduplication and reset verified at {width}x{height}.",flush=True)
         go({"doc":"Chapters/Respiratory-System/README.md"})
@@ -164,9 +173,9 @@ with sync_playwright() as p:
         expect(page.locator(".completion-resource input:checked")).to_have_count(0)
         print(f"Published completion tracker {width}x{height}: mark done, coverage, reload, filtering and reset passed.",flush=True)
         go({"metrics":"1","chapter":chapter["id"]})
-        expect(page.locator("#metrics-totals .metric-tile")).to_have_count(5,timeout=30000)
+        expect(page.locator("#metrics-totals .metric-tile")).to_have_count(6,timeout=30000)
         expect(page.locator("#metrics-chapter")).to_have_value(chapter["id"])
-        records=page.locator(".metric-records a.metric-record")
+        records=page.locator(".metric-records a.metric-record:not([data-category=theory])")
         expect(records).to_have_count(len(chapter["records"]))
         actual=records.evaluate_all("""els=>els.map(e=>({path:new URL(e.href).searchParams.get('doc'),slots:Number(e.querySelector('.metric-record-count strong').textContent.replace(/,/g,''))}))""")
         assert actual==[{"path":r["path"],"slots":r["slots"]} for r in chapter["records"]]
@@ -181,9 +190,34 @@ with sync_playwright() as p:
         print(f"Published metrics resource cards {width}x{height}: exact counts, full links, responsive grid and filtering passed.",flush=True)
 
         mocks=[f for f in chapter["records"] if f["category"]=="mock" and expected["resources"][f["path"]]["type"]=="Mock test" and not expected["resources"][f["path"]]["draft"]]
-        expected_values=page.evaluate("(values)=>values.map(n=>n.toLocaleString('en-IN'))",[chapter["totals"]["mcq"],len(mocks),chapter["totals"]["pyq"],chapter["totals"]["imported"],chapter["totals"]["embedded"]])
+        theory=[p for p,m in expected["resources"].items() if p.startswith("Chapters/"+chapter["id"]+"/") and m["type"]=="Theory" and not m["draft"]]
+        expected_values=page.evaluate("(values)=>values.map(n=>n.toLocaleString('en-IN'))",[len(theory),chapter["totals"]["mcq"],len(mocks),chapter["totals"]["pyq"],chapter["totals"]["imported"],chapter["totals"]["embedded"]])
         expect(page.locator(".mock-question-total")).to_have_text(f"{sum(f['slots'] for f in mocks):,} questions")
         assert page.locator(".metric-tile strong").all_text_contents()==expected_values
+        page.locator("#metrics-category").select_option("theory")
+        theory_cards=page.locator(".metric-record[data-category=theory]")
+        expect(theory_cards).to_have_count(len(theory))
+        actual_theory=theory_cards.evaluate_all("els=>els.map(e=>new URL(e.href).searchParams.get('doc'))")
+        assert set(actual_theory)==set(theory)
+        if theory:
+            first_theory=page.locator(".tracked-resource-card").filter(has=theory_cards.first).first
+            first_theory.locator("input[type=checkbox]").check()
+            expect(page.locator(".theory-metric-completed")).to_contain_text("1 completed")
+            first_theory.locator("input[type=checkbox]").uncheck()
+            expect(page.locator(".theory-metric-completed")).to_contain_text("0 completed")
+        if theory:
+            go({"doc":theory[0]})
+            ready()
+            expect(page.locator("#sections a[data-study-section=Concepts] [data-role=theory-count]")).to_be_visible()
+            expect(page.locator("#resource-subtitle [data-role=theory-count]")).to_have_text("1 theory topic · 0 done")
+            page.locator("#reader-completion input[type=checkbox]").check()
+            expect(page.locator("#resource-subtitle [data-role=theory-count]")).to_have_text("1 theory topic · 1 done")
+            page.locator("#reader-completion input[type=checkbox]").uncheck()
+            go({"metrics":"1","chapter":chapter["id"]})
+            expect(page.locator(".theory-metric-completed")).to_contain_text("0 completed")
+        page.locator("#metrics-category").select_option("")
+        print(f"Theory inventory, exact topic destinations and live completion count passed at {width}x{height}.",flush=True)
+
         assert page.locator(".metric-tile").first.evaluate("(e)=>getComputedStyle(e).animationName==='none'")
         fit()
         go({"doc":"Chapters/Nursing-Foundations/README.md"})
@@ -224,7 +258,7 @@ with sync_playwright() as p:
         fit()
         assert page.evaluate("routineCount(loadRoutine())")==1
         page.goto(base+"?build="+commit)
-        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 50 MCQs",timeout=30000)
         expect(page.locator(".daily-action.primary-daily")).to_be_visible()
         expect(page.locator(".study-day.today strong")).to_have_text("1")
         go({"metrics":"1","chapter":"Respiratory-System"})
@@ -318,6 +352,22 @@ with sync_playwright() as p:
         assert page.locator(".learning-result .result-check").evaluate("(e)=>getComputedStyle(e).animationName==='none'")
         fit()
         print(f"Performance-based learning score, low-score coaching, exact missed-answer retry and perfect-score reward passed at {width}x{height}.",flush=True)
+        # Daily total includes multiple banks and keeps increasing after 50.
+        go({"doc":"Chapters/Nursing-Foundations/MCQs/01-Nursing-Process-and-Clinical-Judgment-20-MCQs.md"})
+        ready()
+        page.locator("#reader-completion input[type=checkbox]").check()
+        page.goto(base+"?build="+commit)
+        expect(page.locator(".daily-target strong")).to_have_text("50 MCQs",timeout=30000)
+        expect(page.locator(".daily-total strong")).to_have_text("64 MCQs")
+        expect(page.locator(".daily-progress-label strong")).to_have_text("64 / 50 MCQs")
+        expect(page.locator(".daily-progress-label")).to_contain_text("14 extra MCQs")
+        expect(page.locator("#daily-study h2")).to_have_text("Hurrah! Goal exceeded!")
+        expect(page.locator(".daily-goal-status")).to_contain_text("128%")
+        expect(page.locator(".study-day.today strong")).to_have_text("64")
+        expect(page.locator(".daily-milestone[data-reached=true]")).to_have_count(4)
+        fit()
+        print(f"Fixed 50-MCQ goal, uncapped 64-question daily total, motivational milestones and mobile fit passed at {width}x{height}.",flush=True)
+
 
         print(f"Automatic bank completion, cumulative coverage, remaining questions, reload, chapter tracker and reset passed at {width}x{height}.",flush=True)
         print(f"Published V8 UI {width}x{height}: chapter metrics, compact index, original source links, PYQ answers, reduced motion and responsive layout passed.",flush=True)

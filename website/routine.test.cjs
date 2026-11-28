@@ -39,3 +39,16 @@ assert.equal(dailyStudyStats(manual,marks,'2026-11-27').total,20);
 assert.equal(dailyStudyStats(manual,marks,'2026-11-29').total,0);
 assert.equal(dailyStudyStats(manual,{[p]:{slots:8,at:'bad date'}},today).total,3);
 console.log('Manual completion dates, combined daily goal, duplicate prevention, reset and existing mark compatibility passed.');
+
+const {DAILY_MCQ_GOAL,dailyGoalFeedback,loadRoutine,saveRoutine}=require('./routine.js');
+assert.equal(DAILY_MCQ_GOAL,50);assert.equal(emptyRoutine().goal,50);
+for(const [count,level,remaining,percent] of [[0,'new',50,0],[5,'started',45,10],[10,'started',40,20],[25,'half',25,50],[40,'near',10,80],[49,'near',1,98],[50,'complete',0,100],[75,'complete',0,150]]){
+ const f=dailyGoalFeedback(count);assert.equal(f.level,level);assert.equal(f.remaining,remaining);assert.equal(f.percent,percent);assert(f.title&&f.message);
+}
+const original={goal:10,days:{[today]:{[p]:['one','two']}},banks:{[p]:{questions:{one:{right:true,due:today}},total:8}}};
+let raw=JSON.stringify(original);global.localStorage={getItem:()=>raw,setItem:(k,v)=>{raw=v}};
+const migrated=loadRoutine();assert.equal(migrated.goal,50);assert.deepEqual(migrated.days,original.days);assert.deepEqual(migrated.banks,original.banks);
+assert(saveRoutine(migrated));assert.equal(JSON.parse(raw).goal,50);
+assert.equal(dailyStudyStats(migrated,{[p]:{slots:75,at:stamp}},today).total,75);
+delete global.localStorage;
+console.log('Fixed 50-MCQ target, previous history migration, motivational milestones and uncapped totals passed.');

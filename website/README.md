@@ -72,3 +72,11 @@ The daily goal combines actual checked answers with self-reported question total
 ### V10.3 — score-based learning feedback
 
 Every completed learning session displays score, percentage, correct and incorrect answers and specific next-step guidance. Perfect scores and scores of at least 80% celebrate; 60–79% encourages improvement, 40–59% suggests revisiting missed concepts, and lower scores recommend more topic study and practice. These are motivational thresholds, not exam pass marks. Students can retry the exact session or its missed questions without changing saved timed results. Original explanations are available for missed questions. Timed results use the same guidance with their existing net score. Also repairs the previous daily-goal release syntax error. Reduced motion remains respected.
+
+### V10.4 — daily 50-MCQ goal
+
+The daily goal is fixed at 50 MCQs, replacing the old selector. Existing browser activity, marks and revision history survive the change; legacy goals normalize to 50 on read/save. The actual daily total continues beyond 50 and is shown separately from the goal bar. Motivational feedback and 10/25/40/50 milestones reflect actual study activity; weekly totals use the same counts. Daily totals combine checked questions and additional manually marked questions without counting the same bank twice in a day. Repeated questions in different banks may still overlap. No score or clinical content changes.
+
+### V10.5 — theory topic counts
+
+Library and home show theory totals and completed counts. Theory shortcuts, directory cards, reader tabs, chapter summaries, Metrics and Progress use the same published Theory document classification. One eligible theory document equals one topic, not a count of headings. Drafts, indexes and research notes are excluded; embedded MCQs retain their separate question count. Metrics adds a Theory filter and cards without duplicating documents already listed for embedded questions in the default view. Tests verify counts, exact destinations and live completion changes. Existing question and progress data stay compatible.
