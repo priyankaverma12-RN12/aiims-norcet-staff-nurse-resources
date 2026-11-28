@@ -291,25 +291,25 @@
 
 </details>
 
-### Q14. An event meets the national notification criteria at 10:00 on Monday. Assuming a normal 24-hour period and no earlier applicable deadline, by when must the Article 6 notification be sent at the latest?
+### Q14. For an event evaluated using the general four-question decision pathway in IHR Annex 2, serious public health impact and unusual or unexpected occurrence are established. International spread and travel restriction risks are not yet established. What is the appropriate conclusion under that pathway?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** International Health Regulations and cross-border notification | **Type:** Original practice
 
-- **A.** 10:00 on Wednesday
-- **B.** Midnight on the following Friday
-- **C.** At the end of the month
-- **D.** 10:00 on Tuesday
+- **A.** Do not notify until all four criteria are satisfied
+- **B.** Notify only if the event occurs at an airport
+- **C.** Do not assess further unless an exact pathogen is identified
+- **D.** Notify WHO because two of the four criteria are satisfied
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. 10:00 on Tuesday**
+**Correct: D. Notify WHO because two of the four criteria are satisfied**
 
-- **A.** Wednesday 10:00 48 hours baad hai.
-- **B.** Friday tak wait 24-hour limit exceed karega.
-- **C.** Month-end routine reporting timely notification nahi hai.
-- **D.** Monday 10:00 mein 24 hours add karne se Tuesday 10:00 deadline milti hai.
+- **A.** All four criteria satisfy hona general pathway mein necessary nahi hai.
+- **B.** Airport location notification eligibility ka universal condition nahi hai.
+- **C.** Exact pathogen identity ke bina bhi event risk assess kiya ja sakta hai.
+- **D.** General Annex 2 pathway mein four questions mein se two yes hone par notification required hoti hai, specified disease pathways alag se apply ho sakte hain.
 
-**Exam clue:** Calculate from assessment, not the reporting month.
+**Exam clue:** General Annex 2 decision pathway: at least two affirmative criteria.
 
 </details>
 
