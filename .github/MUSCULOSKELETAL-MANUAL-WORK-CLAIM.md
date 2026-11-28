@@ -2,6 +2,72 @@
 
 State: FREE
 Owner: none
+Scope: no active write lease; continuation reserved at PR46.
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr46-eight-pairs-20261128T1227Z at verified checkpoint 61bda03143541718363b201dffb8e21421214c98. Eight related gait pairs replaced in commit 4dcd113225edeb4e308ba85044da9300559d4d6e. All twelve identified PR46/48 pairs allocated, earlier Q01/Q07/Q14/Q20 preserved, all 478 originals/1912 rationales retained, 4 Easy/4 Medium replacements. Exact readbacks passed. No live credit; independent clinical/semantic, curriculum, video, navigation and current-head CI gates remain. Preserve other sessions and schedules.
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
+State: CLAIMED
+Owner: integration-pr46-eight-pairs-20261128T1227Z
+Scope: isolated PR46 03E Q02/Q04/Q05/Q06/Q08/Q09/Q11/Q15 replacements and checkpoint; retain all earlier corrected blocks and PR48; no main clinical content or shared navigation.
+Claimed UTC: 2026-11-28T12:27:24Z
+Expiry UTC: 2026-11-28T12:57:24Z
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
+State: FREE
+Owner: none
+Scope: no active write lease; continuation reserved at PR46.
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr46-three-overlaps-20261128T1218Z at verified checkpoint fb1647448c8312c39dda03f3019fc373ba92a048. Q07/Q14/Q20 replaced in commit 9929e53d89d8f1d611857f6f0e385907c98e2645. Q01 and all other bank blocks preserved. PR48 retained unchanged; four confirmed pairs allocated, eight related pairs remain. 478 staged originals/1912 rationales preserved. Exact readbacks passed. Independent review, semantic, video, navigation and CI gates remain; no live credit or merge. Preserve other sessions and schedules.
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
+State: CLAIMED
+Owner: integration-pr46-three-overlaps-20261128T1218Z
+Scope: isolated PR46 03E Q07/Q14/Q20 replacements and checkpoint. Retain PR48 10C Q21/Q13/Q22; preserve corrected PR46 Q01 and all other questions. No shared navigation, live clinical writes or other branches.
+Claimed UTC: 2026-11-28T12:18:15Z
+Expiry UTC: 2026-11-28T12:48:15Z
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
+State: FREE
+Owner: none
+Scope: no active write lease; continuation reserved at PR46.
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr46-gait-overlap-20261128T1209Z at verified checkpoint 99a3079129a6c8ff208c52f17e49ffc4db4ec056. PR46 03E Q01 replacement af5f07681c79627b46a42957cdd32502648f7cb0; PR48 10C Q18 unchanged. 478 staged originals/1912 rationales preserved. Exact remote readbacks passed. Q07/Q14/Q20 and related pairs, remaining independent review, semantic, source/video, navigation and current-head CI gates pending. No new live count. Preserve other sessions and schedules.
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
+State: CLAIMED
+Owner: integration-pr46-gait-overlap-20261128T1209Z
+Scope: isolated PR46 03E Q01 replacement and checkpoint, retain PR48 10C Q18 calculation. No shared navigation, live clinical write or other branches.
+Claimed UTC: 2026-11-28T12:09:00Z
+Expiry UTC: 2026-11-28T12:39:00Z
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
+State: FREE
+Owner: none
 Scope: no active write lease; continuation reserved at draft PR46.
 Last owner: musculoskeletal-b05-20261128-0900
 Last checkpoint: 4dcdaae7b7fe4e90cfff2e39b681de32aa139fe3

@@ -6,6 +6,74 @@ Scope: none
 Claimed UTC: none
 Expiry UTC: none
 
+Released emergency-b04-20261128T1337Z at verified draft PR49 checkpoint c25292da0788594661c4ac068732a80a2d841f02. 400 staged originals, 1600 individual Roman Hinglish rationales, 20 topic banks, 20 concepts, 20 SVGs. Added 60 originals in three banks (21 Easy/21 Medium/18 Difficult); nine package files exact readbacks, three SVG local renders matched remote blob hashes, no prior content edits. Preserve prior ICU Q10/Q14/Q15, medico-legal Q18, four legacy originals and one adaptation. No live inventory credit. Batch04 complete. Next address meaningful INC gaps and Easy/Medium deficits under merged PR59/67 before original-only mocks and sourced PYQs. Independent reviews, PR29/7/8 coordination, source/video, full website rendering, latest-main reconciliation and exact-head CI gates still open. Preserve other sessions, learner history and five hourly automations.
+
+## Prior claim history
+
+# Emergency and Critical Care Nursing manual claim
+
+State: CLAIMED
+Owner: emergency-b04-20261128T1337Z
+Scope: PR49 isolated new critical-care transition, equipment and end-of-life topic packages only. Preserve integration corrections and shared navigation.
+Claimed UTC: 2026-11-28T13:37:00Z
+Expiry UTC: 2026-11-28T14:07:00Z
+
+Apply merged PR59 and PR67 content-first and balance rules. No live integration without gates.
+
+## Prior checkpoint
+
+# Emergency and Critical Care Nursing manual claim
+
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr49-line-overlap-20261128T1219Z at verified checkpoint e8cf94e4e3dae373581148df90af0aebd30fe99b. PR49 ICU Q15 replacement 6400c3716fc67f09860a122446ab053874aded76; prior corrected Q14 and PR48 A06 unchanged. 340 staged originals/1360 rationales, 17 banks, exact readbacks passed. Both flagged PR48/49 pairs allocated. No live credit. Remaining independent clinical/semantic, source/video, navigation and current-head CI gates. Preserve other sessions and schedules.
+
+Prior lease history:
+
+# Emergency and Critical Care Nursing manual claim
+
+State: CLAIMED
+Owner: integration-pr49-line-overlap-20261128T1219Z
+Scope: isolated PR49 ICU Q15 and candidate checkpoint, retain PR48 10A Q06 line management, preserve corrected PR49 Q14 and all other questions. No shared navigation, other branches or clinical publication.
+Claimed UTC: 2026-11-28T12:19:39Z
+Expiry UTC: 2026-11-28T12:49:39Z
+
+Prior lease history:
+
+# Emergency and Critical Care Nursing manual claim
+
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr49-icu-overlap-20261128T1207Z at verified checkpoint da43064cc9ac83620162b5781d93525490ae4132. PR49 ICU Q14 replacement 5c10fbcddffffadc1a078d4db548253dd0122d52; prior PR48 10D Q21 unchanged. 340 staged originals/1360 rationales, 17 banks, prior candidate preserved. Exact remote readbacks passed. No live credit. Remaining independent review, semantic, navigation, video and current-head CI gates. Continue prior Batch 04 plan; preserve other sessions and schedules.
+
+Prior lease history:
+
+# Emergency and Critical Care Nursing manual claim
+
+State: CLAIMED
+Owner: integration-pr49-icu-overlap-20261128T1207Z
+Scope: PR49 isolated ICU bank Q14 replacement and checkpoint only, retain PR48 10D Q21 as earlier general mobility objective. User-authorized cross-PR duplicate allocation, no other branch or shared navigation writes, no publication.
+Claimed UTC: 2026-11-28T12:07:34Z
+Expiry UTC: 2026-11-28T12:37:34Z
+
+Prior lease history:
+
+# Emergency and Critical Care Nursing manual claim
+
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
 ## Verified released checkpoint — Batch 03 complete, Batch 04 partial
 
 Draft PR49: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/49

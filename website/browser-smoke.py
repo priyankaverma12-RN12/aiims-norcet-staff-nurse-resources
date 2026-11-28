@@ -15,7 +15,9 @@ sample = "Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-P
 
 def ready(page):
     expect(page.locator("#status")).to_have_text(__import__("re").compile(r"^Live source"), timeout=30000)
-    expect(page.locator("#content h1").first).to_be_visible(timeout=10000)
+    expect(page.locator("#reader-title")).to_be_visible(timeout=10000)
+    if page.viewport_size["width"]>600:
+        expect(page.locator("#content h1").first).to_be_visible(timeout=10000)
 
 def no_overflow(page):
     assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth + 2"), "Horizontal overflow"
@@ -45,7 +47,8 @@ def verify_chapter_folders(page):
         summary.click()
         expect(group).not_to_have_attribute("open","")
         no_overflow(page)
-    for selector in ("#original-index > summary",".outline-card > summary"):
+    outline_control="#reader-panel-toggle-1" if page.viewport_size["width"]<=600 else ".outline-card > summary"
+    for selector in ("#original-index > summary",outline_control):
         assert page.locator(selector).bounding_box()["height"]>=44, f"{selector} below 44px"
     expect(page.locator(".index-resource-group[open]")).to_have_count(0)
 
@@ -72,12 +75,18 @@ try:
         browser = p.chromium.launch()
         desktop = browser.new_context(viewport={"width": 1440, "height": 900})
         page = desktop.new_page()
+        page.on("console", lambda message: print("BROWSER ERROR:",message.text,flush=True) if message.type=="error" else None)
+        page.on("pageerror",lambda error: print("PAGE ERROR:",error,flush=True))
         page.goto(base)
         cards = page.locator("#chapters .chapter")
-        expect(cards.first).to_be_visible(timeout=30000)
-        count = cards.count()
+        expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
+        expect(page.locator("#library")).to_be_hidden()
+        expect(page.locator("#home #library")).to_have_count(0)
+        expect(cards).to_have_count(0)
+        for panel_id in ("#library-overview","#daily-panel","#recent-panel","#saved-panel"):
+            expect(page.locator(panel_id)).to_have_attribute("open","")
+        count = int(page.locator("#chapter-total").text_content())
         assert count >= 35, f"Expected at least 35 chapters, found {count}"
-        expect(page.locator("#chapter-total")).to_have_text(str(count))
         expect(page.locator("#daily-study")).to_be_visible()
         expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
@@ -91,8 +100,7 @@ try:
         assert page.evaluate("""()=>{const holder=document.createElement('div');holder.innerHTML=DOMPurify.sanitize('<details><summary>Answer</summary><p>Safe text</p></details><script>unsafe</script><img src=x onerror=unsafe>',{ADD_TAGS:['details','summary'],FORBID_TAGS:['style','iframe','form'],FORBID_ATTR:['style','srcset']});return !!holder.querySelector('details summary')&&!holder.querySelector('script,[onerror]')}""")
         assert page.locator(".topbar").evaluate("e=>getComputedStyle(e).position")== "sticky"
         # V11.2: actual computed layout, keyboard focus and daily milestone grid.
-        expect(page.locator("#library-overview")).not_to_have_attribute("open","")
-        page.locator("#library-overview>summary").click()
+        expect(page.locator("#library-overview")).to_have_attribute("open","")
         assert page.locator(".stats>.stat").count()==7
         assert page.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==7
         assert page.locator(".stats").bounding_box()["height"]<=110
@@ -109,7 +117,25 @@ try:
         assert page.locator("#library-link").evaluate("e=>getComputedStyle(e).outlineStyle==='solid' && parseFloat(getComputedStyle(e).outlineWidth)>=2")
         assert page.locator("#library-link").bounding_box()["height"]>=43
         print("V11.2 desktop homepage, daily milestones and keyboard focus passed.",flush=True)
+        page.locator("#library-link").click()
+        expect(page.locator("#library")).to_be_visible()
+        expect(page.locator("#home")).to_be_hidden()
+        expect(page.locator("#library-link")).to_have_attribute("aria-current","page")
+        assert __import__("urllib.parse",fromlist=["parse_qs"]).parse_qs(__import__("urllib.parse",fromlist=["urlsplit"]).urlsplit(page.url).query)["library"]==["1"]
+        expect(cards).to_have_count(count,timeout=30000)
         assert page.locator(".chapter-group").count() >= 8
+        page.goto(base+"#library")
+        expect(cards).to_have_count(count,timeout=30000)
+        expect(page.locator("#home")).to_be_hidden()
+        assert "?library=1" in page.url and not page.url.endswith("#library")
+        page.locator("#home-link").click()
+        expect(page.locator("#home")).to_be_visible()
+        expect(page.locator("#library")).to_be_hidden()
+        for panel_id in ("#library-overview","#daily-panel","#recent-panel","#saved-panel"):
+            expect(page.locator(panel_id)).to_have_attribute("open","")
+        page.locator("#library-link").click()
+        expect(cards).to_have_count(count,timeout=30000)
+        print("V12.5 desktop dedicated Library, legacy route and expanded Home passed.",flush=True)
         assert page.locator('.chapter-card').filter(has_text='Nursing Foundations').get_by_text('Revision',exact=True).count()==0
         page.locator("#search").fill("Respiratory")
         expect(cards).to_have_count(1)
@@ -150,18 +176,26 @@ try:
         expect(page.locator("#metrics-chapter")).to_have_value("Nursing-Foundations")
         expect(page.locator("#metrics-personal .history-month")).to_have_count(12)
         expect(page.locator("#metrics-personal .history-period")).to_have_count(3)
-        for target in ("#history-panel-toggle","#metrics-summary-panel","#metrics-filter-panel"):
+        for target in ("#history-panel-toggle","#metrics-summary-panel"):
             panel=page.locator(target)
             panel.locator(":scope > summary").click()
             expect(panel.locator(":scope > .study-panel-body")).to_be_hidden()
             panel.locator(":scope > summary").click()
             expect(panel.locator(":scope > .study-panel-body")).to_be_visible()
+        expect(page.locator("#metrics-filter-panel")).to_be_hidden()
+        expect(page.locator("#metrics-filter-toggle")).to_have_attribute("aria-expanded","false")
+        page.locator("#metrics-filter-toggle").click()
+        expect(page.locator("#metrics-filter-panel")).to_be_visible()
+        page.keyboard.press("Escape")
+        expect(page.locator("#metrics-filter-panel")).to_be_hidden()
+        page.locator("#metrics-filter-toggle").click()
         # Temporary isolated fixture, restore exactly before the existing integration suite.
         page.evaluate("""()=>{window.historyFixtureBackup=localStorage.getItem(routineKey);const d=emptyRoutine();const t=localDay();d.days[t]={'fixture':['one','one','two']};d.days['2020-12-15']={'fixture':['old']};localStorage.setItem(routineKey,JSON.stringify(d));document.dispatchEvent(new CustomEvent('study-progress-change'))}""")
         expect(page.locator('[data-period=today] .history-solved')).to_have_text("2")
         expect(page.locator('[data-period=week] .history-solved')).to_have_text("2")
         expect(page.locator('[data-period=month] .history-solved')).to_have_text("2")
         assert page.locator("#study-history-year option").count()>=5
+        page.locator("#metrics-personal .history-disclosure > summary").first.click()
         page.locator("#study-history-year").select_option("2020")
         expect(page.locator('[data-month="2020-12"] .history-month-solved')).to_have_text("1")
         page.evaluate("""()=>{if(window.historyFixtureBackup===null)localStorage.removeItem(routineKey);else localStorage.setItem(routineKey,window.historyFixtureBackup);document.dispatchEvent(new CustomEvent('study-progress-change'))}""")
@@ -210,6 +244,8 @@ try:
         expect(page.locator(".metric-records a.metric-record:not([data-category=theory])").first).to_be_visible(timeout=30000)
         print("Expanded metrics cards, complete chapter resource destinations, boxed styling and whole-card navigation passed.",flush=True)
 
+        if page.locator("#metrics-filter-panel").get_attribute("open") is None:
+            page.locator("#metrics-filter-toggle").click()
         page.locator("#metrics-category").select_option("mock")
         expand_folders(page,only="mock")
         expect(page.locator(".metric-record .study-tag[data-role=type]").first).to_have_text("Mock test")
@@ -457,11 +493,15 @@ try:
             ctx = browser.new_context(viewport={"width": width, "height": height}, is_mobile=True, has_touch=True, reduced_motion="reduce" if width==360 else "no-preference")
             mobile = ctx.new_page()
             mobile.goto(base)
-            expect(mobile.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
+            expect(mobile.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
+            expect(mobile.locator("#library")).to_be_hidden()
+            expect(mobile.locator("#home #library")).to_have_count(0)
+            expect(mobile.locator("#chapters .chapter")).to_have_count(0)
+            for panel_id in ("#library-overview","#daily-panel","#recent-panel","#saved-panel"):
+                expect(mobile.locator(panel_id)).to_have_attribute("open","")
             no_overflow(mobile)
             if width<=600:
-                expect(mobile.locator("#library-overview")).not_to_have_attribute("open","")
-                mobile.locator("#library-overview>summary").tap()
+                expect(mobile.locator("#library-overview")).to_have_attribute("open","")
                 expect(mobile.locator("#chapter-total")).to_be_visible()
                 assert mobile.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==6
                 assert mobile.locator(".stats").bounding_box()["height"]<=255
@@ -495,16 +535,20 @@ try:
                 mobile.evaluate("window.scrollTo(0,500)")
                 assert abs(mobile.locator(".topbar").bounding_box()["y"])<=2
             if width<=600:
-                expect(mobile.locator("#library-filters")).to_be_hidden()
-                expect(mobile.locator("#recent-panel")).not_to_have_attribute("open","")
-                expect(mobile.locator("#saved-panel")).not_to_have_attribute("open","")
-                assert mobile.locator(".library-toolbar").bounding_box()["height"]<=60
                 for target in ("#daily-panel","#recent-panel","#saved-panel"):
                     panel=mobile.locator(target)
                     was_open=panel.get_attribute("open") is not None
                     panel.locator(":scope > summary").tap()
                     assert (panel.get_attribute("open") is not None)!=was_open
                     panel.locator(":scope > summary").tap()
+            mobile.locator("#library-link").tap()
+            expect(mobile.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
+            expect(mobile.locator("#home")).to_be_hidden()
+            expect(mobile.locator("#library-link")).to_have_attribute("aria-current","page")
+            assert "?library=1" in mobile.url
+            if width<=600:
+                expect(mobile.locator("#library-filters")).to_be_hidden()
+                assert mobile.locator(".library-toolbar").bounding_box()["height"]<=60
                 mobile.locator("#library-panel-toggle").tap()
                 expect(mobile.locator("#library-results")).to_be_hidden()
                 mobile.locator("#library-search-toggle").tap()
@@ -512,6 +556,7 @@ try:
                 expect(mobile.locator("#library-filters")).to_be_visible()
                 assert mobile.locator("#library-search-toggle").bounding_box()["height"]>=44
                 print(f"V12 compact mobile library and independent panels passed at {width}x{height}.",flush=True)
+            print(f"V12.5 separate Library and expanded Home passed at {width}x{height}.",flush=True)
             mobile.locator("#search").fill("Respiratory")
             expect(mobile.locator("#chapters .chapter")).to_have_count(1)
             group=mobile.locator(".study-area-panel").first
@@ -535,27 +580,64 @@ try:
             mobile.goto(base + "?" + urlencode({"doc": sample}))
             ready(mobile)
             no_overflow(mobile)
-            expect(mobile.locator("#breadcrumbs [aria-current=page]")).to_be_visible()
             expect(mobile.locator("#sections [aria-current=page]")).to_contain_text("MCQs")
             if width<=600:
-                expect(mobile.locator(".outline-card")).not_to_have_attribute("open","")
-                mobile.locator(".outline-card summary").tap()
-                expect(mobile.locator(".outline-card")).to_have_attribute("open","")
-                mobile.locator(".outline-card summary").tap()
-            for panel_id,inside in (("#reader-sections-panel","#sections"),("#reading-tools-panel","#toggle")):
-                panel=mobile.locator(panel_id)
-                summary=panel.locator(":scope > summary")
-                assert summary.bounding_box()["height"]>=44
-                expect(mobile.locator(inside)).to_be_visible()
-                summary.tap()
-                expect(mobile.locator(inside)).to_be_hidden()
-                expect(mobile.locator(".quiz-panel")).to_be_visible()
-                summary.tap()
-                expect(mobile.locator(inside)).to_be_visible()
+                panels=("#reader-sections-panel","#reader-outline-panel","#reading-tools-panel")
+                for i,panel_id in enumerate(panels):
+                    icon=mobile.locator(f"#reader-panel-toggle-{i}")
+                    panel=mobile.locator(panel_id)
+                    expect(icon).to_have_attribute("aria-expanded","false")
+                    expect(panel).to_be_hidden()
+                    assert icon.bounding_box()["height"]>=44
+                    icon.tap()
+                    expect(icon).to_have_attribute("aria-expanded","true")
+                    expect(panel).to_be_visible()
+                    if i==0:
+                        expect(mobile.locator("#breadcrumbs [aria-current=page]")).to_be_visible()
+                        assert mobile.locator("#sections a").first.bounding_box()["height"]>=44
+                    if i==2:
+                        expect(mobile.locator("#toggle")).to_be_visible()
+                        assert mobile.locator("#toggle").bounding_box()["height"]>=43
+                        mobile.locator("#reading-size").select_option("large")
+                        expect(mobile.locator("body")).to_have_attribute("data-reading-size","large")
+                        mobile.locator("#reading-size").select_option("normal")
+                    no_overflow(mobile)
+                    icon.tap()
+                    expect(panel).to_be_hidden()
+                mobile.locator("#focus-study").tap()
+                expect(mobile.locator("#focus-study")).to_have_attribute("aria-pressed","true")
+                expect(mobile.locator("#reader-panel-toggle-0")).to_be_hidden()
+                mobile.locator("#focus-study").tap()
+                expect(mobile.locator("#focus-study")).to_have_attribute("aria-pressed","false")
+                mobile.reload()
+                ready(mobile)
+                for panel_id in panels:
+                    expect(mobile.locator(panel_id)).to_be_hidden()
+                expect(mobile.locator(".practice-intro")).to_be_hidden()
+                expect(mobile.locator(".mobile-bank-context")).not_to_have_attribute("open","")
+                first_question=mobile.locator(".mobile-bank-context + h3")
+                expect(first_question).to_be_visible()
+                assert first_question.bounding_box()["y"]<height, "First MCQ must start in the initial viewport"
+                mobile.locator(".mobile-bank-context > summary").tap()
+                expect(mobile.locator(".mobile-bank-context h1")).to_be_visible()
+                mobile.locator(".mobile-bank-context > summary").tap()
+                mobile.locator("#reader-panel-toggle-1").tap()
+                mobile.keyboard.press("Escape")
+                expect(mobile.locator("#reader-outline-panel")).to_be_hidden()
                 no_overflow(mobile)
-            print(f"V12 independent reader panels passed at {width}x{height}.",flush=True)
-            expect(mobile.locator("#toggle")).to_be_visible()
-            assert mobile.locator("#toggle").bounding_box()["height"] >= 43
+            else:
+                expect(mobile.locator("#breadcrumbs [aria-current=page]")).to_be_visible()
+                for panel_id,inside in (("#reader-sections-panel","#sections"),("#reading-tools-panel","#toggle")):
+                    panel=mobile.locator(panel_id)
+                    summary=panel.locator(":scope > summary")
+                    assert summary.bounding_box()["height"]>=44
+                    expect(mobile.locator(inside)).to_be_visible()
+                    summary.tap()
+                    expect(mobile.locator(inside)).to_be_hidden()
+                    summary.tap()
+                    expect(mobile.locator(inside)).to_be_visible()
+                expect(mobile.locator(".practice-intro")).to_be_visible()
+            print(f"V12.3 reader controls and compact practice passed at {width}x{height}.",flush=True)
             mobile.clock.install()
             mobile.locator(".quiz-config input[type=number]").fill("1")
             mobile.get_by_role("button", name="Start timed practice").tap()
@@ -589,7 +671,26 @@ try:
                     group.locator("summary").tap()
                 print(f"V11.8 isolated closed Metrics folders at {width}x{height}.",flush=True)
                 no_overflow(mobile)
+                expect(mobile.locator("#metrics-filter-panel")).to_be_hidden()
+                icon=mobile.locator("#metrics-filter-toggle")
+                expect(icon).to_have_attribute("aria-expanded","false")
+                assert icon.bounding_box()["height"]>=44
+                icon.tap()
+                expect(mobile.locator("#metrics-filter-panel")).to_be_visible()
                 assert mobile.locator("#metrics-chapter").bounding_box()["height"]>=43
+                mobile.locator("#metrics-search").fill("no matching topic xyz")
+                expect(mobile.locator("#metrics-list .empty-state")).to_be_visible()
+                icon.tap()
+                expect(mobile.locator("#metrics-filter-panel")).to_be_hidden()
+                icon.tap()
+                expect(mobile.locator("#metrics-search")).to_have_value("no matching topic xyz")
+                mobile.locator("#clear-metrics").tap()
+                expect(mobile.locator("#metrics-search")).to_have_value("")
+                mobile.reload()
+                expect(mobile.locator("#metrics-filter-panel")).to_be_hidden()
+                expect(mobile.locator(".history-period")).to_have_count(3)
+                no_overflow(mobile)
+                print(f"V12.4 compact Metrics filter and activity cards passed at {width}x{height}.",flush=True)
                 mobile.goto(base+"?progress=1&chapter=Nursing-Foundations")
                 expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible(timeout=30000)
                 if width<=600:
@@ -682,9 +783,12 @@ try:
                 small_chart.scroll_into_view_if_needed()
                 expect(small_chart).to_have_attribute("data-diagram-state", "ready", timeout=90000)
                 no_overflow(mobile)
-                assert mobile.locator(".reading-location").evaluate("(e) => getComputedStyle(e).position === 'sticky'")
+                expect(mobile.locator(".reading-location")).to_be_hidden()
                 assert mobile.locator(".topbar").evaluate("e=>getComputedStyle(e).position")== "sticky"
-                assert mobile.locator(".reading-location").evaluate("e=>parseFloat(getComputedStyle(e).top)>=document.querySelector('.topbar').getBoundingClientRect().height-1")
+                mobile.locator("#reader-panel-toggle-0").tap()
+                expect(mobile.locator(".reading-location")).to_be_visible()
+                assert mobile.locator(".reading-location").evaluate("e=>getComputedStyle(e).position==='static'")
+                mobile.locator("#reader-panel-toggle-0").tap()
 
             mobile.goto(base+"?"+urlencode({"doc":"Chapters/Nursing-Foundations/README.md"}))
             ready(mobile)

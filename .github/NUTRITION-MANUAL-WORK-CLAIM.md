@@ -4,6 +4,50 @@ State: FREE
 Owner: none
 Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
 
+## Latest released checkpoint — 10B adult underweight and oral nutrition rehabilitation
+
+Candidate head: 5c5a892f0dbeac845d2625116b65f3f1892665cd
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-10b-oral-rehabilitation-20261128-1345Z
+
+Added 20 original candidates, 80 individual Roman Hinglish rationales, 20 exam clues and evidence rows, 20 aligned keys with five per option letter, 7 Easy/8 Medium/5 Difficult. Final bank 52851e4ec018d676869a0bd6a7f127ed169f7004 blob daaec8089635b2f912ad9fae91851328a3eeb199; guide cb8569da5270754852b450ae21a11d6ca287744b; SVG c45bf59ed1218a56c14abc103e8937ae0ff28c74. All exact readbacks passed. Q14 replaced to avoid direct overlap, other 19 slots preserved. Zero normalized exact matches against 180 relevant prior stems. Prior 900 originals preserved; delta exactly four new Nutrition-local files including review. Both prior 09B TB SVG and new 10B SVG XML parsed, locally rendered and visually inspected from exact matching remote Git blobs. PR description exact readback passed.
+
+Staged inventory: 920 original MCQs, 3680 individual rationales, 46 banks, 29 concept guides, 29 SVGs. Four legacy originals and one reported adaptation separately preserved. Requested CI 46142439765 and baseline CI 46144965167 successful. Exact candidate CI 46151538858 pending at inspection. INC government-hosted Gazette PDF text retrieved, printed p274 Unit IX confirms underweight and diarrhoea; page screenshot unavailable, full programme-specific mapping incomplete. AMB 2026 full guideline still inaccessible. Independent clinical/dietetic/pharmacy/regulatory and comprehensive semantic review, earlier flagged corrections, full curriculum depth, individual videos, PR7/8 explicit release and integration gates outstanding. No live, mock or PYQ credit. No changes to other jobs, website, learner history or five schedules.
+
+Next: distinct diarrhoea dietary-care bank after screening existing 04D Q13/Q14 and active GI, Child and Communicable chapter banks, then other genuine curriculum gaps. Do not regenerate 09C–E or 10A/B. Prioritize actual new content and targeted necessary corrections. Complete mandatory review and release gates before integration, then original-only mocks and authenticated topic-mapped PYQs.
+
+## Latest released checkpoint — 10A GLIM adult malnutrition diagnosis
+
+Candidate head: f842aa6c3142e6d15e39743612ae82dadda7f889
+Inventory: 900 staged originals, 3600 individual Roman Hinglish rationales, 45 banks, 28 guides and 28 SVGs. Four legacy originals and one reported adaptation separately preserved. Prepared GLIM bank transferred, two intake stems clarified with explicit 2025 dating. New 20 originals (7 Easy, 8 Medium, 5 Difficult), 80 rationales, guide and rendered diagram. Bank 0bf6b644f4f055d8d77d84adb86b23e387636cff, guide f15603f57587ebf6297284e4687bee080350939c, SVG 2cdabcaf8e75ea9d145866de769979b40e1a1386. Exact remote readbacks, structural validation, zero normalized matches against 180 targeted Nutrition/Geriatric stems, matching SVG blob and rendering passed. Current CI 46144965167 pending. Draft only. Full preflight, independent clinical/dietetic/pharmacy/regulatory, exhaustive semantic, INC, 2026 GLIM intake Delphi full-text reconciliation, AMB 2026, source/video, earlier flagged clusters, PR7/8 and integration gates incomplete. Next screen distinct adult underweight and diarrhea diet objectives before further content. No other workstream, website, learner history or five automation changes.
+
+## Latest released checkpoint — 09E cookery methods and practical food preparation
+
+Candidate head: dc184bd240acf512acabbe4d79767363a435543e
+Inventory: 880 staged originals, 3520 individual Roman Hinglish rationales, 44 topic banks, 27 concept guides and 27 original SVGs. Four legacy originals and one reported adaptation separately preserved. Added 20 originals (13 Easy, seven Medium), 80 individual rationales, one guide and one diagram. Final bank ffa4d16e0dcb90e6b3a775faf4de0aab09085825; guide 10f800de189a26d181c48f345c1ebc07053b3d41; SVG ce0046f29837c8de0a7a32e77f1f9589d9f939f3. Exact readbacks and final option alignment passed. Zero normalized exact matches against 200 relevant prior stems. SVG rendered and visually inspected. Current CI 46144136547 pending at inspection. No live credit. Independent clinical/dietetic/pharmacy/regulatory, comprehensive semantic, full INC reconciliation, AMB 2026, source/video, flagged clusters, PR7/8 and integration gates outstanding. Next screen adult underweight and diarrhea dietary-care gaps against existing adjacent banks, without regenerating previous topics. Preserve all other workstreams, website, learner history and five automations.
+
+## Latest released checkpoint — 09D dyslipidemia dietary care
+
+Candidate head: 7564155228ac4e8f825d617858abe41ce90c50a6
+Inventory: 860 staged originals, 3440 individual Roman Hinglish rationales, 43 banks, 26 guides and 26 SVG sources. Four legacy originals and one reported adaptation separately preserved. This run added 20 new originals and 80 rationales, guide and diagram. Final bank f8d217cd09970ce91ab2e3c0cb99e06fac0f8791, guide 6376570f1ab4b9ec01c98653c7b479cb0cd616c2, SVG 797bfa37eee6d13affbf8e8395357724c7868cb0. All exact readbacks passed, all keys and option rationale pairs aligned, 200 prior Nutrition stems screened with zero normalized exact matches, SVG rendered. Current CI 46143557484 pending at inspection. Draft only. Full bounded preflight and independent clinical/dietetic/pharmacy/regulatory, comprehensive semantic, INC, AMB 2026, sources/videos, flagged clusters, PR7/8 clearance and integration remain outstanding. No live credit. Other jobs, learner history, website and five schedules untouched. Next identify genuine remaining Unit IX and other INC curriculum gaps, without duplicating 09D or previous banks.
+
+## Latest released checkpoint — 09C constipation dietary care
+
+Candidate head: faf5a2a6613ee82df24fef40bcfcad34e648985f
+Inventory: 840 staged originals, 3360 individual Roman Hinglish rationales, 42 banks, 25 guides, 25 SVG sources. Four legacy originals and one reported adaptation preserved separately. New 20 originals, 80 rationales, guide and rendered diagram. Final bank 6b0859dc1e8bff264b563d019029b40161bd9688, guide 9064d4b3e8a99d126bc9d00e33490e3fb650b048, SVG e1f9ad92c15d283d1b373cdb023576a2c3c2eca8. Exact readbacks and structural checks passed. One new-slot replacement for overlap. Targeted Nutrition, Renal, Foundations and GI screening performed. Current CI 46142857457 pending. Full independent clinical/dietetic/pharmacy/regulatory, comprehensive semantic and INC mapping, AMB 2026 full guideline, video evidence, flagged clusters, PR7/8 clearance and integration gates remain outstanding. No live credit, no other job or schedule changes. Next screen remaining genuine therapeutic nutrition and food safety curriculum gaps, do not duplicate renal diet or regenerate existing banks.
+
+## Latest released checkpoint — 09B tuberculosis nutritional care
+
+Candidate head: 777d143f013c2d4296d754e0b1bac5423333b325
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-09b-tb-nutrition-20261128-1155Z
+
+New 09B bank: 20 original MCQs, 80 individual Roman Hinglish rationales, 20 clues/evidence rows, 20 closed aligned answer blocks, five keys per answer letter, 1 Easy/14 Medium/5 Difficult. Bank b06fd2b6bb99941f6e9819f9e1552c2c450ea5e2 blob 4631bf029aebc1bd8d5b6fb83366d63291dcf507; SVG edf9180e45e56f154739a70ef6a9862f1363b0fb; guide be28e59e48ab50e13c1611a318a3e0ce07ec9372. All exact remote readbacks passed. SVG local render not yet performed. Prior 800 originals preserved: delta exactly four new Nutrition-local files including review. No normalized exact matches against 140 screened prior Nutrition and Community PR61 NTEP stems; complete semantic review and flagged related tasks pending. PR description readback exact.
+
+Current staged totals: 820 original candidates, 3280 individual rationales, 41 banks, 24 guides, 24 SVG sources. Four legacy originals and one adaptation separately preserved. WHO 2025 recommendations and March 2026 Indian TB campaign text checked, relevant PDF page visually inspected. AMB 2026 full guideline remains inaccessible. Complete historical preflight, independent clinical/dietetic/regulatory, semantic and flagged 07D/07E reviews, full INC depth, individual videos, PR7/8 release, local SVG render and final CI still outstanding. Exact candidate CI 46142439765 pending at inspection. No merge, live/mock/PYQ credit, other job, website, learner history or schedule changes.
+
+Next: screen genuine remaining curriculum gaps and adjacent lanes before distinct new content or targeted corrective commits. Verify 09B local SVG rendering and CI, retrieve full 2026 AMB where available, complete mandatory review and coordination gates before integration, then original-only mocks and authenticated PYQs. Do not repeat completed 07D/07E, 08A–E or 09A/B authorship.
+
 ## Latest released checkpoint — 09A additives, contaminants and residues
 
 Candidate head: 4e523a2399e0c7284d3252a133990730f23a5c30
