@@ -13,11 +13,11 @@
 
 ## Manual chapter work claim
 
-State: CLAIMED
-Owner: tropical-pr66-b03-20261128-1226Z
-Scope: PR66 Batch03 only: clinical giardiasis, cryptosporidiosis, enterobiasis, ascariasis and intestinal hookworm. No shared navigation or sibling edits.
-Claimed UTC: 2026-11-28T12:26:04Z
-Expiry UTC: 2026-11-28T12:56:04Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Candidate checkpoint — 28 November 2026
 
@@ -26,3 +26,7 @@ Expiry UTC: 2026-11-28T12:56:04Z
 ## Batch 02 checkpoint — 28 November 2026
 
 PR66 head `10e8b2cf73505906656d0e5407652c68ba149c33`: 100 new staged originals across dengue, malaria, chikungunya, shigellosis and amoebiasis, 400 separate Roman Hinglish rationales, 100 clues. Each bank 7 Easy/7 Medium/6 Difficult; cumulative 200 staged originals, 800 rationales, 200 clues, ten banks, 45 Easy/85 Medium/70 Difficult. Five exact remote bank readbacks and index readback; 100 distinct new normalized stems, no exact match against 104 prior/legacy stems, all aligned keys, 25 correct letters each A/B/C/D; compare confirms prior banks unchanged. PR61/62 and adjacent scopes preserved. Full independent clinical/difficulty/semantic/source/video/curriculum, concepts, diagrams, navigation and exact-head CI pending. No new live credit, mocks or PYQs. Prior imbalance remains for separate balancing. Next verify remaining distinct clinical gaps, e.g. giardiasis, cryptosporidiosis, enterobiasis, ascariasis and hookworm after sibling screening; then ten original-exclusive 120-question mocks (40/40/40) and sourced PYQs. All five schedules untouched.
+
+## Batch 03 checkpoint — 28 November 2026
+
+PR66 head `0c71cfa3f51fbe79563e40dcc6263f331151ded0`: 100 new staged originals across giardiasis, cryptosporidiosis, enterobiasis, ascariasis and intestinal hookworm; 400 individual Roman Hinglish rationales, 100 clues. Each bank 7 Easy/7 Medium/6 Difficult. Cumulative 300 staged originals, 1200 rationales, 300 clues, 15 banks, 80 Easy/120 Medium/100 Difficult. Five exact bank readbacks, index blob verified, 100 distinct new normalized stems, zero exact matches against 204 earlier/legacy stems, all keys aligned, 25 per correct letter; compare confirms ten prior banks unchanged. Adjacent named-topic filename screening complete, comprehensive cross-chapter semantic review not certified. Independent clinical/difficulty/source/video/curriculum, concept/diagram, navigation and exact-head CI gates pending. No live credit, mocks or PYQs. Next distinct remaining topics, e.g. trichuriasis, strongyloidiasis, taeniasis, neurocysticercosis and hydatid disease after adjacent screening; correct earlier difficulty deficits and complete coverage before ten original-exclusive 120-question mocks (40/40/40) and sourced PYQs. Preserve five hourly schedules and learner history.
