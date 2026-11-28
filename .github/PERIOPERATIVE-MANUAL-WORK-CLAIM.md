@@ -1,8 +1,10 @@
 # Perioperative Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: No active write lease. PR58 isolated draft awaits validation.
+State: CLAIMED
+Owner: perioperative-b03-20261128-1159Z
+Scope: PR58 isolated Batch 03 new topic banks, evidence and concepts only.
+Claimed UTC: 2026-11-28T11:59:25Z
+Expiry UTC: 2026-11-28T12:29:25Z
 
 Last owner: perioperative-b02-20261128-1149Z
 Last checkpoint: 7c794e67c0fad25667505e723dbec33c9e74c953
