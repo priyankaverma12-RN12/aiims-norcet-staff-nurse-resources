@@ -56,7 +56,7 @@
 
 ### Q3. A participant who cannot read the consent document is otherwise capable of making an informed decision. What is the appropriate consent approach?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Assume that inability to read means incapacity to consent
 - **B.** Ask a relative to decide without consulting the participant
@@ -81,7 +81,7 @@
 
 ### Q4. Two scientifically equivalent methods are available to collect a research measurement. One requires an invasive procedure, while the other is noninvasive and imposes less burden. Which ethical decision is preferable?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Select the invasive procedure solely because it is more familiar
 - **B.** Choose the less burdensome method that preserves scientific validity
@@ -106,7 +106,7 @@
 
 ### Q5. A proposed study recruits economically disadvantaged patients primarily because investigators expect them to be less likely to refuse painful research procedures. Which ethical problem is central?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Excessive blinding
 - **B.** Unjust participant selection and potential exploitation
@@ -256,7 +256,7 @@
 
 ### Q11. An approved study protocol specifies a single interview, but the researcher now wants additional biological sampling solely for research. What is the correct next step?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Collect the sample first because the original study was approved
 - **B.** Obtain required ethics review of the amendment and appropriate updated consent before implementation
@@ -431,7 +431,7 @@
 
 ### Q18. A community leader gives permission for a health survey in a village. What is still needed for individual adult participants who have capacity?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Only the leader's signature is needed in every study
 - **B.** Consent only from households that disagree with the leader
@@ -481,7 +481,7 @@
 
 ### Q20. A nurse researcher invites patients to a randomized trial, and a patient assumes the clinician will select whichever treatment is best for that individual rather than follow the random assignment. What should the researcher address?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Assure the patient that randomization always selects the personally optimal treatment
 - **B.** Use the misunderstanding to improve enrollment
