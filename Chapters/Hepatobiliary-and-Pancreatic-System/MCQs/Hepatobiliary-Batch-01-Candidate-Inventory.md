@@ -167,3 +167,35 @@ Exact remote readbacks passed for all five new banks. Aggregate parsing confirme
 Sources directly reviewed: JAMA Network Open 2026 gallbladder drain consensus, AASLD DILI 2023, BSG biopsy clinical guidance (reviewed 2024), ERAS Society liver surgery 2022. SIR, WSES, NHS, ISGLS, AASLD EXPO 2026, ACG 2024 and IAP 2025 indexed excerpts consulted as specified within each bank. Individual full-text access limitations recorded. Source-specific recommendations are not universal local orders. No historical exam frequency or provenance invented. Specific video mapping and companion concepts/diagrams, independent clinical/pharmacy and semantic review, full bounded preflight, curriculum reconciliation, PR29/7/8 coordination, latest-main reconciliation and CI remain outstanding before integration.
 
 **Current staged inventory: 940 original MCQs, 3760 individual rationales, 940 clues, 47 banks, six existing guides and one existing SVG.** Cumulative difficulty 133 Easy, 438 Medium, 369 Difficult. Easy deficit remains substantial. Four legacy live originals and one adaptation preserved. No new live credit, mocks or PYQs. Next: verify remaining meaningful curriculum gaps and correct Easy deficits without duplicating previously tested objectives, then begin original-exclusive balanced chapter mocks only after topic coverage is complete. Preserve other claims, learner history and all five hourly automations.
+
+
+## Batch 11 — Easy difficulty deficit correction — 28 November 2026
+
+Prior staged inventory: 940 originals, 133 Easy, 438 Medium and 369 Difficult. Under PR67 and the user's explicit deficit-correction priority, add 100 Easy originals rather than an equal mix in this balancing batch. Preserve all 47 previous banks unchanged. Six questions per topic for 01–16, four for topic 17 to meet the 100-item run target. Continue from topic 17 next pass where distinct learning objectives remain.
+
+| Supplement | Easy originals | Rationales |
+|---|---:|---:|
+| [01A Liver Function Easy Balancing Supplement 6 MCQs.md](01A-Liver-Function-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [02A Viral Hepatitis Easy Balancing Supplement 6 MCQs.md](02A-Viral-Hepatitis-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [03A Cirrhosis Easy Balancing Supplement 6 MCQs.md](03A-Cirrhosis-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [04A Gallstones Easy Balancing Supplement 6 MCQs.md](04A-Gallstones-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [05A Pancreatitis Easy Balancing Supplement 6 MCQs.md](05A-Pancreatitis-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [06A Acute Liver Failure Easy Balancing Supplement 6 MCQs.md](06A-Acute-Liver-Failure-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [07A Variceal Bleeding Easy Balancing Supplement 6 MCQs.md](07A-Variceal-Bleeding-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [08A Pancreatic Surgery Easy Balancing Supplement 6 MCQs.md](08A-Pancreatic-Surgery-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [09A PBC Easy Balancing Supplement 6 MCQs.md](09A-PBC-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [10A PSC Easy Balancing Supplement 6 MCQs.md](10A-PSC-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [11A Autoimmune Hepatitis Easy Balancing Supplement 6 MCQs.md](11A-Autoimmune-Hepatitis-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [12A Liver Abscess Easy Balancing Supplement 6 MCQs.md](12A-Liver-Abscess-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [13A Wilson Disease Easy Balancing Supplement 6 MCQs.md](13A-Wilson-Disease-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [14A Hemochromatosis Easy Balancing Supplement 6 MCQs.md](14A-Hemochromatosis-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [15A Budd Chiari Easy Balancing Supplement 6 MCQs.md](15A-Budd-Chiari-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [16A Portal Vein Thrombosis Easy Balancing Supplement 6 MCQs.md](16A-Portal-Vein-Thrombosis-Easy-Balancing-Supplement-6-MCQs.md) | 6 | 24 |
+| [17A Chronic Hepatitis B Easy Balancing Supplement 4 MCQs.md](17A-Chronic-Hepatitis-B-Easy-Balancing-Supplement-4-MCQs.md) | 4 | 16 |
+| **Total** | **100** | **400** |
+
+All 17 new supplements and corrective writes exactly read back. Final structural validation at c862bb665a9d7169b8ee4f605609f94a4e816b63: 100 distinct normalized new stems, 400 options, 400 individual rationales, 100 aligned keys, 100 closed answer blocks, 100 clues and no semicolons in question blocks. All 100 Easy. Correct letters A=24, B=25, C=24, D=27. Remote comparison against 17 corresponding earlier banks in two bounded groups (54 vs 180 stems, 46 vs 160 stems) returned zero exact matches. Author screening against related banks and legacy stems performed, with eight new question blocks refined in 02A, 08A, 10A and 15A and one preliminary distractor correction. Full all-chapter semantic and exact comparison for Batch 11 remains pending. Do not claim independent clinical validation or historical exam frequency. The earlier Batch 10 outstanding normalized exact-stem screen is now complete: 100 Batch 10 stems compared against all 840 earlier bank stems plus four legacy originals in bounded groups, zero exact matches. No completed retrospective audits repeated beyond this previously incomplete screen. Batch 10 files unchanged.
+
+Evidence: indexed relevant Merck Manual, NIDDK, CDC, Johns Hopkins, AASLD guidance, NCBI clinical reviews and WHO 2024 guideline excerpts retrieved this run. Links recorded in each supplement. Source and independent clinical/semantic review, dedicated video mapping, companion concepts/diagrams, curriculum reconciliation, PR29/7/8 coordination, main reconciliation and CI remain required before live integration. New items are original practice, not claimed past-paper appearances. No mock or PYQ credit. No claim of completed topic coverage, so mock creation deferred until coverage verified.
+
+**Current staged inventory: 1,040 originals, 4,160 individual rationales, 1,040 clues, 47 prior 20-question topic banks and 17 balancing supplements (64 bank files), six prior guides and one SVG.** Difficulty: 233 Easy, 438 Medium, 369 Difficult. Easy deficit remains. Four legacy live originals and one reported adaptation untouched. No new live credit. Next: continue Easy deficit supplements across 17 onward, prioritizing distinct nursing learning objectives, and verified remaining curriculum gaps before 10 chapter-only original-exclusive 120-question mocks (40/40/40, two per run). Preserve all other claims, learner history and five hourly automations.
