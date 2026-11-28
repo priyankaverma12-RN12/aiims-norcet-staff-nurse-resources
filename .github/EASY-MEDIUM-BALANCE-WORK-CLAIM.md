@@ -1,10 +1,10 @@
 # Easy/Medium balancing lane claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: ACTIVE
+Owner: easy-medium-ipc-b06-20261128T140911Z
+Scope: PR68 IPC transmission, bacterial structure, growth, staining, microscopy and culture supplements only
+Claimed UTC: 2026-11-28T14:09:11Z
+Expiry UTC: 2026-11-28T14:39:11Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
