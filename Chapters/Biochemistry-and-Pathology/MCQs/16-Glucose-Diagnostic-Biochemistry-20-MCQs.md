@@ -352,23 +352,23 @@
 
 </details>
 
-### Q18. A patient taking an SGLT2 inhibitor has substantial urine glucose despite a modest plasma glucose concentration. What does this imply about urine glucose as a monitoring test?
+### Q18. A urine specimen tests positive with a nonspecific copper reduction method but negative on a glucose oxidase strip. Which interpretation is most appropriate?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Glucose diagnostic biochemistry | **Exam focus:** NORCET-style original
 
-- **A.** Renal tubular glucose handling can dissociate urine glucose from simultaneous plasma glycemia
-- **B.** Urine glucose concentration always equals plasma glucose concentration
-- **C.** Urine glucose proves a specific HbA1c value
-- **D.** SGLT2 therapy prevents every form of ketosis
+- **A.** A nonglucose reducing substance may be present
+- **B.** Glucose oxidase strips detect every reducing sugar equally
+- **C.** The result proves galactosemia without further testing
+- **D.** The result directly quantifies plasma HbA1c
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Renal tubular glucose handling can dissociate urine glucose from simultaneous plasma glycemia**
+**Correct: A. A nonglucose reducing substance may be present**
 
-- **A.** SGLT2 inhibition proximal glucose reabsorption reduce karti hai. Urine glucose therefore plasma level ko directly quantify nahi karta, medication context important hai.
-- **B.** Renal threshold, tubular handling aur urine concentration relation alter karte hain. Numeric equality expect nahi hoti.
-- **C.** Longer-term hemoglobin glycation urine glucose se directly calculate nahi hoti.
-- **D.** Glycosuria ketosis protection guarantee nahi karti. Concerning symptoms urgent assessment demand karte hain.
+- **A.** Copper reduction method glucose ke alawa galactose aur other reducing substances detect kar sakti hai. Glucose oxidase comparatively glucose-specific hai, so discordance targeted laboratory evaluation demand karti hai.
+- **B.** Enzyme substrate specificity glucose-oriented hai. Copper reduction ka broader chemical reaction different hai.
+- **C.** Nonglucose reducing substances multiple ho sakte hain. Galactosemia confirm karne ke liye appropriate specific testing chahiye.
+- **D.** Urine chemical reactions reducing substances evaluate karti hain. HbA1c glycated hemoglobin ka blood assay hai.
 
 </details>
 
@@ -418,3 +418,5 @@
 - [ADA Standards 2026, diagnosis](https://doi.org/10.2337/dc26-S002) — Q8–12, Q20, OGTT preparation and interpretation, altered A1c relationship.
 - [NGSP factors affecting HbA1c](https://ngsp.org/factors.asp) — Q11–12. Specific method verification remains required.
 - These are topic and group source mappings, not independent item certification. Dedicated practice-video and historical source mapping pending. No PYQ credit.
+
+- [Clinical Methods: Glucosuria](https://www.ncbi.nlm.nih.gov/books/NBK245/) — Q18 replacement, distinction between historical nonspecific reduction and glucose-specific methods. Replaced an overlapping learning objective before integration, without increasing count.
