@@ -470,24 +470,24 @@
 
 ### Q17. A patient comparing two cranberry products assumes identical package size guarantees identical preventive activity. Which information is most relevant to discuss?
 
-**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Cranberry selection
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Cranberry selection
 
-- **A.** The price as proof of efficacy
+- **A.** Retail price and total number of capsules without composition details
 - **B.** Product composition, tolerability and uncertainty in comparable effectiveness
-- **C.** The number of advertising claims
-- **D.** Package colour alone
+- **C.** The total volume of juice or capsule count as the only comparison
+- **D.** The presence of cranberry flavour as evidence of equivalent potency
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Product composition, tolerability and uncertainty in comparable effectiveness**
 
-**A. Kyun galat hai:** Mehenga product automatically more effective nahi hota.
+**A. Kyun galat hai:** Price aur capsule count se active constituents ki quantity pata nahi chalti. Product label aur relevant evidence dekhna zaroori hai.
 
 **B. Kyun sahi hai:** Different formulations mein constituents ki quantity vary kar sakti hai. Product suitability aur evidence ki limitations explain karna helpful hai.
 
-**C. Kyun galat hai:** Advertising claims independent efficacy evidence nahi hote.
+**C. Kyun galat hai:** Total volume ya capsule count same hone par bhi concentration alag ho sakti hai. Product composition aur patient tolerance ko saath mein compare karo.
 
-**D. Kyun galat hai:** Colour clinical activity ka measure nahi hai.
+**D. Kyun galat hai:** Flavour aur preventive constituents ek hi cheez nahi hain. Cranberry flavour se clinically comparable preventive activity establish nahi hoti.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -501,22 +501,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** D-mannose evidence
 
-- **A.** D-mannose is a guaranteed cure
-- **B.** Replace all medical follow-up with D-mannose
+- **A.** Recommend D-mannose alone as the preferred first-line prophylaxis
+- **B.** Switch to D-mannose alone and assess effectiveness only at the next annual review
 - **C.** Explain that D-mannose alone may not be effective for prophylaxis
-- **D.** Use D-mannose as emergency sepsis treatment
+- **D.** Assume D-mannose prevents recurrent cystitis because its proposed anti-adhesion mechanism is plausible
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Explain that D-mannose alone may not be effective for prophylaxis**
 
-**A. Kyun galat hai:** D-mannose ke liye guaranteed cure ka evidence nahi hai.
+**A. Kyun galat hai:** AUA 2025 update mein monotherapy ke benefit ka evidence insufficient hai. Isse preferred standalone prophylaxis batana evidence se stronger claim hoga.
 
-**B. Kyun galat hai:** Follow-up band karne se recurrence aur adverse outcomes assess nahi ho paayenge.
+**B. Kyun galat hai:** Patient ko uncertain efficacy samjhaaye bina established plan replace nahi karna chahiye. Recurrence aur adverse outcomes ke liye appropriate follow-up bhi zaroori hai.
 
 **C. Kyun sahi hai:** Updated evidence se D-mannose alone ka reliable preventive benefit establish nahi hua. Patient ko uncertainty samjha kar agreed plan review karna chahiye.
 
-**D. Kyun galat hai:** Sepsis emergency hai aur supplement se treat nahi hota.
+**D. Kyun galat hai:** Biological mechanism plausible hona clinical effectiveness ka proof nahi hai. Patient-level controlled trial results ko prevention recommendation mein consider karna chahiye.
 
 **Clinical reference:** [Guidance](https://www.auanews.net/issues/articles/2025/october-2025/updates-to-the-aua/cua/sufu-guideline-on-recurrent-uncomplicated-urinary-tract-infections-in-women).
 
@@ -531,9 +531,9 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Probiotics uncertainty
 
 - **A.** Evidence varies by strain and does not establish a universal preventive effect
-- **B.** Probiotics replace every indicated antibiotic course
-- **C.** All strains have equivalent established benefit
-- **D.** Probiotics reliably eradicate urinary obstruction
+- **B.** Choose probiotics in place of indicated treatment for a symptomatic breakthrough infection
+- **C.** Treat all Lactobacillus-containing products as equivalent to studied formulations
+- **D.** Recommend any probiotic formulation provided that the daily colony count is high
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -541,11 +541,11 @@
 
 **A. Kyun sahi hai:** Kuch strain-specific studies encouraging hain, lekin overall evidence aur formulations mein uncertainty hai. Patient ko universal guarantee nahi deni chahiye.
 
-**B. Kyun galat hai:** Active infection mein indicated antibiotics ko probiotic se replace karna unsafe ho sakta hai.
+**B. Kyun galat hai:** Kuch probiotics prevention research mein study hue hain. Lekin symptomatic bacterial infection ka indicated treatment replace karna alag decision hai aur unsafe ho sakta hai.
 
-**C. Kyun galat hai:** Har strain ka effect same nahi hota. Ek product ki study ko sab par apply nahi kar sakte.
+**C. Kyun galat hai:** Lactobacillus genus ke andar different strains hote hain aur unke effects same hona zaroori nahi. Studied formulation ka result sab products par apply nahi kar sakte.
 
-**D. Kyun galat hai:** Urinary obstruction mechanical problem hai. Probiotic ise remove nahi karta.
+**D. Kyun galat hai:** High colony count se specific preventive efficacy establish nahi hoti. Strain, formulation, route aur evidence ko dekhna chahiye.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -557,22 +557,22 @@
 
 ### Q20. A woman has persistent recurrent cystitis despite appropriate initial preventive strategies. Which factor should inform clinician-directed daily antibiotic prophylaxis?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Daily antibiotic decision
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Daily antibiotic decision
 
-- **A.** Ignore past susceptibility data
-- **B.** Always select the broadest spectrum drug
-- **C.** Only the patient's favourite tablet colour
+- **A.** Use only the most recent empirical treatment history without reviewing susceptibility
+- **B.** Choose the broadest-spectrum susceptible drug to cover possible future organisms
+- **C.** Choose the previously tolerated drug without reviewing renal function or recent resistance
 - **D.** Previous cultures, resistance risk, adverse effects and patient preferences
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Previous cultures, resistance risk, adverse effects and patient preferences**
 
-**A. Kyun galat hai:** Past culture se likely effective agent select karne mein help milti hai.
+**A. Kyun galat hai:** Empirical treatment pehle available information par choose hota hai. Long-term prophylaxis se pehle previous organism aur susceptibility results review karna resistance risk assess karne mein useful hai.
 
-**B. Kyun galat hai:** Broad-spectrum exposure unnecessary collateral damage aur resistance badha sakta hai.
+**B. Kyun galat hai:** Broad spectrum future infection prevent karne ki guarantee nahi deta. Unnecessary broad exposure resistance aur adverse effects badha sakta hai.
 
-**C. Kyun galat hai:** Tablet colour se drug suitability decide nahi hoti.
+**C. Kyun galat hai:** Past tolerance useful hai, lekin renal function aur organism susceptibility time ke saath change ho sakte hain. Current safety aur resistance assessment bhi chahiye.
 
 **D. Kyun sahi hai:** Long-term antibiotic ka benefit aur harm dono assess karne chahiye. Previous cultures aur patient ki priorities se individualized choice possible hoti hai.
 
@@ -589,9 +589,9 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Daily prophylaxis review
 
 - **A.** Review benefit, harms and whether to continue, stop or change prophylaxis
-- **B.** Automatically continue for life
-- **C.** Stop follow-up because symptoms improved
-- **D.** Increase the dose regardless of response
+- **B.** Extend the existing regimen automatically for another year because it reduced recurrence
+- **C.** Review only if another symptomatic infection develops
+- **D.** Increase the preventive dose at the six-month review to maintain effectiveness
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -599,11 +599,11 @@
 
 **A. Kyun sahi hai:** NICE daily prophylaxis ka review kam se kam har chhe mahine mein recommend karta hai. Benefit, adverse effects aur ongoing need discuss karni chahiye.
 
-**B. Kyun galat hai:** Lifelong continuation automatic decision nahi hai.
+**B. Kyun galat hai:** Benefit milna continuation discussion ka reason ho sakta hai. Lekin six-month review mein adverse effects, resistance aur patient preference assess kiye bina automatic extension appropriate nahi hai.
 
-**C. Kyun galat hai:** Improvement ke baad bhi adverse effects aur resistance ka assessment zaroori hai.
+**C. Kyun galat hai:** Breakthrough infection par review useful hai, lekin planned six-month review bhi chahiye. Patient symptom-free ho tab bhi treatment burden aur adverse effects evaluate kiye ja sakte hain.
 
-**D. Kyun galat hai:** Bina clinical indication dose badhane se harm badh sakta hai.
+**D. Kyun galat hai:** Review ka purpose dose automatically badhana nahi hai. Fewer episodes ke context mein continuation, change ya stopping par individualized discussion chahiye.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -615,24 +615,24 @@
 
 ### Q22. A woman on long-term prescribed nitrofurantoin prophylaxis asks which monitoring plan matters even when urinary symptoms are controlled. Which is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Long-term nitrofurantoin monitoring
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Long-term nitrofurantoin monitoring
 
-- **A.** Check urine colour alone
+- **A.** Monitor renal function alone and assess other adverse effects only after recurrence
 - **B.** Review pulmonary and hepatic adverse effects and relevant renal function
-- **C.** Monitor only visual acuity
-- **D.** No monitoring is needed during prophylaxis
+- **C.** Monitor blood counts and visual acuity as the main drug-specific safety plan
+- **D.** Check urine cultures periodically as the main safety monitoring measure
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Review pulmonary and hepatic adverse effects and relevant renal function**
 
-**A. Kyun galat hai:** Urine colour se lung, liver ya renal safety assess nahi hoti.
+**A. Kyun galat hai:** Renal function suitability ke liye relevant hai, lekin pulmonary aur hepatic toxicity infection control ke bawajood ho sakti hai. Long-term monitoring mein dono systems ka assessment bhi chahiye.
 
 **B. Kyun sahi hai:** Long-term nitrofurantoin se rare pulmonary aur hepatic toxicity ho sakti hai. Renal function bhi suitability ko affect karta hai, isliye local monitoring plan follow karna chahiye.
 
-**C. Kyun galat hai:** Visual acuity alone relevant toxicity profile cover nahi karti.
+**C. Kyun galat hai:** Blood counts aur vision kuch other medicines mein useful ho sakte hain. Nitrofurantoin ke long-term safety concerns mein lung aur liver reactions specifically important hain.
 
-**D. Kyun galat hai:** Symptoms control hone se medicine ke adverse effects ka risk khatam nahi hota.
+**D. Kyun galat hai:** Urine cultures bacterial growth assess karte hain. Ye pulmonary symptoms, liver dysfunction ya renal suitability ki safety monitoring replace nahi karte.
 
 **Clinical reference:** [Guidance](https://www.gov.uk/drug-safety-update/nitrofurantoin-reminder-of-the-risks-of-pulmonary-and-hepatic-adverse-drug-reactions).
 
@@ -644,22 +644,22 @@
 
 ### Q23. A patient on continuous preventive antibiotics develops a symptomatic breakthrough episode. Which information is particularly useful for subsequent prevention review?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Breakthrough documentation
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Breakthrough documentation
 
-- **A.** An assumption that every future episode has the same organism
-- **B.** Only the time of her last meal
-- **C.** The colour of the clinic walls
+- **A.** Use the previous isolate to select all future prophylaxis without obtaining new microbiological information
+- **B.** Review adherence alone without documenting the current organism
+- **C.** Record symptom severity alone and defer susceptibility review until the annual visit
 - **D.** The breakthrough isolate and susceptibility together with current prophylactic exposure
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. The breakthrough isolate and susceptibility together with current prophylactic exposure**
 
-**A. Kyun galat hai:** Har episode ka organism same hona necessary nahi hai.
+**A. Kyun galat hai:** Previous isolate helpful history hai, lekin breakthrough infection mein naya organism ya changed susceptibility mil sakti hai. Available fresh evidence ko ignore nahi karna chahiye.
 
-**B. Kyun galat hai:** Meal time alone antimicrobial failure explain nahi karta.
+**B. Kyun galat hai:** Adherence assess karna useful hai, lekin correctly taken prophylaxis ke bawajood resistant organism se recurrence ho sakti hai. Microbiology aur exposure dono ko record karo.
 
-**C. Kyun galat hai:** Clinic walls ka colour recurrence assessment se related nahi hai.
+**C. Kyun galat hai:** Severity acute assessment ko inform karti hai. Current susceptibility information preventive drug ki future suitability aur stewardship review ke liye abhi relevant ho sakti hai.
 
 **D. Kyun sahi hai:** Prophylaxis ke dauran resistant organism ya changed pathogen mil sakta hai. Culture aur exposure ko saath review karne se future prevention decision better hota hai.
 
@@ -673,24 +673,24 @@
 
 ### Q24. A carefully selected woman has a clinician-agreed self-start treatment plan for recurrent uncomplicated cystitis. Which statement demonstrates correct understanding?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Self-start boundary
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Self-start boundary
 
-- **A.** I can share my medicine with friends
-- **B.** I can use this plan for any fever regardless of symptoms
+- **A.** Start the agreed regimen for any new urinary discomfort without considering other causes
+- **B.** Use the same regimen for new fever and flank pain before seeking advice
 - **C.** I will follow the agreed criteria and seek assessment for atypical or severe symptoms
-- **D.** I should keep extending the course until all tablets at home are finished
+- **D.** Repeat the agreed course whenever symptoms persist without clinical reassessment
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. I will follow the agreed criteria and seek assessment for atypical or severe symptoms**
 
-**A. Kyun galat hai:** Prescription individual patient ke liye hai. Sharing se wrong treatment aur resistance ka risk hota hai.
+**A. Kyun galat hai:** Self-start plan specific agreed symptom criteria par based hona chahiye. Atypical discomfort vaginal, urethral ya noninfectious causes se bhi aa sakta hai.
 
-**B. Kyun galat hai:** Fever ya systemic symptoms uncomplicated cystitis pathway se bahar ho sakte hain.
+**B. Kyun galat hai:** Fever aur flank pain upper urinary infection ke signs ho sakte hain. Uncomplicated cystitis ke self-start plan par depend karke assessment delay nahi karna chahiye.
 
 **C. Kyun sahi hai:** Self-start plan selected patients ke liye clinician ke saath agreed hota hai. Atypical symptoms ya deterioration par assessment delay nahi karna chahiye.
 
-**D. Kyun galat hai:** Course ko apne aap extend karna adverse effects aur resistance badha sakta hai.
+**D. Kyun galat hai:** Persistent symptoms resistant infection ya alternative diagnosis indicate kar sakte hain. Unsupervised repeated courses ki jagah clinical reassessment chahiye.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -705,9 +705,9 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Referral in men
 
 - **A.** Clinical or specialist evaluation for underlying causes
-- **B.** Automatic application of the female pathway
-- **C.** Vaginal estrogen without assessment
-- **D.** Permanent self-treatment without review
+- **B.** Apply the routine female cystitis prophylaxis pathway once a urine culture is positive
+- **C.** Begin indefinite prophylaxis before assessing possible prostatic or obstructive disease
+- **D.** Use a standard self-start plan as the only intervention because the episodes recur
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -715,11 +715,11 @@
 
 **A. Kyun sahi hai:** Men mein recurrent UTI ke saath prostate, obstruction ya doosri underlying causes ka evaluation relevant ho sakta hai. NICE specialist advice recommend karta hai.
 
-**B. Kyun galat hai:** Female index-patient recommendations directly generalize nahi karni chahiye.
+**B. Kyun galat hai:** Positive culture bacterial growth support kar sakti hai, lekin recurrent male infection mein prostate aur obstructive factors evaluate karne ki need khatam nahi karti.
 
-**C. Kyun galat hai:** Vaginal estrogen is clinical context ka appropriate routine option nahi hai.
+**C. Kyun galat hai:** Long-term antibiotics underlying cause ko temporarily mask kar sakte hain. Recurrent male infection mein appropriate clinical assessment prevention plan se pehle zaroori hai.
 
-**D. Kyun galat hai:** Permanent self-treatment underlying disease ko miss kar sakta hai.
+**D. Kyun galat hai:** Self-start treatment selected uncomplicated female patients mein discuss kiya ja sakta hai. Men mein repeated infections ko same population pathway se automatically manage nahi karna chahiye.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -731,24 +731,24 @@
 
 ### Q26. A healthy nonpregnant woman has typical documented recurrent uncomplicated cystitis, no alarm findings and complete recovery between episodes. Which investigation principle is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Imaging selection
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Imaging selection
 
-- **A.** Renal biopsy before all prevention counseling
+- **A.** Arrange baseline invasive cystoscopy solely because the recurrence threshold has been met
 - **B.** Do not routinely perform extensive imaging or cystoscopy without an indication
-- **C.** Routine invasive cystoscopy every month
-- **D.** CT scan after every episode
+- **C.** Perform routine imaging and cystoscopy before any preventive counseling even without risk factors
+- **D.** Repeat upper tract CT after each fully resolved typical lower urinary episode
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Do not routinely perform extensive imaging or cystoscopy without an indication**
 
-**A. Kyun galat hai:** Renal biopsy uncomplicated bladder recurrence ka routine investigation nahi hai.
+**A. Kyun galat hai:** Recurrence threshold prevention assessment justify karta hai, lekin typical low-risk index patient mein routine invasive cystoscopy ka diagnostic yield low hai. Atypical findings indication change kar sakte hain.
 
 **B. Kyun sahi hai:** Low-risk typical recurrent cystitis mein routine extensive workup ka yield kam hota hai. Atypical features aayein toh targeted investigation ki zaroorat ho sakti hai.
 
-**C. Kyun galat hai:** Monthly invasive cystoscopy unnecessary burden aur procedural risk la sakti hai.
+**C. Kyun galat hai:** Imaging aur cystoscopy clinically indicated cases mein useful hain. Typical uncomplicated recurrence mein extensive routine investigations preventive counseling ki compulsory prerequisite nahi hain.
 
-**D. Kyun galat hai:** Har typical episode ke baad CT radiation aur cost badha sakta hai jab indication na ho.
+**D. Kyun galat hai:** CT stones ya obstruction jaise specific concerns mein useful ho sakta hai. Har resolved lower episode ke baad repeat CT unnecessary radiation aur cost badha sakta hai.
 
 **Clinical reference:** [Guidance](https://www.auanews.net/issues/articles/2025/october-2025/updates-to-the-aua/cua/sufu-guideline-on-recurrent-uncomplicated-urinary-tract-infections-in-women).
 
@@ -760,24 +760,24 @@
 
 ### Q27. A postmenopausal woman with recurrent cystitis also reports an interrupted urinary stream and a sensation of incomplete emptying. Which additional assessment should the nurse discuss?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Emptying assessment
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Emptying assessment
 
-- **A.** Routine restriction of all fluids
-- **B.** An assumption that these symptoms are normal aging
+- **A.** Assess daily fluid intake only and postpone evaluation of voiding symptoms
+- **B.** Attribute incomplete emptying to menopause and begin preventive treatment without further assessment
 - **C.** Assessment for incomplete bladder emptying and residual urine when indicated
-- **D.** A supplement-only plan without examination
+- **D.** Measure urine culture alone to determine whether bladder emptying is impaired
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Assessment for incomplete bladder emptying and residual urine when indicated**
 
-**A. Kyun galat hai:** Fluid restriction incomplete emptying ki cause establish nahi karti.
+**A. Kyun galat hai:** Fluid history useful hai, lekin interrupted stream aur incomplete emptying separate voiding problem ka signal ho sakte hain. Sirf hydration par focus karne se underlying cause miss ho sakti hai.
 
-**B. Kyun galat hai:** Aging ke naam par symptoms dismiss karne se retention ya obstruction miss ho sakta hai.
+**B. Kyun galat hai:** Menopause recurrence risk ko affect kar sakta hai, lekin incomplete emptying ko automatically normal nahi maana ja sakta. Residual urine aur possible functional ya structural cause assess karna relevant hai.
 
 **C. Kyun sahi hai:** Jab bladder poori tarah empty nahi hota, toh residual urine reh sakta hai. Clinical assessment aur indicated postvoid residual measurement underlying factor identify karne mein help karte hain.
 
-**D. Kyun galat hai:** Supplement structural ya functional emptying problem ka evaluation replace nahi karta.
+**D. Kyun galat hai:** Culture organism detect kar sakta hai, lekin bladder mein voiding ke baad kitna urine bacha hai ye nahi batata. Indicated residual volume assessment alag test hai.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -789,22 +789,22 @@
 
 ### Q28. A woman with recurrent cystitis says her workplace does not allow regular toilet breaks and she intentionally reduces fluid intake throughout shifts. Which nursing intervention addresses the stated barrier?
 
-**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Access barriers
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Access barriers
 
-- **A.** Tell her to stop all employment
-- **B.** Recommend scheduled antibiotics during every shift
-- **C.** Ignore workplace constraints
+- **A.** Provide generic hydration advice without exploring her shift conditions
+- **B.** Discuss daily antibiotic prophylaxis before addressing the identified workplace barriers
+- **C.** Advise drinking most of her daily water after work while maintaining the same workplace restrictions
 - **D.** Develop a feasible hydration and toilet-access plan with her
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Develop a feasible hydration and toilet-access plan with her**
 
-**A. Kyun galat hai:** Employment chhodna disproportionate response hoga aur social harm ho sakta hai.
+**A. Kyun galat hai:** Advice sahi principle bata sakti hai, lekin toilet access ka actual barrier address nahi karegi. Patient ke work routine ke saath feasible plan banana zyada useful hai.
 
-**B. Kyun galat hai:** Har shift antibiotic lena stated barrier address nahi karta.
+**B. Kyun galat hai:** Antibiotic prophylaxis selected patients mein helpful ho sakti hai. Lekin identified modifiable barrier ko review kiye bina antibiotic exposure prioritize karna appropriate stepwise approach nahi hai.
 
-**C. Kyun galat hai:** Barrier ignore karne se prevention plan practically follow karna mushkil hoga.
+**C. Kyun galat hai:** Shift ke baad hydration kuch intake restore kar sakti hai, lekin day-long access problem solve nahi hoti. Safe daily hydration aur toilet breaks ko practical tarike se plan karna chahiye.
 
 **D. Kyun sahi hai:** Patient ke routine ko samajh kar safe hydration aur toilet access ka workable plan banana prevention counseling ko practical banata hai.
 
@@ -821,9 +821,9 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Outcome measurement
 
 - **A.** Change in symptomatic confirmed episodes and patient-reported burden over time
-- **B.** Total antibiotic sales regardless of indication
-- **C.** Number of printed leaflets only
-- **D.** Number of positive cultures from asymptomatic screening alone
+- **B.** Total antimicrobial prescriptions without separating treatment from prophylaxis
+- **C.** Number of patients accepting a prevention plan without measuring subsequent outcomes
+- **D.** Change in asymptomatic screening-culture positivity as the sole outcome
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -831,11 +831,11 @@
 
 **A. Kyun sahi hai:** Symptoms aur confirmed episodes ka trend patient benefit ko directly reflect karta hai. Quality of life aur treatment burden ko bhi measure karna chahiye.
 
-**B. Kyun galat hai:** Antibiotic sales badhna improvement ka proof nahi hai aur stewardship ke opposite bhi ho sakta hai.
+**B. Kyun galat hai:** Prescription count alone se patient benefit ya appropriate prescribing establish nahi hota. Symptomatic recurrence aur treatment burden ko alag assess karna chahiye.
 
-**C. Kyun galat hai:** Leaflets distributed hona education activity batata hai, clinical outcome nahi.
+**C. Kyun galat hai:** Plan acceptance implementation ka measure hai. Ye nahi batata ki infection episodes aur daily burden waqai kam hue ya nahi.
 
-**D. Kyun galat hai:** Asymptomatic culture positivity symptomatic recurrence ka equivalent nahi hai.
+**D. Kyun galat hai:** Asymptomatic bacterial growth symptomatic recurrence ke equivalent nahi hai. Program benefit ke liye patient-important clinical outcomes zyada relevant hain.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -847,24 +847,24 @@
 
 ### Q30. A woman has fewer cystitis episodes on prophylaxis but reports distressing adverse effects and wants to reconsider the plan. Which approach is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Shared decision
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Shared decision
 
-- **A.** Continue unchanged because episode count is the only outcome
+- **A.** Continue the regimen until the scheduled review because recurrence frequency has improved
 - **B.** Discuss benefits, adverse effects and acceptable alternatives with her clinician
-- **C.** Discontinue every treatment permanently without review
-- **D.** Dismiss her concerns because prevention is elective
+- **C.** Switch immediately to another preventive medicine without reviewing the adverse-effect history
+- **D.** Use the recurrence count alone to decide whether adverse effects are acceptable
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Discuss benefits, adverse effects and acceptable alternatives with her clinician**
 
-**A. Kyun galat hai:** Episode count important hai, lekin adverse effects aur quality of life bhi decision mein matter karte hain.
+**A. Kyun galat hai:** Lower recurrence benefit hai, lekin distressing adverse effects earlier review justify kar sakte hain. Patient ko scheduled interval tak har haal mein continue karne ko nahi kehna chahiye.
 
 **B. Kyun sahi hai:** Shared decision mein patient ki priorities aur treatment harms ko consider karte hain. Clinician ke saath safer alternatives ya stopping plan discuss kiya ja sakta hai.
 
-**C. Kyun galat hai:** Har treatment permanently band karna bina context ke appropriate nahi hai.
+**C. Kyun galat hai:** Alternative option useful ho sakta hai, lekin nature aur severity of adverse effect, contraindications aur patient preferences assess karke clinician ko choice karni chahiye.
 
-**D. Kyun galat hai:** Elective prevention mein bhi patient ki concerns ko seriously lena chahiye.
+**D. Kyun galat hai:** Recurrence count important outcome hai, lekin medicine-related burden aur patient ki values bhi matter karti hain. Shared decision mein benefits aur harms dono discuss hote hain.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
