@@ -1,10 +1,10 @@
 # Biochemistry and Pathology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: biochemistry-final-audit-20261128-0722Z
+Scope: PR42 isolated clinical and semantic audit, candidate-only corrective commits and evidence/checkpoint. No shared navigation, other owners or schedules.
+Claimed UTC: 2026-11-28T07:22:27Z
+Expiry UTC: 2026-11-28T07:52:27Z
 
 Baseline: four original starter slots, one separate reported HPSSC adaptation, zero full mocks. Target five topics x 20 originals per batch, then ten original-only 120-item mocks in pairs, then remaining sourced PYQs. Full independent audit and reconciliation required before merge.
 
