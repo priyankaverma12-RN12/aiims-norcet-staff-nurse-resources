@@ -44,3 +44,17 @@ Cumulative Batch 02 staged: 40 originals and 160 rationales. Cumulative across b
 [20 Continence and Bowel Care MCQs](06-Continence-and-Bowel-Care-20-MCQs.md) · [Detailed concepts](../Concepts/Continence-and-Bowel-Care-in-Older-Adults.md) · [Original SVG](../Assets/continence-assessment-pathway.svg)
 
 Cumulative Batch 02: 60 originals, 240 rationales, three guides and three SVGs. Across batches: 160 staged originals, 640 rationales plus four legacy originals. No live count. Targeted task comparison against Foundations 09 (20), 09A (26), 14 (20), Renal assessment (30) and Geriatric starter (4) performed before authoring. Full semantic and clinical independent review, full preflight, sources and video playback pending. Remaining rehabilitation and caregiver support.
+
+## Batch 02 authoring checkpoint — all five groups staged
+
+| Topic bank | New originals | Option rationales | Concepts | Original diagram |
+|---|---:|---:|---|---|
+| [06 Continence and bowel care](06-Continence-and-Bowel-Care-20-MCQs.md) | 20 | 80 | [Notes](../Concepts/Continence-and-Bowel-Care-in-Older-Adults.md) | [SVG](../Assets/continence-assessment-pathway.svg) |
+| [07 Rehabilitation and assistive devices](07-Functional-Rehabilitation-and-Assistive-Devices-20-MCQs.md) | 20 | 80 | [Notes](../Concepts/Functional-Rehabilitation-and-Assistive-Devices.md) | [SVG](../Assets/geriatric-rehabilitation-pathway.svg) |
+| [08 Elder abuse and safeguarding](08-Elder-Abuse-and-Safeguarding-20-MCQs.md) | 20 | 80 | [Notes](../Concepts/Elder-Abuse-and-Safeguarding.md) | [SVG](../Assets/elder-safeguarding-response.svg) |
+| [09 Caregiver support](09-Caregiver-Support-and-Care-Continuity-20-MCQs.md) | 20 | 80 | [Notes](../Concepts/Caregiver-Support-and-Care-Continuity.md) | [SVG](../Assets/caregiver-support-pathway.svg) |
+| [10 Community geriatric care and NPHCE](10-Community-Geriatric-Care-and-NPHCE-20-MCQs.md) | 20 | 80 | [Notes](../Concepts/Community-Geriatric-Care-and-NPHCE.md) | [SVG](../Assets/nphce-community-care-pathway.svg) |
+| **Batch 02** | **100** | **400** | **5** | **5** |
+| **Batch 01 + 02 staged originals** | **200** | **800** | | |
+
+Question bank head: `8bfee6a79be2b77c65a3fc588772ed3d21a808f5`. Four preserved legacy originals separate. No live credit, no mock or historical PYQ additions. Targeted comparison against Foundations mobility/rehabilitation, geriatric CGA, falls, dementia and community bank tasks completed for authoring. Independent clinical, distractor difficulty, complete semantic uniqueness, dedicated item video playback/mapping, full preflight and PR8 release remain pending. Batch 01 detailed concept gaps remain. Do not merge before review.
