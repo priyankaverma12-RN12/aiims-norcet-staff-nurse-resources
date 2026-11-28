@@ -24,7 +24,7 @@
 
 **Exam clue:** Product aur exposure ki details se specialist possible toxicity aur appropriate assessment samajh sakta hai.
 
-**Reference:** [Poison Control first aid](https://www.poison.org/first-aid-for-poisonings).
+**Reference:** [Poison Control first aid](https://www.poison.org/first-aid-for-poisonings). · [Poison Control consultation information](https://www.poison.org/how-to-get-help-from-poison-control)
 
 **YouTube MCQ practice:** specific item verification pending.
 
@@ -466,7 +466,7 @@
 
 **Exam clue:** Insulin blood glucose lower kar sakta hai aur potassium cells ke andar shift karta hai.
 
-**Reference:** [AHA 2025 special circumstances of resuscitation](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-and-pediatric-special-circumstances-of-resuscitation).
+**Reference:** [AHA 2025 special circumstances of resuscitation](https://cpr.heart.org/en/resuscitation-science/cpr-and-ecc-guidelines/adult-and-pediatric-special-circumstances-of-resuscitation). · [University of Utah Poison Control monitoring guidance](https://poisoncontrol.utah.edu/news/2021/07/high-dose-insulin-therapy)
 
 **YouTube MCQ practice:** specific item verification pending.
 
