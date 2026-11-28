@@ -1,10 +1,13 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-07e-elderly-20261128-0838Z
-Scope: PR35 isolated 07E elderly-specific nutrition and hydration assessment, supplementation and food care. Excludes PR39 geriatric functional assessments, frailty interventions and shared navigation. Candidate-only new bank, guide, SVG and ledger.
-Claimed UTC: 2026-11-28T08:38:02Z
-Expiry UTC: 2026-11-28T09:08:02Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 07E elderly nutrition and hydration
+
+Candidate head: 0f642a2b273b14874a201ea959f813c1ea46e1f7
+Draft PR35: 680 original staged candidates, 2720 individual rationales, 34 topic banks, 17 concept guides, 17 original SVGs, four legacy originals and one reported adaptation separate. 07D and 07E both committed with exact readback. 40 original candidates and 160 rationales added this continuation. Both diagrams rendered and visually checked. Zero normalized exact matches against prior staged stems. Independent clinical/pharmacy, exhaustive semantic, INC, dedicated video, PR7/8 navigation and CI/integration gates remain open. No merge or live credit. Next scope: remaining genuine programme and food-standard gaps, then completion gates before mocks and PYQs.
 
 ## Latest released checkpoint — 07D school-age nutrition and school meals
 
