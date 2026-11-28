@@ -143,7 +143,7 @@
 
 **Exam clue:** Skewness ka direction tail se identify karo.
 
-**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.6](https://openstax.org/books/introductory-statistics-2e/pages/2-6-skewness-and-the-mean-median-and-mode). Related textbook section, direct verification pending. Independent item-level certification pending.
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.6](https://openstax.org/books/introductory-statistics-2e/pages/2-6-skewness-and-the-mean-median-and-mode). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -375,7 +375,7 @@
 
 **Exam clue:** Box ki length IQR batati hai, flagged observation ko investigate karo.
 
-**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.4](https://openstax.org/books/introductory-statistics-2e/pages/2-4-box-plots). Related textbook section, direct verification pending. Independent item-level certification pending.
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.4](https://openstax.org/books/introductory-statistics-2e/pages/2-4-box-plots). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -549,7 +549,7 @@
 
 **Exam clue:** Units convert karte waqt variance ko conversion factor ke square se multiply karo.
 
-**Related concept reference:** [Penn State STAT 500, Adding and Multiplying Constants](https://online.stat.psu.edu/stat500/Lesson01). Indexed formula reviewed. Independent item-level certification pending.
+**Related concept reference:** [Penn State STAT 500, Adding and Multiplying Constants](https://online.stat.psu.edu/stat500/Lesson01). Direct HTML reviewed, Adding and Multiplying Constants under Variance. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
