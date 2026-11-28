@@ -420,53 +420,53 @@
 
 </details>
 
-### Q17. An ICU quality team wants to assess device-associated infection trends while catheter utilization changes substantially each month. Which denominator is most useful for comparing catheter-associated bloodstream infection incidence density?
+### Q17. A nurse with previous general-ward experience is newly appointed to a UK adult ICU and has not yet demonstrated the required critical-care competencies. Under GPICS V3, what is the purpose of the protected supernumerary practice period?
 
-**Difficulty:** Difficult | **Priority:** High | **Type:** Original practice | **Topic:** ICU organization, monitoring and liberation
+**Difficulty:** Medium | **Priority:** High | **Type:** Original practice | **Topic:** ICU organization, monitoring and liberation
 
-- **A.** Total visitors entering the ICU
-- **B.** Number of outpatient appointments
-- **C.** Number of hospital meals served
-- **D.** Central-line days for the relevant surveillance definition
+- **A.** To replace an experienced direct-care nurse immediately
+- **B.** To avoid all clinical contact until a written examination is passed
+- **C.** To establish independent competence solely from years of general nursing service
+- **D.** To develop and assess specialist competence under supervision before counting the nurse as independent staffing capacity
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Central-line days for the relevant surveillance definition**
+**Correct: D. To develop and assess specialist competence under supervision before counting the nurse as independent staffing capacity**
 
-- **A.** Visitor count invasive line exposure measure nahi karta. Is denominator se infection risk compare nahi hoga.
-- **B.** Outpatient appointments ICU catheter exposure se unrelated hain.
-- **C.** Meals ki count line utilization nahi batati. Device-days appropriate exposure denominator hain.
-- **D.** Line-associated infection rate ko line-days ke against calculate karne se exposure duration account hoti hai. Standard surveillance definitions consistently use karna chahiye.
+- **A.** Nayi ICU nurse ko immediately independent replacement maan lena unsafe ho sakta hai. Organ support aur emergency skills ke liye competence establish karni hoti hai.
+- **B.** Supernumerary practice supervised clinical learning ke liye hai. Clinical contact completely avoid karna iska purpose nahi hai.
+- **C.** General ward experience valuable hai, lekin ICU-specific competence automatic establish nahi hoti. Assessment ke basis par transferable skills recognize kar sakte hain.
+- **D.** GPICS V3 novice ICU staff ke liye protected learning period specify karta hai. Supervision aur competence assessment se independent assignment ki readiness evaluate hoti hai. Ye UK benchmark hai, Indian statutory rule nahi.
 
-**Exam clue:** Line-associated infection rate ko line-days ke against calculate karne se exposure duration account hoti hai.
+**Exam clue:** Supernumerary practice ka matlab protected supervised learning hai, independent roster replacement nahi.
 
-**Reference:** [GPICS V3 (UK service benchmark, 2026)](https://ics.ac.uk/static/86766fa2-a003-4b78-9c4e7b03e002d9bd/GPICS-V3-2026-03.pdf). · [CDC NHSN BSI module Table 8](https://www.cdc.gov/nhsn/pdfs/pscmanual/4psc_clabscurrent.pdf)
+**Reference:** [GPICS V3, section 2.5 nursing education and note 5](https://ics.ac.uk/static/86766fa2-a003-4b78-9c4e7b03e002d9bd/GPICS-V3-2026-03.pdf).
 
 **YouTube MCQ practice:** specific item verification pending.
 
 </details>
 
-### Q18. An ICU reports two surveillance-defined central-line-associated bloodstream infections over 500 central-line days. What is the incidence density per 1,000 central-line days?
+### Q18. A UK ICU plans staffing for 24 beds using the specific GPICS V3 benchmark for additional enhanced critical-care nurses. How many such nurses are required beyond the clinical shift leader and direct-care nurses, before any further locally assessed need is considered?
 
 **Difficulty:** Difficult | **Priority:** High | **Type:** Original practice | **Topic:** ICU organization, monitoring and liberation
 
-- **A.** 4 per 1,000 central-line days
-- **B.** 0.4 per 1,000 central-line days
-- **C.** 25 per 1,000 central-line days
-- **D.** 250 per 1,000 central-line days
+- **A.** Two additional enhanced critical-care nurses without individual patient allocation
+- **B.** One additional enhanced critical-care nurse
+- **C.** Three additional enhanced critical-care nurses as the specified base minimum
+- **D.** None because a clinical shift leader is already present
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. 4 per 1,000 central-line days**
+**Correct: A. Two additional enhanced critical-care nurses without individual patient allocation**
 
-- **A.** Do infections ko 500 line-days se divide karke 1000 se multiply karne par 4 milta hai. Ye rate exposure duration ke hisaab se report hota hai.
-- **B.** 0.4 decimal calculation error hai. 2/500 ka 1000 se multiplication 4 hai.
-- **C.** 25 given numerator aur denominator se nahi milta. Rate ko correct exposure days se calculate karo.
-- **D.** 250 inverse-type calculation hai, infection incidence density nahi. Formula infections divided by device-days hai.
+- **A.** GPICS V3 note 3 mein 11–20 beds ke liye one aur 21–30 beds ke liye two additional enhanced nurses specified hain. Isliye 24 beds par two base minimum hai. Local layout aur acuity aur staff demand create kar sakte hain.
+- **B.** One additional nurse 11–20 bed band ka benchmark hai. 24 beds next band mein aate hain.
+- **C.** Three additional nurses 31–40 bed pattern se correspond karenge. Is case mein requested base benchmark two hai, although actual needs additional staffing justify kar sakti hain.
+- **D.** Ye additional enhanced nurses shift leader aur direct-care nurses ke alawa hote hain. Shift leader present hone se specified provision remove nahi hoti.
 
-**Exam clue:** Do infections ko 500 line-days se divide karke 1000 se multiply karne par 4 milta hai.
+**Exam clue:** UK GPICS bed bands mein additional enhanced staffing direct-care ratio se separate hai.
 
-**Reference:** [GPICS V3 (UK service benchmark, 2026)](https://ics.ac.uk/static/86766fa2-a003-4b78-9c4e7b03e002d9bd/GPICS-V3-2026-03.pdf). · [CDC NHSN BSI module Table 8, page 4-28](https://www.cdc.gov/nhsn/pdfs/pscmanual/4psc_clabscurrent.pdf)
+**Reference:** [GPICS V3, section 2.5 nursing staffing and note 3](https://ics.ac.uk/static/86766fa2-a003-4b78-9c4e7b03e002d9bd/GPICS-V3-2026-03.pdf).
 
 **YouTube MCQ practice:** specific item verification pending.
 
