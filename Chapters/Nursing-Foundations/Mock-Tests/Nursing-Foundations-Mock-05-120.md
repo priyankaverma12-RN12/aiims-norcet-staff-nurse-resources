@@ -153,9 +153,17 @@ Suspected venomous snakebite mein venom body mein spread ho sakta hai. Patient k
 
 **Correct: B. Assess the patient with stridor immediately and arrange coverage for the medication task**
 
-Stridor possible airway obstruction ka clue hai. Immediate assessment aur help priority hai, while delegation se scheduled medication timely manage ki ja sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Due-time task airway threat se higher priority nahi hai. Waiting aur indiscriminate cancellation inappropriate hain.
+**A kyun galat hai:** Poore ward ki saari medicine cancel karne se unnecessary missed doses aur harm ho sakta hai. Nurse priorities adjust karke qualified coverage arrange karti hai.
+
+**B kyun sahi hai:** Stridor ek harsh high-pitched breathing sound hai jo upper airway narrowing ka warning sign ho sakta hai. Nurse turant airway aur breathing assess karti hai, emergency help bulati hai aur appropriate support arrange karti hai. Stable patient ki medicine ke liye doosri authorized qualified staff member se safe coverage arrange karti hai.
+
+**C kyun galat hai:** Routine rounds ka wait karne se airway narrowing worsen ho sakti hai. New stridor prompt assessment maangta hai.
+
+**D kyun galat hai:** Medicine ka scheduled time important hai, lekin possible airway obstruction life-threatening ho sakti hai. Emergency assessment ko sirf due-time ki wajah se delay nahi karte.
+
+**Exam clue:** Airway threat pehle handle karo aur time-sensitive routine care ke liye safe staff coverage arrange karo.
 
 </details>
 
@@ -551,9 +559,17 @@ Handover ka purpose receiving team ko enough current information dena hai taaki 
 
 **Correct: D. Follow applicable legal and institutional directions and preserve potential evidence**
 
-Medicolegal case mein lines aur other material investigation ke liye relevant ho sakte hain. Nurse authorized instructions obtain karti hai before altering evidence.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Automatic removal aur washing evidence destroy kar sakte hain. Clinical records preserve karne chahiye.
+**A kyun galat hai:** Clinical record se patient ki condition aur interventions ka timeline pata chalta hai. Use discard karna inappropriate hai aur record retention rules violate kar sakta hai.
+
+**B kyun galat hai:** Potential evidence wash karne se investigation ke liye relevant material lose ho sakta hai. Nurse required direction milne tak unnecessary alteration avoid karti hai.
+
+**C kyun galat hai:** Medicolegal investigation mein tubes ya lines important evidence ho sakti hain. Bina authorized direction unko nikalne se evidence disturb ho sakta hai.
+
+**D kyun sahi hai:** Jab death investigation ke under aa sakti hai, toh nurse authorized senior aur relevant institutional process ko inform karti hai. Body, lines aur potential evidence ko prescribed procedure ke according preserve karti hai aur required documentation maintain karti hai.
+
+**Exam clue:** Medicolegal case mein routine after-death care se pehle authorized instructions check karo.
 
 </details>
 
@@ -741,9 +757,17 @@ Evidence-based practice ka matlab hai patient care ke decisions mein best availa
 
 **Correct: D. Offer clear updates, space for questions and opportunities for appropriate participation**
 
-Clear communication uncertainty kam karne mein help karti hai. Patient consent aur care needs ke according family involvement support ki ja sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Contradictory updates confusion badhate hain. Family exclusion aur exact death-time guarantee inappropriate hain.
+**A kyun galat hai:** Contradictory updates confusion aur anxiety badha sakte hain. Team se clarification lekar consistent information deni chahiye.
+
+**B kyun galat hai:** Death ka exact time reliably predict karna generally possible nahi hai. Nurse expected changes samjha sakti hai, lekin false guarantee nahi deti.
+
+**C kyun galat hai:** Family ko har situation mein exclude karna patient ki preference ke against ho sakta hai. Involvement patient consent, privacy aur safety ke according decide hoti hai.
+
+**D kyun sahi hai:** Nurse family ko understandable updates deti hai, questions sunti hai aur uncertainty honestly explain karti hai. Patient ki permission aur clinical safety ke hisaab se family bedside presence ya simple care mein participate kar sakti hai.
+
+**Exam clue:** Family support mein clear updates aur patient-approved participation important hain.
 
 </details>
 
@@ -965,9 +989,17 @@ Tenfold discrepancy decimal, unit ya order error ka warning hai. Original order,
 
 **Correct: D. The patient transfers from bed to chair with one-person assistance by the planned date**
 
-Transfer outcome clear task, assistance level aur deadline define karta hai. Nurse progress objectively compare kar sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Vague improvement measure nahi ho sakti. Full nurse care patient independence ka goal nahi hai. Diagnosis disappearance guaranteed nahi hai.
+**A kyun galat hai:** Nurse ka indefinitely saari care dena patient ke functional improvement ko measure nahi karta. Goal patient ki ability par focus hona chahiye.
+
+**B kyun galat hai:** Eventually better hone mein specific task, assistance ya time limit clear nahi hai. Progress objectively measure karna mushkil hai.
+
+**C kyun galat hai:** Diagnosis turant disappear hone ki guarantee nahi hoti. Rehabilitation disease cure ke bina bhi daily function improve kar sakti hai.
+
+**D kyun sahi hai:** Bed se chair transfer, one-person assistance aur planned date specify karne se goal observable aur measurable banta hai. Nurse actual performance compare karke rehabilitation plan review kar sakti hai.
+
+**Exam clue:** Measurable goal mein task, assistance level aur timeframe clear rakho.
 
 </details>
 
@@ -986,9 +1018,17 @@ Transfer outcome clear task, assistance level aur deadline define karta hai. Nur
 
 **Correct: D. Assist with routine hygiene within the established plan and report changes**
 
-Routine care trained assistant ko delegate ho sakti hai if patient condition stable hai. Registered nurse assessment, supervision aur evaluation responsibility maintain karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Diagnosis, high-alert infusion adjustment aur clinical interpretation professional nursing judgment maangte hain.
+**A kyun galat hai:** Critical laboratory result interpret karna aur treatment choose karna clinical judgment aur authorized scope maangta hai. Isko routine assistant task ke roop mein delegate nahi karte.
+
+**B kyun galat hai:** High-alert infusion adjust karne se serious drug error ka risk hai. Iske liye appropriate licensure, competency aur authorized order chahiye, routine assistant delegation nahi.
+
+**C kyun galat hai:** New nursing diagnosis banane ke liye assessment data interpret karna padta hai. Yeh professional nursing judgment hai, routine assistant activity nahi.
+
+**D kyun sahi hai:** Stable patient ki established routine hygiene care trained assistant ko policy aur competency ke according delegate ki ja sakti hai. Nurse clear instructions deti hai ki kaunse changes turant report karne hain. Registered nurse appropriate supervision, assessment aur care evaluation ki responsibility retain karti hai.
+
+**Exam clue:** Stable predictable routine task delegate ho sakta hai, clinical judgment aur accountability nahi.
 
 </details>
 
@@ -1376,9 +1416,17 @@ Wheelchair transfer se pehle patient ki strength, balance, weight-bearing status
 
 **Correct: C. Assess neurovascular function and relieve suspected harmful pressure according to protocol**
 
-New neurological symptoms device-related compression ka sign ho sakte hain. Nurse prompt assessment aur safe correction karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Tightening injury worsen kar sakti hai. Delay aur discomfort dismiss karna unsafe hain.
+**A kyun galat hai:** Next scheduled check ka wait karne se time-sensitive nerve ya vascular compromise miss ho sakta hai. Naye symptoms par turant assessment chahiye.
+
+**B kyun galat hai:** Straps aur tight karne se local pressure aur neurovascular injury badh sakti hai.
+
+**C kyun sahi hai:** New weakness, numbness aur pain nerve ya vessel compression ke warning signs ho sakte hain. Nurse distal circulation, sensation, movement aur pain promptly assess karti hai aur harmful pressure protocol ke according relieve karti hai. Severe ya persistent symptoms, especially increasing pain, urgent clinical escalation maangte hain.
+
+**D kyun galat hai:** Pain aur numbness ko necessary rehabilitation discomfort maan lena unsafe hai. New neurological signs ko normal soreness se alag assess karo.
+
+**Exam clue:** Device-related new pain, numbness ya weakness urgent neurovascular concern hai.
 
 </details>
 
@@ -1473,9 +1521,17 @@ Clinical specimen mein infectious material ho sakta hai. Primary container compa
 
 **Correct: A. Respect the refusal and arrange appropriate care without the student**
 
-Patient ko intimate care aur observer participation ke baare mein informed choice ka right hai. Supervisor alternative staff arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Teaching status automatic permission nahi deta. Secret observation privacy breach aur threats coercion hain.
+**A kyun sahi hai:** Patient intimate procedure mein student participation accept ya refuse kar sakta hai. Supervising nurse refusal respect karti hai, privacy maintain karti hai aur qualified staff se necessary care arrange karti hai. Student training patient ki voluntary choice se upar nahi hai.
+
+**B kyun galat hai:** Teaching hospital mein admission lena har student observation ya intimate procedure ki automatic permission nahi hai. Appropriate consent aur institutional policy follow karni chahiye.
+
+**C kyun galat hai:** Student ko secretly observe karwana patient ki privacy aur stated refusal violate karta hai. Nurse appropriate permission ke bina aisa arrangement nahi karti.
+
+**D kyun galat hai:** Necessary treatment rokne ki dhamki patient par unfair pressure dalti hai. Student participation refuse karne ke liye patient ko punish nahi karna chahiye.
+
+**Exam clue:** Clinical teaching aur patient consent alag cheezein hain, aur patient ki dignity har teaching opportunity se pehle aati hai.
 
 </details>
 
@@ -1793,9 +1849,17 @@ Jab final count match nahi hota, toh surgical item missing ho sakta hai. Nurse d
 
 **Correct: B. Spirometry**
 
-Spirometry patient ki inhaled-exhaled air aur flow assess karti hai. Correct coaching aur contraindication check test quality support karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** EEG brain electrical activity, cystoscopy bladder aur audiometry hearing assess karte hain.
+**A kyun galat hai:** Cystoscopy bladder aur urethra ki visualization karti hai. Yeh pulmonary function test nahi hai.
+
+**B kyun sahi hai:** Spirometry mein patient instructed breathing maneuver karta hai aur device air volume aur flow measure karta hai. FEV1 aur FVC jaise measures airflow limitation assess karne mein help karte hain. Nurse contraindications aur correct technique check karti hai. Spirometry residual volume directly measure nahi karti.
+
+**C kyun galat hai:** EEG brain electrical activity record karta hai. Yeh lung volume ya airflow measure nahi karta.
+
+**D kyun galat hai:** Audiometry hearing ability measure karti hai. Ismein breathing maneuver se airflow record nahi hota.
+
+**Exam clue:** Spirometry airflow aur measurable expired volumes assess karti hai, residual volume directly nahi.
 
 </details>
 
@@ -1814,9 +1878,17 @@ Spirometry patient ki inhaled-exhaled air aur flow assess karti hai. Correct coa
 
 **Correct: B. Address immediate needs and reschedule nonurgent education for a more suitable time**
 
-Fatigue concentration aur recall affect kar sakti hai. Nurse essential safety information prioritize aur rest ke baad further teaching plan karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Long lecture aur forced memorization ineffective ho sakte hain. Judgmental labeling barriers address nahi karti.
+**A kyun galat hai:** Patient ko noncompliant label karne se fatigue ka actual barrier address nahi hota. Nurse bina judgment ke pain, sleep, symptoms aur understanding assess karti hai.
+
+**B kyun sahi hai:** Nurse pehle immediate needs aur exhaustion ka reason assess karti hai. Essential safety instructions short aur clear rakhti hai aur understanding check karti hai. Nonurgent education ko aise time reschedule karti hai jab patient alert aur ready ho.
+
+**C kyun galat hai:** Immediate memorization force karne se practical understanding improve hona guaranteed nahi hai. Rest aur short manageable sessions zyada useful ho sakte hain.
+
+**D kyun galat hai:** Exhausted patient ko long lecture dene se important information miss ho sakti hai. Nurse teaching ko readiness aur concentration ke hisaab se adapt karti hai.
+
+**Exam clue:** Teaching ka timing readiness par depend karta hai, lekin urgent safety information unnecessarily postpone nahi karni chahiye.
 
 </details>
 
@@ -1931,9 +2003,17 @@ Eschar dead tissue ki dry dark covering hai. Stable heel eschar dry, adherent au
 
 **Correct: C. Seek supervision or peer support and use appropriate well-being resources while maintaining confidentiality**
 
-Repeated loss emotional stress create kar sakti hai. Confidential debriefing, supervision aur support nurse well-being aur safe care mein help karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Public identifiable sharing confidentiality breach hai. Distress ignore karna care affect kar sakta hai. Support lena appropriate hai.
+**A kyun galat hai:** Distress ignore karte rehne se concentration aur care quality affect ho sakti hai. Timely help lene se patient safety aur nurse ki health dono protect hoti hain.
+
+**B kyun galat hai:** Identifiable patient details public mein share karna confidentiality breach hai. Support ke liye appropriate confidential setting use karni chahiye.
+
+**C kyun sahi hai:** Repeated patient deaths se nurse emotionally affected ho sakti hai. Nurse confidential supervision, peer support ya occupational well-being resources use karti hai. Agar distress care dene ki ability affect kare, toh senior ko inform karke safe support arrange karna professional responsibility hai.
+
+**D kyun galat hai:** Support maangna unprofessional nahi hai. Apni limits recognize karna aur safe care ke liye help lena accountability ka part hai.
+
+**Exam clue:** Confidential professional support nurse well-being aur patient safety ka part hai.
 
 </details>
 
@@ -2407,9 +2487,17 @@ Stairs climb karne ke baad sympathetic response aur increased cardiac demand tem
 
 **Correct: A. Assess bleeding and distal neurovascular status and escalate urgently**
 
-Hematoma ya arterial complication distal perfusion compromise kar sakti hai. Nurse site, pulses, sensation aur vitals assess karke urgent help leti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Massage, repetitive movement aur delay bleeding ya ischemia worsen kar sakte hain.
+**A kyun sahi hai:** Nurse puncture site bleeding aur hematoma, distal pulse, skin colour, temperature, capillary refill, sensation, movement aur vital signs promptly assess karti hai. Urgent clinical help leti hai aur bleeding management protocol follow karti hai, kyunki vascular complication limb ya circulation ko threaten kar sakti hai.
+
+**B kyun galat hai:** Repeated limb movement se puncture site disturb ho sakti hai aur bleeding badh sakti hai. Movement instructions access site aur closure method par depend karti hain.
+
+**C kyun galat hai:** Increasing swelling aur weak distal pulse limb perfusion compromise ka warning sign hai. Discharge tak wait karna unsafe hai.
+
+**D kyun galat hai:** Puncture site par vigorous massage se bleeding aur tissue damage worsen ho sakta hai. Nurse site ko prescribed access-management protocol ke according handle karti hai.
+
+**Exam clue:** Arterial access ke baad expanding swelling aur weak pulse urgent neurovascular assessment maangte hain.
 
 </details>
 
@@ -2564,9 +2652,17 @@ Antibiotics gut ke normal microorganisms ko disturb kar sakti hain. Frequent wat
 
 **Correct: B. Assess immediate safety and arrange urgent mental health support**
 
-Self-harm thoughts immediate safety assessment maangte hain regardless of grief duration. Nurse supportive response aur urgent professional help arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Grief context risk eliminate nahi karta. Isolation aur dismissal unsafe hain.
+**A kyun galat hai:** Recent loss distress explain kar sakta hai, lekin self-harm thoughts ko harmless nahi banata. Nurse concern seriously leti hai.
+
+**B kyun sahi hai:** Self-harm ki baat aur daily functioning mein severe difficulty immediate safety assessment maangti hai. Nurse calmly direct safety questions poochti hai, suitable support arrange karti hai aur urgent mental health ya emergency team ko involve karti hai. Immediate danger ho toh person ko akela nahi chhodna chahiye.
+
+**C kyun galat hai:** Person ko indefinitely akela rakhne se support nahi milta. Immediate risk mein appropriate supervision aur urgent help chahiye.
+
+**D kyun galat hai:** Ordinary grief mein sadness ho sakti hai, lekin self-harm thoughts ko bina assessment normal declare karna unsafe hai. Safety aur support ka plan zaroori hai.
+
+**Exam clue:** Grief ke saath self-harm thoughts aayein toh safety assessment aur urgent support priority hain.
 
 </details>
 
@@ -2621,9 +2717,17 @@ Fluid balance sirf drinking water ka record nahi hai. Liquid medicine, enteral f
 
 **Correct: A. Assess home access, caregiver ability, equipment, skin care and mobility follow-up**
 
-Home mein patient ko transfers, toileting aur skin prevention ke liye practical support chahiye ho sakta hai. Multidisciplinary plan safety aur independence improve karta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unassessed discharge aur unnecessary bed rest risk badhate hain. Exercise list alone all needs address nahi karti.
+**A kyun sahi hai:** Discharge se pehle nurse home access, transfer ability, caregiver capacity aur required equipment assess karti hai. Skin protection, safe mobility aur follow-up ka plan patient aur team ke saath banati hai. Isse avoidable injury aur dependence ka risk kam karne mein madad milti hai.
+
+**B kyun galat hai:** Indefinite bed rest se deconditioning, pressure injury aur dependence badh sakte hain. Activity individual restrictions aur follow-up ke according plan honi chahiye.
+
+**C kyun galat hai:** Exercise list useful ho sakti hai, lekin transfers, equipment aur caregiver support ki needs address nahi karti. Practical teaching aur assessment chahiye.
+
+**D kyun galat hai:** Transfer needs assess kiye bina discharge se patient aur caregiver dono ko injury ka risk ho sakta hai. Safe support arrangement pehle verify karo.
+
+**Exam clue:** Discharge mein function, environment, caregiver aur follow-up saath dekho.
 
 </details>
 
@@ -2923,9 +3027,17 @@ Stridor upper airway mein narrowed passage ke through air movement ki abnormal h
 
 **Correct: A. Stop or pause the test when safe, assess immediate threats and activate appropriate help**
 
-Diagnostic procedure ke dauran bhi acute deterioration possible hai. Nurse patient safety prioritize karti hai aur team ko urgently inform karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Test completion aur delayed documentation assessment replace nahi karte. Adverse events possible hain.
+**A kyun sahi hai:** Agar patient test ke dauran acutely unwell ho, toh nurse test ko safe tareeke se pause ya stop karwati hai. Airway, breathing aur circulation jaise immediate threats assess karti hai aur emergency help activate karti hai. Patient stabilize hone ke baad team further testing ka decision leti hai.
+
+**B kyun galat hai:** Patient deteriorate kar raha ho toh test complete karna safety se zyada important nahi hai. Continued procedure harm worsen kar sakta hai.
+
+**C kyun galat hai:** Diagnostic tests mein bhi adverse reaction, bleeding ya acute deterioration ho sakti hai. Risk ko impossible maan lena unsafe hai.
+
+**D kyun galat hai:** Sirf baad mein symptoms document karne se immediate threat treat nahi hota. Assessment, help aur timely intervention pehle aate hain, phir accurate documentation hoti hai.
+
+**Exam clue:** Diagnostic test ke dauran deterioration mein patient safety aur emergency assessment priority hain.
 
 </details>
 
@@ -3077,9 +3189,17 @@ Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 5
 
 **Correct: C. Accept responsibility for assigned care and accurately report actions and errors**
 
-Accountability mein nurse apne actions aur professional decisions ki responsibility leti hai. Errors report karna aur help seek karna safety support karta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Blame shifting, false record aur scope ignore karna accountability ke opposite hain.
+**A kyun galat hai:** Jo procedure perform nahi hua usko completed record karna false documentation hai. Isse future clinical decisions galat ho sakte hain aur professional accountability violate hoti hai.
+
+**B kyun galat hai:** Next shift ko automatically blame karne se actual error ka cause samajhna mushkil hota hai. Nurse facts aur handover objectively report karti hai.
+
+**C kyun sahi hai:** Accountability ka matlab hai ki nurse apne assigned care, decisions aur actions ki responsibility leti hai. Agar error ho, toh nurse patient ki immediate safety assess karti hai, appropriate team ko inform karti hai aur facts policy ke mutabik accurately document aur report karti hai.
+
+**D kyun galat hai:** Competence limits ignore karne se nurse aisa procedure kar sakti hai jiske liye woh trained ya authorized nahi hai. Accountable nurse help seek karti hai aur apne scope mein practice karti hai.
+
+**Exam clue:** Accountability mein apne actions ki responsibility lena, competence maintain karna aur errors appropriately report karna shamil hai.
 
 </details>
 
@@ -3165,9 +3285,17 @@ Order aur specimen identifiers match na karein toh sample kisi doosre patient ka
 
 **Correct: C. Ensure relevant fasting, medicines, consent and safety requirements are addressed**
 
-Different investigations ki preparation different hoti hai. Nurse procedure-specific instructions verify karke avoidable delay aur risks reduce karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Universal preparation aur automatic drug cancellation inappropriate hain. Department communication still needed hai.
+**A kyun galat hai:** Saari medicines automatically cancel karna unsafe ho sakta hai. Medicine hold ya continuation authorized order aur procedure requirements ke according decide hoti hai.
+
+**B kyun galat hai:** Preparation checklist communication ka replacement nahi hai. Receiving team ko current patient status aur unresolved concerns batana zaroori hai.
+
+**C kyun sahi hai:** Har diagnostic procedure ka preparation plan alag ho sakta hai. Nurse relevant fasting, medicine instructions, consent status, allergy history aur safety checks transport se pehle verify karti hai. Agar kuch unclear ho toh receiving team se clarify karti hai.
+
+**D kyun galat hai:** Har procedure ke liye same preparation use karne se unnecessary fasting ya missed safety requirements ho sakte hain. Procedure-specific instructions chahiye.
+
+**Exam clue:** Procedure-specific preparation aur safe handover dono zaroori hain.
 
 </details>
 
@@ -3228,9 +3356,17 @@ Pressure injury prevention ka result patient ki tissue condition se measure hota
 
 **Correct: A. Recognize the change, reassess priorities, escalate as indicated and revise the plan**
 
-Nursing process dynamic hai aur patient status change hone par priorities adjust karni hoti hain. Deterioration prompt reassessment aur appropriate escalation maangti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Ineffective plan continue karna, false documentation aur delay patient safety compromise karte hain.
+**A kyun sahi hai:** Nursing process mein evaluation se pata chalta hai ki intervention ka expected benefit mila ya nahi. Jab patient deteriorate kare, nurse immediate threats assess karti hai, priorities dobara decide karti hai aur needed help activate karti hai. Current findings aur treatment response ke according care plan revise aur document hota hai.
+
+**B kyun galat hai:** Next shift ka wait karne se deterioration worsen ho sakti hai. Current nurse ko new changes assess aur escalate karne chahiye.
+
+**C kyun galat hai:** Patient deteriorate ho raha hai toh original plan effective nahi ho sakta. Findings ignore karke same intervention continue karna unsafe hai.
+
+**D kyun galat hai:** Goal meet nahi hua toh achieved document karna inaccurate hai. Actual findings aur patient response record karne se team correct decisions le sakti hai.
+
+**Exam clue:** Clinical judgment mein evaluation ke baad zaroorat padne par reassessment aur revised plan hota hai.
 
 </details>
 
@@ -3378,9 +3514,17 @@ Enteral feed tolerance assess karte waqt patient ke symptoms important hote hain
 
 **Correct: C. Use appropriate supports and regular individualized repositioning**
 
-Supports neutral alignment aur pressure distribution mein help kar sakte hain. Position aur skin response regularly evaluate karne chahiye.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Extreme posture aur hard objects pressure-contracture risk badhate hain. Reassessment important hai.
+**A kyun galat hai:** Pillow lagane ke baad bhi alignment aur skin response badal sakta hai. Nurse reassess karti hai ki support harmful pressure toh nahi bana raha.
+
+**B kyun galat hai:** Continuous extreme flexion se soft tissue shortening aur pressure injury ka risk badh sakta hai. Positioning clinically appropriate honi chahiye.
+
+**C kyun sahi hai:** Suitable pillows ya supports limbs ko proper alignment mein rakhne mein help karte hain. Individualized repositioning sustained pressure aur stiffness ka risk kam kar sakti hai. Nurse condition, skin aur restrictions dekhkar plan adjust karti hai.
+
+**D kyun galat hai:** Bony prominences ke neeche hard objects concentrated pressure create kar sakte hain. Suitable pressure redistribution aur support use karo.
+
+**Exam clue:** Alignment ke saath pressure relief aur regular reassessment zaroori hain.
 
 </details>
 
@@ -3579,9 +3723,17 @@ Pain relief na milna evaluation ka important finding hai. Nurse pain location, s
 
 **Correct: C. Assess the patient, activate appropriate urgent clinical management and report accurately**
 
-Dose error severe ya delayed effects cause kar sakta hai. Nurse patient assessment aur timely management prioritize karti hai, then accurate reporting complete karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Paperwork first care delay kar sakti hai. Concealment unsafe hai. Future dose changes clinician review se honi chahiye.
+**A kyun galat hai:** High-alert medicine ka double dose patient ko abhi symptoms na hone par bhi delayed harm de sakta hai. Error hide karne se monitoring aur timely treatment miss ho sakte hain.
+
+**B kyun galat hai:** Future doses indefinitely skip karna bhi harm kar sakta hai, kyunki underlying illness untreated reh sakti hai. Next dose ka decision authorized clinician current assessment se karta hai.
+
+**C kyun sahi hai:** Nurse turant patient assess karti hai, medicine ka name, actual dose, time aur route verify karti hai aur appropriate urgent clinical help activate karti hai. High-alert medicine mein required monitoring aur treatment drug-specific protocol ke according hota hai. Patient safety ke saath factual documentation, notification aur institutional error reporting bhi complete karti hai.
+
+**D kyun galat hai:** Paperwork important hai, lekin first priority patient ki condition aur urgent treatment hai. Documentation emergency response ko delay nahi karni chahiye.
+
+**Exam clue:** Medication error mein pehle patient safety, phir accurate reporting aur follow-up.
 
 </details>
 
@@ -3706,9 +3858,17 @@ Documentation future assessment aur traceability support karti hai. Site/lateral
 
 **Correct: C. Disclose and manage the conflict according to policy and prioritize the patient's interests**
 
-Conflict patient-centered judgment influence kar sakta hai. Transparency aur policy compliance ethical care protect karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Concealment, personal gain aur pressure patient trust compromise karte hain.
+**A kyun galat hai:** Personal gain ke liye recommendation dene se nurse ka clinical judgment bias ho sakta hai. Patient ki safety aur benefit primary consideration rehna chahiye.
+
+**B kyun galat hai:** Financial benefit conceal karne se potential bias patient aur institution se hidden rahega. Transparent process aur policy compliance professional trust protect karte hain.
+
+**C kyun sahi hai:** Conflict of interest tab hota hai jab personal financial benefit professional judgment influence kar sakta hai. Nurse applicable policy ke mutabik conflict disclose aur manage karti hai, zaroorat par recommendation se khud ko alag karti hai aur patient ke interest ko priority deti hai.
+
+**D kyun galat hai:** Immediately purchase karne ka pressure patient ki voluntary informed choice ko undermine karta hai. Nurse relevant options ko fairly explain karti hai.
+
+**Exam clue:** Patient ka interest personal profit se upar hai, aur sirf disclosure har conflict ko automatically resolve nahi karta.
 
 </details>
 
