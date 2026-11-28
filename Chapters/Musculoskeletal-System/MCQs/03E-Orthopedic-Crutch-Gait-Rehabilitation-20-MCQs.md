@@ -178,30 +178,30 @@
 
 </details>
 
-### Q07. A patient who has practiced partial-weight-bearing walking on a dry floor encounters a wet, slippery corridor. Which action best preserves the rehabilitation plan safely?
+### Q07. During rehabilitation after lower-limb fixation, a patient tolerates a short level-ground non-weight-bearing crutch walk. Why should the team separately assess exertion during prescribed stair training?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Increase stride length to cross quickly
-- **B.** Wait for a dry safe route or arrange assisted alternative transport
-- **C.** Use the same technique without reassessment because the floor cannot alter load
-- **D.** Place one crutch on the wet area and deliberately skid it forward
+- **A.** Stair ascent necessarily requires less metabolic energy because the walking distance is shorter
+- **B.** Non-weight-bearing crutch stair ascent may impose a greater metabolic demand than level-ground crutch walking
+- **C.** Upper-limb support removes the metabolic demand of raising the body on stairs
+- **D.** A fixed stair-to-level-walking energy ratio can be assumed for every patient
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Wait for a dry safe route or arrange assisted alternative transport**
+**Correct answer: B. Non-weight-bearing crutch stair ascent may impose a greater metabolic demand than level-ground crutch walking**
 
-**A kyun galat hai:** Long strides balance demands increase kar sakte hain. Slippery surface par quick crossing appropriate safety strategy nahi hai.
+**A kyun galat hai:** Sirf distance se exercise ki energy demand decide nahi hoti. Stairs par body ko upar le jaane ke liye additional work karna padta hai.
 
-**B kyun sahi hai:** Wet surface ferrule friction reduce kar sakti hai. Dry route ya suitable alternate transport fall aur unintended limb loading prevent karta hai.
+**B kyun sahi hai:** Healthy adults par ki gayi research mein non-weight-bearing crutch stair ascent ki energy demand level walking se zyada mili. Patient ki actual tolerance pain, fitness, comorbidities aur prescribed technique par depend karti hai. Isliye cleared stair training ke dauran team exertion aur symptoms separately assess karegi.
 
-**C kyun galat hai:** Surface conditions gait control influence karti hain. Prescribed load maintain karne ke liye environmental risk assess karna chahiye.
+**C kyun galat hai:** Crutches par upper limbs aur trunk bhi actively kaam karte hain. Injured leg ko unload karne se poori body ki metabolic demand khatam nahi hoti.
 
-**D kyun galat hai:** Deliberate skid support stability remove karta hai. Crutch tip ko secure non-slip contact chahiye.
+**D kyun galat hai:** Study ke average result ko har patient ke liye fixed ratio nahi bana sakte. Individual clinical assessment aur graded training zaroori hai.
 
-**Exam clue:** Surface condition matters even when the patient has mastered the gait indoors.
+**Exam clue:** Level-ground crutch tolerance stair tolerance ki guarantee nahi hai. Stair ascent ki metabolic demand alag assess karo.
 
-**Clinical reference:** [Gloucestershire NHS how to use crutches](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/how-use-crutches/). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [Energy expenditure of non-weight-bearing crutch walking on the level and ascending stairs](https://pubmed.ncbi.nlm.nih.gov/25891530/). Healthy adult research, not an individual exercise prescription.
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -381,30 +381,30 @@
 
 </details>
 
-### Q14. A patient with a non-weight-bearing prescription has painful wrist arthritis and cannot tolerate the force required through ordinary crutch handgrips. What is the best next step?
+### Q14. After repeated forearm-crutch walking, a patient develops new tingling in the little finger and the adjacent half of the ring finger. Which nerve distribution should the nurse recognize and report for assessment?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Select the smallest crutches available regardless of fit
-- **B.** Request reassessment for an appropriate alternative aid or modified support system
-- **C.** Tell the patient to increase injured-leg loading independently
-- **D.** Require continued crutch use despite inability to unload the injured limb
+- **A.** Median nerve distribution
+- **B.** Ulnar nerve distribution
+- **C.** Musculocutaneous nerve distribution
+- **D.** Axillary nerve distribution
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Request reassessment for an appropriate alternative aid or modified support system**
+**Correct answer: B. Ulnar nerve distribution**
 
-**A kyun galat hai:** Small crutches incorrect posture aur instability create kar sakti hain. Device type aur fit patient needs ke according select hote hain.
+**A kyun galat hai:** Median nerve ki typical hand sensory distribution thumb, index, middle aur ring finger ke radial half mein hoti hai. Little finger aur ring finger ke ulnar half ka pattern median nerve ke liye typical nahi hai.
 
-**B kyun sahi hai:** Therapist upper-limb function, balance aur restriction assess karke suitable walker, supported device ya wheelchair alternative consider kar sakta hai.
+**B kyun sahi hai:** Little finger aur ring finger ke adjacent ulnar half mein tingling ulnar nerve involvement ka clue ho sakti hai. Forearm crutch cuff ya hand support se compression-related symptoms report hue hain. Nurse new symptoms ko document kare, safe support arrange kare aur clinical/device assessment karwaye. Sirf symptom distribution se compression ki exact location confirm nahi hoti.
 
-**C kyun galat hai:** Loading restriction surgical plan se decide hoti hai. Wrist problem ki wajah se injured limb load independently increase nahi karna chahiye.
+**C kyun galat hai:** Musculocutaneous nerve ki cutaneous branch mainly lateral forearm ki sensation supply karti hai. Yeh isolated little aur ring finger pattern ko explain nahi karti.
 
-**D kyun galat hai:** Crutch gait upper-limb capacity par depend karti hai. Painful grip unloading ability aur safety reduce kar sakti hai.
+**D kyun galat hai:** Axillary nerve upper lateral shoulder ke sensory area se related hai. Little aur ring fingers ki sensory complaint uska characteristic pattern nahi hai.
 
-**Exam clue:** Crutch prescription is unsuitable if the patient cannot safely generate required upper-limb support.
+**Exam clue:** Little finger aur adjacent ring-finger half ki paresthesia ulnar nerve involvement ka clue hai, exact lesion location ka proof nahi.
 
-**Clinical reference:** [Cleveland Clinic crutches](https://my.clevelandclinic.org/health/treatments/15543-how-to-use-crutches). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [AAOS ulnar tunnel syndrome](https://www.orthoinfo.org/bodypart/hand-wrist/ulnar-tunnel-syndrome-of-the-wrist/) and [Injuries Associated with Crutch Use: A Narrative Review](https://pubmed.ncbi.nlm.nih.gov/33094912/).
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -555,30 +555,30 @@
 
 </details>
 
-### Q20. During discharge teach-back, a patient correctly describes the prescribed crutch gait but demonstrates repeated loss of balance during the actual walking trial. Which conclusion is appropriate?
+### Q20. During follow-up after a lower-limb fracture, the rehabilitation team records Lower Extremity Functional Scale (LEFS) scores of 28/80 at baseline and 45/80 later. What is the correct interpretation of the score direction?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** The patient should practice alone at home until balance improves
-- **B.** Discharge equipment can be removed because the patient knows the steps
-- **C.** Further supervised functional training or an alternate safe mobility plan is needed before independent use
-- **D.** Verbal recall alone establishes independent mobility clearance
+- **A.** The patient reports worse lower-limb function
+- **B.** The score proves that the fracture has united radiographically
+- **C.** The patient reports better lower-limb function
+- **D.** The score alone authorizes unrestricted weight bearing
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Further supervised functional training or an alternate safe mobility plan is needed before independent use**
+**Correct answer: C. The patient reports better lower-limb function**
 
-**A kyun galat hai:** Repeated balance loss unsupervised practice mein fall aur restricted limb injury risk create karti hai. Supervision ya alternative plan safer hai.
+**A kyun galat hai:** LEFS mein higher score generally better reported function represent karta hai. Yahan score badha hai, isliye direction deterioration nahi dikhati.
 
-**B kyun galat hai:** Equipment removal support reduce kar sakta hai. Device selection actual functional ability ke according reassess hota hai.
+**B kyun galat hai:** LEFS patient ki reported activity difficulty assess karta hai. Bone union confirm karne ke liye appropriate clinical aur radiographic assessment chahiye.
 
-**C kyun sahi hai:** Demonstrated competence independent use ke liye important hai. Therapist balance, strength, gait aur environmental needs reassess karke appropriate plan arrange karta hai.
+**C kyun sahi hai:** LEFS ka total score 0 se 80 tak hota hai aur higher score better reported lower-limb function dikhata hai. 28 se 45 tak increase improvement ki direction batata hai. Clinical significance aur individual recovery ko doosri findings ke saath interpret karna chahiye.
 
-**D kyun galat hai:** Instructions verbally repeat karna knowledge demonstrate karta hai, but actual performance safety separate hai. Balance loss ko ignore nahi karna chahiye.
+**D kyun galat hai:** Functional score better hone se surgical loading restriction automatically cancel nahi hoti. Weight-bearing progression treating team ke documented plan se decide hoti hai.
 
-**Exam clue:** Crutch education requires observed safe performance, not verbal recall alone.
+**Exam clue:** LEFS mein higher score better patient-reported function hota hai. Yeh bone union ya weight-bearing clearance test nahi hai.
 
-**Clinical reference:** [MedlinePlus using crutches](https://medlineplus.gov/ency/patientinstructions/000344.htm). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [RehabMeasures Database — Lower Extremity Functional Scale](https://www.sralab.org/rehabilitation-measures/lower-extremity-functional-scale) and [LEFS measurement properties in lower-extremity fracture patients](https://pmc.ncbi.nlm.nih.gov/articles/PMC8800956/).
 
 **YouTube MCQ practice:** Verification pending.
 
