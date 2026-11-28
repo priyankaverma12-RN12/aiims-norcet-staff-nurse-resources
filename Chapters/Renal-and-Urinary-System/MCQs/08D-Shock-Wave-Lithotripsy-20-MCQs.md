@@ -377,28 +377,32 @@ Shock waves renal haematoma ya bleeding kar sakti hain, pain with hypotension po
 
 </details>
 
-### Q16. A patient discharged after SWL has a prescribed fluid plan because of heart failure. What advice is safest?
+### Q16. During SWL for a renal stone, the treating team starts at a lower shock-wave energy and increases it gradually according to the treatment protocol. What is the main protective purpose of this technique?
 
 **Difficulty:** Medium | **Topic:** Shock wave lithotripsy | **Priority:** High | **Type:** Original practice
 
-- **A.** Follow the individualized fluid limit and discuss stone-fragment care with the team
-- **B.** Ignore the prescribed limit and drink unlimited water
-- **C.** Stop drinking completely until all fragments pass
-- **D.** Follow the same fluid target as every other lithotripsy patient
+- **A.** Reduce shock-wave-related injury to renal tissue
+- **B.** Increase shock-wave frequency to shorten treatment time
+- **C.** Replace the need for stone localization during treatment
+- **D.** Prevent all obstruction from residual stone fragments after treatment
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Follow the individualized fluid limit and discuss stone-fragment care with the team**
+**Correct: A. Reduce shock-wave-related injury to renal tissue**
 
-Heart failure mein excessive fluid overload cause kar sakta hai, isliye stone advice ko prescribed cardiac fluid plan ke saath reconcile karna chahiye.
+SWL mein focused shock waves stone ko todti hain, lekin aas-paas ke renal tissue ko bhi injury ho sakti hai. Lower energy se shuru karke protocol ke according stepwise energy badhane se renal injury ka risk kam karne mein madad milti hai. Nurse ko treatment plan aur monitoring follow karni chahiye, aur energy settings authorized treating team ke control mein rehni chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Unlimited intake heart failure worsen kar sakti hai.
-- **C.** Complete fluid avoidance dehydration aur concentrated urine ka risk badhata hai.
-- **D.** Har patient ka safe target comorbidities aur orders par depend karta hai.
+- **B.** Shock-wave frequency ka matlab ek unit time mein di gayi shocks ki sankhya hai. Energy ramping alag parameter hai, isliye ise shock frequency badhane ya treatment jaldi khatam karne ke barabar nahi samajhna chahiye.
+- **C.** Stone ki position ko imaging se check karna ab bhi important hai, kyunki energy ko correct target par focus karna hota hai. Gradually energy badhane se imaging ki zaroorat khatam nahi hoti.
+- **D.** Energy ramping renal tissue ki protection mein help karti hai, lekin bache hue fragments ke ureter mein atakne ka risk poori tarah khatam nahi karti. Isliye symptoms aur planned follow-up ko ignore nahi karna chahiye.
 
-**Exam clue:** Post-SWL hydration advice must respect fluid restrictions.
+**Exam clue:** Stepwise power ramping ka protective goal renal tissue injury kam karna hai, na ki post-treatment obstruction ko guarantee ke saath rokna.
+
+**Clinical reference:** [EAU Guidelines on Urolithiasis, SWL evidence and recommendations, section 3.4.5.a](https://uroweb.org/guidelines/urolithiasis/chapter/guidelines).
+
+**YouTube MCQ practice:** Specific item verification pending.
 
 </details>
 
