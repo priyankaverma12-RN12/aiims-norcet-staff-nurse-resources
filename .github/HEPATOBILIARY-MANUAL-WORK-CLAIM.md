@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: FREE
-Owner: none
-Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: continuation-pr60-b09-20261128T122200Z
+Scope: PR60 isolated new autoimmune pancreatitis and acute hepatitis A banks, remaining distinct topics only after screening and scope confirmation. No existing content or shared navigation edits.
+Claimed UTC: 2026-11-28T12:22:00Z
+Expiry UTC: 2026-11-28T12:52:00Z
 
 ## Released checkpoint — 28 November 2026
 
