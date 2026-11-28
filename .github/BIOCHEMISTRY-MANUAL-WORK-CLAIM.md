@@ -1,10 +1,10 @@
 # Biochemistry and Pathology manual work claim
 
-State: CLAIMED
-Owner: biochemistry-batch03-20261128-0603Z
-Scope: Existing PR42 branch only, Biochemistry and Pathology new candidate topic banks, Batch 01 concepts and diagrams and chapter-local checkpoint. No shared navigation, other chapter, website or automation edits.
-Claimed UTC: 2026-11-28T06:02:50Z
-Expiry UTC: 2026-11-28T06:32:50Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: four original starter slots, one separate reported HPSSC adaptation, zero full mocks. Target five topics x 20 originals per batch, then ten original-only 120-item mocks in pairs, then remaining sourced PYQs. Full independent audit and reconciliation required before merge.
 
@@ -15,3 +15,7 @@ Reserved authoring branch and draft PR #42 (https://github.com/priyankaverma12-R
 ## Batch 02 released checkpoint
 
 PR42 branch 0de512f45cffee27cb947a0dd9321889a63722a0 exact readback verified. 200 new staged originals and 800 rationales, four legacy originals, one reported adaptation, two new concept guides and two SVGs. 205 unique normalized chapter stems, 18 overlapping candidate objectives replaced. PR7/8 coordination comments 7235006852 and 7235007091 pending acknowledgment. No live publication, full clinical and semantic audits and curriculum gaps remain. Continue same branch only. All other claims and scheduled jobs preserved.
+
+## Batch 03 released checkpoint
+
+PR42 branch 3d5348134f4f0bd7f6713cf375438f5004f0536d exact checkpoint readback verified. 300 staged originals and 1,200 individual rationales, four unchanged legacy originals, one reported adaptation, six concept guides and six SVGs. 305 normalized chapter stems distinct. Prior ten bank blobs preserved. INC extracted text mapped, screenshot cache misses. PR7/8 comments 7235142418/7235142733 and PR30 comment 7235143042 pending acknowledgment. Full independent clinical/semantic review, remaining INC scope, item sources/videos and live integration pending. No main study content or other jobs/schedules changed. Resume existing branch only.
