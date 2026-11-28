@@ -1,6 +1,10 @@
 # Nursing Research and Statistics — isolated work checkpoint
 
-State: RELEASED (CANDIDATE ONLY)
+State: CLAIMED (CANDIDATE ONLY)
+Owner: nursing-research-batch07-20261128-0734Z
+Claimed UTC: 2026-11-28T07:34:40Z
+Expiry UTC: 2026-11-28T08:04:40Z
+Current scope: banks 05 and 06 candidate-only corrective review
 Last owner: nursing-research-batch06-20261128-0729Z
 Prior claim UTC: 2026-11-28T07:29:39Z
 Prior expiry UTC: 2026-11-28T07:59:39Z
