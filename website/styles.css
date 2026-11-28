@@ -143,3 +143,6 @@ html[data-theme=dark]{color-scheme:dark;--bg:#101e23;--paper:#192b31;--ink:#eaf4
 .metric-tile .mock-question-total{font-weight:650;color:var(--ink)}.metric-tile .mock-draft-total{margin-top:.25rem}
 @media(max-width:600px){.study-tag{font-size:.69rem!important}.study-labels{gap:.23rem}.metric-chips{gap:.25rem}}
 @media(prefers-reduced-motion:no-preference){.tracked-resource-card .study-tag[data-role=status]{transition:background-color .2s,color .2s,border-color .2s}}
+
+/* Daily progress: distinguish real answers from self-reported completion. */
+.daily-count-breakdown{display:flex;gap:.35rem .8rem;flex-wrap:wrap;margin-top:.55rem;font-size:.75rem;color:var(--muted);line-height:1.45}.daily-count-breakdown span{overflow-wrap:anywhere}.daily-count-breakdown span+span{border-left:1px solid var(--line);padding-left:.8rem}@media(max-width:600px){.daily-count-breakdown{display:grid;gap:.2rem}.daily-count-breakdown span+span{border:0;padding:0}}
