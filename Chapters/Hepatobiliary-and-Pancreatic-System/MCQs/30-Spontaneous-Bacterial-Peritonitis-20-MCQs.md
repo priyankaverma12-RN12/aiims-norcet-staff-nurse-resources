@@ -254,28 +254,28 @@
 
 </details>
 
-### Q11. A patient receiving prescribed SBP albumin develops new crackles and increasing oxygen requirement. What is the most appropriate nursing response?
+### Q11. Which newly diagnosed SBP patient has particularly strong evidence of benefit from adjunct intravenous albumin under AASLD 2021 guidance?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Pause and promptly escalate for respiratory and volume assessment according to protocol
-- **B.** Increase albumin delivery automatically
-- **C.** Ignore oxygenation until the next creatinine test
-- **D.** Administer additional fluid solely because the patient has ascites
+- **A.** A patient with acute kidney injury and substantial jaundice
+- **B.** A patient with normal renal function and no jaundice, selected solely because of age
+- **C.** A patient without SBP who has uncomplicated stable ascites
+- **D.** A patient selected solely because the ascitic culture is monomicrobial
 
 <details><summary>Answer aur explanation dekho</summary>
 
-**Correct: A. Pause and promptly escalate for respiratory and volume assessment according to protocol**
+**Correct: A. A patient with acute kidney injury and substantial jaundice**
 
 **Option-wise explanation:**
-- **A (Sahi):** Albumin intravascular expansion kar sakti hai aur susceptible patient mein pulmonary congestion ka risk ho sakta hai. New hypoxia urgent assessment maangti hai.
-- **B (Galat):** More albumin congestion worsen kar sakti hai, pehle clinical review zaroori hai.
-- **C (Galat):** Respiratory deterioration kidney lab se pehle urgent priority hai.
-- **D (Galat):** Ascites total body fluid aur effective circulation dono ko complicate karti hai, automatic fluid escalation safe nahi hai.
+- **A (Sahi):** SBP ke saath AKI aur severe jaundice high-risk features hain. AASLD guidance mein aise patients albumin se particularly benefit kar sakte hain, volume tolerance aur prescribed regimen ko monitor karna chahiye.
+- **B (Galat):** Age alone adjunct albumin benefit ka established high-risk criterion nahi hai. Renal aur hepatic severity bhi assess karo.
+- **C (Galat):** Uncomplicated ascites mein albumin ki indication specific clinical context se decide hoti hai. SBP evidence ko automatically apply nahi karte.
+- **D (Galat):** Monomicrobial culture infection ka microbiological clue hai, lekin albumin benefit stratification renal aur hepatic dysfunction se related hai.
 
-**Exam clue:** Monitor albumin tolerance as well as renal benefit.
+**Exam clue:** Identify high-risk SBP features rather than repeating general albumin adverse-effect monitoring.
 
-**Clinical reference:** [AASLD SBP guidance](https://doi.org/10.1002/hep.31884). **YouTube MCQ practice:** specific verification pending.
+**Clinical reference:** [Clinical guidance](https://doi.org/10.1002/hep.31884). **YouTube MCQ practice:** specific verification pending.
 
 </details>
 
