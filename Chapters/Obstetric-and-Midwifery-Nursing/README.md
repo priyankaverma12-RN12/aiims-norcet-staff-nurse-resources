@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 564 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 584 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -31,6 +31,7 @@
 | Normal labour physiology | [Detailed concepts and flowcharts](Concepts/07A-Normal-Labour-Physiology.md) · [20 original MCQs](MCQs/07A-Normal-Labour-Physiology-20-MCQs.md) · [Exam and video evidence gaps](Previous-Year-Questions/07A-Labour-Physiology-Evidence-and-Research-Gaps.md) |
 | Signs and onset of labour | [Detailed concepts and diagrams](Concepts/07B-Signs-and-Onset-of-Labour.md) · [20 original MCQs](MCQs/07B-Signs-and-Onset-of-Labour-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07B-Signs-and-Onset-of-Labour-Evidence.md) |
 | Stages of labour | [Detailed concepts and diagrams](Concepts/07C-Stages-of-Labour.md) · [20 original MCQs](MCQs/07C-Stages-of-Labour-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07C-Stages-of-Labour-Evidence.md) |
+| Powers of labour | [Detailed concepts and flowcharts](Concepts/07D-Powers-of-Labour.md) · [20 original MCQs](MCQs/07D-Powers-of-Labour-20-MCQs.md) · [Exam evidence](Previous-Year-Questions/07D-Powers-of-Labour-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -131,3 +132,8 @@ Is topic mein 20 naye original MCQs aur 80 individual explanations hain. Ab Obst
 
 ## Stages of labour — 28 November 2026
 Is topic mein 20 naye original MCQs aur 80 individual explanations hain. Ab Obstetrics mein 564 indexed originals hain. WHO, ACOG aur NICE ke alag thresholds ko clear kiya gaya hai. Remaining independent audit aur video gaps evidence file mein hain.
+
+
+## Powers of labour — 28 November 2026
+
+Ab primary aur secondary powers, uterine activity assessment, MVU aur safe pushing support ke 20 naye original MCQs publish hue hain. Har option ka separate Roman Hinglish explanation hai. Concepts mein do original Mermaid diagrams hain. Obstetrics mein 584 original questions aur 25 historical adaptations hain. Koi new historical adaptation count nahi ki gayi hai. Passenger aur passage ke separate topic banks next hain. Independent clinical, comprehensive semantic, exact video aur rendered UI review pending hai.
