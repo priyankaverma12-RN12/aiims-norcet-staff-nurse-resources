@@ -29,7 +29,7 @@ function resourceMeta(p,sourceHeading='',slots=null){
  if(!isFolder&&(!title||/^(?:README|MCQs?|Theory|Notes|Questions|Index|Practice|Mock test|Study resource|Day\s*\d+|(?:Topic[- ]wise )?(?:Practice )?(?:MCQs|Questions))$/i.test(title)))title=filename.replace(/\s+\d[\d,]*\s+(?:MCQs?|questions?|slots?)$/i,'').trim()||chapter;
  // Preserve day labels, question ranges and evidence distinctions; no invented topic names.
  title=titleCaseFirst(title);
- const subtitle=[type,Number.isInteger(slots)&&slots>0?slots.toLocaleString('en-IN')+' question slots':''].filter(Boolean).join(' · ');
+ const subtitle=[type,Number.isInteger(slots)&&slots>0?slots.toLocaleString('en-IN')+(slots===1?' question':' questions'):''].filter(Boolean).join(' · ');
  return {title,chapter,type,subtitle,sourceTitle:cleanTitle(sourceHeading),draft,slots:Number.isInteger(slots)?slots:null};
 }
 if(typeof module!=='undefined')module.exports={cleanTitle,resourceMeta};

@@ -99,3 +99,25 @@ html[data-theme=dark]{color-scheme:dark;--bg:#101e23;--paper:#192b31;--ink:#eaf4
 @media(prefers-reduced-motion:no-preference){.completion-meter::-webkit-progress-value{transition:width .2s ease-out}.completion-resource{transition:background-color .18s,border-color .18s}}
 
 .completion-control input:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.completion-chapter-actions .completion-reset{color:var(--muted)}
+
+/* V9.1 — persistent bank coverage, separate from current session score. */
+.quiz-bank-progress{margin:.7rem 0 1rem;padding:.8rem .95rem;border:1px solid var(--line);border-radius:12px;background:var(--bg);display:grid;gap:.35rem}
+.quiz-bank-progress-line{display:flex;justify-content:space-between;align-items:center;gap:.6rem;font-size:.89rem}.quiz-bank-progress-line strong:last-child{color:var(--accent);font-variant-numeric:tabular-nums;font-size:1.12rem}.quiz-bank-progress small{font-size:.74rem;color:var(--muted)}.quiz-bank-progress>a{font-size:.78rem;font-weight:650;width:fit-content;min-height:32px;align-content:center}.quiz-bank-progress.is-completed{background:var(--accent-bg);border-color:var(--accent)}.quiz-bank-progress.is-completed .quiz-bank-progress-line{color:var(--good)}
+@media(max-width:600px){.quiz-bank-progress{padding:.65rem .75rem;margin:.55rem 0 .8rem}.quiz-bank-progress>a{min-height:44px}}
+
+/* V9.2 — consistent inventory and completion controls wherever resources are listed. */
+.resource-question-count{display:block;font-size:.73rem;color:var(--accent);font-weight:650;line-height:1.45;overflow-wrap:anywhere;margin:.25rem 0 0}
+.chapter-links a{display:flex;flex-direction:column;align-items:flex-start;justify-content:center;gap:.15rem;min-width:0;white-space:normal;flex:1 1 42%}.chapter-links .resource-question-count{font-size:.65rem;margin:0}
+.chapter-card-progress{border-top:1px solid var(--line);padding:.65rem .9rem;display:grid;gap:.35rem}.chapter-card-progress>a{font-size:.76rem;font-weight:650;min-height:44px;align-content:center;width:fit-content}
+.tracked-resource-card{border:1px solid var(--line);background:var(--paper);border-radius:12px;min-width:0;display:flex;flex-direction:column;overflow:hidden;margin:.45rem 0}
+.tracked-resource-card.is-completed{border-color:var(--accent)}.tracked-resource-card>a{border:0!important;border-radius:0!important;margin:0!important;box-shadow:none!important;flex:1;min-width:0}
+.tracked-resource-card .tracked-resource-status{padding:.55rem .75rem .35rem;border-top:1px solid var(--line);display:grid;gap:.35rem;background:var(--bg)}
+.tracked-resource-line{display:flex;align-items:center;justify-content:space-between;gap:.5rem;font-size:.73rem;color:var(--muted);line-height:1.4}.tracked-resource-line>strong{color:var(--accent);font-size:.86rem;white-space:nowrap;font-variant-numeric:tabular-nums}
+.tracked-resource-status .completion-control{gap:.45rem}.tracked-resource-status .completion-check{font-size:.8rem}.tracked-resource-status .completion-reset{font-size:.72rem;min-height:44px}.tracked-resource-card.is-completed .tracked-resource-status{background:var(--accent-bg)}
+.metric-records>.tracked-resource-card,.recent-grid>.tracked-resource-card,.index-link-list>.tracked-resource-card{margin:0}.tracked-resource-card .metric-record{min-height:88px}
+.study-ui .index-link-list .tracked-resource-card>a{padding:.7rem .8rem}.study-ui .tracked-resource-status input{width:20px;min-height:0;padding:0}.study-ui .tracked-resource-status label{margin:0}.reader-progress-link{display:inline-block;font-size:.8rem;min-height:44px;align-content:center}
+@media(max-width:600px){.tracked-resource-card .tracked-resource-status{padding:.45rem .65rem .25rem}.chapter-links a{flex-basis:42%}.chapter-card-progress{padding:.55rem .85rem}.tracked-resource-line{font-size:.72rem}}
+
+.tracked-resource-card .completion-check input{min-height:0;padding:0}.chapter-links a>.resource-question-count{white-space:normal}.chapter-card .chapter{min-width:0}.chapter-card .chapter>div{min-width:0}
+
+.study-week-note{font-size:.8rem;color:var(--muted);margin:.15rem 0 .85rem}.mistakes-start{border-color:var(--accent);color:var(--accent)}.mistakes-action{border-color:var(--line)}.study-ui .compact-index input[type=checkbox]{width:20px;min-height:0;padding:0}.quiz-bank-progress small,.tracked-resource-line{overflow-wrap:anywhere}

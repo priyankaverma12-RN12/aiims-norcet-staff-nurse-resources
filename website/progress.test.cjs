@@ -11,3 +11,14 @@ assert.equal(completionState({...records.find(x=>x.path===p),slots:21},marks,rou
 clearScope(marks,routine,[p]);assert.equal(marks[p],undefined);assert.equal(routine.banks[p],undefined);assert(routine.banks[m]);assert.deepEqual(routine.days,{today:{[p]:['a']}});
 assert.equal(completionSummary(records,marks,routine).covered,1);
 console.log('Completion tracking, resource percentages, question coverage, changed bank detection and scoped reset tests passed.');
+
+const keyRecord={path:p,slots:2,scoreable:2,questionKeys:['a','b'],signature:'v1'};
+let checked={banks:{[p]:{questions:{a:{},b:{},obsolete:{}}}}};
+assert.equal(completionState(keyRecord,{},checked).automatic,true);
+assert.equal(completionState(keyRecord,{},checked).checked,2);
+assert.equal(completionState({...keyRecord,questionKeys:['a','c'],signature:'v2'}, {},checked).done,false);
+assert.equal(completionState({...keyRecord,slots:3}, {},checked).done,false);
+assert.equal(completionState(keyRecord,{[p]:{mode:'pending',slots:2}},checked).done,false);
+assert.equal(completionState({...keyRecord,signature:'v2'},{[p]:{slots:2,signature:'v1'}},{banks:{}}).changed,true);
+assert.equal(completionState({...keyRecord,questionKeys:['a','a']},{},checked).done,false);
+console.log('Automatic completion, exact current-question matching, manual override and changed-source tests passed.');

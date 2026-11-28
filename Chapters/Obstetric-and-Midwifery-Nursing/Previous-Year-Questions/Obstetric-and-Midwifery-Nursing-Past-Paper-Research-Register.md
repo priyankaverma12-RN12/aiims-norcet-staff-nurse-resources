@@ -25,3 +25,11 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Maternal circulation historical evidence — 28 November 2026
 
 [One independently worded BTSC Bihar ANM 12 January 2024 Shift 3 reported adaptation](03A-Maternal-Cardiovascular-Hematology-Reported-Evidence.md) covers distinguishing cardiovascular adaptations from appetite changes. NHM MP CHO 17 April 2022 blood volume and UPPSC Staff Nurse 10 April 2022 cardiac output evidence are related leads and not counted twice. Six reported adaptations are now indexed across the chapter. Official question papers and keys, broader India-wide evidence and exact YouTube MCQ playback remain pending.
+
+## Maternal respiratory evidence — 28 November 2026
+
+[NHM Rajasthan CHO 10 November 2020 reported respiratory-rate adaptation](03B-Maternal-Respiratory-Exam-Evidence.md). Third-party question and selected answer retrieved. The narrow reported interval is not taught as an exclusive clinical reference range. Official paper and key remain pending. ESIC 2019 minute ventilation evidence is a related indexed lead only. Seven reported adaptations are now indexed in Obstetrics. Exact video playback, broader historical evidence and independent semantic audit remain pending.
+
+## Maternal renal and gastrointestinal evidence — 28 November 2026
+
+[Coaching sample practice and recruitment evidence gaps](03C-Maternal-Renal-GI-Exam-Evidence.md). Mannat Academy coaching PDF page 3 Q51 was retrieved, but this is not an authenticated recruitment PYQ. HPRCA final-key notice for post code 26004 was located in search and direct retrieval failed. No newly authenticated nursing recruitment item was established. Seven reported Obstetric adaptations remain indexed. One coaching sample is separately labelled and excluded from original and reported counts. Dedicated renal/GI MCQ description-level lead located, item-specific playback verification pending for all 35 new originals.

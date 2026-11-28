@@ -2,22 +2,11 @@
 // Inventory of detected question occurrences, not a deduplicated or authenticated exam count.
 const fs=require('node:fs'),path=require('node:path'),assert=require('node:assert/strict');
 const {execFileSync}=require('node:child_process');
-const {parseBank}=require('./quiz.js');
+const {parseBank,bankSignature}=require('./quiz.js');
 const {resourceMeta}=require('./titles.js');
 const root=path.resolve(__dirname,'..');
-function countSlots(md){
- const clean=md.replace(/<!--[\s\S]*?-->/g,'').replace(/<details\b[^>]*>[\s\S]*?<\/details>/gi,'').replace(/^\s*\x60{3,}[^\n]*\n[\s\S]*?^\s*\x60{3,}[^\n]*$/gm,'');
- const lines=clean.split(/\r?\n/);let expect=0,count=0;
- for(const line of lines){
-  const match=line.match(/^\s*(?:[-*+]\s+)?(?:\*\*)?([A-D])[.)](?:\*\*)?\s+\S/i);
-  if(!match)continue;
-  const i='ABCD'.indexOf(match[1].toUpperCase());
-  if(i===0)expect=1;
-  else if(i===expect&&expect>0){expect++;if(expect===4){count++;expect=0}}
-  else expect=0;
- }
- return count;
-}
+const {countSlots}=require('./progress.js');
+const {practiceKey}=require('./routine.js');
 function category(rel){
  const parts=rel.split('/'),folder=parts[2]||'',file=parts.at(-1);
  if(folder==='Previous-Year-Questions')return 'pyq';
@@ -42,16 +31,16 @@ for(const ent of fs.readdirSync(chapterRoot,{withFileTypes:true})){
   const rel=path.relative(root,f).split(path.sep).join('/'),md=fs.readFileSync(f,'utf8'),kind=category(rel),slots=countSlots(md);
   const sourceHeading=md.match(/^#\s+(.+)$/m)?.[1]||'';const meta=resourceMeta(rel,sourceHeading,slots);const anchors={};const used=new Map();let named='';for(const line of md.split(/\r?\n/)){const explicit=line.match(/<a\s+[^>]*name=["']([^"']+)["']/i);if(explicit)named=explicit[1];const h=line.match(/^#{1,6}\s+(.+)$/);if(!h)continue;if(/^Q(?:uestion)?\s*\d+[.):]/i.test(h[1])){named='';continue}const label=h[1].trim().replace(/[*_\x60]/g,'');const slug=label.toLowerCase().replace(/[^\p{L}\p{N}_ -]/gu,'').replace(/ /g,'-');const n=used.get(slug)||0;used.set(slug,n+1);if(slug)anchors[slug+(n?'-'+n:'')]=label;if(named){anchors[named]=label;named=''}}meta.anchors=anchors;resources[rel]=meta;assert(meta.title&&meta.type&&meta.subtitle,'Missing display metadata: '+rel);
   if(!slots){if(kind==='pyq'){evidenceFiles++;evidencePaths.push(rel)}continue}
-  const scoreable=parseBank(md).items.length;
+  const items=parseBank(md).items,scoreable=items.length,questionKeys=items.map(practiceKey),signature=bankSignature(items);
   const heading=md.match(/^#\s+(.+)$/m)?.[1]||path.basename(f,'.md').replace(/-/g,' ');
-  records.push({path:rel,title:meta.title,category:kind,slots,scoreable});totals[kind]+=slots;banks[kind]++;
+  records.push({path:rel,title:meta.title,category:kind,slots,scoreable,questionKeys,signature});totals[kind]+=slots;banks[kind]++;
  }
  records.sort((a,b)=>a.path.localeCompare(b.path,undefined,{numeric:true}));
  chapters.push({id:ent.name,name:ent.name.replace(/-/g,' '),totals,banks,evidenceFiles,evidencePaths,records});
 }
 for(const ent of fs.readdirSync(chapterRoot,{withFileTypes:true})){if(!ent.isFile()||!ent.name.endsWith('.md'))continue;const rel='Chapters/'+ent.name,md=fs.readFileSync(path.join(chapterRoot,ent.name),'utf8');resources[rel]=resourceMeta(rel,md.match(/^#\s+(.+)$/m)?.[1]||'',0)}
 const totals=blank(),banks=blank();for(const c of chapters)for(const k of cats){totals[k]+=c.totals[k];banks[k]+=c.banks[k];assert.equal(c.totals[k],c.records.filter(x=>x.category===k).reduce((s,x)=>s+x.slots,0))}
-const output={schema:1,generatedAt:new Date().toISOString(),sourceCommit:execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'}).trim(),method:'Detected A–D option sequences outside answer details, grouped by source file. These are published question occurrences, not unique original questions or authenticated PYQs. Mock slots may reuse bank questions. Unsupported formats and evidence-only entries are not counted.',chapters,totals,banks,resources};
+const output={schema:1,generatedAt:new Date().toISOString(),sourceCommit:execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'}).trim(),method:'Counts include questions with four answer choices in the study files. Some questions appear in both topic practice and mock tests. Reported exam questions may not be official papers. Notes without questions are not counted.',chapters,totals,banks,resources};
 fs.writeFileSync(path.join(__dirname,'study-metrics.json'),JSON.stringify(output));
 console.log('STUDY METRICS:',JSON.stringify({chapters:chapters.length,totals,banks}), 'all per-file sums verified.');
 console.log('RESOURCE TITLES:',Object.keys(resources).length,'Markdown documents indexed with consistent display metadata.');
