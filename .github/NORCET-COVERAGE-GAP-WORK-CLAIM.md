@@ -1,10 +1,10 @@
 # Independent NORCET coverage-gap claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: coverage-gap-hematology-20261128-040142
+Scope: Hematology only, sickle cell disease and thalassemia banks then distinct platelet topics if validated, separate evidence and chapter-local inventory. No shared navigation or other jobs.
+Claimed UTC: 2026-11-28T04:01:42Z
+Expiry UTC: 2026-11-28T04:31:42Z
 
 Last owner: coverage-gap-hematology-20261128-034158
 Last scope: Hematology and Blood Disorders only. Released after verified Run 3 writes.
