@@ -152,28 +152,28 @@ Drained volume minus infused volume = 2380 minus 2000, yani 380 mL net UF.
 
 </details>
 
-### Q7. A PD patient has a 2000 mL fill and a 1700 mL drain. What should the nurse document and assess?
+### Q7. A patient receiving icodextrin-based peritoneal dialysis is admitted to a general ward. Which glucose-monitoring precaution is particularly important?
 
 **Difficulty:** Difficult | **Topic:** Peritoneal dialysis, CAPD and APD | **Priority:** High | **Type:** Original practice
 
-- **A.** Positive net ultrafiltration of 300 mL without further assessment
-- **B.** Zero fluid balance because both volumes were measured
-- **C.** 1700 mL of native kidney urine output
-- **D.** Negative net recovered fluid of 300 mL, with assessment for incomplete drainage or absorption
+- **A.** Assume all bedside glucose meters are compatible
+- **B.** Use a glucose-specific monitoring system verified as compatible with icodextrin
+- **C.** Give insulin solely on any unexpectedly high meter reading without checking compatibility
+- **D.** Stop glucose monitoring for the entire admission
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Negative net recovered fluid of 300 mL, with assessment for incomplete drainage or absorption**
+**Correct: B. Use a glucose-specific monitoring system verified as compatible with icodextrin**
 
-1700 minus 2000 = minus 300 mL, incomplete drain ya absorption possible hai, symptoms aur trend evaluate karo.
+Icodextrin ke maltose jaise metabolites kuch glucose meter methods mein falsely high reading produce kar sakte hain. Compatible glucose-specific meter aur strips verify karna zaroori hai, taaki false high result ke basis par insulin dekar severe hypoglycemia ka risk na badhe.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Sign negative hai, recovered fluid instilled amount se kam hai.
-- **B.** Different input aur output zero balance nahi banate.
-- **C.** PD effluent native kidney urine nahi hota.
+- **A.** Har monitor method compatible nahi hota, manufacturer information check karni chahiye.
+- **C.** Unexpected reading mein clinical status aur compatible measurement assess kiye bina insulin decision unsafe ho sakta hai.
+- **D.** Glucose monitoring band karna safe alternative nahi, appropriate method use karna chahiye.
 
-**Exam clue:** 1700 minus 2000 = minus 300 mL, incomplete drain ya absorption possible hai, symptoms aur trend evaluate karo.
+**Exam clue:** Icodextrin aur maltose interference se falsely high glucose reading ka risk yaad rakho.
 
 </details>
 
@@ -507,3 +507,4 @@ Logs aur drainage assessment technical ya mechanical cause identify karne mein h
 - [ISPD peritonitis guideline 2022](https://journals.sagepub.com/doi/full/10.1177/08968608221080586), indexed clinical criteria and contamination principles.
 - [Peritoneal Dialysis Society of India consensus guideline](https://pmc.ncbi.nlm.nih.gov/articles/PMC8597799/), effluent testing and prompt therapy.
 - [ISPD guideline collection](https://ispd.org/guidelines/), transport and prescription source leads. Individual question-specific direct-source confirmation, independent clinical review, exact videos and historical evidence pending.
+- [DailyMed EXTRANEAL prescribing information, section 5.1](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=d5b85158-b0d6-4855-9d07-8d1b3ad9ab71), indexed glucose-monitor warning.
