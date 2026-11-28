@@ -25,6 +25,10 @@
 - **C.** Charts ko bina criteria ke collect karne se irrelevant records aa sakte hain aur selection bias ho sakta hai. Pehle problem aur eligible population define karni chahiye.
 - **D.** Ward ka impression problem identify karne mein madad karta hai, lekin conclusion evidence analyze karne ke baad nikala jata hai. Pehle conclusion likhne se investigator apni expectation ke hisaab se data interpret kar sakta hai.
 
+**Exam clue:** Pehle answerable problem define karo, phir design choose karo.
+
+**Related concept reference:** [Nursing research question and FINER checklist](https://advancing-evidence-based-nursing-research.pressbooks.tru.ca/chapter/refining-the-research-topic/). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -49,6 +53,10 @@
 - **A.** Is design mein har participant ko independently group allocate kiya jata hai. Yahan poore ward ko ek condition mil rahi hai, isliye individual randomization nahi hui.
 - **B.** Case-control study mein participants ko outcome ke basis par select karke exposure compare kiya jata hai. Yahan investigator ne ward level par intervention allocate kiya hai.
 - **C.** Cross-sectional survey ek defined time par information collect karta hai aur generally intervention allocate nahi karta. Yahan assigned protocol ke effects ka comparison hai.
+
+**Exam clue:** Random assignment ka unit ward hai, patient nahi.
+
+**Related concept reference:** [Cochrane Handbook chapter 23](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23). Indexed source lead. Full detail review pending. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -75,6 +83,10 @@
 - **C.** RCT intervention ke effects compare karne ke liye useful hota hai. Is question mein researcher sirf existing condition ka burden estimate kar raha hai.
 - **D.** Grounded theory qualitative data se kisi process ko explain karne wali theory develop karta hai. Numerical prevalence estimate iska main objective nahi hai.
 
+**Exam clue:** Ek din ke existing cases prevalence batate hain.
+
+**Related concept reference:** [CDC analytic study designs](https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -99,6 +111,10 @@
 - **A.** Researcher cases aur controls ki number khud select karta hai. Is selected ratio ko population mein actual disease risk samajhna galat hoga.
 - **B.** Parents ko purani exposure yaad karne mein difference ho sakta hai, especially jab outcome already known ho. Standardized information sources bias ko kam kar sakte hain, guarantee nahi dete.
 - **D.** Purani exposure already ho chuki hai, isliye investigator usko assign nahi kar sakta. Yeh observational design hai, experimental trial nahi.
+
+**Exam clue:** Rare outcome ke liye case-control recruitment efficient ho sakti hai.
+
+**Related concept reference:** [CDC analytic study designs](https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending. Related topic-level lead: [Aarogyam Infinity Part 1](https://www.youtube.com/watch?v=bXmkZFibU2w), published description lists a case-control discussion, exact item and playback not checked.
 
@@ -125,6 +141,10 @@
 - **C.** Is design mein normally sirf ek group ka intervention ke baad measurement hota hai. Yahan do units aur dono ke before-after observations available hain.
 - **D.** Descriptive snapshot mein researcher intervention introduce karke time ke saath comparison nahi karta. Is scenario mein planned program aur pre-post design hai.
 
+**Exam clue:** Before-after comparison aur nonrandom assignment ko ek saath dekho.
+
+**Related concept reference:** [CDC analytic study designs](https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -149,6 +169,10 @@
 - **A.** Sirf intervention ke baad ka ek survey pehle ka trend nahi dikhata. Is wajah se policy ke effect aur already chal rahe trend ko alag karna mushkil hota hai.
 - **B.** Ek patient ka case report individual details de sakta hai. Yeh repeated hospital rates mein trend change evaluate nahi kar sakta.
 - **C.** Do months ka comparison baaki time-series information ignore kar deta hai. Short-term fluctuation ko policy ka effect samajhne ka risk badh jata hai.
+
+**Exam clue:** Intervention point ke dono taraf repeated observations dekho.
+
+**Related concept reference:** [Cochrane EPOC study designs](https://epoc.cochrane.org/sites/epoc.cochrane.org/files/uploads/EPOC%20Study%20Designs%20About.pdf). Indexed source lead. Full detail review pending. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -175,6 +199,10 @@
 - **B.** Grounded theory kisi process ke baare mein explanatory theory banane ke liye data collect aur analyze karta hai. Yahan objective loneliness ke experience ko samajhna hai, theory generate karna nahi.
 - **D.** Experimental research intervention ka effect evaluate karta hai. Is interview study mein researcher patients ko isolation conditions assign nahi kar raha hai.
 
+**Exam clue:** Lived experience ka meaning phenomenology se relate karta hai.
+
+**Related concept reference:** [Nursing qualitative methodologies](https://advancing-evidence-based-nursing-research.pressbooks.tru.ca/chapter/qua-research-methodologies/). Indexed source lead. Full detail review pending. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -199,6 +227,10 @@
 - **A.** Phenomenology individual lived experience ke meaning par focus karta hai. Yahan shared professional culture aur group practices main interest hain.
 - **C.** Crossover trial mein participants different assigned conditions experience karte hain. Midwives ki practices observe karne ke liye researcher koi experimental treatment assign nahi kar raha.
 - **D.** Case-control design outcome ke basis par groups select karta hai aur exposure compare karta hai. Cultural practices samajhna uska primary aim nahi hai.
+
+**Exam clue:** Shared group culture ethnography ka clue hai.
+
+**Related concept reference:** [Nursing qualitative methodologies](https://advancing-evidence-based-nursing-research.pressbooks.tru.ca/chapter/qua-research-methodologies/). Indexed source lead. Full detail review pending. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -225,6 +257,10 @@
 - **C.** Ethnography group culture aur social practices ko samajhne ke liye suitable hoti hai. Yahan primary objective confidence develop hone ke process ki explanatory theory banana hai.
 - **D.** Historical research past records aur evidence se events interpret karta hai. Yahan current interviews ke through process aur categories develop ki ja rahi hain.
 
+**Exam clue:** Emerging theory aur constant comparison grounded theory ke clues hain.
+
+**Related concept reference:** [Nursing qualitative methodologies](https://advancing-evidence-based-nursing-research.pressbooks.tru.ca/chapter/qua-research-methodologies/). Indexed source lead. Full detail review pending. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -249,6 +285,10 @@
 - **A.** Exploratory sequential design generally qualitative exploration se start hota hai aur baad mein quantitative phase se findings ko test ya measure karta hai. Yahan sequence opposite hai.
 - **C.** Convergent design mein qualitative aur quantitative phases aksar roughly same period mein conduct karke results integrate kiye jate hain. Yahan survey ke result ne interview phase ko guide kiya.
 - **D.** Numerical survey alone correlational ho sakta hai, lekin is study mein qualitative interviews bhi findings explain kar rahe hain. Is integrated component ko ignore nahi karna chahiye.
+
+**Exam clue:** Quantitative results ko qualitative interviews se explain karna explanatory sequence hai.
+
+**Related concept reference:** [Mixed methods nursing research](https://pmc.ncbi.nlm.nih.gov/articles/PMC13091901/). Indexed source lead. Full detail review pending. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -275,6 +315,10 @@
 - **B.** External validity batati hai ki results doosre settings ya populations mein kitne applicable hain. Upcoming allocation reveal hone se group comparison ki internal validity bhi threaten hoti hai.
 - **C.** Sample size calculation required participants ka estimate deti hai. Yeh upcoming allocation ko hide nahi karti aur recruitment bias ko directly solve nahi karti.
 
+**Exam clue:** Assignment se pehle concealment chahiye, assessment ke waqt blinding alag protection hai.
+
+**Related concept reference:** [Cochrane Handbook chapter 8, RoB 2](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -300,6 +344,10 @@
 - **B.** Bada sample random uncertainty kam kar sakta hai. Lekin systematic rating bias same process se continue ho sakta hai.
 - **D.** Control group hata dene se intervention ke effect ka valid comparison kharab ho jayega. Bias ka solution comparable blinded assessment hai, group removal nahi.
 
+**Exam clue:** Subjective outcome mein assessor ki expectations measurement bias create kar sakti hain.
+
+**Related concept reference:** [Cochrane Handbook chapter 8, RoB 2](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -321,9 +369,13 @@
 
 **Baaki options kyun galat hain?**
 
-- **B.** Per-protocol analysis adherence ka effect explore kar sakti hai, lekin adherent participants systematically different ho sakte hain. Sirf unko include karne se randomization ka protection weak ho sakta hai.
+- **B.** Per-protocol analysis protocol follow karne wale participants par focus kar sakti hai. Lekin sirf adherent participants select karne se randomization ka protection weak ho sakta hai. Adherence ka causal effect estimate karne ke liye suitable additional methods aur assumptions chahiye.
 - **C.** As-treated comparison original random groups ko change karta hai. Method switch ka reason outcome se linked ho sakta hai, isliye confounding aa sakti hai.
 - **D.** Unfavorable outcomes hata dena result ko artificially favorable bana sakta hai. Yeh scientific analysis aur unbiased reporting ke against hai.
+
+**Exam clue:** Group switch ke baad bhi original assignment analysis mein preserve karo.
+
+**Related concept reference:** [Cochrane Handbook chapter 8, RoB 2](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -350,6 +402,10 @@
 - **B.** Washout residual effect kam karta hai, lekin patient ko condition identify karne se automatically nahi rokta. Blinding ke liye alag design measures chahiye.
 - **D.** Washout carryover address karta hai, lekin disease progression aur period effects phir bhi ho sakte hain. Isliye stable condition aur randomized sequence jaise safeguards relevant hain.
 
+**Exam clue:** Washout earlier effect ko reduce karta hai, period effect ko guarantee se remove nahi karta.
+
+**Related concept reference:** [Cochrane Handbook chapter 23](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23). Indexed source lead. Full detail review pending. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -374,6 +430,10 @@
 - **A.** Factorial trial mein groups ko combinations assign kiye ja sakte hain, har participant ko sab conditions receive karna zaroori nahi. Sequence wala feature crossover design se related hai.
 - **C.** Saturation qualitative inquiry mein new useful information milne se related concept hai. Is numerical factorial comparison ka objective intervention effects aur interaction evaluate karna hai.
 - **D.** Factorial allocation ka matlab complete population enroll karna nahi hota. Sampling aur recruitment ka decision design ke combination structure se alag hai.
+
+**Exam clue:** Factorial design mein combinations ke saath interaction assess kar sakte ho.
+
+**Related concept reference:** [Cochrane Handbook chapter 23](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23). Indexed source lead. Full detail review pending. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -400,6 +460,10 @@
 - **B.** Reverse causation ek possibility hai, lekin woh bhi prove nahi hui. Study mein direction establish karne ke liye adequate temporal aur causal evidence chahiye.
 - **C.** Observational research meaningful associations identify kar sakta hai. Intervention assign na karna relation ko invalid nahi banata, bas causal interpretation limited rehti hai.
 
+**Exam clue:** Association ko causal proof mat samjho.
+
+**Related concept reference:** [CDC analysis and interpretation](https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -425,30 +489,38 @@
 - **B.** Pilot mein bhi human participants ke rights aur applicable approval requirements relevant hote hain. Small size ethics safeguards ko remove nahi karti.
 - **D.** Eligibility criteria pilot aur full study dono mein recruitment ko clear banate hain. Pilot ke findings se criteria refine ho sakte hain, lekin plan ki zaroorat khatam nahi hoti.
 
+**Exam clue:** Pilot se feasibility samajh aati hai, definitive efficacy nahi.
+
+**Related concept reference:** [Pilot trial progression criteria](https://pubmed.ncbi.nlm.nih.gov/37061720/). Indexed source lead. Full detail review pending. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
 
-### Q18. A researcher finds several apparently conflicting studies while planning a new nursing study. Which action best supports a useful literature review?
+### Q18. Two proposed nursing studies are feasible, ethical and address unanswered questions. One concerns an issue that patients and staff identify as important for safer discharge, whereas the other has no clear clinical or scientific use. Which FINER criterion most directly favors the first study?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Include only studies that support the proposed intervention
-- **B.** Compare the studies' populations, methods, findings and limitations to identify a defensible gap
-- **C.** Use publication date as the only quality criterion
-- **D.** Copy the conclusions without recording original references
+- **A.** Feasibility
+- **B.** Relevance
+- **C.** Novelty
+- **D.** Ethical acceptability
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Compare the studies' populations, methods, findings and limitations to identify a defensible gap**
+**Correct: B. Relevance**
 
-**B.** Sirf conclusions count karne ke bajaye researcher ko dekhna chahiye ki studies kaise conduct hui aur patients kaun the. Is comparison se conflicting findings ka context aur genuine knowledge gap samajh aata hai.
+**B.** Relevance ka matlab hai ki research ka answer patients, nurses, practice ya scientific knowledge ke liye useful ho. Pehli study safer discharge ke ek important problem ko address karti hai, isliye uska practical value zyada clearly established hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Sirf favorable studies include karne se evidence ka biased picture banta hai. Conflicting findings ko bhi quality aur relevance ke basis par assess karna chahiye.
-- **C.** Recent study useful ho sakti hai, lekin date alone design quality aur bias nahi batati. Methodological rigor aur relevance bhi check karni chahiye.
-- **D.** Source record na karne se evidence verify karna difficult ho jata hai aur plagiarism ka risk hota hai. Researcher ko findings apne words mein synthesize karke reference dena chahiye.
+- **A.** Feasibility yeh batati hai ki study available time, staff aur resources ke saath complete ho sakti hai ya nahi. Question mein dono studies feasible hain, isliye yeh unke beech main difference nahi hai.
+- **C.** Novelty yeh dekhti hai ki study existing knowledge mein kuch naya add karegi ya nahi. Dono questions unanswered hain, isliye question mein novelty ko difference ke roop mein nahi diya gaya hai.
+- **D.** Ethical acceptability participant protection aur justified risk se related hai. Dono studies ethical hain, isliye pehli study ko choose karne ka main reason relevance hai.
+
+**Exam clue:** FINER mein relevance practice aur policy ke liye usefulness se related hai.
+
+**Related concept reference:** [Nursing research question and FINER checklist](https://advancing-evidence-based-nursing-research.pressbooks.tru.ca/chapter/refining-the-research-topic/). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -475,6 +547,10 @@
 - **B.** Prevalence survey defined population mein condition ki proportion estimate karta hai. Is question mein researcher one bounded program ka detailed process samajhna chahta hai.
 - **C.** RCT groups ko randomly allocate karke intervention effects compare karta hai. Yahan researcher existing implementation ko several sources se study kar raha hai, random allocation nahi kar raha.
 
+**Exam clue:** Bounded program aur uske context ko case study mein explore karte hain.
+
+**Related concept reference:** [Nursing qualitative methodologies](https://advancing-evidence-based-nursing-research.pressbooks.tru.ca/chapter/qua-research-methodologies/). Indexed source lead. Full detail review pending. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -499,6 +575,10 @@
 - **B.** Falls kam hue hain, lekin concurrent bundle bhi falls ko affect kar sakta hai. Dono effects separate establish kiye bina staffing ko poora credit dena justified nahi.
 - **C.** Temporal order alone doosre intervention ka effect rule out nahi karta. Researcher ko timing, implementation aur outcome data carefully compare karna chahiye.
 - **D.** Outcome change random assignment ka evidence nahi hai. Randomization study allocation method ka feature hai, jise protocol aur records se establish kiya jata hai.
+
+**Exam clue:** Concurrent change ko intervention ke effect se alag karna zaroori hai.
+
+**Related concept reference:** [CDC analysis and interpretation](https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
