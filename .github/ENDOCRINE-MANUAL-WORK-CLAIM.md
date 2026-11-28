@@ -1,10 +1,10 @@
 # Endocrine manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: endocrine-b06-20261128T1554Z
+Scope: PR54 isolated adult outpatient hypoglycemia prevention candidate bank 14A and matching concept, SVG and evidence register only. No live navigation or prior content changes.
+Claimed UTC: 2026-11-28T15:54:40Z
+Expiry UTC: 2026-11-28T16:24:40Z
 
 Last owner: endocrine-b05-20261128-1216Z
 Release: Batch 05 completed staging and exact readbacks on 2026-11-28.
