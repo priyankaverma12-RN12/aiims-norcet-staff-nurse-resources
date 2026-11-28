@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: FREE
-Owner: none
-Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: hepatobiliary-b03-20261128-1016Z
+Scope: PR60 new isolated pancreatic surgery and autoimmune biliary disease topic banks, no shared navigation edits.
+Claimed UTC: 2026-11-28T10:16:00Z
+Expiry UTC: 2026-11-28T10:46:00Z
 
 ## Released checkpoint — 28 November 2026
 
