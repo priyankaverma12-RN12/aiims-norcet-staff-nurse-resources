@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="470" viewBox="0 0 880 470" role="img" aria-labelledby="title desc">
+<title id="title">Dietary reference intakes and group assessment</title>
+<desc id="desc">Separate illustrative requirement and intake distributions, showing EAR and RDA on the requirements curve and EAR and UL on the intake curve.</desc>
+<rect width="880" height="470" rx="14" fill="#f8fafc"/>
+<g font-family="Arial,sans-serif" fill="#162d46">
+<text x="440" y="35" text-anchor="middle" font-size="23" font-weight="bold">Dietary reference intakes</text>
+<text x="440" y="57" text-anchor="middle" font-size="13">Illustrative distributions only, not measured data or a treatment prescription</text>
+<rect x="24" y="76" width="406" height="262" rx="12" fill="#e7eff9" stroke="#52769b"/>
+<rect x="450" y="76" width="406" height="262" rx="12" fill="#e6f2eb" stroke="#55836b"/>
+<text x="227" y="103" text-anchor="middle" font-size="17" font-weight="bold">1. Physiological requirements</text>
+<text x="653" y="103" text-anchor="middle" font-size="17" font-weight="bold">2. Group usual intake</text>
+<path d="M48 263 H404 M48 263 V131 M474 263 H830 M474 263 V131" fill="none" stroke="#506478" stroke-width="1.5"/>
+<path d="M54 260 C95 260 123 247 148 209 C173 170 194 137 227 137 C260 137 281 170 306 209 C331 247 359 260 398 260" fill="none" stroke="#315d91" stroke-width="3"/>
+<path d="M227 137 V265 M331 239 V265" stroke="#315d91" stroke-dasharray="5 4"/>
+<text x="227" y="280" text-anchor="middle" font-size="12">EAR</text><text x="331" y="280" text-anchor="middle" font-size="12">RDA</text>
+<text x="227" y="302" text-anchor="middle" font-size="12">Median need vs near-universal coverage</text>
+<path d="M480 260 C520 260 544 249 566 218 C594 176 615 139 650 139 C692 139 713 184 738 221 C758 251 785 260 824 260" fill="none" stroke="#347450" stroke-width="3"/>
+<path d="M480 260 C520 260 544 249 566 218 L566 263 H480 Z" fill="#d97706" opacity=".35"/>
+<path d="M760 248 C778 257 797 260 824 260 L824 263 H760 Z" fill="#b91c1c" opacity=".4"/>
+<path d="M566 218 V265 M760 248 V265" stroke="#334155" stroke-dasharray="5 4"/>
+<text x="566" y="280" text-anchor="middle" font-size="12">EAR</text><text x="760" y="280" text-anchor="middle" font-size="12">UL</text>
+<text x="653" y="302" text-anchor="middle" font-size="12">Below EAR: estimated risk, if assumptions hold</text>
+<text x="653" y="320" text-anchor="middle" font-size="12">Above UL: potential excess risk</text>
+<rect x="24" y="355" width="832" height="86" rx="12" fill="#203d58"/>
+<text x="440" y="380" text-anchor="middle" font-size="15" font-weight="bold" fill="white">AI is not an EAR cut-point. UL is not an intake target.</text>
+<text x="440" y="403" text-anchor="middle" font-size="13" fill="white">Use the correct life-stage reference and method. Skewed iron requirements need special analysis.</text>
+<text x="440" y="424" text-anchor="middle" font-size="13" fill="white">Clinical diagnosis also requires appropriate assessment beyond dietary estimates.</text>
+</g></svg>
