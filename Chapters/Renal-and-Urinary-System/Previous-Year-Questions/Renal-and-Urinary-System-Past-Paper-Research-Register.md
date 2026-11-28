@@ -2,15 +2,25 @@
 
 **Research queue.** The archive links below are starting points for source checking, not proof that a specific question appeared in an exam. Question-level evidence must be added separately. No official question or key is claimed here.
 
-- [AIIMS official notices](https://www.aiimsexams.ac.in/) and [NORCET recall archive](https://nextnurse.in/pyq/norcet)
-- [PGIMER archive](https://nextnurse.in/pyq/pgimer-nursing-officer) and [ESIC archive](https://nextnurse.in/pyq/esic-nursing-officer)
-- [RRB, DSSSB, other AIIMS and staff nurse paper directory](https://nextnurse.in/pyq) and [DSSSB archive](https://nextnurse.in/pyq/dsssb-nursing-officer)
-- [HPRCA official downloads](https://hprca.hp.gov.in/DownloadCategory.aspx) and [HP staff nurse paper collection](https://himexam.com/hp-staff-nurse-previous-question-papers-pdf-download/)
-- [NPrep NORCET cycle archive](https://nprep.in/blogs/aiims-norcet-previous-year-question-papers-pdf) and [Careers360 candidate recall papers](https://medicine.careers360.com/download/sample-papers/norcet-mains-previous-year-questions-papers)
+## Exam archives and official portals
+
+- [AIIMS official notices](https://www.aiimsexams.ac.in/)
+- [NORCET recall archive](https://nextnurse.in/pyq/norcet)
+- [PGIMER archive](https://nextnurse.in/pyq/pgimer-nursing-officer)
+- [ESIC archive](https://nextnurse.in/pyq/esic-nursing-officer)
+- [RRB, DSSSB, other AIIMS and staff nurse paper directory](https://nextnurse.in/pyq)
+- [DSSSB archive](https://nextnurse.in/pyq/dsssb-nursing-officer)
+- [HPRCA official downloads](https://hprca.hp.gov.in/DownloadCategory.aspx)
+- [HP staff nurse paper collection](https://himexam.com/hp-staff-nurse-previous-question-papers-pdf-download/)
+- [NPrep NORCET cycle archive](https://nprep.in/blogs/aiims-norcet-previous-year-question-papers-pdf)
+- [Careers360 candidate recall papers](https://medicine.careers360.com/download/sample-papers/norcet-mains-previous-year-questions-papers)
+
+## Research and evidence requirements
 
 Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, state PSC/SSB/CHO and NHM exams. Record the exam, year, shift, paper or question number, exact evidence status and source link for each question. Write independently worded practice adaptations where verbatim reproduction is not permitted. Keep answers and complete conversational Hinglish explanations with each item. Dedicated teaching and MCQ video links need topic-specific verification.
 
-[Chapter](../README.md) · [Original questions](../MCQs/Renal-and-Urinary-System-Topic-Wise-Starter-MCQs.md)
+- [Chapter](../README.md)
+- [Original questions](../MCQs/Renal-and-Urinary-System-Topic-Wise-Starter-MCQs.md)
 
 ## Published question-level evidence
 
@@ -50,3 +60,5 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 - One related nephrotic-features MCQ chapter marker (Nursing Wallah 38:40), exact playback pending; other adaptation and all 30 originals lack specific verified practice-video mapping. Wider all-India extraction pending.
 
 - [RPGN: JSSC Grade A Nurse 16 July 2022 reported adaptation](RPGN-Reported-Evidence.md), Type II hypersensitivity in anti-GBM disease. Direct question page retrieved. Official key and dedicated video verification pending.
+
+- [IgA nephropathy: historical and dedicated practice-video evidence gaps](IgA-Nephropathy-Reported-Evidence.md). NORCET 11 Mains 2026 Q95 indexed third-party item uses IgA nephropathy only as a distractor, not the reported answer. Direct page retrieval failed. No new historical adaptation counted. Medical entrance differential practice marker is a related lead only. All 30 original nursing-question video mappings remain pending.
