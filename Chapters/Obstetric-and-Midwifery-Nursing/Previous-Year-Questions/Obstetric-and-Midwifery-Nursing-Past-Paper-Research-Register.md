@@ -77,3 +77,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Nonstress test — 28 November 2026
 
 [AIIMS Bathinda Nursing Officer 29 September 2019 Q91 reported adaptation](06C-NST-Reported-Evidence.md). Source body retrieved, header title inconsistent, official paper/key not authenticated. Reported Obstetrics inventory: 21. RRB 25 November 2026 recall indexed but direct fetch failed. HP coaching sample not counted as historical. Dedicated NST topic chapter indexed, exact item coverage pending.
+
+## Contraction stress test — 28 November 2026
+
+[SKAU Staff Nurse 22 November 2026, Set C Q62 adaptation](06D-CST-Exam-Evidence.md). Official paper and provisional key matched directly. Final key not established, independently worded adaptation, not verbatim. Historical adaptation inventory 22. Safdarjung 2019 and other recruitment leads remain pending. CST MCQ-labelled video title indexed, exact playback pending.
