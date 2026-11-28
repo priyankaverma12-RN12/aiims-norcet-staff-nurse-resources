@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 344 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid aur 20 umbilical cord MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 424 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST aur 20 CST MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -20,6 +20,10 @@
 | Fetal membranes | [Detailed concepts and original flowcharts](Concepts/05B-Fetal-Membranes.md) · [20 original MCQs](MCQs/05B-Fetal-Membranes-20-MCQs.md) · [BHU 2019 reported practice](Previous-Year-Questions/05B-Fetal-Membranes-Reported-Evidence.md) |
 | Amniotic fluid | [Detailed concepts and original flowcharts](Concepts/05C-Amniotic-Fluid.md) · [20 original MCQs](MCQs/05C-Amniotic-Fluid-20-MCQs.md) · [RRB 2018 and GMCH 2022 reported practice](Previous-Year-Questions/05C-Amniotic-Fluid-Reported-Evidence.md) |
 | Umbilical cord | [Detailed concepts and original flowcharts](Concepts/05D-Umbilical-Cord.md) · [20 original MCQs](MCQs/05D-Umbilical-Cord-20-MCQs.md) · [Two RRB 2019 reported questions](Previous-Year-Questions/05D-Umbilical-Cord-Reported-Evidence.md) |
+| Fetal movements and reduced movements | [Detailed concepts and 2026 RCOG pathway](Concepts/06A-Fetal-Movements-and-Reduced-Movements.md) · [20 original MCQs](MCQs/06A-Fetal-Movements-and-Reduced-Movements-20-MCQs.md) · [HSSC reported practice](Previous-Year-Questions/06A-Fetal-Movements-Reported-Evidence.md) |
+| Fetal heart rate | [Concepts](Concepts/06B-Fetal-Heart-Rate-and-Intermittent-Auscultation.md) · [20 original MCQs](MCQs/06B-Fetal-Heart-Rate-and-Intermittent-Auscultation-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06B-Fetal-Heart-Rate-Reported-Evidence.md) |
+| Nonstress test | [Concepts](Concepts/06C-Nonstress-Test-NST.md) · [20 original MCQs](MCQs/06C-Nonstress-Test-NST-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06C-NST-Reported-Evidence.md) |
+| Contraction stress test | [Concepts](Concepts/06D-Contraction-Stress-Test-CST.md) · [20 original MCQs](MCQs/06D-Contraction-Stress-Test-CST-20-MCQs.md) · [SKAU 2026 official-source adaptation](Previous-Year-Questions/06D-CST-Exam-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -77,3 +81,19 @@ Amniotic fluid ke 20 original MCQs, 80 individual rationales, two original flowc
 ## Verified umbilical cord expansion — 28 November 2026
 
 Umbilical cord ke 20 original MCQs, 80 option explanations, three original flowcharts aur two RRB 2019 reported adaptations publish hue. Current chapter inventory: 344 indexed originals and 18 reported adaptations. Six current topic targets (embryonic development, fetal growth, placenta, fetal membranes, amniotic fluid, umbilical cord) each have 20 new original questions. Next fetal assessment; independent clinical/semantic audits, official keys, exact video playback and diagram rendering remain pending.
+
+## Verified fetal movement assessment expansion — 28 November 2026
+
+Ab fetal movements aur reduced movements ke 20 naye original MCQs, 80 option explanations aur ek original triage flowchart publish hue hain. HSSC 2019 ki ek reported quickening-timing adaptation alag se indexed hai. Current Obstetrics inventory 364 originals aur 19 reported adaptations hai. Fetal heart rate aur other surveillance tests next hain. Independent clinical and semantic audit, official keys aur exact video playback abhi pending hain.
+
+## Verified fetal heart rate expansion — 28 November 2026
+
+Ab fetal heart rate aur intermittent auscultation ke 20 naye originals, 80 option explanations, two original Mermaid diagrams aur ek ESIC 2019 reported historical-range adaptation publish hue hain. Current Obstetrics inventory 384 originals aur 20 reported adaptations hai. NST next hai. Independent clinical and semantic review, exact video playback aur official exam keys pending hain.
+
+## Verified NST expansion — 28 November 2026
+
+Ab 20 NST originals, 80 individual option explanations, two original diagrams aur ek AIIMS Bathinda 2019 reported adaptation publish hue hain. Current Obstetrics inventory 404 originals aur 21 reported adaptations hai. CST next hai. Independent clinical and semantic review, exact video playback aur official historical keys pending hain.
+
+## Verified CST expansion — 28 November 2026
+
+Ab 20 CST originals, 80 individual option explanations, ek original flowchart aur ek official-paper/provisional-key-traced SKAU Staff Nurse 22 November 2026 Set C Q62 adaptation publish hue hain. Current Obstetrics inventory 424 originals aur 22 historical adaptations hai. CTG next hai. Final historical key status, independent clinical/semantic review aur exact video playback pending hain.

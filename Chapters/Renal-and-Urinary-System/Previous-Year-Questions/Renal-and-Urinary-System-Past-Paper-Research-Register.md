@@ -50,3 +50,5 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 - One related nephrotic-features MCQ chapter marker (Nursing Wallah 38:40), exact playback pending; other adaptation and all 30 originals lack specific verified practice-video mapping. Wider all-India extraction pending.
 
 - [RPGN: JSSC Grade A Nurse 16 July 2022 reported adaptation](RPGN-Reported-Evidence.md), Type II hypersensitivity in anti-GBM disease. Direct question page retrieved. Official key and dedicated video verification pending.
+
+- [IgA nephropathy: historical and dedicated practice-video evidence gaps](IgA-Nephropathy-Reported-Evidence.md). NORCET 11 Mains 2026 Q95 indexed third-party item uses IgA nephropathy only as a distractor, not the reported answer. Direct page retrieval failed. No new historical adaptation counted. Medical entrance differential practice marker is a related lead only. All 30 original nursing-question video mappings remain pending.
