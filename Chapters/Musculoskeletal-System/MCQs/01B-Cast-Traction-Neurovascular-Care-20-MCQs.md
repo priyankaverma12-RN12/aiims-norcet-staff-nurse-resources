@@ -274,30 +274,32 @@
 
 </details>
 
-### Q11. A previously mobile patient develops new inability to extend the fingers after a forearm cast is applied. The radial pulse remains palpable. Which interpretation is safest?
+### Q11. An orthopedic clinician plans to bivalve a circumferential cast shortly after fracture treatment. What is the principal purpose of this modification when swelling is anticipated?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** The palpable pulse excludes all nerve problems
-- **B.** Loss of movement is expected in every casted hand
-- **C.** New motor deficit requires urgent neurovascular reassessment and escalation
-- **D.** The patient should try resisted finger extension until movement returns
+- **A.** To permanently correct all fracture displacement
+- **B.** To make the cast waterproof
+- **C.** To remove the need for distal assessment
+- **D.** To allow room for swelling and reduce circumferential restriction
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. New motor deficit requires urgent neurovascular reassessment and escalation**
+**Correct answer: D. To allow room for swelling and reduce circumferential restriction**
 
-**A kyun galat hai:** Pulse arterial flow ka ek indicator hai. Ye nerve function normal hone ki guarantee nahi deta.
+**A kyun galat hai:** Cast splitting alone fracture alignment correct nahi karta; orthopedic team stability assess karti hai.
 
-**B kyun galat hai:** Permitted exposed finger movement ka suddenly lost hona normal finding nahi hai.
+**B kyun galat hai:** Bivalving cast ko waterproof nahi banata.
 
-**C kyun sahi hai:** Pulse present hone ke bawajood nerve compression ya evolving neurovascular compromise ho sakta hai. Nayi motor weakness urgent reassessment ka reason hai aur nurse delay nahi karti.
+**C kyun galat hai:** Swelling ke baad bhi distal circulation, sensation, movement aur pain monitor karna essential hai.
 
-**D kyun galat hai:** Resisted exercise se cause resolve nahi hota aur injury worsen ho sakti hai. Pehle clinical assessment chahiye.
+**D kyun sahi hai:** Bivalving mein trained clinician cast ko lengthwise split karta hai aur restriction reduce karta hai. Padding aur support appropriately adjust hote hain; patient ko khud cut nahi karna chahiye.
 
-**Clinical reference:** [RCH neurovascular observations](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Neurovascular_observations/). Indexed guidance, full-page review pending.
+**Exam clue:** Split cast ke baad bhi neurovascular assessment continue hota hai.
 
-**YouTube MCQ practice:** [Voogly by Sahu Sir — Cast & Plaster, published description MCQ section 38:00](https://www.youtube.com/watch?v=dEmY2d0fpf4&t=2280s). Topic-level candidate only, exact question and playback verification pending.
+**Clinical reference:** [RCH cast care](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Cast_Care/).
+
+**YouTube MCQ practice:** Verification pending.
 
 </details>
 
@@ -517,30 +519,32 @@
 
 </details>
 
-### Q20. A patient with an immobilized leg is permitted to exercise uninvolved joints. Why should the nurse include these exercises in the care plan?
+### Q20. One week after a lower-leg fracture was casted, swelling has subsided and the patient reports excessive movement of the limb inside the intact cast. What is the most appropriate response?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** They guarantee the injured bone cannot displace
-- **B.** They replace prescribed thromboprophylaxis in every patient
-- **C.** They allow the patient to abandon all activity restrictions
-- **D.** They help maintain mobility and muscle function within prescribed restrictions
+- **A.** Arrange review of cast fit and fracture stability
+- **B.** Insert towels deeply inside the cast to tighten it
+- **C.** Advise full weight bearing to seat the cast
+- **D.** Tell the patient that any amount of looseness is desirable
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. They help maintain mobility and muscle function within prescribed restrictions**
+**Correct answer: A. Arrange review of cast fit and fracture stability**
 
-**A kyun galat hai:** Exercise se fracture displacement impossible nahi hota. Prescribed stabilization still important hai.
+**A kyun sahi hai:** Swelling reduce hone se cast loose ho sakta hai. Excess movement fracture support compromise kar sakta hai; orthopedic service fit aur alignment review kare.
 
-**B kyun galat hai:** Movement helpful hai, lekin prescribed medication ya mechanical thromboprophylaxis ka universal substitute nahi hai.
+**B kyun galat hai:** Towels insert karne se focal pressure aur skin injury ho sakti hai; cast fitting professional task hai.
 
-**C kyun galat hai:** Uninvolved joints ki exercise permission injured segment ki saari restrictions remove nahi karti.
+**C kyun galat hai:** Weight bearing prescribed restrictions par depend karta hai; loose cast ko seat karne ke liye weight bearing unsafe hai.
 
-**D kyun sahi hai:** Immobilization se muscle weakness aur joint stiffness ho sakti hai. Allowed range-of-motion exercises uninvolved areas ki function preserve karne mein madad karti hain. Nurse injury-specific restrictions aur physiotherapy plan follow karti hai.
+**D kyun galat hai:** Excess looseness protective immobilization reduce kar sakti hai; intact cast ka fit bhi assess karna hota hai.
 
-**Clinical reference:** [Open RN musculoskeletal alterations](https://www.ncbi.nlm.nih.gov/books/NBK613072/). 
+**Exam clue:** Cast intact hona aur cast properly fitting hona different assessments hain.
 
-**YouTube MCQ practice:** [Voogly by Sahu Sir — Musculoskeletal System, published description traction/casts marker 13:00](https://www.youtube.com/watch?v=SG8WcKWCbJA&t=780s). Topic-level candidate only, exact question and playback verification pending.
+**Clinical reference:** [RCH cast care](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Cast_Care/).
+
+**YouTube MCQ practice:** Verification pending.
 
 </details>
 
