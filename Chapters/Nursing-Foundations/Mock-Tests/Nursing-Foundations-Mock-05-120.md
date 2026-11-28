@@ -142,7 +142,7 @@ Suspected venomous snakebite mein venom body mein spread ho sakta hai. Patient k
 
 ### Q5. Two urgent tasks compete: a stable patient needs scheduled oral medication and another has new stridor. What is the best prioritization?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Cancel every medication dose for the entire ward
 - **B.** Assess the patient with stridor immediately and arrange coverage for the medication task
@@ -167,7 +167,7 @@ Suspected venomous snakebite mein venom body mein spread ho sakta hai. Patient k
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q19](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q19](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q19-two-urgent-tasks-compete-a-stable-patient-needs-scheduled-oral-medication-and-another-has-new-stridor-what-is-the-best-prioritization)
 
 ### Q6. Two wound care instructions conflict. What is the safest approach?
 
@@ -548,7 +548,7 @@ Handover ka purpose receiving team ko enough current information dena hai taaki 
 
 ### Q17. A death may require medicolegal investigation. What should the nurse do before removing lines or altering the body?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Discard the clinical record
 - **B.** Wash away all potentially relevant material
@@ -573,7 +573,7 @@ Handover ka purpose receiving team ko enough current information dena hai taaki 
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q17](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q17](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q17-a-death-may-require-medicolegal-investigation-what-should-the-nurse-do-before-removing-lines-or-altering-the-body)
 
 ### Q18. A patient has a mobility aid prescribed for home but the device has not arrived. Which action is appropriate?
 
@@ -746,7 +746,7 @@ Evidence-based practice ka matlab hai patient care ke decisions mein best availa
 
 ### Q23. Which intervention can support a family during bedside end-of-life care?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Provide contradictory information without clarification
 - **B.** Guarantee an exact time of death
@@ -771,7 +771,7 @@ Evidence-based practice ka matlab hai patient care ke decisions mein best availa
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q18](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q18](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q18-which-intervention-can-support-a-family-during-bedside-end-of-life-care)
 
 ### Q24. An open wound is allowed to fill with granulation tissue and contract without immediate edge approximation. Which healing type is this?
 
@@ -978,7 +978,7 @@ Tenfold discrepancy decimal, unit ya order error ka warning hai. Original order,
 
 ### Q30. Which finding is an appropriate measurable rehabilitation outcome?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** The nurse will provide all care forever
 - **B.** The patient will become better eventually
@@ -1003,11 +1003,11 @@ Tenfold discrepancy decimal, unit ya order error ka warning hai. Original order,
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q19](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q19](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q19-which-finding-is-an-appropriate-measurable-rehabilitation-outcome)
 
 ### Q31. Which task is most appropriate to delegate to a trained assistant for a stable patient when permitted by policy?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Interpret a critical laboratory result and decide treatment
 - **B.** Adjust a high-alert medication infusion
@@ -1032,7 +1032,7 @@ Tenfold discrepancy decimal, unit ya order error ka warning hai. Original order,
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q18](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q18](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q18-which-task-is-most-appropriate-to-delegate-to-a-trained-assistant-for-a-stable-patient-when-permitted-by-policy)
 
 ### Q32. A patient has a new prescription for nutritional supplementation but reports a severe allergy to an ingredient. What should the nurse do?
 
@@ -1405,7 +1405,7 @@ Wheelchair transfer se pehle patient ki strength, balance, weight-bearing status
 
 ### Q42. A patient has new weakness, numbness and pain beneath a limb support device. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wait for the next scheduled device check
 - **B.** Apply tighter straps
@@ -1430,7 +1430,7 @@ Wheelchair transfer se pehle patient ki strength, balance, weight-bearing status
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q18](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q18](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q18-a-patient-has-new-weakness-numbness-and-pain-beneath-a-limb-support-device-what-is-the-priority)
 
 ### Q43. Which care plan statement describes an intervention rather than an outcome?
 
@@ -1510,7 +1510,7 @@ Clinical specimen mein infectious material ho sakta hai. Primary container compa
 
 ### Q45. A patient refuses a student nurse's participation in an intimate procedure. What should the supervising nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Respect the refusal and arrange appropriate care without the student
 - **B.** Insist because teaching hospitals require consent to all student participation
@@ -1535,7 +1535,7 @@ Clinical specimen mein infectious material ho sakta hai. Primary container compa
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q19](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q19](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q19-a-patient-refuses-a-student-nurses-participation-in-an-intimate-procedure-what-should-the-supervising-nurse-do)
 
 ### Q46. Before inflating an indwelling urinary catheter balloon, what must be confirmed?
 
@@ -1838,7 +1838,7 @@ Jab final count match nahi hota, toh surgical item missing ho sakta hai. Nurse d
 
 ### Q55. Which procedure measures pulmonary airflow and volumes using a breathing maneuver?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Cystoscopy
 - **B.** Spirometry
@@ -1863,11 +1863,11 @@ Jab final count match nahi hota, toh surgical item missing ho sakta hai. Nurse d
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q19](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q19](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q19-which-procedure-measures-pulmonary-airflow-and-volumes-using-a-breathing-maneuver)
 
 ### Q56. Which teaching strategy is most appropriate when the patient is exhausted and unable to concentrate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Label the patient noncompliant
 - **B.** Address immediate needs and reschedule nonurgent education for a more suitable time
@@ -1892,7 +1892,7 @@ Jab final count match nahi hota, toh surgical item missing ho sakta hai. Nurse d
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q20](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q20](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q20-which-teaching-strategy-is-most-appropriate-when-the-patient-is-exhausted-and-unable-to-concentrate)
 
 ### Q57. Which approach supports a patient experiencing persistent anxiety-related tension before sleep?
 
@@ -1992,7 +1992,7 @@ Eschar dead tissue ki dry dark covering hai. Stable heel eschar dry, adherent au
 
 ### Q60. A nurse feels emotionally overwhelmed after repeated patient deaths. Which professional response is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ignore distress until care quality deteriorates
 - **B.** Share identifiable patient details publicly
@@ -2017,7 +2017,7 @@ Eschar dead tissue ki dry dark covering hai. Stable heel eschar dry, adherent au
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q20](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q20](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q20-a-nurse-feels-emotionally-overwhelmed-after-repeated-patient-deaths-which-professional-response-is-appropriate)
 
 ## Block 4
 
@@ -2476,7 +2476,7 @@ Stairs climb karne ke baad sympathetic response aur increased cardiac demand tem
 
 ### Q74. Following a procedure involving arterial access, a patient develops increasing puncture-site swelling and a weak distal pulse. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess bleeding and distal neurovascular status and escalate urgently
 - **B.** Encourage the patient to bend and exercise the limb repeatedly
@@ -2501,7 +2501,7 @@ Stairs climb karne ke baad sympathetic response aur increased cardiac demand tem
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q18](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q18](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q18-following-a-procedure-involving-arterial-access-a-patient-develops-increasing-puncture-site-swelling-and-a-weak-distal-pulse-what-should-the-nurse-do)
 
 ### Q75. A patient returns from another department with a new procedure-related restriction not reflected in the ward care plan. What should the nurse do?
 
@@ -2641,7 +2641,7 @@ Antibiotics gut ke normal microorganisms ko disturb kar sakti hain. Frequent wat
 
 ### Q79. A bereaved person reports inability to manage daily activities and expresses thoughts of self-harm. What is the priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Dismiss the concern because a loss occurred recently
 - **B.** Assess immediate safety and arrange urgent mental health support
@@ -2666,7 +2666,7 @@ Antibiotics gut ke normal microorganisms ko disturb kar sakti hain. Frequent wat
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q19](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q19](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q19-a-bereaved-person-reports-inability-to-manage-daily-activities-and-expresses-thoughts-of-self-harm-what-is-the-priority)
 
 ### Q80. Why should measurable liquid medication and tube flushes be included in intake records?
 
@@ -2706,7 +2706,7 @@ Fluid balance sirf drinking water ka record nahi hai. Liquid medicine, enteral f
 
 ### Q81. An older patient with prolonged immobility is preparing for discharge home. Which plan addresses multiple safety risks?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assess home access, caregiver ability, equipment, skin care and mobility follow-up
 - **B.** Advise indefinite bed rest without review
@@ -2731,7 +2731,7 @@ Fluid balance sirf drinking water ka record nahi hai. Liquid medicine, enteral f
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q20](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q20](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q20-an-older-patient-with-prolonged-immobility-is-preparing-for-discharge-home-which-plan-addresses-multiple-safety-risks)
 
 ### Q82. Which nursing action respects patient participation during discharge planning?
 
@@ -3016,7 +3016,7 @@ Stridor upper airway mein narrowed passage ke through air movement ki abnormal h
 
 ### Q90. A patient becomes acutely unwell during a diagnostic test. What is the appropriate nursing priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Stop or pause the test when safe, assess immediate threats and activate appropriate help
 - **B.** Complete the test regardless of deterioration
@@ -3041,7 +3041,7 @@ Stridor upper airway mein narrowed passage ke through air movement ki abnormal h
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q20](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q20](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q20-a-patient-becomes-acutely-unwell-during-a-diagnostic-test-what-is-the-appropriate-nursing-priority)
 
 ### Q91. Which comfort device can help a patient who cannot lift heavy bedcovers off painful feet?
 
@@ -3178,7 +3178,7 @@ Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 5
 
 ### Q95. Which nursing action reflects accountability?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 DSSSB Nursing Officer, 27 August 2019 Shift III — related reported concept**
 
 - **A.** Record procedures that were not performed
 - **B.** Transfer blame automatically to the next shift
@@ -3203,7 +3203,7 @@ Available concentration = 250 mg / 5 mL = 50 mg/mL. Required volume = 125 mg / 5
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q18](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q18](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q18-which-nursing-action-reflects-accountability)
 
 ### Q96. An immobile patient has frequent small liquid stools but a history of severe constipation. Which issue should be considered?
 
@@ -3274,7 +3274,7 @@ Order aur specimen identifiers match na karein toh sample kisi doosre patient ka
 
 ### Q98. What is the purpose of checking a diagnostic procedure's preparation instructions before transport?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Cancel all medications automatically
 - **B.** Replace communication with the receiving department
@@ -3299,7 +3299,7 @@ Order aur specimen identifiers match na karein toh sample kisi doosre patient ka
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q17](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q17](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q17-what-is-the-purpose-of-checking-a-diagnostic-procedures-preparation-instructions-before-transport)
 
 ### Q99. Which outcome is best suited to evaluation of a pressure injury prevention plan?
 
@@ -3345,7 +3345,7 @@ Pressure injury prevention ka result patient ki tissue condition se measure hota
 
 ### Q100. A nurse reassesses an intervention and finds the patient has deteriorated rather than met the goal. Which approach demonstrates clinical judgment?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Recognize the change, reassess priorities, escalate as indicated and revise the plan
 - **B.** Wait for the next shift to notice the deterioration
@@ -3370,7 +3370,7 @@ Pressure injury prevention ka result patient ki tissue condition se measure hota
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q20](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q20](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q20-a-nurse-reassesses-an-intervention-and-finds-the-patient-has-deteriorated-rather-than-met-the-goal-which-approach-demonstrates-clinical-judgment)
 
 ## Block 6
 
@@ -3503,7 +3503,7 @@ Enteral feed tolerance assess karte waqt patient ke symptoms important hote hain
 
 ### Q105. Which intervention helps maintain joint alignment in a patient unable to reposition independently?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Avoid all reassessment after applying pillows
 - **B.** Place limbs in extreme flexion continuously
@@ -3528,7 +3528,7 @@ Enteral feed tolerance assess karte waqt patient ke symptoms important hote hain
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q17](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q17](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q17-which-intervention-helps-maintain-joint-alignment-in-a-patient-unable-to-reposition-independently)
 
 ### Q106. A patient becomes breathless and exhausted during a bed bath. What should the nurse do?
 
@@ -3712,7 +3712,7 @@ Pain relief na milna evaluation ka important finding hai. Nurse pain location, s
 
 ### Q111. A nurse discovers that a patient received twice the prescribed dose of a high-alert drug. What comes first?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Hide the error if the patient currently feels well
 - **B.** Skip subsequent prescribed doses indefinitely without review
@@ -3737,7 +3737,7 @@ Pain relief na milna evaluation ka important finding hai. Nurse pain location, s
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q17](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q17](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q17-a-nurse-discovers-that-a-patient-received-twice-the-prescribed-dose-of-a-high-alert-drug-what-comes-first)
 
 ### Q112. A nurse receives a critical laboratory result for a deteriorating patient. Which communication approach best closes the loop?
 
@@ -3847,7 +3847,7 @@ Documentation future assessment aur traceability support karti hai. Site/lateral
 
 ### Q115. A nurse has a conflict of interest in recommending a paid product to a patient. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Recommend the product solely for personal gain
 - **B.** Conceal the financial benefit
@@ -3872,7 +3872,7 @@ Documentation future assessment aur traceability support karti hai. Site/lateral
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q17](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q17](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q17-a-nurse-has-a-conflict-of-interest-in-recommending-a-paid-product-to-a-patient-which-action-is-appropriate)
 
 ### Q116. A patient receiving a potassium-containing IV solution has an unexpectedly high potassium result. Which action is safest?
 
