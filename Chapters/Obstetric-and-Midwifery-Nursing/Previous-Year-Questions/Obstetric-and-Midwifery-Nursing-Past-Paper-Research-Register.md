@@ -57,3 +57,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Fetal membranes — 28 November 2026
 
 [One BHU 22 October 2019 reported adaptation, official-domain MP ESB extraction defect and related leads](05B-Fetal-Membranes-Reported-Evidence.md). Current obstetric reported total: 14. No official item/key authentication or exact video playback claimed.
+
+## Amniotic fluid — 28 November 2026
+
+[Two RRB 6 June 2018 and GMCH 28 August 2022 reported adaptations](05C-Amniotic-Fluid-Reported-Evidence.md). Third-party pages retrieved, official paper/key unverified. Historical two-liter convention distinguished from SMFM ultrasound criteria. Current obstetric reported total: 16; exact video playback pending.
