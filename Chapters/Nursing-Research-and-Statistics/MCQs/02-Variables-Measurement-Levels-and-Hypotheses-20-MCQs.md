@@ -4,26 +4,30 @@
 
 [Chapter](../README.md) · [Study designs](01-Research-Process-and-Study-Designs-20-MCQs.md)
 
-### Q1. In a trial of a structured sleep education session, the primary outcome is the patient's sleep quality score at day seven. Which variable is manipulated by the investigator?
+### Q1. Assume that two unrelated factors, a patient's distance from hospital and symptom severity, both influence whether the patient attends a specialist clinic. A researcher studies only clinic attendees and finds an association between distance and severity. Which mechanism could produce this association even if the factors are unrelated in the source population?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Day-seven sleep quality score
-- **B.** Patient age at enrollment
-- **C.** Education session assignment
-- **D.** Baseline sleep quality
+- **A.** Confounding by a common cause of distance and severity
+- **B.** Mediation of the effect of distance through symptom severity
+- **C.** Selection bias from conditioning on a common effect
+- **D.** Random measurement error in a continuous variable
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Education session assignment**
+**Correct: C. Selection bias from conditioning on a common effect**
 
-**C.** Researcher education session ka allocation decide karta hai aur uska effect measure karta hai. Is trial mein yahi independent variable hai.
+**C.** Clinic attendance dono factors se influence hoti hai, isliye yeh common effect hai, jise collider bhi kehte hain. Jab researcher sirf attendees ko select karta hai, toh selection ke kaaran distance aur severity ke beech artificial association aa sakti hai. Is association ko direct causal effect mat samjho.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Sleep quality score response hai jo intervention ke baad measure hota hai. Isliye yeh dependent variable hai.
-- **B.** Age participant ki baseline characteristic hai. Researcher age assign nahi karta.
-- **D.** Baseline score comparison ke liye important hai, lekin woh assigned intervention nahi hai.
+- **A.** Confounding tab ho sakti hai jab koi third factor exposure aur outcome dono ka common cause ho. Yahan question mein clinic attendance ko distance aur severity dono ka result bataya gaya hai, common cause nahi.
+- **B.** Mediator exposure se outcome tak ke causal pathway ka intermediate factor hota hai. Question assume karta hai ki distance aur severity source population mein unrelated hain, isliye mediation ka pathway establish nahi hua hai.
+- **D.** Random measurement error reading ya recording ki uncertainty se related hai. Is scenario mein problem clinic attendance ke basis par selection ki hai, measurement error ka evidence nahi diya gaya hai.
+
+**Exam clue:** Common effect par restriction se artificial association ban sakti hai.
+
+**Related concept reference:** [Cole et al., conditioning on a collider](https://pmc.ncbi.nlm.nih.gov/articles/PMC2846442/). Indexed source lead. Full detail review pending. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -50,6 +54,10 @@
 - **C.** Allocation ek study method hai jo groups banata hai. Yeh patient ka measured outcome nahi hai.
 - **D.** Registration number study ko identify karta hai. Yeh intervention ka clinical ya behavioral response nahi hai.
 
+**Exam clue:** Outcome woh variable hai jisme response measure hota hai.
+
+**Related concept reference:** [Nursing research question and FINER checklist](https://advancing-evidence-based-nursing-research.pressbooks.tru.ca/chapter/refining-the-research-topic/). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -67,13 +75,17 @@
 
 **Correct: B. It specifies an operational definition of the measured event**
 
-**B.** Operational definition batati hai ki abstract idea ko data mein kaise identify aur count kiya jayega. Authorized hold ko exclude karne se actual study outcome ki boundaries clear hoti hain.
+**B.** Operational definition batati hai ki abstract idea ko data mein kaise identify aur count kiya jayega. Authorized hold ko exclude karne se study outcome ki boundaries clear hoti hain. Lekin dose documented na hona aur dose sach mein na diya jana ek hi baat nahi hai. Isliye outcome ko documentation-based event ke roop mein interpret karo.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Missed dose ko define karna causation prove nahi karta. Staffing aur outcome ka relation appropriate design aur analysis se evaluate karna padega.
 - **C.** Conceptual theory broader mechanism ya meaning samjha sakti hai. Yahan specific event count karne ka measurable rule diya gaya hai.
 - **D.** Clear definition measurement improve kar sakti hai, lekin validity ko evidence se evaluate karna hota hai. Documentation error ya misclassification phir bhi possible hai.
+
+**Exam clue:** Operational definition exact measurement rule batati hai.
+
+**Related concept reference:** [CDC analysis and interpretation](https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -100,6 +112,10 @@
 - **B.** Study ka outcome pressure injury rate hai. Age ek separate patient characteristic hai.
 - **C.** Researcher ne age assign nahi ki. Natural baseline characteristic ko random treatment kehna sahi nahi hai.
 
+**Exam clue:** Exposure aur outcome ke common cause ko confounder ke roop mein consider karo.
+
+**Related concept reference:** [CDC analysis and interpretation](https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -125,6 +141,10 @@
 - **C.** Sampling frame eligible units ki list hoti hai. Walking frequency behavior measure hai, participant list nahi.
 - **D.** Randomization sequence group assignment decide karti hai. Walking frequency intervention ke baad observe ho rahi hai.
 
+**Exam clue:** Mediator causal pathway ke beech mein hota hai.
+
+**Related concept reference:** [CDC analysis and interpretation](https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -142,13 +162,17 @@
 
 **Correct: A. Effect modification by health literacy**
 
-**A.** Effect modification mein intervention ka effect subgroup ke hisaab se different hota hai. Yahan literacy level treatment response ko modify kar sakta hai.
+**A.** Effect modification mein intervention ka effect subgroup ke hisaab se different hota hai. Yahan literacy level treatment response ko modify kar sakta hai. Effect modification ko interpret karte waqt chosen effect scale aur interaction ki uncertainty bhi check karni chahiye.
 
 **Baaki options kyun galat hain?**
 
 - **B.** Precision repeated estimates ki uncertainty se related hai. Subgroup-specific effect difference ko sirf precision ka naam nahi diya ja sakta.
 - **C.** Universal effect ka claim subgroup differences ko ignore karta hai. Interaction evidence indicate karti hai ki effect magnitude same nahi hai.
 - **D.** Adherence outcome hai, lekin literacy ke according effect compare karna additional interaction question hai. Is distinction ko ignore karne se important finding miss hogi.
+
+**Exam clue:** Effect modification chosen effect scale par depend kar sakti hai.
+
+**Related concept reference:** [CDC analysis and interpretation](https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -175,7 +199,11 @@
 - **B.** Yeh no-difference statement null hypothesis ki example hai. Expected reduction specify nahi ki gayi hai.
 - **D.** Yeh measurement procedure describe karta hai. Do groups ke relation ke baare mein testable prediction nahi deta.
 
-**YouTube MCQ practice:** verification pending.
+**Exam clue:** Higher ya lower jaise direction words ko identify karo.
+
+**Related concept reference:** [OpenStax hypothesis testing, section 9.1](https://openstax.org/books/introductory-statistics-2e/pages/9-1-null-and-alternative-hypotheses). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
+**YouTube MCQ practice:** [Nursing RESEARCH: Common Board Exam Questions](https://www.youtube.com/watch?v=MC6dRGFwTPg). Indexed publisher description specifically mentions directional hypothesis. Topic-level lead only. Watch-page retrieval failed, channel identity, exact item and timestamp unverified.
 
 </details>
 
@@ -199,6 +227,10 @@
 - **A.** Yeh directional alternative hai kyunki ek method ka higher score predict kiya gaya hai. Null hypothesis nahi hai.
 - **B.** Yeh two-sided alternative hypothesis hai. Ismein no-difference assumption ke opposite claim diya gaya hai.
 - **C.** Yeh protocol ka part hai jo comparable measurement mein madad karta hai. Population means ka hypothesis nahi batata.
+
+**Exam clue:** Equal population means two-sided no-difference null ko represent karte hain.
+
+**Related concept reference:** [OpenStax hypothesis testing, section 9.1](https://openstax.org/books/introductory-statistics-2e/pages/9-1-null-and-alternative-hypotheses). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -225,6 +257,10 @@
 - **C.** One-sided test appropriate ho sakta hai jab direction pehle justified ho. Post hoc selection bias aur error control ki problem create kar sakta hai.
 - **D.** Hypothesis change karne se group allocation process change nahi hota. Randomization actual study procedure se decide hoti hai.
 
+**Exam clue:** Test direction result dekhne ke baad choose mat karo.
+
+**Related concept reference:** [OpenStax hypothesis testing, section 9.1](https://openstax.org/books/introductory-statistics-2e/pages/9-1-null-and-alternative-hypotheses). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -249,6 +285,10 @@
 - **A.** Equivalence establish karne ke liye predefined equivalence margin aur appropriate analysis chahiye. Ordinary nonsignificant result equivalence prove nahi karta.
 - **B.** Study population ka result har setting mein exact zero effect establish nahi karta. Small ya imprecise effect possible rehta hai.
 - **C.** Statistical test uncertainty ke saath evidence evaluate karta hai. Null reject na karne se alternative ko certainly false nahi kaha ja sakta.
+
+**Exam clue:** Null reject na karna equivalence establish nahi karta.
+
+**Related concept reference:** [OpenStax hypothesis testing, section 9.1](https://openstax.org/books/introductory-statistics-2e/pages/9-1-null-and-alternative-hypotheses). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -275,6 +315,10 @@
 - **C.** Interval scale mein equal numerical distances meaningful hoti hain. Blood group labels ke beech numerical distance nahi hoti.
 - **D.** Ratio scale mein true zero aur meaningful ratios hote hain. Blood group ke category labels mein yeh property nahi hai.
 
+**Exam clue:** Unordered category nominal hoti hai.
+
+**Related concept reference:** [OpenStax levels of measurement, section 1.3](https://openstax.org/books/introductory-statistics-2e/pages/1-3-frequency-frequency-tables-and-levels-of-measurement). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -299,6 +343,10 @@
 - **A.** Nominal categories mein meaningful order nahi hota. Yahan dissatisfaction se satisfaction tak order present hai.
 - **B.** Interval measurement mein equal distances assume ya establish ki jati hain. Single ordered response item se equal spacing automatically prove nahi hoti.
 - **D.** Ratio scale mein true zero aur meaningful multiplication hoti hai. Satisfaction categories mein zero ka aisa measurement meaning nahi hai.
+
+**Exam clue:** Single ordered satisfaction item ordinal hota hai.
+
+**Related concept reference:** [OpenStax levels of measurement, section 1.3](https://openstax.org/books/introductory-statistics-2e/pages/1-3-frequency-frequency-tables-and-levels-of-measurement). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -325,6 +373,10 @@
 - **B.** Duration ka zero no elapsed time ko represent karta hai. Equal units aur meaningful ratios ki wajah se yeh ratio scale hai.
 - **C.** Visit count ka meaningful zero hai aur counts compare kiye ja sakte hain. Yeh discrete ratio-level variable hai.
 
+**Exam clue:** Celsius mein zero absolute absence nahi hai.
+
+**Related concept reference:** [OpenStax levels of measurement, section 1.3](https://openstax.org/books/introductory-statistics-2e/pages/1-3-frequency-frequency-tables-and-levels-of-measurement). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -349,6 +401,10 @@
 - **A.** Body mass measurement theoretically fractional values le sakta hai. Device rounding ke bawajood underlying variable continuous hai.
 - **B.** Time fractional units mein measure ho sakta hai. Isliye underlying variable continuous hai.
 - **D.** Concentration numerical continuum par measure hoti hai, chahe lab rounding kare. Yeh count variable nahi hai.
+
+**Exam clue:** Counts discrete hote hain, measured quantities continuous ho sakti hain.
+
+**Related concept reference:** [OpenStax levels of measurement, section 1.3](https://openstax.org/books/introductory-statistics-2e/pages/1-3-frequency-frequency-tables-and-levels-of-measurement). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -375,6 +431,10 @@
 - **C.** Order coding se automatically establish nahi hota. Researcher ko categories ki actual meaning ke according analysis karna chahiye.
 - **D.** Code assign karne se participant counts change nahi hote. Category frequency observed data se calculate hoti hai.
 
+**Exam clue:** Numeric category codes arithmetic measurement nahi ban jate.
+
+**Related concept reference:** [OpenStax levels of measurement, section 1.3](https://openstax.org/books/introductory-statistics-2e/pages/1-3-frequency-frequency-tables-and-levels-of-measurement). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -399,6 +459,10 @@
 - **A.** Continuous variable relation ko linear prove nahi karta. Researcher ko pattern assess karke suitable model choose karna padta hai.
 - **C.** Measurement scale change se confounding eliminate nahi hoti. Staffing level aur other factors ka relation ab bhi consider karna hoga.
 - **D.** Exposure ko continuous measure karna intervention assign karne ke barabar nahi hai. Observational design observational hi rehta hai.
+
+**Exam clue:** Arbitrary grouping se measured variation lose ho sakti hai.
+
+**Related concept reference:** [OpenStax levels of measurement, section 1.3](https://openstax.org/books/introductory-statistics-2e/pages/1-3-frequency-frequency-tables-and-levels-of-measurement). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -425,6 +489,10 @@
 - **C.** Sirf measured covariate adjust karne se unmeasured confounding eliminate nahi hoti. Model assumptions aur study design important rehte hain.
 - **D.** Baseline score final learning response ka replacement nahi hai. Intervention outcome assess karne ke liye planned follow-up measurement chahiye.
 
+**Exam clue:** Baseline adjustment appropriate model mein precision improve kar sakta hai.
+
+**Related concept reference:** [CDC analysis and interpretation](https://www.cdc.gov/field-epi-manual/php/chapters/analyze-interpret-data.html). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -450,6 +518,10 @@
 - **B.** Prespecification transparent reporting ko support karti hai. Unfavorable ya unexpected relevant results selectively hide karna scientific integrity ke against hai.
 - **C.** Primary label significance guarantee nahi karta. Result actual effect, variability aur study data par depend karta hai.
 
+**Exam clue:** Primary outcome aur exploratory findings alag identify karo.
+
+**Related concept reference:** [Cochrane Handbook chapter 8, RoB 2](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-08). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -459,21 +531,25 @@
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Compare anxiety scores at a specified follow-up between intervention and usual-care groups
-- **B.** Prove that all nurses who use the intervention are better people
-- **C.** Demonstrate that the intervention must work regardless of evidence
-- **D.** Choose whichever outcome makes the program look successful
+- **B.** Assess whether communication is generally good without defining a measure
+- **C.** Describe the intervention materials without evaluating anxiety
+- **D.** Compare anxiety scores only among participants selected after observing their improvement
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. Compare anxiety scores at a specified follow-up between intervention and usual-care groups**
 
-**A.** Yeh objective population groups, measurable outcome aur time point define karta hai. Iske basis par researcher suitable comparison aur measurement plan bana sakta hai.
+**A.** Yeh objective comparison groups, measurable outcome aur follow-up time define karta hai. Isse researcher pehle se suitable measurement aur analysis plan bana sakta hai, bina favorable result assume kiye.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Yeh subjective value judgment hai aur measurable criteria define nahi karta. Scientific objective ko neutral aur testable hona chahiye.
-- **C.** Research objective result ko pehle se force nahi karta. Findings unfavorable bhi ho sakti hain aur unhe honestly report karna chahiye.
-- **D.** Outcome data dekhkar choose karne se selective reporting bias aa sakta hai. Main objective study se pehle clearly define karna better hai.
+- **B.** Communication generally good hai ya nahi, yeh phrase clear measurable outcome nahi batata. Is study ka focus anxiety par hai, isliye relevant indicator aur assessment time define karna hoga.
+- **C.** Intervention materials describe karna methods ke liye useful hai. Lekin sirf materials ka description anxiety change ke study objective ko answer nahi karta.
+- **D.** Improvement dekhne ke baad participants select karne se result biased ho sakta hai. Isliye eligibility aur comparison plan outcome observe karne se pehle define karo.
+
+**Exam clue:** Measurable comparison ko expected favorable result se alag rakho.
+
+**Related concept reference:** [Nursing research question and FINER checklist](https://advancing-evidence-based-nursing-research.pressbooks.tru.ca/chapter/refining-the-research-topic/). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -499,6 +575,10 @@
 - **A.** Is phrase mein clear constructs aur expected relationship nahi hai. Isse data collection aur analysis aur difficult ho jayega.
 - **B.** Variables ko list karna hypothesis ka substitute nahi hai. Hypothesis mein testable relation ya difference specify hona chahiye.
 - **D.** Conclusion study evidence ke baad aana chahiye. Pehle conclusion fix karne se confirmation bias ka risk badhta hai.
+
+**Exam clue:** Testability ke liye population, variables aur relationship clear rakho.
+
+**Related concept reference:** [Nursing research question and FINER checklist](https://advancing-evidence-based-nursing-research.pressbooks.tru.ca/chapter/refining-the-research-topic/). Direct HTML retrieved. Exact item-specific source depth remains subject to review.
 
 **YouTube MCQ practice:** verification pending.
 
