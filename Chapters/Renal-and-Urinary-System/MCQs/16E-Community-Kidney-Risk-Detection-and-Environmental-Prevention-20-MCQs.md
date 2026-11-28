@@ -252,28 +252,28 @@ Heart failure CKD risk se associated hai; coordinated cardiorenal monitoring use
 
 </details>
 
-### Q11. Several farm workers report taking unscheduled drinking breaks because water is far from the fields. Which intervention is most relevant to preventing recurrent dehydration-related renal injury?
+### Q11. An adult with recurrent kidney calculi feels well after passing the latest stone and asks whether ongoing kidney-health assessment is needed. Which advice is appropriate?
 
 **Difficulty:** Medium | **Topic:** Community kidney-risk detection and environmental prevention | **Priority:** High | **Type:** Original practice
 
-- **A.** Move potable-water access closer to work areas and ensure permitted drinking breaks
-- **B.** Distribute kidney-awareness leaflets without changing access
-- **C.** Offer extra water only on nonworking days
-- **D.** Ask workers to track urine color instead of improving water access
+- **A.** Discuss ongoing kidney-risk surveillance because recurrent calculi are a recognized CKD risk factor
+- **B.** Stop renal follow-up whenever colic resolves
+- **C.** Assume previous stones establish diabetic kidney disease
+- **D.** Use stone passage alone as proof of preserved long-term filtration
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Move potable-water access closer to work areas and ensure permitted drinking breaks**
+**Correct: A. Discuss ongoing kidney-risk surveillance because recurrent calculi are a recognized CKD risk factor**
 
-Physical access aur break permission real hydration barriers solve karte hain.
+Recurrent calculi CKD risk factor hain; renal surveillance acute stone episode se alag longitudinal goal hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Leaflet awareness improve kar sakta hai, par water access gap remain hota hai.
-- **C.** Off-day water working-day dehydration prevent nahi karta.
-- **D.** Urine color alone adequate hydration ya kidney function prove nahi karta.
+- **B.** Pain relief recurrent stone-associated obstruction ya infection risk ko eliminate nahi karta.
+- **C.** Stone history diabetic nephropathy ka diagnosis establish nahi karti.
+- **D.** Stone pass hona long-term eGFR ya albuminuria status prove nahi karta.
 
-**Exam clue:** Address the practical barrier to preventive behavior.
+**Exam clue:** Recurrent stones justify attention to long-term renal health, beyond confirming passage.
 
 </details>
 
