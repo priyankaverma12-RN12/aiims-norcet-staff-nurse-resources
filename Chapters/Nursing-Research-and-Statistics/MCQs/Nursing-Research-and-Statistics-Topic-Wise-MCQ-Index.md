@@ -61,3 +61,7 @@ Banks 03 and 04, Q1–20 each, reviewed and corrected. Forty exam clues and fort
 ## Batch 07 measurement rigor and descriptive statistics
 
 Banks 05 and 06, Q1–20 each, reviewed. Three overlapping tasks replaced with measurement-error threshold, misleading chart-axis interpretation and variance conversion. Forty exam clues and related references added, all answer letters and slots preserved. Numerical checks and exact remote readbacks passed. [Batch 07 corrective audit](../Concepts/Batch-07-Measurement-Rigor-and-Descriptive-Statistics-Corrective-Audit.md). Candidate count remains 300 staged originals plus four legacy originals and three reported adaptations, 307 slots. Prior six guides, diagrams and earlier audits unchanged. No new mocks or main publication credited. Remaining independent, preflight, source/video and coordination gates must pass.
+
+## Batch 08 inferential statistics and research ethics
+
+Banks 07 and 08 reviewed, three learning tasks revised, 37 exam clues and related references added, earlier ethics Q3/Q7/Q19 preserved byte-for-byte. Nine numerical recalculations passed. Fresh complete structural verification: 300 distinct normalized stems, 1200 options and rationales, 300 hidden answers, balanced keys, zero structural errors. [Batch 08 corrective audit](../Concepts/Batch-08-Inferential-Statistics-and-Ethics-Corrective-Audit.md). Inventory unchanged at 307 candidate slots. No live publication or mocks credited. Independent review and remaining gates pending.
