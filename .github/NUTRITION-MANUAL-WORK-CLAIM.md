@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-08d-reference-intakes-20261128-0913Z
+Scope: Isolated PR35 08D dietary reference intake interpretation, new bank, guide, diagram and local audit. No shared navigation, website or other chapter edits.
+Claimed UTC: 2026-11-28T09:13:00Z
+Expiry UTC: 2026-11-28T09:43:00Z
 
 ## Latest released checkpoint — 08C food fortification and quality assurance
 
