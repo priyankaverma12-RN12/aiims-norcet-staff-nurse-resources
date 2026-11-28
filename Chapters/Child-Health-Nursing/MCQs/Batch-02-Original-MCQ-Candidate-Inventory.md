@@ -6,12 +6,12 @@
 |---|---:|---:|---:|---:|---:|---|
 | [02A IMNCI](02A-IMNCI-Health-Worker-Classification-and-Follow-Up-20-MCQs.md) | 20 | 80 | 0 | 11 | 9 | e610ae91395f354c9509887317fdde12324ae3d7 |
 | [02B UIP/AEFI](02B-Pediatric-UIP-Vaccination-and-AEFI-20-MCQs.md) | 20 | 80 | 1 | 12 | 7 | d371c72b27ba2589beffe968771342edcf152b38 |
-| [02C Croup](02C-Acute-Viral-Croup-20-MCQs.md) | 20 | 80 | 2 | 10 | 8 | 6cb9d55aa9963ee89079359decd548193738d4c6 |
-| [02D Bronchiolitis](02D-Acute-Viral-Bronchiolitis-20-MCQs.md) | 20 | 80 | 2 | 10 | 8 | 6bd479add743c882e81250894737544f86a048e8 |
+| [02C Croup](02C-Acute-Viral-Croup-20-MCQs.md) | 20 | 80 | 2 | 12 | 6 | e329b47f378525b9d719a1bf9ebe8da70eb2d5d1 |
+| [02D Bronchiolitis](02D-Acute-Viral-Bronchiolitis-20-MCQs.md) | 20 | 80 | 2 | 15 | 3 | 029cd1564d8dcd8ea793da4a6cc7685be327e621 |
 | [02E EA/TEF](02E-Esophageal-Atresia-and-TEF-20-MCQs.md) | 20 | 80 | 1 | 13 | 6 | e0534b3b0f333206f0be1477d6c18254f4998ae1 |
-| New Batch 02 total | 100 | 400 | 6 | 56 | 38 | candidate only |
+| New Batch 02 total | 100 | 400 | 6 | 63 | 31 | candidate only |
 | [Batch 01 revised](Batch-01-Original-MCQ-Candidate-Inventory.md) | 100 | 400 | 34 | 66 | 0 | candidate only |
-| Batches 01–02 subtotal | 200 | 800 | 40 | 122 | 38 | not live |
+| Batches 01–02 subtotal | 200 | 800 | 40 | 129 | 31 | not live |
 
 Existing four starter originals and one reported adaptation excluded from candidate totals and preserved.
 
@@ -38,3 +38,7 @@ Remain draft. Require current main comparison, PR7/8/12/35 acknowledgement and r
 ## Batch 05 continuation
 
 01E Q1–20 reviewed; 80 separately labeled rationales expanded, 20 clues and targeted references added. Original stems/options/keys/priorities unchanged. Commit 276dde1805434240cb3e39162623bef11fba456f. Independent review pending. Five additional banks (03A–03E) staged; see [current cumulative inventory](Batch-05-Original-MCQ-Candidate-Inventory.md). Next corrective scope is remaining unreviewed Batch 02 items, without repeating completed priority fixes.
+
+## Batch 07 targeted corrective checkpoint
+
+The Batch 06 Q15 croup correction is now reflected in the bank row above. Batch 07 corrected 02D Q1–5, Q8–13 and Q15–17 (14 questions, 56 individually expanded rationales, five Difficult to Medium recalibrations) in [fd3b503f](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/commit/fd3b503fa5c8cc1fff66f1fffade79fde73a3010). Q5 distractors were strengthened without altering its stem or correct answer. Previously corrected 02D Q6/7/14/18/19/20 were left byte-identical. Croup Q16/17 (eight rationales and one difficulty recalibration) corrected in [307c6cfa](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/commit/307c6cfa549a480028ae74e4f8688321d7af07be), including clear hot-steam scald prevention and urgent transfer teaching. Both bank commits passed exact remote readback. No new original questions or key changes. Counts in the table reflect the corrected 02C and 02D banks. Further 02A/02B/02C/02E question-level review and independent semantic/clinical/video release gates remain pending. Do not regenerate completed blocks. See the cumulative Batch 06 inventory for the current 400 staged originals.
