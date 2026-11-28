@@ -10,18 +10,18 @@ Clinical evidence: [MSD HPS](https://www.msdmanuals.com/home/lung-and-airway-dis
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Digital clubbing
-- **B.** Splinter hemorrhages only
+- **A.** Splinter hemorrhages only
+- **B.** Digital clubbing
 - **C.** Koilonychia only
 - **D.** Acute nail avulsion
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Digital clubbing**
+**Correct answer: B. Digital clubbing**
 
-**A. Kyun sahi hai:** Clubbing mein fingertip aur nail ka shape badal sakta hai aur HPS mein yeh mil sakta hai, lekin doosri conditions mein bhi hota hai.
+**A. Kyun galat hai:** Splinter hemorrhages nail ke neeche bleeding lines hain, jo HPS ka typical described nail finding nahi hain.
 
-**B. Kyun galat hai:** Splinter hemorrhages nail ke neeche bleeding lines hain, jo HPS ka typical described nail finding nahi hain.
+**B. Kyun sahi hai:** Clubbing mein fingertip aur nail ka shape badal sakta hai aur HPS mein yeh mil sakta hai, lekin doosri conditions mein bhi hota hai.
 
 **C. Kyun galat hai:** Koilonychia spoon-shaped nail hai, jo iron deficiency jaise causes se associated ho sakta hai.
 
@@ -36,21 +36,21 @@ Clinical evidence: [MSD HPS](https://www.msdmanuals.com/home/lung-and-airway-dis
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Pallor
-- **B.** Cyanosis
-- **C.** Erythema
-- **D.** Icterus
+- **B.** Erythema
+- **C.** Icterus
+- **D.** Cyanosis
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Cyanosis**
+**Correct answer: D. Cyanosis**
 
 **A. Kyun galat hai:** Pallor mein skin pale lagti hai, blue discoloration ko pallor nahi kehte.
 
-**B. Kyun sahi hai:** Cyanosis mein oxygenation ki problem ke saath lips ya mucosa blue dikh sakte hain, jise assess karna chahiye.
+**B. Kyun galat hai:** Erythema redness ko describe karta hai, bluish color ko nahi.
 
-**C. Kyun galat hai:** Erythema redness ko describe karta hai, bluish color ko nahi.
+**C. Kyun galat hai:** Icterus bilirubin se related yellow discoloration hai, blue discoloration nahi.
 
-**D. Kyun galat hai:** Icterus bilirubin se related yellow discoloration hai, blue discoloration nahi.
+**D. Kyun sahi hai:** Cyanosis mein oxygenation ki problem ke saath lips ya mucosa blue dikh sakte hain, jise assess karna chahiye.
 
 **Exam clue:** Blue lips ko cyanosis ke naam se document karo.
 
@@ -60,20 +60,20 @@ Clinical evidence: [MSD HPS](https://www.msdmanuals.com/home/lung-and-airway-dis
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Left atrium
-- **B.** Left ventricle
-- **C.** Right ventricle
+- **A.** Right ventricle
+- **B.** Left atrium
+- **C.** Left ventricle
 - **D.** Right atrium alone
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Right ventricle**
+**Correct answer: A. Right ventricle**
 
-**A. Kyun galat hai:** Left atrium lungs se aane wala blood receive karta hai, pulmonary arteries mein blood pump nahi karta.
+**A. Kyun sahi hai:** Right ventricle lungs ki arteries mein blood bhejta hai, isliye pulmonary resistance badhne par is par workload badhta hai.
 
-**B. Kyun galat hai:** Left ventricle systemic circulation mein blood pump karta hai, pulmonary arterial circuit mein nahi.
+**B. Kyun galat hai:** Left atrium lungs se aane wala blood receive karta hai, pulmonary arteries mein blood pump nahi karta.
 
-**C. Kyun sahi hai:** Right ventricle lungs ki arteries mein blood bhejta hai, isliye pulmonary resistance badhne par is par workload badhta hai.
+**C. Kyun galat hai:** Left ventricle systemic circulation mein blood pump karta hai, pulmonary arterial circuit mein nahi.
 
 **D. Kyun galat hai:** Right atrium venous blood receive karta hai, pulmonary artery tak main pumping right ventricle karta hai.
 
@@ -85,22 +85,22 @@ Clinical evidence: [MSD HPS](https://www.msdmanuals.com/home/lung-and-airway-dis
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Unilateral corneal abrasion
-- **B.** Isolated hearing loss
-- **C.** Dental caries
-- **D.** Distended neck veins
+- **A.** Flat neck veins during volume depletion
+- **B.** Isolated inspiratory stridor
+- **C.** Distended neck veins
+- **D.** Isolated expiratory wheeze
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Distended neck veins**
+**Correct answer: C. Distended neck veins**
 
-**A. Kyun galat hai:** Corneal abrasion eye surface ki injury hai, systemic venous pressure ka sign nahi hai.
+**A. Kyun galat hai:** Volume depletion mein neck veins flat dikh sakti hain, jo raised systemic venous pressure ke opposite hai.
 
-**B. Kyun galat hai:** Hearing loss se right heart congestion identify nahi hota.
+**B. Kyun galat hai:** Stridor upper airway narrowing ka sign ho sakta hai, systemic venous congestion ka direct marker nahi hai.
 
-**C. Kyun galat hai:** Dental caries teeth ki condition hai, venous pressure ka bedside marker nahi hai.
+**C. Kyun sahi hai:** Right heart strain ke saath venous pressure badh sakta hai aur neck veins distended dikh sakti hain.
 
-**D. Kyun sahi hai:** Right heart strain ke saath venous pressure badh sakta hai aur neck veins distended dikh sakti hain.
+**D. Kyun galat hai:** Wheeze airway narrowing se associated ho sakti hai, raised jugular venous pressure ka direct sign nahi hai.
 
 **Exam clue:** Raised neck venous pressure right heart congestion ka clue ho sakta hai.
 
@@ -110,22 +110,22 @@ Clinical evidence: [MSD HPS](https://www.msdmanuals.com/home/lung-and-airway-dis
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Hemoptysis
-- **B.** Hematuria
-- **C.** Melena
-- **D.** Hematemesis
+- **A.** Hematuria
+- **B.** Melena
+- **C.** Hematemesis
+- **D.** Hemoptysis
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Hemoptysis**
+**Correct answer: D. Hemoptysis**
 
-**A. Kyun sahi hai:** Cough ke saath blood aane ko hemoptysis kehte hain aur PoPH mein is symptom ki prompt assessment important hai.
+**A. Kyun galat hai:** Hematuria urine mein blood ko describe karta hai, cough mein blood ko nahi.
 
-**B. Kyun galat hai:** Hematuria urine mein blood ko describe karta hai, cough mein blood ko nahi.
+**B. Kyun galat hai:** Melena black tarry stool ko describe karta hai, respiratory bleeding ko nahi.
 
-**C. Kyun galat hai:** Melena black tarry stool ko describe karta hai, respiratory bleeding ko nahi.
+**C. Kyun galat hai:** Hematemesis vomiting ke saath blood aana hai, coughing ke saath blood aana nahi.
 
-**D. Kyun galat hai:** Hematemesis vomiting ke saath blood aana hai, coughing ke saath blood aana nahi.
+**D. Kyun sahi hai:** Cough ke saath blood aane ko hemoptysis kehte hain aur PoPH mein is symptom ki prompt assessment important hai.
 
 **Exam clue:** Cough mein blood aur vomit mein blood ko alag terms se yaad rakho.
 
@@ -135,22 +135,22 @@ Clinical evidence: [MSD HPS](https://www.msdmanuals.com/home/lung-and-airway-dis
 
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** The liver directly produces oxygen
+- **A.** Bronchial mucus plugging is always the primary mechanism
 - **B.** There is less time for oxygen transfer
-- **C.** The kidneys stop producing bile
-- **D.** The pancreas absorbs all inhaled oxygen
+- **C.** Left atrial obstruction is required
+- **D.** Hemoglobin synthesis always stops
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. There is less time for oxygen transfer**
 
-**A. Kyun galat hai:** Liver oxygen produce nahi karta, blood ki oxygenation lungs mein hoti hai.
+**A. Kyun galat hai:** Mucus plugging ventilation ko affect kar sakta hai, lekin HPS mein primary problem pulmonary vascular dilatation se related hai.
 
 **B. Kyun sahi hai:** Jab blood dilated lung vessels se tez guzarta hai, toh oxygen transfer ke liye time kam ho sakta hai.
 
-**C. Kyun galat hai:** Bile liver mein banti hai, kidney mein nahi, aur yeh oxygen transfer ka explanation nahi hai.
+**C. Kyun galat hai:** Left atrial obstruction HPS ke rapid pulmonary blood transit ko explain karne ke liye required nahi hai.
 
-**D. Kyun galat hai:** Pancreas inhaled oxygen absorb nahi karta, isliye yeh mechanism sahi nahi hai.
+**D. Kyun galat hai:** Hemoglobin synthesis ka poori tarah rukna HPS ka mechanism nahi hai, yahan gas transfer ki problem vascular changes se related hai.
 
 **Exam clue:** Rapid transit se oxygen transfer ka time kam pad sakta hai.
 
