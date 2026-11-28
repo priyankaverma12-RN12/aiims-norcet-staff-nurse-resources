@@ -6,10 +6,10 @@
 
 ### Q01. A 138-kg patient is scheduled for a sling transfer. The compatible lift is rated for 180 kg and its available sling is rated for 125 kg. Which action is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Component capacity
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Component capacity
 
-- **A.** Use two 125-kg slings together to increase capacity
-- **B.** Raise the patient only a short distance with the available sling
+- **A.** Use a 160-kg sling with an attachment system not approved for this lift
+- **B.** Select the available sling because it is correctly sized, but keep the lift height low
 - **C.** Obtain a compatible sling rated for the patient before the transfer
 - **D.** Proceed because the lift capacity exceeds the patient's weight
 
@@ -17,9 +17,9 @@
 
 **Correct answer: C. Obtain a compatible sling rated for the patient before the transfer**
 
-**A. Kyun galat hai:** Do slings jodne se certified capacity add nahi ho jaati. Unapproved arrangement attachments aur balance ko unsafe bana sakta hai.
+**A. Kyun galat hai:** 160 kg ki rating patient ke weight se zyada hai, lekin sling ka attachment system lift ke liye approved nahi hai. Capacity satisfy hone ke bawajood compatibility confirm honi chahiye, warna sling detach ho sakti hai.
 
-**B. Kyun galat hai:** Kam height par bhi sling par patient ka weight aata hai. Chhota lift overload ki problem solve nahi karta.
+**B. Kyun galat hai:** Correct size aur low lifting height dono useful considerations hain, lekin 125 kg ki load limit change nahi hoti. Patient ka poora supported weight sling par aayega. Isliye overload ka risk remain karega.
 
 **C. Kyun sahi hai:** Lift aur sling dono patient ka weight safely handle karne chahiye. Yahan sling ki limit 125 kg hai aur patient 138 kg ka hai. Isliye suitable compatible sling milne tak lift start nahi karni chahiye.
 
@@ -161,7 +161,7 @@
 
 ### Q06. A patient with a continuous IV infusion and urinary drainage bag is being moved from bed to stretcher. Which action specifically prevents attachment-related injury?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Attachment management
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Attachment management
 
 - **A.** Suspend both devices from the patient's clothing during movement
 - **B.** Disconnect the infusion and urinary drainage system routinely before all transfers
@@ -178,7 +178,7 @@
 
 **C. Kyun galat hai:** Transfer ke baad check useful hai, lekin movement ke dauran line pull hone se injury pehle hi ho sakti hai. Isliye preparation aur monitoring dono zaroori hain.
 
-**D. Kyun sahi hai:** Line ko insertion site se device tak follow karne se loop, tension aur trapping identify ho sakti hai. Ek team member attachments monitor kare toh dislodgement ke risk ko timely address kiya ja sakta hai.
+**D. Kyun sahi hai:** Line ko insertion site se device tak follow karne se loop, tension aur trapping identify ho sakti hai. Ek team member attachments monitor kare toh dislodgement ke risk ko timely address kiya ja sakta hai. IV pump aur urine drainage system ko prescribed position mein securely support karo, taaki tubing par unnecessary traction na aaye.
 
 **Exam clue:** Lines ko transfer se pehle trace karo aur movement ke dauran monitor karo.
 
@@ -378,7 +378,7 @@
 
 ### Q13. A nurse is selecting a gait belt for a patient who has a recent abdominal surgical incision where the belt would ordinarily sit. Which action is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Gait belt limitations
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Gait belt limitations
 
 - **A.** Position the belt over the incision after placing a dressing beneath it
 - **B.** Assess incision-related restrictions and select a suitable alternative transfer method with the team
@@ -391,7 +391,7 @@
 
 **A. Kyun galat hai:** Dressing incision cover karti hai, lekin belt ka load aur pressure eliminate nahi karti. Wound protection ke saath actual transfer method review zaroori hai.
 
-**B. Kyun sahi hai:** Recent incision par pressure ya traction harmful ho sakta hai. Patient ki restrictions aur safe handling assessment ke according alternative device ya approved technique choose karo.
+**B. Kyun sahi hai:** Recent abdominal surgery ke baad routine gait belt incision par direct pressure daal sakti hai. OpenStax aur OSHA guidance is situation mein belt suitability reassess karne ko support karti hain. Nurse patient ki current movement ability aur restrictions dekhkar rehabilitation team ke saath alternative approved method decide kare.
 
 **C. Kyun galat hai:** Gait belt balance aur guidance mein help karti hai. Ye full body weight suspend karne wali sling nahi hai.
 
@@ -399,7 +399,7 @@
 
 **Exam clue:** Gait belt lagane se pehle surgical sites aur devices check karo.
 
-**Clinical reference:** [Safe handling guidance](https://www.ncbi.nlm.nih.gov/sites/books/NBK599393/).
+**Clinical reference:** [OpenStax Clinical Nursing Skills 9.3, gait belt contraindications](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) and [OSHA nursing-home ergonomics, transfer belts](https://www.osha.gov/ergonomics/guidelines/nursing-home/final-nh-guidlines).
 
 **YouTube MCQ practice:** Specific item verification pending. [Patient Safety and Positioning MCQ Sessions — Ritika Mam, VS Nursing Academy](https://www.youtube.com/watch?v=SISfTMUsLHg) is an indexed broad topic lead only, not a verified solution to this item.
 
@@ -469,32 +469,32 @@
 
 ---
 
-### Q16. A patient is being transferred to a commode using an approved mechanical device. The commode is stable but is rated below the patient's weight. What should the nurse do?
+### Q16. A trained team is preparing a lateral transfer using an air-assisted glide sheet whose instructions require full inflation before movement. The sheet remains partly deflated, despite correct patient placement and secured receiving surfaces. What should the team do?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Receiving equipment capacity
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Air-assisted transfer readiness
 
-- **A.** Ask two staff to hold the commode frame throughout toileting
-- **B.** Use the commode for only a few seconds
-- **C.** Obtain a suitable weight-rated receiving commode before proceeding
-- **D.** Proceed if the patient is lowered slowly
+- **A.** Proceed slowly while the sheet continues inflating
+- **B.** Start pulling after adding another caregiver to compensate for the reduced inflation
+- **C.** Hold the transfer, check the approved inflation system and proceed only when the required inflation is achieved
+- **D.** Disconnect the blower and use the sheet as an ordinary manual transfer aid without checking its approved uses
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Obtain a suitable weight-rated receiving commode before proceeding**
+**Correct answer: C. Hold the transfer, check the approved inflation system and proceed only when the required inflation is achieved**
 
-**A. Kyun galat hai:** Staff ka support commode ki certified weight capacity increase nahi karta. Patient aur staff dono injury risk mein aa sakte hain.
+**A. Kyun galat hai:** Slow movement se partly inflated sheet ka intended performance restore nahi hota. Agar air support adequate nahi hai toh friction aur required pulling force badh sakti hai. Pehle device ki readiness confirm karni chahiye.
 
-**B. Kyun galat hai:** Short duration ka use bhi overload ko safe nahi banata. Failure ek hi moment mein ho sakta hai.
+**B. Kyun galat hai:** Extra caregiver kuch tasks mein helpful ho sakta hai, lekin incomplete inflation ko automatically safe nahi banaata. Device instructions satisfy karna zaroori hai kyunki patient aur staff dono ko injury ho sakti hai.
 
-**C. Kyun sahi hai:** Lift safe ho tab bhi receiving furniture patient ka weight handle karna chahiye. Appropriate rated commode arrange karke transfer plan complete karo.
+**C. Kyun sahi hai:** Air-assisted sheet surface ke saath friction kam karne mein help karti hai. Agar sheet fully inflate nahi hui hai toh intended support aur glide effect nahi mil sakta. Team transfer hold kare, approved pump aur connections check kare, aur manufacturer ke instructions ke according safe readiness confirm kare. Agar inflation possible nahi hai toh suitable alternative method arrange kare.
 
-**D. Kyun galat hai:** Slow lowering impact ko reduce kar sakti hai, lekin patient ka seated weight limit se zyada hi rahega. Frame fail ho sakta hai.
+**D. Kyun galat hai:** Kuch products different approved uses allow kar sakte hain, lekin uninflated sheet ko ordinary aid maan lena safe nahi hai. Device ka intended use aur patient-specific plan verify kiye bina blower disconnect karke transfer start nahi karna chahiye.
 
-**Exam clue:** Transfer equipment ke saath destination ka weight rating bhi verify karo.
+**Exam clue:** Air-assisted transfer mein actual inflation check karo. Extra pulling force device readiness ka substitute nahi hai.
 
-**Clinical reference:** [Safe handling guidance](https://www.osha.gov/ergonomics/guidelines/nursing-home/final-nh-guidlines).
+**Clinical reference:** [Stryker Sage safety information, air-assisted glide sheet warnings](https://www.stryker.com/us/en/sage/disclosure-and-safety-information.html).
 
-**YouTube MCQ practice:** Specific item verification pending. [Patient Safety and Positioning MCQ Sessions — Ritika Mam, VS Nursing Academy](https://www.youtube.com/watch?v=SISfTMUsLHg) is an indexed broad topic lead only, not a verified solution to this item.
+**YouTube MCQ practice:** Item-specific verification pending.
 
 </details>
 
@@ -719,7 +719,7 @@
 
 ### Q24. A patient with a prescribed movement restriction is scheduled to transfer using a sling. Staff find that the available sling would force the restricted joint beyond the allowed range during fitting. What should the nurse do?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Restriction-compatible device
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Restriction-compatible device
 
 - **A.** Stop and arrange a transfer method that maintains the prescribed restriction
 - **B.** Use the sling because joint restriction applies only during walking
@@ -730,7 +730,7 @@
 
 **Correct answer: A. Stop and arrange a transfer method that maintains the prescribed restriction**
 
-**A. Kyun sahi hai:** Transfer device patient-specific precautions ke saath compatible hona chahiye. Team se approved alternative arrange karo jo restricted joint ko protect kare.
+**A. Kyun sahi hai:** Sling fitting bhi ek movement hai. Agar joint prescribed range se bahar ja raha hai toh planned lift ke liye ye sling suitable nahi hai. Patient ko supported rakhkar team se aisa approved device ya fitting method arrange karo jo restriction maintain kare. Analgesia ya short movement ki permission khud se assume mat karo.
 
 **B. Kyun galat hai:** Movement restrictions sirf walking tak limited ho zaroori nahi. Sling fitting bhi prescribed joint range respect karni chahiye.
 
@@ -779,32 +779,32 @@
 
 ---
 
-### Q26. A patient is using an approved transfer aid with trained staff. During the pre-lift check, the patient reports new severe pain at the site of a recent procedure despite being comfortable at rest. What is the most appropriate response?
+### Q26. A ceiling-track lift has been selected for a patient transfer. Before the patient is raised, the team notices that the motor is not directly above the planned lift point and the lifting tape is angled. Which preparation is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** New pain before loading
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Overhead hoist alignment
 
-- **A.** Change only the sling colour and repeat the same preparation
-- **B.** Stop before loading the device, assess the new pain and clarify whether the transfer plan needs clinical modification
-- **C.** Continue because the transfer device has already passed its inspection
-- **D.** Increase the transfer speed to shorten the discomfort
+- **A.** Begin lifting and let the loaded tape pull the motor into alignment
+- **B.** Reposition the motor according to the device instructions so the lifting tape is vertical before loading
+- **C.** Ask a caregiver to pull the tape sideways throughout the lift
+- **D.** Tighten the sling straps to compensate for the angled lifting tape
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Stop before loading the device, assess the new pain and clarify whether the transfer plan needs clinical modification**
+**Correct answer: B. Reposition the motor according to the device instructions so the lifting tape is vertical before loading**
 
-**A. Kyun galat hai:** Colour change clinical restriction ya pain ka cause address nahi karta. Device aur patient condition dono evaluate karo.
+**A. Kyun galat hai:** Loaded tape ko motor position correct karne ke liye use karna approved technique nahi hai. Angled pull equipment par unintended stress daal sakta hai aur patient movement uncontrolled ho sakti hai.
 
-**B. Kyun sahi hai:** New severe procedural-site pain ka cause assess karna zaroori hai. Nurse transfer hold karke relevant clinician aur team se safe plan clarify kare, especially agar movement injury worsen kar sakti hai.
+**B. Kyun sahi hai:** Ceiling-track hoist mein motor ko suitable lift point ke directly upar position karna aur lifting tape vertical rakhna important hai. HSE guidance ke mutabik isse tape wear aur malfunction ka risk kam karne mein madad milti hai. Team patient supported rakhkar manufacturer ke instructions follow kare aur phir lift start kare.
 
-**C. Kyun galat hai:** Equipment inspection mechanical safety confirm karti hai. Patient ki new clinical symptom separate assessment demand karti hai.
+**C. Kyun galat hai:** Caregiver ka sideways pull tape ka alignment aur loading disturb kar sakta hai. Isse staff ko bhi unexpected force handle karna pad sakta hai. Motor position ko approved tareeke se correct karo.
 
-**D. Kyun galat hai:** Speed badhane se pain ka cause treat nahi hoga. Rapid movement injury risk bhi badha sakti hai.
+**D. Kyun galat hai:** Sling fit aur hoist tape direction alag safety checks hain. Sling straps tighten karne se overhead motor alignment correct nahi hota, aur wrong fit patient ko discomfort ya injury de sakti hai.
 
-**Exam clue:** Device ready ho tab bhi patient ki current clinical readiness check karo.
+**Exam clue:** Ceiling hoist ka lifting tape vertical check karo. Sling adjustment angled motor ko correct nahi karta.
 
-**Clinical reference:** [Safe handling guidance](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients).
+**Clinical reference:** [HSE Getting to grips with hoisting people, Annex 1, printed page 4](https://www.hse.gov.uk/pubns/hsis3.pdf).
 
-**YouTube MCQ practice:** Specific item verification pending. [Patient Safety and Positioning MCQ Sessions — Ritika Mam, VS Nursing Academy](https://www.youtube.com/watch?v=SISfTMUsLHg) is an indexed broad topic lead only, not a verified solution to this item.
+**YouTube MCQ practice:** Item-specific verification pending.
 
 </details>
 
