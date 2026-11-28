@@ -150,3 +150,8 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Pre-eclampsia — 28 November 2026
 
 [08B evidence and reported adaptation](08B-Pre-eclampsia-Evidence.md). Direct Testbook NORCET 7 Prelims 2024 reported abruption association retrieved. One independently worded clinical scenario adaptation, official key unauthenticated. HPRCA 25026 Shift 3 Q62 neonatal assessment indexed only, no count. Direct ISSHP, NHM and NICE NCBI text reviewed. Twenty original video candidate gaps and one adaptation gap. Obstetrics historical adaptations now 28.
+
+
+## Eclampsia — 28 November 2026
+
+[08C clinical and historical evidence](08C-Eclampsia-Evidence.md). NORCET 20 November 2021 Shift II monitoring report corroborated by two indexed versions, direct opens failed. Ambiguous duplicate reflex alternatives and temperature exception, no new adaptation counted. NHM, ISSHP, WHO and NICE retrieved. 20 specific video gaps. Obstetrics historical adaptations remain 28.

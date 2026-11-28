@@ -44,7 +44,7 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
 - Hypertensive disorders
   - Classification and recognition: [Concepts](08A-Hypertensive-Disorders-Classification-and-Recognition.md) · [20 originals](../MCQs/08A-Hypertensive-Disorders-Classification-and-Recognition-20-MCQs.md) · [Evidence](../Previous-Year-Questions/08A-Hypertensive-Disorders-Classification-and-Recognition-Evidence.md). Published, independent review pending.
   - Pre-eclampsia: [Concepts](08B-Pre-eclampsia.md) · [20 originals](../MCQs/08B-Pre-eclampsia-20-MCQs.md) · [Reported adaptation and evidence](../Previous-Year-Questions/08B-Pre-eclampsia-Evidence.md). Published, independent review pending.
-  - Eclampsia: pending.
+  - Eclampsia: [Concepts](08C-Eclampsia.md) · [20 originals](../MCQs/08C-Eclampsia-20-MCQs.md) · [Evidence](../Previous-Year-Questions/08C-Eclampsia-Evidence.md). Published, independent review pending.
   - HELLP syndrome: pending.
   - Hypertension management and nursing monitoring: pending.
 - antepartum hemorrhage
