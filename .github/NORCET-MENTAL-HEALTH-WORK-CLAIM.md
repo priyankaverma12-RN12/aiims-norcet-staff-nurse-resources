@@ -1,10 +1,10 @@
 # Dedicated Mental Health Nursing manual claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: mental-health-manual-20261128-0532Z
+Scope: Mental Health Group 02D neurological examination only, new topic files and chapter-local indexes. No shared tracker or PR changes.
+Claimed UTC: 2026-11-28T05:32:00Z
+Expiry UTC: 2026-11-28T06:02:00Z
 
 ## Verified continuation — Group 02C, 28 November 2026
 
