@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-08a-labels-20261128-0858Z
+Scope: PR35 isolated 08A Indian food labelling and standards bank, guide, SVG and ledger. No other chapter, shared navigation, learner history or schedule writes.
+Claimed UTC: 2026-11-28T08:58:00Z
+Expiry UTC: 2026-11-28T09:28:00Z
 
 ## Latest released checkpoint — 07E elderly nutrition and hydration
 

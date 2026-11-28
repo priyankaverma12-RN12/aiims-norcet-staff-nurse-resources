@@ -1,10 +1,19 @@
 # Child Health Nursing manual chapter claim
 
-State: CLAIMED
-Owner: child-health-b05-20261128-0842Z
-Scope: PR45 isolated pediatric pain corrective review and screened pediatric topic candidates only; no shared navigation or other owners
-Claimed UTC: 2026-11-28T08:42:46Z
-Expiry UTC: 2026-11-28T09:12:46Z
+State: FREE
+Owner: none
+Scope: Reserved continuation of draft PR45; no active writer
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified checkpoint — Batch 05
+
+- Released owner child-health-b05-20261128-0842Z; acquired ff278696e6b4eca0db5942351c15740a018fde47, lease 08:42:46–09:12:46 UTC on 2026-11-28.
+- Draft PR45 exact head 5b40bab34ce1a83f591e62bcca57a68559c3db75. 43 changed paths, all chapter-local. No final-head check runs returned at inspection. Prior exact-head job 140922054348 passed.
+- New 100 original questions, 400 individual rationales, five new concept guides and five original SVGs across 03A RBSK2/DEIC, 03B intussusception, 03C pyloric stenosis, 03D Hirschsprung, 03E cleft lip/palate. Exact readbacks passed. 01E Q1–20 reviewed and 80 rationales expanded, clues and difficulty calibrated without changing original stems/options/keys/priorities, commit 276dde1805434240cb3e39162623bef11fba456f. Earlier corrections preserved.
+- 15-bank remote structural audit: 300 distinct normalized stems, 1200 rationales, 300 aligned answers and closed blocks, A/B/C/D 75 each, 53 Easy/170 Medium/77 Difficult, zero structural errors. Subsequent 03E metadata alignment read back exactly. Inventory/evidence commits a2764a6bf0fd1354d53db7ebea9c13183f855d43 and 5b40bab34ce1a83f591e62bcca57a68559c3db75. Nine concept guides, 11 SVGs total; six prior rendered SVGs unchanged, five new visual renders pending. Four legacy originals and one reported adaptation untouched.
+- No live additions, mock or PYQ authorship, shared navigation, learner history, other owner or automation changes. Draft not merged. Targeted sibling scope screening and author source review completed, not full independent clinical/semantic approval. Full fresh bounded preflight certification, remaining unreviewed 02 defects, independent clinical/source/distractor/difficulty/language review, complete INC/sibling semantic reconciliation, PR7/8/12/35 clearance, latest-main reconciliation, video playback/item mapping, PDF screenshot verification, five new SVG and website/links rendering and final-head CI remain open.
+- Next: resume unreviewed 02 items, do not repeat 01A–E or documented 02 priority fixes. Inspect latest head, complete independent review and remaining gates, then further genuinely uncovered original topics under isolated claim. Complete topic coverage before ten original-only 120-question mocks and source-traced PYQs. Preserve all five hourly automations.
 
 ## Verified checkpoint — Batch 04
 

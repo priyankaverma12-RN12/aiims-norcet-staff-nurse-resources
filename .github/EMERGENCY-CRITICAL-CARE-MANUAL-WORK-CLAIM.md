@@ -1,6 +1,38 @@
 # Emergency and Critical Care Nursing manual claim
 
 State: CLAIMED
+Owner: emergency-b03-completion-20261128-0857Z
+Scope: PR49 isolated advanced ICU monitoring and non-septic shock drafts only. No navigation or live integration.
+Claimed UTC: 2026-11-28T08:57:00Z
+Expiry UTC: 2026-11-28T09:27:00Z
+
+Prior PR29/7/8 acknowledgment outstanding. No shared clinical or learner changes. Preflight and independent reviews incomplete.
+
+## Prior checkpoint
+
+# Emergency and Critical Care Nursing manual claim
+
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified released checkpoint — partial Batch 03
+
+Draft PR49: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/49
+Candidate head: 558cb680e1f858c4daab3003c94e57d52017bd2d
+Branch: emergency-critical-care-preflight-20261128
+Previous owner: emergency-b03-20261128-0842Z
+Reservation: Emergency Nursing only, resume PR49. No active lease.
+
+260 staged originals, 1,040 individual rationales, 13 banks, 13 concepts and 13 SVGs. Four legacy originals and one historical adaptation preserved. Previous ten bank blobs unchanged, including triage and three prior corrected slots. 60 new original slots and one within-batch overlap replacement. Exact readbacks and combined structural checks passed. No live inventory credit. Next advanced ICU monitoring and non-septic shock, subject to comprehensive overlap screening, then remaining INC curriculum. Full bounded preflight, independent clinical/legal and comprehensive semantic review, PR29 and PR7/8 coordination, source/video checks, rendering and actual CI pending. Preserve all other jobs and five automations.
+
+## Prior claim and history
+
+# Emergency and Critical Care Nursing manual claim
+
+State: CLAIMED
 Owner: emergency-b03-20261128-0842Z
 Scope: PR49 draft-only new emergency topic packages and targeted corrections. No shared navigation or live publication.
 Claimed UTC: 2026-11-28T08:42:00Z

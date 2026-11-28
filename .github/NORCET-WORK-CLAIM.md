@@ -1,10 +1,17 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: forward-pr48-reconcile-20261128-085709Z
+Scope: PR48 isolated latest-main reconciliation and semantic review only; no shared navigation or Renal writes.
+Claimed UTC: 2026-11-28T08:57:09Z
+Expiry UTC: 2026-11-28T09:27:09Z
+
+## Latest isolated sequential review checkpoint — Group10A–D, 28 November 2026
+
+- PR48 draft head `db190ea2533d185ed8fe497536509b472c067262` verified. Preserve 100 staged original slots, 400 individual Roman Hinglish rationales, four concept guides, four SVGs and four evidence registers. All 100 question blocks have now received sequential AI review across runs. Current run C01–26/D01–26 read and 30 blocks corrected, six candidate content commits exactly read back. Prior A/B blobs unchanged and earlier 18 corrective blocks preserved. Current final structure: 100 distinct normalized stems, 400 English options and rationales, 100 aligned answer keys and closed details blocks, 72 Medium/28 Difficult, A25 B27 C25 D23. No new live inventory.
+- Previous exact-head CI 46126553677 job 140922316921 passed every stage. Current head CI 46127348178 queued. PR48 review comment 7236803066. Next do remaining exhaustive semantic checks (do not repeat completed sequential review), independent clinical certification, source and dedicated MCQ-video gaps, actual SVG visual rendering and full bounded preflight, PR8 explicit navigation clearance 7235956981 and latest-main reconciliation. CDC STEADI PDF screenshot failed; direct extracted text verified. BOASt UK August 2024 terminology incorporated into C18–20 and concepts, without universal Indian policy claims. No merge until all applicable gates pass. Verify 1450 live Foundations originals after actual publication before new inventory credit or next topic authorship.
+- Renal PR52 separate active owner observed, head independently advanced to `ce3a6f3f383ed28a51ca5534205783de331eb16f`. Do not overwrite. No Renal or other owner writes, learner history or automation schedule changes. Own claim released.
+
 
 ## Latest isolated corrective review checkpoint — Group10A–D, 28 November 2026
 
