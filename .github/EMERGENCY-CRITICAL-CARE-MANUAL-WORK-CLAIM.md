@@ -1,5 +1,15 @@
 # Emergency and Critical Care Nursing manual claim
 
+State: CLAIMED
+Owner: integration-pr49-icu-overlap-20261128T1207Z
+Scope: PR49 isolated ICU bank Q14 replacement and checkpoint only, retain PR48 10D Q21 as earlier general mobility objective. User-authorized cross-PR duplicate allocation, no other branch or shared navigation writes, no publication.
+Claimed UTC: 2026-11-28T12:07:34Z
+Expiry UTC: 2026-11-28T12:37:34Z
+
+Prior lease history:
+
+# Emergency and Critical Care Nursing manual claim
+
 State: FREE
 Owner: none
 Scope: none
