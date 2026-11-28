@@ -555,30 +555,27 @@
 
 </details>
 
-### Q20. A nurse sees a November 2026 notice requiring a new milk and milk-product logo from a specified future date. Which date is stated by the FSSAI Labelling and Display Second Amendment 2026?
+### Q20. A teaching slide describes the newly notified milk logo as a mark of fortified milk only. Which correction accurately describes the November 2026 Second Amendment, whose stated commencement is 1 July 2028?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Future commencement II | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Future milk-product identification | **Type:** Original practice
 
-- **A.** 1 July 2028
-- **B.** 6 November 2026
-- **C.** 1 July 2026
-- **D.** 1 January 2027
+- **A.** The new logo concerns milk and milk products, including specified composite milk products, rather than proving fortification
+- **B.** The logo replaces the declaration of every nutrient in all packaged foods
+- **C.** The logo indicates that every product carrying it is suitable for milk-allergic patients
+- **D.** The logo is intended exclusively for iron-fortified rice
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. 1 July 2028**
+**Correct: A. The new logo concerns milk and milk products, including specified composite milk products, rather than proving fortification**
 
-- **A. Correct:** Second Amendment notification 6 November 2026 ki hai, lekin regulation 1(2) mein 1 July 2028 commencement diya hai. Is date ko current enforceability se confuse nahi karna chahiye.
+- **A. Correct:** Second Amendment specified milk aur milk products, including composite milk products, ke liye new identification logo introduce karti hai. Fortification ka evidence alag declaration se check hota hai. Stated commencement future mein 1 July 2028 hai.
+- **B. Incorrect:** Logo ek product category ki identification karta hai. Is provision se sab foods ki nutrient declarations automatically remove nahi hoti hain.
+- **C. Incorrect:** Milk product identification allergy safety ka proof nahi hai. Milk allergy wale patient ko ingredients aur individualized allergy plan ke hisab se food choose karna chahiye.
+- **D. Incorrect:** Iron-fortified rice different food category hai. Milk logo ka scope rice fortification nahi hai.
 
-- **B. Incorrect:** 6 November notification ki date hai. Stated operative date isse later hai.
+**Exam clue:** Product-category logo aur fortification declaration ko alag samjho. Future amendment ko current obligation mat bolo.
 
-- **C. Incorrect:** July 2026 notification se pehle hai. Yeh new milk-logo requirement ka stated commencement nahi hai.
-
-- **D. Incorrect:** January 2027 document mein specified commencement nahi hai. Official Gazette mein 1 July 2028 diya hai.
-
-**Exam clue:** New milk logo ka notified commencement 1 July 2028 hai, as of 28 November 2026 future requirement.
-
-**Evidence:** [Second Amendment 2026, regulation 1(2)](https://egazette.gov.in/WriteReadData/2026/277816.pdf) · [Concept guide](../Concepts/18-Indian-Food-Labelling-and-Nutrition-Claims.md)
+**Evidence:** [Second Amendment 2026, regulation 2](https://egazette.gov.in/WriteReadData/2026/277816.pdf) · [Concept guide](../Concepts/18-Indian-Food-Labelling-and-Nutrition-Claims.md)
 
 **YouTube MCQ practice:** Specific item verification pending.
 
