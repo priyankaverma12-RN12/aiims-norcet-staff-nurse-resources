@@ -25,6 +25,8 @@ Assessed stair technique mein stronger leg usually upward movement lead karti ha
 
 Standard walker bahut door place karne se patient ka trunk lean ho sakta hai. Usse support area ke andar controlled movement chahiye. Wheelchair transfer ya chair se rise karte waqt walker ko pull karna unstable ho sakta hai. Stable chair armrests aur trained transition use karo. Frame ke type ke hisaab se movement technique badalti hai. Ordinary walker ko flight of stairs par use nahi karna chahiye. Safe alternative access ya specialist-assessed technique arrange karo.
 
+Rail-assisted crutch stair technique mein agar therapist ne fixed handrail ka use prescribe kiya hai, toh rail pakadne ke liye ek hand free hona chahiye. Assessed aur taught technique mein doosre hand se dono crutches securely manage ki ja sakti hain. Step sequence aur prescribed limb loading ko maintain karo. Agar patient safe control demonstrate nahi karta toh assistance ya alternate access arrange karo. [MedlinePlus crutch guidance](https://medlineplus.gov/ency/patientinstructions/000344.htm) ke stair section mein ye option describe hai.
+
 ## Crutch gait
 
 ![Original comparison of four-point, two-point and three-point gait patterns](../Assets/10C-Mobility-Aid-Patterns.svg)
