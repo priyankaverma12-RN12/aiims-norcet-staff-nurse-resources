@@ -68,6 +68,12 @@ Delivery ke baad BP turant normal hona zaroori nahi hai. Fluid shifts aur diseas
 
 NICE postpartum untreated gestational hypertension ya pre-eclampsia mein BP 150/100 ya upar hone par treatment start karne ki recommendation deta hai. Severe range BP phir bhi emergency hai. Dose taper ya combination selection clinician ke plan ke mutabik hota hai. ARBs aur diuretics ko breastfeeding mein jahan possible ho avoid karte hain, lekin pulmonary oedema jaise emergency indication ka separate medical treatment ho sakta hai.
 
+Postpartum pre-eclampsia ke treatment mein BP kam hone par dose ka review bhi zaroori hai. NICE ke mutabik BP 140/90 se neeche aaye toh treatment kam karne par vichar karte hain, aur BP 130/80 se neeche ho toh treatment reduce karte hain. Nurse BP trend aur symptoms record karke prescribed adjustment confirm karti hai. Medicine apne aap band nahi karti hai aur BP monitoring continue karti hai.
+
+Agar ek suitable medicine se BP control nahi ho raha hai, toh NICE nifedipine ya amlodipine ke saath enalapril ka combination consider karta hai. Dono medicines alag mechanism se blood pressure kam karti hain. Enalapril ke saath maternal renal function aur serum potassium check karna zaroori hai. Agar mother breastfeeding kar rahi hai, toh infant ki age aur symptoms ko bhi treatment review mein dhyan mein rakhte hain.
+
+Newborn care ke beech baar-baar medicine lena mushkil ho sakta hai. NICE jahan clinically possible ho once-daily antihypertensives prefer karta hai. Nurse mother ki routine samajhkar practical reminders aur written schedule plan kar sakti hai. Missed dose ko double karne ke bajay medicine-specific instructions follow karni chahiye.
+
 ## Discharge and follow-up
 
 Pre-eclampsia ke baad NICE community transfer tab consider karta hai jab symptoms na ho, BP 150/100 ya kam ho aur blood test results stable ya improve ho rahe ho. Written plan mein BP monitoring, medicine dose, review date aur urgent contact clear hona chahiye. Day 3–5 BP review aur treatment par rehne wali women ke liye appropriate earlier review plan important hai. Six-to-eight-week visit mein BP, remaining treatment aur future cardiovascular risk discuss karte hain. Severe headache, vision change, upper abdominal pain, breathlessness ya severe BP reading par urgent assessment chahiye, routine appointment ka wait nahi karna chahiye.
@@ -75,8 +81,9 @@ Pre-eclampsia ke baad NICE community transfer tab consider karta hai jab symptom
 ## Sources and learning resources
 
 - [ISSHP 2021 sections 6.3–6.4, Table 8](https://www.isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf)
-- [NHM CEmONC 2024, chapter 4](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_1.pdf)
-- [NICE NG133 recommendations](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NCBI version](https://www.ncbi.nlm.nih.gov/books/NBK546004/)
+- [NHM CEmONC 2024, chapter 4 — official PDF directly retrieved](https://nhm.gov.in/pdf/2024/Revised_CEmONC_Curriculum-2024-Part-1.pdf)
+- [NICE NG133 recommendations](https://www.nice.org.uk/guidance/ng133/chapter/recommendations) · [NCBI recommendation text, directly retrieved](https://www.ncbi.nlm.nih.gov/books/NBK546004/)
+- [ACOG Committee Opinion 767: urgent severe hypertension treatment](https://pubmed.ncbi.nlm.nih.gov/30575639/)
 - [WHO non-severe hypertension 2020](https://www.who.int/publications-detail-redirect/9789240008793) · [WHO severe hypertension 2018](https://www.who.int/publications/i/item/9789241550437)
 - [Teaching candidate — management of hypertension in pregnancy](https://www.youtube.com/watch?v=XtFVYIuSdos). Search-index description only.
 - [Dedicated nursing MCQ candidate — Hypertension in Pregnancy, OSSSC Nursing Officer](https://www.youtube.com/watch?v=B2q_G0Hx4Yw). Search-index description only. Exact playback and question coverage pending.
