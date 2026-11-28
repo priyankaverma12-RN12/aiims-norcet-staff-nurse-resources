@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: job4-reciprocal-staging-20261128-0301
-Scope: Job4 checkpoint and separate nonlearner Group26–30 reciprocal metadata integration manifest only. All live banks, mocks, PRs, Job5 staging and active Group09A writer scope read-only. No learner-file or shared index edits.
+Scope: Job4 checkpoint and existing nonlearner manifest plus Nursing Foundations Group05B and newly released Group09A original-bank metadata, concept links and evidence links only. All mocks, other learner files, PRs, Job5 staging and chapter/global indexes read-only. Preserve every rationale and learner state.
 Claimed UTC: 2026-11-28T03:01:22Z
 Expiry UTC: 2026-11-28T03:31:22Z
 
