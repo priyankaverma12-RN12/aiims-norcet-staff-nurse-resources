@@ -15,11 +15,11 @@
 
 ## Manual chapter work claim
 
-State: CLAIMED
-Owner: community-pr61-b07-20261128-1157Z
-Scope: PR61 Batch07 only: NPPCF, IDSP programme reporting, NPPC community care, RKSK, NUHM. Exclude all ten PR62 banks and adjacent specialty treatment. No shared navigation or PR62 writes.
-Claimed UTC: 2026-11-28T11:57:25Z
-Expiry UTC: 2026-11-28T12:27:25Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Latest candidate: [PR62 — Batch 01](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/62), head `b6157733d7f4e1b0180e98569d35f47ddce7fb84`. Five banks, 100 original MCQs, 400 individual Roman Hinglish option rationales, 100 exam clues, 16 Easy, 55 Medium, 29 Difficult. All bank and candidate index exact remote readbacks passed, 100 distinct normalized stems, four options and aligned key per question. Not live. Preserve four existing originals and two reported adaptations. Resume actual remaining topic banks on the same candidate branch after exclusive ownership, then ten 120-question original-only mocks, then source-traced PYQs. Concept/visual, video and independent release checks remain pending. No repeat retrospective audit during content creation. Preserve other owners and five hourly schedules.
 
@@ -51,3 +51,8 @@ PR61 verified head `065215f94baa802716dcf2f02f67595137e363c6`. Added 100 origina
 ## PR62 Batch 02 checkpoint — 28 November 2026
 
 PR62 head `436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5`. Added 100 original MCQs, 400 individual rationales and 100 clues across PM-JAY, sickle mission, PMNDP, NPCCHH and leptospirosis programme control. New 14 Easy/52 Medium/34 Difficult, PR62 cumulative 200 staged originals, 800 rationales and 10 banks. Five exact readbacks and incremental structural checks passed, 100 distinct normalized new stems, prior five banks unchanged. PR61 30 bank filenames and planned next scopes screened, PR61 branch preserved. Full cross-branch exact/semantic comparison exceeded tool limit. Coordination comment 7238748603 on PR61. No live credit. Prior overlapping banks need allocation reconciliation, remaining clinical/source/video/concept/navigation/CI gates pending. Next verify uncovered curriculum, coordinate with PR61, complete topic banks before original-only mocks and sourced PYQs. All schedules untouched.
+
+
+## PR61 Batch 07 checkpoint — 28 November 2026
+
+PR61 verified head `2dfba05bd2db59fe0cb439be51366e11c1e01d56`. Added five actual topic banks, 100 original MCQs, 400 separate Roman Hinglish rationales and 100 distinct exam clues; 8 Easy, 49 Medium, 43 Difficult. Cumulative 700 staged originals, 2800 rationales, 35 banks, 52 Easy/341 Medium/307 Difficult. Exact readbacks and incremental structural validation passed, 100 distinct normalized new stems, zero exact matches against 604 prior PR61/legacy and 200 PR62 stems. Git compare verified all 30 prior banks unchanged. PR62 handoff comment 7238748603 read and reserved scopes excluded. PR62 head at inspection 436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5. No new live credit, mocks or PYQs. Research DGHS, IDSP, NHM and WHO; alternative DGHS NPPC page failed, NHM and WHO references used. Full independent clinical/semantic/difficulty and item-level source review, curriculum, concept/diagram/video, navigation and CI release gates pending. Next verify remaining distinct curriculum gaps and coordinate PR62 overlap resolution before mocks. Avoid repeated audits. Preserve all other sessions and five schedules.
