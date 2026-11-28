@@ -33,30 +33,27 @@
 
 </details>
 
-### Q2. An adult with low habitual fibre intake wants a practical meal change. Which substitution increases fibre while retaining a regular Indian meal pattern?
+### Q2. A patient who has chronic primary constipation wants to understand why an agreed psyllium trial includes assessment of the effort needed to pass stool. Which symptom-specific benefit was identified by the BDA 2025 guideline?
 
-**Difficulty:** 🟢 Easy | **Priority:** 🟠 HIGH YIELD | **Topic:** Food-based fibre increase | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Psyllium and straining severity | **Type:** Original practice
 
-- **A.** Replace some refined grain servings with whole-grain rotis and include dal
-- **B.** Replace dal with clear strained broth at every meal
-- **C.** Replace vegetables with ghee to increase meal calories
-- **D.** Choose only polished rice and omit pulses
+- **A.** A proven elimination of every sensation of incomplete evacuation
+- **B.** A guaranteed absence of gastrointestinal discomfort
+- **C.** A demonstrated cure for secondary medication-induced constipation
+- **D.** A reduction in the severity of straining
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Replace some refined grain servings with whole-grain rotis and include dal**
+**Correct: D. A reduction in the severity of straining**
 
-- **A. Correct:** Whole-grain roti aur dal dono dietary fibre contribute karte hain. Gradual change se tolerance observe kar sakte hain aur balanced meal pattern bhi maintain hota hai.
+- **A. Incorrect:** Incomplete evacuation alag symptom hai. Overall fibre evidence se is endpoint ka benefit establish nahi hua aur specific psyllium ke liye sufficient evidence nahi tha.
+- **B. Incorrect:** Fibre supplementation ke saath gas ya discomfort ho sakta hai. Tolerability monitor karna important hai, complete absence guarantee nahi hoti.
+- **C. Incorrect:** BDA review adult primary constipation par focus karti hai. Medication-induced constipation ke liye cause-specific management ki zarurat ho sakti hai.
+- **D. Correct:** Psyllium ke specific trial evidence mein stool pass karne ke liye straining ki severity kam hui. Frequency ke saath patient ka actual effort assess karna useful hai.
 
-- **B. Incorrect:** Strained broth mein intact pulse fibre ka kaafi hissa nahi rehta. Dal remove karne se protein aur fibre contribution kam ho sakta hai.
+**Exam clue:** Straining severity is a distinct symptom outcome, not identical to bowel frequency.
 
-- **C. Incorrect:** Ghee fat aur energy deta hai, dietary fibre nahi. Vegetable replacement se fibre goal meet nahi hota.
-
-- **D. Incorrect:** Polished rice aur pulse omission se food variety aur fibre intake kam ho sakta hai. Goal fibre increase karna hai.
-
-**Exam clue:** Whole grains and legumes are practical dietary fibre sources.
-
-**Evidence:** [NIDDK, fibre food sources](https://www.niddk.nih.gov/health-information/digestive-diseases/constipation/eating-diet-nutrition) · [Concept guide](../Concepts/25-Dietary-Management-of-Chronic-Constipation.md)
+**Evidence:** [BDA 2025, statement 3.1](https://doi.org/10.1111/nmo.70173) · [Concept guide](../Concepts/25-Dietary-Management-of-Chronic-Constipation.md)
 
 **YouTube MCQ practice:** Specific item verification pending.
 
