@@ -51,7 +51,7 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    asset_versions={"styles.css":"12.3","app.js":"12.3","progress.js":"12.2","routine.js":"12.0","study-ui.js":"12.2","quiz.js":"12.3","media.js":"11.9.2","favicon.svg":"1"}
+    asset_versions={"styles.css":"12.4","app.js":"12.4","progress.js":"12.2","routine.js":"12.4","study-ui.js":"12.4","quiz.js":"12.3","media.js":"11.9.2","favicon.svg":"1"}
     for filename,version in asset_versions.items():
         response=api.get(urljoin(base,filename)+"?v="+version+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
@@ -69,6 +69,8 @@ with sync_playwright() as p:
             assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth+2"),"Horizontal overflow"
         page.goto(base+"?build="+commit)
         expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
+        expect(page.locator("#library .library-toolbar h2")).to_have_text("Chapters")
+        expect(page.locator(".daily-help")).to_have_count(0)
         for filename,version in asset_versions.items():
             assert page.evaluate("""([name,version])=>[...document.querySelectorAll('script[src],link[rel=stylesheet],link[rel=icon]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')===version})""",[filename,version]), f"Wrong live asset version: {filename}"
         expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
@@ -301,6 +303,10 @@ with sync_playwright() as p:
         assert page.locator(".metric-records").first.evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==(1 if width<900 else 2)
         expect(records.first.locator(".metric-record-title")).to_be_visible()
         expect(records.first.locator(".metric-record-count")).to_be_visible()
+        expect(page.locator("#metrics-filter-panel")).to_be_hidden()
+        expect(page.locator("#metrics-filter-toggle")).to_have_attribute("aria-expanded","false")
+        page.locator("#metrics-filter-toggle").click()
+        expect(page.locator("#metrics-filter-panel")).to_be_visible()
         page.locator("#metrics-category").select_option("mock")
         expand_folders(page,only="mock")
         expect(records).to_have_count(sum(r["category"]=="mock" for r in chapter["records"]))
@@ -339,6 +345,8 @@ with sync_playwright() as p:
             page.locator("#reader-completion input[type=checkbox]").uncheck()
             go({"metrics":"1","chapter":chapter["id"]})
             expect(page.locator(".theory-metric-completed")).to_contain_text("0 completed")
+        if page.locator("#metrics-filter-panel").get_attribute("open") is None:
+            page.locator("#metrics-filter-toggle").click()
         page.locator("#metrics-category").select_option("")
         print(f"Theory inventory, exact topic destinations and live completion count passed at {width}x{height}.",flush=True)
 
@@ -528,10 +536,16 @@ with sync_playwright() as p:
         expect(page.locator(".metric-record")).to_have_count(0)
         expect(page.locator(".metric-category").first).to_be_visible(timeout=10000)
         assert page.locator(".metric-category").count()>=4
+        expect(page.locator("#metrics-filter-panel")).to_be_hidden()
+        page.locator("#metrics-filter-toggle").click()
         page.locator("#metrics-search").fill("no matching topic xyz")
         expect(page.locator("#metrics-list .empty-state")).to_be_visible()
         page.locator("#clear-metrics").click()
         expect(page.locator("#metrics-search")).to_have_value("")
+        page.keyboard.press("Escape")
+        expect(page.locator("#metrics-filter-panel")).to_be_hidden()
+        expect(page.locator(".history-period")).to_have_count(3)
+        print(f"V12.4 live Metrics filter and compact activity passed at {width}x{height}.",flush=True)
         fit()
         go({"progress":"1","chapter":"Respiratory-System"})
         expect(page.locator("#progress-link")).to_have_attribute("aria-current","page")
