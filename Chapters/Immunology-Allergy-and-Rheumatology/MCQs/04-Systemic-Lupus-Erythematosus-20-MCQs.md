@@ -18,7 +18,7 @@
 
 **Correct answer: A. Immune attack against the person's own tissues**
 
-**A kyun sahi hai:** SLE mein immune tolerance disturb hoti hai aur apne tissues ke against inflammation hota hai.
+**A kyun sahi hai:** SLE mein immune system apne hi cells aur tissues ko foreign samajhne lagta hai. Is wajah se antibodies aur inflammation skin, joints, kidneys aur doosre organs ko damage kar sakte hain.
 
 **B kyun galat hai:** Bacterial infection ka mechanism alag hota hai.
 
@@ -190,13 +190,13 @@
 
 **B kyun galat hai:** Stool microscopy retinal injury nahi detect karti.
 
-**C kyun sahi hai:** HCQ retinal toxicity cause kar sakta hai, isliye eye screening ka schedule clinician se follow karna chahiye.
+**C kyun sahi hai:** Hydroxychloroquine kabhi kabhi retina ko damage kar sakti hai. Retina aankh ka woh hissa hai jo light ko sense karta hai. Baseline eye assessment aur risk ke hisaab se regular retinal screening ka schedule follow karo. AAO ki 2025 revision mein OCT aur fundus autofluorescence imaging ka role bataya gaya hai.
 
 **D kyun galat hai:** Audiometry hearing assess karti hai.
 
 **Exam clue:** HCQ therapy mein retinal monitoring ko identify karo.
 
-**Clinical reference:** [Clinical guidance](https://doi.org/10.1093/rheumatology/keag223)
+**Clinical reference:** [Clinical guidance](https://www.aao.org/education/clinical-statement/revised-recommendations-on-screening-chloroquine-h)
 
 </details>
 
@@ -272,7 +272,7 @@
 
 **A kyun galat hai:** Unreviewed herbal substitution disease control aur interactions ka risk hai.
 
-**B kyun sahi hai:** Long-term steroid se adrenal suppression ho sakti hai aur dose clinician-guided taper honi chahiye.
+**B kyun sahi hai:** Kai mahine steroid lene se adrenal glands apna cortisol kam bana sakti hain. Achanak medicine band karne par body ko zaroorat ke mutabik cortisol nahi mil sakta. Isliye disease control aur adrenal recovery ke hisaab se clinician dheere dheere dose kam karne ka plan banata hai.
 
 **C kyun galat hai:** Sudden cessation adrenal insufficiency aur flare ka risk de sakta hai.
 
@@ -280,7 +280,7 @@
 
 **Exam clue:** Long-term glucocorticoid ko independently discontinue mat karo.
 
-**Clinical reference:** [Clinical guidance](https://doi.org/10.1093/rheumatology/keag223)
+**Clinical reference:** [Clinical guidance](https://www.endocrine.org/clinical-practice-guidelines/glucocorticoid-induced-adrenal-insufficiency)
 
 </details>
 
@@ -414,7 +414,7 @@
 
 **B kyun galat hai:** Antipyretic symptoms kam kar sakta hai par shock ka treatment nahi.
 
-**C kyun sahi hai:** Fever ke saath hypotension aur confusion serious infection ya sepsis ka concern hai, emergency assessment delay nahi karni chahiye.
+**C kyun sahi hai:** Fever ke saath low BP aur nayi confusion organ perfusion kam hone aur sepsis ke warning signs hain. Emergency response activate karo, airway, breathing, circulation aur vital signs assess karo. Local sepsis protocol ke mutabik timely treatment mein madad karo. Lupus flare ki evaluation se emergency care delay nahi honi chahiye.
 
 **D kyun galat hai:** Flare aur infection differentiate karna zaroori hai, steroid escalation independent decision nahi.
 
@@ -444,11 +444,11 @@
 
 **C kyun galat hai:** Unilateral calf swelling ko routine cutaneous flare maan lena dangerous delay kar sakta hai.
 
-**D kyun sahi hai:** Antiphospholipid antibodies thrombosis risk se associated ho sakte hain aur acute unilateral swelling DVT assessment demand karti hai.
+**D kyun sahi hai:** Antiphospholipid antibodies blood clot ka risk badha sakte hain. Ek calf mein achanak swelling aur pain deep vein thrombosis ka warning pattern hai. Urgent clinical assessment aur indicated ultrasound ki zaroorat hai. Agar breathlessness ya chest pain aaye toh pulmonary embolism ka concern bhi turant escalate karo.
 
 **Exam clue:** Antiphospholipid syndrome mein thrombosis ke warning signs pehchano.
 
-**Clinical reference:** [Clinical guidance](https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762)
+**Clinical reference:** [Clinical guidance](https://www.nice.org.uk/guidance/NG158/chapter/recommendations)
 
 </details>
 
@@ -466,7 +466,7 @@
 
 **Correct answer: A. Congenital heart block**
 
-**A kyun sahi hai:** Maternal anti-Ro antibodies neonatal lupus aur congenital heart block se associated hain, specialist monitoring plan individualize hota hai.
+**A kyun sahi hai:** Maternal anti-Ro antibodies placenta cross kar sakti hain aur kabhi kabhi baby ke heart ke electrical conduction system ko damage kar sakti hain. Isse congenital heart block ho sakta hai. Har exposed baby mein ye nahi hota. Specialist pregnancy ke risk aur previous history ke hisaab se monitoring plan banayega.
 
 **B kyun galat hai:** Pyloric stenosis ka established anti-Ro mechanism nahi hai.
 
@@ -476,7 +476,7 @@
 
 **Exam clue:** Anti-Ro aur fetal conduction risk ka association yaad rakho.
 
-**Clinical reference:** [Clinical guidance](https://doi.org/10.1093/rheumatology/keag223)
+**Clinical reference:** [Clinical guidance](https://acrjournals.onlinelibrary.wiley.com/doi/full/10.1002/art.41191)
 
 </details>
 
@@ -496,7 +496,7 @@
 
 **A kyun galat hai:** Treatment decision clinician complete assessment ke basis par karta hai.
 
-**B kyun sahi hai:** Complement aur anti-dsDNA trends disease activity assessment mein help kar sakte hain, lekin clinical context aur organ evaluation essential hai.
+**B kyun sahi hai:** Complement blood proteins ka defense system hai. Active lupus mein ye consume ho sakta hai aur anti-dsDNA antibody levels badh sakte hain. Is pattern ko BP, urine protein, creatinine aur doosre organ findings ke saath dekho. Sirf antibody result ke basis par medicine change nahi karni chahiye.
 
 **C kyun galat hai:** Ye results bacterial sepsis establish nahi karte.
 
@@ -526,13 +526,13 @@
 
 **B kyun galat hai:** New seizure urgent assessment demand karta hai.
 
-**C kyun sahi hai:** Acute seizure mein safety, airway aur emergency evaluation priority hain, causes mein infection, metabolic aur neuropsychiatric lupus consider hote hain.
+**C kyun sahi hai:** Patient ko injury se bachao, seizure ka time note karo aur emergency help bulao. Jab safely possible ho, patient ko side par rakho aur breathing monitor karo. Mouth mein kuch mat daalo aur movements ko forcefully restrain mat karo. Stabilization ke baad glucose, infection, metabolic causes aur neuropsychiatric lupus ki evaluation zaroori hai.
 
 **D kyun galat hai:** Lupus history cause automatically determine nahi karti.
 
 **Exam clue:** New neurological event mein stabilization aur differential dono chahiye.
 
-**Clinical reference:** [Clinical guidance](https://ard.bmj.com/content/early/2023/10/11/ard-2023-224762)
+**Clinical reference:** [Clinical guidance](https://www.cdc.gov/epilepsy/first-aid-for-seizures/)
 
 </details>
 
@@ -556,7 +556,7 @@
 
 **C kyun galat hai:** Lupus symptom control thrombosis recurrence risk ko automatically remove nahi karta.
 
-**D kyun sahi hai:** Arterial thrombotic APS mein vitamin K antagonist generally preferred hai, DOAC suitability specialist assess kare.
+**D kyun sahi hai:** Arterial thrombotic APS mein warfarin jaise vitamin K antagonist ko aam taur par prefer kiya jaata hai. EULAR guidance ke mutabik prior arterial thrombosis ya triple-positive APS mein DOAC se recurrent thrombosis ka concern hai. Switch se pehle specialist se indication aur risk clarify karo. Prescribed anticoagulation khud se band mat karo.
 
 **Exam clue:** High-risk APS mein anticoagulant selection important hai.
 
