@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: CLAIMED
-Owner: continuation-pr60-b06-20261128T104844Z
-Scope: PR60 Batch 06 new alcohol-associated liver disease, HRS-AKI, HPS/PoPH, liver transplantation nursing and pancreatic neoplasm banks only. No shared navigation or existing question edits.
-Claimed UTC: 2026-11-28T10:48:44Z
-Expiry UTC: 2026-11-28T11:18:44Z
+State: FREE
+Owner: none
+Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
+Claimed UTC: none
+Expiry UTC: none
 
 ## Released checkpoint — 28 November 2026
 
@@ -32,3 +32,7 @@ Candidate head 6f93557a2e376e71b507afbc225b74e1fe9511ac. Added 100 new original 
 ## Batch 05 released checkpoint — 28 November 2026
 
 Candidate head 49b628e91078ec5928e2372ccf239a2fb67bed8e. Added 100 original MCQs across five new banks and 400 individual Roman Hinglish rationales. 440 staged originals, 1760 rationales, 440 clues, twenty-two banks, six guides and one SVG. All five bank and inventory exact readbacks passed, 100 aligned keys, zero normalized exact matches against 344 previous candidate and starter headings. Prior seventeen banks and other clinical content preserved. No new live originals, mocks or PYQs credited. Continue same PR60 only after ownership verification, prioritizing verified uncovered alcohol-associated liver disease, hepatorenal syndrome, hepatopulmonary/portopulmonary complications, transplantation and pancreatic neoplasms or other distinct topics after sibling coordination. Independent clinical, semantic, source/pharmacy/video, companion guides and diagrams, full preflight and integration gates remain pending. Other claims, learner history and five hourly schedules unchanged.
+
+## Batch 06 released checkpoint — 28 November 2026
+
+Candidate head 4873ec4939366a6a4120aa40ca6827fb9e4ea66e. Added 100 original MCQs across five new banks (alcohol-associated liver disease, HRS-AKI, HPS/PoPH, liver transplantation and pancreatic neoplasms) and 400 individual Roman Hinglish rationales. Exact remote readbacks of five bank files and appended inventory passed. 100 distinct normalized new stems, zero exact matches against all 444 prior bank/starter headings, all 400 options/rationales, 100 aligned keys, clues and closed details. 540 staged originals, 2160 rationales, 540 clues, 27 banks, six existing guides and one SVG. No live count, mocks or new PYQs. Prior bank files unchanged, no shared navigation edits. Independent clinical and exhaustive semantic review, source/video checks, companion guides/diagrams, full fresh bounded preflight, curriculum and PR29/7/8 integration gates remain pending. Resume remaining genuine uncovered topics after ownership and sibling scope checks; do not regenerate these banks. Preserve other owners, learner history and all five hourly automations.
