@@ -6,8 +6,8 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
 - Pregnancy diagnosis
 - Physiological changes during pregnancy — [detailed concepts](03-Physiological-Changes-During-Pregnancy.md), [20 original MCQs](../MCQs/03-Physiological-Changes-During-Pregnancy-20-MCQs.md), [reported exam practice](../Previous-Year-Questions/03-Physiological-Changes-Reported-Exam-Practice.md). Combined overview publish ho chuka hai. Individual systems ki practice neeche allocate ki gayi hai.
   - Cardiovascular, hematological aur respiratory adaptations: [expanded concepts](03B-Maternal-Cardiorespiratory-and-Hematological-Adaptations.md) · [30 prior original MCQs](../MCQs/03A-Maternal-Cardiovascular-and-Hematological-Changes-30-MCQs.md) · [19 additional MCQs and allocation table](../MCQs/03B-Maternal-Cardiorespiratory-and-Hematological-19-MCQs.md) · [respiratory reported evidence](../Previous-Year-Questions/03B-Maternal-Respiratory-Exam-Evidence.md). Har listed system ko 20 original questions allocate kiye gaye hain. Full clinical, video aur semantic audit pending hai.
-  - Renal adaptations: Overview Q12–Q14 ko allocate karein. Individual topic expansion pending hai.
-  - Gastrointestinal adaptations: Overview Q15–Q16 ko allocate karein. Individual topic expansion pending hai.
+  - Renal adaptations: Overview Q12–Q14 aur [17 additional originals](../MCQs/03C-Maternal-Renal-Adaptations-17-MCQs.md) milkar 20 allocated slots hain. [Detailed concepts](03C-Maternal-Renal-and-Gastrointestinal-Adaptations.md#renal-adaptations) aur full evidence audit pending status dekhein.
+  - Gastrointestinal adaptations: Overview Q15–Q16 aur [18 additional originals](../MCQs/03D-Maternal-Gastrointestinal-Adaptations-18-MCQs.md) milkar 20 allocated slots hain. [Detailed concepts](03C-Maternal-Renal-and-Gastrointestinal-Adaptations.md#gastrointestinal-adaptations) aur [exam evidence gaps](../Previous-Year-Questions/03C-Maternal-Renal-GI-Exam-Evidence.md) dekhein.
   - Endocrine, breast, musculoskeletal aur skin changes ki separate individual-topic allocation aur expansion pending hai.
 - Fetal development, placenta and membranes
 - fetal assessment
