@@ -93,22 +93,22 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 **Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Esophageal atresia and TEF | **Type:** Original
 
-- **A.** Uncomplicated physiologic jaundice
-- **B.** Isolated developmental dysplasia of the hip
+- **A.** Transient tachypnea of the newborn
+- **B.** Uncomplicated gastroesophageal reflux
 - **C.** Esophageal atresia with or without tracheoesophageal fistula
-- **D.** Uncomplicated umbilical granuloma
+- **D.** Isolated choanal atresia
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. Esophageal atresia with or without tracheoesophageal fistula**
 
-- **A.** Physiologic jaundice skin and scleral yellowing cause karti hai, not typical frothy secretions and immediate feeding choking.
+- **A.** Transient tachypnea birth ke early hours mein rapid breathing de sakti hai. Lekin excessive frothy secretions and recurrent choking linked to milk feed EA/TEF ko more strongly suggest karte hain.
 
-- **B.** Hip dysplasia orthopedic disorder hai. It does not explain swallowing-related respiratory symptoms.
+- **B.** Reflux infants mein regurgitation and feeding symptoms de sakta hai. First feed se severe choking plus pooled secretions congenital esophageal interruption or abnormal communication ka concern raise karte hain.
 
 - **C.** Blind pouch mein saliva aur feed collect ho sakte hain. Overflow aspiration aur possible abnormal airway connection feeding-associated cough, choking and cyanosis cause karte hain. Urgent neonatal assessment required hai.
 
-- **D.** Umbilical granuloma localized umbilical lesion hai. This feeding-associated respiratory pattern requires another explanation.
+- **D.** Bilateral choanal atresia feeding ke waqt respiratory distress cause kar sakti hai, often crying par relief. Copious pooled oral secretions and feeding-associated choking esophageal patency assessment ko especially important banate hain.
 
 **Exam clue:** Excess secretions + choking with first feed: suspect EA/TEF.
 
@@ -383,22 +383,22 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 **Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Esophageal atresia and TEF | **Type:** Original
 
-- **A.** Only visual assessment for diaper dermatitis
-- **B.** Omit further examination because EA/TEF is always isolated
+- **A.** Screen only the respiratory system with a chest radiograph
+- **B.** Screen only for an additional gastrointestinal obstruction
 - **C.** Assessment for VACTERL-associated abnormalities including cardiac and renal defects
-- **D.** Routine screening exclusively for acquired adult atherosclerosis
+- **D.** Defer all associated-anomaly assessment until after surgical discharge
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. Assessment for VACTERL-associated abnormalities including cardiac and renal defects**
 
-- **A.** Skin assessment useful routine newborn care hai but major associated structural anomalies screen nahi karti.
+- **A.** Chest radiograph EA/TEF anatomy assess karne mein useful hai. Associated cardiac, renal, vertebral and other congenital anomalies ke liye wider examination and appropriate tests needed hain.
 
-- **B.** EA/TEF may coexist with other congenital defects. Comprehensive evaluation preoperative risk and management guide karti hai.
+- **B.** Additional GI obstruction may coexist and deserves attention, but EA/TEF ka associated-anomaly assessment sirf GI tract tak restricted nahi hota.
 
 - **C.** EA/TEF VACTERL association ka component ho sakta hai. Vertebral, anorectal, cardiac, tracheoesophageal, renal and limb findings consider karte hain. Echo and renal ultrasound commonly included hain as specialist directs.
 
-- **D.** Adult atherosclerosis screening newborn associated-anomaly workup se relevant nahi hai. Congenital cardiac and renal anatomy more relevant hain.
+- **D.** Preoperative cardiac and other structural findings anesthesia, surgery and postoperative plan influence kar sakte hain. Isliye appropriate associated-anomaly evaluation stable infant mein planned early work-up ka part hai.
 
 **Exam clue:** EA/TEF should trigger associated congenital anomaly evaluation.
 
@@ -412,20 +412,20 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 **Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Esophageal atresia and TEF | **Type:** Original
 
-- **A.** Enlarge the abnormal tracheoesophageal connection
-- **B.** Leave the upper pouch blind and start unrestricted oral feeds
-- **C.** Remove both lungs to prevent aspiration
+- **A.** Perform gastrostomy alone as definitive correction of the fistula and atresia
+- **B.** Join the esophageal ends but deliberately leave the distal fistula open
+- **C.** Close the fistula but deliberately leave the esophagus disconnected despite feasible primary anastomosis
 - **D.** Close the fistula and restore esophageal continuity with an anastomosis
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Close the fistula and restore esophageal continuity with an anastomosis**
 
-- **A.** Enlarging fistula would increase abnormal communication between airway and alimentary tract. That is opposite to standard repair objective.
+- **A.** Gastrostomy gastric decompression or feeding access provide kar sakti hai, particularly selected staged cases mein. Lekin alone distal fistula close ya esophageal continuity restore nahi karti.
 
-- **B.** An unrepaired blind pouch oral feed safely conduct nahi kar sakti. Feeding route depends on surgical plan.
+- **B.** Esophageal continuity restore karna important hai, but patent fistula airway and food pipe ke beech abnormal communication maintain karegi. Standard primary repair ka objective both problems address karna hai.
 
-- **C.** Lung removal would not address esophageal malformation and is not a repair strategy. Airway-esophageal separation is the relevant objective.
+- **C.** Staged repair selected long-gap or unstable infants mein appropriate ho sakti hai. Stem anatomy and condition allow primary repair specify karta hai, isliye fistula closure plus continuity restoration better answer hai.
 
 - **D.** Typical repair fistula divide or close karti hai and esophageal ends join karke alimentary continuity restore karti hai when feasible. Long-gap or unstable cases may need staged approach.
 
@@ -529,9 +529,9 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 **Difficulty:** Difficult | **Priority:** 🟠 Important | **Topic:** Esophageal atresia and TEF | **Type:** Original
 
 - **A.** Anastomotic stricture
-- **B.** Physiologic neonatal jaundice as the primary explanation
-- **C.** Uncomplicated healed umbilical stump
-- **D.** A normal mandatory stage of recovery needing no assessment
+- **B.** Isolated transient postoperative airway edema
+- **C.** A newly acquired acute viral upper respiratory infection as the sole explanation
+- **D.** Uncomplicated postoperative wound healing without luminal narrowing
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
@@ -539,11 +539,11 @@ Original practice, not PYQs. Draft-only. Surgical and neonatal orders govern tub
 
 - **A.** Anastomotic healing scar tissue narrowing produce kar sakti hai, causing progressive dysphagia and regurgitation. Specialist assessment is needed because reflux or motility disorders can also contribute.
 
-- **B.** Jaundice bilirubin-related condition hai. Progressive swallowing obstruction weeks after esophageal repair is a different clinical problem.
+- **B.** Airway edema respiratory noise or breathing difficulty cause kar sakti hai. Weeks baad progressive swallowing difficulty and regurgitation anastomotic narrowing ko targeted evaluation ke liye more directly suggest karte hain.
 
-- **C.** Umbilical healing esophageal swallowing function explain nahi karti.
+- **C.** Viral infection cough and transient feeding reduction cause kar sakti hai. Progressive dysphagia specifically after esophageal repair ko viral illness alone se explain karna insufficient hai.
 
-- **D.** Progressive dysphagia should not be dismissed as obligatory recovery. It may impair nutrition and lead to aspiration.
+- **D.** Normal healing ke baad feeding generally improve honi chahiye. Progressive swallowing difficulty suggests a clinically relevant complication, not proof of uncomplicated healing.
 
 **Exam clue:** Progressive dysphagia after EA repair: assess for stricture and other causes.
 
