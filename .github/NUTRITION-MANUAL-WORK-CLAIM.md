@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-07c-20261128-0825Z
+Scope: Isolated PR35 07C new food exchange, menu and budget planning bank, concepts, SVG and evidence. No shared navigation or production edits.
+Claimed UTC: 2026-11-28T08:25:44Z
+Expiry UTC: 2026-11-28T08:55:44Z
 
 ## Latest released checkpoint — 07B Nutrition education expansion
 
