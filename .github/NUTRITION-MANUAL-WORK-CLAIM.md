@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-10a-glim-20261128-1227Z
+Scope: Isolated PR35 prepared GLIM adult diagnostic bank, guide, SVG and inventory. No shared navigation or other chapter writes.
+Claimed UTC: 2026-11-28T12:27:02Z
+Expiry UTC: 2026-11-28T12:57:02Z
 
 ## Latest released checkpoint — 09E cookery methods and practical food preparation
 
