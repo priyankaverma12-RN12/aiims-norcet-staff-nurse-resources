@@ -77,11 +77,11 @@
 
 - **A.** Zero-series sizes mein larger number ke saath diameter smaller hota hai. 6-0 listed options mein finest hai.
 
-- **B.** 2-0 ka diameter 6-0 se larger hota hai.
+- **B.** 2-0 ka diameter 6-0 se larger hota hai. Isliye delicate repair ke liye smallest listed caliber choose karne par 2-0 correct nahi hai.
 
 - **C.** Size 0 listed zero-series fine sizes se thicker hai.
 
-- **D.** 3-0 bhi 6-0 se thicker hai.
+- **D.** 3-0 bhi 6-0 se thicker hai. Conventional zero-series mein number badhne par strand ka diameter kam hota hai, isliye 6-0 finer option hai.
 
 **Exam clue:** More zeros mean finer suture.
 

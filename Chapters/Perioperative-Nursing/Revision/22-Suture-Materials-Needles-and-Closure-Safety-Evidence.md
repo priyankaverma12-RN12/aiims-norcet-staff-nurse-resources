@@ -22,3 +22,5 @@
 - Q18: [S](https://www.ncbi.nlm.nih.gov/books/NBK539891/) — The surgeon requests a fine nonabsorbable monofilament and a reverse-cutting needle for an external skin repair. Which package matches both material and needle requirements?
 - Q19: [M](https://www.aorn.org/article/suture-material-basics) — A surgeon asks for the smallest caliber that can safely support a delicate repair. Why should a nurse not substitute a thicker suture solely because it appears stronger?
 - Q20: [S](https://www.ncbi.nlm.nih.gov/books/NBK539891/) — For an internal repair in a urinary tract lumen, why may the surgeon prefer a suitable absorbable suture rather than unnecessary permanent exposed material?
+
+Incremental rationale quality check: Q3 distractor explanations for 2-0 and 3-0 expanded to clarify relative diameter. Correct key, difficulty and question identity unchanged. No additional question credit.
