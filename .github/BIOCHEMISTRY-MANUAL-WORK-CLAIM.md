@@ -1,10 +1,10 @@
 # Biochemistry and Pathology manual work claim
 
-State: CLAIMED
-Owner: biochemistry-batch05-20261128-0702Z
-Scope: PR42 isolated chapter-local gap audit, justified new candidate material and checkpoint only. No shared navigation, other owners or schedules.
-Claimed UTC: 2026-11-28T07:02:20Z
-Expiry UTC: 2026-11-28T07:32:20Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: four original starter slots, one separate reported HPSSC adaptation, zero full mocks. Target five topics x 20 originals per batch, then ten original-only 120-item mocks in pairs, then remaining sourced PYQs. Full independent audit and reconciliation required before merge.
 
@@ -24,3 +24,8 @@ PR42 branch 3d5348134f4f0bd7f6713cf375438f5004f0536d exact checkpoint readback v
 ## Batch 04 released checkpoint
 
 PR42 draft head c2d12e77f7dbbabf089000fbaeb88ddc763ed82d. 100 added candidates, 400 total, 1,600 rationales, four preserved legacy originals, one preserved reported adaptation, eight guides and eight SVGs. Exact remote readback and normalized stem audit passed; comprehensive clinical, semantic, curriculum, source/video, rendering and coordination gates remain. No study content merged or live credit. Claim released; preserve other jobs and schedules.
+
+
+## Batch 05 released checkpoint
+
+PR42 draft head 7c1195abaf2044c2207498da9d729337a384cbb1. 40 added original candidates, 440 total, 1,760 rationales, four unchanged legacy originals and one reported adaptation, ten concept guides and ten SVGs. All prior 45 chapter blobs except append-only checkpoint preserved. Exact remote readbacks, structural and normalized uniqueness checks passed. Independent clinical/semantic review, complete curriculum, source/video, CI/rendering and PR7/8/30 coordination gates remain. No main study content merged, no mock/PYQ/live credit. Other jobs and schedules preserved.
