@@ -468,30 +468,30 @@
 
 </details>
 
-### Q17. A joint fluid sample is collected for several laboratory tests. The nurse notices that the collection instructions specify different containers for microbiology and cell/crystal assessment. What is the appropriate action?
+### Q17. An adult with chronic back pain has a positive HLA-B27 laboratory result. Which interpretation is most appropriate?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Follow the laboratory-specific container, labeling and transport requirements for each requested test
-- **B.** Place every sample in formalin regardless of requested tests
-- **C.** Transfer every specimen into an unlabelled common bottle
-- **D.** Discard the microbiology specimen if crystals are visible
+- **A.** The result supports assessment for axial spondyloarthritis only in the appropriate clinical context
+- **B.** The result independently establishes axial spondyloarthritis in every person
+- **C.** The result proves that the patient has bacterial osteomyelitis
+- **D.** The result makes clinical assessment and indicated imaging unnecessary
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Follow the laboratory-specific container, labeling and transport requirements for each requested test**
+**Correct answer: A. The result supports assessment for axial spondyloarthritis only in the appropriate clinical context**
 
-**A kyun sahi hai:** Different analyses ko suitable specimen conditions chahiye. Local lab protocol correct sample distribution aur timely transport guide karta hai. Nurse patient and site identity verify karti hai.
+**A kyun sahi hai:** HLA-B27 ek genetic marker hai jo axial spondyloarthritis ki probability ko clinical features ke saath modify kar sakta hai. Inflammatory back pain pattern, associated findings aur indicated imaging ko combine karna zaroori hai.
 
-**B kyun galat hai:** Formalin histology fixation ke liye use hota hai. It can make microbiological culture and other fluid assays unsuitable.
+**B kyun galat hai:** Healthy individuals bhi HLA-B27 positive ho sakte hain. Positive result akela disease establish nahi karta.
 
-**C kyun galat hai:** Unlabelled specimens identification error create karte hain. Each sample ka traceable label essential hai.
+**C kyun galat hai:** Bacterial bone infection ka assessment clinical findings, imaging aur appropriate microbiology se hota hai. HLA-B27 bacterial identification test nahi hai.
 
-**D kyun galat hai:** Crystals infection coexistence exclude nahi karte. Ordered microbiology sample preserve karna important hai.
+**D kyun galat hai:** Genetic marker symptoms, physical assessment aur imaging ki clinical value replace nahi karta. Further testing clinician suspicion par depend karti hai.
 
-**Exam clue:** Synovial-fluid testing requires test-specific specimen handling.
+**Exam clue:** Association marker is not a standalone diagnostic confirmation.
 
-**Clinical reference:** [Synovial fluid laboratory recommendations](https://pmc.ncbi.nlm.nih.gov/articles/PMC7394252/). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [Clinical manifestations and diagnosis of axial spondyloarthritis](https://pmc.ncbi.nlm.nih.gov/articles/PMC8612900/). Indexed clinical evidence, independent item-level verification pending.
 
 **YouTube MCQ practice:** Verification pending.
 
