@@ -6,7 +6,7 @@
 
 ### Q1. An immobile patient has intact skin over the sacrum with persistent nonblanchable erythema. Which pressure injury category best fits?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Stage 2
 - **B.** Stage 3
@@ -31,7 +31,7 @@ Stage 1 mein skin intact rehti hai lekin localized nonblanchable erythema pressu
 
 ### Q2. A pressure-related lesion has a shallow moist pink-red wound bed with partial-thickness skin loss and no visible fat or slough. Which stage is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Stage 1
 - **B.** Stage 2
@@ -56,7 +56,7 @@ Stage 2 mein dermis exposed ho sakti hai aur wound bed viable pink-red aur moist
 
 ### Q3. A pressure injury shows full-thickness skin loss with visible adipose tissue but no exposed or directly palpable fascia, muscle, tendon, cartilage or bone. Which stage fits?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Stage 2
 - **B.** Stage 4
@@ -81,7 +81,7 @@ Stage 3 mein full-thickness skin loss hota hai aur adipose tissue visible ho sak
 
 ### Q4. A sacral pressure injury has directly palpable bone at the wound base. Which stage is appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Stage 4
 - **B.** Stage 2
@@ -106,7 +106,7 @@ Stage 4 mein full-thickness skin aur tissue loss hota hai jisme bone ya other de
 
 ### Q5. A pressure-related wound has full-thickness tissue loss, but adherent slough and eschar prevent assessment of the deepest tissue. How should it be documented initially?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Stage 2 because the depth is unknown
 - **B.** Unstageable pressure injury
@@ -131,7 +131,7 @@ Slough aur eschar underlying tissue depth ko hide kar sakte hain. Jab full-thick
 
 ### Q6. An immobile patient has intact heel skin with persistent deep maroon discoloration, abnormal firmness and pain. Which pressure-related injury should be suspected?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Stage 2 based solely on colour
 - **B.** Uncomplicated blanchable erythema
@@ -156,7 +156,7 @@ Deep tissue pressure injury mein underlying tissue damage surface par deep red, 
 
 ### Q7. A patient with poor arterial perfusion has dry, adherent, intact heel eschar without surrounding erythema or fluctuance. Which response is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Protect and offload the heel and seek vascular or wound-specialist review rather than routine removal
 - **B.** Soften and remove all heel eschar immediately without assessment
@@ -206,7 +206,7 @@ Dark skin mein visual erythema subtle ho sakti hai. Baseline comparison aur loca
 
 ### Q9. Which Braden Scale domain evaluates a patient's ability to recognize and respond to discomfort from pressure?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Nutrition
 - **B.** Moisture
@@ -231,7 +231,7 @@ Sensory perception domain assess karta hai ki patient pressure discomfort sense 
 
 ### Q10. A patient can move both arms but requires assistance to change body position. Which distinction is most relevant when assessing pressure injury risk?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Mobility describes ability to change position, whereas activity describes degree of physical activity
 - **B.** Mobility and activity always have identical scores
@@ -281,7 +281,7 @@ Lower Braden score generally increased risk suggest karta hai. New clinical chan
 
 ### Q12. A sedated patient uses a pressure redistribution mattress. Which repositioning plan is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Stop repositioning because the mattress completely prevents injury
 - **B.** Continue individualized repositioning based on risk, tissue response, comfort and support surface
@@ -381,7 +381,7 @@ Lift ya transfer aid patient ko surface ke across drag karne ki need reduce kart
 
 ### Q16. A tight oxygen tubing interface produces a localized skin lesion matching the shape of the device. What is the best nursing response?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Ignore the site because the device is clinically necessary
 - **B.** Remove essential oxygen permanently without assessing respiratory needs
@@ -406,7 +406,7 @@ Device ki shape follow karne wala lesion medical device-related pressure injury 
 
 ### Q17. A pressure injury develops on the oral mucosa beneath a medical device. How should the injury be classified?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Stage 1 because mucosa is moist
 - **B.** Stage 2 because the lesion is superficial
@@ -431,7 +431,7 @@ Mucosal anatomy skin layers se different hoti hai. Isliye medical device-related
 
 ### Q18. A previously documented stage 4 pressure injury is now shallow and healing. How should its stage be recorded during follow-up?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Reverse-stage it to stage 2 because it is shallower now
 - **B.** Reclassify it as stage 1 when granulation appears
@@ -481,7 +481,7 @@ Poor intake aur weight loss malnutrition risk suggest karte hain jo tissue toler
 
 ### Q20. A patient has diffuse superficial skin damage across the buttocks after frequent diarrhea without a clear pressure-point pattern. What is the best approach?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Label every buttock lesion as stage 2 pressure injury
 - **B.** Assess moisture-associated skin damage and pressure or shear contributions before assigning a pressure stage
