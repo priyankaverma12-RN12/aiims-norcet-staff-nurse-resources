@@ -31,7 +31,7 @@
 
 ### Q2. Which reporting guideline is designed for a completed randomized clinical trial that reports allocation, follow-up and analysis denominators?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** STROBE
 - **B.** PRISMA 2020
@@ -56,7 +56,7 @@
 
 ### Q3. A cross-sectional study of occupational stress reports its recruitment, variables, estimates and limitations. Which reporting framework most directly fits this observational design?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** CONSORT
 - **B.** STROBE
@@ -81,7 +81,7 @@
 
 ### Q4. A systematic review of falls-prevention trials reports search strategies, study selection and reasons for full-text exclusion. Which guideline is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** CONSORT
 - **B.** STROBE
@@ -106,7 +106,7 @@
 
 ### Q5. A new screening test is compared with a suitable reference standard in a defined group. Which reporting guideline specifically addresses diagnostic accuracy?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** COREQ
 - **B.** STARD
@@ -131,7 +131,7 @@
 
 ### Q6. A qualitative study uses interviews with family caregivers and focus groups with nurses. Which checklist specifically targets these methods?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** STARD
 - **B.** CONSORT
@@ -156,7 +156,7 @@
 
 ### Q7. A hospital reports repeated local quality-improvement cycles addressing delayed transfers and describes its context and intervention changes. Which reporting framework best fits?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** SQUIRE 2.0
 - **B.** STARD
@@ -206,7 +206,7 @@
 
 ### Q9. A paper reports a mean symptom-score difference without a confidence interval, standard error or other uncertainty estimate. What is the main limitation?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** The point estimate must be fabricated
 - **B.** The direction of the point estimate is unknowable
@@ -306,7 +306,7 @@
 
 ### Q13. An investigator invents questionnaire responses from people who were never enrolled and includes them in the final dataset. Which violation is most direct?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Fabrication
 - **B.** Falsification of genuinely collected measurements
@@ -331,7 +331,7 @@
 
 ### Q14. After collection, an investigator deliberately changes genuine pain scores to make an intervention appear more effective. Which violation is most direct?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Fabrication of entirely nonexistent participants
 - **B.** Acceptable data cleaning
@@ -406,7 +406,7 @@
 
 ### Q17. An interventional trial is planned for a journal following ICMJE trial-registration policy. When should public registration ordinarily occur?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Only after obtaining significant results
 - **B.** Only if a reviewer requests it after publication
@@ -431,7 +431,7 @@
 
 ### Q18. A transposed numerical value is discovered after publication, but verified underlying data and conclusions remain sound. What should authors do?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Silently correct private copies only
 - **B.** Automatically retract every article containing a minor correctable error
@@ -456,7 +456,7 @@
 
 ### Q19. A journal promises guaranteed acceptance within 24 hours for a fee but provides unclear editorial ownership and peer-review information. What should the nurse researcher do?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Submit because fast acceptance proves quality
 - **B.** Verify ownership, indexing, peer review and fee transparency independently
