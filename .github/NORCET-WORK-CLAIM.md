@@ -1,10 +1,10 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: integration-pr48-navigation-prep-20261128T1311Z
+Scope: PR48 isolated Group10 navigation preparation artifact and exact handoff only. No shared navigation file edits, no clinical main writes, no merge before clearance. Preserve PR68 IPC scope, PR46/49 corrections and other sessions.
+Claimed UTC: 2026-11-28T13:11:26Z
+Expiry UTC: 2026-11-28T13:41:26Z
 
 ## Latest residual-register checkpoint — 28 November 2026
 
