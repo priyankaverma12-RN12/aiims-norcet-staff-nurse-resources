@@ -2,23 +2,21 @@
 
 [External Practice Tests](README.md) · [Chapter](../README.md)
 
-**Source:** Learner-provided chat text. Original author and exam provenance unverified. Question wording, order and options retained. Suggested keys and explanations are newly prepared, not an official answer key. **Status:** Unattempted, draft clinical review. **Time:** 30 minutes suggested. +1 correct, −1/3 incorrect, 0 skipped. This is external practice, not AI-original or verified PYQ.
+**Source:** Learner-provided chat text. Original author and exam provenance unverified. Question wording, order and options retained. Suggested keys and explanations are newly prepared, not an official answer key. **Status:** Unattempted, draft clinical review. **Time limit:** 30 minutes. +1 correct, −1/3 incorrect, 0 skipped. This is external practice, not AI-original or verified PYQ.
 
-### Q1
-
-**Functional unit of lung is?**
+### Q1. Functional unit of lung is?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Alveoli
-- b) Bronchi
-- c) Nephron
-- d) Lobule
+- A) Alveoli
+- B) Bronchi
+- C) Nephron
+- D) Lobule
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. Alveoli**
+**Answer: A. Alveoli**
 
 **A ka reason:** Alveoli mein blood aur hawa ke beech gas exchange hota hai, isliye listed options mein A best hai. Strict anatomical term acinus hai.
 
@@ -34,21 +32,19 @@
 
 </details>
 
-### Q2
-
-**Normal Respiratory Rate in adult is?**
+### Q2. Normal Respiratory Rate in adult is?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) 12-20 /min
-- b) 20-30 /min
-- c) 30-40 /min
-- d) 8-10 /min
+- A) 12-20 /min
+- B) 20-30 /min
+- C) 30-40 /min
+- D) 8-10 /min
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. 12-20 /min**
+**Answer: A. 12-20 /min**
 
 **A ka reason:** Resting adult mein 12–20 breaths per minute usual range hai.
 
@@ -64,21 +60,19 @@
 
 </details>
 
-### Q3
-
-**Exchange of Oxygen and Carbon dioxide takes place in?**
+### Q3. Exchange of Oxygen and Carbon dioxide takes place in?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Trachea
-- b) Bronchi
-- c) Alveoli
-- d) Pleura
+- A) Trachea
+- B) Bronchi
+- C) Alveoli
+- D) Pleura
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: C. Alveoli**
+**Answer: C. Alveoli**
 
 **A ka reason:** Trachea hawa ko conduct karti hai.
 
@@ -94,21 +88,19 @@
 
 </details>
 
-### Q4
-
-**Surfactant is secreted by?**
+### Q4. Surfactant is secreted by?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Type I pneumocytes
-- b) Type II pneumocytes
-- c) Goblet cells
-- d) Macrophages
+- A) Type I pneumocytes
+- B) Type II pneumocytes
+- C) Goblet cells
+- D) Macrophages
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Type II pneumocytes**
+**Answer: B. Type II pneumocytes**
 
 **A ka reason:** Type I cells patli gas exchange surface banate hain.
 
@@ -124,21 +116,19 @@
 
 </details>
 
-### Q5
-
-**Which nerve supplies the diaphragm?**
+### Q5. Which nerve supplies the diaphragm?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Vagus nerve
-- b) Phrenic nerve
-- c) Intercostal nerve
-- d) Facial nerve
+- A) Vagus nerve
+- B) Phrenic nerve
+- C) Intercostal nerve
+- D) Facial nerve
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Phrenic nerve**
+**Answer: B. Phrenic nerve**
 
 **A ka reason:** Vagus autonomic functions mein role nibhata hai.
 
@@ -154,21 +144,19 @@
 
 </details>
 
-### Q6
-
-**Total Lung Capacity in normal adult is approximately?**
+### Q6. Total Lung Capacity in normal adult is approximately?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) 6000 ml
-- b) 4800 ml
-- c) 3500 ml
-- d) 1200 ml
+- A) 6000 ml
+- B) 4800 ml
+- C) 3500 ml
+- D) 1200 ml
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. 6000 ml**
+**Answer: A. 6000 ml**
 
 **A ka reason:** Lagbhag 6000 mL ek typical adult male ka textbook estimate hai. Actual TLC height, age aur sex par depend karti hai.
 
@@ -184,21 +172,19 @@
 
 </details>
 
-### Q7
-
-**Most common causative organism of Community Acquired Pneumonia is?**
+### Q7. Most common causative organism of Community Acquired Pneumonia is?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Staphylococcus aureus
-- b) Streptococcus pneumoniae
-- c) Klebsiella
-- d) E. coli
+- A) Staphylococcus aureus
+- B) Streptococcus pneumoniae
+- C) Klebsiella
+- D) E. coli
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Streptococcus pneumoniae**
+**Answer: B. Streptococcus pneumoniae**
 
 **A ka reason:** Staph aureus pneumonia kar sakta hai, jaise influenza ke baad.
 
@@ -214,21 +200,19 @@
 
 </details>
 
-### Q8
-
-**Rusty sputum is seen in?**
+### Q8. Rusty sputum is seen in?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Asthma
-- b) Pneumonia
-- c) Tuberculosis
-- d) Lung Cancer
+- A) Asthma
+- B) Pneumonia
+- C) Tuberculosis
+- D) Lung Cancer
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Pneumonia**
+**Answer: B. Pneumonia**
 
 **A ka reason:** Asthma mein mucus aur wheezing zyada typical hain.
 
@@ -244,21 +228,19 @@
 
 </details>
 
-### Q9
-
-**Characteristic feature of Bronchial Asthma is?**
+### Q9. Characteristic feature of Bronchial Asthma is?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Irreversible airway obstruction
-- b) Reversible airway obstruction
-- c) Productive cough
-- d) Chest pain
+- A) Irreversible airway obstruction
+- B) Reversible airway obstruction
+- C) Productive cough
+- D) Chest pain
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Reversible airway obstruction**
+**Answer: B. Reversible airway obstruction**
 
 **A ka reason:** Fixed obstruction COPD mein zyada typical hai.
 
@@ -274,21 +256,19 @@
 
 </details>
 
-### Q10
-
-**Drug of choice in acute severe asthma?**
+### Q10. Drug of choice in acute severe asthma?
 
 **Difficulty:** Medium · **Priority:** 🟠 HIGH YIELD
 
-- a) Salbutamol nebulization
-- b) Morphine
-- c) Penicillin
-- d) Furosemide
+- A) Salbutamol nebulization
+- B) Morphine
+- C) Penicillin
+- D) Furosemide
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. Salbutamol nebulization**
+**Answer: A. Salbutamol nebulization**
 
 **A ka reason:** Salbutamol bronchial muscles relax karke airway kholta hai. Severe attack mein urgent assessment, oxygen as indicated, systemic steroid aur ipratropium bhi zaroori ho sakte hain.
 
@@ -304,21 +284,19 @@
 
 </details>
 
-### Q11
-
-**COPD includes?**
+### Q11. COPD includes?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Chronic Bronchitis + Emphysema
-- b) Asthma + Pneumonia
-- c) TB + Pneumonia
-- d) Asthma + TB
+- A) Chronic Bronchitis + Emphysema
+- B) Asthma + Pneumonia
+- C) TB + Pneumonia
+- D) Asthma + TB
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. Chronic Bronchitis + Emphysema**
+**Answer: A. Chronic Bronchitis + Emphysema**
 
 **A ka reason:** Chronic bronchitis aur emphysema COPD ke common clinical/pathological patterns hain. Dono ka hona mandatory nahi hai.
 
@@ -334,21 +312,19 @@
 
 </details>
 
-### Q12
-
-**Barrel-shaped chest is seen in?**
+### Q12. Barrel-shaped chest is seen in?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Pneumonia
-- b) Emphysema / COPD
-- c) Asthma
-- d) Pleural Effusion
+- A) Pneumonia
+- B) Emphysema / COPD
+- C) Asthma
+- D) Pleural Effusion
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Emphysema / COPD**
+**Answer: B. Emphysema / COPD**
 
 **A ka reason:** Pneumonia mein consolidation common finding hai.
 
@@ -364,21 +340,19 @@
 
 </details>
 
-### Q13
-
-**Blue Bloater is related to?**
+### Q13. Blue Bloater is related to?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Chronic Bronchitis
-- b) Emphysema
-- c) Asthma
-- d) TB
+- A) Chronic Bronchitis
+- B) Emphysema
+- C) Asthma
+- D) TB
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. Chronic Bronchitis**
+**Answer: A. Chronic Bronchitis**
 
 **A ka reason:** Purane textbook description mein chronic bronchitis ke saath cyanosis aur edema ko blue bloater kaha gaya tha.
 
@@ -394,21 +368,19 @@
 
 </details>
 
-### Q14
-
-**Pink Puffer is related to?**
+### Q14. Pink Puffer is related to?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Chronic Bronchitis
-- b) Emphysema
-- c) Pneumonia
-- d) ARDS
+- A) Chronic Bronchitis
+- B) Emphysema
+- C) Pneumonia
+- D) ARDS
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Emphysema**
+**Answer: B. Emphysema**
 
 **A ka reason:** Chronic bronchitis ka historical label blue bloater tha.
 
@@ -424,21 +396,19 @@
 
 </details>
 
-### Q15
-
-**Most common site of Pulmonary Tuberculosis in adult is?**
+### Q15. Most common site of Pulmonary Tuberculosis in adult is?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Lower lobe
-- b) Upper lobe / Apex
-- c) Middle lobe
-- d) Hilum
+- A) Lower lobe
+- B) Upper lobe / Apex
+- C) Middle lobe
+- D) Hilum
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Upper lobe / Apex**
+**Answer: B. Upper lobe / Apex**
 
 **A ka reason:** Lower lobe primary TB mein involve ho sakta hai.
 
@@ -454,21 +424,19 @@
 
 </details>
 
-### Q16
-
-**A TB patient is on DOTS with 4 drugs - HRZE. Patient is told that his urine will become orange. Which drug causes this?**
+### Q16. A TB patient is on DOTS with 4 drugs - HRZE. Patient is told that his urine will become orange. Which drug causes this?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Isoniazid
-- b) Rifampicin
-- c) Pyrazinamide
-- d) Ethambutol
+- A) Isoniazid
+- B) Rifampicin
+- C) Pyrazinamide
+- D) Ethambutol
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Rifampicin**
+**Answer: B. Rifampicin**
 
 **A ka reason:** Isoniazid se neuropathy aur liver toxicity ho sakti hai.
 
@@ -484,21 +452,19 @@
 
 </details>
 
-### Q17
-
-**Most dangerous side effect of Ethambutol is?**
+### Q17. Most dangerous side effect of Ethambutol is?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Liver damage
-- b) Optic Neuritis - Colour blindness / Vision loss
-- c) Kidney failure
-- d) Hearing loss
+- A) Liver damage
+- B) Optic Neuritis - Colour blindness / Vision loss
+- C) Kidney failure
+- D) Hearing loss
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Optic Neuritis - Colour blindness / Vision loss**
+**Answer: B. Optic Neuritis - Colour blindness / Vision loss**
 
 **A ka reason:** Liver toxicity doosri first-line TB drugs ke saath zyada classic concern hai.
 
@@ -514,21 +480,19 @@
 
 </details>
 
-### Q18
-
-**In ARDS, what is seen first?**
+### Q18. In ARDS, what is seen first?
 
 **Difficulty:** Medium · **Priority:** 🟠 HIGH YIELD
 
-- a) Severe Hypoxemia which does not improve even after giving Oxygen
-- b) High BP
-- c) Low Heart Rate
-- d) High Blood Sugar
+- A) Severe Hypoxemia which does not improve even after giving Oxygen
+- B) High BP
+- C) Low Heart Rate
+- D) High Blood Sugar
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. Severe Hypoxemia which does not improve even after giving Oxygen**
+**Answer: A. Severe Hypoxemia which does not improve even after giving Oxygen**
 
 **A ka reason:** ARDS mein injured alveolar-capillary barrier ke karan hypoxemia oxygen se poori tarah correct nahi ho sakti. Ye hallmark hai, necessarily first sign nahi.
 
@@ -544,21 +508,19 @@
 
 </details>
 
-### Q19
-
-**In Pneumothorax, chest tube is inserted at?**
+### Q19. In Pneumothorax, chest tube is inserted at?
 
 **Difficulty:** Medium · **Priority:** 🟠 HIGH YIELD
 
-- a) 2nd Intercostal Space, Mid-clavicular line
-- b) 5th Intercostal Space, Mid-axillary line
-- c) 7th Intercostal Space
-- d) 1st Intercostal Space
+- A) 2nd Intercostal Space, Mid-clavicular line
+- B) 5th Intercostal Space, Mid-axillary line
+- C) 7th Intercostal Space
+- D) 1st Intercostal Space
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. 5th Intercostal Space, Mid-axillary line**
+**Answer: B. 5th Intercostal Space, Mid-axillary line**
 
 **A ka reason:** Second space midclavicular site historically needle decompression se linked hai, routine chest drain ka preferred site nahi hai.
 
@@ -574,21 +536,19 @@
 
 </details>
 
-### Q20
-
-**In Pleural Effusion, breath sound will be?**
+### Q20. In Pleural Effusion, breath sound will be?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Normal
-- b) Decreased / Absent on affected side
-- c) Loud wheeze
-- d) Crackles everywhere
+- A) Normal
+- B) Decreased / Absent on affected side
+- C) Loud wheeze
+- D) Crackles everywhere
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Decreased / Absent on affected side**
+**Answer: B. Decreased / Absent on affected side**
 
 **A ka reason:** Large effusion mein sounds normal rehna expected nahi hai.
 
@@ -604,21 +564,19 @@
 
 </details>
 
-### Q21
-
-**A COPD patient should be given Oxygen at what flow rate?**
+### Q21. A COPD patient should be given Oxygen at what flow rate?
 
 **Difficulty:** Medium · **Priority:** 🟠 HIGH YIELD
 
-- a) 1-2 L/min - Low flow, Target SpO2 88-92%
-- b) 8-10 L/min - High flow
-- c) 5 L/min
-- d) Oxygen should not be given
+- A) 1-2 L/min - Low flow, Target SpO2 88-92%
+- B) 8-10 L/min - High flow
+- C) 5 L/min
+- D) Oxygen should not be given
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. 1-2 L/min - Low flow, Target SpO2 88-92%**
+**Answer: A. 1-2 L/min - Low flow, Target SpO2 88-92%**
 
 **A ka reason:** Acute COPD mein hypercapnic failure risk ho toh 88–92% target pending ABG rakha ja sakta hai. 1–2 L/min nasal cannula ek possible starting setting hai, fixed limit nahi.
 
@@ -634,21 +592,19 @@
 
 </details>
 
-### Q22
-
-**ABG Report: pH - 7.31, PaCO2 - 55, HCO3 - 24. What is this?**
+### Q22. ABG Report: pH - 7.31, PaCO2 - 55, HCO3 - 24. What is this?
 
 **Difficulty:** Medium · **Priority:** 🟠 HIGH YIELD
 
-- a) Respiratory Acidosis
-- b) Respiratory Alkalosis
-- c) Metabolic Acidosis
-- d) Metabolic Alkalosis
+- A) Respiratory Acidosis
+- B) Respiratory Alkalosis
+- C) Metabolic Acidosis
+- D) Metabolic Alkalosis
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. Respiratory Acidosis**
+**Answer: A. Respiratory Acidosis**
 
 **A ka reason:** pH low hai aur CO2 high hai, isliye primary respiratory acidosis best choice hai. Values rounded ya internally discordant ho sakti hain, actual sample recheck karo.
 
@@ -664,21 +620,19 @@
 
 </details>
 
-### Q23
-
-**Kussmaul Breathing is seen in?**
+### Q23. Kussmaul Breathing is seen in?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Asthma
-- b) Diabetic Ketoacidosis / Metabolic Acidosis
-- c) Pneumonia
-- d) COPD
+- A) Asthma
+- B) Diabetic Ketoacidosis / Metabolic Acidosis
+- C) Pneumonia
+- D) COPD
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Diabetic Ketoacidosis / Metabolic Acidosis**
+**Answer: B. Diabetic Ketoacidosis / Metabolic Acidosis**
 
 **A ka reason:** Asthma mein wheeze aur prolonged expiration typical hain.
 
@@ -694,21 +648,19 @@
 
 </details>
 
-### Q24
-
-**Cheyne-Stokes Breathing occurs in?**
+### Q24. Cheyne-Stokes Breathing occurs in?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Heart Failure / Brain Injury
-- b) TB
-- c) Pneumonia
-- d) Asthma
+- A) Heart Failure / Brain Injury
+- B) TB
+- C) Pneumonia
+- D) Asthma
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. Heart Failure / Brain Injury**
+**Answer: A. Heart Failure / Brain Injury**
 
 **A ka reason:** Heart failure ya central nervous system disorders mein breathing gradually badhkar kam hoti hai aur apnea aa sakta hai.
 
@@ -724,21 +676,19 @@
 
 </details>
 
-### Q25
-
-**Most common type of Lung Cancer is?**
+### Q25. Most common type of Lung Cancer is?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) Adenocarcinoma
-- b) Squamous Cell Carcinoma
-- c) Small Cell Carcinoma
-- d) Large Cell Carcinoma
+- A) Adenocarcinoma
+- B) Squamous Cell Carcinoma
+- C) Small Cell Carcinoma
+- D) Large Cell Carcinoma
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. Adenocarcinoma**
+**Answer: A. Adenocarcinoma**
 
 **A ka reason:** Adenocarcinoma overall common histologic subtype hai. Frequency population ke hisab se badal sakti hai.
 
@@ -754,21 +704,19 @@
 
 </details>
 
-### Q26
-
-**Patient has sudden chest pain + dyspnea + trachea shifted to one side. Diagnosis?**
+### Q26. Patient has sudden chest pain + dyspnea + trachea shifted to one side. Diagnosis?
 
 **Difficulty:** Medium · **Priority:** 🟠 HIGH YIELD
 
-- a) Tension Pneumothorax
-- b) Pleural Effusion
-- c) Pneumonia
-- d) Asthma
+- A) Tension Pneumothorax
+- B) Pleural Effusion
+- C) Pneumonia
+- D) Asthma
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. Tension Pneumothorax**
+**Answer: A. Tension Pneumothorax**
 
 **A ka reason:** Sudden symptoms aur mediastinal shift tension pneumothorax suggest karte hain. Unstable patient mein emergency treatment delay nahi karna hai. Tracheal deviation late ya absent bhi ho sakta hai.
 
@@ -784,21 +732,19 @@
 
 </details>
 
-### Q27
-
-**While doing suctioning, nurse should remember?**
+### Q27. While doing suctioning, nurse should remember?
 
 **Difficulty:** Medium · **Priority:** 🟠 HIGH YIELD
 
-- a) Suction should not be done for more than 10-15 seconds
-- b) Suction for 1 minute
-- c) Stop Oxygen during suction
-- d) Do not hyperventilate before suction
+- A) Suction should not be done for more than 10-15 seconds
+- B) Suction for 1 minute
+- C) Stop Oxygen during suction
+- D) Do not hyperventilate before suction
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. Suction should not be done for more than 10-15 seconds**
+**Answer: A. Suction should not be done for more than 10-15 seconds**
 
 **A ka reason:** Artificial airway suction ko maximum 15 seconds tak limit karte hain taaki hypoxemia ka risk kam ho.
 
@@ -814,21 +760,19 @@
 
 </details>
 
-### Q28
-
-**Incentive Spirometry is done for?**
+### Q28. Incentive Spirometry is done for?
 
 **Difficulty:** Easy · **Priority:** 🟠 HIGH YIELD
 
-- a) To prevent Post-operative Atelectasis
-- b) To decrease BP
-- c) To decrease Sugar
-- d) To induce sleep
+- A) To prevent Post-operative Atelectasis
+- B) To decrease BP
+- C) To decrease Sugar
+- D) To induce sleep
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: A. To prevent Post-operative Atelectasis**
+**Answer: A. To prevent Post-operative Atelectasis**
 
 **A ka reason:** Device deep inspiration encourage karta hai aur lung expansion mein help kar sakta hai. Isko akela routine prevention ke liye effective nahi maanna chahiye.
 
@@ -844,21 +788,19 @@
 
 </details>
 
-### Q29
-
-**Patient has a Chest Tube. Nurse observes continuous bubbling in water seal chamber. It means?**
+### Q29. Patient has a Chest Tube. Nurse observes continuous bubbling in water seal chamber. It means?
 
 **Difficulty:** Medium · **Priority:** 🟠 HIGH YIELD
 
-- a) It is Normal
-- b) Air Leak is present - Inform Doctor
-- c) Tube is blocked
-- d) Patient has recovered
+- A) It is Normal
+- B) Air Leak is present - Inform Doctor
+- C) Tube is blocked
+- D) Patient has recovered
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Air Leak is present - Inform Doctor**
+**Answer: B. Air Leak is present - Inform Doctor**
 
 **A ka reason:** Intermittent bubbling cough ke saath ho sakti hai, lekin continuous water-seal bubbling assess karna chahiye.
 
@@ -874,21 +816,19 @@
 
 </details>
 
-### Q30
-
-**Pulse Oximeter shows SpO2 88%, patient has dyspnea. What is the FIRST action of nurse?**
+### Q30. Pulse Oximeter shows SpO2 88%, patient has dyspnea. What is the FIRST action of nurse?
 
 **Difficulty:** Medium · **Priority:** 🟠 HIGH YIELD
 
-- a) Call Doctor
-- b) Place patient in Semi-Fowler's position + Give Oxygen
-- c) Make patient lie down flat
-- d) Do ABG
+- A) Call Doctor
+- B) Place patient in Semi-Fowler's position + Give Oxygen
+- C) Make patient lie down flat
+- D) Do ABG
 
 <details>
 <summary>✅ Sahi answer aur explanation dekho</summary>
 
-**Suggested answer: B. Place patient in Semi-Fowler's position + Give Oxygen**
+**Answer: B. Place patient in Semi-Fowler's position + Give Oxygen**
 
 **A ka reason:** Help call karna important hai, lekin ABC assessment aur immediate support delay mat karo.
 
