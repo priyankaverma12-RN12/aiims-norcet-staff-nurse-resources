@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: endocrine-b05-20261128-1216Z
-Scope: PR54 isolated adult primary hyperparathyroidism and endocrine calcium-regulation candidates only. No shared navigation, renal, nutrition or prior bank changes.
+Scope: PR54 isolated adult primary hyperparathyroidism, endocrine calcium-regulation, adult diabetes classification and endocrine glycemic medication/inpatient care candidates only. Exclude renal treatment, nutrition, pediatric, pregnancy, pump and emergency crisis protocols. No shared navigation or prior bank changes.
 Claimed UTC: 2026-11-28T12:16:24Z
 Expiry UTC: 2026-11-28T12:46:24Z
 
