@@ -79,26 +79,26 @@
 
 </details>
 
-### Q4. A capable adult declines a proposed research blood sample while agreeing to routine treatment. Which principle most directly supports respecting that decision?
+### Q4. Two scientifically equivalent methods are available to collect a research measurement. One requires an invasive procedure, while the other is noninvasive and imposes less burden. Which ethical decision is preferable?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Justice alone
-- **B.** Respect for autonomy
-- **C.** Beneficence alone
-- **D.** Scientific validity
+- **A.** Select the invasive procedure solely because it is more familiar
+- **B.** Choose the less burdensome method that preserves scientific validity
+- **C.** Assign the invasive method to participants with fewer resources
+- **D.** Choose whichever method generates the most publishable images
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Respect for autonomy**
+**Correct: B. Choose the less burdensome method that preserves scientific validity**
 
-**B.** Autonomy participant ki informed voluntary choice protect karti hai. Research refusal ke bawajood appropriate clinical treatment continue hona chahiye.
+**B.** Nonmaleficence aur risk minimization ke under unnecessary procedural burden reduce karna chahiye. Scientifically equivalent safer method participant protection strengthen karta hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Justice fair distribution aur selection se related hai. Individual informed refusal ka primary basis autonomy hai.
-- **C.** Beneficence welfare promote karti hai, lekin perceived benefit ke naam par capable person ki choice override nahi kar sakte.
-- **D.** Valid research design ethical value support karta hai, but informed refusal ko override karne ka authority nahi deta.
+- **A.** Familiarity operational convenience de sakti hai, but avoidable participant harm justify nahi karti. Equal scientific validity mein safer method prefer karo.
+- **C.** Economic disadvantage ko more invasive burden assign karna unjust and potentially exploitative hai. Fair risk distribution and scientific justification required hain.
+- **D.** Publication attractiveness participant welfare ke upar priority nahi honi chahiye. Method selection research question and proportional risk ke according karo.
 
 **YouTube MCQ practice:** verification pending.
 
