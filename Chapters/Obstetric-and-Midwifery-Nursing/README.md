@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 744 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour aur 20 passenger fetal factors aur 20 passage maternal pelvis aur 20 mechanism and cardinal movements aur 20 maternal-fetal intrapartum assessment aur 20 partograph aur 20 WHO Labour Care Guide aur 20 nursing management aur 20 hypertensive disorders classification MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 764 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour aur 20 passenger fetal factors aur 20 passage maternal pelvis aur 20 mechanism and cardinal movements aur 20 maternal-fetal intrapartum assessment aur 20 partograph aur 20 WHO Labour Care Guide aur 20 nursing management aur 20 hypertensive disorders classification aur 20 pre-eclampsia MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -40,6 +40,7 @@
 | WHO Labour Care Guide | [Detailed concepts and worked examples](Concepts/07J-WHO-Labour-Care-Guide.md) · [20 original MCQs](MCQs/07J-WHO-Labour-Care-Guide-20-MCQs.md) · [Exam and video evidence gaps](Previous-Year-Questions/07J-WHO-Labour-Care-Guide-Evidence.md) |
 | Nursing management in normal labour | [Detailed concepts and flowcharts](Concepts/07K-Nursing-Management-in-Normal-Labour.md) · [20 original MCQs](MCQs/07K-Nursing-Management-in-Normal-Labour-20-MCQs.md) · [Exam and video evidence gaps](Previous-Year-Questions/07K-Nursing-Management-in-Normal-Labour-Evidence.md) |
 | Hypertensive disorders — classification and recognition | [Concepts](Concepts/08A-Hypertensive-Disorders-Classification-and-Recognition.md) · [20 original MCQs](MCQs/08A-Hypertensive-Disorders-Classification-and-Recognition-20-MCQs.md) · [Evidence gaps](Previous-Year-Questions/08A-Hypertensive-Disorders-Classification-and-Recognition-Evidence.md) |
+| Pre-eclampsia | [Concepts and flowcharts](Concepts/08B-Pre-eclampsia.md) · [20 original MCQs](MCQs/08B-Pre-eclampsia-20-MCQs.md) · [Reported adaptation and evidence](Previous-Year-Questions/08B-Pre-eclampsia-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -177,3 +178,8 @@ Ab birth preparation, infection prevention, respectful care, selective intervent
 ## Hypertensive disorders — classification and recognition — 28 November 2026
 
 Ab BP measurement, chronic aur gestational hypertension, white-coat aur masked patterns, proteinuria aur pre-eclampsia classification ke 20 original MCQs available hain. Har option ka separate Roman Hinglish explanation aur concepts mein do original flowcharts hain. Obstetrics mein 744 indexed originals aur 27 historical adaptations hain. Independent clinical, semantic aur specific video review abhi pending hain. Agla topic pre-eclampsia hai.
+
+
+## Pre-eclampsia — 28 November 2026
+
+Ab placental mechanism, risk assessment, prevention, maternal complications, birth timing aur postpartum monitoring ke 20 original MCQs available hain. Har option ka separate Roman Hinglish explanation aur concepts mein do original flowcharts hain. NORCET 7 Prelims 2024 ka independently worded reported adaptation separate add hua hai. Obstetrics mein 764 indexed originals aur 28 historical adaptations hain. Independent audit aur specific video verification abhi pending hain. Agla topic eclampsia hai.

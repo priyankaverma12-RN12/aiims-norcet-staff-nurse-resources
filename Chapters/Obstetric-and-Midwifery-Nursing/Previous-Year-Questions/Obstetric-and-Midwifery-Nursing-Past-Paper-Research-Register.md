@@ -145,3 +145,8 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Hypertensive disorders classification — 28 November 2026
 
 [08A clinical and exam evidence](08A-Hypertensive-Disorders-Classification-and-Recognition-Evidence.md). ISSHP recommendations and classification table, NHM CEmONC 2024 and INC OBG Nursing II Unit I extracted text directly reviewed. PDF screenshots failed. NORCET 7 Prelims 2024 reported abruption association retrieved and reserved for 08B. HPRCA 25026 paper retrieval failed. No new historical adaptations. Twenty broad video candidate links, twenty specific gaps. Obstetrics adaptations remain 27.
+
+
+## Pre-eclampsia — 28 November 2026
+
+[08B evidence and reported adaptation](08B-Pre-eclampsia-Evidence.md). Direct Testbook NORCET 7 Prelims 2024 reported abruption association retrieved. One independently worded clinical scenario adaptation, official key unauthenticated. HPRCA 25026 Shift 3 Q62 neonatal assessment indexed only, no count. Direct ISSHP, NHM and NICE NCBI text reviewed. Twenty original video candidate gaps and one adaptation gap. Obstetrics historical adaptations now 28.
