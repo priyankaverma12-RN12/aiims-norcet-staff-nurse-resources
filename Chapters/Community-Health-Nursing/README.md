@@ -15,11 +15,11 @@
 
 ## Manual chapter work claim
 
-State: CLAIMED
-Owner: community-pr62-b05-20261128T1642Z
-Scope: PR62 Batch05 new distinct community programme banks only: Jal Jeevan Mission water service governance, VHSNC village health accountability, WHO International Health Regulations and international notification. Exclude existing PR61/62 stems and shared navigation, draft only.
-Claimed UTC: 2026-11-28T16:42:00Z
-Expiry UTC: 2026-11-28T17:12:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Latest candidate: [PR62 — Batch 01](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/62), head `b6157733d7f4e1b0180e98569d35f47ddce7fb84`. Five banks, 100 original MCQs, 400 individual Roman Hinglish option rationales, 100 exam clues, 16 Easy, 55 Medium, 29 Difficult. All bank and candidate index exact remote readbacks passed, 100 distinct normalized stems, four options and aligned key per question. Not live. Preserve four existing originals and two reported adaptations. Resume actual remaining topic banks on the same candidate branch after exclusive ownership, then ten 120-question original-only mocks, then source-traced PYQs. Concept/visual, video and independent release checks remain pending. No repeat retrospective audit during content creation. Preserve other owners and five hourly schedules.
 
@@ -81,3 +81,8 @@ PR62 verified head `354d980a79e77f59c55cc89487c48df10b8f2191`. Five new banks, 1
 ## PR62 Batch 04 checkpoint — 28 November 2026
 
 PR62 verified head `adaf63290dae17ac9a271194eda71ce20df1a740`. Added six topic-mapped Easy-only supplements for banks 05–10, 36 originals, 144 separate Roman Hinglish rationales and 36 clues. Cumulative 336 staged originals, 1344 rationales, 336 clues, 15 banks and six supplements, 99 Easy/140 Medium/97 Difficult. All six files, three refinements and index exact readbacks passed, 36 distinct normalized stems and clues, no matches against 120 corresponding parent stems, zero structural/key errors, balanced key letters 9 each. Git comparison shows only six new files and index append, zero deletions, all 300 prior originals preserved. PR61 unchanged at `760510aafdeed4a8aa25bc29e5f1551247988da3`, coordination comments 7240131391 and 7241799747. Deferred overlapping first four banks pending allocation and avoided padding already balanced banks 11–15. WHO, NHA, NHM, MoHFW, NCDC and CDC source research linked, PMNDP FAQ 502 and introduction timeout, retrieved search excerpts used. Full adjacent and cross-branch semantic, clinical/difficulty calibration, question-level source/video, concepts/visuals, navigation and CI remain pending. No live credit or mocks/PYQs. Next coordinate overlapping bank allocations, screen residual curriculum and genuine deficit objectives before new work, then original-only 40/40/40 mocks after coverage certification. Preserve all five hourly jobs and learner history. Released owner community-pr62-b04-20261128T1548Z.
+
+
+## PR62 Batch 05 checkpoint — 28 November 2026
+
+PR62 verified head `f4dc9f228d410351c75aa6957fd1ede5c92c9cc8`. Three new topic banks, 60 original MCQs, 240 individual Roman Hinglish rationales and 60 clues, 20 Easy/21 Medium/19 Difficult. Cumulative 396 staged originals, 1584 rationales, 396 clues, 18 base banks and six supplements, 119 Easy/161 Medium/116 Difficult. Three banks, two refinements and index exact readbacks passed; 60 distinct normalized stems and clues, zero structural/key errors, no matches against 206 relevant prior stems, 15 keys per letter. Git comparison shows only three new banks and index append, zero deletions. PR61 head `760510aafdeed4a8aa25bc29e5f1551247988da3` unchanged. Coordination comments 7241799747 and 7242496960. Official JJM, NHM and WHO sources retrieved; HP 2012 order text available but page screenshots timed out, state rules explicitly dated and current applicability not certified. Full semantic/clinical/difficulty, historical and video evidence, concepts/visuals, navigation and CI gates pending. No live credit. Next screen national/international health agencies and subcentre financial management against related PRs, reconcile overlapping initial topic allocations before mocks. Preserve five hourly automations and learner history. Released owner community-pr62-b05-20261128T1642Z.
