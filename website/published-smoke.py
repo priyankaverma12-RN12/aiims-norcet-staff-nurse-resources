@@ -51,7 +51,7 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    asset_versions={"styles.css":"12.0","app.js":"12.0","progress.js":"11.8","routine.js":"12.0","study-ui.js":"11.8","quiz.js":"11.9","media.js":"11.9.2","favicon.svg":"1"}
+    asset_versions={"styles.css":"12.1","app.js":"12.1","progress.js":"11.8","routine.js":"12.0","study-ui.js":"11.8","quiz.js":"11.9","media.js":"11.9.2","favicon.svg":"1"}
     for filename,version in asset_versions.items():
         response=api.get(urljoin(base,filename)+"?v="+version+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
@@ -219,6 +219,11 @@ with sync_playwright() as p:
         print(f"Library, directory, compact index, reader and Metrics synchronized completion controls and inventory counts passed at {width}x{height}.",flush=True)
         go({"progress":"1","chapter":chapter["id"]})
         expect(page.locator(".completion-stat").first).to_be_visible(timeout=30000)
+        if width<=600:
+            expect(page.locator("#progress-filter-toggle")).to_have_attribute("aria-expanded","false")
+            expect(page.locator("#progress-filter-panel")).to_be_hidden()
+            page.locator("#progress-filter-toggle").click()
+            expect(page.locator("#progress-chapter")).to_be_visible()
         expect(page.locator(".completion-stat").first.locator("strong")).to_have_text("0%")
         expect(page.locator(".completion-chapter").first).not_to_have_attribute("open","")
         expand_chapter(page,"progress")
@@ -414,6 +419,8 @@ with sync_playwright() as p:
         ready()
         expect(page.locator(".quiz-bank-progress-line strong").last).to_have_text("100%")
         go({"progress":"1","chapter":"Respiratory-System"})
+        if width<=600:
+            page.locator("#progress-filter-toggle").click()
         page.locator("#progress-filter").select_option("done")
         expand_folders(page,"progress","mcq")
         expect(page.locator(".completion-resource")).to_have_count(1)
@@ -517,9 +524,18 @@ with sync_playwright() as p:
         fit()
         go({"progress":"1","chapter":"Respiratory-System"})
         expect(page.locator("#progress-link")).to_have_attribute("aria-current","page")
+        if width<=600:
+            filter_icon=page.locator("#progress-filter-toggle")
+            expect(filter_icon).to_have_attribute("aria-expanded","false")
+            expect(page.locator("#progress-filter-panel")).to_be_hidden()
+            expect(page.locator("#progress-filter-panel>summary")).to_be_hidden()
+            assert filter_icon.bounding_box()["width"]>=44
+            assert filter_icon.bounding_box()["height"]>=44
+            filter_icon.click()
+            expect(page.locator("#progress-chapter")).to_have_value("Respiratory-System")
         for panel_id,inside in (("#progress-summary-panel","#progress-summary"),("#progress-filter-panel","#progress-search")):
             panel=page.locator(panel_id)
-            summary=panel.locator(":scope > summary")
+            summary=page.locator("#progress-filter-toggle") if panel_id=="#progress-filter-panel" and width<=600 else panel.locator(":scope > summary")
             assert summary.bounding_box()["height"]>=44
             summary.click()
             expect(page.locator(inside)).to_be_hidden()
@@ -528,6 +544,13 @@ with sync_playwright() as p:
             fit()
         page.locator("#progress-search").fill("no matching topic xyz")
         expect(page.locator("#progress-list .empty-state")).to_be_visible()
+        if width<=600:
+            filter_icon.click()
+            expect(page.locator("#progress-filter-panel")).to_be_hidden()
+            expect(page.locator("#progress-list .empty-state")).to_be_visible()
+            filter_icon.click()
+            expect(page.locator("#progress-search")).to_have_value("no matching topic xyz")
+            print(f"V12.1 live compact progress filter and preserved selections passed at {width}x{height}.",flush=True)
         page.locator("#clear-progress").click()
         expect(page.locator("#progress-search")).to_have_value("")
         expect(page.locator("#progress-chapter")).to_have_value("")

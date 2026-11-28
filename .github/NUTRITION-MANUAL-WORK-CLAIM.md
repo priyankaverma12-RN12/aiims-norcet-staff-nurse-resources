@@ -1,10 +1,33 @@
 # Nutrition and Dietetics manual work claim
 
 State: CLAIMED
-Owner: nutrition-08b-programmes-20261128-0904Z
-Scope: PR35 isolated 08B national nutrition programme and food entitlement bank, guide, SVG and ledger. No shared navigation or other job edits.
-Claimed UTC: 2026-11-28T09:04:00Z
-Expiry UTC: 2026-11-28T09:34:00Z
+Owner: nutrition-08e-major-minerals-20261128-0920Z
+Scope: PR35 isolated dietary sodium, potassium and magnesium nutrition candidate bank, guide, SVG and audit only. Excludes acute electrolyte treatment and published renal diet tasks. No shared navigation, other jobs, learner history or schedule changes.
+Claimed UTC: 2026-11-28T09:19:36Z
+Expiry UTC: 2026-11-28T09:49:36Z
+
+## Latest released checkpoint — 08D dietary reference intakes and nutrient adequacy
+
+Candidate head: 62eca89e7e6bd622887f0673139e2044f89f7222
+Inventory: 760 staged originals, 3040 individual Roman Hinglish rationales, 38 banks, 21 guides, 21 SVGs. Four legacy originals and one reported adaptation preserved separately. New bank f674c6500c5e9207188800b8a30dec54c4852894, guide 863fdb9209d87595ed84a0d30b9e701e2d9ffb4b, SVG cede4f6a27cf4b32211b7290add800b6b4af01f7. All exact readbacks, structural validation and local SVG rendering passed, zero normalized exact matches against 740 prior candidate stems. Exact-head CI 46129743356 pending. Draft only. Complete preflight, independent clinical/dietetic/pharmacy/regulatory and exhaustive semantic review, AMB full PDF, INC curriculum depth, item video evidence, flagged clusters, PR7/8 navigation clearance and final integration remain pending. Next screen genuine remaining curriculum gaps, especially major minerals and therapeutic renal diet coordination, without regenerating earlier banks. Preserve other jobs, website, learner history and five hourly schedules.
+
+## Latest released checkpoint — 08C food fortification and quality assurance
+
+Candidate head: f863f18d6871769442157160c5c42389ba4f6c3a
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-08c-fortification-20261128-0908Z
+
+Added 20 original candidate MCQs and 80 individual Roman Hinglish rationales, bank bbe0ef8ad9eea1134071bfac53bf91406d3fc926, blob e1951c61f4084a48318cbaaf85d2c560b78d85cf. Guide 20 commit 06bdb125c8d31e51da2ce8c0b7b21647cb227195, SVG c6e5f659830aa956113e8f8dfaefbca5a5ca2ede rendered from identical Git blob and visually inspected. All four content/evidence commits exact readbacks passed. 20 aligned keys, 80 options and rationales, 20 clues and source rows, 20 closed answer blocks, five correct keys per letter. Prior 720 originals preserved: delta exactly four added Nutrition-local files. Updated PR description verified.
+
+Staged totals: 740 original candidates, 2960 rationales, 37 banks, 20 guides, 20 original SVGs. Four legacy originals and one reported adaptation remain separate. No live, mock or PYQ credit. Targeted comparison of 120 prior stems and related keyword hits from another 160 completed. Full 720-stem comparison attempted but exceeded tool-call limit, not certified. Full 2026 AMB guideline not retrieved; FSSAI dated standards and 2024 indexed update not full current legal certification. All 20 dedicated item video gaps, independent clinical/dietetic/regulatory review, exhaustive semantic review, INC mapping, full preflight, 07D/07E flagged clusters, PR7/8 explicit release and final CI remain outstanding. CI 46129240300 at guide head in progress at last check; final review head workflow not returned yet. Draft unmerged. No other session, website, learner history or automation changes.
+
+Next: obtain full 2026 AMB guideline and operative FSSAI consolidation if accessible; audit genuine remaining curriculum gaps and author new questions only where distinct. Complete flagged 07D/07E and mandatory independent gates before integration, then mock-exclusive banks and authenticated PYQs. Do not repeat completed 07D/07E or 08A–C authorship.
+
+## Latest released checkpoint — 08B national nutrition programme updates
+
+Candidate head: 3c1a7ed0138e4ceef6e3f5f54ca86a39fc4bebca
+Inventory: 720 staged originals, 2880 individual rationales, 36 banks, 19 guides, 19 SVGs. Four legacy originals and one adaptation preserved separately.
+Run 8: 40 originals, 160 rationales, 2 banks, 2 guides, 2 diagrams. Exact readbacks and structural checks complete, no normalized exact matches against prior candidate banks. PR35 draft; exact-head workflow 46128957993 pending. Full mandatory preflight, independent reviews, INC mapping, source/video, flagged 07D/07E and PR7/8 gates incomplete. No integration/live credit. Next: retrieve full revised 2026 AMB guideline, audit genuine remaining gaps and complete all gates. Other jobs, learner history, website and five automations untouched.
 
 ## Latest released checkpoint — 08A Indian food labelling and nutrition claims
 

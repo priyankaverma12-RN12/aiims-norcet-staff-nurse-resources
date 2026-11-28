@@ -1,10 +1,18 @@
 # Child Health Nursing manual chapter claim
 
-State: CLAIMED
-Owner: child-health-b06-20261128-0903Z
-Scope: PR45 isolated pediatric congenital cardiac candidate authorship and targeted corrective review; no shared navigation or other owners
-Claimed UTC: 2026-11-28T09:03:17Z
-Expiry UTC: 2026-11-28T09:33:17Z
+State: FREE
+Owner: none
+Scope: Reserved continuation of draft PR45; no active writer
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified checkpoint — Batch 06
+
+- Draft PR45 exact head a61b0aab389aa3046e73c9bd1b018d8202131b63; 60 changed files all Child Health Nursing. No final-head checks yet returned. Previous checkpoint CI 140927266028 successful. Observed main 90a91e3884422406a8f075723d33398b3526bc1b; latest-main reconciliation not complete.
+- 400 staged original MCQs, 1600 individually labeled Roman Hinglish rationales, 20 banks, 14 concept guides, 16 SVGs; four legacy originals and one adaptation preserved outside totals. Batch06 adds 100 MCQs across TOF, hypospadias, ASD, anorectal malformations and hydrocephalus, 400 rationales, five guides and five SVGs. Difficulty counts Easy 58 / Medium 222 / Difficult 120. Cumulative hash-based normalized-stem audit: 400 distinct, all 400 correct answers match choice text, 1600 rationales. Independent semantic uniqueness not certified.
+- 02C Q15 only correction 838f3c55bf7be00129262c5d1d8e7eaf19dfd2e6: improved distractors and rationales, Difficult to Medium; unchanged stem/key. Existing 01A–01E and 03A–03E not regenerated. All five Batch05 and five Batch06 SVGs rendered and visually inspected using exact remote blob-matched content.
+- Inventory bbac27124e49558937b79981fa0afb6963c3935c; evidence ledger a61b0aab389aa3046e73c9bd1b018d8202131b63. All authored files exact remote readbacks. Prior claim acquired 4f4c258592a8eacb391d0e05f6095a165c47bca9; released only own owner.
+- Keep draft. Full fresh bounded preflight, remaining Batch02 clinical/semantic defects, independent clinical/pharmacy/language/difficulty/distractor review, full sibling/mock/PYQ semantic screen, full INC reconciliation and PDF screenshot, exact-question video playback, PR7/8/12/35 coordination, current-main reconciliation, final CI and website validation pending. ASD Q17–19 and updated ARM/hydrocephalus source depth specifically flagged. Continue screened original topic authoring in next batch; no live counts, mocks or PYQ totals advanced. No other claims, learner history or automations modified.
 
 ## Verified checkpoint — Batch 05
 
