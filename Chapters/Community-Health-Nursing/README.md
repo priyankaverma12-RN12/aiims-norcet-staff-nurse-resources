@@ -15,11 +15,11 @@
 
 ## Manual chapter work claim
 
-State: CLAIMED
-Owner: pr62-b02-20261128-1138Z
-Scope: PR62 Batch02 only: PM-JAY financial protection, sickle cell elimination programme, national dialysis service access, climate and human health programme, leptospirosis community control. No PR61 changes or its next five topics, no shared navigation.
-Claimed UTC: 2026-11-28T11:38:44Z
-Expiry UTC: 2026-11-28T12:08:44Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Latest candidate: [PR62 — Batch 01](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/62), head `b6157733d7f4e1b0180e98569d35f47ddce7fb84`. Five banks, 100 original MCQs, 400 individual Roman Hinglish option rationales, 100 exam clues, 16 Easy, 55 Medium, 29 Difficult. All bank and candidate index exact remote readbacks passed, 100 distinct normalized stems, four options and aligned key per question. Not live. Preserve four existing originals and two reported adaptations. Resume actual remaining topic banks on the same candidate branch after exclusive ownership, then ten 120-question original-only mocks, then source-traced PYQs. Concept/visual, video and independent release checks remain pending. No repeat retrospective audit during content creation. Preserve other owners and five hourly schedules.
 
@@ -47,3 +47,7 @@ PR61 verified head `c3887f6cac38ec95a6b2c60a200e21e36b835b81`. Added five banks 
 ## PR61 Batch 06 checkpoint — 28 November 2026
 
 PR61 verified head `065215f94baa802716dcf2f02f67595137e363c6`. Added 100 original MCQs in five banks, 400 separate Roman Hinglish rationales and 100 distinct exam clues; 8 Easy, 47 Medium, 45 Difficult. Cumulative 600 staged originals, 2400 rationales, 30 banks, 44 Easy/292 Medium/264 Difficult. Five exact readbacks and incremental structural validation passed, 100 distinct normalized new stems, zero exact matches against 504 prior PR61/legacy and 100 PR62 stems. Compare verified all 25 prior banks unchanged; candidate-index append verified. PR62 remains unchanged at b6157733d7f4e1b0180e98569d35f47ddce7fb84; coordination comment 7237645277 read. No newly live originals, mocks or PYQs. DGHS/NTCP official programme research; English NIDDCP full retrieval timed out, updated Hindi page provided programme benchmarks. Full independent clinical/semantic/difficulty and item evidence, concept/diagram/video, preflight, curriculum, CI and navigation gates remain pending. Next verify actual remaining curriculum, e.g. NPPCF, IDSP, community palliative care, adolescent and urban health as distinct, reconcile PR62 before mocks. Preserve all other sessions and five schedules; avoid repeated audits.
+
+## PR62 Batch 02 checkpoint — 28 November 2026
+
+PR62 head `436b00f8e667c5c4a45b5f8aeb45d7c50c5041e5`. Added 100 original MCQs, 400 individual rationales and 100 clues across PM-JAY, sickle mission, PMNDP, NPCCHH and leptospirosis programme control. New 14 Easy/52 Medium/34 Difficult, PR62 cumulative 200 staged originals, 800 rationales and 10 banks. Five exact readbacks and incremental structural checks passed, 100 distinct normalized new stems, prior five banks unchanged. PR61 30 bank filenames and planned next scopes screened, PR61 branch preserved. Full cross-branch exact/semantic comparison exceeded tool limit. Coordination comment 7238748603 on PR61. No live credit. Prior overlapping banks need allocation reconciliation, remaining clinical/source/video/concept/navigation/CI gates pending. Next verify uncovered curriculum, coordinate with PR61, complete topic banks before original-only mocks and sourced PYQs. All schedules untouched.

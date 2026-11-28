@@ -1,10 +1,20 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-09a-food-contaminants-20261128-1138Z
-Scope: PR35 isolated new 09A additives, chemical contaminants and residues nutrition bank, concept, diagram and evidence only. No shared navigation, other jobs or production edits.
-Claimed UTC: 2026-11-28T11:38:56Z
-Expiry UTC: 2026-11-28T12:08:56Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 09A additives, contaminants and residues
+
+Candidate head: 4e523a2399e0c7284d3252a133990730f23a5c30
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-09a-food-contaminants-20261128-1138Z
+
+New 09A candidate bank: 20 original questions and 80 individual Roman Hinglish rationales, commit 074200e05ef6b7bda8e89e4ff49e08b8daa7f17f, blob 34c383ae81e30e0adc24b83960afe36b1a7f6d43. Original SVG 52a9dab7475f812dee50eafaf08b6951c474d779, guide 9243b996d0078d86fb60b59f4ed83cc7317195c3. Exact readbacks passed, SVG rendered and visually checked from matching Git blob. Three Easy, 14 Medium, three Difficult, balanced answer letters, 20 clues/evidence rows. 140 relevant prior stems reviewed, full normalized comparison exceeded tool-call limit. Prior 780 originals preserved, candidate delta four Nutrition-local files including inventory. PR description and inventory exact readbacks passed.
+
+Current staged totals: 800 original candidates, 3200 rationales, 40 banks, 23 concept guides, 23 SVGs; four legacy live originals and one reported adaptation separately preserved. No new live, mock or PYQ credit. Previous CI 46130409440 completed successfully; latest head had no workflow returned at verification. Independent clinical/dietetic/toxicology/regulatory and exhaustive semantic review, INC depth, source/video gaps, PR7/8 clearance and final CI remain mandatory before integration. FSSAI May 2026 amendment example explicitly future effective 1 December 2026. Other jobs, website, learner history and five hourly schedules untouched.
+
+Next: screen genuine remaining Nutrition curriculum gaps after 09A, do not regenerate school-age, elderly, programme, fortification, reference-intake or mineral banks. Acquire fresh isolated ownership. Prioritize distinct content commits or actual bounded corrections, then complete mandatory integration gates and later mocks/PYQs.
 
 ## Latest released checkpoint — 08E dietary sodium, potassium and magnesium
 
