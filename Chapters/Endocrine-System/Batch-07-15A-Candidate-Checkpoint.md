@@ -1,0 +1,3 @@
+# Endocrine Batch 07 — 15A candidate checkpoint
+
+Parent a1d2e138e37fec431e878b9b2bb71b574f68707d, prior exact-head CI 46163812608 succeeded. New 20 original candidates (7 Easy, 7 Medium, 6 Difficult), 80 individual rationales, 20 clues, one concept, SVG and evidence register. Cumulative 620 staged originals, 2480 rationales, 620 clues, 31 banks/concepts/SVGs/registers. Batch 07 partial. No live or mock credit. Independent clinical, semantic, curriculum, source/video, rendering, navigation, latest-main reconciliation and exact-head CI remain outstanding. Next: consider verified residual diabetes sick-day prevention, endocrine calcium/vitamin D differential or other curriculum gaps after adjacent screening. Begin original-exclusive mocks only after coverage certification.

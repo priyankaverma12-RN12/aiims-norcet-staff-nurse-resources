@@ -1,0 +1,7 @@
+# Cushing disease evidence register — Batch 01D
+
+20 original candidate items, 80 separate option rationales. No official PYQ provenance asserted. [Endocrine Society treatment recommendations](https://www.endocrine.org/clinical-practice-guidelines/treatment-of-cushing-syndrome) directly retrieved, including comorbidity management and follow-up recommendations. [2021 Pituitary Society consensus](https://pubmed.ncbi.nlm.nih.gov/34687601/) indexed abstract and journal search excerpts; PMC direct retrieval blocked by browser verification. [2026 ACTH-dependent biomarker consensus](https://doi.org/10.1210/clinem/dgag279) indexed but DOI direct retrieval failed. Q01–Q07 diagnostic process, Q08–Q15 complications and medical treatment safety, Q16–Q20 recovery and surveillance. Independent review of drug-specific prescribing information, diagnostic standards, and newer evidence remains pending.
+
+[PW NORCET 10 pituitary lecture](https://www.youtube.com/watch?v=VejlTNZXPfk) indexed description and chapter timestamps 48:31 and 1:01:02 retrieved. No playback or exact item practice coverage confirmed. All 20 dedicated question-solving video mappings pending.
+
+Prior bank headings reviewed. Generic Cushing appearance, routine screening recall, fall prevention and broad skin care not repeated. Comprehensive semantic comparison across drafts and repository, independent clinical/difficulty audit, INC mapping, SVG rendering, navigation approval and CI pending. No live inventory credit.
