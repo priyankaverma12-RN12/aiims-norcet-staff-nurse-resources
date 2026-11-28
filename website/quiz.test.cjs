@@ -35,3 +35,7 @@ assert.equal(answerStatus(bank.items[0],{'1-0':'B'}),'incorrect');
 assert.equal(answerStatus(bank.items[0],{}),'skipped');
 assert.equal(bank.items[0].explanation,'**Correct answer: A. Explanation**\n\nOriginal rationale.');
 console.log('Results, classification and original rationale preservation tests passed.');
+
+const {performanceFeedback}=require('./quiz.js');
+for(const [score,level,celebrate] of [[100,'perfect',true],[80,'strong',true],[79.9,'good',false],[60,'good',false],[59.9,'developing',false],[40,'developing',false],[39.9,'review',false],[20,'review',false],[0,'review',false],[-5,'review',false]]){const f=performanceFeedback(score);assert.equal(f.level,level);assert.equal(f.celebrate,celebrate);assert(f.greeting&&f.advice)}
+console.log('Score-based learning and exam feedback boundaries passed.');
