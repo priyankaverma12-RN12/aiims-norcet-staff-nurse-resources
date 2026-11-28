@@ -8,7 +8,7 @@
 
 ### Q1. A patient reports using a traditional herbal product along with prescribed anticoagulants. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ask about the actual product without judgment and arrange interaction review
 - **B.** Assume all herbal products are harmless
@@ -33,7 +33,7 @@
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q15](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q15](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q15-a-patient-reports-using-a-traditional-herbal-product-along-with-prescribed-anticoagulants-what-should-the-nurse-do)
 
 ### Q2. A patient has stool leaking beneath the ostomy skin barrier and painful surrounding skin. What is the best intervention?
 
@@ -101,7 +101,7 @@ Enteral nutrition mein nutrients gastrointestinal tract yani stomach ya intestin
 
 ### Q4. A patient with new lower-limb weakness is being assessed for transfer ability. Which finding is most relevant?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Weight-bearing ability, balance, cognition and required assistance
 - **B.** Only height
@@ -126,7 +126,7 @@ Enteral nutrition mein nutrients gastrointestinal tract yani stomach ya intestin
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q14](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q14](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q14-a-patient-with-new-lower-limb-weakness-is-being-assessed-for-transfer-ability-which-finding-is-most-relevant)
 
 ### Q5. Which measurement helps monitor longer-term nutritional and fluid trends when obtained under consistent conditions?
 
@@ -161,7 +161,7 @@ Serial weight ka matlab same patient ka weight repeated times par record karna h
 
 ### Q6. Before an MRI, a patient reports an implanted device but does not know its type. What is the safest action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ask the patient to conceal the information
 - **B.** Remove the implant at bedside
@@ -186,7 +186,7 @@ Serial weight ka matlab same patient ka weight repeated times par record karna h
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q13](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q13](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q13-before-an-mri-a-patient-reports-an-implanted-device-but-does-not-know-its-type-what-is-the-safest-action)
 
 ### Q7. Which approach reduces the risk of wrong-site surgery?
 
@@ -436,7 +436,7 @@ Intermittent catheterization mein catheter ko required interval par bladder drai
 
 ### Q14. Why is regular skin inspection important under an orthosis or splint?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Skin underneath a device cannot become damaged
 - **B.** A splint prevents every pressure injury
@@ -461,7 +461,7 @@ Intermittent catheterization mein catheter ko required interval par bladder drai
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q15](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q15](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q15-why-is-regular-skin-inspection-important-under-an-orthosis-or-splint)
 
 ### Q15. A patient has low platelet count and mucosal bleeding. Why may rectal temperature measurement be inappropriate?
 
@@ -1078,7 +1078,7 @@ Suction catheter artificial airway ke andar space occupy karti hai. Agar cathete
 
 ### Q33. A patient with advanced disease develops new severe pain that is different from the usual symptoms. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Repeat all previous doses without checking timing
 - **B.** Avoid documenting because the patient is receiving palliation
@@ -1103,7 +1103,7 @@ Suction catheter artificial airway ke andar space occupy karti hai. Agar cathete
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q15](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q15](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q15-a-patient-with-advanced-disease-develops-new-severe-pain-that-is-different-from-the-usual-symptoms-what-should-the-nurse-do)
 
 ### Q34. Which position usually supports normal defecation for an ambulatory stable patient?
 
@@ -1252,7 +1252,7 @@ Pulse amplitude arterial pulsation ki palpable strength hai. Yeh stroke volume, 
 
 ### Q38. A patient's glucose is low and the patient is confused and unable to swallow safely. Which action is correct?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Wait until a family member arrives to decide
 - **B.** Give the scheduled rapid-acting insulin
@@ -1277,7 +1277,7 @@ Pulse amplitude arterial pulsation ki palpable strength hai. Yeh stroke volume, 
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q13](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q13](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q13-a-patients-glucose-is-low-and-the-patient-is-confused-and-unable-to-swallow-safely-which-action-is-correct)
 
 ### Q39. Why should patients receive explicit warning signs and follow-up contact information at discharge?
 
@@ -1345,7 +1345,7 @@ Health literacy ka matlab health-related information ko samajh aur use kar paane
 
 ### Q41. Which sample collection method is used for a bedside capillary glucose measurement?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** A suitable fingerstick or approved alternate site using a single-use lancet and meter protocol
 - **B.** Urine collection as a direct blood glucose measurement
@@ -1370,7 +1370,7 @@ Health literacy ka matlab health-related information ko samajh aur use kar paane
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q15](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q15](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q15-which-sample-collection-method-is-used-for-a-bedside-capillary-glucose-measurement)
 
 ### Q42. A nurse applies a replacement transdermal patch. Which check helps prevent an unintended excess dose?
 
@@ -1439,7 +1439,7 @@ Parenteral nutrition nutrients ko venous circulation ke through deliver karti ha
 
 ### Q44. A patient requests a religious dietary accommodation that appears compatible with treatment. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Secretly substitute a prohibited food
 - **B.** Assume every person from that religion has identical requirements
@@ -1464,7 +1464,7 @@ Parenteral nutrition nutrients ko venous circulation ke through deliver karti ha
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q13](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q13](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q13-a-patient-requests-a-religious-dietary-accommodation-that-appears-compatible-with-treatment-what-should-the-nurse-do)
 
 ### Q45. A patient with peripheral neuropathy requests a heating pad. Which risk should the nurse recognize?
 
@@ -1670,7 +1670,7 @@ Ileostomy small intestine ke ileum se banayi jaati hai. Distal colostomy mein st
 
 ### Q51. A patient scheduled for iodinated contrast imaging reports a previous severe contrast reaction. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assume drinking water prevents all reactions
 - **B.** Give contrast without review if the patient is fasting
@@ -1695,7 +1695,7 @@ Ileostomy small intestine ke ileum se banayi jaati hai. Distal colostomy mein st
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q14](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q14](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q14-a-patient-scheduled-for-iodinated-contrast-imaging-reports-a-previous-severe-contrast-reaction-what-should-the-nurse-do)
 
 ### Q52. An older postoperative patient snores loudly, has witnessed pauses in breathing and receives sedatives. Which concern deserves assessment?
 
@@ -2364,7 +2364,7 @@ Continuous oxygen dependent patient ka transfer tab safely plan hota hai jab tra
 
 ### Q71. A patient becomes exhausted midway through a rehabilitation session. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Increase exercise intensity immediately
 - **B.** Assess symptoms and vital status, provide rest and adapt the session
@@ -2389,7 +2389,7 @@ Continuous oxygen dependent patient ka transfer tab safely plan hota hai jab tra
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q16](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q16](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q16-a-patient-becomes-exhausted-midway-through-a-rehabilitation-session-which-action-is-appropriate)
 
 ### Q72. Which handling method is appropriate for arterial blood gas collection?
 
@@ -2630,7 +2630,7 @@ Wound culture ka goal suspected infection mein clinically relevant organisms ide
 
 ### Q79. A patient returns from a procedure with new oxygen requirements and a pending urgent laboratory test. What is the safest nursing action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Transfer responsibility without communicating
 - **B.** Document that the pending result is normal
@@ -2655,7 +2655,7 @@ Wound culture ka goal suspected infection mein clinically relevant organisms ide
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q16](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q16](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q16-a-patient-returns-from-a-procedure-with-new-oxygen-requirements-and-a-pending-urgent-laboratory-test-what-is-the-safest-nursing-action)
 
 ### Q80. During staple removal the wound edges begin to separate. What should happen?
 
@@ -2939,7 +2939,7 @@ Teach-back mein nurse check karti hai ki uski explanation patient ko samajh aayi
 
 ### Q88. What is health literacy in the context of nursing education?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** A measure of intelligence based on schooling alone
 - **B.** Ability to read the hospital name
@@ -2964,7 +2964,7 @@ Teach-back mein nurse check karti hai ki uski explanation patient ko samajh aayi
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q16](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q16](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q16-what-is-health-literacy-in-the-context-of-nursing-education)
 
 ### Q89. A patient with a suspected basal skull fracture requires airway assessment. Which adjunct should not be inserted blindly through the nose?
 
@@ -2999,7 +2999,7 @@ Basal skull fracture mein skull ke base ki bone injured ho sakti hai. Nasopharyn
 
 ### Q90. Which action is appropriate after a patient's death once required verification and instructions are complete?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Provide respectful care of the body and follow identification, cultural and facility procedures
 - **B.** Ignore family preferences regardless of feasibility
@@ -3024,7 +3024,7 @@ Basal skull fracture mein skull ke base ki bone injured ho sakti hai. Nasopharyn
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q16](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q16](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q16-which-action-is-appropriate-after-a-patients-death-once-required-verification-and-instructions-are-complete)
 
 ### Q91. A patient with an ileostomy has markedly increased watery output and dizziness. Which concern is most important?
 
@@ -3059,7 +3059,7 @@ Ileostomy mein colon ka water aur sodium absorption bypass hota hai. Markedly wa
 
 ### Q92. A bedbound patient's sacral skin is intact but nonblanchable discoloration has appeared. Which plan is best?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Massage the affected skin vigorously
 - **B.** Relieve pressure, document the assessment and revise the individualized prevention plan
@@ -3084,7 +3084,7 @@ Ileostomy mein colon ka water aur sodium absorption bypass hota hai. Markedly wa
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q15](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q15](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q15-a-bedbound-patients-sacral-skin-is-intact-but-nonblanchable-discoloration-has-appeared-which-plan-is-best)
 
 ### Q93. A patient has a cold application over a poorly perfused limb. Which finding requires immediate reassessment?
 
@@ -3192,7 +3192,7 @@ ABG yani arterial blood gas sample mein cells collection ke baad bhi metabolism 
 
 ### Q96. A bedside glucose meter result is inconsistent with a symptomatic patient's condition. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Delay all treatment until the next routine round
 - **B.** Assess the patient, repeat or confirm testing according to protocol and treat urgent symptoms appropriately
@@ -3217,7 +3217,7 @@ ABG yani arterial blood gas sample mein cells collection ke baad bhi metabolism 
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q16](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q16](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q16-a-bedside-glucose-meter-result-is-inconsistent-with-a-symptomatic-patients-condition-which-action-is-appropriate)
 
 ### Q97. An alert patient with a suspected limb fracture awaits emergency assessment. Which first aid principle is appropriate?
 
@@ -3350,7 +3350,7 @@ NPO ka matlab nil per os, yani oral intake restricted hai. Patient ko dry lips a
 
 ### Q101. A family asks why the dying patient is eating less. Which response is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Promise appetite will return within hours
 - **B.** Stop every oral comfort intervention automatically
@@ -3375,7 +3375,7 @@ NPO ka matlab nil per os, yani oral intake restricted hai. Patient ko dry lips a
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q14](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q14](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q14-a-family-asks-why-the-dying-patient-is-eating-less-which-response-is-most-appropriate)
 
 ### Q102. Which wound drainage is described as thin and clear to pale yellow?
 
@@ -3527,7 +3527,7 @@ Anticoagulation clot formation affect karti hai. Appropriate direct pressure pun
 
 ### Q106. After a limb bandage is applied, the patient develops new pallor and tingling distal to it. Which assessment should be performed immediately?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Only the patient's temperature
 - **B.** Distal pulses, capillary refill, sensation and movement
@@ -3552,7 +3552,7 @@ Anticoagulation clot formation affect karti hai. Appropriate direct pressure pun
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q14](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q14](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q14-after-a-limb-bandage-is-applied-the-patient-develops-new-pallor-and-tingling-distal-to-it-which-assessment-should-be-performed-immediately)
 
 ### Q107. A patient receives an IV drug and immediately develops wheezing, hypotension and facial swelling. What is the priority?
 
@@ -3673,7 +3673,7 @@ Anger ke peeche pain, anxiety, unmet needs ya lack of information ho sakta hai. 
 
 ### Q110. Which assessment tool focuses on independence in activities such as feeding, bathing, transfers and toileting?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Apgar score
 - **B.** Glasgow Coma Scale as a complete ADL scale
@@ -3698,7 +3698,7 @@ Anger ke peeche pain, anxiety, unmet needs ya lack of information ho sakta hai. 
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q13](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q13](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q13-which-assessment-tool-focuses-on-independence-in-activities-such-as-feeding-bathing-transfers-and-toileting)
 
 ### Q111. A nurse identifies a new problem during evaluation. What is the most appropriate next step?
 
@@ -3775,7 +3775,7 @@ Oropharyngeal airway ya OPA mouth se pharynx tak airway patency support karne wa
 
 ### Q113. Which approach is appropriate when a patient prefers a same-gender caregiver for intimate hygiene?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Discuss the preference respectfully and accommodate when feasible while explaining urgent safety needs
 - **B.** Delay emergency lifesaving care solely for routine staffing preferences
@@ -3800,7 +3800,7 @@ Oropharyngeal airway ya OPA mouth se pharynx tak airway patency support karne wa
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q14](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q14](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q14-which-approach-is-appropriate-when-a-patient-prefers-a-same-gender-caregiver-for-intimate-hygiene)
 
 ### Q114. A patient with swallowing difficulty is given a meal tray containing food outside the prescribed texture plan. What should the nurse do?
 
@@ -3976,7 +3976,7 @@ Different sites aur devices temperature ko different tarike se estimate karte ha
 
 ### Q119. What is the purpose of advance care planning?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Guarantee an identical treatment plan for all patients
 - **B.** Discuss future care values and preferences before decisions become difficult
@@ -4001,7 +4001,7 @@ Different sites aur devices temperature ko different tarike se estimate karte ha
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q13](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q13](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q13-what-is-the-purpose-of-advance-care-planning)
 
 ### Q120. An order specifies 150 micrograms of a drug. Which value is equivalent in milligrams?
 
