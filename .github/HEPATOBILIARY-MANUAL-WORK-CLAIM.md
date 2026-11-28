@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: CLAIMED
-Owner: hepatobiliary-b03-20261128-1016Z
-Scope: PR60 isolated new pancreatic surgery, PBC, PSC, autoimmune hepatitis and hepatic abscess banks only, no shared navigation edits.
-Claimed UTC: 2026-11-28T10:16:00Z
-Expiry UTC: 2026-11-28T10:49:00Z
+State: FREE
+Owner: none
+Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
+Claimed UTC: none
+Expiry UTC: none
 
 ## Released checkpoint — 28 November 2026
 
@@ -20,3 +20,7 @@ Candidate head c0444f4f199e8d8875c1798554a288a71a532418. 20 additional acute liv
 ## Batch 02 continuation released checkpoint — 28 November 2026
 
 Candidate head 7793b2389e6ca10e203c27be1e9fbf2af547cbce. Added 20 acute variceal bleeding originals and 80 separate rationales, exact bank readback at 7c266419ab6e2fbbaf5a071f6b78721cf8200bd6. Completed ALF companion guide and original SVG, previous question blocks unchanged. 140 staged originals, 560 rationales, seven banks, six guides, one SVG. All 144 candidate/legacy headings normalized distinct. Four live originals and one adaptation preserved. No live credit, mock or PYQ. Continue same PR60 after ownership check. No other claims, learner history or schedules changed.
+
+## Batch 03 released checkpoint — 28 November 2026
+
+Candidate head 0cad3274e41ca07fc152763ffc204a4264d849e6. Added 100 original MCQs across five topic banks and 400 individual Roman Hinglish rationales. All five bank and inventory exact remote readbacks passed. 240 staged originals, 960 rationales, 240 exam clues, twelve banks, six guides and one SVG. No normalized exact matches against 144 prior candidate and starter stems. Prior seven banks, guides and diagram preserved unchanged. No live credit, new mock or PYQ. Next continue remaining uncovered topics after ownership check, including hepatitis subtypes, biliary postoperative care and vascular/metabolic disorders. Independent review, clinical/source/video, companion guides/diagrams, full preflight and integration gates remain pending. All other claims, learner history and schedules untouched.
