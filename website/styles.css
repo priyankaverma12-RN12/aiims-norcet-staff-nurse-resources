@@ -97,3 +97,5 @@ html[data-theme=dark]{color-scheme:dark;--bg:#101e23;--paper:#192b31;--ink:#eaf4
 @media(max-width:900px){.completion-stats{grid-template-columns:repeat(2,minmax(0,1fr))}.progress-filters{grid-template-columns:repeat(2,minmax(0,1fr))}.completion-resources{grid-template-columns:1fr}}
 @media(max-width:600px){.progress-filters{grid-template-columns:1fr}.completion-chapter{padding:.65rem}.completion-resource{padding:.75rem}.completion-stat{padding:.7rem}.completion-stat>strong{font-size:1.4rem}.reader-completion{gap:.4rem}.reader-completion .completion-control{flex:1 1 100%}}
 @media(prefers-reduced-motion:no-preference){.completion-meter::-webkit-progress-value{transition:width .2s ease-out}.completion-resource{transition:background-color .18s,border-color .18s}}
+
+.completion-control input:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.completion-chapter-actions .completion-reset{color:var(--muted)}

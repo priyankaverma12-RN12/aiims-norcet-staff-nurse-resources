@@ -5,7 +5,7 @@ const p='Chapters/X/MCQs/A.md',m='Chapters/X/Mock-Tests/M.md',t='Chapters/X/Conc
 const data={chapters:[{id:'X',records:[{path:p,category:'mcq',slots:20,scoreable:20},{path:m,category:'mock',slots:120,scoreable:120},{path:draft,category:'mock',slots:10,scoreable:10}]}],resources:{[p]:{type:'Topic MCQs',title:'A'},[m]:{type:'Mock test',title:'M'},[t]:{type:'Theory',title:'T'},[draft]:{type:'Draft question set',draft:true,title:'Draft'}}};
 const records=completionRecords(data);assert.equal(records.length,3);
 const marks={[p]:{slots:20}},routine={days:{today:{[p]:['a']}},banks:{[p]:{questions:{a:{},b:{}}},[m]:{questions:{x:{}}}}};
-assert.deepEqual(completionSummary(records,marks,routine),{done:1,total:3,slots:140,covered:21,checked:3,percent:33,questionPercent:15});
+assert.deepEqual(completionSummary(records,marks,routine),{done:1,total:3,slots:140,covered:21,checked:3,percent:33.3,questionPercent:15});
 assert.equal(completionState({...records.find(x=>x.path===p),slots:21},marks,routine).changed,true);
 assert.equal(completionState({...records.find(x=>x.path===p),slots:21},marks,routine).done,false);
 clearScope(marks,routine,[p]);assert.equal(marks[p],undefined);assert.equal(routine.banks[p],undefined);assert(routine.banks[m]);assert.deepEqual(routine.days,{today:{[p]:['a']}});
