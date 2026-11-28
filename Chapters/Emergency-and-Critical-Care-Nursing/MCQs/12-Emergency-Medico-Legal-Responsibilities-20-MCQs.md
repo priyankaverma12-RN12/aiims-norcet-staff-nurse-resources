@@ -232,7 +232,7 @@
 
 **Exam clue:** Mandatory hospital intimation does not authorize forced examination.
 
-**Reference:** [NCRB BNSS text §397; M consent](https://cytrain.ncrb.gov.in/staticpage/web_pages/ChaptersBNSS.html) · [MoHFW consent guidance](https://mohfw.gov.in/sites/default/files/9535223249_1.pdf).
+**Reference:** [NCRB BNSS text §397 and MoHFW consent](https://cytrain.ncrb.gov.in/staticpage/web_pages/ChaptersBNSS.html) · [MoHFW consent guidance](https://mohfw.gov.in/sites/default/files/9535223249_1.pdf).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -446,27 +446,27 @@
 
 </details>
 
-### Q18. A child needs medical examination for a suspected offence under POCSO. No FIR has yet been registered. Which statutory provision directly addresses this situation?
+### Q18. During an emergency assessment, a nurse obtains information that gives knowledge of an offence under POCSO. Which reporting destination is expressly specified in section 19(1)?
 
 **Difficulty:** Medium | **Priority:** High | **Type:** Original practice | **Topic:** Emergency medico-legal responsibilities
 
-- **A.** Section 27 prohibits examination until a charge sheet is filed
-- **B.** Section 27 requires the child to obtain a court summons before care
-- **C.** Section 27 removes the need for child-sensitive safeguards whenever the FIR is absent
-- **D.** Section 27 permits medical examination despite absence of an FIR or complaint, with appropriate consent and safeguards
+- **A.** The hospital billing department only
+- **B.** The local school administration only
+- **C.** The institution's internal incident register only
+- **D.** The Special Juvenile Police Unit or the local police
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Section 27 permits medical examination despite absence of an FIR or complaint, with appropriate consent and safeguards**
+**Correct: D. The Special Juvenile Police Unit or the local police**
 
-- **A.** Charge sheet later investigative stage hai. Medical care ko uske wait mein delay nahi karte.
-- **B.** Court summons immediate medical examination ka stated prerequisite nahi hai.
-- **C.** FIR absent hone se child protection aur dignity requirements remove nahi hoti hain.
-- **D.** POCSO section 27 FIR ya complaint ke bina bhi medical examination ka provision deta hai. Appropriate consent, support aur reporting requirements remain.
+- **A.** Billing department clinical expenses handle karta hai. POCSO ke statutory reporting destination ka substitute nahi hai.
+- **B.** School administration child support mein involved ho sakta hai, lekin section 19 ka specified reporting authority nahi hai.
+- **C.** Internal documentation useful hai, par sirf internal register statutory report fulfill nahi karta. Local safeguarding process ke saath required external reporting coordinate karo.
+- **D.** Section 19 information ko Special Juvenile Police Unit ya local police tak report karne ka provision deta hai. Nurse child-sensitive care aur safety ko reporting ke saath continue karti hai.
 
-**Exam clue:** POCSO examination does not depend on prior FIR registration.
+**Exam clue:** POCSO section 19(1) reporting destination is SJPU or local police.
 
-**Reference:** [POCSO Act section 27 §27(1)](https://indiankanoon.org/doc/146335316/).
+**Reference:** [Official India Code POCSO Act, section 19](https://upload.indiacode.nic.in/showfile?actid=AC_CEN_13_14_00005_201232_1517807323686&filename=a2012-32.pdf&type=actfile).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -492,7 +492,7 @@
 
 **Exam clue:** POCSO section 27(2): girl child examined by a woman doctor.
 
-**Reference:** [POCSO Act section 27 §27(2)](https://indiankanoon.org/doc/146335316/).
+**Reference:** [POCSO Act section 27 §27(2)](https://upload.indiacode.nic.in/showfile?actid=AC_CEN_13_14_00005_201232_1517807323686&filename=a2012-32.pdf&type=actfile).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -518,7 +518,7 @@
 
 **Exam clue:** Trusted person absent: institution-head nominated woman as specified.
 
-**Reference:** [POCSO Act section 27 §27(3–4)](https://indiankanoon.org/doc/146335316/).
+**Reference:** [POCSO Act section 27 §27(3–4)](https://upload.indiacode.nic.in/showfile?actid=AC_CEN_13_14_00005_201232_1517807323686&filename=a2012-32.pdf&type=actfile).
 
 **YouTube MCQ practice:** exact item verification pending.
 
