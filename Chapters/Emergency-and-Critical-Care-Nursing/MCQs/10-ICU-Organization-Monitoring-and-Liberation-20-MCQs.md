@@ -154,7 +154,7 @@
 
 **Exam clue:** Ventilated patient bol nahi paaye toh CPOT ya BPS jaise validated behavioral tools pain-related signs assess karne mein help karte hain.
 
-**Reference:** [SCCM ICU Liberation A–F bundle](https://sccm.org/clinical-resources/iculiberation-home/abcdef-bundles).
+**Reference:** [SCCM ICU Liberation A–F bundle](https://sccm.org/clinical-resources/iculiberation-home/abcdef-bundles). · [SCCM PADIS assessment recommendations](https://sccm.org/clinical-resources/guidelines/guidelines/guidelines-for-the-prevention-and-management-of-pa)
 
 **YouTube MCQ practice:** specific item verification pending.
 
@@ -310,7 +310,7 @@
 
 **Exam clue:** Poor sensory input confusion badha sakta hai.
 
-**Reference:** [SCCM ICU Liberation A–F bundle](https://sccm.org/clinical-resources/iculiberation-home/abcdef-bundles).
+**Reference:** [SCCM ICU Liberation A–F bundle](https://sccm.org/clinical-resources/iculiberation-home/abcdef-bundles). · [SCCM PADIS nonpharmacological recommendations](https://sccm.org/clinical-resources/guidelines/guidelines/guidelines-for-the-prevention-and-management-of-pa)
 
 **YouTube MCQ practice:** specific item verification pending.
 
@@ -440,7 +440,7 @@
 
 **Exam clue:** Line-associated infection rate ko line-days ke against calculate karne se exposure duration account hoti hai.
 
-**Reference:** [GPICS V3 (UK service benchmark, 2026)](https://ics.ac.uk/static/86766fa2-a003-4b78-9c4e7b03e002d9bd/GPICS-V3-2026-03.pdf).
+**Reference:** [GPICS V3 (UK service benchmark, 2026)](https://ics.ac.uk/static/86766fa2-a003-4b78-9c4e7b03e002d9bd/GPICS-V3-2026-03.pdf). · [CDC NHSN BSI module Table 8](https://www.cdc.gov/nhsn/pdfs/pscmanual/4psc_clabscurrent.pdf)
 
 **YouTube MCQ practice:** specific item verification pending.
 
@@ -466,7 +466,7 @@
 
 **Exam clue:** Do infections ko 500 line-days se divide karke 1000 se multiply karne par 4 milta hai.
 
-**Reference:** [GPICS V3 (UK service benchmark, 2026)](https://ics.ac.uk/static/86766fa2-a003-4b78-9c4e7b03e002d9bd/GPICS-V3-2026-03.pdf).
+**Reference:** [GPICS V3 (UK service benchmark, 2026)](https://ics.ac.uk/static/86766fa2-a003-4b78-9c4e7b03e002d9bd/GPICS-V3-2026-03.pdf). · [CDC NHSN BSI module Table 8, page 4-28](https://www.cdc.gov/nhsn/pdfs/pscmanual/4psc_clabscurrent.pdf)
 
 **YouTube MCQ practice:** specific item verification pending.
 
