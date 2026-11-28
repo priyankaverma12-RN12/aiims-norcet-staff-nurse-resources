@@ -292,7 +292,7 @@
 - **C.** Jab adipose triglycerides toot-te hain, toh fatty acids ke saath glycerol bhi release hota hai. Liver glycerol ko metabolic intermediate mein convert karke gluconeogenesis mein use kar sakta hai.
 - **D.** Acetoacetate ketone body hai jo kuch tissues mein energy ke liye acetyl-CoA de sakti hai. Isse humans mein net glucose nahi banta.
 
-**Clinical reference:** [Relevant biochemical mechanism](https://www.ncbi.nlm.nih.gov/books/NBK545201/). Source-depth review remains pending where direct full text was unavailable.
+**Clinical reference:** [Relevant biochemical mechanism](https://www.ncbi.nlm.nih.gov/books/NBK541119/?report=printable). Source-depth review remains pending where direct full text was unavailable.
 
 **MCQ practice video:** [Carbohydrate metabolism question-solving lead](https://www.youtube.com/watch?v=1V6H6BQf5p4). Previously indexed only. Exact item coverage and playback are not verified.
 
@@ -316,7 +316,7 @@
 - **C.** Muscle se lactate blood ke through liver tak ja sakta hai. Liver usse gluconeogenesis ke through glucose banata hai aur glucose blood mein wapas aa sakta hai. Is recycling ko Cori cycle kehte hain.
 - **D.** Pentose phosphate pathway NADPH aur ribose-5-phosphate provide karti hai. Lactate se glucose ka interorgan cycle Cori cycle hai.
 
-**Clinical reference:** [Relevant biochemical mechanism](https://www.ncbi.nlm.nih.gov/books/NBK549820/). Source-depth review remains pending where direct full text was unavailable.
+**Clinical reference:** [Relevant biochemical mechanism](https://www.ncbi.nlm.nih.gov/books/NBK544346/). Source-depth review remains pending where direct full text was unavailable.
 
 **MCQ practice video:** [Carbohydrate metabolism question-solving lead](https://www.youtube.com/watch?v=1V6H6BQf5p4). Previously indexed only. Exact item coverage and playback are not verified.
 
@@ -462,7 +462,7 @@
 - **C.** Phylloquinone vitamin K1 hai aur clotting factor modification mein important hai. Pyruvate dehydrogenase ki TPP-dependent reaction mein iska role nahi hai.
 - **D.** Ascorbic acid vitamin C hai aur collagen hydroxylation jaise reactions mein kaam aata hai. Pyruvate dehydrogenase complex ka specified vitamin-derived cofactor TPP hai.
 
-**Clinical reference:** [Relevant biochemical mechanism](https://www.ncbi.nlm.nih.gov/books/NBK482303/). Source-depth review remains pending where direct full text was unavailable.
+**Clinical reference:** [Relevant biochemical mechanism](https://pmc.ncbi.nlm.nih.gov/articles/PMC13631685/). Source-depth review remains pending where direct full text was unavailable.
 
 **MCQ practice video:** [Carbohydrate metabolism question-solving lead](https://www.youtube.com/watch?v=1V6H6BQf5p4). Previously indexed only. Exact item coverage and playback are not verified.
 
@@ -486,7 +486,7 @@
 - **C.** Lactate pehle pyruvate mein convert ho sakta hai aur phir gluconeogenesis mein enter karta hai. Lactate se glycogen ka direct conversion pyruvate kinase bypass nahi hai.
 - **D.** Pyruvate dehydrogenase ki reaction physiologically irreversible hai. Human body acetyl-CoA ko directly pyruvate mein reverse karke yeh bypass complete nahi karti.
 
-**Clinical reference:** [Relevant biochemical mechanism](https://www.ncbi.nlm.nih.gov/books/NBK549820/). Source-depth review remains pending where direct full text was unavailable.
+**Clinical reference:** [Relevant biochemical mechanism](https://www.ncbi.nlm.nih.gov/books/NBK541119/?report=printable). Source-depth review remains pending where direct full text was unavailable.
 
 **MCQ practice video:** [Carbohydrate metabolism question-solving lead](https://www.youtube.com/watch?v=1V6H6BQf5p4). Previously indexed only. Exact item coverage and playback are not verified.
 
@@ -501,3 +501,5 @@
 Dedicated practice video lead: [Carbohydrate Digestion Absorption and Metabolism MCQs](https://www.youtube.com/watch?v=1V6H6BQf5p4). Search-indexed only, playback and item-level mapping pending. Clinical source expansion and independent cross-bank semantic audit pending.
 
 Audit continuation: all 20 original stems, options and keys preserved. All 80 option rationales reviewed and expanded in conversational Roman Hinglish. Difficulty labels recalibrated. Independent reviewer and exhaustive semantic/video evidence still pending.
+
+Additional source audit: Q12/Q13/Q20 gluconeogenesis and Q19 pyruvate dehydrogenase cofactor links narrowed to their specific mechanisms. Full-text glycolysis, glycogenolysis and hereditary fructose intolerance sources retrieved. Other source extracts indexed. No independent sign-off or exact video playback claim.
