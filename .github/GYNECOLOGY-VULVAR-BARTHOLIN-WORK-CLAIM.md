@@ -1,10 +1,10 @@
 # Independent vulvar and Bartholin topic claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: gyne-vulvar-audit-20261128
+Scope: Vulvar 20 MCQ rationale and evidence correction, this claim. Shared README only if unclaimed. AUB read-only audit, no other topic writes.
+Claimed UTC: 2026-11-28T06:52:00Z
+Expiry UTC: 2026-11-28T07:42:00Z
 
 Baseline: 504 indexed original slots, 20 preserved overlapping AUB raw slots excluded. No mocks until topic banks complete.
 
