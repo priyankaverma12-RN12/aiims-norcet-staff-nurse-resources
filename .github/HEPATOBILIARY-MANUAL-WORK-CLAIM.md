@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: FREE
-Owner: none
-Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: hepatobiliary-b10-20261128T1314Z
+Scope: PR60 isolated distinct new hepatobiliary nursing banks, beginning with percutaneous cholecystostomy, no shared navigation or prior bank edits.
+Claimed UTC: 2026-11-28T13:14:00Z
+Expiry UTC: 2026-11-28T13:44:00Z
 
 ## Released checkpoint — 28 November 2026
 
