@@ -46,7 +46,7 @@
 - **A.** JE-1 selected districts mein due hoti hai, lekin stem explicitly noneligible district bata raha hai. Is option mein fIPV-3 bhi omitted hai, jo cited schedule ke 9–11 month set ka part hai.
 - **B.** Pentavalent ka routine primary series 3 doses ka hai. bOPV booster aur vitamin A second dose later toddler-age schedule mein aate hain.
 - **C.** DPT booster-1 aur MR-2 later 16–23 month visit ke components hain. fIPV-2 already 14 weeks mein diya gaya tha.
-- **D.** Nine to eleven months mein MR ki first dose, PCV booster aur fIPV ki third fractional dose due hoti hain. Vitamin A ka first supplementation dose bhi is visit ke saath listed hai. JE geographically targeted hai, isliye stated noneligible district mein routine set mein include nahi hoga.
+- **D.** Nine to eleven months mein MR ki first dose, PCV booster aur fIPV ki third fractional dose due hoti hain. Vitamin A ki first supplementation dose bhi isi visit par di jaati hai; vitamin A vaccine nahi, micronutrient supplementation hai. JE geographically targeted hai, isliye stated noneligible district mein routine set mein include nahi hoga.
 
 **Exam clue:** Older exam tables mein fIPV-3 missing ho sakta hai. Cited current-version table check karo.
 
@@ -58,7 +58,7 @@
 
 ### Q3. A vaccinator is preparing the third routine fractional IPV dose at the appropriate infant visit. Which route and site combination is specified in the cited Indian UIP manual?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Pediatric UIP vaccination and AEFI | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Pediatric UIP vaccination and AEFI | **Type:** Original
 
 - **A.** 0.5 mL intramuscularly in the right thigh
 - **B.** 0.1 mL intradermally in the right upper arm
@@ -110,7 +110,7 @@
 
 ### Q5. At a 6-week immunization session, both pentavalent vaccine and PCV are due. Under the cited UIP site guidance, how should these two intramuscular injections be separated?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Pediatric UIP vaccination and AEFI | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Pediatric UIP vaccination and AEFI | **Type:** Original
 
 - **A.** Both mixed in one syringe and injected in the left thigh
 - **B.** PCV intradermally in the right upper arm and pentavalent orally
@@ -448,7 +448,7 @@
 
 ### Q18. Within minutes after vaccination, a child develops generalized hives, lip swelling and rapidly increasing wheeze. Which initial response is most appropriate for a trained vaccinator at the session site?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Pediatric UIP vaccination and AEFI | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Pediatric UIP vaccination and AEFI | **Type:** Original
 
 - **A.** Give oral antihistamine alone and wait for the rash to resolve
 - **B.** Continue observing for the remaining routine 30 minutes without emergency action
@@ -461,7 +461,7 @@
 
 - **A.** Antihistamine itching ya hives mein adjunct ho sakti hai, lekin airway swelling aur circulatory compromise ko reliably reverse nahi karti. First-line adrenaline delay karna unsafe hai.
 - **B.** Routine observation stable beneficiary ke liye hoti hai. Jab anaphylaxis signs develop ho jaate hain, tab observation-only approach emergency treatment ko delay karega.
-- **C.** Hives skin involvement dikhate hain aur lip swelling plus wheeze airway aur breathing involvement indicate karte hain. Rapid multisystem reaction suspected anaphylaxis hai, jo life-threatening ho sakta hai. Trained vaccinator ko emergency protocol ke mutabik IM adrenaline prompt dena, support activate karna aur urgent transfer arrange karna hai.
+- **C.** Hives skin involvement dikhate hain aur lip swelling plus wheeze airway aur breathing involvement indicate karte hain. Rapid multisystem reaction suspected anaphylaxis hai, jo life-threatening ho sakta hai. Trained vaccinator ko emergency support activate karke protocol ke mutabik IM adrenaline promptly deni hai, airway, breathing aur circulation monitor karna hai aur urgent transfer arrange karna hai. Sirf antihistamine dene ke liye adrenaline delay nahi karni.
 - **D.** Injection-site pain local expected reaction ho sakta hai. Generalized hives, angioedema aur wheeze ko local pain label karna severe reaction miss karega.
 
 **Exam clue:** Suspected anaphylaxis mein urgent treatment and transfer. Rash-only management enough nahi.
@@ -474,7 +474,7 @@
 
 ### Q19. A child develops a serious illness two days after vaccination and the family assumes the vaccine must have caused it. Which statement best describes the reporting and causality approach?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Pediatric UIP vaccination and AEFI | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Pediatric UIP vaccination and AEFI | **Type:** Original
 
 - **A.** Report and investigate the event as indicated without assuming causation from timing alone
 - **B.** Do not report because the cause is not yet proven
@@ -485,7 +485,7 @@
 
 **Correct: A. Report and investigate the event as indicated without assuming causation from timing alone**
 
-- **A.** AEFI ka matlab immunization ke baad hone wala adverse medical occurrence hai. Temporal relationship reporting trigger kar sakta hai, lekin causation establish karne ke liye clinical information aur formal investigation chahiye. Serious event ko report karke appropriate care aur review arrange karo.
+- **A.** AEFI ka matlab immunization ke baad hone wala adverse medical occurrence hai. Temporal relationship reporting trigger kar sakta hai, lekin causation establish karne ke liye clinical information aur formal investigation chahiye. Pehle child ki clinical care ensure karo, phir serious event ko designated reporting pathway se report karo aur records preserve karo. Investigation se coincidental illness, immunization error aur product-related possibilities assess hoti hain.
 - **B.** Reporting ke liye causation already proven hona necessary nahi hai. Agar proof ka wait karein toh safety signals aur investigation opportunity miss ho sakti hai.
 - **C.** Do events ek ke baad ek occur hone se pehla event doosre ka cause prove nahi hota. Coincidental illness aur other explanations evaluate karne hote hain.
 - **D.** Accurate vaccination record investigation ke liye essential evidence hai. Record delete karna safety review aur continuity ko harm karega.
@@ -500,7 +500,7 @@
 
 ### Q20. At an immunization session, a suspected serious adverse event occurs after use of a vaccine vial that still contains several doses. What should the vaccinator do with that specific vial under the cited manual?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Pediatric UIP vaccination and AEFI | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Pediatric UIP vaccination and AEFI | **Type:** Original
 
 - **A.** Continue using the vial for the next child if the label looks normal
 - **B.** Discard the vial secretly so that nobody becomes concerned
@@ -514,11 +514,11 @@
 - **A.** Normal label vaccine-related error ya product problem ko rule out nahi karta. Investigation se pehle suspect vial ka continued use avoid karna chahiye.
 - **B.** Vial ko secretly discard karne se important investigation evidence destroy ho jayegi. Transparent reporting aur proper retention safety system ka part hai.
 - **C.** Vials ke contents mix karne se traceability, sterility aur correct product dosing compromise ho sakti hai. Suspect vial ko clearly identify karke isolate rakhna chahiye.
-- **D.** Suspected serious event ke baad linked vial investigation evidence ho sakti hai. Manual use stop karne, vial mark karne aur safely retain karne ko kehta hai. Appropriate cold-chain and evidence handling protocol follow karo aur patient care ko immediate priority rakho.
+- **D.** Suspected serious event ke baad linked vial investigation evidence ho sakti hai. Manual use stop karne, vial mark karne aur safely retain karne ko kehta hai. Pehle patient ki emergency care ensure karo. Implicated vial ko further use se hatao, identify aur document karo, authorized cold-chain mein safely separate rakho aur designated medical officer/DIO ke investigation protocol ke mutabik handover karo. Vial ko khud discard ya doosre vial se mix mat karo.
 
 **Exam clue:** AEFI-linked vial: stop use, label, retain for investigation.
 
-**Reference:** [MoHFW Routine Immunization Manual for Health Workers, printed pp. 123–124, Unit 9](https://www.mohfw.gov.in/sites/default/files/Routine%20Immunization%20Manual%20For%20Health%20Workers.pdf)
+**Reference:** [MoHFW Routine Immunization Manual for Health Workers, printed pp. 102–103, 123–124, 130–131 and Unit 9](https://www.mohfw.gov.in/sites/default/files/Routine%20Immunization%20Manual%20For%20Health%20Workers.pdf)
 
 **MCQ-practice evidence:** Dedicated item-mapped MCQ video pending. Schedule-only videos do not establish coverage of this decision.
 
