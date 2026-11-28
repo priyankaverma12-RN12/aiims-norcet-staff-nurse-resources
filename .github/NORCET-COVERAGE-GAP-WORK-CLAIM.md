@@ -1,10 +1,10 @@
 # Independent NORCET coverage-gap claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: coverage-gap-hematology-20261128-0515
+Scope: Hematology only, new 20 anticoagulation MCQs, concept, original SVG, evidence, own inventory and claim. Existing navigation, Pharmacology candidate and other jobs excluded.
+Claimed UTC: 2026-11-28T05:15:00Z
+Expiry UTC: 2026-11-28T05:45:00Z
 
 Last owner: coverage-gap-hematology-20261128-0505
 Last scope: Hematology transfusion reactions and hemovigilance. Released after verified Run 9 publication and inventory.
