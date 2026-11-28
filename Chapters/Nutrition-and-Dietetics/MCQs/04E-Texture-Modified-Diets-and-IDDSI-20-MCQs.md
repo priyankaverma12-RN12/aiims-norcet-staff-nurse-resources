@@ -8,17 +8,17 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
-- **A.** Drinks are classified only at levels 5–7
-- **B.** Drinks are classified at levels 0–4 and foods at levels 3–7
+- **A.** Drinks are classified at levels 0–4 and foods at levels 3–7
+- **B.** Drinks are classified only at levels 5–7
 - **C.** Foods are classified only at levels 0–2
 - **D.** Every food and drink must use level 7
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Drinks are classified at levels 0–4 and foods at levels 3–7**
+**Correct: A. Drinks are classified at levels 0–4 and foods at levels 3–7**
 
-- **A. Incorrect:** Levels 5 to 7 food textures ke liye hain. Drink classification lower numbered range use karti hai.
-- **B. Correct:** IDDSI total eight numbered levels use karta hai. Drinks aur foods ki ranges overlap at levels 3 and 4, isliye number ke saath correct category record karein.
+- **A. Correct:** IDDSI total eight numbered levels use karta hai. Drinks aur foods ki ranges overlap at levels 3 and 4, isliye number ke saath correct category record karein.
+- **B. Incorrect:** Levels 5 to 7 food textures ke liye hain. Drink classification lower numbered range use karti hai.
 - **C. Incorrect:** Levels 0 to 2 drinks ki thickness describe karte hain. Foods level 3 onward classify hote hain.
 - **D. Incorrect:** Clinical assessment appropriate food and drink level separately determine karti hai. Universal level 7 unsafe ho sakta hai.
 
@@ -29,18 +29,18 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
 - **A.** A 10-mm distance between the zero and 10-mL markings
-- **B.** A barrel length of exactly 100 mm regardless of the markings
-- **C.** Any syringe size with a needle attached
-- **D.** A 61.5-mm distance between the zero and 10-mL markings
+- **B.** A 61.5-mm distance between the zero and 10-mL markings
+- **C.** A barrel length of exactly 100 mm regardless of the markings
+- **D.** Any syringe size with a needle attached
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. A 61.5-mm distance between the zero and 10-mL markings**
+**Correct: B. A 61.5-mm distance between the zero and 10-mL markings**
 
 - **A. Incorrect:** Yeh reference scale length nahi hai. Different barrel geometry fluid flow change kar sakti hai.
-- **B. Incorrect:** Overall barrel length reference measurement nahi. Zero to 10-mL scale distance check karni hai.
-- **C. Incorrect:** Flow test reference syringe without needle use karta hai. Needle additional resistance create karegi.
-- **D. Correct:** Same nominal syringe volume ke bawajood barrel dimensions differ kar sakte hain. Reference length verify karne se flow results comparable rehte hain.
+- **B. Correct:** Same nominal syringe volume ke bawajood barrel dimensions differ kar sakte hain. Reference length verify karne se flow results comparable rehte hain.
+- **C. Incorrect:** Overall barrel length reference measurement nahi. Zero to 10-mL scale distance check karni hai.
+- **D. Incorrect:** Flow test reference syringe without needle use karta hai. Needle additional resistance create karegi.
 
 </details>
 
@@ -68,19 +68,19 @@
 
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
-- **A.** Level 0, Thin
-- **B.** Level 1, Slightly Thick
-- **C.** Level 2, Mildly Thick
-- **D.** Level 4, Extremely Thick
+- **A.** Level 1, Slightly Thick
+- **B.** Level 2, Mildly Thick
+- **C.** Level 4, Extremely Thick
+- **D.** Level 0, Thin
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Level 0, Thin**
+**Correct: D. Level 0, Thin**
 
-- **A. Correct:** Less than 1 mL remaining thin range fit karti hai. Result intended serving temperature aur correct test conditions par depend karta hai.
-- **B. Incorrect:** Level 1 typically 1–4 mL remaining range hai. 0.5 mL usse below hai.
-- **C. Incorrect:** Level 2 mein approximately 4–8 mL remain hota hai. Given sample faster flow karti hai.
-- **D. Incorrect:** Level 4 drink syringe se flow nahi karti and other texture tests required hote hain. Given near-complete drainage level 4 nahi.
+- **A. Incorrect:** Level 1 typically 1–4 mL remaining range hai. 0.5 mL usse below hai.
+- **B. Incorrect:** Level 2 mein approximately 4–8 mL remain hota hai. Given sample faster flow karti hai.
+- **C. Incorrect:** Level 4 drink syringe se flow nahi karti and other texture tests required hote hain. Given near-complete drainage level 4 nahi.
+- **D. Correct:** Less than 1 mL remaining thin range fit karti hai. Result intended serving temperature aur correct test conditions par depend karta hai.
 
 </details>
 
@@ -88,18 +88,18 @@
 
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
-- **A.** The two levels always have identical size and chewing requirements
-- **B.** Level 7 Easy to Chew is classified as a thin drink
-- **C.** Level 7 Easy to Chew does not have the same particle-size restriction as Level 6, so it is not an automatic substitute
+- **A.** Level 7 Easy to Chew does not have the same particle-size restriction as Level 6, so it is not an automatic substitute
+- **B.** The two levels always have identical size and chewing requirements
+- **C.** Level 7 Easy to Chew is classified as a thin drink
 - **D.** A kitchen can independently change the prescription if the food is tender
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Level 7 Easy to Chew does not have the same particle-size restriction as Level 6, so it is not an automatic substitute**
+**Correct: A. Level 7 Easy to Chew does not have the same particle-size restriction as Level 6, so it is not an automatic substitute**
 
-- **A. Incorrect:** Softness similarity ka matlab same particle-size and chewing needs nahi. Level labels distinguish karna important hai.
-- **B. Incorrect:** Level 7 food texture hai. Thin drink level 0 hoti hai.
-- **C. Correct:** Level 6 softness ke saath adult bite-size limit bhi apply karti hai. Level 7 Easy to Chew ke pieces unrestricted ho sakte hain, which matters for choking risk. Prescribed texture must be followed.
+- **A. Correct:** Level 6 softness ke saath adult bite-size limit bhi apply karti hai. Level 7 Easy to Chew ke pieces unrestricted ho sakte hain, which matters for choking risk. Prescribed texture must be followed.
+- **B. Incorrect:** Softness similarity ka matlab same particle-size and chewing needs nahi. Level labels distinguish karna important hai.
+- **C. Incorrect:** Level 7 food texture hai. Thin drink level 0 hoti hai.
 - **D. Incorrect:** Patient-specific level qualified swallowing assessment se decide hota hai. Kitchen texture test prescription change authorize nahi karta.
 
 </details>
@@ -108,19 +108,19 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
-- **A.** Level 2, Mildly Thick
-- **B.** Level 0, Thin
-- **C.** Level 1, Slightly Thick
-- **D.** Level 4, Extremely Thick
+- **A.** Level 0, Thin
+- **B.** Level 1, Slightly Thick
+- **C.** Level 4, Extremely Thick
+- **D.** Level 2, Mildly Thick
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Level 2, Mildly Thick**
+**Correct: D. Level 2, Mildly Thick**
 
-- **A. Correct:** 6 mL level 2 ke 4–8 mL reference range mein aata hai. Patient ko sirf prescribed level serve karna chahiye.
-- **B. Incorrect:** Thin sample mein almost all liquid drain hoti hai. 6 mL remaining thin classification nahi.
-- **C. Incorrect:** Level 1 range lower remaining volume hai. 6 mL level 2 range mein hai.
-- **D. Incorrect:** Level 4 generally no flow dikhata hai and fork or spoon tests chahiye. Here 4 mL drained.
+- **A. Incorrect:** Thin sample mein almost all liquid drain hoti hai. 6 mL remaining thin classification nahi.
+- **B. Incorrect:** Level 1 range lower remaining volume hai. 6 mL level 2 range mein hai.
+- **C. Incorrect:** Level 4 generally no flow dikhata hai and fork or spoon tests chahiye. Here 4 mL drained.
+- **D. Correct:** 6 mL level 2 ke 4–8 mL reference range mein aata hai. Patient ko sirf prescribed level serve karna chahiye.
 
 </details>
 
@@ -129,18 +129,18 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
 - **A.** Level 0, Thin
-- **B.** Level 2, Mildly Thick
-- **C.** Level 4 confirmed solely because more than 8 mL remains
-- **D.** Level 3, Moderately Thick
+- **B.** Level 3, Moderately Thick
+- **C.** Level 2, Mildly Thick
+- **D.** Level 4 confirmed solely because more than 8 mL remains
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Level 3, Moderately Thick**
+**Correct: B. Level 3, Moderately Thick**
 
 - **A. Incorrect:** Thin fluid mein less than 1 mL remains. 9 mL marked slow flow indicate karta hai.
-- **B. Incorrect:** Level 2 mein remaining volume approximately 4–8 mL hota hai. 9 mL level 3 range mein hai.
-- **C. Incorrect:** Level 4 ke liye no flow alone bhi sufficient confirmation nahi, fork or spoon tests chahiye. Here some flow level 3 support karta hai.
-- **D. Correct:** 9 mL remaining with measurable flow level 3 suggest karta hai. Additional consistency tests appropriate ho sakte hain.
+- **B. Correct:** 9 mL remaining with measurable flow level 3 suggest karta hai. Additional consistency tests appropriate ho sakte hain.
+- **C. Incorrect:** Level 2 mein remaining volume approximately 4–8 mL hota hai. 9 mL level 3 range mein hai.
+- **D. Incorrect:** Level 4 ke liye no flow alone bhi sufficient confirmation nahi, fork or spoon tests chahiye. Here some flow level 3 support karta hai.
 
 </details>
 
@@ -149,17 +149,17 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
 - **A.** Automatically classify any no-flow sample as safe level 4
-- **B.** Check for blockage or lumps and use appropriate fork-drip and spoon-tilt testing
-- **C.** Attach a fine needle and repeat the flow test
+- **B.** Attach a fine needle and repeat the flow test
+- **C.** Check for blockage or lumps and use appropriate fork-drip and spoon-tilt testing
 - **D.** Add water until it flows freely and serve without retesting
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Check for blockage or lumps and use appropriate fork-drip and spoon-tilt testing**
+**Correct: C. Check for blockage or lumps and use appropriate fork-drip and spoon-tilt testing**
 
 - **A. Incorrect:** Obstruction result misleading bana sakti hai. Level number alone safety prove nahi karta.
-- **B. Correct:** No flow thick consistency ya obstruction se ho sakta hai. Homogeneity, cohesiveness aur stickiness verify karne ke liye correct additional tests use karein.
-- **C. Incorrect:** Needle reference flow geometry change karegi. Standard test compatible syringe and no needle require karta hai.
+- **B. Incorrect:** Needle reference flow geometry change karegi. Standard test compatible syringe and no needle require karta hai.
+- **C. Correct:** No flow thick consistency ya obstruction se ho sakta hai. Homogeneity, cohesiveness aur stickiness verify karne ke liye correct additional tests use karein.
 - **D. Incorrect:** Water prescribed consistency change kar sakta hai. Reprocessing and retesting required hai.
 
 </details>
@@ -190,17 +190,17 @@
 
 - **A.** It proves a smooth and uniformly extremely thick product
 - **B.** It confirms a thin drink because the syringe has stopped
-- **C.** The result may reflect obstruction rather than true consistent thickness
-- **D.** The nurse should force the plunger down to obtain a valid gravity-flow result
+- **C.** The nurse should force the plunger down to obtain a valid gravity-flow result
+- **D.** The result may reflect obstruction rather than true consistent thickness
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. The result may reflect obstruction rather than true consistent thickness**
+**Correct: D. The result may reflect obstruction rather than true consistent thickness**
 
 - **A. Incorrect:** Visible lumps uniform texture ke opposite hain. No-flow result alone smoothness confirm nahi karta.
 - **B. Incorrect:** Flow stopping thin classification establish nahi karta. Obstruction and thickness distinguish karein.
-- **C. Correct:** Lumps syringe nozzle block kar sakte hain. Nonhomogeneous product prescribed level reliably meet nahi karta, so preparation and retest needed hai.
-- **D. Incorrect:** Standard flow test gravity based hai. Pressure application invalid result degi.
+- **C. Incorrect:** Standard flow test gravity based hai. Pressure application invalid result degi.
+- **D. Correct:** Lumps syringe nozzle block kar sakte hain. Nonhomogeneous product prescribed level reliably meet nahi karta, so preparation and retest needed hai.
 
 </details>
 
@@ -230,17 +230,17 @@
 
 - **A.** 15 mm
 - **B.** 25 mm
-- **C.** No particle-size criterion at all
-- **D.** Approximately 4 mm
+- **C.** Approximately 4 mm
+- **D.** No particle-size criterion at all
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Approximately 4 mm**
+**Correct: C. Approximately 4 mm**
 
 - **A. Incorrect:** 15 mm adult level 6 bite-size benchmark hai. Level 5 particles smaller hone chahiye.
 - **B. Incorrect:** Itna large particle level 5 minced specification meet nahi karta. Choking risk assessment necessary hai.
-- **C. Incorrect:** Level 5 texture mein particle size important hai. Size alone however full compliance establish nahi karta.
-- **D. Correct:** Adult level 5 mein finely minced soft particles approximately 4 mm width target hota hai. Moisture, softness and other criteria bhi test karein.
+- **C. Correct:** Adult level 5 mein finely minced soft particles approximately 4 mm width target hota hai. Moisture, softness and other criteria bhi test karein.
+- **D. Incorrect:** Level 5 texture mein particle size important hai. Size alone however full compliance establish nahi karta.
 
 </details>
 
@@ -249,18 +249,18 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
 - **A.** 4 cm by 4 cm
-- **B.** Any size if a sauce is added
-- **C.** A mandatory smooth liquid with no particles
-- **D.** 1.5 cm by 1.5 cm
+- **B.** 1.5 cm by 1.5 cm
+- **C.** Any size if a sauce is added
+- **D.** A mandatory smooth liquid with no particles
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. 1.5 cm by 1.5 cm**
+**Correct: B. 1.5 cm by 1.5 cm**
 
 - **A. Incorrect:** Pieces adult bite-size benchmark se substantially larger hain. Size modification required hai.
-- **B. Incorrect:** Moisture alone bite size aur softness ensure nahi karti. Applicable test criteria check karein.
-- **C. Incorrect:** Level 6 soft solid food category hai, smooth liquid-only category nahi.
-- **D. Correct:** Adult level 6 food pieces maximum approximately 15 mm dimensions mein hone chahiye and soft enough for prescribed chewing ability. Both size and softness verify karein.
+- **B. Correct:** Adult level 6 food pieces maximum approximately 15 mm dimensions mein hone chahiye and soft enough for prescribed chewing ability. Both size and softness verify karein.
+- **C. Incorrect:** Moisture alone bite size aur softness ensure nahi karti. Applicable test criteria check karein.
+- **D. Incorrect:** Level 6 soft solid food category hai, smooth liquid-only category nahi.
 
 </details>
 
@@ -310,17 +310,17 @@
 
 - **A.** Separated thin liquid automatically improves every level 5 meal
 - **B.** Particle size alone establishes full compliance
-- **C.** The separated fluid may create an inappropriate mixed consistency and requires preparation review
-- **D.** The meal can be relabelled level 7 without clinical authorization
+- **C.** The meal can be relabelled level 7 without clinical authorization
+- **D.** The separated fluid may create an inappropriate mixed consistency and requires preparation review
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. The separated fluid may create an inappropriate mixed consistency and requires preparation review**
+**Correct: D. The separated fluid may create an inappropriate mixed consistency and requires preparation review**
 
 - **A. Incorrect:** Free thin liquid some dysphagia patients ke liye unsafe ho sakti hai. Consistency prescription verify karein.
 - **B. Incorrect:** Size appropriate hone ke bawajood liquid separation, softness and cohesion important hain.
-- **C. Correct:** Level 5 moisture should hold particles together without separate thin liquid. Mixed textures patient ke prescribed drink and food levels se incompatible ho sakti hain.
-- **D. Incorrect:** Texture label and clinical prescription match hone chahiye. Unauthorized relabelling patient safety risk hai.
+- **C. Incorrect:** Texture label and clinical prescription match hone chahiye. Unauthorized relabelling patient safety risk hai.
+- **D. Correct:** Level 5 moisture should hold particles together without separate thin liquid. Mixed textures patient ke prescribed drink and food levels se incompatible ho sakti hain.
 
 </details>
 
@@ -330,17 +330,17 @@
 
 - **A.** Every dry hard biscuit is transitional regardless of its behaviour
 - **B.** Transitional means that the food is nutritionally complete
-- **C.** Transitional foods are automatically appropriate for every person with dysphagia
-- **D.** A transitional food changes texture substantially with moisture or temperature under the defined testing conditions
+- **C.** A transitional food changes texture substantially with moisture or temperature under the defined testing conditions
+- **D.** Transitional foods are automatically appropriate for every person with dysphagia
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. A transitional food changes texture substantially with moisture or temperature under the defined testing conditions**
+**Correct: C. A transitional food changes texture substantially with moisture or temperature under the defined testing conditions**
 
 - **A. Incorrect:** Dry appearance alone classification establish nahi karti. Moisture or temperature response test required hai.
 - **B. Incorrect:** Term physical texture change describe karta hai, nutrient adequacy nahi.
-- **C. Incorrect:** Suitability swallowing assessment par depend karti hai. Texture category universal permission nahi.
-- **D. Correct:** Transitional food initial texture se softer or disintegrated state mein change kar sakti hai. Actual test and clinician suitability separately verify karein.
+- **C. Correct:** Transitional food initial texture se softer or disintegrated state mein change kar sakti hai. Actual test and clinician suitability separately verify karein.
+- **D. Incorrect:** Suitability swallowing assessment par depend karti hai. Texture category universal permission nahi.
 
 </details>
 
@@ -349,17 +349,17 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
 - **A.** Only its frozen appearance because melting does not affect swallowing
-- **B.** Whether the consistency after melting is compatible with the prescribed swallowing plan
-- **C.** Its colour as a substitute for texture assessment
+- **B.** Its colour as a substitute for texture assessment
+- **C.** Whether the consistency after melting is compatible with the prescribed swallowing plan
 - **D.** That every frozen food must be universally safe for thickened-fluid patients
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Whether the consistency after melting is compatible with the prescribed swallowing plan**
+**Correct: C. Whether the consistency after melting is compatible with the prescribed swallowing plan**
 
 - **A. Incorrect:** Texture change during eating clinically relevant hai. Frozen state alone suitability establish nahi karta.
-- **B. Correct:** Food mouth temperature par melt karke thin liquid ban sakti hai. Actual consumed consistency prescribed level ke according assess karni chahiye.
-- **C. Incorrect:** Colour liquid thickness ka reliable indicator nahi. Melted consistency evaluate karein.
+- **B. Incorrect:** Colour liquid thickness ka reliable indicator nahi. Melted consistency evaluate karein.
+- **C. Correct:** Food mouth temperature par melt karke thin liquid ban sakti hai. Actual consumed consistency prescribed level ke according assess karni chahiye.
 - **D. Incorrect:** Patient-specific swallowing ability and final consistency matter karte hain. Universal safety assumption inappropriate hai.
 
 </details>
@@ -368,19 +368,19 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
-- **A.** Verify the prepared supplement using the applicable test before serving and coordinate any necessary adjustment
-- **B.** Serve it because every product labelled thick is level 2
-- **C.** Dilute it to a thin liquid to make drinking easier
-- **D.** Substitute an untested supplement with a different nutrient composition without review
+- **A.** Serve it because every product labelled thick is level 2
+- **B.** Dilute it to a thin liquid to make drinking easier
+- **C.** Substitute an untested supplement with a different nutrient composition without review
+- **D.** Verify the prepared supplement using the applicable test before serving and coordinate any necessary adjustment
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Verify the prepared supplement using the applicable test before serving and coordinate any necessary adjustment**
+**Correct: D. Verify the prepared supplement using the applicable test before serving and coordinate any necessary adjustment**
 
-- **A. Correct:** Informal thick label exact IDDSI level establish nahi karta. Actual product flow test and prescription match verify karein.
-- **B. Incorrect:** Different products different thickness range mein ho sakte hain. Label alone specific classification guarantee nahi.
-- **C. Incorrect:** Dilution prescribed level change kar sakti hai. Clinical authorization and test required hai.
-- **D. Incorrect:** Texture and nutritional adequacy both matter. Replacement dietitian or clinical team ke saath verify karein.
+- **A. Incorrect:** Different products different thickness range mein ho sakte hain. Label alone specific classification guarantee nahi.
+- **B. Incorrect:** Dilution prescribed level change kar sakti hai. Clinical authorization and test required hai.
+- **C. Incorrect:** Texture and nutritional adequacy both matter. Replacement dietitian or clinical team ke saath verify karein.
+- **D. Correct:** Informal thick label exact IDDSI level establish nahi karta. Actual product flow test and prescription match verify karein.
 
 </details>
 
@@ -388,18 +388,18 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Texture-modified diets and IDDSI testing | **Type:** Original practice
 
-- **A.** Automatically thin every drink despite the current prescription
-- **B.** Ignore hydration because all drinks passed the texture test
-- **C.** Review intake, acceptable alternatives and hydration needs with the swallowing and nutrition team without independently changing the prescribed level
+- **A.** Review intake, acceptable alternatives and hydration needs with the swallowing and nutrition team without independently changing the prescribed level
+- **B.** Automatically thin every drink despite the current prescription
+- **C.** Ignore hydration because all drinks passed the texture test
 - **D.** Assume dissatisfaction means dysphagia is cured
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Review intake, acceptable alternatives and hydration needs with the swallowing and nutrition team without independently changing the prescribed level**
+**Correct: A. Review intake, acceptable alternatives and hydration needs with the swallowing and nutrition team without independently changing the prescribed level**
 
-- **A. Incorrect:** Unsupervised consistency change aspiration risk alter kar sakti hai. Clinical reassessment first needed hai.
-- **B. Incorrect:** Texture test fluid adequacy measure nahi karta. Intake and clinical hydration monitor karni chahiye.
-- **C. Correct:** Texture compliance ke saath sufficient hydration and acceptability important hain. Suitable verified drinks aur clinical reassessment se both safety and intake support ho sakte hain.
+- **A. Correct:** Texture compliance ke saath sufficient hydration and acceptability important hain. Suitable verified drinks aur clinical reassessment se both safety and intake support ho sakte hain.
+- **B. Incorrect:** Unsupervised consistency change aspiration risk alter kar sakti hai. Clinical reassessment first needed hai.
+- **C. Incorrect:** Texture test fluid adequacy measure nahi karta. Intake and clinical hydration monitor karni chahiye.
 - **D. Incorrect:** Taste preference swallowing function recovery establish nahi karti. Clinical reassessment required hai.
 
 </details>

@@ -28,19 +28,19 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
-- **A.** Discuss testing with the clinician before starting a gluten-free diet because dietary restriction can affect diagnostic accuracy
-- **B.** Start strict gluten avoidance immediately and assume all tests remain unchanged
-- **C.** Cancel diagnostic testing if symptoms improve on gluten avoidance
-- **D.** Replace every food with a gluten supplement until the appointment
+- **A.** Start strict gluten avoidance immediately and assume all tests remain unchanged
+- **B.** Cancel diagnostic testing if symptoms improve on gluten avoidance
+- **C.** Replace every food with a gluten supplement until the appointment
+- **D.** Discuss testing with the clinician before starting a gluten-free diet because dietary restriction can affect diagnostic accuracy
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Discuss testing with the clinician before starting a gluten-free diet because dietary restriction can affect diagnostic accuracy**
+**Correct: D. Discuss testing with the clinician before starting a gluten-free diet because dietary restriction can affect diagnostic accuracy**
 
-- **A. Correct:** Gluten restriction serology aur biopsy findings alter kar sakti hai. Diagnostic plan treating clinician ke saath coordinate karein.
-- **B. Incorrect:** Gluten withdrawal test sensitivity reduce kar sakti hai. Timing matters for diagnosis.
-- **C. Incorrect:** Symptom improvement coeliac disease establish nahi karta. Appropriate testing and differential assessment needed hai.
-- **D. Incorrect:** Unsupervised gluten challenge or concentrated exposure inappropriate ho sakta hai. Clinician diagnostic protocol guide karta hai.
+- **A. Incorrect:** Gluten withdrawal test sensitivity reduce kar sakti hai. Timing matters for diagnosis.
+- **B. Incorrect:** Symptom improvement coeliac disease establish nahi karta. Appropriate testing and differential assessment needed hai.
+- **C. Incorrect:** Unsupervised gluten challenge or concentrated exposure inappropriate ho sakta hai. Clinician diagnostic protocol guide karta hai.
+- **D. Correct:** Gluten restriction serology aur biopsy findings alter kar sakti hai. Diagnostic plan treating clinician ke saath coordinate karein.
 
 </details>
 
@@ -48,19 +48,19 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
-- **A.** Barley
-- **B.** Rye
-- **C.** Ordinary wheat semolina
-- **D.** Rice
+- **A.** Rice
+- **B.** Barley
+- **C.** Rye
+- **D.** Ordinary wheat semolina
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Rice**
+**Correct: A. Rice**
 
-- **A. Incorrect:** Barley gluten-containing grain hai. Coeliac diet mein ordinary barley avoid karna hota hai.
-- **B. Incorrect:** Rye gluten-related proteins contain karta hai aur confirmed coeliac disease mein suitable nahi.
-- **C. Incorrect:** Semolina wheat se banti hai. Fine processing gluten removal guarantee nahi karti.
-- **D. Correct:** Rice wheat, barley aur rye ka gluten contain nahi karta. Preparation and cross-contact safety still verify karni chahiye.
+- **A. Correct:** Rice wheat, barley aur rye ka gluten contain nahi karta. Preparation and cross-contact safety still verify karni chahiye.
+- **B. Incorrect:** Barley gluten-containing grain hai. Coeliac diet mein ordinary barley avoid karna hota hai.
+- **C. Incorrect:** Rye gluten-related proteins contain karta hai aur confirmed coeliac disease mein suitable nahi.
+- **D. Incorrect:** Semolina wheat se banti hai. Fine processing gluten removal guarantee nahi karti.
 
 </details>
 
@@ -69,17 +69,17 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
 - **A.** All oats are automatically uncontaminated
-- **B.** Use verified gluten-free oats if appropriate and discuss individual tolerance with the treating dietitian
-- **C.** Oats must always replace all other grains
+- **B.** Oats must always replace all other grains
+- **C.** Use verified gluten-free oats if appropriate and discuss individual tolerance with the treating dietitian
 - **D.** Ordinary oats become reliably gluten-free by rinsing once
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Use verified gluten-free oats if appropriate and discuss individual tolerance with the treating dietitian**
+**Correct: C. Use verified gluten-free oats if appropriate and discuss individual tolerance with the treating dietitian**
 
 - **A. Incorrect:** Processing and growing conditions wheat contamination introduce kar sakti hain. Verified supply matters.
-- **B. Correct:** Oats cross-contact se contaminated ho sakte hain. Many patients gluten-free oats tolerate karte hain, but individualized advice and symptoms review important hai.
-- **C. Incorrect:** Diet diversity nutrient adequacy support karti hai. One grain compulsory replacement nahi.
+- **B. Incorrect:** Diet diversity nutrient adequacy support karti hai. One grain compulsory replacement nahi.
+- **C. Correct:** Oats cross-contact se contaminated ho sakte hain. Many patients gluten-free oats tolerate karte hain, but individualized advice and symptoms review important hai.
 - **D. Incorrect:** Rinsing cross-contact risk reliably remove nahi karti. Appropriate labelled product needed hai.
 
 </details>
@@ -89,18 +89,18 @@
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
 - **A.** Assume every gluten-free snack is nutritionally complete
-- **B.** Adequacy of fibre, iron, calcium and other nutrients within the overall pattern
-- **C.** Avoid all naturally gluten-free vegetables to simplify the diet
-- **D.** Monitor gluten avoidance only and never review weight or symptoms
+- **B.** Avoid all naturally gluten-free vegetables to simplify the diet
+- **C.** Monitor gluten avoidance only and never review weight or symptoms
+- **D.** Adequacy of fibre, iron, calcium and other nutrients within the overall pattern
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Adequacy of fibre, iron, calcium and other nutrients within the overall pattern**
+**Correct: D. Adequacy of fibre, iron, calcium and other nutrients within the overall pattern**
 
 - **A. Incorrect:** Gluten-free claim specific protein exclusion describe karti hai, total nutrient quality nahi.
-- **B. Correct:** Gluten-free packaged products nutrient composition mein vary karte hain. Balanced alternative grains, produce aur suitable other foods nutritional adequacy support karte hain.
-- **C. Incorrect:** Vegetables naturally gluten-free ho sakti hain and nutrient value contribute karti hain. Unnecessary exclusion inappropriate hai.
-- **D. Incorrect:** Clinical response, nutrient adequacy aur adherence all relevant hain. Follow-up helps identify persistent problems.
+- **B. Incorrect:** Vegetables naturally gluten-free ho sakti hain and nutrient value contribute karti hain. Unnecessary exclusion inappropriate hai.
+- **C. Incorrect:** Clinical response, nutrient adequacy aur adherence all relevant hain. Follow-up helps identify persistent problems.
+- **D. Correct:** Gluten-free packaged products nutrient composition mein vary karte hain. Balanced alternative grains, produce aur suitable other foods nutritional adequacy support karte hain.
 
 </details>
 
@@ -110,17 +110,17 @@
 
 - **A.** A very large high-fat meal once daily
 - **B.** Increase coarse insoluble fibre abruptly regardless of symptoms
-- **C.** Eliminate all protein permanently
-- **D.** Smaller frequent meals with reduced fat and fibre when indicated by tolerance
+- **C.** Smaller frequent meals with reduced fat and fibre when indicated by tolerance
+- **D.** Eliminate all protein permanently
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Smaller frequent meals with reduced fat and fibre when indicated by tolerance**
+**Correct: C. Smaller frequent meals with reduced fat and fibre when indicated by tolerance**
 
 - **A. Incorrect:** Large meal volume aur fat delayed emptying symptoms worsen kar sakte hain. Smaller portions usually better tolerated.
 - **B. Incorrect:** Gastroparesis mein high-fibre foods retention or bezoar concerns increase kar sakte hain. Tolerance-based guidance required hai.
-- **C. Incorrect:** Protein adequacy recovery and tissue function ke liye essential hai. Suitable forms and quantities plan karein.
-- **D. Correct:** Fat aur high-fibre solid food gastric emptying slow kar sakte hain. Small frequent portions and suitable texture symptom tolerance improve kar sakte hain.
+- **C. Correct:** Fat aur high-fibre solid food gastric emptying slow kar sakte hain. Small frequent portions and suitable texture symptom tolerance improve kar sakte hain.
+- **D. Incorrect:** Protein adequacy recovery and tissue function ke liye essential hai. Suitable forms and quantities plan karein.
 
 </details>
 
@@ -148,18 +148,18 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
-- **A.** One very large meal each evening
-- **B.** Consume every daily calorie as concentrated sugar solution
-- **C.** Several small meals rather than a few large meals
+- **A.** Several small meals rather than a few large meals
+- **B.** One very large meal each evening
+- **C.** Consume every daily calorie as concentrated sugar solution
 - **D.** Avoid all oral nutrition permanently
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Several small meals rather than a few large meals**
+**Correct: A. Several small meals rather than a few large meals**
 
-- **A. Incorrect:** Large meal rapid intestinal delivery increase kar sakti hai and symptoms worsen ho sakte hain.
-- **B. Incorrect:** Simple sugar load dumping symptoms exacerbate kar sakta hai. Balanced individualized nutrition needed hai.
-- **C. Correct:** Small portions rapid nutrient delivery ka burden reduce kar sakti hain. Surgical team specific composition and tolerance guide karegi.
+- **A. Correct:** Small portions rapid nutrient delivery ka burden reduce kar sakti hain. Surgical team specific composition and tolerance guide karegi.
+- **B. Incorrect:** Large meal rapid intestinal delivery increase kar sakti hai and symptoms worsen ho sakte hain.
+- **C. Incorrect:** Simple sugar load dumping symptoms exacerbate kar sakta hai. Balanced individualized nutrition needed hai.
 - **D. Incorrect:** Many cases diet modification se manage hote hain. Oral restriction decision clinical indication par depend karti hai.
 
 </details>
@@ -168,19 +168,19 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
-- **A.** To eliminate the need for hydration after gastric surgery
-- **B.** To make all carbohydrate disappear from food
-- **C.** To treat every patient with reflux by the same rule
-- **D.** To help reduce rapid delivery of meal contents to the small intestine while maintaining hydration across the day
+- **A.** To help reduce rapid delivery of meal contents to the small intestine while maintaining hydration across the day
+- **B.** To eliminate the need for hydration after gastric surgery
+- **C.** To make all carbohydrate disappear from food
+- **D.** To treat every patient with reflux by the same rule
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. To help reduce rapid delivery of meal contents to the small intestine while maintaining hydration across the day**
+**Correct: A. To help reduce rapid delivery of meal contents to the small intestine while maintaining hydration across the day**
 
-- **A. Incorrect:** Hydration still essential hai. Timing modification total fluid elimination nahi hai.
-- **B. Incorrect:** Fluid timing carbohydrate content change nahi karti. Meal composition separately assessed hoti hai.
-- **C. Incorrect:** Dumping specific post-surgical disorder hai. Reflux advice and fluid restrictions different context rakhte hain.
-- **D. Correct:** Liquid timing meal transit influence kar sakti hai. Hydration maintain karne ke liye planned between-meal intake important hai.
+- **A. Correct:** Liquid timing meal transit influence kar sakti hai. Hydration maintain karne ke liye planned between-meal intake important hai.
+- **B. Incorrect:** Hydration still essential hai. Timing modification total fluid elimination nahi hai.
+- **C. Incorrect:** Fluid timing carbohydrate content change nahi karti. Meal composition separately assessed hoti hai.
+- **D. Incorrect:** Dumping specific post-surgical disorder hai. Reflux advice and fluid restrictions different context rakhte hain.
 
 </details>
 
@@ -188,18 +188,18 @@
 
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
-- **A.** Increase syrup concentration so the meal is absorbed faster
-- **B.** Replace all complex carbohydrates with sweets
-- **C.** Reduce concentrated simple sugars and use a balanced meal pattern recommended by the clinical team
+- **A.** Reduce concentrated simple sugars and use a balanced meal pattern recommended by the clinical team
+- **B.** Increase syrup concentration so the meal is absorbed faster
+- **C.** Replace all complex carbohydrates with sweets
 - **D.** Treat the symptoms only by removing every dietary protein source
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Reduce concentrated simple sugars and use a balanced meal pattern recommended by the clinical team**
+**Correct: A. Reduce concentrated simple sugars and use a balanced meal pattern recommended by the clinical team**
 
-- **A. Incorrect:** Rapid concentrated sugar delivery symptoms worsen kar sakti hai. This does not address dumping physiology.
-- **B. Incorrect:** Complex carbohydrate options may support more gradual nutrient delivery. Blanket substitution with sweets inappropriate hai.
-- **C. Correct:** High simple sugar load osmotic effect aur later glucose response contribute kar sakta hai. Suitable complex carbohydrate and protein portions individualize karein.
+- **A. Correct:** High simple sugar load osmotic effect aur later glucose response contribute kar sakta hai. Suitable complex carbohydrate and protein portions individualize karein.
+- **B. Incorrect:** Rapid concentrated sugar delivery symptoms worsen kar sakti hai. This does not address dumping physiology.
+- **C. Incorrect:** Complex carbohydrate options may support more gradual nutrient delivery. Blanket substitution with sweets inappropriate hai.
 - **D. Incorrect:** Protein is needed for recovery and balanced intake. Removing protein does not address concentrated sugar load.
 
 </details>
@@ -208,17 +208,17 @@
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
-- **A.** Allow approximately three hours between eating and lying down when feasible
-- **B.** Lie flat immediately after every meal
+- **A.** Lie flat immediately after every meal
+- **B.** Allow approximately three hours between eating and lying down when feasible
 - **C.** Avoid all food for the entire day
 - **D.** Drink a large carbonated beverage immediately before lying down
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Allow approximately three hours between eating and lying down when feasible**
+**Correct: B. Allow approximately three hours between eating and lying down when feasible**
 
-- **A. Correct:** Meal ke turant baad recumbency reflux symptoms worsen kar sakti hai. Earlier dinner timing nocturnal symptoms reduce karne mein help kar sakti hai.
-- **B. Incorrect:** Recumbency can increase reflux exposure. Nocturnal symptoms ke context mein timing modification more relevant hai.
+- **A. Incorrect:** Recumbency can increase reflux exposure. Nocturnal symptoms ke context mein timing modification more relevant hai.
+- **B. Correct:** Meal ke turant baad recumbency reflux symptoms worsen kar sakti hai. Earlier dinner timing nocturnal symptoms reduce karne mein help kar sakti hai.
 - **C. Incorrect:** Unnecessary fasting nutrient adequacy compromise kar sakti hai. Targeted timing change more appropriate hai.
 - **D. Incorrect:** Large volume and carbonation some patients mein symptoms worsen kar sakte hain. Individual triggers assess karein.
 
@@ -229,18 +229,18 @@
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
 - **A.** Remove every food ever associated with reflux in another patient
-- **B.** Identify personal symptom triggers and avoid unnecessary blanket food exclusions
-- **C.** Ignore the person's observed symptoms because food never affects reflux
-- **D.** Prescribe a lifelong liquid-only diet for all reflux patients
+- **B.** Ignore the person's observed symptoms because food never affects reflux
+- **C.** Prescribe a lifelong liquid-only diet for all reflux patients
+- **D.** Identify personal symptom triggers and avoid unnecessary blanket food exclusions
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Identify personal symptom triggers and avoid unnecessary blanket food exclusions**
+**Correct: D. Identify personal symptom triggers and avoid unnecessary blanket food exclusions**
 
 - **A. Incorrect:** Universal trigger list unnecessarily diet restrict kar sakti hai. Actual tolerance important hai.
-- **B. Correct:** GERD triggers individual vary karte hain. Symptom diary and balanced dietary plan excessive restriction prevent kar sakte hain.
-- **C. Incorrect:** Some foods and meal patterns symptoms influence kar sakte hain. Individual relationship assess karein.
-- **D. Incorrect:** Liquid-only diet GERD ka standard universal management nahi hai. Clinical severity and indications guide intervention.
+- **B. Incorrect:** Some foods and meal patterns symptoms influence kar sakte hain. Individual relationship assess karein.
+- **C. Incorrect:** Liquid-only diet GERD ka standard universal management nahi hai. Clinical severity and indications guide intervention.
+- **D. Correct:** GERD triggers individual vary karte hain. Symptom diary and balanced dietary plan excessive restriction prevent kar sakte hain.
 
 </details>
 
@@ -248,19 +248,19 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
-- **A.** Resume the usual tolerated diet as appropriate rather than prolonged routine fasting
-- **B.** Continue fasting until stool frequency is completely normal in every case
-- **C.** Consume only highly sweetened beverages to replace nutrition
-- **D.** Remove all food and fluids permanently
+- **A.** Continue fasting until stool frequency is completely normal in every case
+- **B.** Consume only highly sweetened beverages to replace nutrition
+- **C.** Remove all food and fluids permanently
+- **D.** Resume the usual tolerated diet as appropriate rather than prolonged routine fasting
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Resume the usual tolerated diet as appropriate rather than prolonged routine fasting**
+**Correct: D. Resume the usual tolerated diet as appropriate rather than prolonged routine fasting**
 
-- **A. Correct:** Most uncomplicated acute diarrhoea cases mein appetite return hone par normal tolerated diet resume kar sakte hain. Hydration and concerning symptoms separately monitor karein.
-- **B. Incorrect:** Prolonged fasting nutrient intake reduce kar sakti hai. Symptom resolution tak universal fasting needed nahi.
-- **C. Incorrect:** Concentrated sugar drinks diarrhoea worsen kar sakti hain and balanced nutrition provide nahi karti.
-- **D. Incorrect:** Fluid and nutrient replacement important hai. Permanent restriction unsafe hai.
+- **A. Incorrect:** Prolonged fasting nutrient intake reduce kar sakti hai. Symptom resolution tak universal fasting needed nahi.
+- **B. Incorrect:** Concentrated sugar drinks diarrhoea worsen kar sakti hain and balanced nutrition provide nahi karti.
+- **C. Incorrect:** Fluid and nutrient replacement important hai. Permanent restriction unsafe hai.
+- **D. Correct:** Most uncomplicated acute diarrhoea cases mein appetite return hone par normal tolerated diet resume kar sakte hain. Hydration and concerning symptoms separately monitor karein.
 
 </details>
 
@@ -269,17 +269,17 @@
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
 - **A.** Sorbitol causes immediate complete destruction of intestinal villi in every person
-- **B.** Poorly absorbed sugar alcohol can increase intestinal osmotic water retention
-- **C.** Sorbitol prevents all fluid from entering the bowel
+- **B.** Sorbitol prevents all fluid from entering the bowel
+- **C.** Poorly absorbed sugar alcohol can increase intestinal osmotic water retention
 - **D.** Sorbitol permanently blocks all gastric acid production
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Poorly absorbed sugar alcohol can increase intestinal osmotic water retention**
+**Correct: C. Poorly absorbed sugar alcohol can increase intestinal osmotic water retention**
 
 - **A. Incorrect:** Osmotic effect aur coeliac-type villous injury distinct mechanisms hain. Universal tissue destruction claim incorrect hai.
-- **B. Correct:** Sorbitol jaise polyols incompletely absorbed ho sakte hain. Gut mein osmotic water retention loose stools increase kar sakti hai.
-- **C. Incorrect:** Poorly absorbed osmoles water retain kar sakte hain. Complete prevention opposite mechanism hai.
+- **B. Incorrect:** Poorly absorbed osmoles water retain kar sakte hain. Complete prevention opposite mechanism hai.
+- **C. Correct:** Sorbitol jaise polyols incompletely absorbed ho sakte hain. Gut mein osmotic water retention loose stools increase kar sakti hai.
 - **D. Incorrect:** Sorbitol-related diarrhoea primarily gut osmotic effect se related ho sakti hai, permanent acid blockade nahi.
 
 </details>
@@ -289,18 +289,18 @@
 **Difficulty:** Medium | **Priority:** High | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
 - **A.** All nuts inevitably become trapped in diverticula and cause inflammation
-- **B.** Consume only nuts and seeds because they cure diverticular disease
-- **C.** Avoid every fibre-containing food permanently
-- **D.** Routine lifelong avoidance is not necessary for most patients, and diet should be individualized
+- **B.** Routine lifelong avoidance is not necessary for most patients, and diet should be individualized
+- **C.** Consume only nuts and seeds because they cure diverticular disease
+- **D.** Avoid every fibre-containing food permanently
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Routine lifelong avoidance is not necessary for most patients, and diet should be individualized**
+**Correct: B. Routine lifelong avoidance is not necessary for most patients, and diet should be individualized**
 
 - **A. Incorrect:** Historical restriction universal evidence se supported nahi hai. Individual symptoms and clinical context important hain.
-- **B. Incorrect:** No single food cure establish nahi karta. Balanced diet and clinical care still needed hain.
-- **C. Incorrect:** Chronic stable diverticular disease mein fibre-rich pattern often recommended ho sakta hai. Acute and individual needs differ.
-- **D. Correct:** Modern evidence nuts and seeds ko universal harmful foods nahi maanta in diverticular disease. Acute episodes and special conditions ka plan clinician guide karega.
+- **B. Correct:** Modern evidence nuts and seeds ko universal harmful foods nahi maanta in diverticular disease. Acute episodes and special conditions ka plan clinician guide karega.
+- **C. Incorrect:** No single food cure establish nahi karta. Balanced diet and clinical care still needed hain.
+- **D. Incorrect:** Chronic stable diverticular disease mein fibre-rich pattern often recommended ho sakta hai. Acute and individual needs differ.
 
 </details>
 
@@ -309,17 +309,17 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
 - **A.** Induce a longer fasting period to accelerate muscle breakdown
-- **B.** Replace all daytime nutrition with a bedtime snack
-- **C.** Shorten overnight fasting and support preservation of body protein
+- **B.** Shorten overnight fasting and support preservation of body protein
+- **C.** Replace all daytime nutrition with a bedtime snack
 - **D.** Prevent every episode of hepatic encephalopathy independently
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Shorten overnight fasting and support preservation of body protein**
+**Correct: B. Shorten overnight fasting and support preservation of body protein**
 
 - **A. Incorrect:** Snack fasting interval shorten karti hai. Muscle breakdown increase therapeutic objective nahi.
-- **B. Incorrect:** Late snack adequate daily intake ka supplement hai. Daytime nutrition eliminate nahi karna chahiye.
-- **C. Correct:** Cirrhosis mein limited glycogen availability accelerated fasting metabolism contribute kar sakti hai. Late snack fasting interval reduce karke protein status support kar sakta hai.
+- **B. Correct:** Cirrhosis mein limited glycogen availability accelerated fasting metabolism contribute kar sakti hai. Late snack fasting interval reduce karke protein status support kar sakta hai.
+- **C. Incorrect:** Late snack adequate daily intake ka supplement hai. Daytime nutrition eliminate nahi karna chahiye.
 - **D. Incorrect:** Encephalopathy multifactorial hai. Late snack nutritional strategy hai, definitive preventive treatment nahi.
 
 </details>
@@ -329,18 +329,18 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
 - **A.** Remove protein from all meals indefinitely
-- **B.** Replace protein exclusively with sugar regardless of clinical needs
-- **C.** Use unrestricted protein supplements without assessment
-- **D.** Avoid routine prolonged protein restriction and individualize adequate intake with the liver nutrition team
+- **B.** Avoid routine prolonged protein restriction and individualize adequate intake with the liver nutrition team
+- **C.** Replace protein exclusively with sugar regardless of clinical needs
+- **D.** Use unrestricted protein supplements without assessment
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Avoid routine prolonged protein restriction and individualize adequate intake with the liver nutrition team**
+**Correct: B. Avoid routine prolonged protein restriction and individualize adequate intake with the liver nutrition team**
 
 - **A. Incorrect:** Long-term restriction muscle wasting worsen kar sakti hai. Routine complete elimination supported nahi hai.
-- **B. Incorrect:** Sugar amino acids provide nahi karti. Protein and energy needs separately meet karni hoti hain.
-- **C. Incorrect:** Adequate protein important hai but amount and form clinical status ke according plan hoti hai. Unsupervised excess appropriate nahi.
-- **D. Correct:** Guidelines adequate protein maintain karne par emphasize karti hain because muscle depletion adverse ho sakti hai. Acute tolerance and specialist plan separately assess karein.
+- **B. Correct:** Guidelines adequate protein maintain karne par emphasize karti hain because muscle depletion adverse ho sakti hai. Acute tolerance and specialist plan separately assess karein.
+- **C. Incorrect:** Sugar amino acids provide nahi karti. Protein and energy needs separately meet karni hoti hain.
+- **D. Incorrect:** Adequate protein important hai but amount and form clinical status ke according plan hoti hai. Unsupervised excess appropriate nahi.
 
 </details>
 
@@ -349,18 +349,18 @@
 **Difficulty:** Medium | **Priority:** High | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
 - **A.** Require a single very large meal to meet all nutrient needs
-- **B.** Offer smaller nutrient-dense meals and snacks within the prescribed sodium and other restrictions
-- **C.** Eliminate every protein food to reduce abdominal pressure
-- **D.** Use unlimited salty packaged soup for extra nutrition
+- **B.** Eliminate every protein food to reduce abdominal pressure
+- **C.** Use unlimited salty packaged soup for extra nutrition
+- **D.** Offer smaller nutrient-dense meals and snacks within the prescribed sodium and other restrictions
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Offer smaller nutrient-dense meals and snacks within the prescribed sodium and other restrictions**
+**Correct: D. Offer smaller nutrient-dense meals and snacks within the prescribed sodium and other restrictions**
 
 - **A. Incorrect:** Large volume fullness worsen kar sakta hai. Distributed intake better tolerated ho sakti hai.
-- **B. Correct:** Ascites early satiety cause kar sakti hai. Smaller frequent intake energy and protein goals support kar sakta hai without excessive meal volume.
-- **C. Incorrect:** Protein restriction ascites ka direct volume solution nahi and malnutrition worsen kar sakti hai.
-- **D. Incorrect:** Sodium restriction may be indicated in ascites. Suitable nutrient-dense alternatives clinical plan ke andar choose karein.
+- **B. Incorrect:** Protein restriction ascites ka direct volume solution nahi and malnutrition worsen kar sakti hai.
+- **C. Incorrect:** Sodium restriction may be indicated in ascites. Suitable nutrient-dense alternatives clinical plan ke andar choose karein.
+- **D. Correct:** Ascites early satiety cause kar sakti hai. Smaller frequent intake energy and protein goals support kar sakta hai without excessive meal volume.
 
 </details>
 
@@ -388,17 +388,17 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Gastrointestinal and liver therapeutic diets | **Type:** Original practice
 
-- **A.** Take the prescribed enzymes with meals and snacks according to product and clinician instructions
-- **B.** Take all enzymes only on waking regardless of meals
+- **A.** Take all enzymes only on waking regardless of meals
+- **B.** Take the prescribed enzymes with meals and snacks according to product and clinician instructions
 - **C.** Replace enzymes by eliminating every dietary fat source
 - **D.** Stop enzyme therapy whenever one meal contains carbohydrate
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Take the prescribed enzymes with meals and snacks according to product and clinician instructions**
+**Correct: B. Take the prescribed enzymes with meals and snacks according to product and clinician instructions**
 
-- **A. Correct:** Enzyme replacement food ke saath intestinal digestion support karti hai. Dose and timing individualized hain, symptoms persist hon toh review needed hai.
-- **B. Incorrect:** Enzymes food digestion ke saath coordinate hone chahiye. Empty-stomach single timing generally meal coverage nahi deti.
+- **A. Incorrect:** Enzymes food digestion ke saath coordinate hone chahiye. Empty-stomach single timing generally meal coverage nahi deti.
+- **B. Correct:** Enzyme replacement food ke saath intestinal digestion support karti hai. Dose and timing individualized hain, symptoms persist hon toh review needed hai.
 - **C. Incorrect:** Fat elimination nutritional deficits cause kar sakti hai. Enzyme therapy and dietary adequacy separately managed hote hain.
 - **D. Incorrect:** Pancreatic enzymes mixed macronutrients digest karne mein help karte hain. Prescribed regimen meal composition and clinical advice se guide hota hai.
 

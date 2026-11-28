@@ -48,17 +48,17 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Hypertension and DASH | **Type:** Original practice
 
-- **A.** 4–5 servings at every meal
-- **B.** 4–5 servings per week
+- **A.** 4–5 servings per week
+- **B.** 4–5 servings at every meal
 - **C.** No servings at all
 - **D.** Exactly one serving per month
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. 4–5 servings per week**
+**Correct: A. 4–5 servings per week**
 
-- **A. Incorrect:** Har meal itna fixed target reference plan mein nahi hai. Weekly aur meal frequency distinguish karein.
-- **B. Correct:** Reference table is group ko weekly target deti hai. Individual meal planning mein suitable portions distribute kiye ja sakte hain.
+- **A. Correct:** Reference table is group ko weekly target deti hai. Individual meal planning mein suitable portions distribute kiye ja sakte hain.
+- **B. Incorrect:** Har meal itna fixed target reference plan mein nahi hai. Weekly aur meal frequency distinguish karein.
 - **C. Incorrect:** Nuts aur legumes DASH ka part hain. Allergy ya clinical restriction ho toh substitute plan ban sakta hai.
 - **D. Incorrect:** Monthly one serving given weekly reference target se match nahi karti.
 
@@ -88,17 +88,17 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Hypertension and DASH | **Type:** Original practice
 
-- **A.** The 2,300-mg limit means 2,300 mg of table salt
-- **B.** The 1,500-mg/day pattern can reduce blood pressure further than the 2,300-mg/day pattern
+- **A.** The 1,500-mg/day pattern can reduce blood pressure further than the 2,300-mg/day pattern
+- **B.** The 2,300-mg limit means 2,300 mg of table salt
 - **C.** The 1,500-mg value is a minimum required supplement dose
 - **D.** Both numbers represent the daily potassium requirement
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. The 1,500-mg/day pattern can reduce blood pressure further than the 2,300-mg/day pattern**
+**Correct: A. The 1,500-mg/day pattern can reduce blood pressure further than the 2,300-mg/day pattern**
 
-- **A. Incorrect:** Sodium aur sodium chloride mass same nahi hote. Label sodium amount ko actual sodium target se compare karein.
-- **B. Correct:** NHLBI lower sodium option mein additional BP benefit report karta hai. Individual prescription health status aur feasibility se decide hoti hai.
+- **A. Correct:** NHLBI lower sodium option mein additional BP benefit report karta hai. Individual prescription health status aur feasibility se decide hoti hai.
+- **B. Incorrect:** Sodium aur sodium chloride mass same nahi hote. Label sodium amount ko actual sodium target se compare karein.
 - **C. Incorrect:** Yeh sodium intake limit ka reference hai, supplement dose nahi.
 - **D. Incorrect:** Dono values sodium limits hain. Potassium needs separately assess hoti hain.
 
@@ -108,17 +108,17 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Hypertension and DASH | **Type:** Original practice
 
-- **A.** 600 mg
-- **B.** 1,200 mg
+- **A.** 1,200 mg
+- **B.** 600 mg
 - **C.** 1,280 mg
 - **D.** 2,400 mg
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. 600 mg**
+**Correct: B. 600 mg**
 
-- **A. Correct:** 520 plus 680 equals 1200 mg. 1800 mein se 1200 subtract karne par 600 mg remaining hai.
-- **B. Incorrect:** Yeh already consumed sodium hai, remaining allowance nahi.
+- **A. Incorrect:** Yeh already consumed sodium hai, remaining allowance nahi.
+- **B. Correct:** 520 plus 680 equals 1200 mg. 1800 mein se 1200 subtract karne par 600 mg remaining hai.
 - **C. Incorrect:** Isme sirf breakfast subtract hua hai. Lunch bhi include karna hai.
 - **D. Incorrect:** Consumed sodium ko target mein add karna remaining allowance nahi batata.
 
@@ -129,17 +129,17 @@
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Hypertension and DASH | **Type:** Original practice
 
 - **A.** 240 mg
-- **B.** 600 mg
-- **C.** 480 mg
+- **B.** 480 mg
+- **C.** 600 mg
 - **D.** 840 mg
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. 480 mg**
+**Correct: B. 480 mg**
 
 - **A. Incorrect:** Yeh sirf one tablespoon ka difference hai. Recipe mein two tablespoons hain.
-- **B. Incorrect:** 420 plus 180 equals 600, but savings ke liye difference calculate hota hai.
-- **C. Correct:** Per tablespoon difference 240 mg hai. Do tablespoons ke liye 480 mg saving hogi, provided equal quantity use ho.
+- **B. Correct:** Per tablespoon difference 240 mg hai. Do tablespoons ke liye 480 mg saving hogi, provided equal quantity use ho.
+- **C. Incorrect:** 420 plus 180 equals 600, but savings ke liye difference calculate hota hai.
 - **D. Incorrect:** Yeh first sauce se total sodium hai, substitution ki saving nahi.
 
 </details>
@@ -150,17 +150,17 @@
 
 - **A.** Sodium intake is necessarily negligible without table salt
 - **B.** Only naturally occurring potassium needs assessment
-- **C.** Blood pressure readings are unnecessary if table salt is avoided
-- **D.** Sodium in prepared foods must be included in the total daily intake
+- **C.** Sodium in prepared foods must be included in the total daily intake
+- **D.** Blood pressure readings are unnecessary if table salt is avoided
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Sodium in prepared foods must be included in the total daily intake**
+**Correct: C. Sodium in prepared foods must be included in the total daily intake**
 
 - **A. Incorrect:** Prepared food mein already sodium present ho sakta hai. No added table salt total intake prove nahi karta.
 - **B. Incorrect:** Potassium important hai, but hypertension sodium assessment ko replace nahi karta.
-- **C. Incorrect:** BP response monitoring dietary and medical care evaluate karti hai. Table salt habit alone control confirm nahi karta.
-- **D. Correct:** Table salt avoid karna useful hai, lekin packaged aur prepared foods se hidden sodium aa sakta hai. Actual label portions review karein.
+- **C. Correct:** Table salt avoid karna useful hai, lekin packaged aur prepared foods se hidden sodium aa sakta hai. Actual label portions review karein.
+- **D. Incorrect:** BP response monitoring dietary and medical care evaluate karti hai. Table salt habit alone control confirm nahi karta.
 
 </details>
 
@@ -168,18 +168,18 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Hypertension and DASH | **Type:** Original practice
 
-- **A.** Compare the absolute sodium amount per actual portion with the planned limit
-- **B.** It guarantees zero sodium
-- **C.** It allows unrestricted consumption regardless of serving size
+- **A.** It guarantees zero sodium
+- **B.** It allows unrestricted consumption regardless of serving size
+- **C.** Compare the absolute sodium amount per actual portion with the planned limit
 - **D.** It guarantees adequate potassium for everyone
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Compare the absolute sodium amount per actual portion with the planned limit**
+**Correct: C. Compare the absolute sodium amount per actual portion with the planned limit**
 
-- **A. Correct:** Reduced sodium comparison claim ho sakta hai. Product still considerable sodium provide kar sakta hai, so actual mg and serving size check karein.
-- **B. Incorrect:** Reduced ka matlab zero nahi hai. Absolute amount label se verify karein.
-- **C. Incorrect:** Multiple servings total sodium increase karti hain. Claim portion effect remove nahi karta.
+- **A. Incorrect:** Reduced ka matlab zero nahi hai. Absolute amount label se verify karein.
+- **B. Incorrect:** Multiple servings total sodium increase karti hain. Claim portion effect remove nahi karta.
+- **C. Correct:** Reduced sodium comparison claim ho sakta hai. Product still considerable sodium provide kar sakta hai, so actual mg and serving size check karein.
 - **D. Incorrect:** Sodium claim potassium amount ya renal safety establish nahi karta.
 
 </details>
@@ -189,17 +189,17 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Hypertension and DASH | **Type:** Original practice
 
 - **A.** Recommend unrestricted use because it contains less sodium
-- **B.** Advise extra potassium tablets alongside the substitute routinely
-- **C.** Obtain clinician review before using it because hyperkalaemia risk may increase
+- **B.** Obtain clinician review before using it because hyperkalaemia risk may increase
+- **C.** Advise extra potassium tablets alongside the substitute routinely
 - **D.** Assume all salt substitutes contain only ordinary sodium chloride
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Obtain clinician review before using it because hyperkalaemia risk may increase**
+**Correct: B. Obtain clinician review before using it because hyperkalaemia risk may increase**
 
 - **A. Incorrect:** Less sodium hone ka matlab unrestricted safety nahi. Potassium load risk create kar sakta hai.
-- **B. Incorrect:** Additional potassium hyperkalaemia risk further increase kar sakta hai. Supplement only assessed indication par use hota hai.
-- **C. Correct:** WHO lower-sodium salt substitute guidance impaired potassium excretion wale people ko exclude karti hai. Medication aur renal status review necessary hai.
+- **B. Correct:** WHO lower-sodium salt substitute guidance impaired potassium excretion wale people ko exclude karti hai. Medication aur renal status review necessary hai.
+- **C. Incorrect:** Additional potassium hyperkalaemia risk further increase kar sakta hai. Supplement only assessed indication par use hota hai.
 - **D. Incorrect:** Some substitutes potassium chloride contain karte hain. Ingredients verify karne chahiye.
 
 </details>
@@ -209,17 +209,17 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Hypertension and DASH | **Type:** Original practice
 
 - **A.** It mandates salt substitutes throughout all pregnancies
-- **B.** The recommendation is not directed to pregnant women, so individualized maternity advice is needed
-- **C.** It requires complete removal of dietary sodium
+- **B.** It requires complete removal of dietary sodium
+- **C.** The recommendation is not directed to pregnant women, so individualized maternity advice is needed
 - **D.** It replaces blood pressure monitoring in pregnancy
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. The recommendation is not directed to pregnant women, so individualized maternity advice is needed**
+**Correct: C. The recommendation is not directed to pregnant women, so individualized maternity advice is needed**
 
 - **A. Incorrect:** WHO ne pregnancy ke liye universal mandate nahi diya. Obstetric nutrition review important hai.
-- **B. Correct:** WHO recommendation general adult population ke liye hai aur pregnancy ko specified scope se exclude karti hai. Iska matlab automatic harm proof nahi, but tailored advice chahiye.
-- **C. Incorrect:** Sodium physiological electrolyte hai. Complete elimination guideline ka aim nahi.
+- **B. Incorrect:** Sodium physiological electrolyte hai. Complete elimination guideline ka aim nahi.
+- **C. Correct:** WHO recommendation general adult population ke liye hai aur pregnancy ko specified scope se exclude karti hai. Iska matlab automatic harm proof nahi, but tailored advice chahiye.
 - **D. Incorrect:** Pregnancy BP monitoring maternal and fetal safety ke liye necessary hai. Food choice monitoring replace nahi karti.
 
 </details>
@@ -249,18 +249,18 @@
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Hypertension and DASH | **Type:** Original practice
 
 - **A.** Salt the base heavily and dilute the patient's serving with water
-- **B.** Use the same salty pickle with every portion
-- **C.** Make the patient skip the family meal every day
-- **D.** Prepare a lower-sodium base and manage optional seasoning separately
+- **B.** Prepare a lower-sodium base and manage optional seasoning separately
+- **C.** Use the same salty pickle with every portion
+- **D.** Make the patient skip the family meal every day
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Prepare a lower-sodium base and manage optional seasoning separately**
+**Correct: B. Prepare a lower-sodium base and manage optional seasoning separately**
 
 - **A. Incorrect:** Dilution total consumed sodium reliably reduce nahi karti if full serving consumed. Taste aur nutrient density bhi affect ho sakte hain.
-- **B. Incorrect:** Pickle additional sodium contribute kar sakta hai. Portion and frequency assess karein.
-- **C. Incorrect:** Social exclusion adherence worsen kar sakti hai. Adapted family meals more practical hain.
-- **D. Correct:** Shared base se family meal maintain hota hai while targeted sodium portion control possible hota hai. Other diners ke choices bhi respect hote hain.
+- **B. Correct:** Shared base se family meal maintain hota hai while targeted sodium portion control possible hota hai. Other diners ke choices bhi respect hote hain.
+- **C. Incorrect:** Pickle additional sodium contribute kar sakta hai. Portion and frequency assess karein.
+- **D. Incorrect:** Social exclusion adherence worsen kar sakti hai. Adapted family meals more practical hain.
 
 </details>
 
@@ -288,19 +288,19 @@
 
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Hypertension and DASH | **Type:** Original practice
 
-- **A.** Review sustained eating patterns and blood pressure trends under comparable conditions
-- **B.** Declare long-term control after one dinner
-- **C.** Use urine colour as the only measure of BP response
-- **D.** Assess the patient's height weekly as the primary BP outcome
+- **A.** Declare long-term control after one dinner
+- **B.** Use urine colour as the only measure of BP response
+- **C.** Assess the patient's height weekly as the primary BP outcome
+- **D.** Review sustained eating patterns and blood pressure trends under comparable conditions
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Review sustained eating patterns and blood pressure trends under comparable conditions**
+**Correct: D. Review sustained eating patterns and blood pressure trends under comparable conditions**
 
-- **A. Correct:** One meal dietary change ka sample hai. Consistent intake aur serial BP response se intervention evaluate karna useful hai.
-- **B. Incorrect:** Single meal sustained control establish nahi karta. Follow-up needed hai.
-- **C. Incorrect:** Urine colour hydration se influenced hota hai. BP response ka direct indicator nahi.
-- **D. Incorrect:** Height adult BP intervention ka meaningful short-term outcome nahi. BP trend directly relevant hai.
+- **A. Incorrect:** Single meal sustained control establish nahi karta. Follow-up needed hai.
+- **B. Incorrect:** Urine colour hydration se influenced hota hai. BP response ka direct indicator nahi.
+- **C. Incorrect:** Height adult BP intervention ka meaningful short-term outcome nahi. BP trend directly relevant hai.
+- **D. Correct:** One meal dietary change ka sample hai. Consistent intake aur serial BP response se intervention evaluate karna useful hai.
 
 </details>
 
@@ -310,17 +310,17 @@
 
 - **A.** Independently stop all antihypertensive medicines
 - **B.** Advise unlimited salt intake as the standard correction
-- **C.** Review the readings and changes with the treating team for assessment of symptoms and therapy
-- **D.** Ignore symptoms because dietary improvement cannot affect BP
+- **C.** Ignore symptoms because dietary improvement cannot affect BP
+- **D.** Review the readings and changes with the treating team for assessment of symptoms and therapy
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Review the readings and changes with the treating team for assessment of symptoms and therapy**
+**Correct: D. Review the readings and changes with the treating team for assessment of symptoms and therapy**
 
 - **A. Incorrect:** Unsupervised discontinuation unsafe ho sakti hai. Prescriber evaluates dose adjustment.
 - **B. Incorrect:** Excess salt advice underlying cause assess kiye bina appropriate nahi. Volume status aur clinical factors matter karte hain.
-- **C. Correct:** Diet and other lifestyle changes BP affect kar sakte hain. Symptomatic low readings ko assess karke prescribed treatment review karwana important hai.
-- **D. Incorrect:** Nutrition and medication effects combine ho sakte hain. Symptoms deserve evaluation.
+- **C. Incorrect:** Nutrition and medication effects combine ho sakte hain. Symptoms deserve evaluation.
+- **D. Correct:** Diet and other lifestyle changes BP affect kar sakte hain. Symptomatic low readings ko assess karke prescribed treatment review karwana important hai.
 
 </details>
 
@@ -330,17 +330,17 @@
 
 - **A.** Sweetened soft drink
 - **B.** Butter in the same volume
-- **C.** Suitable low-fat lactose-free milk or yogurt with comparable nutrient content
-- **D.** Plain water alone as the dairy exchange
+- **C.** Plain water alone as the dairy exchange
+- **D.** Suitable low-fat lactose-free milk or yogurt with comparable nutrient content
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Suitable low-fat lactose-free milk or yogurt with comparable nutrient content**
+**Correct: D. Suitable low-fat lactose-free milk or yogurt with comparable nutrient content**
 
 - **A. Incorrect:** Soft drink hydration and sugar provide kar sakti hai but comparable protein and calcium nahi.
 - **B. Incorrect:** Butter fat rich hai. Milk ke protein and fluid contribution ka equivalent nahi.
-- **C. Correct:** Lactose-free dairy protein aur calcium provide kar sakti hai. Product composition and individual tolerance verify karein.
-- **D. Incorrect:** Water hydration deta hai but dairy nutrients provide nahi karta.
+- **C. Incorrect:** Water hydration deta hai but dairy nutrients provide nahi karta.
+- **D. Correct:** Lactose-free dairy protein aur calcium provide kar sakti hai. Product composition and individual tolerance verify karein.
 
 </details>
 
@@ -348,17 +348,17 @@
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Hypertension and DASH | **Type:** Original practice
 
-- **A.** Request an extra serving of every sauce
-- **B.** Ask for sauces and salty dressings separately and request less added salt when possible
+- **A.** Ask for sauces and salty dressings separately and request less added salt when possible
+- **B.** Request an extra serving of every sauce
 - **C.** Assume all grilled food is sodium-free
 - **D.** Choose solely by menu item price
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Ask for sauces and salty dressings separately and request less added salt when possible**
+**Correct: A. Ask for sauces and salty dressings separately and request less added salt when possible**
 
-- **A. Incorrect:** Sauces substantial sodium contribute kar sakti hain. Extra serving goal ke opposite hai.
-- **B. Correct:** Separate sauce portion se sodium control easier ho sakta hai. Preparation details still matter, so total intake estimate karein.
+- **A. Correct:** Separate sauce portion se sodium control easier ho sakta hai. Preparation details still matter, so total intake estimate karein.
+- **B. Incorrect:** Sauces substantial sodium contribute kar sakti hain. Extra serving goal ke opposite hai.
 - **C. Incorrect:** Marinades and seasoning grilled items mein sodium add kar sakte hain. Preparation check karein.
 - **D. Incorrect:** Price sodium content reliably indicate nahi karta. Recipe or nutrition information more relevant hai.
 
@@ -390,17 +390,17 @@
 
 - **A.** Number of posters displayed in the clinic
 - **B.** Number of family members who know the word DASH
-- **C.** Total number of cooking utensils owned
-- **D.** Repeated estimates of sodium in household recipes and purchased foods compared with baseline
+- **C.** Repeated estimates of sodium in household recipes and purchased foods compared with baseline
+- **D.** Total number of cooking utensils owned
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Repeated estimates of sodium in household recipes and purchased foods compared with baseline**
+**Correct: C. Repeated estimates of sodium in household recipes and purchased foods compared with baseline**
 
 - **A. Incorrect:** Poster count programme delivery batata hai, household behaviour change nahi.
 - **B. Incorrect:** Term recognition practice adoption prove nahi karti. Actual food preparation assess karna better hai.
-- **C. Incorrect:** Utensil count sodium use ka valid measure nahi. Ingredient and portion records directly relevant hain.
-- **D. Correct:** Recipe ingredients aur product labels actual household sodium practices estimate karne mein useful hain. BP clinical outcome separately track kiya ja sakta hai.
+- **C. Correct:** Recipe ingredients aur product labels actual household sodium practices estimate karne mein useful hain. BP clinical outcome separately track kiya ja sakta hai.
+- **D. Incorrect:** Utensil count sodium use ka valid measure nahi. Ingredient and portion records directly relevant hain.
 
 </details>
 

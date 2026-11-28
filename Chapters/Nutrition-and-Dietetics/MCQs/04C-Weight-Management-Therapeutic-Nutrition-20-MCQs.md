@@ -29,17 +29,17 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
 - **A.** 9.6 kg
-- **B.** 0.48 kg
-- **C.** 4.8 kg
+- **B.** 4.8 kg
+- **C.** 0.48 kg
 - **D.** 19.2 kg
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. 4.8 kg**
+**Correct: B. 4.8 kg**
 
 - **A. Incorrect:** 9.6 kg baseline ka 10 percent hai. Specified goal 5 percent hai.
-- **B. Incorrect:** Decimal conversion tenfold incorrect hai. 5 percent equals 0.05.
-- **C. Correct:** 96 ka 5 percent nikalne ke liye 96 times 0.05 karein. Result 4.8 kg hai. Goal suitability clinical assessment par depend karti hai.
+- **B. Correct:** 96 ka 5 percent nikalne ke liye 96 times 0.05 karein. Result 4.8 kg hai. Goal suitability clinical assessment par depend karti hai.
+- **C. Incorrect:** Decimal conversion tenfold incorrect hai. 5 percent equals 0.05.
 - **D. Incorrect:** Yeh baseline ka 20 percent hai. Given initial goal se four times greater hai.
 
 </details>
@@ -49,18 +49,18 @@
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
 - **A.** Every person must have permanently increasing energy needs during weight loss
-- **B.** Weight loss eliminates all resting metabolic activity
-- **C.** The original calculated intake is guaranteed to produce the same rate of change indefinitely
-- **D.** Energy requirements can decrease at a lower body weight and with metabolic adaptation
+- **B.** Energy requirements can decrease at a lower body weight and with metabolic adaptation
+- **C.** Weight loss eliminates all resting metabolic activity
+- **D.** The original calculated intake is guaranteed to produce the same rate of change indefinitely
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Energy requirements can decrease at a lower body weight and with metabolic adaptation**
+**Correct: B. Energy requirements can decrease at a lower body weight and with metabolic adaptation**
 
 - **A. Incorrect:** Energy needs body size, composition aur activity se related hain. Permanent increase universal response nahi.
-- **B. Incorrect:** Organs aur cells rest par bhi energy consume karte hain. Basal needs remain karti hain.
-- **C. Incorrect:** Initial estimate exact long-term response guarantee nahi karti. Clinical trends aur changing needs reassess karein.
-- **D. Correct:** Lower body mass aur adaptive responses se expenditure change ho sakta hai. Reassessment se sustainable nutrition plan adjust hota hai.
+- **B. Correct:** Lower body mass aur adaptive responses se expenditure change ho sakta hai. Reassessment se sustainable nutrition plan adjust hota hai.
+- **C. Incorrect:** Organs aur cells rest par bhi energy consume karte hain. Basal needs remain karti hain.
+- **D. Incorrect:** Initial estimate exact long-term response guarantee nahi karti. Clinical trends aur changing needs reassess karein.
 
 </details>
 
@@ -69,17 +69,17 @@
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
 - **A.** The programme has necessarily failed because weight is unchanged
-- **B.** Health benefits can occur even when scale weight changes little
-- **C.** Improved blood pressure is irrelevant unless clothing size changes
+- **B.** Improved blood pressure is irrelevant unless clothing size changes
+- **C.** Health benefits can occur even when scale weight changes little
 - **D.** The patient must immediately adopt a severely restricted diet
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Health benefits can occur even when scale weight changes little**
+**Correct: C. Health benefits can occur even when scale weight changes little**
 
 - **A. Incorrect:** Weight alone health response fully represent nahi karta. Multiple agreed outcomes evaluate karein.
-- **B. Correct:** Fitness, BP, glucose aur quality of life meaningful outcomes hain. Scale weight ko sole success criterion banana improvements miss kar sakta hai.
-- **C. Incorrect:** BP cardiovascular risk se directly related hai. Clothing size uska clinical replacement nahi.
+- **B. Incorrect:** BP cardiovascular risk se directly related hai. Clothing size uska clinical replacement nahi.
+- **C. Correct:** Fitness, BP, glucose aur quality of life meaningful outcomes hain. Scale weight ko sole success criterion banana improvements miss kar sakta hai.
 - **D. Incorrect:** No indication for extreme restriction from this finding alone hai. Current goals and health status reassess karein.
 
 </details>
@@ -88,17 +88,17 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
-- **A.** Pursue weight reduction while eliminating dietary protein
-- **B.** A supervised individualized energy plan with adequate protein and suitable resistance activity
+- **A.** A supervised individualized energy plan with adequate protein and suitable resistance activity
+- **B.** Pursue weight reduction while eliminating dietary protein
 - **C.** Use body weight alone to monitor all tissue changes
 - **D.** Avoid all strengthening activity permanently
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. A supervised individualized energy plan with adequate protein and suitable resistance activity**
+**Correct: A. A supervised individualized energy plan with adequate protein and suitable resistance activity**
 
-- **A. Incorrect:** Protein restriction without indication muscle loss worsen kar sakti hai. Sarcopenia care opposite priority demand karti hai.
-- **B. Correct:** Sarcopenia mein lean tissue preservation important hai. Protein adequacy aur clinically suitable resistance activity muscle function support kar sakte hain.
+- **A. Correct:** Sarcopenia mein lean tissue preservation important hai. Protein adequacy aur clinically suitable resistance activity muscle function support kar sakte hain.
+- **B. Incorrect:** Protein restriction without indication muscle loss worsen kar sakti hai. Sarcopenia care opposite priority demand karti hai.
 - **C. Incorrect:** Body weight fat aur lean mass distinguish nahi karta. Function aur composition-related indicators bhi useful hain.
 - **D. Incorrect:** Suitable resistance activity muscle preservation support kar sakti hai. Safety restrictions individually assess hoti hain.
 
@@ -108,19 +108,19 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
-- **A.** Assess for disordered eating and arrange suitable professional support before escalating restriction
-- **B.** Recommend more severe restriction to compensate for every episode
-- **C.** Treat the report as a moral failure
-- **D.** Ignore the episodes if baseline BMI remains high
+- **A.** Recommend more severe restriction to compensate for every episode
+- **B.** Treat the report as a moral failure
+- **C.** Ignore the episodes if baseline BMI remains high
+- **D.** Assess for disordered eating and arrange suitable professional support before escalating restriction
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Assess for disordered eating and arrange suitable professional support before escalating restriction**
+**Correct: D. Assess for disordered eating and arrange suitable professional support before escalating restriction**
 
-- **A. Correct:** Loss of control aur restrictive cycles further assessment deserve karte hain. Nutrition plan mental and physical health safety ko consider karein.
-- **B. Incorrect:** Compensatory restriction cycle worsen kar sakti hai. Supportive assessment better hai.
-- **C. Incorrect:** Eating symptoms complex factors se influenced hote hain. Blame effective care undermine karti hai.
-- **D. Incorrect:** Disordered eating kisi bhi body size par ho sakti hai. BMI alone concern exclude nahi karta.
+- **A. Incorrect:** Compensatory restriction cycle worsen kar sakti hai. Supportive assessment better hai.
+- **B. Incorrect:** Eating symptoms complex factors se influenced hote hain. Blame effective care undermine karti hai.
+- **C. Incorrect:** Disordered eating kisi bhi body size par ho sakti hai. BMI alone concern exclude nahi karta.
+- **D. Correct:** Loss of control aur restrictive cycles further assessment deserve karte hain. Nutrition plan mental and physical health safety ko consider karein.
 
 </details>
 
@@ -130,17 +130,17 @@
 
 - **A.** Any very-low-energy diet is safe when followed without medical review
 - **B.** All vitamin and mineral requirements disappear during energy restriction
-- **C.** Such restrictive regimens require appropriate specialist assessment, indication, nutritional completeness and monitoring
-- **D.** Stop prescribed medicines independently when starting it
+- **C.** Stop prescribed medicines independently when starting it
+- **D.** Such restrictive regimens require appropriate specialist assessment, indication, nutritional completeness and monitoring
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Such restrictive regimens require appropriate specialist assessment, indication, nutritional completeness and monitoring**
+**Correct: D. Such restrictive regimens require appropriate specialist assessment, indication, nutritional completeness and monitoring**
 
 - **A. Incorrect:** Safety individual health status aur regimen par depend karti hai. Specialist monitoring important hai.
 - **B. Incorrect:** Micronutrient needs remain karti hain. Restricted intake mein nutrient adequacy particularly important hai.
-- **C. Correct:** Very-low-energy plans selected clinical situations mein supervised use ho sakte hain. Unmonitored restriction nutrient deficiency aur medication-related harm cause kar sakti hai.
-- **D. Incorrect:** Medication needs change ho sakti hain, but dose adjustments treating clinician guide karta hai.
+- **C. Incorrect:** Medication needs change ho sakti hain, but dose adjustments treating clinician guide karta hai.
+- **D. Correct:** Very-low-energy plans selected clinical situations mein supervised use ho sakte hain. Unmonitored restriction nutrient deficiency aur medication-related harm cause kar sakti hai.
 
 </details>
 
@@ -168,18 +168,18 @@
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
-- **A.** Plan the portion in advance and eat with attention away from distracting cues when feasible
-- **B.** Purchase a larger serving and leave the container open beside the sofa
-- **C.** Replace all meals with a single television-time snack
+- **A.** Purchase a larger serving and leave the container open beside the sofa
+- **B.** Replace all meals with a single television-time snack
+- **C.** Plan the portion in advance and eat with attention away from distracting cues when feasible
 - **D.** Avoid discussing the setting in which eating occurs
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Plan the portion in advance and eat with attention away from distracting cues when feasible**
+**Correct: C. Plan the portion in advance and eat with attention away from distracting cues when feasible**
 
-- **A. Correct:** Pre-portioned serving aur mindful attention automatic eating cue reduce karne mein help kar sakte hain. Goal is awareness, not punishment.
-- **B. Incorrect:** Large available portion environmental cue reinforce kar sakta hai. Planned portion more targeted hai.
-- **C. Incorrect:** One snack balanced nutrition cover nahi karega. Specific cue intervention entire meal pattern replace nahi karta.
+- **A. Incorrect:** Large available portion environmental cue reinforce kar sakta hai. Planned portion more targeted hai.
+- **B. Incorrect:** One snack balanced nutrition cover nahi karega. Specific cue intervention entire meal pattern replace nahi karta.
+- **C. Correct:** Pre-portioned serving aur mindful attention automatic eating cue reduce karne mein help kar sakte hain. Goal is awareness, not punishment.
 - **D. Incorrect:** Setting behaviour trigger ho sakti hai. Cue identify karne se targeted change possible hota hai.
 
 </details>
@@ -188,18 +188,18 @@
 
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
-- **A.** 2.0
-- **B.** 84
-- **C.** 0.50
+- **A.** 0.50
+- **B.** 2.0
+- **C.** 84
 - **D.** 28
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. 0.50**
+**Correct: A. 0.50**
 
-- **A. Incorrect:** Yeh height divided by waist hai, required ratio ka inverse.
-- **B. Incorrect:** 84 cm waist circumference alone hai, height-adjusted ratio nahi.
-- **C. Correct:** Waist aur height same units mein honi chahiye. 84 divided by 168 equals 0.50. NICE BMI below 35 wale adults mein is additional measure ko use karti hai, clinical context ke saath.
+- **A. Correct:** Waist aur height same units mein honi chahiye. 84 divided by 168 equals 0.50. NICE BMI below 35 wale adults mein is additional measure ko use karti hai, clinical context ke saath.
+- **B. Incorrect:** Yeh height divided by waist hai, required ratio ka inverse.
+- **C. Incorrect:** 84 cm waist circumference alone hai, height-adjusted ratio nahi.
 - **D. Incorrect:** 28 BMI value hai, waist-to-height ratio nahi. Dono measures different information provide karte hain.
 
 </details>
@@ -209,18 +209,18 @@
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
 - **A.** Stop the suspected medicine immediately without considering its indication
-- **B.** Request a medication review with the treating team while continuing individualized nutrition support
-- **C.** Assume the recorded dietary plan must be false
-- **D.** Prescribe more restriction without assessing the medication or clinical status
+- **B.** Assume the recorded dietary plan must be false
+- **C.** Prescribe more restriction without assessing the medication or clinical status
+- **D.** Request a medication review with the treating team while continuing individualized nutrition support
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Request a medication review with the treating team while continuing individualized nutrition support**
+**Correct: D. Request a medication review with the treating team while continuing individualized nutrition support**
 
 - **A. Incorrect:** Abrupt discontinuation underlying illness worsen kar sakti hai. Prescriber-guided review needed hai.
-- **B. Correct:** Some medicines appetite, metabolism ya weight affect kar sakti hain. ADA medication review support karti hai when clinically appropriate. Treatment benefit and alternatives prescriber assess karta hai.
-- **C. Incorrect:** Medication effects and other factors weight change contribute kar sakte hain. Patient report ko automatically reject karna inappropriate hai.
-- **D. Incorrect:** Unnecessary restriction adequacy aur adherence harm kar sakti hai. Underlying contributing factors review karein.
+- **B. Incorrect:** Medication effects and other factors weight change contribute kar sakte hain. Patient report ko automatically reject karna inappropriate hai.
+- **C. Incorrect:** Unnecessary restriction adequacy aur adherence harm kar sakti hai. Underlying contributing factors review karein.
+- **D. Correct:** Some medicines appetite, metabolism ya weight affect kar sakti hain. ADA medication review support karti hai when clinically appropriate. Treatment benefit and alternatives prescriber assess karta hai.
 
 </details>
 
@@ -250,17 +250,17 @@
 
 - **A.** Require three very large meals regardless of tolerance
 - **B.** Eliminate all snacks even when meals remain incomplete
-- **C.** Replace every meal with a low-energy beverage
-- **D.** Offer smaller, more frequent nutritionally appropriate meals and snacks
+- **C.** Offer smaller, more frequent nutritionally appropriate meals and snacks
+- **D.** Replace every meal with a low-energy beverage
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Offer smaller, more frequent nutritionally appropriate meals and snacks**
+**Correct: C. Offer smaller, more frequent nutritionally appropriate meals and snacks**
 
 - **A. Incorrect:** Large volume fullness increase kar sakta hai. Intake tolerance respect karein.
 - **B. Incorrect:** Snacks additional nutrition opportunity provide karte hain. Automatic exclusion goal ke opposite hai.
-- **C. Incorrect:** Low-energy beverages underweight recovery needs fulfill nahi karengi. Individual nutrient adequacy essential hai.
-- **D. Correct:** Early satiety large meals limit kar sakti hai. Smaller frequent opportunities total intake improve karne mein useful ho sakti hain.
+- **C. Correct:** Early satiety large meals limit kar sakti hai. Smaller frequent opportunities total intake improve karne mein useful ho sakti hain.
+- **D. Incorrect:** Low-energy beverages underweight recovery needs fulfill nahi karengi. Individual nutrient adequacy essential hai.
 
 </details>
 
@@ -270,17 +270,17 @@
 
 - **A.** Assume the weight loss is always due to deliberate dieting
 - **B.** Delay review until the person becomes severely underweight
-- **C.** Advise unregulated weight-gain supplements before evaluating symptoms
-- **D.** Arrange medical and nutritional assessment for the underlying cause
+- **C.** Arrange medical and nutritional assessment for the underlying cause
+- **D.** Advise unregulated weight-gain supplements before evaluating symptoms
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Arrange medical and nutritional assessment for the underlying cause**
+**Correct: C. Arrange medical and nutritional assessment for the underlying cause**
 
 - **A. Incorrect:** Reported intake aur unexplained loss ko investigate karna chahiye. Assumption diagnosis nahi hai.
 - **B. Incorrect:** Early evaluation potentially important cause identify kar sakti hai. Severe deterioration ka wait unsafe ho sakta hai.
-- **C. Incorrect:** Supplement underlying cause address nahi karta aur interactions possible hain. Assessment first important hai.
-- **D. Correct:** Unexplained loss malabsorption, endocrine disease, malignancy ya other causes indicate kar sakta hai. Sirf more calories recommend karna underlying condition miss kar sakta hai.
+- **C. Correct:** Unexplained loss malabsorption, endocrine disease, malignancy ya other causes indicate kar sakta hai. Sirf more calories recommend karna underlying condition miss kar sakta hai.
+- **D. Incorrect:** Supplement underlying cause address nahi karta aur interactions possible hain. Assessment first important hai.
 
 </details>
 
@@ -288,17 +288,17 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
-- **A.** Arrange prompt clinical assessment of dehydration, nutrition tolerance and the medication plan
-- **B.** Assume persistent vomiting is an acceptable sign of successful weight loss
+- **A.** Assume persistent vomiting is an acceptable sign of successful weight loss
+- **B.** Arrange prompt clinical assessment of dehydration, nutrition tolerance and the medication plan
 - **C.** Advise independently doubling the medication dose
 - **D.** Withhold all fluids until weight stabilizes
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Arrange prompt clinical assessment of dehydration, nutrition tolerance and the medication plan**
+**Correct: B. Arrange prompt clinical assessment of dehydration, nutrition tolerance and the medication plan**
 
-- **A. Correct:** Persistent vomiting fluid and electrolyte disturbance cause kar sakti hai. Clinical team treatment and safe nutrition plan review karegi.
-- **B. Incorrect:** Vomiting clinical harm indicate kar sakti hai. Weight reduction benefit ke liye symptoms ignore nahi karte.
+- **A. Incorrect:** Vomiting clinical harm indicate kar sakti hai. Weight reduction benefit ke liye symptoms ignore nahi karte.
+- **B. Correct:** Persistent vomiting fluid and electrolyte disturbance cause kar sakti hai. Clinical team treatment and safe nutrition plan review karegi.
 - **C. Incorrect:** Dose escalation vomiting and dehydration worsen kar sakti hai. Prescriber review essential hai.
 - **D. Incorrect:** Fluid deprivation dehydration risk increase karti hai. Urgent assessment and appropriate hydration needed hai.
 
@@ -309,18 +309,18 @@
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
 - **A.** End all nutrition follow-up immediately once the target is reached
-- **B.** Continue individualized eating, activity and follow-up strategies that are feasible over time
-- **C.** Repeat the most restrictive phase indefinitely regardless of nutritional status
-- **D.** Use only clothing size to guide all future medical decisions
+- **B.** Repeat the most restrictive phase indefinitely regardless of nutritional status
+- **C.** Use only clothing size to guide all future medical decisions
+- **D.** Continue individualized eating, activity and follow-up strategies that are feasible over time
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Continue individualized eating, activity and follow-up strategies that are feasible over time**
+**Correct: D. Continue individualized eating, activity and follow-up strategies that are feasible over time**
 
 - **A. Incorrect:** Relapse or nutritional gaps possible hain. Follow-up preferences and clinical risk se guide hota hai.
-- **B. Correct:** Weight maintenance ongoing behaviour and support require kar sakti hai. Restrictive short-term plan ko sustainable long-term pattern mein adapt karein.
-- **C. Incorrect:** Long-term restriction adequacy aur feasibility compromise kar sakti hai. Maintenance needs different hoti hain.
-- **D. Incorrect:** Clothing size health assessment replace nahi karti. Clinical markers and patient goals bhi important hain.
+- **B. Incorrect:** Long-term restriction adequacy aur feasibility compromise kar sakti hai. Maintenance needs different hoti hain.
+- **C. Incorrect:** Clothing size health assessment replace nahi karti. Clinical markers and patient goals bhi important hain.
+- **D. Correct:** Weight maintenance ongoing behaviour and support require kar sakti hai. Restrictive short-term plan ko sustainable long-term pattern mein adapt karein.
 
 </details>
 
@@ -328,17 +328,17 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
-- **A.** Use the same fixed adult energy deficit regardless of age
-- **B.** Assess growth trajectory and use age-appropriate family-centred care without copying adult energy restrictions
+- **A.** Assess growth trajectory and use age-appropriate family-centred care without copying adult energy restrictions
+- **B.** Use the same fixed adult energy deficit regardless of age
 - **C.** Focus exclusively on rapid scale weight reduction
 - **D.** Separate the child from all family meals as standard treatment
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Assess growth trajectory and use age-appropriate family-centred care without copying adult energy restrictions**
+**Correct: A. Assess growth trajectory and use age-appropriate family-centred care without copying adult energy restrictions**
 
-- **A. Incorrect:** Adult restriction growing child ke needs ignore kar sakti hai. Paediatric assessment required hai.
-- **B. Correct:** Children growing tissues develop kar rahe hote hain. Age, growth, family environment aur specialist guidance consider karna important hai.
+- **A. Correct:** Children growing tissues develop kar rahe hote hain. Age, growth, family environment aur specialist guidance consider karna important hai.
+- **B. Incorrect:** Adult restriction growing child ke needs ignore kar sakti hai. Paediatric assessment required hai.
 - **C. Incorrect:** Growth, development and long-term health key outcomes hain. Rapid change universal target nahi.
 - **D. Incorrect:** Family support healthy routines facilitate kar sakti hai. Social isolation appropriate standard nahi.
 
@@ -348,18 +348,18 @@
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
-- **A.** The number of nutrition handouts stored at home
-- **B.** One waist measurement taken before counselling
-- **C.** Number of workdays on which the agreed lunch was actually prepared and eaten
+- **A.** Number of workdays on which the agreed lunch was actually prepared and eaten
+- **B.** The number of nutrition handouts stored at home
+- **C.** One waist measurement taken before counselling
 - **D.** The patient's knowledge of every vitamin's chemical name
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Number of workdays on which the agreed lunch was actually prepared and eaten**
+**Correct: A. Number of workdays on which the agreed lunch was actually prepared and eaten**
 
-- **A. Incorrect:** Handouts possession target behaviour establish nahi karti.
-- **B. Incorrect:** Baseline measure clinical context provide kar sakti hai but weekly lunch preparation track nahi karti.
-- **C. Correct:** Process goal specific behaviour hai. Days achieved record karne se feasible progress aur barriers review ho sakte hain.
+- **A. Correct:** Process goal specific behaviour hai. Days achieved record karne se feasible progress aur barriers review ho sakte hain.
+- **B. Incorrect:** Handouts possession target behaviour establish nahi karti.
+- **C. Incorrect:** Baseline measure clinical context provide kar sakti hai but weekly lunch preparation track nahi karti.
 - **D. Incorrect:** Vitamin knowledge agreed meal-preparation goal se directly related nahi hai.
 
 </details>
@@ -368,17 +368,17 @@
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
-- **A.** Continue long-term nutrition monitoring and prescribed supplementation under the shared-care plan
-- **B.** Stop all vitamin and mineral monitoring once body weight is stable
+- **A.** Stop all vitamin and mineral monitoring once body weight is stable
+- **B.** Continue long-term nutrition monitoring and prescribed supplementation under the shared-care plan
 - **C.** Use only daily weight readings to detect every postoperative nutrient deficiency
 - **D.** Take a single large supplement dose each year instead of the prescribed regimen
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Continue long-term nutrition monitoring and prescribed supplementation under the shared-care plan**
+**Correct: B. Continue long-term nutrition monitoring and prescribed supplementation under the shared-care plan**
 
-- **A. Correct:** Surgical changes nutrient intake aur absorption affect kar sakte hain beyond weight stabilization. NICE annual nutritional monitoring after specialist discharge recommend karti hai, with individualized supplementation.
-- **B. Incorrect:** Stable weight micronutrient adequacy prove nahi karta. Deficiency risk persist ho sakta hai.
+- **A. Incorrect:** Stable weight micronutrient adequacy prove nahi karta. Deficiency risk persist ho sakta hai.
+- **B. Correct:** Surgical changes nutrient intake aur absorption affect kar sakte hain beyond weight stabilization. NICE annual nutritional monitoring after specialist discharge recommend karti hai, with individualized supplementation.
 - **C. Incorrect:** Micronutrient deficiencies specific history, examination aur labs se assess hoti hain. Weight alone sufficient nahi.
 - **D. Incorrect:** One arbitrary dose ongoing requirements cover karne ka reliable method nahi. Specific supplements and timing clinical plan guide karta hai.
 
@@ -389,18 +389,18 @@
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Weight management therapeutic nutrition | **Type:** Original practice
 
 - **A.** Only the largest weight reduction recorded in any participant
-- **B.** Only the number of restrictive menus distributed
-- **C.** Only whether all participants followed an identical diet
-- **D.** Patient-defined goals, dietary adequacy, functional or metabolic outcomes and clinically appropriate weight trends
+- **B.** Patient-defined goals, dietary adequacy, functional or metabolic outcomes and clinically appropriate weight trends
+- **C.** Only the number of restrictive menus distributed
+- **D.** Only whether all participants followed an identical diet
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Patient-defined goals, dietary adequacy, functional or metabolic outcomes and clinically appropriate weight trends**
+**Correct: B. Patient-defined goals, dietary adequacy, functional or metabolic outcomes and clinically appropriate weight trends**
 
 - **A. Incorrect:** Single extreme result service effectiveness ya harm assess nahi karta. Representative outcomes needed hain.
-- **B. Incorrect:** Menu distribution process measure hai, health outcome nahi.
-- **C. Incorrect:** Individualized care intentionally different plans use kar sakti hai. Adequacy and meaningful outcomes more relevant hain.
-- **D. Correct:** Multiple outcomes intervention benefits aur safety both assess karte hain. Weight trends ko context mein interpret karein.
+- **B. Correct:** Multiple outcomes intervention benefits aur safety both assess karte hain. Weight trends ko context mein interpret karein.
+- **C. Incorrect:** Menu distribution process measure hai, health outcome nahi.
+- **D. Incorrect:** Individualized care intentionally different plans use kar sakti hai. Adequacy and meaningful outcomes more relevant hain.
 
 </details>
 
