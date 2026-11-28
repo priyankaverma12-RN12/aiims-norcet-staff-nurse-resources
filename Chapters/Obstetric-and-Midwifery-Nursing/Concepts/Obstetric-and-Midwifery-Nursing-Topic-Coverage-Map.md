@@ -19,7 +19,9 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
 - Amniotic fluid: [20 original MCQs](../MCQs/05C-Amniotic-Fluid-20-MCQs.md) · [Concepts](05C-Amniotic-Fluid.md) · [Reported evidence](../Previous-Year-Questions/05C-Amniotic-Fluid-Reported-Evidence.md). Published; independent review pending.
 - Umbilical cord: [20 original MCQs](../MCQs/05D-Umbilical-Cord-20-MCQs.md) · [Concepts](05D-Umbilical-Cord.md) · [Reported evidence](../Previous-Year-Questions/05D-Umbilical-Cord-Reported-Evidence.md). Published; independent review pending.
 - Six-topic batch allocation: 120 new original questions, 20 per topic. Next: fetal assessment, then subsequent chapters in existing order. No mock completion or learning attempt recorded.
-- fetal assessment
+- Fetal assessment
+  - [Fetal movement assessment concepts](06A-Fetal-Movements-and-Reduced-Movements.md) · [20 original MCQs](../MCQs/06A-Fetal-Movements-and-Reduced-Movements-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06A-Fetal-Movements-Reported-Evidence.md). Published, independent review pending.
+  - Fetal heart rate, NST, CST, CTG, biophysical profile, ultrasound and Doppler: individual topic packages pending.
 - normal pregnancy and labor
 - partograph and delivery
 - hypertensive disorders
