@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: FREE
-Owner: none
-Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: continuation-pr60-b08-20261128T121552Z
+Scope: PR60 isolated benign focal liver lesions and pancreatic exocrine insufficiency new banks only. No shared navigation or previous content edits.
+Claimed UTC: 2026-11-28T12:15:52Z
+Expiry UTC: 2026-11-28T12:45:52Z
 
 ## Released checkpoint — 28 November 2026
 
