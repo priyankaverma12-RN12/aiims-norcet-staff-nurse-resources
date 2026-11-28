@@ -1,10 +1,10 @@
 # Independent vulvar and Bartholin topic claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: gyne-v15-v11-correction-20261128
+Scope: Vulvar MCQ file Q11 and Q15 only, own claim and audit addendum. No shared README.
+Claimed UTC: 2026-11-28T08:00:00Z
+Expiry UTC: 2026-11-28T09:00:00Z
 
 Baseline: 504 indexed original slots, 20 preserved overlapping AUB raw slots excluded. No mocks until topic banks complete.
 
