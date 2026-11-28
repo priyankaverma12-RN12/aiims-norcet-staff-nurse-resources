@@ -39,7 +39,7 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - Maternal-fetal intrapartum assessment: [Concepts](07H-Maternal-Fetal-Intrapartum-Assessment.md) · [20 originals](../MCQs/07H-Maternal-Fetal-Intrapartum-Assessment-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07H-Maternal-Fetal-Intrapartum-Assessment-Evidence.md). Published, independent review pending.
   - Traditional and modified partograph: [Concepts](07I-Partograph.md) · [20 originals](../MCQs/07I-Partograph-20-MCQs.md) · [Reported adaptation and evidence](../Previous-Year-Questions/07I-Partograph-Evidence.md). Published, independent review pending.
   - WHO Labour Care Guide: [Concepts](07J-WHO-Labour-Care-Guide.md) · [20 originals](../MCQs/07J-WHO-Labour-Care-Guide-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07J-WHO-Labour-Care-Guide-Evidence.md). Published, independent review pending.
-  - Nursing management: pending.
+  - Nursing management: [Concepts](07K-Nursing-Management-in-Normal-Labour.md) · [20 originals](../MCQs/07K-Nursing-Management-in-Normal-Labour-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07K-Nursing-Management-in-Normal-Labour-Evidence.md). Published, independent review pending.
 - partograph and delivery
 - hypertensive disorders
 - antepartum hemorrhage

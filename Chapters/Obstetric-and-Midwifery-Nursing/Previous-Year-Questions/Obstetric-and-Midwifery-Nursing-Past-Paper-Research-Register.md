@@ -135,3 +135,8 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## WHO Labour Care Guide — 28 November 2026
 
 [LCG research gaps](07J-WHO-Labour-Care-Guide-Evidence.md). WHO official form visually inspected, manual and implementation text checked. HPRCA post 25026 key portal returned 403, no matched LCG item or official key. RRB traditional partograph leads remain allocated to 07I. Twenty candidate-linked original video gaps, zero specific verified mappings or playback. Historical adaptation count unchanged at 27 in Obstetrics.
+
+
+## Nursing management in normal labour — 28 November 2026
+
+[07K evidence and gaps](07K-Nursing-Management-in-Normal-Labour-Evidence.md). WHO direct text reviewed, NICE and NHM indexed. HPRCA retained placental fragment lead and DSSSB AMTSL lead not recounted. Zero new historical adaptations. Twenty broad candidate links and twenty specific video gaps. Obstetrics historical adaptation count remains 27.
