@@ -1,10 +1,10 @@
 # Child Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: child-health-b04-20261128-0830Z
+Scope: PR45 01C sequential corrective audit and candidate-local inventory; no shared navigation or other owners
+Claimed UTC: 2026-11-28T08:30:45Z
+Expiry UTC: 2026-11-28T09:00:45Z
 
 ## Verified checkpoint — Batch 03 priority continuation
 
