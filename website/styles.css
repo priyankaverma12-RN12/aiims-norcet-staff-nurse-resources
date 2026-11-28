@@ -99,3 +99,8 @@ html[data-theme=dark]{color-scheme:dark;--bg:#101e23;--paper:#192b31;--ink:#eaf4
 @media(prefers-reduced-motion:no-preference){.completion-meter::-webkit-progress-value{transition:width .2s ease-out}.completion-resource{transition:background-color .18s,border-color .18s}}
 
 .completion-control input:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.completion-chapter-actions .completion-reset{color:var(--muted)}
+
+/* V9.1 — persistent bank coverage, separate from current session score. */
+.quiz-bank-progress{margin:.7rem 0 1rem;padding:.8rem .95rem;border:1px solid var(--line);border-radius:12px;background:var(--bg);display:grid;gap:.35rem}
+.quiz-bank-progress-line{display:flex;justify-content:space-between;align-items:center;gap:.6rem;font-size:.89rem}.quiz-bank-progress-line strong:last-child{color:var(--accent);font-variant-numeric:tabular-nums;font-size:1.12rem}.quiz-bank-progress small{font-size:.74rem;color:var(--muted)}.quiz-bank-progress>a{font-size:.78rem;font-weight:650;width:fit-content;min-height:32px;align-content:center}.quiz-bank-progress.is-completed{background:var(--accent-bg);border-color:var(--accent)}.quiz-bank-progress.is-completed .quiz-bank-progress-line{color:var(--good)}
+@media(max-width:600px){.quiz-bank-progress{padding:.65rem .75rem;margin:.55rem 0 .8rem}.quiz-bank-progress>a{min-height:44px}}
