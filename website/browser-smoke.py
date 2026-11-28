@@ -15,7 +15,9 @@ sample = "Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-P
 
 def ready(page):
     expect(page.locator("#status")).to_have_text(__import__("re").compile(r"^Live source"), timeout=30000)
-    expect(page.locator("#content h1").first).to_be_visible(timeout=10000)
+    expect(page.locator("#reader-title")).to_be_visible(timeout=10000)
+    if page.viewport_size["width"]>600:
+        expect(page.locator("#content h1").first).to_be_visible(timeout=10000)
 
 def no_overflow(page):
     assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth + 2"), "Horizontal overflow"
@@ -45,7 +47,8 @@ def verify_chapter_folders(page):
         summary.click()
         expect(group).not_to_have_attribute("open","")
         no_overflow(page)
-    for selector in ("#original-index > summary",".outline-card > summary"):
+    outline_control="#reader-panel-toggle-1" if page.viewport_size["width"]<=600 else ".outline-card > summary"
+    for selector in ("#original-index > summary",outline_control):
         assert page.locator(selector).bounding_box()["height"]>=44, f"{selector} below 44px"
     expect(page.locator(".index-resource-group[open]")).to_have_count(0)
 
@@ -535,27 +538,64 @@ try:
             mobile.goto(base + "?" + urlencode({"doc": sample}))
             ready(mobile)
             no_overflow(mobile)
-            expect(mobile.locator("#breadcrumbs [aria-current=page]")).to_be_visible()
             expect(mobile.locator("#sections [aria-current=page]")).to_contain_text("MCQs")
             if width<=600:
-                expect(mobile.locator(".outline-card")).not_to_have_attribute("open","")
-                mobile.locator(".outline-card summary").tap()
-                expect(mobile.locator(".outline-card")).to_have_attribute("open","")
-                mobile.locator(".outline-card summary").tap()
-            for panel_id,inside in (("#reader-sections-panel","#sections"),("#reading-tools-panel","#toggle")):
-                panel=mobile.locator(panel_id)
-                summary=panel.locator(":scope > summary")
-                assert summary.bounding_box()["height"]>=44
-                expect(mobile.locator(inside)).to_be_visible()
-                summary.tap()
-                expect(mobile.locator(inside)).to_be_hidden()
-                expect(mobile.locator(".quiz-panel")).to_be_visible()
-                summary.tap()
-                expect(mobile.locator(inside)).to_be_visible()
+                panels=("#reader-sections-panel","#reader-outline-panel","#reading-tools-panel")
+                for i,panel_id in enumerate(panels):
+                    icon=mobile.locator(f"#reader-panel-toggle-{i}")
+                    panel=mobile.locator(panel_id)
+                    expect(icon).to_have_attribute("aria-expanded","false")
+                    expect(panel).to_be_hidden()
+                    assert icon.bounding_box()["height"]>=44
+                    icon.tap()
+                    expect(icon).to_have_attribute("aria-expanded","true")
+                    expect(panel).to_be_visible()
+                    if i==0:
+                        expect(mobile.locator("#breadcrumbs [aria-current=page]")).to_be_visible()
+                        assert mobile.locator("#sections a").first.bounding_box()["height"]>=44
+                    if i==2:
+                        expect(mobile.locator("#toggle")).to_be_visible()
+                        assert mobile.locator("#toggle").bounding_box()["height"]>=43
+                        mobile.locator("#reading-size").select_option("large")
+                        expect(mobile.locator("body")).to_have_attribute("data-reading-size","large")
+                        mobile.locator("#reading-size").select_option("normal")
+                    no_overflow(mobile)
+                    icon.tap()
+                    expect(panel).to_be_hidden()
+                mobile.locator("#focus-study").tap()
+                expect(mobile.locator("#focus-study")).to_have_attribute("aria-pressed","true")
+                expect(mobile.locator("#reader-panel-toggle-0")).to_be_hidden()
+                mobile.locator("#focus-study").tap()
+                expect(mobile.locator("#focus-study")).to_have_attribute("aria-pressed","false")
+                mobile.reload()
+                ready(mobile)
+                for panel_id in panels:
+                    expect(mobile.locator(panel_id)).to_be_hidden()
+                expect(mobile.locator(".practice-intro")).to_be_hidden()
+                expect(mobile.locator(".mobile-bank-context")).not_to_have_attribute("open","")
+                first_question=mobile.locator(".mobile-bank-context + h3")
+                expect(first_question).to_be_visible()
+                assert first_question.bounding_box()["y"]<height, "First MCQ must start in the initial viewport"
+                mobile.locator(".mobile-bank-context > summary").tap()
+                expect(mobile.locator(".mobile-bank-context h1")).to_be_visible()
+                mobile.locator(".mobile-bank-context > summary").tap()
+                mobile.locator("#reader-panel-toggle-1").tap()
+                mobile.keyboard.press("Escape")
+                expect(mobile.locator("#reader-outline-panel")).to_be_hidden()
                 no_overflow(mobile)
-            print(f"V12 independent reader panels passed at {width}x{height}.",flush=True)
-            expect(mobile.locator("#toggle")).to_be_visible()
-            assert mobile.locator("#toggle").bounding_box()["height"] >= 43
+            else:
+                expect(mobile.locator("#breadcrumbs [aria-current=page]")).to_be_visible()
+                for panel_id,inside in (("#reader-sections-panel","#sections"),("#reading-tools-panel","#toggle")):
+                    panel=mobile.locator(panel_id)
+                    summary=panel.locator(":scope > summary")
+                    assert summary.bounding_box()["height"]>=44
+                    expect(mobile.locator(inside)).to_be_visible()
+                    summary.tap()
+                    expect(mobile.locator(inside)).to_be_hidden()
+                    summary.tap()
+                    expect(mobile.locator(inside)).to_be_visible()
+                expect(mobile.locator(".practice-intro")).to_be_visible()
+            print(f"V12.3 reader controls and compact practice passed at {width}x{height}.",flush=True)
             mobile.clock.install()
             mobile.locator(".quiz-config input[type=number]").fill("1")
             mobile.get_by_role("button", name="Start timed practice").tap()
@@ -682,9 +722,12 @@ try:
                 small_chart.scroll_into_view_if_needed()
                 expect(small_chart).to_have_attribute("data-diagram-state", "ready", timeout=90000)
                 no_overflow(mobile)
-                assert mobile.locator(".reading-location").evaluate("(e) => getComputedStyle(e).position === 'sticky'")
+                expect(mobile.locator(".reading-location")).to_be_hidden()
                 assert mobile.locator(".topbar").evaluate("e=>getComputedStyle(e).position")== "sticky"
-                assert mobile.locator(".reading-location").evaluate("e=>parseFloat(getComputedStyle(e).top)>=document.querySelector('.topbar').getBoundingClientRect().height-1")
+                mobile.locator("#reader-panel-toggle-0").tap()
+                expect(mobile.locator(".reading-location")).to_be_visible()
+                assert mobile.locator(".reading-location").evaluate("e=>getComputedStyle(e).position==='static'")
+                mobile.locator("#reader-panel-toggle-0").tap()
 
             mobile.goto(base+"?"+urlencode({"doc":"Chapters/Nursing-Foundations/README.md"}))
             ready(mobile)
