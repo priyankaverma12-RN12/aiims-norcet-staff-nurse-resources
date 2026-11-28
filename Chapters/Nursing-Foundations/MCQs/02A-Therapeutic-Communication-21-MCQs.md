@@ -439,17 +439,16 @@ Cognitive load ka matlab hai ki ek time par information samajhne aur process kar
 
 **Correct answer: D. Ask the patient to explain the next agreed action in their own words**
 
-<!-- job5-rationale -->
-Yes bolna ya nod karna understanding ka reliable proof nahi hai. Patient politeness, embarrassment ya language barrier ki wajah se agree kar sakta hai. Teach-back mein nurse patient ko next action apne words mein explain karne ko kehti hai. Agar gap ho toh explanation simplify karke dobara check kare. Yeh patient ki examination nahi, teaching effectiveness ka check hai.
+Maan lo nurse patient se poochti hai ki kya sab samajh aa gaya aur patient haan bol deta hai, lekin uske face se lagta hai ki woh abhi confused hai. Ho sakta hai patient sharm ki wajah se, language barrier ki wajah se ya sirf polite rehne ke liye haan keh raha ho. Teach-back mein nurse patient se kehti hai ki woh next agreed action apne words mein samjhaye. Agar koi baat clear nahi hai, toh nurse apni teaching ko aur simple banati hai aur dobara understanding check karti hai. Iska purpose patient ki intelligence test karna nahi hai, balki ye dekhna hai ki nurse ki explanation kitni clear thi.
 
 **Option-by-option reasoning**
 
-- **A:** A louder yes/no question same limitation rakhta hai.
-- **B:** B second nurse ka same question actual comprehension verify nahi karta.
-- **C:** C nod ko understanding ka proof maan kar inaccurate record bana sakta hai.
-- **D:** D patient ki own explanation se understanding assess karta hai.
+- **A:** Same yes-no question zyada zor se poochne par bhi patient haan bol sakta hai. Isse actual understanding ka reliable evidence nahi milta.
+- **B:** Doosri nurse agar wahi question repeat karegi, toh communication check ki limitation waise hi rahegi. Patient ko apne words mein samjhane ka mauka dena chahiye.
+- **C:** Patient ka nod karna understanding ka proof nahi hai. Bina verify kiye understanding document karna inaccurate ho sakta hai.
+- **D:** Patient jab agreed next action apne words mein explain karta hai, toh nurse identify kar sakti hai ki information sahi samjhi gayi ya aur teaching chahiye. Isliye D sahi hai.
 
-**Exam clue:** Teach-back tests explanation quality, not patient intelligence.
+**Exam clue:** Teach-back se nurse apni explanation ki effectiveness check karti hai. Patient ko exam dene jaisa feel nahi karwana chahiye.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -477,17 +476,16 @@ Yes bolna ya nod karna understanding ka reliable proof nahi hai. Patient politen
 
 **Correct answer: B. It can obtain a specific safety-relevant fact quickly when broader exploration would delay care**
 
-<!-- job5-rationale -->
-Closed-ended question specific information quickly obtain kar sakta hai. Time-critical assessment mein allergy, onset ya breathing difficulty jaise immediate safety facts short targeted questions se mil sakte hain. Clinical situation stabilize hone par broader open-ended assessment continue karo. Urgent support ko interview complete hone tak delay mat karo.
+Closed-ended question ka matlab hai aisa question jiska answer limited aur specific ho sakta hai, jaise haan, nahi ya ek particular fact. Emergency ya time-critical assessment mein nurse ko kuch safety-related information jaldi chahiye ho sakti hai. Jaise medicine allergy hai ya nahi, symptom kab shuru hua ya abhi breathing difficulty ho rahi hai ya nahi. Short targeted questions se relevant information jaldi mil sakti hai. Jab patient stable ho jaaye, toh nurse zaroorat ke hisaab se broader open-ended assessment continue karti hai. Urgent care ko poora interview khatam hone tak delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A follow-up assessment ki need automatically remove nahi hoti.
-- **B:** B rapid specific safety information obtain karta hai.
-- **C:** C all interviews closed questions se karne par broader concerns miss ho sakte hain.
-- **D:** D one specific answer complex plan comprehension prove nahi karta.
+- **A:** Ek specific answer milne se saari assessment complete nahi ho jaati. Patient ki condition ke hisaab se follow-up questions aur examination ki zaroorat reh sakti hai.
+- **B:** Time-critical situation mein focused closed-ended question specific safety information jaldi de sakta hai. Isse unnecessary delay se bacha ja sakta hai, isliye B sahi hai.
+- **C:** Har question closed-ended rakhne se patient ko apni broader concerns batane ka mauka kam mil sakta hai. Open-ended questions bhi appropriate situations mein important hain.
+- **D:** Ek short answer se ye establish nahi hota ki patient ne complex treatment plan samajh liya hai. Uske liye suitable understanding check chahiye.
 
-**Exam clue:** Open questions explore, closed questions pinpoint.
+**Exam clue:** Open-ended questions se concerns detail mein samajhte hain. Closed-ended questions se particular facts jaldi clarify kar sakte hain.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK590036/)
 <!-- /job5-rationale -->
@@ -517,17 +515,16 @@ Closed-ended question specific information quickly obtain kar sakta hai. Time-cr
 
 **Correct answer: A. Ask about the patient's preferences and avoid interpreting eye contact alone as dishonesty**
 
-<!-- job5-rationale -->
-Eye contact ka meaning culture, personal comfort, disability aur situation ke according vary kar sakta hai. Brief eye contact ko dishonesty ya noncooperation ka standalone sign mat samjho. Respectful nurse patient ki preference poochti hai, appropriate communication style adapt karti hai aur actual message verify karti hai.
+Eye contact ka meaning har person aur culture mein same nahi hota. Kuch log respect, personal comfort, disability ya situation ki wajah se kam eye contact rakh sakte hain. Isliye nurse ko sirf patient ke nazar neeche karne se ye conclusion nahi nikalna chahiye ki woh dishonest hai ya cooperate nahi kar raha hai. Nurse patient ki preference poochti hai, communication style accordingly adjust karti hai aur actual message ko verify karti hai. Isse cultural sensitivity aur patient dignity dono maintain hoti hain.
 
 **Option-by-option reasoning**
 
-- **A:** A preference aur cultural variation respect karta hai.
-- **B:** B one cultural norm impose karta hai.
-- **C:** C brief eye contact se unsupported judgment document karta hai.
-- **D:** D necessary care communication stop karta hai.
+- **A:** Patient ki preference poochne aur eye contact ko context mein samajhne se nurse cultural aur individual differences respect karti hai. Isliye A sahi hai.
+- **B:** Sustained eye contact ko cooperation ki compulsory condition banana nurse ke apne cultural expectations impose karta hai. Har patient ke liye ye suitable nahi hoga.
+- **C:** Brief eye contact ko refusal to cooperate likhna unsupported judgment hai. Nurse ko actual observed behavior aur relevant context record karna chahiye.
+- **D:** Conversation avoid karne se patient ki needs aur concerns samajhna mushkil ho jaayega. Respectful communication ko adapt karna chahiye, stop nahi karna chahiye.
 
-**Exam clue:** Interpret nonverbal cues in context, never in isolation.
+**Exam clue:** Nonverbal cues ko patient ke culture, comfort aur clinical situation ke saath samjho. Ek cue se unsupported judgment mat banao.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK590036/)
 <!-- /job5-rationale -->
@@ -557,17 +554,16 @@ Eye contact ka meaning culture, personal comfort, disability aur situation ke ac
 
 **Correct answer: D. Explain the professional boundary and offer appropriate support resources**
 
-<!-- job5-rationale -->
-Therapeutic nurse-patient relationship patient goals aur professional responsibilities par based hota hai, personal friendship par nahi. Social meeting ya private access dependency, privacy aur conflict-of-interest concerns create kar sakte hain. Nurse respectfully boundary explain kare aur follow-up clinic, helpline ya other approved support resources offer kare. Specific boundary policy follow karo.
+Therapeutic nurse-patient relationship ka purpose patient ki care aur agreed goals ko support karna hai. Ye personal friendship se alag professional relationship hai. Maan lo patient hospital ke bahar socially milna chahta hai, taaki nurse se contact bana rahe. Nurse respectfully samjhati hai ki professional boundaries kyun zaroori hain. Private social contact ya informal medical advice se dependency, privacy aur conflict-of-interest concerns ho sakte hain. Patient ko support ki zaroorat ho toh nurse approved follow-up clinic, helpline ya doosre appropriate resources ke baare mein batati hai. Facility ki boundary policy follow karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A personal relationship professional role blur kar sakti hai.
-- **B:** B abrupt unexplained withdrawal patient ko distress kar sakta hai.
-- **C:** C personal contact sharing unauthorized care pathway create kar sakti hai.
-- **D:** D clear boundary ke saath appropriate support maintain karta hai.
+- **A:** Social meeting accept karne se professional aur personal relationship ke beech ki boundary unclear ho sakti hai. Genuine care dikhane ke liye private friendship zaroori nahi hai.
+- **B:** Bina explanation communication band karne se patient confused ya rejected feel kar sakta hai. Boundary ko respectfully samjhana aur appropriate support offer karna better hai.
+- **C:** Personal contact ko treatment advice ka channel banane se unauthorized care, privacy aur accountability concerns ho sakte hain. Approved clinical communication channels use karne chahiye.
+- **D:** Professional boundary clearly explain karne aur appropriate support resources offer karne se patient ki ongoing needs bhi address hoti hain. Isliye D sahi hai.
 
-**Exam clue:** Boundaries protect both patient and therapeutic relationship.
+**Exam clue:** Professional boundaries patient aur nurse dono ko protect karti hain. Boundary maintain karte hue appropriate care support continue rakho.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK590036/)
 <!-- /job5-rationale -->
@@ -597,17 +593,16 @@ Therapeutic nurse-patient relationship patient goals aur professional responsibi
 
 **Correct answer: C. Role, purpose, expectations and relevant confidentiality limits**
 
-<!-- job5-rationale -->
-Orientation phase first therapeutic encounter mein trust aur working agreement establish karne ka stage hai. Nurse role introduce kare, interaction ka purpose aur expected plan discuss kare, patient ki concerns identify kare aur confidentiality ke relevant limits explain kare. Goals jointly develop ho sakte hain. Personal friendship ya absolute secrecy promise professional relationship ka part nahi hai.
+Orientation phase therapeutic relationship ka shuru ka stage hai. Jab nurse patient se pehli baar milti hai, toh apna role introduce karti hai aur samjhati hai ki interaction ka purpose kya hai. Woh patient ki concerns sunti hai, expected care aur communication ke baare mein baat karti hai aur confidentiality ki relevant limits explain karti hai. Isse patient ko pata chalta hai ki nurse se kis tarah ki help mil sakti hai. Trust develop karna aur milkar goals decide karna is phase ka important part hai. Professional relationship mein personal friendship ya har situation mein absolute secrecy ki guarantee nahi di jaati.
 
 **Option-by-option reasoning**
 
-- **A:** A social friendship professional orientation ka goal nahi hai.
-- **B:** B lawful safety/reporting exceptions ko ignore karta hai.
-- **C:** C role, purpose aur expectations establish karta hai.
-- **D:** D final outcome evaluation termination se zyada related hai.
+- **A:** Orientation ka purpose professional trust aur working relationship establish karna hai. Immediate personal friendship banana iska goal nahi hai.
+- **B:** Har circumstance mein information secret rakhne ka promise appropriate nahi hai, kyunki applicable safety aur legal reporting exceptions ho sakti hain. Nurse ko relevant limits honestly explain karni chahiye.
+- **C:** Role, purpose, expectations aur confidentiality limits clear karne se patient ko relationship ka structure samajh aata hai. Isliye C sahi hai.
+- **D:** Final outcomes ka detailed review relationship ke ending stage se zyada related hai. First encounter mein pehle trust aur care purpose establish karna hota hai.
 
-**Exam clue:** Orientation = introduction, trust, purpose and goals.
+**Exam clue:** Orientation phase mein nurse apna introduction deti hai, trust banati hai aur patient ke saath purpose aur goals clear karti hai.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK590036/)
 <!-- /job5-rationale -->
@@ -637,17 +632,16 @@ Orientation phase first therapeutic encounter mein trust aur working agreement e
 
 **Correct answer: A. Collaboratively explore concerns and practice agreed coping or care strategies**
 
-<!-- job5-rationale -->
-Working phase mein nurse aur patient agreed goals par active work karte hain. Concerns explore karna, coping skills practice karna, treatment-related education aur progress evaluate karna examples hain. Patient ki preferences aur ability ke according strategy modify hoti hai. Nurse supportive guide hai, patient ki decisions automatically replace nahi karti.
+Working phase mein nurse aur patient orientation ke dauran decide kiye gaye goals par actively kaam karte hain. Maan lo patient ko treatment se judi anxiety handle karne mein help chahiye. Nurse patient ke concerns explore karti hai, agreed coping strategies practice karwati hai aur dekhti hai ki patient ko kitna fayda ho raha hai. Treatment education aur progress review bhi is phase mein ho sakte hain. Strategy ko patient ki preference aur current ability ke hisaab se modify kiya ja sakta hai. Nurse supportive guide hoti hai, patient ki own decisions ko automatically replace nahi karti.
 
 **Option-by-option reasoning**
 
-- **A:** A collaborative goal-directed work describe karta hai.
-- **B:** B first introduction orientation phase ka activity hai.
-- **C:** C closure without current goals address karna working phase nahi hai.
-- **D:** D patient involvement remove karta hai.
+- **A:** Patient ke concerns ko jointly explore karna aur agreed coping ya care strategies practice karna active therapeutic work hai. Isliye A working phase ka best example hai.
+- **B:** Pehli baar nurse ka introduction dena orientation phase ka characteristic action hai. Working phase mein relationship establish hone ke baad goals par kaam hota hai.
+- **C:** Current goals address kiye bina sirf relationship closure discuss karna working phase ka main purpose nahi hai. Closure termination phase se related hai.
+- **D:** Patient ko exclude karke family ko saari responsibility dene se collaborative care aur patient autonomy compromise ho sakti hai.
 
-**Exam clue:** Working = active therapeutic work and coping practice.
+**Exam clue:** Working phase mein nurse aur patient agreed goals par active kaam karte hain aur coping ya care skills practice karte hain.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK590036/)
 <!-- /job5-rationale -->
@@ -677,17 +671,16 @@ Working phase mein nurse aur patient agreed goals par active work karte hain. Co
 
 **Correct answer: D. Review progress, discuss feelings about ending contact and arrange continuity resources**
 
-<!-- job5-rationale -->
-Termination phase planned professional relationship ke ending ko prepare aur manage karti hai. Nurse progress review kare, unresolved concerns discuss kare aur discharge ke baad follow-up ya support resources clarify kare. Ending contact ke feelings acknowledge karo without indefinite personal relationship create kiye. Receiving team ko relevant care information securely transfer karo.
+Termination phase mein planned professional relationship ko appropriately end karne ki preparation hoti hai. Maan lo patient discharge hone wala hai. Nurse patient ke saath review karti hai ki agreed goals mein kitni progress hui, kaunsi concern abhi unresolved hai aur discharge ke baad kya follow-up chahiye. Agar patient ko regular contact khatam hone se udaasi ya chinta ho, toh nurse uski feeling acknowledge karti hai. Lekin relationship ko indefinite personal friendship mein convert nahi karti. Appropriate continuity resources arrange kiye jaate hain aur receiving team ko relevant care information secure tareeke se transfer ki jaati hai.
 
 **Option-by-option reasoning**
 
-- **A:** A indefinite informal contact boundary compromise karta hai.
-- **B:** B last-minute disclosure preparation aur continuity reduce kar sakta hai.
-- **C:** C inpatient discharge ongoing needs absent hone ka proof nahi hai.
-- **D:** D progress, emotions aur continuity sab address karta hai.
+- **A:** Separation distress avoid karne ke liye indefinite informal contact banana professional boundaries compromise kar sakta hai. Ending ke baare mein supportive discussion zyada appropriate hai.
+- **B:** Discharge ki information last moment tak chhupane se patient ko preparation, questions aur follow-up arrangements ka sufficient time nahi mil sakta.
+- **C:** Inpatient care end hone ka matlab patient ki saari needs khatam ho gayi hain, aisa nahi hai. Ongoing support aur follow-up assess karna zaroori hai.
+- **D:** Progress review, ending se judi feelings discuss karna aur continuity resources arrange karna termination phase ke important parts hain. Isliye D sahi hai.
 
-**Exam clue:** Termination = review, closure, continuity.
+**Exam clue:** Termination phase mein progress review karo, relationship ko respectfully close karo aur ongoing care ke liye continuity arrange karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK590036/)
 <!-- /job5-rationale -->
@@ -717,17 +710,16 @@ Termination phase planned professional relationship ke ending ko prepare aur man
 
 **Correct answer: C. Discuss relevant options and help the patient identify their own priorities, involving the clinician as needed**
 
-<!-- job5-rationale -->
-Shared decision-making mein patient ke goals, preferences aur informed choice central hote hain. Nurse reasonable options ke relevant benefits, risks aur practical implications explain ya clarify karne mein help kare. Prescriber ya responsible clinician ko scope ke according involve kare. Patient ko apni priorities identify karne ka chance do without nurse ke personal preference impose kiye.
+Shared decision-making ka matlab hai patient ko relevant information aur support dena, taaki woh apni values aur priorities ke hisaab se informed choice kar sake. Yahan patient do reasonable care options mein se ek choose karna chahta hai aur nurse ki personal opinion pooch raha hai. Nurse options ke relevant benefits, risks aur practical effects ko apne professional scope mein explain ya clarify karti hai. Zaroorat padne par responsible clinician ko involve karti hai. Phir patient se poochti hai ki uske liye kaunsi baat sabse important hai. Nurse apni personal preference ko patient par impose nahi karti.
 
 **Option-by-option reasoning**
 
-- **A:** A family automatically decision-maker nahi ban jaati.
-- **B:** B appropriate information aur support withhold karta hai.
-- **C:** C options aur patient values discuss karta hai.
-- **D:** D nurse ki personal choice patient preference replace karti hai.
+- **A:** Family patient ko decision mein support kar sakti hai, lekin capable patient ki consent aur choice ke bina family automatically decision-maker nahi ban jaati.
+- **B:** Patient ne personal opinion poochi hai, phir bhi nurse relevant information aur decision support de sakti hai. Options explain na karne se informed choice mushkil ho sakti hai.
+- **C:** Options aur unke practical implications discuss karne se patient ko apni priorities samajhne aur informed decision lene mein help milti hai. Isliye C sahi hai.
+- **D:** Nurse ki personal choice patient ki needs aur preferences se alag ho sakti hai. Nurse ko patient ke liye choice impose karne ke bajay uski informed decision-making support karni chahiye.
 
-**Exam clue:** Support decisions, do not make them for capable patients.
+**Exam clue:** Capable patient ko apna informed decision lene mein support karo. Apni personal preference uske decision ki jagah mat rakho.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK590036/)
 <!-- /job5-rationale -->
@@ -757,17 +749,16 @@ Shared decision-making mein patient ke goals, preferences aur informed choice ce
 
 **Correct answer: B. Acknowledge the disruption and arrange an accessible secure alternative to complete the discussion**
 
-<!-- job5-rationale -->
-Repeated video disruption se important message incomplete reh sakta hai. Nurse interruption acknowledge kare, patient ki immediate safety assess kare aur secure accessible alternative arrange kare, jaise approved phone ya rescheduled clinical contact when appropriate. Important information dobara verify karo aur actual communication limitations document karo. Urgent symptoms mein appropriate local emergency pathway use karo.
+Video consultation ke dauran baar-baar connection tootne se patient important information miss kar sakta hai. Nurse pehle acknowledge karti hai ki communication properly complete nahi ho paa rahi hai. Woh patient ki immediate safety aur current symptoms assess karti hai. Situation ke hisaab se approved secure phone call ya suitable rescheduled clinical contact jaise accessible alternative arrange kiya ja sakta hai. Important information dobara verify karni chahiye aur actual communication limitations document karni chahiye. Agar urgent symptoms hain, toh appropriate local emergency pathway follow karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A full understanding bina check record karna inaccurate hai.
-- **B:** B communication barrier aur privacy dono address karta hai.
-- **C:** C connection hona complete message delivery prove nahi karta.
-- **D:** D public messaging service confidentiality risk create kar sakti hai.
+- **A:** Patient ne poori baat samajh li hai, aisa bina verify kiye record karna inaccurate documentation hai. Connection disruption ki actual limitation record karni chahiye.
+- **B:** Secure accessible alternative arrange karne se interrupted conversation complete karne aur confidentiality maintain karne mein help milti hai. Isliye B sahi hai.
+- **C:** Call connect hona ye prove nahi karta ki har message complete aur clear tareeke se receive hua hai. Important information dobara confirm karni chahiye.
+- **D:** Kisi bhi public messaging service se confidential information bhejne par privacy risk ho sakta hai. Approved secure communication method use karna chahiye.
 
-**Exam clue:** A connected call is not proof of a completed consultation.
+**Exam clue:** Video call connect ho jaana completed consultation ka proof nahi hai. Important messages ki receipt aur understanding verify karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK590036/)
 <!-- /job5-rationale -->
@@ -797,17 +788,16 @@ Repeated video disruption se important message incomplete reh sakta hai. Nurse i
 
 **Correct answer: D. Offer a private conversation and assess whether the patient feels safe discussing the concern**
 
-<!-- job5-rationale -->
-Sensitive answers visitors ki presence se change ho sakte hain because patient embarrassed, pressured ya unsafe feel kar sakta hai. Nurse routine private conversation offer kare, confidentiality limits explain kare aur patient ko safely discuss karne ka chance de. Agar abuse ya coercion ka concern emerge ho toh safeguarding policy aur urgent safety needs follow karo. Visitors se confrontation ya unsupported accusation avoid karo.
+Sensitive question ka answer visitors ke saamne badal raha hai, toh nurse ko patient ki situation samajhni chahiye. Ho sakta hai patient embarrassed feel kar raha ho, kisi ke pressure mein ho ya openly baat karna safe na samajhta ho. Nurse routine tareeke se private conversation ka mauka offer karti hai aur confidentiality ki relevant limits samjhati hai. Phir patient ki concern ko respectfully assess karti hai. Agar abuse ya coercion ka concern milta hai, toh applicable safeguarding policy aur urgent safety needs ke according action lena chahiye. Bina evidence visitor ko accuse ya confront nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A sensitive information publicly expose karta hai.
-- **B:** B intentional deception assume karta hai without assessment.
-- **C:** C visitors ki account patient ki confidential perspective replace nahi kar sakti.
-- **D:** D privacy aur safety-sensitive assessment support karta hai.
+- **A:** Visitors ke saamne sensitive question zor se poochne se confidential information expose ho sakti hai. Patient aur uncomfortable ya unsafe feel kar sakta hai.
+- **B:** Answers badalne se intentional dishonesty automatically prove nahi hoti. Nurse ko pehle privacy, context aur patient safety assess karni chahiye.
+- **C:** Visitors ki information kabhi relevant ho sakti hai, lekin woh patient ki confidential perspective aur personal experience ko automatically replace nahi karti.
+- **D:** Private discussion ka mauka dene aur patient ko baat karne mein safety feel hoti hai ya nahi assess karne se sensitive concern better samjhi ja sakti hai. Isliye D sahi hai.
 
-**Exam clue:** Changing answers can be a context cue, not proof of dishonesty.
+**Exam clue:** Answer badalne ko context se juda important clue samjho. Bina further assessment ise dishonesty ka proof mat maano.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK590036/)
 <!-- /job5-rationale -->
