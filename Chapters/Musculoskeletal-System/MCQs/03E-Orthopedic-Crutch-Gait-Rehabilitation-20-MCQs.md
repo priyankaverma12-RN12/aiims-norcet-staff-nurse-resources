@@ -439,30 +439,30 @@
 
 </details>
 
-### Q16. A patient has been discharged with a temporary 20-kg loading limit following orthopedic surgery. Two weeks later the patient reports that walking feels easier and wants to switch to weight bearing as tolerated. Which response is appropriate?
+### Q16. A patient has a unilateral toe-touch weight-bearing order after orthopedic surgery. During supervised standing the affected foot lightly contacts the floor for balance without meaningful loading. Which interpretation is correct?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Obtain the documented clinician-directed progression before changing the load restriction
-- **B.** The nurse should select a new load limit without the orthopedic team
-- **C.** The patient can change the prescription if crutches are inconvenient
-- **D.** Pain-free walking permits immediate unrestricted loading
+- **A.** Toe-touch contact is permitted only to the extent explicitly specified in the individual order
+- **B.** This is identical to unrestricted weight bearing
+- **C.** The patient must place exactly half of the body weight through the affected leg
+- **D.** The patient may independently increase loading when balance improves
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Obtain the documented clinician-directed progression before changing the load restriction**
+**Correct answer: A. Toe-touch contact is permitted only to the extent explicitly specified in the individual order**
 
-**A kyun sahi hai:** Orthopedic reassessment healing aur stability consider karke loading progression authorize karti hai. Patient ko updated written instructions samajhne chahiye.
+**A kyun sahi hai:** Toe-touch terminology institution aur prescription ke according vary kar sakti hai. Nurse actual written loading limit verify karti hai aur therapist ke taught technique se balance contact aur weight transfer ko distinguish karti hai.
 
-**B kyun galat hai:** Nurse prescribed plan reinforce aur concern escalate karti hai. New weight limit clinician and rehabilitation team decide karte hain.
+**B kyun galat hai:** Unrestricted loading mein patient affected limb par full body weight tolerate kar sakta hai as advised. Toe-touch restriction light contact ke purpose se limited hoti hai, so these orders are not equivalent.
 
-**C kyun galat hai:** Convenience loading restriction ka clinical criterion nahi hai. Safe alternatives aur follow-up discussion arrange karo.
+**C kyun galat hai:** Half body weight ek specific partial loading prescription ho sakti hai, lekin toe-touch ka automatic quantitative definition nahi hai. Exact order follow karo.
 
-**D kyun galat hai:** Pain improvement structural healing ya fixation strength establish nahi karti. Current restriction documented plan ke according follow karo.
+**D kyun galat hai:** Balance improve hone se tissue healing ya fixation strength automatically establish nahi hoti. Loading change clinician-directed plan se authorize hota hai.
 
-**Exam clue:** Functional improvement does not independently authorize a new loading prescription.
+**Exam clue:** Toe-touch, non-weight-bearing and partial weight-bearing orders need precise clarification.
 
-**Clinical reference:** [Cleveland Clinic crutches](https://my.clevelandclinic.org/health/treatments/15543-how-to-use-crutches). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [Cleveland Clinic crutches and weight-bearing restrictions](https://my.clevelandclinic.org/health/treatments/15543-how-to-use-crutches). Indexed clinical evidence, independent item-level review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
