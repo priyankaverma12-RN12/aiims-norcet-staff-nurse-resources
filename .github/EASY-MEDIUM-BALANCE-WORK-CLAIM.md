@@ -1,10 +1,10 @@
 # Easy/Medium balancing lane claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: ACTIVE
+Owner: easy-medium-ipc-b03-20261128T122628Z
+Scope: PR68 IPC supplementary hand hygiene, surgical hand preparation, sterilization, CSSD and equipment disinfection banks only
+Claimed UTC: 2026-11-28T12:26:28Z
+Expiry UTC: 2026-11-28T12:56:28Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
