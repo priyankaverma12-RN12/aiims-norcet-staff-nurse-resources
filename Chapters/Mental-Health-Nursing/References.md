@@ -28,7 +28,7 @@
 
 ## Group 02A — Psychiatric history taking (28 November 2026)
 
-Group 02A ki [detailed history-taking theory](Concepts/02A-Psychiatric-History-Taking.md), [30 original MCQs](MCQs/02A-Psychiatric-History-Taking-30-MCQs.md), [RRB reported exam adaptation](Previous-Year-Questions/02A-History-Assessment-Reported-Evidence.md) aur [original diagram](Assets/psychiatric-history-assessment.svg) study-ready hain. Abhi tak 64 chapter-local originals (34 prior indexed + 30 newly published), 7 reported adaptations aur 3 diagrams available hain. Chapter README aur coverage-map reconciliation pending hai.
+Group 02A ki [detailed history-taking theory](Concepts/02A-Psychiatric-History-Taking.md), [30 original MCQs](MCQs/02A-Psychiatric-History-Taking-30-MCQs.md), [RRB reported exam adaptation](Previous-Year-Questions/02A-History-Assessment-Reported-Evidence.md) aur [original diagram](Assets/psychiatric-history-assessment.svg) study-ready hain. Group 02A ke baad 64 chapter-local originals (34 prior indexed + 30 newly published), 7 reported adaptations aur 3 diagrams available hain. Is purane count ko history ke roop mein rakha gaya hai. Current inventory neeche dekho.
 
 | Resource | Evidence |
 |---|---|
@@ -38,4 +38,15 @@ Group 02A ki [detailed history-taking theory](Concepts/02A-Psychiatric-History-T
 | [History taking in Hindi](https://www.youtube.com/watch?v=MPaFWSR70lY) and [History taking in Mental Health Nursing](https://www.youtube.com/watch?v=DsDpHbc9Lt0) | Indexed teaching candidates only. Direct fetch failed. Playback, channel and duration pending. |
 | [NPrep general psychiatric question practice](https://www.youtube.com/watch?v=KOUHyWiL0eY) | Indexed mixed-topic description. History-specific MCQ coverage not established. |
 
-Dedicated practice video gap: original Q1–30 and reported Q1. Exact video mappings zero. Official HPRCA and other exam key matches remain pending. Next, psychosocial assessment as Group 02B, then cognitive screening and investigations. Mock-exclusive bank remains zero of 1,200.
+Dedicated practice video gap: original Q1–30 and reported Q1. Exact video mappings zero. Official HPRCA and other exam key matches remain pending. Iske baad Group 02B psychosocial assessment publish hua. Mock-exclusive bank remains zero of 1,200.
+
+## Group 02B — Psychosocial assessment (28 November 2026)
+
+[Detailed concepts](Concepts/02B-Psychosocial-Assessment.md) · [30 original MCQs](MCQs/02B-Psychosocial-Assessment-30-MCQs.md) · [Reported exam adaptation](Previous-Year-Questions/02B-Psychosocial-Assessment-Reported-Evidence.md) · [Original diagram](Assets/psychosocial-assessment-map.svg)
+
+- [OpenStax assessment and clinical tools](https://openstax.org/books/psychiatric-mental-health/pages/3-3-nursing-assessment-and-clinical-tools) and [risk and protective factors](https://openstax.org/books/psychiatric-mental-health/pages/1-2-risk-and-protective-factors-of-mental-health) direct HTML retrieved.
+- [NPrep NORCET 5 Mains coping outcome item](https://nprep.in/question-answer/a-26-year-old-client-is-in-a-treatment-center-for-alprazolam-vOlHqtRkSRlhB_EWd_FWd) directly retrieved, third-party attribution, official paper/key pending.
+- [HPRCA 26004 March 2026](https://proudofnurses.com/hpssc-staff-nurse-question-paper-21st-march-2026-shift-1st-with-answer-key-free-practice-test-post-code-26004/) and [25026 May 2026](https://proudofnurses.com/hpssc-staff-nurse-question-paper-5th-may-2026-shift-2nd-with-answer-key-free-practice-test-post-code-25026/) indexed paper leads only. [HPSSC 933 2022](https://ramanacademy.in/previous-papers/staff-nurse-post-code-933-2022/) third-party paper lead. Official item/key matching remains pending.
+- [Mental Health Assessment One shot](https://www.youtube.com/watch?v=JOamLKIkHjs), [Assessment tools](https://www.youtube.com/watch?v=W3FqeDLhmww) and [Akki Sir mixed nursing MCQs](https://www.youtube.com/watch?v=SB9FPVpKzLA) indexed candidates. Exact playback and specific MCQ coverage not verified. Two direct YouTube opens returned throttling. Q1–30 and reported Q1 remain explicit question-mapping gaps.
+
+Current chapter-local inventory: 94 original MCQs, 8 source-linked reported adaptations, 4 original diagrams, 0 of 1,200 mock-exclusive questions. Independent semantic, clinical, difficulty and rendered UI audits remain pending. Next is 02C cognitive screening and MMSE.
