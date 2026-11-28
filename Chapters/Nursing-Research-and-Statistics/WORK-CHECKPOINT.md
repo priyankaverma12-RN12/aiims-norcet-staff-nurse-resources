@@ -1,10 +1,9 @@
 # Nursing Research and Statistics — isolated work checkpoint
 
-State: CLAIMED (CANDIDATE ONLY)
-Owner: nursing-research-batch06-20261128-0729Z
-Claimed UTC: 2026-11-28T07:29:39Z
-Expiry UTC: 2026-11-28T07:59:39Z
-Current scope: banks 03/04 corrective review, chapter-local audit and checkpoint
+State: RELEASED (CANDIDATE ONLY)
+Last owner: nursing-research-batch06-20261128-0729Z
+Prior claim UTC: 2026-11-28T07:29:39Z
+Prior expiry UTC: 2026-11-28T07:59:39Z
 Last owner: nursing-research-batch05-20261128-0722Z
 Prior claim UTC: 2026-11-28T07:22:50Z
 Prior expiry UTC: 2026-11-28T07:52:50Z
@@ -74,3 +73,14 @@ Preflight: chapter selected provisionally from visible claims, branches and PRs.
 - All six original SVGs exact Git blob hash matched locally and rendered at 920/940 px intrinsic widths using CairoSVG. Visual contact sheet inspected, no clipping/overlap observed. All six source blobs unchanged. Live mobile/dark rendering not certified. Prior six guides, six SVGs, INC ledger and Batch04 corrective ledger unchanged. Tree comparison at main 3fefd64993f8cf8265d0a5219e1e491c5312c768 and candidate f8df642dc5bcadbe0080adfe2673e65a41935dbe found no missing shared main chapter files or differing shared blobs, no removed previous files, 13 other banks unchanged. PR7/8/12 exact path overlap zero. PR8 explicit clearance follow-up comment 7235943635 posted and verified, no response yet. No shared navigation writes.
 - Audit/evidence ledger dc6de4d2de37f6a90ff3194e431611bc45e2f9ee, index c3b6534de31d7234d9ee16bbbfdb6dd5d3ef642d, exact readbacks passed. Candidate inventory unchanged: 300 staged originals, 1200 separate option rationales, four legacy originals, three reported adaptations, total 307 slots. No added mock/PYQ/live count. Own candidate lease released. No other jobs, main or automation edits.
 - Continue from Bank 03 and 04 Q1–20 each. Preserve completed Batch04 and Batch05 corrections and rendered diagram inspection. Full bounded preflight, independent source/semantic and difficulty review, uncovered INC depth, specific videos, exact PDF visual verification and explicit PR8 integration clearance remain open. No mock authorship or main merge until applicable gates pass. Then author two mutually distinct original-only 120-question mocks per batch, no reuse, followed by source-traced PYQs.
+
+
+## Batch 06 sampling and research tools corrective review — 28 November 2026
+
+- Initial pinned main c68d47ea335b3b429d5e4727fb223a7408b7b350 and released PR37 ddc54961f11c629792ad7b9bc224fd6525495808 verified. 26 claim/checkpoint headers inspected, five active other scopes disjoint. Isolated lease d38a52438d62562e62cd70cddcd3c10436c02029 exact readback passed. Rule file blobs retrieved and root lines 1–12 read. Full bounded preflight remains incomplete.
+- Bank03 Q1–20 and Bank04 Q1–20 read in full. Corrected 11 question slots: 03 Q3/4/7/15/19 and 04 Q4/5/12/15/17/18. Clarified strict equal-subset SRS, proportionate formula, periodicity, allocation balance, questionnaire wording, pulse oximetry limitations, translation equivalence and natural Hinglish. Replaced two repetitive learning tasks with effective sample size and conditional skip coding. Three revised stems, 37 unchanged, all 40 key letters and numbered slots preserved. 40 exam clues and 40 related references added with explicit access depth. Bank03 commit 585c68d673d659204e73e7c2fb77146277f586e7 and bank04 commit 7aecac527a46b93e8b9434bf74926672e41bc906, exact readbacks passed.
+- Fresh complete structural retrieval of all 15 banks passed: 300 distinct normalized stems, 1200 English options, 1200 individual rationales, 300 closed blocks, A75 B75 C75 D75, 3 Easy/129 Medium/168 Difficult, zero structural/key-text errors and exact duplicates. Targeted comparisons against 120 adjacent chapter question headings, seven preserved legacy/adaptation stems and 40 PR40 headings completed. Not independent exhaustive semantic review.
+- ABS census/sample and sample design, CDC collecting data/qualitative methods/cognitive interviewing, AAPOR best practices and US Census skip-pattern HTML directly retrieved. NHANES effective sample size formula indexed, direct cache miss. CONSORT sample size, FDA device limits, qualitative methods and ICPSR indexed with access limits recorded. Specific source-depth and exact video gaps remain. Sampling teaching/questions lead direct watch cache miss. No fabricated playback or PYQ certification. INC Unit V depth expanded by corrective tasks, existing crosswalk and local six-diagram render results preserved, official PDF visual gate remains open.
+- Untruncated tree comparison at latest inspected main 20487aaac12da59afd66a1eb3cb4f63d16509577 and candidate 7aecac527a46b93e8b9434bf74926672e41bc906: no removed prior chapter files, no missing main-only chapter files, no divergent shared chapter blobs. Other 13 topic banks, all six concept guides, six diagrams, INC ledger, prior audits and legacy/PYQ files preserved. PR7/8/12 exact path overlap zero at inspection. PR8 clearance request 7235943635 remains unanswered, PR12 disjoint. No shared navigation changes.
+- Audit ledger 7fb00887531cba72fc037eb48911460da4a1dcb8 and index 937d1de1ef00df35b7c58cea57639d4b37e9c281 exact readbacks passed. Candidate unchanged: 300 staged original slots and 1200 rationales, four legacy originals and three reported adaptations = 307 slots. No added mocks, PYQs or main publication. No changes to other jobs, learner history or automation schedules. Own lease released.
+- Next sequential review banks 05 and 06 Q1–20 each, preserve completed 01–04 review, Batch04/05/06 corrections and local rendered diagram evidence. Complete outstanding full bounded preflight, independent review, INC curriculum depth, exact source/video gaps and PR8 clearance, then safe integration and two mutually distinct original-only 120-question mocks per batch. Do not pad topic-bank counts or claim publication before gates pass.
