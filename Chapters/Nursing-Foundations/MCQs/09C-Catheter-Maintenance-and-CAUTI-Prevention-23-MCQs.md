@@ -6,7 +6,7 @@
 
 ### Q1. Why may bacteria persist on the inner surface of a long-term urinary catheter despite free urine drainage?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Biofilm
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Biofilm · Original practice
 
 - **A.** Gravity sterilizes only the outside of the catheter
 - **B.** Urine production permanently destroys all bacteria
@@ -27,6 +27,8 @@
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#blockage-bypassing-aur-spasms).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -35,7 +37,7 @@
 
 ### Q2. A removed long-term catheter has hard crystalline deposits and the urine has become alkaline. Which bacterial mechanism best explains the finding?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Crystalline obstruction
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Crystalline obstruction · Original practice
 
 - **A.** Urease splits urea and raises urinary pH, encouraging crystal deposition
 - **B.** Bacterial insulin production lowers urinary pH
@@ -56,6 +58,8 @@
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#blockage-bypassing-aur-spasms).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -64,7 +68,7 @@
 
 ### Q3. A home-care patient's catheter repeatedly blocks at similar intervals and removed catheters show crystalline deposits. What should the nurse request beyond arranging safe drainage for the current episode?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Repeated blockage review
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Repeated blockage review · Original practice
 
 - **A.** An indefinite increase in balloon volume at every change
 - **B.** Routine forceful irrigation regardless of symptoms
@@ -85,6 +89,8 @@
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#blockage-bypassing-aur-spasms).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -93,7 +99,7 @@
 
 ### Q4. A patient has leakage around an indwelling catheter even though some urine continues to enter the bag. What does this finding establish?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bypassing
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bypassing · Original practice
 
 - **A.** The catheter must always be replaced with the largest available bore
 - **B.** Bypassing is a symptom requiring assessment of its cause, not proof that the catheter diameter is too small
@@ -114,6 +120,8 @@
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#blockage-bypassing-aur-spasms).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -122,7 +130,7 @@
 
 ### Q5. After obstruction and other urgent causes have been assessed, a catheterized patient experiences intermittent cramping with urgency during otherwise patent drainage. Which action supports the clinical management plan?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bladder spasm
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bladder spasm · Original practice
 
 - **A.** Assume all pain means the catheter balloon is empty
 - **B.** Add balloon fluid without an order
@@ -143,6 +151,8 @@
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#blockage-bypassing-aur-spasms).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -151,7 +161,7 @@
 
 ### Q6. A catheterized patient with recurrent bladder spasms also reports hard stools and several days without a bowel movement. Which addition to the care plan is most relevant?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bowel management
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bowel management · Original practice
 
 - **A.** Increase catheter diameter without evaluating bowel symptoms
 - **B.** Prescribe a fixed high fluid intake despite a documented fluid restriction
@@ -172,6 +182,8 @@
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#blockage-bypassing-aur-spasms).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -180,7 +192,7 @@
 
 ### Q7. Which home catheter record is most useful for identifying a recurring pattern of early encrustation?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Catheter-change record
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Catheter-change record · Original practice
 
 - **A.** Dates of recent changes, reason for each change, catheter details and deposits observed
 - **B.** Only the colour of the patient's clothing
@@ -201,6 +213,8 @@
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/documentation).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#blockage-bypassing-aur-spasms).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -209,7 +223,7 @@
 
 ### Q8. A patient with an indwelling catheter requests a valve instead of a continuously draining leg bag. The chart documents a very small bladder capacity and difficulty remembering scheduled emptying. Which approach is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Catheter valve suitability
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Catheter valve suitability · Original practice
 
 - **A.** Use a valve and keep it shut for the entire day
 - **B.** Request a suitability assessment before changing drainage because the valve requires safe storage and reliable emptying
@@ -230,6 +244,8 @@
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#mobility-aur-home-care).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -238,7 +254,7 @@
 
 ### Q9. An assessed catheter-valve user has a prescribed overnight free-drainage plan using a compatible night bag. Which instruction best matches this plan?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Valve night plan
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Valve night plan · Original practice
 
 - **A.** Close the valve after attaching the bag and leave it closed until morning
 - **B.** Disconnect and reconnect the catheter itself every hour
@@ -259,6 +275,8 @@
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/equipment-and-products).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#mobility-aur-home-care).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -267,7 +285,7 @@
 
 ### Q10. An ambulant patient using a leg drainage bag notices that the bag pulls heavily on the tubing as it fills. Which practical teaching is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Mobile bag support
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Mobile bag support · Original practice
 
 - **A.** Suspend the full bag directly from the catheter tubing
 - **B.** Support the bag with the correct holder and empty it before its weight causes traction
@@ -288,6 +306,8 @@
 
 **Clinical reference:** [Guidance](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#mobility-aur-home-care).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -296,7 +316,7 @@
 
 ### Q11. During routine care a nurse finds a persistent localized red mark under tightly routed catheter tubing at the inner thigh. Which action addresses this specific risk?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Device-related skin pressure
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Device-related skin pressure · Original practice
 
 - **A.** Relieve device pressure, reassess the skin and reposition or support the tubing safely
 - **B.** Cover the mark without checking the skin again
@@ -317,6 +337,8 @@
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/catheter-complications).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#mobility-aur-home-care).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -325,7 +347,7 @@
 
 ### Q12. During prescribed continuous bladder irrigation through a three-way catheter, which connection must remain dedicated to the retention balloon?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Irrigation circuit
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Irrigation circuit · Original practice · **[🟣 AIIMS NORCET 7 Prelims 2024 — related reported concept only](https://testbook.com/question-answer/a-nurse-is-setting-up-a-three-way-urinary-catheter--67a2f56e2add627624ba3f80)**
 
 - **A.** The large drainage outlet
 - **B.** The irrigation inflow port
@@ -346,6 +368,8 @@
 
 **Clinical reference:** [Guidance](https://www.baus.org.uk/trainees/bladder_washout_irrigation.aspx).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#continuous-bladder-irrigation-cbi).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -354,7 +378,7 @@
 
 ### Q13. A postoperative urology order specifies continuous bladder irrigation using sterile 0.9% sodium chloride. Which preparation matches the order?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Irrigation fluid
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Irrigation fluid · Original practice
 
 - **A.** Replace it with tap water to reduce cost
 - **B.** Use the prescribed sterile saline irrigation solution and verify its identity and route
@@ -375,6 +399,8 @@
 
 **Clinical reference:** [Guidance](https://www.baus.org.uk/trainees/bladder_washout_irrigation.aspx).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#continuous-bladder-irrigation-cbi).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -383,7 +409,7 @@
 
 ### Q14. During a documented irrigation interval, 2400 mL of sterile irrigant enters the bladder and 2820 mL drains into the bag. No other fluid is instilled. What is the net urinary drainage volume for this interval?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** True output calculation
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** True output calculation · Original practice
 
 - **A.** 2820 mL
 - **B.** 5220 mL
@@ -404,6 +430,8 @@
 
 **Clinical reference:** [Guidance](https://aci.health.nsw.gov.au/networks/urology/resources/bladder-irrigation/overview).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#continuous-bladder-irrigation-cbi).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -412,7 +440,7 @@
 
 ### Q15. Continuous irrigation has delivered 900 mL but the drainage bag has received only 500 mL during the same verified interval. The patient has increasing suprapubic pain. What is the priority?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Irrigation mismatch
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Irrigation mismatch · Original practice
 
 - **A.** Stop irrigation inflow, assess for impaired outflow and urgently obtain trained help under the local protocol
 - **B.** Increase inflow to force the suspected clot through
@@ -433,6 +461,8 @@
 
 **Clinical reference:** [Guidance](https://aci.health.nsw.gov.au/networks/urology/resources/bladder-irrigation/overview).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#continuous-bladder-irrigation-cbi).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -441,7 +471,7 @@
 
 ### Q16. A trained nurse performing an authorized manual bladder washout meets unexpected marked resistance and the patient develops new severe pain. Which action is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Manual washout safety
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Manual washout safety · Original practice
 
 - **A.** Apply progressively greater pressure until resistance disappears
 - **B.** Continue despite the pain because resistance proves normal placement
@@ -462,6 +492,8 @@
 
 **Clinical reference:** [Guidance](https://nurses.uroweb.org/guidelines/indwelling-catheterisation-in-adults-urethral-and-suprapubic/chapter/appendices).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#continuous-bladder-irrigation-cbi).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -470,7 +502,7 @@
 
 ### Q17. A patient on postoperative bladder irrigation develops increasingly bloody drainage, new clots, pallor and a rising pulse despite patent tubing. Which action is most important?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bleeding escalation
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bleeding escalation · Original practice
 
 - **A.** Assume blood loss is excluded because the tubing is patent
 - **B.** Document colour only and postpone vital signs until the next shift
@@ -491,6 +523,8 @@
 
 **Clinical reference:** [Guidance](https://www.baus.org.uk/trainees/bladder_washout_irrigation.aspx).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#continuous-bladder-irrigation-cbi).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -499,7 +533,7 @@
 
 ### Q18. At shift change, which documentation allows the incoming nurse to interpret bladder irrigation output accurately?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Irrigation handover
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Irrigation handover · Original practice
 
 - **A.** Total irrigant instilled, total drainage, net output, clot and colour trends, and patient response
 - **B.** Only the number of saline bags hanging on the stand
@@ -520,6 +554,8 @@
 
 **Clinical reference:** [Guidance](https://aci.health.nsw.gov.au/networks/urology/resources/bladder-irrigation/overview).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#continuous-bladder-irrigation-cbi).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -528,7 +564,7 @@
 
 ### Q19. A clinically stable long-term catheter user has an incidental urine report showing white cells but no urinary or systemic symptoms. Which interpretation reflects EAU guidance?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Pyuria in catheterized patient
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Pyuria in catheterized patient · Original practice
 
 - **A.** White cells prove invasive renal infection in every catheter user
 - **B.** Pyuria alone does not establish symptomatic catheter-associated UTI
@@ -549,6 +585,8 @@
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#symptomatic-cauti-aur-culture).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -557,7 +595,7 @@
 
 ### Q20. A patient has clinician-diagnosed symptomatic CAUTI and still requires an indwelling catheter that has been in place for ten days. Under NICE NG113, which care coordination is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Symptomatic infection and catheter age
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Symptomatic infection and catheter age · Original practice
 
 - **A.** Delay antibiotics until catheter replacement can be scheduled next week
 - **B.** Keep the old catheter solely because it has not yet been in place for a month
@@ -578,6 +616,8 @@
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng113/chapter/Recommendations).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#symptomatic-cauti-aur-culture).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -586,7 +626,7 @@
 
 ### Q21. A nurse compares an Indian workflow listing product-related replacement intervals with CDC advice against fixed-interval changes solely for CAUTI prevention. Which interpretation is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Guideline reconciliation
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Guideline reconciliation · Original practice
 
 - **A.** Distinguish manufacturer limits and individualized long-term plans from arbitrary infection-prevention changes, and follow authorized local policy
 - **B.** Assume every recommendation means a daily replacement
@@ -607,6 +647,8 @@
 
 **Clinical reference:** [Guidance](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html).
 
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#symptomatic-cauti-aur-culture).
+
 **YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
 
 </details>
@@ -615,7 +657,7 @@
 
 ### Q22. A clinician has ordered catheter replacement and a urine culture for symptomatic CAUTI. The catheter has just been replaced and antibiotic treatment is about to start. Which specimen source is preferred when feasible without delaying treatment?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Post-replacement culture timing
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Post-replacement culture timing · Original practice
 
 - **A.** Urine that remained in the removed drainage bag overnight
 - **B.** A fresh aseptically obtained specimen from the newly placed catheter sampling port
@@ -636,7 +678,9 @@
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng113/chapter/Recommendations).
 
-**YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#symptomatic-cauti-aur-culture).
+
+**YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending. Related topic practice: **▶️ [Familia Garcia Mix — urine specimen collection MCQs](https://www.youtube.com/watch?v=Qym9ZXwNiqg)**. Publisher description contains related sampling-port and clean-catch questions. Exact current scenario, timestamp and playback pending. Current clinical guidance takes priority over video answers.
 
 </details>
 
@@ -644,7 +688,7 @@
 
 ### Q23. A patient with suspected symptomatic CAUTI no longer needs the catheter and it is removed as part of the clinician's plan. The patient can void spontaneously. Which urine specimen is appropriate before antibiotics when feasible?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** After catheter discontinuation
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** After catheter discontinuation · Original practice
 
 - **A.** The removed catheter balloon fluid
 - **B.** A swab of the external drainage bag
@@ -665,7 +709,9 @@
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
-**YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending.
+**Related concept:** [Concept guide](../Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md#symptomatic-cauti-aur-culture).
+
+**YouTube MCQ practice:** [JINC E-NURSING catheterization practice candidate](https://www.youtube.com/watch?v=ofQ1VNcp-aQ). Exact item and timestamp pending. Related topic practice: **▶️ [Familia Garcia Mix — urine specimen collection MCQs](https://www.youtube.com/watch?v=Qym9ZXwNiqg)**. Publisher description contains related sampling-port and clean-catch questions. Exact current scenario, timestamp and playback pending. Current clinical guidance takes priority over video answers.
 
 </details>
 
