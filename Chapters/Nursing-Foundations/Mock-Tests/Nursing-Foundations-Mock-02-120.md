@@ -735,9 +735,17 @@ Remittent fever mein temperature rise aur fall karta hai lekin normal range tak 
 
 **Correct: B. Arrange assessment of decision-making capacity and follow applicable consent and emergency policies**
 
-Capacity decision-specific aur time-specific ho sakti hai. Delirium understanding affect kar sakta hai. Nurse team ko involve karke legal aur ethical safeguards follow karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Adult status alone capacity prove nahi karta. Any visitor authorized surrogate nahi hota. Patient preferences still matter.
+**A kyun galat hai:** Adult hone par capacity initially presume ki jaati hai, lekin significant confusion ho toh assessment ki zaroorat pad sakti hai. Capacity har decision aur har time par ek jaisi nahi hoti.
+
+**B kyun sahi hai:** Decision-making capacity ka matlab hai relevant information samajhna, decision ke liye use karna aur choice communicate karna. Acute delirium mein yeh ability temporarily affect ho sakti hai. Nurse specific decision ke liye appropriate capacity assessment arrange karti hai, reversible causes assess karne mein help karti hai aur applicable consent aur emergency policy follow karti hai.
+
+**C kyun galat hai:** Patient ki wishes ko poori tarah ignore karna sahi nahi hai. Capacity impaired ho tab bhi nurse patient ko jitna possible ho discussion mein involve karti hai aur known preferences team ko batati hai.
+
+**D kyun galat hai:** Har visitor authorized decision-maker nahi hota. Nurse applicable law aur policy ke mutabik representative identify karne mein team ki madad karti hai, aur urgent needs ko emergency safeguards ke saath handle karti hai.
+
+**Exam clue:** Delirium ka diagnosis akela har decision ke liye incapacity prove nahi karta.
 
 </details>
 
@@ -839,9 +847,17 @@ Bed rail routine high-touch surface hai aur sterile nahi hoti. Sterile glove rai
 
 **Correct: B. Check tubing, bladder distension and patient vital status before escalating appropriately**
 
-Obstruction, kink ya low urine production possible causes hain. Nurse simple device checks aur patient assessment se cause identify karne mein help karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Balloon increase trauma cause kar sakta hai. Blind diuretic aur renal failure assumption inappropriate hain.
+**A kyun galat hai:** Low drainage ka cause kink, obstruction, retention ya genuinely low urine production ho sakta hai. Bina assessment diuretic dene se dehydration ya hypotension worsen ho sakti hai aur blocked catheter clear nahi hota.
+
+**B kyun sahi hai:** Nurse tubing ke kinks, drainage bag ki position aur flow check karti hai. Saath hi suprapubic pain, bladder distension, vital signs aur urine output trend assess karti hai. Persistent obstruction, severe pain ya deterioration par prompt clinical escalation zaroori hai. Bina authorized indication system ko open ya balloon ko manipulate nahi karti.
+
+**C kyun galat hai:** Low catheter output akela renal failure prove nahi karta. Bladder mein urine retain bhi ho sakta hai agar drainage system blocked hai.
+
+**D kyun galat hai:** Balloon volume badhane se drainage lumen ki obstruction solve nahi hoti. Extra inflation bladder neck ya urethra ko injure kar sakti hai.
+
+**Exam clue:** Low drainage ke saath bladder pain ho toh patient aur catheter system dono assess karo.
 
 </details>
 
@@ -1076,9 +1092,17 @@ CBC yani complete blood count red cells, white cells, platelets aur related indi
 
 **Correct: B. Provide truthful information within the nurse's role and clarify uncertainty**
 
-Veracity truthfulness hai. Nurse jo information know karti hai woh accurately share karti hai aur uncertainty ho toh authorized team se clarify karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Guarantees, concealment aur invented explanation trust undermine karte hain.
+**A kyun galat hai:** Invented explanation se patient galat decision le sakta hai. Agar nurse ko answer nahi pata, toh woh honestly batakar correct information verify karti hai.
+
+**B kyun sahi hai:** Veracity ka matlab hai sach aur accurate information dena. Nurse apne scope ke andar clear jawab deti hai, uncertainty ko accept karti hai aur zaroorat par treating team se clarification leti hai.
+
+**C kyun galat hai:** Jab outcome uncertain ho, toh guaranteed recovery ka vaada misleading hota hai. Nurse realistic support deti hai, lekin unsupported assurance nahi deti.
+
+**D kyun galat hai:** Relevant adverse effects ko chhupane se patient informed decision nahi le payega. Nurse risks apne role ke andar explain karti hai aur detailed questions appropriate clinician ko refer karti hai.
+
+**Exam clue:** Veracity sach bolne se aur fidelity vaada nibhane se related hai.
 
 </details>
 
@@ -1449,9 +1473,17 @@ Numeric rating scale ya NRS patient ko number se intensity express karne deti ha
 
 **Correct: A. Cardiovascular deconditioning can impair tolerance of sudden standing**
 
-Prolonged bed rest blood volume aur autonomic responses affect kar sakti hai. Gradual sitting-standing aur monitoring dizziness-fall risk reduce karne mein help karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Orthostatic tolerance necessarily improve nahi hoti. Standing paralysis cause nahi karti. Risk completely eliminate nahi hota.
+**A kyun sahi hai:** Bed rest ke baad cardiovascular system standing ki demand ke liye kam prepared ho sakta hai. Patient uthta hai toh blood legs mein pool ho sakta hai aur BP gir sakta hai. Nurse gradually sitting aur standing progress karti hai, symptoms aur BP check karti hai aur zaroorat par assistance deti hai.
+
+**B kyun galat hai:** Gradual activity risk kam kar sakti hai, lekin balance, medicines aur environment ki wajah se falls ka risk reh sakta hai.
+
+**C kyun galat hai:** Bed rest se orthostatic tolerance guaranteed improve nahi hoti. Prolonged inactivity standing tolerate karne mein difficulty badha sakti hai.
+
+**D kyun galat hai:** Standing apne aap permanent paralysis ka cause nahi hai. Actual neurological condition aur restrictions assess karni chahiye.
+
+**Exam clue:** Bed rest ke baad standing par dizziness ko orthostatic intolerance ka possible sign samjho.
 
 </details>
 
@@ -1470,9 +1502,17 @@ Prolonged bed rest blood volume aur autonomic responses affect kar sakti hai. Gr
 
 **Correct: A. Anticipatory grief**
 
-Anticipatory grief loss hone se pehle develop ho sakta hai. Patient aur family future changes ko process karne ki koshish karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Disenfranchised grief socially unrecognized loss se related hai. Anticipatory grief automatically disorder nahi hai.
+**A kyun sahi hai:** Anticipatory grief tab ho sakta hai jab loss abhi hua nahi hai, lekin person ko uske hone ki expectation hai. Jaise advanced illness mein family future separation ke baare mein dukhi ho sakti hai. Nurse feelings sun kar preparation aur support mein madad karti hai.
+
+**B kyun galat hai:** Loss hone se pehle bhi sadness, fear ya worry ho sakti hai. Isliye death abhi nahi hui hai, iska matlab grief absent nahi hai.
+
+**C kyun galat hai:** Disenfranchised grief aisa grief hai jise society ya aas-paas ke log recognize ya support nahi karte. Iska defining feature loss se pehle hona nahi hai.
+
+**D kyun galat hai:** Expected loss par dukhi hona apne aap mein disorder nahi hai. Persistent severe distress aur functioning ki dikkat ka alag assessment hota hai.
+
+**Exam clue:** Anticipatory ka matlab expected future loss se juda grief hai.
 
 </details>
 
@@ -1719,9 +1759,17 @@ Citrate tube mein additive ki quantity fixed hoti hai. Jab required blood se bah
 
 **Correct: A. Provide frequent safe oral and lip care and discuss individualized hydration goals**
 
-End-of-life mein dry mouth distressing ho sakta hai. Gentle oral care comfort provide kar sakti hai without unsafe swallowing.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Forced fluids aur food aspiration risk badhate hain. Oral care stop karna discomfort worsen kar sakta hai.
+**A kyun sahi hai:** Nurse alertness aur swallowing assess karke lips aur mouth ko gently moist rakhti hai. Agar patient safely swallow kar sake toh suitable sips offer kar sakti hai. Hydration ke benefits aur risks patient aur team ke saath discuss kiye jaate hain.
+
+**B kyun galat hai:** Mouth care band karne se dryness aur discomfort badh sakte hain. Safe mouth care abhi bhi useful hai.
+
+**C kyun galat hai:** Swallowing weak ho toh force karke paani pilane se liquid airway mein ja sakta hai. Isko aspiration kehte hain aur isse breathing ki problem ho sakti hai.
+
+**D kyun galat hai:** Patient swallow nahi kar paa raha hai toh food dene se choking aur aspiration ka risk badhta hai. Feeding assessment aur care goals ke according honi chahiye.
+
+**Exam clue:** Dry mouth mein safe oral comfort care do aur hydration individualize karo.
 
 </details>
 
@@ -1874,9 +1922,17 @@ Z-track technique mein selected IM medicine ke liye skin aur underlying subcutan
 
 **Correct: A. Atelectasis and retained respiratory secretions**
 
-Immobility aur shallow breathing se lung ke kuch areas poorly ventilated reh sakte hain. Secretions retain ho sakti hain, jisse atelectasis-infection risk badhta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Lung expansion improve hona guaranteed nahi hai. Pneumonia risk remain hota hai. Swallowing separate function hai.
+**A kyun sahi hai:** Immobile patient shallow breaths le aur effectively cough na kar paaye toh kuch alveoli collapse ho sakte hain. Isko atelectasis kehte hain. Retained secretions infection risk bhi badha sakti hain. Nurse suitable positioning, mobility aur prescribed breathing interventions support karti hai.
+
+**B kyun galat hai:** Swallowing airway protection aur neurological function se related hai. Reduced deep breathing se swallowing automatically improve nahi hoti.
+
+**C kyun galat hai:** Secretions retain hone aur ineffective cough se pneumonia ka risk reh sakta hai. Bed rest pneumonia se protection nahi deta.
+
+**D kyun galat hai:** Immobility mein lung expansion hamesha improve nahi hota. Shallow breathing se ventilation kam ho sakti hai.
+
+**Exam clue:** Shallow breathing aur weak secretion clearance ko atelectasis risk se jodo.
 
 </details>
 
@@ -2138,9 +2194,17 @@ Stool test ki reliability specimen ke sahi collection par depend karti hai. Urin
 
 **Correct: D. Assess perfusion and urgently review the patient according to postprocedure protocol**
 
-Large-volume drainage circulation ko affect kar sakti hai. New hypotension aur dizziness ko assess karke appropriate fluid or medication plan clinician review karta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Hypotension harmless assume nahi karna chahiye. Standing fall risk aur false documentation unsafe hain.
+**A kyun galat hai:** Large drainage ke baad blood pressure kam ho sakta hai, lekin symptomatic hypotension ko harmless nahi maan sakte. Bleeding ya circulatory dysfunction jaise causes assess karne hote hain.
+
+**B kyun galat hai:** Bina measure kiye normal vital signs record karna inaccurate documentation hai. Isse deterioration miss ho sakti hai.
+
+**C kyun galat hai:** Dizzy aur hypotensive patient ko jaldi khada karne se fainting aur fall ho sakta hai. Nurse safe position mein assessment karti hai.
+
+**D kyun sahi hai:** Nurse blood pressure, pulse, consciousness, peripheral perfusion aur puncture site promptly check karti hai aur urgent help leti hai. Large-volume paracentesis ke baad effective circulation affect ho sakti hai. Clinician cause aur prescribed fluids ya albumin ki need review karta hai, especially cirrhosis mein.
+
+**Exam clue:** Drainage ke baad symptomatic hypotension ko assess aur escalate karo, expected kehkar ignore mat karo.
 
 </details>
 
@@ -2476,9 +2540,17 @@ Pulse oximeter pulsatile blood ke optical signal se oxygen saturation estimate k
 
 **Correct: B. Respect the preference and share information only with authorized persons or as legally required**
 
-Patient ki health information confidential hai. Nurse consent aur applicable legal exceptions ke according disclosure manage karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Polite request aur family relationship alone full access authorize nahi karte. Public display privacy breach hai.
+**A kyun galat hai:** Visitor ka politely poochhna disclosure ki permission nahi hai. Nurse respectfully explain kar sakti hai ki authorization ke bina private detail share nahi ki ja sakti.
+
+**B kyun sahi hai:** Confidentiality ka matlab hai ki nurse patient ki sensitive health information protect kare. Nurse patient ki preference respect karti hai aur information sirf authorized care purposes ya applicable legal requirement ke mutabik share karti hai. Disclosure zaroori ho toh appropriate channel se required information hi di jaati hai.
+
+**C kyun galat hai:** Relative hone se kisi person ko har medical detail jaanne ki automatic permission nahi milti. Nurse patient ki authorization aur applicable policy check karti hai.
+
+**D kyun galat hai:** Publicly health detail display karne se unauthorized log information dekh sakte hain. Isse patient ki privacy aur trust ko nuksan ho sakta hai.
+
+**Exam clue:** Family relationship aur patient authorization ek hi baat nahi hain.
 
 </details>
 
@@ -2497,9 +2569,17 @@ Patient ki health information confidential hai. Nurse consent aur applicable leg
 
 **Correct: D. Abdominal paracentesis**
 
-Paracentesis abdomen ki peritoneal cavity se ascitic fluid remove karti hai. Diagnostic aur therapeutic indications ho sakti hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Thoracentesis pleural fluid, bronchoscopy airway aur LP CSF se related hain.
+**A kyun galat hai:** Bronchoscopy se trachea aur bronchi ko inspect kiya jaata hai. Iska target respiratory airway hai, peritoneal cavity nahi.
+
+**B kyun galat hai:** Thoracentesis chest ke pleural space ka procedure hai. Yeh abdominal ascitic fluid remove nahi karti.
+
+**C kyun galat hai:** Lumbar puncture mein CSF sample liya jaata hai. Isse ascites drain nahi hota.
+
+**D kyun sahi hai:** Peritoneal cavity abdomen ke andar organs ke around potential space hai. Ismein jama fluid ko ascites kehte hain. Abdominal paracentesis se clinician fluid sample le sakta hai ya symptoms kam karne ke liye drain kar sakta hai.
+
+**Exam clue:** Ascites ke liye abdominal paracentesis aur pleural effusion ke liye thoracentesis yaad rakho.
 
 </details>
 
@@ -2583,9 +2663,17 @@ External marking tube ke nose ke paas visible length batati hai. Marking mein ma
 
 **Correct: A. Withhold tube use and obtain approved placement confirmation**
 
-Unconfirmed tube respiratory tract mein ho sakti hai. Feed, water ya medicines introduce karne se severe injury ho sakti hai, isliye validated confirmation required hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Test water bhi unsafe ho sakta hai. Whoosh aur external marking alone position prove nahi karte.
+**A kyun sahi hai:** Agar tube stomach ki jagah airway mein ho toh feed ya medicine lungs ko serious harm kar sakti hai. Nurse tube use withhold karti hai aur tube type ke approved confirmation protocol ko follow karti hai. Gastric NG tube ke liye accepted methods mein suitable aspirate pH ya correctly interpreted X-ray aate hain. Confirmation document hone se pehle kuch instill nahi karna chahiye.
+
+**B kyun galat hai:** Tube placement confirm nahi hui toh thoda sa water bhi respiratory tract mein ja sakta hai. Isliye test flush ya test dose ko placement check ke substitute ke roop mein use nahi karte.
+
+**C kyun galat hai:** Whoosh test mein air inject karke sound suna jaata hai, lekin sound se tube ka stomach mein hona reliably establish nahi hota. Current safety guidance initial placement ke liye is method ko accept nahi karti.
+
+**D kyun galat hai:** External marking tube ki visible length track karne mein useful ho sakti hai. Lekin initial insertion ke baad tip ka correct location sirf marking se prove nahi hota.
+
+**Exam clue:** Unconfirmed feeding tube ko water, feed ya medicine ke liye use mat karo.
 
 </details>
 
@@ -2671,9 +2759,17 @@ Gurgling awaaz airway mein secretions ya fluid ka clue ho sakti hai. Jab conscio
 
 **Correct: C. Assess symptoms and reversible contributors, provide comfort measures and request symptom-treatment review**
 
-Breathlessness ko palliative care mein actively address kiya jaata hai. Positioning, calm support aur prescribed medicines patient goals ke according use ho sakti hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Untreated symptoms distress badhate hain. Unprescribed drugs aur forced activity unsafe hain.
+**A kyun galat hai:** Vigorous exercise se oxygen demand badh sakti hai aur already breathless patient ko aur takleef ho sakti hai. Activity tolerance aur goals ke according honi chahiye.
+
+**B kyun galat hai:** Unprescribed sedative se consciousness aur breathing affect ho sakti hai. Nurse assessment ke bina medicine administer nahi karti.
+
+**C kyun sahi hai:** Nurse breathlessness ki severity, breathing effort aur possible reversible causes assess karti hai. Comfortable positioning aur calm support se relief mil sakta hai. Treating team se prescribed symptom plan review karwati hai aur acute deterioration mein agreed emergency plan ke according urgent help leti hai.
+
+**D kyun galat hai:** Palliative care ka matlab distress ko untreated chhodna nahi hai. Breathlessness ke liye comfort aur appropriate treatment dono consider karte hain.
+
+**Exam clue:** Breathlessness mein assessment, comfort aur cause-directed review saath chalte hain.
 
 </details>
 
@@ -2768,9 +2864,17 @@ Sterile normal saline suitable compatible peripheral access ke routine flushing 
 
 **Correct: B. Urgent respiratory assessment for possible pneumothorax and escalation**
 
-Thoracentesis ke baad lung injury ya pneumothorax possible complication hai. Sudden respiratory change urgent evaluation maangti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Walking, waiting aur heat pleural complication address nahi karte.
+**A kyun galat hai:** Heating pad se pleural air leak ya acute respiratory compromise treat nahi hota. Sirf heat lagane se urgent assessment delay ho sakta hai.
+
+**B kyun sahi hai:** Thoracentesis ke baad sudden breathlessness aur ek taraf breath sounds kam hona pneumothorax ka warning sign ho sakta hai. Nurse airway, breathing, oxygen saturation aur circulation assess karti hai, appropriate oxygen aur emergency support protocol follow karti hai aur urgent clinician review arrange karti hai. Sirf signs se diagnosis confirm nahi hota.
+
+**C kyun galat hai:** Unassisted walking se unstable patient ki oxygen demand aur fall risk badh sakta hai. Pehle respiratory status assess karna chahiye.
+
+**D kyun galat hai:** Next meal tak wait karne se potentially serious complication worsen ho sakti hai. New respiratory distress immediate action maangti hai.
+
+**Exam clue:** Post-thoracentesis sudden dyspnea ko urgent complication samajhkar assess karo.
 
 </details>
 
@@ -2789,9 +2893,17 @@ Thoracentesis ke baad lung injury ya pneumothorax possible complication hai. Sud
 
 **Correct: A. Cystoscopy**
 
-Cystoscopy endoscope se urethra aur bladder lining inspect karne mein help karti hai. Aftercare procedure-specific instructions se hoti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Gastroscopy upper GI, bronchoscopy airway aur otoscopy ear examination hai.
+**A kyun sahi hai:** Cystoscopy mein clinician urethra ke through scope se bladder aur urethral lining inspect karta hai. Nurse procedure preparation aur aftercare instructions follow karti hai aur significant bleeding, fever ya inability to void jaise warning signs assess karti hai.
+
+**B kyun galat hai:** Gastroscopy upper gastrointestinal tract ko inspect karti hai. Yeh bladder visualization ka test nahi hai.
+
+**C kyun galat hai:** Bronchoscopy airway ke andar visualization ke liye use hoti hai. Yeh bladder lining inspect nahi karti.
+
+**D kyun galat hai:** Otoscopy mein ear canal aur tympanic membrane dekhe jaate hain. Yeh urinary tract investigation nahi hai.
+
+**Exam clue:** Cysto ka sambandh bladder se hai aur broncho ka airway se hai.
 
 </details>
 
@@ -2983,9 +3095,17 @@ Usual unilateral weakness mein cane stronger ya contralateral hand mein hold ki 
 
 **Correct: B. Prescribed active or assisted exercises according to restrictions**
 
-Active or assisted exercises patient ki remaining strength use karti hain. Nurse rehabilitation plan ke according gradually activity support karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Complete inactivity disuse badhati hai. Forceful exercise aur fixed positioning injury cause kar sakte hain.
+**A kyun galat hai:** Har contraction avoid karne se disuse aur weakness badh sakti hai. Patient ko allowed activity ke liye encourage karna chahiye.
+
+**B kyun sahi hai:** Active exercise mein patient khud muscle contract karta hai. Active-assisted exercise mein zaroorat ke hisaab se help milti hai. Stable patient ki remaining ability use karne se strength aur function maintain karne mein madad milti hai.
+
+**C kyun galat hai:** Prescribed limit se zyada force lagane par pain, injury ya healing mein problem ho sakti hai. Exercise restrictions ke according honi chahiye.
+
+**D kyun galat hai:** Joint ko bina reassessment fixed rakhne se stiffness aur pressure-related problems badh sakti hain. Kuch injuries mein immobilization zaroori hai, lekin plan clinician decide karta hai.
+
+**Exam clue:** Available strength use karo aur prescribed restrictions respect karo.
 
 </details>
 
@@ -3136,9 +3256,17 @@ Agonal gasping mein patient occasional irregular gasps le sakta hai, lekin yeh e
 
 **Correct: D. Explain care, protect privacy and respect the person's preferences**
 
-Patient ki dignity aur participation illness severity se khatam nahi hoti. Nurse gentle explanation aur privacy maintain karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Unnecessary exposure aur ignoring preferences respect compromise karte hain.
+**A kyun galat hai:** Spiritual needs ignore karne se patient ka comfort aur trust affect ho sakta hai. Nurse poochti hai ki patient ko kis tarah ka support chahiye.
+
+**B kyun galat hai:** Conscious patient ke saamne usko ignore karke baat karna disrespectful ho sakta hai. Nurse patient ko discussion mein shamil karti hai jitna woh chahe aur kar sake.
+
+**C kyun galat hai:** Bina zaroorat body expose karne se privacy compromise hoti hai. Nurse sirf required area expose karti hai.
+
+**D kyun sahi hai:** Dying patient bhi dignity aur respect ka haq rakhta hai. Nurse care se pehle samjhati hai, privacy maintain karti hai, applicable consent process follow karti hai aur patient ki preferences ko care mein include karti hai.
+
+**Exam clue:** Dignity mein privacy, respectful communication aur patient preference important hain.
 
 </details>
 
@@ -3289,9 +3417,17 @@ Urine aur stool skin barrier ko irritate karte hain aur excessive moisture skin 
 
 **Correct: B. Stop the transfusion and initiate assessment and reaction protocol**
 
-Transfusion reaction confirm hone se pehle further exposure stop karna important hai. Nurse assessment aur blood bank-clinician notification karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Continuing ya next unit harm badha sakte hain. Nonspecific fever bhi context mein important hai.
+**A kyun galat hai:** Reaction confirm hone tak blood continue karne se patient aur implicated product ke exposure mein reh sakta hai. Serious hemolysis ya bacterial contamination mein deterioration rapid ho sakti hai.
+
+**B kyun sahi hai:** Nurse suspected reaction par transfusion turant stop karti hai. Airway, breathing, circulation aur vital signs assess karke emergency help, clinician aur transfusion service ko protocol ke according notify karti hai. Vascular access suitable separate line ya new set se maintain hota hai aur implicated unit ko investigation ke liye preserve karte hain. Diagnosis confirm hone ka wait nahi karte.
+
+**C kyun galat hai:** Next unit dene se investigation delay aur further exposure ho sakta hai. Further transfusion ka decision authorized transfusion team clinical assessment ke baad leti hai.
+
+**D kyun galat hai:** Fever ka cause nonspecific ho sakta hai, lekin transfusion ke dauran chills serious reaction ka warning sign ho sakte hain. Monitoring kam karna unsafe hai.
+
+**Exam clue:** Suspected transfusion reaction mein pehla action transfusion stop karna hai.
 
 </details>
 
@@ -3535,9 +3671,17 @@ Meatus urethra ka external opening hai. Catheter ke around routine gentle cleani
 
 **Correct: D. Hold routine ambulation until prompt assessment of possible thrombosis and follow team guidance**
 
-New unilateral swelling DVT ka clue ho sakti hai. Nurse routine activity adjust karke timely assessment arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Massage aur heat before assessment unsafe ho sakte hain. False documentation inappropriate hai.
+**A kyun galat hai:** Painful swollen calf ko massage karke turant walk karwana suspected thrombosis ka appropriate assessment nahi hai. Isse urgent review delay hoti hai.
+
+**B kyun galat hai:** Heat lagane se clot ki diagnosis ya treatment nahi hoti. New swelling ko ignore karne se possible serious condition miss ho sakti hai.
+
+**C kyun galat hai:** Mobility goal meet hua hai ya nahi, actual activity se document karna chahiye. New symptoms ke bawajood false completion unsafe hai.
+
+**D kyun sahi hai:** New unilateral calf pain aur swelling postoperative patient mein possible DVT ka clue hai. Nurse routine ambulation pause karke prompt clinical assessment arrange karti hai. Breathlessness ya chest pain ho toh emergency pathway follow karti hai. Confirmed DVT ke baad appropriate anticoagulation aur team guidance ke hisaab se mobility resume ho sakti hai, indefinite bed rest automatically required nahi hai.
+
+**Exam clue:** Suspected DVT mein routine activity pause karke prompt evaluation lo, long-term bed rest automatically mat prescribe karo.
 
 </details>
 
@@ -3720,9 +3864,17 @@ Latex allergy mein immune system natural rubber latex ke proteins par react kar 
 
 **Correct: D. Assess distal perfusion and correct the fit according to policy**
 
-Rolled stocking focal compression create kar sakti hai aur blood flow ya nerve function affect ho sakta hai. Nurse remove-adjust aur assess karti hai according to protocol.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Tightening, another layer aur symptoms ignore karna injury risk badhate hain.
+**A kyun galat hai:** Rolled stocking ka band local pressure badha raha hai. Aur tight karne se nerve aur circulation par pressure badh sakta hai.
+
+**B kyun galat hai:** Toe numbness nerve compression ya impaired perfusion ka warning sign ho sakta hai. Stocking laga rehna safety ka proof nahi hai.
+
+**C kyun galat hai:** Doosri tight layer se pressure aur badh sakta hai. Pehle harmful compression remove karna aur assessment zaroori hai.
+
+**D kyun sahi hai:** Nurse problematic stocking ka use rok kar harmful pressure relieve karti hai aur skin colour, temperature, sensation, capillary refill aur pulses assess karti hai. Abnormal findings par prompt clinical review leti hai. Fit aur suitability confirm hone ke baad hi policy ke according use resume karti hai.
+
+**Exam clue:** Compression ke saath numbness ya pain ho toh device rok kar neurovascular assessment karo.
 
 </details>
 
@@ -3776,9 +3928,17 @@ Repeated chest compressions physically tiring hoti hain. Rescuer fatigue hone pa
 
 **Correct: D. Assess learning needs, readiness, language and existing knowledge**
 
-Education patient ke current knowledge aur practical needs se start honi chahiye. Readiness aur language assess karne se teaching accessible hoti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Long lecture har patient ke liye suitable nahi hai. Learning needs vary karti hain. Universal pretest required nahi hai.
+**A kyun galat hai:** Pretest kuch settings mein helpful ho sakta hai, lekin har patient ke liye formal test zaroori nahi hai. Nurse conversation aur observation se existing knowledge assess kar sakti hai.
+
+**B kyun galat hai:** Har patient ki knowledge, preferences aur learning barriers alag hote hain. Sabke liye identical teaching se individual needs miss ho sakti hain.
+
+**C kyun galat hai:** Sabse lambi lecture select karne se learning automatically improve nahi hoti. Patient ko short sessions, visual aids ya demonstration zyada suit kar sakte hain.
+
+**D kyun sahi hai:** Education plan banane se pehle nurse assess karti hai ki patient pehle se kya jaanta hai, kya seekhna chahta hai aur abhi seekhne ke liye ready hai ya nahi. Language, pain, fatigue aur practical barriers samajhne se teaching individual needs ke hisaab se plan hoti hai.
+
+**Exam clue:** Patient teaching bhi nursing process ki tarah assessment se shuru hoti hai.
 
 </details>
 
