@@ -342,27 +342,27 @@
 
 </details>
 
-### Q14. A stable adult has started eating better and asks when prescribed oral nutrition support can be stopped. Which criterion follows NICE CG32?
+### Q14. A dietitian orders individual food enrichment for an underweight adult by adding tolerated protein-rich ingredients to prepared meals. A trainee says this intervention is legally identical to industrial staple-food micronutrient fortification. Which clarification is appropriate?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Discontinuation criterion | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Individual food enrichment versus population fortification | **Type:** Original practice
 
-- **A.** Immediately after consuming the first complete meal
-- **B.** Whenever the first supplement bottle is finished
-- **C.** Only when the patient develops a supplement intolerance
-- **D.** When adequate oral intake from normal food is established, after clinical review
+- **A.** Both interventions always require the same industrial fortificant concentration schedule
+- **B.** Individual meal enrichment should be recorded as a population-wide micronutrient distribution programme
+- **C.** Industrial fortification automatically satisfies every individual patient's energy and protein prescription
+- **D.** Individual food enrichment increases dietary energy or protein according to assessed needs, whereas industrial fortification follows its applicable food standards and population objective
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. When adequate oral intake from normal food is established, after clinical review**
+**Correct: D. Individual food enrichment increases dietary energy or protein according to assessed needs, whereas industrial fortification follows its applicable food standards and population objective**
 
-- **A. Incorrect:** Single complete meal sustained adequacy prove nahi karti. Continued pattern assess hona chahiye.
-- **B. Incorrect:** One bottle consume karna overall nutrition recovery establish nahi karta. Decision total dietary intake par based hai.
-- **C. Incorrect:** Intolerance review ka indication ho sakti hai, but established adequate normal intake bhi stopping criterion hai.
-- **D. Correct:** Support ka goal nutrient adequacy achieve karna hai. Normal diet se sufficient intake establish ho jaaye toh team supplement ki need reassess karke stop kar sakti hai.
+- **A. Incorrect:** Everyday meal enrichment aur regulated industrial fortification ki purpose aur method different ho sakti hain. Hospital ya home meal mein tolerated protein ingredient add karna automatically industrial micronutrient schedule ka application nahi hota. Applicable food safety requirements phir bhi follow karte hain.
+- **B. Incorrect:** Individual diet plan ek particular patient's assessed nutritional needs address karta hai. Population fortification programme larger target group mein micronutrient exposure improve karne ki strategy ho sakti hai. Individual intervention ko programme coverage count nahi karna chahiye.
+- **C. Incorrect:** Fortified staple micronutrient contribution improve kar sakta hai, lekin patient's total energy aur protein requirement separate assess karni hoti hai. Industrial food standard meet hone se individual prescription meet hona prove nahi hota.
+- **D. Correct:** Food-first enrichment mein suitable ingredients se meal ki energy ya protein density badhaate hain. Industrial fortification mein specified nutrient standards aur applicable regulations relevant hote hain. Dono terms ko context ke hisaab se distinguish karna chahiye, aur individual clinical plan qualified assessment se guide hota hai.
 
-**Exam clue:** Oral support stop karne ka basis established adequate normal-food intake hai.
+**Exam clue:** Food enrichment ka individual energy-protein objective aur regulated industrial micronutrient fortification ka scope alag rakho.
 
-**Evidence:** [NICE CG32, recommendations](https://www.nice.org.uk/guidance/cg32/chapter/Recommendations) (indexed text, direct page access blocked). [Concept guide](../Concepts/29-Adult-Underweight-and-Oral-Nutrition-Rehabilitation.md).
+**Evidence:** [BAPEN, Food First/Food Enrichment](https://www.bapen.org.uk/education/nutrition-support/nutrition-by-mouth/food-first-food-enrichment/) and [WHO food fortification Q&A](https://www.who.int/news-room/questions-and-answers/item/food-fortification) (WHO overview previously indexed in 08C). [Concept guide](../Concepts/29-Adult-Underweight-and-Oral-Nutrition-Rehabilitation.md).
 
 **YouTube MCQ practice:** Specific item verification pending.
 
