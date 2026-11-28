@@ -180,7 +180,7 @@
 
 **Exam clue:** Pressure aur flow ek hi parameter nahi hain.
 
-**Reference:** [ESICM 2025 shock monitoring abstract](https://link.springer.com/article/10.1007/s00134-025-08137-z).
+**Reference:** [ESICM 2025 shock and hemodynamic monitoring full guideline](https://pure.eur.nl/ws/files/215348682/ESICM_guidelines_on_circulatory_shock_and_hemodynamic_monitoring_2025.pdf).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -206,7 +206,7 @@
 
 **Exam clue:** Normal-looking pressure does not prove adequate forward flow.
 
-**Reference:** [ESICM 2025 shock monitoring abstract](https://link.springer.com/article/10.1007/s00134-025-08137-z).
+**Reference:** [ESICM 2025 shock and hemodynamic monitoring full guideline](https://pure.eur.nl/ws/files/215348682/ESICM_guidelines_on_circulatory_shock_and_hemodynamic_monitoring_2025.pdf).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -232,33 +232,33 @@
 
 **Exam clue:** Paired gas trends can complement perfusion assessment.
 
-**Reference:** [ESICM 2025 shock monitoring abstract](https://link.springer.com/article/10.1007/s00134-025-08137-z).
+**Reference:** [ESICM 2025 shock and hemodynamic monitoring full guideline](https://pure.eur.nl/ws/files/215348682/ESICM_guidelines_on_circulatory_shock_and_hemodynamic_monitoring_2025.pdf).
 
 **YouTube MCQ practice:** exact item verification pending.
 
 </details>
 
-### Q10. A patient with a central venous catheter has an isolated CVP of 9 mmHg. A colleague concludes that a further fluid bolus will definitely increase stroke volume. What is the appropriate correction?
+### Q10. A mechanically ventilated adult with persistent shock has spontaneous respiratory efforts and a tidal volume of 6 mL/kg predicted body weight. The monitor displays pulse pressure variation (PPV). Under ESICM 2025, what is the appropriate interpretation?
 
 **Difficulty:** Difficult | **Priority:** High | **Type:** Original practice | **Topic:** Advanced ICU monitoring
 
-- **A.** Every CVP of 9 mmHg proves fluid responsiveness
-- **B.** CVP measures left ventricular ejection fraction directly
-- **C.** CVP replaces assessment of cardiac output and congestion
-- **D.** A static CVP alone cannot reliably establish fluid responsiveness
+- **A.** PPV alone reliably establishes the need for another fluid bolus
+- **B.** PPV should not be used alone to predict fluid responsiveness in these conditions
+- **C.** The ventilator should automatically be changed to a higher tidal volume solely to make the measurement valid
+- **D.** PPV can replace all monitoring of organ perfusion
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. A static CVP alone cannot reliably establish fluid responsiveness**
+**Correct: B. PPV should not be used alone to predict fluid responsiveness in these conditions**
 
-- **A.** Fixed single cutoff sab patients ke liye predictive nahi hota.
-- **B.** Ejection fraction ventricular volume change se assess hoti hai. CVP uska direct measure nahi.
-- **C.** Congestion aur flow alag information dete hain. Combined assessment useful hai.
-- **D.** CVP right-sided pressure context deta hai, par ventricular response to added preload directly establish nahi karta. Applicable dynamic assessment chahiye.
+- **A.** Spontaneous breathing aur low tidal volume PPV ki predictive reliability limit kar sakte hain. Single reading se fluid bolus automatically decide nahi karte.
+- **B.** ESICM recommendation 21 specifically spontaneous respiratory effort aur low tidal volume ke combination mein PPV alone ke against suggest karti hai. Team alternative applicable dynamic assessment aur perfusion findings use karti hai.
+- **C.** Ventilation strategy patient ki lung protection aur clinical needs ke hisaab se hoti hai. Sirf monitor number valid karne ke liye independent tidal-volume increase unsafe ho sakta hai.
+- **D.** PPV ek functional predictor hai, actual organ perfusion ka complete assessment nahi. Clinical response aur other measurements relevant hain.
 
-**Exam clue:** Static filling pressure is not a definitive fluid-response test.
+**Exam clue:** Spontaneous breaths plus low tidal volume mein PPV alone reliable decision tool nahi hai.
 
-**Reference:** [ESICM 2025 shock monitoring abstract](https://link.springer.com/article/10.1007/s00134-025-08137-z).
+**Reference:** [ESICM 2025 recommendation 21, page 1985](https://pure.eur.nl/ws/files/215348682/ESICM_guidelines_on_circulatory_shock_and_hemodynamic_monitoring_2025.pdf).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -284,7 +284,7 @@
 
 **Exam clue:** Echo helps distinguish circulatory shock phenotypes.
 
-**Reference:** [ESICM 2025 shock monitoring abstract](https://link.springer.com/article/10.1007/s00134-025-08137-z).
+**Reference:** [ESICM 2025 shock and hemodynamic monitoring full guideline](https://pure.eur.nl/ws/files/215348682/ESICM_guidelines_on_circulatory_shock_and_hemodynamic_monitoring_2025.pdf).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -310,7 +310,7 @@
 
 **Exam clue:** IAP consensus thresholds use mmHg.
 
-**Reference:** [WSACS 2013 consensus definitions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3680657/).
+**Reference:** [WSACS consensus definitions table](https://www.wsacs.org/education/436/wsacs-consensus-guidelines-summary/).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -336,7 +336,7 @@
 
 **Exam clue:** Exclude active abdominal contraction for resting IAP assessment.
 
-**Reference:** [WSACS 2013 consensus definitions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3680657/).
+**Reference:** [WSACS consensus definitions table](https://www.wsacs.org/education/436/wsacs-consensus-guidelines-summary/).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -362,7 +362,7 @@
 
 **Exam clue:** WSACS adult intermittent bladder technique: maximum 25 mL.
 
-**Reference:** [WSACS 2013 consensus definitions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3680657/).
+**Reference:** [WSACS consensus definitions table](https://www.wsacs.org/education/436/wsacs-consensus-guidelines-summary/).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -388,7 +388,7 @@
 
 **Exam clue:** Standard IAP measurement uses end-expiration and relaxed supine position.
 
-**Reference:** [WSACS 2013 consensus definitions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3680657/).
+**Reference:** [WSACS consensus definitions table](https://www.wsacs.org/education/436/wsacs-consensus-guidelines-summary/).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -414,7 +414,7 @@
 
 **Exam clue:** 17 mmHg fits WSACS grade II IAH.
 
-**Reference:** [WSACS 2013 consensus definitions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3680657/).
+**Reference:** [WSACS consensus definitions table](https://www.wsacs.org/education/436/wsacs-consensus-guidelines-summary/).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -440,7 +440,7 @@
 
 **Exam clue:** ACS requires sustained IAP above 20 plus new organ dysfunction.
 
-**Reference:** [WSACS 2013 consensus definitions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3680657/).
+**Reference:** [WSACS consensus definitions table](https://www.wsacs.org/education/436/wsacs-consensus-guidelines-summary/).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -466,7 +466,7 @@
 
 **Exam clue:** APP uses subtraction, not addition.
 
-**Reference:** [WSACS 2013 consensus definitions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3680657/).
+**Reference:** [WSACS consensus definitions table](https://www.wsacs.org/education/436/wsacs-consensus-guidelines-summary/).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -492,7 +492,7 @@
 
 **Exam clue:** Risk plus new organ dysfunction warrants assessment for raised IAP.
 
-**Reference:** [WSACS 2013 consensus definitions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3680657/).
+**Reference:** [WSACS consensus definitions table](https://www.wsacs.org/education/436/wsacs-consensus-guidelines-summary/).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -518,7 +518,7 @@
 
 **Exam clue:** Track IAP and organ response together.
 
-**Reference:** [WSACS 2013 consensus definitions](https://pmc.ncbi.nlm.nih.gov/articles/PMC3680657/).
+**Reference:** [WSACS consensus definitions table](https://www.wsacs.org/education/436/wsacs-consensus-guidelines-summary/).
 
 **YouTube MCQ practice:** exact item verification pending.
 
