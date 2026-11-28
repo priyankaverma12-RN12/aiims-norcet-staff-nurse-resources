@@ -1,0 +1,7 @@
+# 04D — MAS and PPHN evidence and gaps
+
+Original practice only, 28 November 2026. [Bank](../MCQs/04D-Meconium-Aspiration-and-PPHN-20-MCQs.md) · [Guide](../Concepts/04D-Meconium-Aspiration-and-PPHN.md)
+
+- [MSD MAS](https://www.msdmanuals.com/professional/pediatrics/respiratory-problems-in-neonates/meconium-aspiration-syndrome) direct HTML retrieved: Q01–05, Q08–11, mechanism, presentation and differential. Q12 [CPS surfactant guidance](https://cps.ca/en/documents/position/guidelines-for-surfactant-replacement-therapy-in-neonates/) indexed; direct URL confirmation pending. No mandatory surfactant for all MAS asserted.
+- [MSD PPHN](https://www.msdmanuals.com/professional/pediatrics/respiratory-problems-in-neonates/persistent-pulmonary-hypertension-of-the-newborn-pphn) indexed text: Q06–07, Q13–20, shunting, echocardiography, oxygenation and advanced treatment. Q14, Q17–19 require additional full-text and unit-protocol verification; Q19 is given-formula arithmetic. [Safer Care Victoria MAS](https://www.safercare.vic.gov.au/best-practice-improvement/clinical-guidance/neonatal/meconium-aspiration-syndrome) indexed clinical context.
+- Prior birth resuscitation and routine suction objectives intentionally excluded; prior RDS CPAP mechanism and pneumothorax response not recreated. Adjacent path screening limited; full semantic comparison remains pending. All question-level video gaps explicit. No authenticated exam item claimed. Independent clinical/difficulty review, curriculum and rendering/CI pending.
