@@ -254,26 +254,26 @@
 
 </details>
 
-### Q11. A study enrolled unusually healthy adults at a specialist centre and reports a large benefit. The authors claim the result applies to every inpatient. Which criticism is strongest?
+### Q11. In a diagnostic accuracy report, only participants with a positive index screening test undergo the reference standard. Negative results remain unverified. What is the major risk of bias?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** The generalizability claim exceeds the studied population and setting
-- **B.** No internally valid observation can exist
-- **C.** A single-centre study must be fraudulent
-- **D.** A large effect proves universal benefit
+- **A.** Partial verification bias
+- **B.** Inter-rater disagreement alone
+- **C.** Lead-time bias alone
+- **D.** Randomization sequence error
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. The generalizability claim exceeds the studied population and setting**
+**Correct: A. Partial verification bias**
 
-**A.** Eligibility aur specialist setting applicability limit kar sakte hain. External validity assess kiye bina universal claim unjustified hai.
+**A.** Reference verification index result par depend karti hai, so disease status selectively missing hai. Partial verification bias sensitivity aur specificity estimates distort kar sakta hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Restricted sample internal validity necessarily destroy nahi karta. Internal validity and generalizability separate issues hain.
-- **C.** Single-centre design limitation ho sakti hai, fraud ka evidence nahi. Methods and context independently evaluate karo.
-- **D.** Effect magnitude alone every population aur setting mein transferability establish nahi karti. Clinical context important hai.
+- **B.** Inter-rater disagreement different observers ke ratings mein variation hai. Yahan primary concern selective reference-standard testing hai.
+- **C.** Lead-time bias earlier disease detection se apparent survival duration change hone ko describe karta hai. Given problem diagnostic verification ka hai.
+- **D.** Diagnostic accuracy design necessarily randomized intervention trial nahi hai. Selective verification ka concern allocation sequence se distinct hai.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -511,5 +511,7 @@
 - [ICMJE Recommendations, January 2026](https://www.icmje.org/recommendations/), direct index reviewed. Individual subpages need full item-level review.
 - [US Office of Research Integrity definitions](https://ori.hhs.gov/definition-research-misconduct), direct HTML reviewed. Integrity terminology is educational, not a statement of Indian legal jurisdiction.
 - [ICMR ethics and RIPE policy index](https://ethics.ncdirindia.org/ICMR_Ethical_Guidelines.aspx), official index reviewed.
+
+- [Diagnostic partial verification bias, PubMed indexed abstract](https://pubmed.ncbi.nlm.nih.gov/35124189/), indexed abstract consulted for Q11.
 
 Independent item-level appraisal, source mapping, specific exam syllabus coverage and dedicated MCQ video verification remain pending.
