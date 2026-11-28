@@ -1,18 +1,18 @@
 # Endocrine manual work claim
 
-State: CLAIMED
-Owner: endocrine-b06-resume-20261128T1609Z
-Scope: PR54 new 14B established adult central DI inpatient nursing candidate package only. No shared navigation or prior bank edits.
-Claimed UTC: 2026-11-28T16:09:00Z
-Expiry UTC: 2026-11-28T16:39:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
-Last owner: endocrine-b06-20261128T1554Z
-Release: Batch 06 partial staging and exact readbacks completed on 2026-11-28.
+Last owner: endocrine-b06-resume-20261128T1609Z
+Release: 14B candidate package completed, all five new files exactly read back and all 1429 prior branch blobs preserved.
 Draft PR: #54
-Verified checkpoint: 15efa1d60e5c8a23ca73e6f35c0984e168576662
-Content head: a2ecea3d3e8bbf983b965b2e883e3d5fae8eb14e
-Checkpoint: Chapters/Endocrine-System/Batch-06-Candidate-Checkpoint.md
-Inventory: 520 staged originals, 2080 individual Roman Hinglish rationales, 520 clues, 26 banks, 26 concepts, 26 SVGs, 26 evidence registers.
-Batch 06 partial: 20 originals (7 Easy, 7 Medium, 6 Difficult), 80 rationales, 20 clues, one package 14A. All previous 1424 branch blobs preserved. 80 further questions remain for Batch 06.
-Prior exact-head CI 46144827945 succeeded. Content CI 46162586957 pending at inspection. Checkpoint CI 46162627400 pending/null.
-No live/mock/PYQ credit. Full independent clinical, semantic, curriculum, difficulty, video, rendering, navigation, latest-main reconciliation and exact-head CI gates remain open. Next: acquire fresh isolated claim and finish four verified uncovered topics without regenerating 14A or prior banks. Preserve other sessions, learner history and five hourly automations.
+Verified checkpoint: c54f7e2369dd34730d9647597a21884586d9d674
+Content head: c54f7e2369dd34730d9647597a21884586d9d674
+Checkpoint: Chapters/Endocrine-System/Batch-06-14B-Candidate-Checkpoint.md
+Inventory: 540 staged originals, 2160 individual Roman Hinglish rationales, 540 clues, 27 banks, 27 concepts, 27 SVGs, 27 evidence registers.
+Batch 06: 40/100 staged originals, 14 Easy, 14 Medium, 12 Difficult, 160 rationales. 14A preserved. 14B added 20, 80 rationales and 20 clues. Remote structure and key alignment passed.
+Prior exact-head CI 46162627400 passed. New exact-head CI: 46163193626 in_progress/null.
+No live/mock/PYQ credit. Bounded adjacent path and selected stem screening, direct clinical source reading done. Full independent clinical, semantic, curriculum, difficulty/language, item-specific video, SVG visual rendering, navigation and latest-main reconciliation gates remain open. Next: 60 further original candidates across three verified uncovered topics, after fresh scope verification. Preserve other sessions, learner history and five hourly automations.
