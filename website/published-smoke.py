@@ -50,6 +50,11 @@ with sync_playwright() as p:
         else:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
+    # Compare public versioned assets with the exact checked-out deployment bytes.
+    for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js"):
+        response=api.get(urljoin(base,filename)+"?v=11.8&build="+commit,headers={"Cache-Control":"no-cache"})
+        assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
+        print("Published V11.8 asset exact readback:",filename,flush=True)
     api.dispose()
     browser=p.chromium.launch()
     for width,height in [(1440,900),(390,844)]:
@@ -63,6 +68,8 @@ with sync_playwright() as p:
             assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth+2"),"Horizontal overflow"
         page.goto(base+"?build="+commit)
         expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
+        for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js"):
+            assert page.evaluate("""name=>[...document.querySelectorAll('script[src],link[rel=stylesheet]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')==='11.8'})""",filename), f"Wrong live asset version: {filename}"
         expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
         expect(page.locator(".study-day-date")).to_have_count(7)
@@ -182,7 +189,9 @@ with sync_playwright() as p:
         page.locator(".compact-index input[type=search]").fill("Respiratory Anatomy")
         expect(page.locator(".index-resource-group[open]")).to_have_count(0)
         page.locator(".index-resource-group[data-kind=mcq]>summary").click()
-        index=page.locator(".compact-index .tracked-resource-card").filter(has=page.locator("a[href*='Day-01-Complete-Respiratory-Anatomy-Physiology.md']")).first
+        index=page.locator('.compact-index .index-resource-group[data-kind=mcq] .tracked-resource-card').filter(has=page.locator(f'input[data-progress-path="{sample}"]'))
+        expect(index).to_have_count(1)
+        expect(index).to_be_visible()
         expect(index.locator(".resource-question-count")).to_contain_text("44 MCQs")
         index.locator("input[type=checkbox]").check()
         expect(index.locator(".tracked-resource-line strong")).to_have_text("100%")
@@ -199,6 +208,15 @@ with sync_playwright() as p:
         for section in ["theory","mcq","mock","pyq"]:
             expect(page.locator(f".completion-category[data-kind={section}]")).to_have_count(1)
         expect(page.locator(".completion-resource")).to_have_count(0)
+        for kind in ("theory","mcq","mock","pyq"):
+            group=page.locator(f".completion-category[data-kind={kind}]")
+            summary=group.locator(":scope > summary")
+            assert summary.bounding_box()["height"]>=44
+            summary.click()
+            expect(page.locator(".completion-category[open]")).to_have_count(1)
+            expect(group.locator(".completion-resource").first).to_be_visible()
+            assert group.locator(".completion-resource input").evaluate_all("(els,k)=>els.every(e=>studyFolderKind(progressCatalog.find(r=>r.path===e.dataset.progressPath)?.kind)===k)",kind)
+            summary.click()
         page.locator("#progress-kind").select_option("mcq")
         expand_folders(page,"progress","mcq")
         expect(page.locator(".completion-category[data-kind=theory]")).to_have_count(0)
@@ -236,6 +254,16 @@ with sync_playwright() as p:
         expect(page.locator(".metric-chapter").first).not_to_have_attribute("open","")
         expand_chapter(page)
         expect(page.locator(".metric-category[open]")).to_have_count(0)
+        for kind in ("theory","mcq","mock","pyq"):
+            group=page.locator(f".metric-category[data-kind={kind}]")
+            expect(group).to_have_count(1)
+            summary=group.locator(":scope > summary")
+            assert summary.bounding_box()["height"]>=44
+            summary.click()
+            expect(page.locator(".metric-category[open]")).to_have_count(1)
+            expect(group.locator(".metric-record").first).to_be_visible()
+            assert group.locator(".metric-record").evaluate_all("(els,k)=>els.every(e=>studyFolderKind(e.dataset.category)===k)",kind)
+            summary.click()
         expand_folders(page)
         records=page.locator(".metric-records a.metric-record:not([data-category=theory])")
         expect(records).to_have_count(len(chapter["records"]))
@@ -292,6 +320,18 @@ with sync_playwright() as p:
         expect(page.locator(".index-resource-group[open]")).to_have_count(0)
         expect(page.locator(".outline-card")).not_to_have_attribute("open","")
         expect(page.locator("#original-index")).not_to_have_attribute("open","")
+        for kind in ("theory","mcq","mock","pyq"):
+            group=page.locator(f".index-resource-group[data-kind={kind}]")
+            expect(group).to_have_count(1)
+            summary=group.locator(":scope > summary")
+            assert summary.bounding_box()["height"]>=44
+            summary.click()
+            expect(page.locator(".index-resource-group[open]")).to_have_count(1)
+            expect(group.locator(".index-link-list")).to_be_visible()
+            summary.click()
+        for selector in ("#original-index > summary",".outline-card > summary"):
+            assert page.locator(selector).bounding_box()["height"]>=44
+        print(f"Published V11.8 closed and isolated folders and 44px targets passed at {width}x{height}.",flush=True)
         if width<600:
             expect(page.locator(".outline-card")).not_to_have_attribute("open","")
             page.locator(".outline-card summary").click()
