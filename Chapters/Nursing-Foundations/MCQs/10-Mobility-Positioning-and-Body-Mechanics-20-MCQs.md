@@ -132,7 +132,7 @@ Suspected cervical injury mein unstable vertebral injury ho sakti hai. Unnecessa
 
 ### Q5. Which body mechanics technique reduces spinal strain when moving an object within safe lifting limits?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 AIIMS Bhatinda Nursing Officer, 29 September 2019 — related memory-based concept](https://testbook.com/question-answer/a-principle-of-good-body-mechanics-includes-which--617656cab2cc971558e83de3)**
 
 - **A.** Hold the load far away and twist the trunk
 - **B.** Keep knees rigid while bending from the waist
@@ -152,6 +152,8 @@ Object lifting mein load ka weight aur body se distance dono spinal torque par a
 - **D (Sahi):** Close load, stable stance aur hip-knee movement object lifting mein control aur leverage improve karte hain.
 
 **Exam clue:** Object lifting ≠ dependent patient lifting. Mechanical aids ko priority dein.
+
+**Historical evidence (related concept only):** Testbook ki memory-based report mein stable base aur knees bend karne ka principle poochha gaya tha. Yeh original MCQ usi principle ko safe object lifting mein apply karta hai. Isse dependent patient ko manually lift karna safe nahi maana ja sakta. Official paper aur final key authenticate nahi hue hain.
 
 **Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
@@ -415,7 +417,7 @@ Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur 
 
 ### Q14. A patient with a weak hemiplegic arm is being transferred. Which action protects the shoulder?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 JIPMER Staff Nurse, 4 June 2013 — related reported concept](https://testbook.com/question-answer/when-helping-a-stroke-patient-nurse-should-assist--6221ec81f798152216401a3c)**
 
 - **A.** Support the affected arm and avoid pulling on it
 - **B.** Lift the patient by the affected wrist
@@ -435,6 +437,8 @@ Stroke ke baad weak ya flaccid arm mein shoulder stabilizing muscle activity kam
 - **D (Galat):** Resistance ke against forced movement soft tissue damage kar sakti hai. Therapist-guided range aur scapular movement ka dhyan rakhein.
 
 **Exam clue:** Hemiplegic shoulder = support, never pull on affected arm.
+
+**Historical evidence (related concept only):** Testbook ki reported item mein stroke patient ko assist karte waqt nurse ki position poochhi gayi thi. Uski explanation affected arm ko support karne ka bhi zikr karti hai. Yeh original MCQ shoulder protection par hai, isliye dono ko exact same question nahi samajhna chahiye. Official paper aur final key authenticate nahi hue hain.
 
 **Clinical reference:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/2-shoulder-pain-and-complex-regional-pain-syndrome)
 
@@ -603,7 +607,7 @@ Slide sheet ya approved transfer aid dependent patient ki repositioning mein fri
 
 ### Q20. A patient has a new restriction against hip flexion beyond the prescribed limit. Which nursing approach is appropriate during toileting?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 HPRCA Assistant Staff Nurse, 20 March 2026 Q76 — related reported concept](https://www.scribd.com/document/1045794040/20-March-HPRCA-Nursing-Staff-paper)**
 
 - **A.** Use a very low toilet seat regardless of the restriction
 - **B.** Flex the hip forcefully to improve range
@@ -623,6 +627,8 @@ Hip flexion restriction surgeon ke specific procedure aur patient plan par depen
 - **D (Sahi):** Suitable equipment aur individualized transfer technique prescribed restriction maintain karte hain aur safe toileting support karte hain.
 
 **Exam clue:** Specific prescribed hip limit > generic rules.
+
+**Historical evidence (related concept only):** Third-party response sheet mein Q76, ID 4410091684671, hip replacement ke baad dislocation se bachne ke liye movement restriction poochhta hai. Candidate ka selected answer official final key nahi hai. Yeh original MCQ prescribed hip flexion limit ke andar safe toileting ka decision poochhta hai. [NHS guidance](https://www.guysandstthomas.nhs.uk/health-information/precautions-after-hip-surgery) ke mutabik precautions individual surgical plan par depend karti hain. Raised toilet seat tab use ki jaati hai jab assessment ke mutabik uski zaroorat ho. Original key aur official historical key ko ek hi cheez na samjhein.
 
 **Clinical reference:** [NHS individualized hip precautions](https://www.guysandstthomas.nhs.uk/health-information/precautions-after-hip-surgery)
 
