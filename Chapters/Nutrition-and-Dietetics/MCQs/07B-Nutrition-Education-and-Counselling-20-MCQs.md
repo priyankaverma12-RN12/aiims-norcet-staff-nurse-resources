@@ -242,7 +242,7 @@ The focus is nutrition-specific education design, methods, implementation, evalu
 
 ### Q10. A village education programme intends to reach 240 eligible households. At review, 156 distinct eligible households have attended at least one session. What is the observed household reach percentage?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Programme reach calculation | **Type:** Original practice
+**Difficulty:** 🟢 Easy | **Priority:** 🟠 HIGH YIELD | **Topic:** Programme reach calculation | **Type:** Original practice
 
 - **A.** 84%
 - **B.** 65%
@@ -320,7 +320,7 @@ The focus is nutrition-specific education design, methods, implementation, evalu
 
 ### Q13. During a six-month nutrition education campaign, a new produce market opens and vegetable prices fall substantially. Vegetable consumption rises at follow-up. Why should the nurse avoid attributing the entire rise to the campaign?
 
-**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** External influences on programme outcomes | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** External influences on programme outcomes | **Type:** Original practice
 
 - **A.** Price changes invalidate all collected dietary observations
 - **B.** A six-month interval automatically excludes external influences
