@@ -265,28 +265,30 @@
 
 ---
 
-### Q10. A woman considering vaginal estrogen for prevention has a history of estrogen-sensitive breast cancer. Which nursing action is safest?
+### Q10. A postmenopausal woman has agreed to prescribed vaginal estrogen for recurrent cystitis but finds the cream applicator difficult to use because of hand arthritis. What should the nurse discuss?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Estrogen shared decision
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Feasible local estrogen formulation
 
-- **A.** Proceed without discussing the cancer history because systemic absorption is generally low
-- **B.** Recommend avoiding all future local therapy without a specialist discussion
-- **C.** Arrange individualized discussion with the treating clinician and oncology team as appropriate
-- **D.** Choose systemic HRT instead to simplify the treatment plan
+- **A.** Increase the cream dose to compensate for difficulty with application
+- **B.** Replace local treatment with systemic HRT solely to avoid the applicator
+- **C.** Discuss a suitable alternative vaginal formulation based on her preferences and ability to use it
+- **D.** Add daily antibiotic prophylaxis solely because she finds the cream inconvenient
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Arrange individualized discussion with the treating clinician and oncology team as appropriate**
+**Correct answer: C. Discuss a suitable alternative vaginal formulation based on her preferences and ability to use it**
 
-**A. Kyun galat hai:** Local estrogen ka systemic absorption usually low ho sakta hai, lekin estrogen-sensitive cancer mein treatment history aur patient preference important hain. Individualized discussion skip nahi karni chahiye.
+**A. Kyun galat hai:** Applicator use karne mein dikkat hone ka matlab prescribed dose insufficient hona nahi hai. Dose badhane se application ki problem solve nahi hogi aur unnecessary exposure ho sakta hai.
 
-**B. Kyun galat hai:** Cancer history automatically har possible local option ko exclude nahi karti. Nonhormonal measures, persistent symptoms aur specialist guidance ke hisaab se decision ho sakta hai.
+**B. Kyun galat hai:** Systemic HRT ka risk aur benefit profile local vaginal estrogen se alag hai. NICE sirf recurrent UTI prevent karne ke liye systemic HRT start karne ki salah nahi deta. Isliye pehle local treatment ko practical banane ke options discuss karo.
 
-**C. Kyun sahi hai:** Cancer history aur ongoing treatment ko consider karke shared decision lena chahiye. Oncology input relevant ho sakta hai.
+**C. Kyun sahi hai:** Vaginal estrogen cream ke alawa tablet, pessary, gel ya ring jaise formulations mein available ho sakta hai. Arthritis ki wajah se application difficult ho toh nurse patient ki preference aur practical ability samajh kar prescriber ke saath suitable formulation discuss kar sakti hai. Formulation change ke saath prescribed instructions bhi clear honi chahiye.
 
-**D. Kyun galat hai:** Systemic HRT ka exposure aur risk profile local vaginal treatment se alag hai. Is context mein systemic substitute bina appropriate clinical review ke choose nahi karna chahiye.
+**D. Kyun galat hai:** Daily antibiotic prophylaxis ka decision recurrence, previous preventive measures, adverse effects aur resistance risk dekh kar hota hai. Cream applicator use karne ki difficulty apne aap mein long-term antibiotic shuru karne ka indication nahi hai.
 
-**Clinical reference:** [Guidance](https://www.auanews.net/issues/articles/2025/october-2025/updates-to-the-aua/cua/sufu-guideline-on-recurrent-uncomplicated-urinary-tract-infections-in-women).
+**Exam clue:** Local prevention ko feasible banane ke liye formulation preference aur administration ability assess karo.
+
+**Clinical reference:** [NICE NG112, recommendation 1.2.2](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
 **YouTube MCQ practice:** Verification pending for this item.
 
@@ -758,28 +760,30 @@
 
 ---
 
-### Q27. A postmenopausal woman with recurrent cystitis also reports an interrupted urinary stream and a sensation of incomplete emptying. Which additional assessment should the nurse discuss?
+### Q27. A nonpregnant woman with recurrent cystitis has severe hepatic insufficiency documented in her medical record. A new preventive prescription is for methenamine hippurate. According to the cited US Hiprex product label, what should the nurse do before administration?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Emptying assessment
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Methenamine contraindication
 
-- **A.** Assess daily fluid intake only and postpone evaluation of voiding symptoms
-- **B.** Attribute incomplete emptying to menopause and begin preventive treatment without further assessment
-- **C.** Assessment for incomplete bladder emptying and residual urine when indicated
-- **D.** Measure urine culture alone to determine whether bladder emptying is impaired
+- **A.** Administer the medicine because it is used for prevention rather than acute treatment
+- **B.** Give half the prescribed dose without consulting the prescriber
+- **C.** Withhold administration pending prompt prescriber clarification because severe hepatic insufficiency is a listed contraindication
+- **D.** Administer the usual dose if the current urine culture is negative
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Assessment for incomplete bladder emptying and residual urine when indicated**
+**Correct answer: C. Withhold administration pending prompt prescriber clarification because severe hepatic insufficiency is a listed contraindication**
 
-**A. Kyun galat hai:** Fluid history useful hai, lekin interrupted stream aur incomplete emptying separate voiding problem ka signal ho sakte hain. Sirf hydration par focus karne se underlying cause miss ho sakti hai.
+**A. Kyun galat hai:** Medicine prevention ke liye ho ya acute treatment ke liye, contraindications phir bhi check karni padti hain. Long-term preventive use hone se severe hepatic insufficiency ka safety concern khatam nahi hota.
 
-**B. Kyun galat hai:** Menopause recurrence risk ko affect kar sakta hai, lekin incomplete emptying ko automatically normal nahi maana ja sakta. Residual urine aur possible functional ya structural cause assess karna relevant hai.
+**B. Kyun galat hai:** Dose ko khud se aadha karna contraindication ka established solution nahi hai. Prescriber ko liver disease aur available prevention alternatives review karne chahiye.
 
-**C. Kyun sahi hai:** Jab bladder poori tarah empty nahi hota, toh residual urine reh sakta hai. Clinical assessment aur indicated postvoid residual measurement underlying factor identify karne mein help karte hain.
+**C. Kyun sahi hai:** US Hiprex label mein severe hepatic insufficiency contraindication hai. Isliye documented severe liver dysfunction ke saath nurse ko administration rok kar promptly prescription clarify karni chahiye. Country-specific labels aur local protocol alag ho sakte hain, isliye authorized clinician hi alternative plan decide kare.
 
-**D. Kyun galat hai:** Culture organism detect kar sakta hai, lekin bladder mein voiding ke baad kitna urine bacha hai ye nahi batata. Indicated residual volume assessment alag test hai.
+**D. Kyun galat hai:** Negative urine culture se current bacterial growth ke baare mein information milti hai. Isse liver dysfunction ki medicine-related safety concern resolve nahi hoti. Contraindication ko culture result se override nahi kar sakte.
 
-**Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
+**Exam clue:** Preventive medicine bhi contraindicated ho sakti hai. Prescribing context aur patient safety dono check karo.
+
+**Clinical reference:** [US Hiprex product label, contraindications](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c8ddaa11-5753-46eb-8bd4-8f1d874a3ec4).
 
 **YouTube MCQ practice:** Verification pending for this item.
 
