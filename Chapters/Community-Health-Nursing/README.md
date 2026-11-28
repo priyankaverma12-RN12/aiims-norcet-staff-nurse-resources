@@ -15,11 +15,11 @@
 
 ## Manual chapter work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr62-b05-20261128T1642Z
+Scope: PR62 Batch05 new distinct community programme banks only: Jal Jeevan Mission water service governance, VHSNC village health accountability, WHO International Health Regulations and international notification. Exclude existing PR61/62 stems and shared navigation, draft only.
+Claimed UTC: 2026-11-28T16:42:00Z
+Expiry UTC: 2026-11-28T17:12:00Z
 
 Latest candidate: [PR62 — Batch 01](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/62), head `b6157733d7f4e1b0180e98569d35f47ddce7fb84`. Five banks, 100 original MCQs, 400 individual Roman Hinglish option rationales, 100 exam clues, 16 Easy, 55 Medium, 29 Difficult. All bank and candidate index exact remote readbacks passed, 100 distinct normalized stems, four options and aligned key per question. Not live. Preserve four existing originals and two reported adaptations. Resume actual remaining topic banks on the same candidate branch after exclusive ownership, then ten 120-question original-only mocks, then source-traced PYQs. Concept/visual, video and independent release checks remain pending. No repeat retrospective audit during content creation. Preserve other owners and five hourly schedules.
 
