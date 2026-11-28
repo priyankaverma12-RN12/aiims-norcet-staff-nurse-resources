@@ -1,6 +1,6 @@
 # Pharmacology
 
-**Starter stage, not studied.** This chapter has 4 original questions. It is not complete yet.
+**Starter stage, not studied.** This candidate adds 20 foundational pharmacokinetics questions to the four preserved starters. It is not complete yet and has not been merged into main.
 
 | Section | Open |
 |---|---|
@@ -10,3 +10,11 @@
 | Previous Year Questions | [Research register](Previous-Year-Questions/Pharmacology-Past-Paper-Research-Register.md) |
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
+
+
+## Candidate topic expansion
+
+- [Pharmacokinetics foundations — 20 original MCQs](MCQs/01-Pharmacokinetics-Foundations-20-MCQs.md)
+- [Detailed Roman Hinglish concepts and original diagram](Concepts/01-Pharmacokinetics-Foundations.md)
+- [Reported RRB pharmacokinetics practice](Previous-Year-Questions/01-Pharmacokinetics-Reported-Evidence.md)
+- [Candidate progress and evidence gaps](MCQs/Pharmacology-Priority-Ten-Candidate-Checkpoint.md)
