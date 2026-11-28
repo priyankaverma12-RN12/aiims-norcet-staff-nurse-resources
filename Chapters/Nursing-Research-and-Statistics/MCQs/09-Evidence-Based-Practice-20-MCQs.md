@@ -31,7 +31,7 @@
 
 ### Q2. A nurse wants to know how women experience breast-milk expression after returning to work, rather than compare two treatments. Which question formulation is best?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** A question requiring a drug-versus-placebo comparison
 - **B.** A question limited to mean blood pressure
@@ -81,7 +81,7 @@
 
 ### Q4. A literature search misses articles that use 'decubitus ulcer' instead of 'pressure ulcer'. Which adjustment most directly improves recall?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Combine synonyms exclusively with AND
 - **B.** Search only the exact phrase from one textbook
@@ -106,7 +106,7 @@
 
 ### Q5. A nurse searches PubMed and notices that an older article uses terminology different from the current clinical wording. How can controlled vocabulary help?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Relevant MeSH terms can retrieve indexed records under a shared subject heading
 - **B.** MeSH automatically guarantees that every relevant recent preprint is indexed
@@ -206,7 +206,7 @@
 
 ### Q9. A preventive intervention has moderate-certainty evidence of benefit, but a capable patient declines after discussing its burden and alternatives. What is the appropriate evidence-based nursing response?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Insist on the intervention because moderate-certainty evidence overrides all preferences
 - **B.** Abandon all evidence-based care for this patient
@@ -231,7 +231,7 @@
 
 ### Q10. A new guideline conflicts with an older ward policy. The nurse has verified that the recommendation is applicable and potentially important. What is the safest next organizational step?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Silently rewrite the entire policy without authorization
 - **B.** Escalate through the clinical governance pathway for evidence review and policy revision
@@ -256,7 +256,7 @@
 
 ### Q11. An evidence-supported bedside intervention requires equipment that is not available in a rural facility. What is the most useful next action?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Improvise unvalidated equipment regardless of safety
 - **B.** Label the evidence false because the facility lacks equipment
@@ -306,7 +306,7 @@
 
 ### Q13. A ward introduces a new discharge teaching workflow to improve comprehension. Which additional measure would best detect an unintended burden from the change?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Number of teaching checklists printed
 - **B.** Percentage of patients correctly demonstrating self-care only
@@ -331,7 +331,7 @@
 
 ### Q14. A team tests a revised handover checklist on one shift, reviews feedback and changes the checklist before a larger rollout. Which improvement approach does this illustrate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** A small iterative Plan–Do–Study–Act cycle
 - **B.** A definitive multicentre randomized trial
@@ -356,7 +356,7 @@
 
 ### Q15. Audit data show that adherence to an approved care standard varies considerably across shifts. Which response is most consistent with constructive audit and feedback?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Publish individual blame rankings without validating the records
 - **B.** Stop measuring because baseline performance is poor
@@ -381,7 +381,7 @@
 
 ### Q16. A nurse manager wants to understand why a well-supported care protocol is not routinely followed. Staff report training gaps, workflow interruptions and lack of supplies. What is the most appropriate implementation step?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Repeat the same reminder regardless of each barrier
 - **B.** Identify modifiable barriers and tailor implementation strategies to them
@@ -481,7 +481,7 @@
 
 ### Q20. A nurse implements an evidence-based discharge leaflet and wants to evaluate whether the change has been sustained six months later. Which plan best answers this question?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Use only the initial launch-day attendance
 - **B.** Repeat predefined adherence and relevant outcome measurements over time
