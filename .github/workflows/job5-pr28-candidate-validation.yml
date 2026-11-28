@@ -1,0 +1,110 @@
+# Temporary candidate-only validation. Do not merge this workflow into main.
+name: Job 4 and Job 5 PR28 candidate validation
+on:
+  push:
+    branches: [job4-reciprocal-combined-candidate-20261128]
+    paths:
+      - '.github/workflows/job5-pr28-candidate-validation.yml'
+      - 'Chapters/Nursing-Foundations/Mock-Tests/Nursing-Foundations-Mock-*-120.md'
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Validate frozen candidate and current main source mappings
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import re
+          import subprocess
+          from pathlib import Path
+
+          def git(*args):
+              return subprocess.check_output(["git", *args]).decode("utf-8")
+
+          def read(ref, path):
+              return git("show", f"{ref}:{path}")
+
+          def blocks(text):
+              parts = re.split(r"(?=^### Q\d+\.)", text, flags=re.M)
+              return parts[0], parts[1:]
+
+          def heading(block):
+              return re.search(r"^### (.+)$", block, re.M).group(1)
+
+          def stem(block):
+              return re.sub(r"^Q\d+\.\s*", "", heading(block))
+
+          def options(block):
+              result = re.findall(r"^- \*\*([ABCD])\.\*\* (.+)$", block, re.M)
+              assert [k for k, v in result] == list("ABCD")
+              return dict(result)
+
+          def answer(block):
+              key, value = re.search(r"^\*\*Correct(?: answer)?: ([ABCD])\. (.+?)\*\*$", block, re.M).groups()
+              assert options(block)[key] == value, (heading(block), key)
+              return key, value
+
+          def details(block):
+              result = re.findall(r"<details>[\s\S]*?</details>", block)
+              assert len(result) == 1, heading(block)
+              return result[0]
+
+          def slug(value):
+              return "".join(c for c in value.lower() if c.isalnum() or c in " _-").replace(" ", "-")
+
+          root = "Chapters/Nursing-Foundations"
+          frozen = [
+              "6699b5373dff6fae6a070fe6c218a4e8264ab071",
+              "4ad3a5c32d6d64eb55455f858e9afea192f3b29a",
+              "05fe8dae1778b9d5356b1e9c723572e875409d42",
+              "f011aa6e983be476499b18c790831a34ea1bef68",
+              "bdd139258dee65b8c963571b8b8b3adbd6cf1de4",
+          ]
+          main = git("rev-parse", "origin/main").strip()
+          print("Validated main:", main, "Candidate:", git("rev-parse", "HEAD").strip())
+          source_ids = set()
+          for i, expected in enumerate(frozen, 1):
+              name = f"Nursing-Foundations-Mock-0{i}-120.md"
+              path = f"{root}/Mock-Tests/{name}"
+              assert git("rev-parse", "HEAD:" + path).strip() == expected, path
+              pre, old = blocks(read(main, path))
+              post, new = blocks(Path(path).read_text(encoding="utf-8"))
+              assert pre == post and len(old) == len(new) == 120, path
+              changed = 0
+              for before, after in zip(old, new):
+                  assert heading(before) == heading(after)
+                  assert options(before) == options(after)
+                  assert answer(before) == answer(after)
+                  details(after)
+                  if before == after:
+                      continue
+                  changed += 1
+                  link = re.search(r"\[Source topic bank:[^\]]*?, Q(\d+)\]\(\.\./MCQs/((?:26|27|28|29|30)-[^)#]+\.md)#([^)]+)\)", after)
+                  assert link, heading(after)
+                  q, source, anchor = link.groups()
+                  source_id = (source, q)
+                  assert source_id not in source_ids
+                  source_ids.add(source_id)
+                  _, bank = blocks(read(main, f"{root}/MCQs/{source}"))
+                  target = next(b for b in bank if heading(b).startswith(f"Q{q}."))
+                  assert anchor == slug(heading(target))
+                  assert stem(target) == stem(after)
+                  assert sorted(options(target).values()) == sorted(options(after).values())
+                  assert answer(target)[1] == answer(after)[1]
+                  assert f"../Mock-Tests/{name}#{slug(heading(after))}" in target
+                  reasons = re.findall(r"^\*\*([ABCD]) kyun (sahi|galat) hai:\*\*", details(after), re.M)
+                  assert sorted(k for k, v in reasons) == list("ABCD")
+                  assert [k for k, v in reasons if v == "sahi"] == [answer(after)[0]]
+                  assert details(after).count("**Exam clue:**") == 1
+              assert changed == 20, (name, changed)
+              print(name, "120 identities, 20 targets, 80 rationales, 100 unchanged blocks")
+          assert len(source_ids) == 100
+          print("PASS: 600 identities, 100 mappings and clues, 400 individual reasons, 500 unchanged blocks.")
+          PY
