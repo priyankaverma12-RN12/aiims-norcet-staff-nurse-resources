@@ -131,27 +131,27 @@
 
 </details>
 
-### Q6. A patient with PSC has chronic diarrhea. Which history is particularly relevant to share with the hepatology team?
+### Q6. Which term describes widening of a bile duct seen upstream from a narrowing on PSC imaging?
 
 **Difficulty:** Easy · **Priority:** High · **Exam focus:** NORCET / HPRCA HP Staff Nurse / PGIMER · Original practice
 
-- **A.** Previous simple spectacle prescription
-- **B.** Known ulcerative colitis
-- **C.** Remote healed ankle sprain
-- **D.** History of uncomplicated earwax impaction
+- **A.** Biliary atresia by definition
+- **B.** Biliary dilatation
+- **C.** Hepatic steatosis
+- **D.** Splenic infarction
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Known ulcerative colitis**
+**Correct answer: B. Biliary dilatation**
 
-**A. Kyun galat hai:** Spectacle prescription bowel inflammation explain nahi karti.
+**A. Kyun galat hai:** Atresia duct absence ya obliteration describe kar sakti hai. Widening iska definition nahi hai.
 
-**B. Kyun sahi hai:** Ulcerative colitis PSC ke saath associated inflammatory bowel disease hai. Diarrhea bowel disease activity ka sign ho sakta hai.
+**B. Kyun sahi hai:** Bile ka outflow narrow segment se restricted ho toh upstream duct widen ho sakti hai. Imaging finding ko symptoms aur liver tests ke saath interpret karte hain.
 
-**C. Kyun galat hai:** Ankle sprain chronic diarrhea ka typical cause nahi hai.
+**C. Kyun galat hai:** Steatosis liver cells mein fat accumulation hai, duct widening nahi.
 
-**D. Kyun galat hai:** Earwax issue PSC-associated intestinal disease se unrelated hai.
+**D. Kyun galat hai:** Splenic infarction spleen ki blood supply loss se tissue injury hai.
 
-**Exam clue:** Ulcerative colitis is an important PSC association.
+**Exam clue:** Dilatation means widening of the duct.
 
 </details>
