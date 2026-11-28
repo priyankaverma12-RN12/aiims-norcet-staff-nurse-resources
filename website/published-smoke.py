@@ -51,7 +51,7 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    asset_versions={"styles.css":"12.5","app.js":"12.5","progress.js":"12.2","routine.js":"12.4","study-ui.js":"12.4","quiz.js":"12.3","media.js":"11.9.2","favicon.svg":"1"}
+    asset_versions={"styles.css":"12.6","app.js":"12.5","progress.js":"12.2","routine.js":"12.4","study-ui.js":"12.4","quiz.js":"12.3","media.js":"11.9.2","favicon.svg":"1"}
     for filename,version in asset_versions.items():
         response=api.get(urljoin(base,filename)+"?v="+version+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
@@ -106,6 +106,7 @@ with sync_playwright() as p:
         expect(page.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
         expect(page.locator("#home")).to_be_hidden()
         assert "library=1" in page.url and not page.url.endswith("#library")
+        assert page.locator("#library .library-toolbar .panel-icon").evaluate_all("els=>els.every(e=>e.getBoundingClientRect().width>=44&&e.getBoundingClientRect().height>=44)")
         print(f"V12.5 live dedicated Library and expanded Home passed at {width}x{height}.",flush=True)
         if width<600:
             expect(page.locator("#library-filters")).to_be_hidden()
@@ -557,6 +558,8 @@ with sync_playwright() as p:
         page.keyboard.press("Escape")
         expect(page.locator("#metrics-filter-panel")).to_be_hidden()
         expect(page.locator(".history-period")).to_have_count(3)
+        assert page.locator(".history-periods").evaluate("e=>{const r=[...e.children].map(c=>c.getBoundingClientRect());return r.length===3&&Math.max(...r.map(x=>x.top))-Math.min(...r.map(x=>x.top))<2&&Math.max(...r.map(x=>x.width))-Math.min(...r.map(x=>x.width))<2}")
+        print(f"V12.6 live alignment passed at {width}x{height}.",flush=True)
         print(f"V12.4 live Metrics filter and compact activity passed at {width}x{height}.",flush=True)
         fit()
         go({"progress":"1","chapter":"Respiratory-System"})
