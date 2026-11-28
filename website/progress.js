@@ -58,15 +58,15 @@ function clearScope(marks,routine,paths){
  for(const p of paths){delete marks[p];delete routine.banks[p]}return {marks,routine};
 }
 function resetCompletionScope(records,label){
- if(!confirm('Reset '+label+'? This clears completion marks, checked-question coverage and revision suggestions for this scope. Daily activity history, bookmarks and saved test results stay unchanged.'))return false;
+ if(!confirm('Reset '+label+'? This clears your completed marks, answered questions and revision reminders here. Your daily history, bookmarks and saved test results stay safe.'))return false;
  const old=loadCompletion(),d=loadCompletion(),routine=loadRoutine();clearScope(d,routine,records.map(r=>r.path));
  if(!writeCompletion(d)){alert('Your browser could not reset progress.');return false}
- if(!saveRoutine(routine)){writeCompletion(old);alert('Your browser could not reset question coverage.');return false}
+ if(!saveRoutine(routine)){writeCompletion(old);alert('Your browser could not reset question progress.');return false}
  document.dispatchEvent(new CustomEvent('study-progress-change'));return true;
 }
 function completionLabel(p){
  const r=progressCatalog?.find(x=>x.path===p);if(!r)return null;const state=completionState(r,loadCompletion(),loadRoutine());
- return state.automatic?'Completed automatically':state.done?'Completed':state.changed?'Bank changed — review again':null;
+ return state.automatic?'Completed automatically':state.done?'Completed':state.changed?'New or updated questions — review again':null;
 }
 function completionMeter(percent,label){const meter=node('progress',undefined,'completion-meter');meter.max=100;meter.value=percent;meter.setAttribute('aria-label',label);return meter}
 function completionControl(r){
@@ -83,7 +83,7 @@ function readerCompletion(p){
  const panel=document.getElementById('reader-completion');if(!panel)return;
  const r=progressCatalog?.find(x=>x.path===p);if(!r)return;
  panel.hidden=false;
- const summary=node('div',undefined,'reader-progress-summary'),text=node('strong'),bar=completionMeter(0,'Topic question coverage'),control=completionControl(r);
+ const summary=node('div',undefined,'reader-progress-summary'),text=node('strong'),bar=completionMeter(0,'Topic progress'),control=completionControl(r);
  summary.append(text,bar);panel.replaceChildren(summary,control);
  function refresh(){const x=completionState(r,loadCompletion(),loadRoutine());text.textContent=x.slots?(x.done?'Completed · ':'')+x.checked+' / '+x.slots+' checked · '+completionPercent(x.covered,x.slots)+'% covered'+(x.changed?' · Bank changed':''):x.done?'Completed':'Study completion';bar.hidden=!x.slots;bar.value=completionPercent(x.covered,x.slots);control.refreshCompletion();panel.classList.toggle('is-completed',x.done)}
  refresh();document.addEventListener('study-progress-change',refresh);
@@ -98,12 +98,12 @@ function registerLiveBank(p,md,items){
 }
 function attachBankProgress(root,p){
  const r=progressCatalog?.find(x=>x.path===p);if(!r||!r.slots)return;
- const panel=node('div',undefined,'quiz-bank-progress'),line=node('div',undefined,'quiz-bank-progress-line'),title=node('strong'),percent=node('strong'),bar=completionMeter(0,'Overall bank question coverage'),note=node('small'),link=node('a','My progress');
+ const panel=node('div',undefined,'quiz-bank-progress'),line=node('div',undefined,'quiz-bank-progress-line'),title=node('strong'),percent=node('strong'),bar=completionMeter(0,'Your total progress'),note=node('small'),link=node('a','My progress');
  link.href='./?progress=1&chapter='+encodeURIComponent(r.chapter);line.append(title,percent);panel.append(line,bar,note,link);
  const target=root.querySelector('.practice-start-actions');if(target)target.before(panel);else root.prepend(panel);
  let previous=false,initialized=false;
  function refresh(){const x=completionState(r,loadCompletion(),loadRoutine());title.textContent=x.done?'✓ Bank completed':'Your bank progress';percent.textContent=completionPercent(x.covered,r.slots)+'%';bar.value=completionPercent(x.covered,r.slots);
- note.textContent=x.checked+' / '+r.slots+' checked'+(x.done&&!x.automatic&&x.checked<r.slots?' · Manually marked done':x.automatic?' · Completed automatically':x.changed?' · Source changed, review again':'');
+ note.textContent=x.checked+' / '+r.slots+' checked'+(x.done&&!x.automatic&&x.checked<r.slots?' · Manually marked done':x.automatic?' · Completed automatically':x.changed?' · Questions updated — review again':'');
  panel.classList.toggle('is-completed',x.done);if(initialized&&!previous&&x.automatic){panel.classList.add('celebrate-once');note.textContent+=' — Great work!'}previous=x.done;initialized=true}
  refresh();document.addEventListener('study-progress-change',refresh);
 }
@@ -125,7 +125,7 @@ function inventoryCounts(p){
 }
 function inventoryText(p){
  const c=inventoryCounts(p);if(!c)return '';
- return Object.entries({mcq:'MCQs',mock:'mock questions',pyq:'PYQ slots',imported:'imported questions',embedded:'embedded questions'}).filter(([k])=>c[k]>0).map(([k,label])=>c[k].toLocaleString('en-IN')+' '+label).join(' · ')||'';
+ return Object.entries({mcq:'MCQs',mock:'mock questions',pyq:'PYQ questions',imported:'imported questions',embedded:'embedded questions'}).filter(([k])=>c[k]>0).map(([k,label])=>c[k].toLocaleString('en-IN')+' '+label).join(' · ')||'';
 }
 function addInventoryCount(target,p){
  const text=inventoryText(p);if(text)target.append(node('span',text,'resource-question-count'));return target;
@@ -166,7 +166,7 @@ async function showProgress(){
  const opened=new Set(chapter.value?[chapter.value]:[]);
  function scope(){return records.filter(r=>!chapter.value||r.chapter===chapter.value)}
  function summaryBox(label,s){
-  const box=node('div',undefined,'completion-stat');box.append(node('span',label),node('strong',s.total?s.percent+'%':'—'),completionMeter(s.percent,label+' completion'),node('small',s.done+' / '+s.total+' resources done'));if(s.slots)box.append(node('small',s.covered+' / '+s.slots+' question slots covered · '+s.questionPercent+'%'));return box
+  const box=node('div',undefined,'completion-stat');box.append(node('span',label),node('strong',s.total?s.percent+'%':'—'),completionMeter(s.percent,label+' completion'),node('small',s.done+' / '+s.total+' resources done'));if(s.slots)box.append(node('small',s.covered+' / '+s.slots+' questions covered · '+s.questionPercent+'%'));return box
  }
  function draw(){
   const focusPath=document.activeElement?.dataset.progressPath;const marks=loadCompletion(),routine=loadRoutine(),scoped=scope(),s=completionSummary(scoped,marks,routine);
@@ -184,13 +184,13 @@ async function showProgress(){
    function populate(){if(body.children.length)return;for(const r of matches){
     const x=completionState(r,loadCompletion(),loadRoutine()),tile=node('article',undefined,'completion-resource'),a=node('a',undefined,'completion-resource-link');a.href=route(r.path);
     a.append(node('small',progressTypes[r.kind]),node('strong',r.title));tile.append(a);
-    if(r.slots){const line=node('div',undefined,'completion-question-label');line.append(node('span',x.checked+' / '+r.slots+' checked'+(x.automatic?' · Auto-completed':'')),node('strong',completionPercent(x.covered,r.slots)+'% covered'));tile.append(line,completionMeter(100*x.covered/r.slots,r.title+' question coverage'));if(r.scoreable<r.slots)tile.append(node('small',r.scoreable+' questions support interactive tracking','muted'))}
+    if(r.slots){const line=node('div',undefined,'completion-question-label');line.append(node('span',x.checked+' / '+r.slots+' checked'+(x.automatic?' · Auto-completed':'')),node('strong',completionPercent(x.covered,r.slots)+'% covered'));tile.append(line,completionMeter(100*x.covered/r.slots,r.title+' question coverage'));if(r.scoreable<r.slots)tile.append(node('small',r.scoreable+' questions can be answered here; read the others in the original notes','muted'))}
     tile.append(completionControl(r));tile.classList.toggle('is-completed',x.done);body.append(tile)
    }}
    card.open=!!chapter.value||!!search||opened.has(c.id);if(card.open)populate();card.ontoggle=()=>{if(card.open){opened.add(c.id);populate()}else opened.delete(c.id)};list.append(card);
   }
   if(!visible)list.append(node('p','No matching study resources.','empty-state'));
-  message.textContent=visible+' matching resources · Completion includes fully checked banks and your manual marks. It is not a mastery score.';if(focusPath)[...list.querySelectorAll('input[data-progress-path]')].find(x=>x.dataset.progressPath===focusPath)?.focus({preventScroll:true});
+  message.textContent=visible+' study items · Progress shows what you have studied, not your test score.';if(focusPath)[...list.querySelectorAll('input[data-progress-path]')].find(x=>x.dataset.progressPath===focusPath)?.focus({preventScroll:true});
  }
  chapter.onchange=()=>{opened.clear();if(chapter.value)opened.add(chapter.value);const u=new URL(location.href);if(chapter.value)u.searchParams.set('chapter',chapter.value);else u.searchParams.delete('chapter');history.replaceState(history.state,'',u.href);draw()};
  kind.onchange=draw;query.oninput=draw;filter.onchange=draw;

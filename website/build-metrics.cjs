@@ -40,7 +40,7 @@ for(const ent of fs.readdirSync(chapterRoot,{withFileTypes:true})){
 }
 for(const ent of fs.readdirSync(chapterRoot,{withFileTypes:true})){if(!ent.isFile()||!ent.name.endsWith('.md'))continue;const rel='Chapters/'+ent.name,md=fs.readFileSync(path.join(chapterRoot,ent.name),'utf8');resources[rel]=resourceMeta(rel,md.match(/^#\s+(.+)$/m)?.[1]||'',0)}
 const totals=blank(),banks=blank();for(const c of chapters)for(const k of cats){totals[k]+=c.totals[k];banks[k]+=c.banks[k];assert.equal(c.totals[k],c.records.filter(x=>x.category===k).reduce((s,x)=>s+x.slots,0))}
-const output={schema:1,generatedAt:new Date().toISOString(),sourceCommit:execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'}).trim(),method:'Detected A–D option sequences outside answer details, grouped by source file. These are published question occurrences, not unique original questions or authenticated PYQs. Mock slots may reuse bank questions. Unsupported formats and evidence-only entries are not counted.',chapters,totals,banks,resources};
+const output={schema:1,generatedAt:new Date().toISOString(),sourceCommit:execFileSync('git',['rev-parse','HEAD'],{cwd:root,encoding:'utf8'}).trim(),method:'Counts include questions with four answer choices in the study files. Some questions appear in both topic practice and mock tests. Reported exam questions may not be official papers. Notes without questions are not counted.',chapters,totals,banks,resources};
 fs.writeFileSync(path.join(__dirname,'study-metrics.json'),JSON.stringify(output));
 console.log('STUDY METRICS:',JSON.stringify({chapters:chapters.length,totals,banks}), 'all per-file sums verified.');
 console.log('RESOURCE TITLES:',Object.keys(resources).length,'Markdown documents indexed with consistent display metadata.');

@@ -15,3 +15,11 @@ assert.equal(bankProgress(d,p,offsetDay(day,1)).due,0);
 assert.equal(updateRoutine(d,p,items,{},day).changed,false);
 assert.equal(routineCount(d,day),2);
 console.log('Daily goal deduplication, local date rollover, revision scheduling and quick practice tests passed.');
+
+const {missedItems}=require('./routine.js');
+const review=emptyRoutine();updateRoutine(review,p,items,{'0':'A','1':'B'},day);
+assert.deepEqual(missedItems(review,p,items).map(q=>q.id),['0']);
+assert.deepEqual(quickItems(review,p,items,'mistakes',day).map(q=>q.id),['0']);
+updateRoutine(review,p,items,{'0':'B'},day);assert.equal(missedItems(review,p,items).length,0);
+assert.equal(routineCount(review,day),2);
+console.log('Review mistakes immediately, remove corrected answers and avoid duplicate daily counting passed.');
