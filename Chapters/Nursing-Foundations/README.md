@@ -5,19 +5,19 @@
 | Section | Open |
 |---|---|
 | Concepts and coverage | [Expanded topic map](Concepts/Nursing-Foundations-Topic-Coverage-Map.md) |
-| Original topic-wise questions | [1,276 original slots (600 initial + 676 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) |
+| Original topic-wise questions | [1,300 original slots (600 initial + 700 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md) |
 | Full chapter mocks | [Five 120-question tests](Mock-Tests/Nursing-Foundations-Mock-Test-Plan.md) |
 | Previous Year Questions | [34 source-linked reported adaptations](Previous-Year-Questions/Nursing-Foundations-Previous-Year-Questions-Index.md) |
 | Video resources | [Teaching and MCQ video guide](Concepts/Nursing-Foundations-Video-and-Research-Guide.md) |
 
-540 Medium and 736 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
+553 Medium and 747 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
 
 ## Revised individual-topic progress
 
-[Individual-topic audit](Concepts/Individual-Topic-Coverage-Audit.md) · [Nursing process and care planning](Concepts/01A-Nursing-Process-and-Care-Planning.md) · [Clinical judgment](Concepts/01B-Clinical-Judgment-and-Reasoning.md). Two initial individual allocations of 30 each. Five legacy compiled practice tests are preserved. Ten new original-only chapter mocks remain the distinct target, with full semantic audit pending. Ab Group 09A ka allocation poora hua hai. Agla topic 09B catheter insertion aur removal hai.
+[Individual-topic audit](Concepts/Individual-Topic-Coverage-Audit.md) · [Nursing process and care planning](Concepts/01A-Nursing-Process-and-Care-Planning.md) · [Clinical judgment](Concepts/01B-Clinical-Judgment-and-Reasoning.md). Two initial individual allocations of 30 each. Five legacy compiled practice tests are preserved. Ten new original-only chapter mocks remain the distinct target, with full semantic audit pending. Ab Group 09A ka allocation poora hua hai. Group 09B bhi publish ho gaya hai. Agla topic 09C catheter maintenance aur CAUTI hai.
 
 
 [Communication](Concepts/02A-Therapeutic-Communication.md) · [Documentation](Concepts/02B-Nursing-Documentation-and-Records.md) · [Handover](Concepts/02C-Clinical-Handover-and-Team-Communication.md). Group 02 three allocations of 30 each. Total five individual allocations met at initial numerical target.
@@ -64,4 +64,6 @@
 
 [Central venous access](Concepts/08C-Central-Venous-Access.md) · [28 new MCQs](MCQs/08C-Central-Venous-Access-28-MCQs.md) · [Reported exam evidence](Previous-Year-Questions/08C-Central-Access-Reported-Evidence.md) · [Original device diagram](Assets/08C-Central-Access-Devices.svg). Is topic mein 28 naye original aur do purane questions milakar 30 allocate hue hain. Group 08A, 08B aur 08C ka numerical allocation target poora hua hai, lekin independent clinical, semantic, historical aur video audit abhi baaki hai. Group 09A ab publish ho gaya hai.
 
-[Urinary elimination assessment and continence care](Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md) · [26 new MCQs](MCQs/09A-Urinary-Elimination-Assessment-and-Continence-Care-26-MCQs.md) · [Reported exam evidence](Previous-Year-Questions/09A-Urinary-Elimination-Reported-Evidence.md) · [Original assessment diagram](Assets/09A-Urinary-Elimination-Assessment.svg). 30 allocated (26 new + four preserved), 104 individual option rationales, 290 related existing stems compared with zero exact normalized matches. One uncounted DSSSB source-based adaptation. Full clinical, semantic, official-key and specific video audit pending. All 20 legacy Group 09 IDs reconciled in topic map, next 09B catheter insertion and removal (including reserved Group05 Q18 once), then 09C and 09D.
+[Urinary elimination assessment and continence care](Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md) · [26 new MCQs](MCQs/09A-Urinary-Elimination-Assessment-and-Continence-Care-26-MCQs.md) · [Reported exam evidence](Previous-Year-Questions/09A-Urinary-Elimination-Reported-Evidence.md) · [Original assessment diagram](Assets/09A-Urinary-Elimination-Assessment.svg). 30 allocated (26 new + four preserved), 104 individual option rationales, 290 related existing stems compared with zero exact normalized matches. One uncounted DSSSB source-based adaptation. Full clinical, semantic, official-key and specific video audit pending. All 20 legacy Group 09 IDs reconciled in topic map, 09B insertion/removal is now published, including Group05 Q18 allocated once. Next 09C and 09D.
+
+[Urinary catheter insertion and removal](Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md) · [24 new MCQs](MCQs/09B-Urinary-Catheter-Insertion-and-Removal-24-MCQs.md) · [Reported evidence](Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md) · [Original catheter schematic](Assets/09B-Catheter-Insertion-and-Removal.svg). Is topic mein 24 naye aur chhe preserved questions milakar 30 allocate hue hain. 96 individual rationales aur 356 related stems ke against zero exact normalized matches verify hue hain. SCTIMST 2019 source-based exercise uncounted hai. Independent clinical, semantic, official-key aur exact video audit pending hain. Next 09C maintenance/CAUTI aur 09D specimens.
