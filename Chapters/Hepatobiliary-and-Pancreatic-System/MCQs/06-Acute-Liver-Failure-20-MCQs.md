@@ -2,7 +2,7 @@
 
 **Study-ready candidate, not studied.** Original practice, not previous-year questions. Independent clinical and wider semantic review pending. No live inventory credit.
 
-[Chapter](../README.md) · [Topic map](../Concepts/Hepatobiliary-and-Pancreatic-System-Topic-Coverage-Map.md)
+[Chapter](../README.md) · [Companion concepts](../Concepts/06-Acute-Liver-Failure.md) · [Topic map](../Concepts/Hepatobiliary-and-Pancreatic-System-Topic-Coverage-Map.md)
 
 **Clinical references:** [AASLD, Defining and Managing Acute Liver Failure, 2025](https://www.aasld.org/liver-fellow-network/core-series/back-basics/defining-and-managing-acute-liver-failure) · [Acute liver failure: a practical update, 2024](https://doi.org/10.1016/j.jhepr.2024.101131) · [ACG guideline summary, 2023](https://www.guidelinecentral.com/guideline/2946151/) · [INASL consensus, 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7527855/). AASLD full HTML directly reviewed. Other sources indexed, with PMC direct access blocked by CAPTCHA. [2023 acetaminophen poisoning consensus](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2808062), indexed text, supports Q5. Specific question-solving video links pending, no playback claimed.
 
