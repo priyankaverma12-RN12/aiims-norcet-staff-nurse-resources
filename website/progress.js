@@ -145,7 +145,7 @@ function inventoryLabelParts(p,data=studyInventory){
  const labels=[],theory=theoryRecords(data,p).length;if(theory||p.endsWith('/Concepts/')||p.endsWith('/README.md')&&p.split('/').length===3)labels.push({kind:'theory',text:theoryCountText(theory)});if(totals.mcq)labels.push({kind:'mcq',text:countPhrase(totals.mcq,'MCQ','MCQs')});
  const mock=mockSummary(data,records);
  if(mock.tests||p.endsWith('/Mock-Tests/')||p.endsWith('/README.md')&&p.split('/').length===3)labels.push({kind:'mock',text:mockCountText(mock)});
- if(mock.drafts)labels.push({kind:'draft',text:countPhrase(mock.drafts,'draft section')+' · '+countPhrase(mock.draftQuestions,'question')});
+ if(mock.drafts)labels.push({kind:'draft',text:countPhrase(mock.drafts,'unfinished mock section')+' · '+countPhrase(mock.draftQuestions,'question')});
  if(mock.otherQuestions)labels.push({kind:'neutral',text:countPhrase(mock.otherQuestions,'other mock question')});
  if(totals.pyq)labels.push({kind:'pyq',text:countPhrase(totals.pyq,'PYQ question')});
  if(totals.imported)labels.push({kind:'neutral',text:countPhrase(totals.imported,'imported question')});
