@@ -1,10 +1,20 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-09b-tb-nutrition-20261128-1155Z
-Scope: Isolated PR35 09B tuberculosis nutrition, concepts, SVG and candidate-local inventory. No shared navigation, adjacent chapter, production or schedule changes.
-Claimed UTC: 2026-11-28T11:55:00Z
-Expiry UTC: 2026-11-28T12:25:00Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 09B tuberculosis nutritional care
+
+Candidate head: 777d143f013c2d4296d754e0b1bac5423333b325
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-09b-tb-nutrition-20261128-1155Z
+
+New 09B bank: 20 original MCQs, 80 individual Roman Hinglish rationales, 20 clues/evidence rows, 20 closed aligned answer blocks, five keys per answer letter, 1 Easy/14 Medium/5 Difficult. Bank b06fd2b6bb99941f6e9819f9e1552c2c450ea5e2 blob 4631bf029aebc1bd8d5b6fb83366d63291dcf507; SVG edf9180e45e56f154739a70ef6a9862f1363b0fb; guide be28e59e48ab50e13c1611a318a3e0ce07ec9372. All exact remote readbacks passed. SVG local render not yet performed. Prior 800 originals preserved: delta exactly four new Nutrition-local files including review. No normalized exact matches against 140 screened prior Nutrition and Community PR61 NTEP stems; complete semantic review and flagged related tasks pending. PR description readback exact.
+
+Current staged totals: 820 original candidates, 3280 individual rationales, 41 banks, 24 guides, 24 SVG sources. Four legacy originals and one adaptation separately preserved. WHO 2025 recommendations and March 2026 Indian TB campaign text checked, relevant PDF page visually inspected. AMB 2026 full guideline remains inaccessible. Complete historical preflight, independent clinical/dietetic/regulatory, semantic and flagged 07D/07E reviews, full INC depth, individual videos, PR7/8 release, local SVG render and final CI still outstanding. Exact candidate CI 46142439765 pending at inspection. No merge, live/mock/PYQ credit, other job, website, learner history or schedule changes.
+
+Next: screen genuine remaining curriculum gaps and adjacent lanes before distinct new content or targeted corrective commits. Verify 09B local SVG rendering and CI, retrieve full 2026 AMB where available, complete mandatory review and coordination gates before integration, then original-only mocks and authenticated PYQs. Do not repeat completed 07D/07E, 08A–E or 09A/B authorship.
 
 ## Latest released checkpoint — 09A additives, contaminants and residues
 
