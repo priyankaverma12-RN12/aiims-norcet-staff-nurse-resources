@@ -30,6 +30,10 @@ jobs:
           node --check website/app.js
           node --check website/quiz.js
           node website/quiz.test.cjs
+          node --check website/progress.js
+          node website/progress.test.cjs
+          node --check website/routine.js
+          node website/routine.test.cjs
       - name: Browser test dependencies
         run: |
           python -m pip install playwright==1.56.0 markdown-it-py==3.0.0

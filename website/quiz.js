@@ -39,6 +39,15 @@ function resultMetrics(items,selected,penalty){
  const s=scoreBank(items,selected,penalty),answered=s.correct+s.wrong;
  return {...s,answered,percentage:s.total?100*s.score/s.total:0,accuracy:answered?100*s.correct/answered:null};
 }
+
+function performanceFeedback(percent){
+ if(percent===100)return {level:'perfect',greeting:'Hurrah! Perfect score!',advice:'You answered every question correctly. Keep this knowledge fresh with revision or move on to the next topic.',celebrate:true,symbol:'★'};
+ if(percent>=80)return {level:'strong',greeting:'Excellent work!',advice:'You did very well on these questions. Review the ones you missed, then keep learning.',celebrate:true,symbol:'✓'};
+ if(percent>=60)return {level:'good',greeting:'Well done! Keep improving.',advice:'You are making good progress. Review your incorrect answers and try another short practice session.',celebrate:false,symbol:'✓'};
+ if(percent>=40)return {level:'developing',greeting:'Good effort — more practice will help.',advice:'Revisit the concepts behind your incorrect answers, then practise those questions again.',celebrate:false,symbol:'↻'};
+ return {level:'review',greeting:'Keep going — this topic needs more practice.',advice:'Read the topic notes, review each missed explanation, and try the questions again. Aim to improve your next score.',celebrate:false,symbol:'↻'};
+}
+
 function answerStatus(q,selected){return !selected[q.id]?'skipped':selected[q.id]===q.key?'correct':'incorrect'}
 function mountQuiz(md,path,content,render,route){
  const bank=parseBank(md);if(!bank.total)return;
@@ -46,7 +55,7 @@ function mountQuiz(md,path,content,render,route){
  const btn=(label,fn,cls)=>{const b=el('button',label,cls);b.type='button';b.onclick=fn;return b};
  const root=el('section',undefined,'quiz-panel');root.id='practice';content.before(root);
  const intro=el('div',undefined,'practice-intro');intro.append(el('p','STUDY • PRACTISE • REVIEW','kicker'),el('h2','Interactive practice'));
- const info=el('p',bank.items.length+' scoreable questions out of '+bank.total+' detected numbered headings. '+(bank.rejected.length?'Unsupported headings: '+bank.rejected.join(', ')+'. Use original reading mode for these.':'All detected numbered headings parsed.'),'muted');intro.append(el('p',typeof knownTitle==='function'?knownTitle(path):'', 'practice-topic'),info);root.append(intro);
+ const info=el('p',bank.items.length+' questions available for practice. '+(bank.rejected.length?'Some questions can only be read in the original notes.':'Choose a study mode below.'),'muted');intro.append(el('p',typeof knownTitle==='function'?knownTitle(path):'', 'practice-topic'),info);root.append(intro);
  if(!bank.items.length)return;
  const description=el('p','Learn at your own pace with instant explanations, or try a timed test with answers hidden until submission.','muted');intro.append(description);
  const config=el('div',undefined,'quiz-config');
@@ -60,29 +69,30 @@ function mountQuiz(md,path,content,render,route){
  let selected={},started=false,finished=false,timer=null,deadline=0,penalty=0,at=0,reviewFilter='all',reviewPage=0,submitReason='submitted',palette=null,progress=null,milestone=null,highestMilestone=0;
  const attemptKey='nursing-attempt-v1:'+path;
  const signature=bankSignature(bank.items);
+ if(typeof attachBankProgress==='function')attachBankProgress(root,path);
  function persist(){try{localStorage.setItem(attemptKey,JSON.stringify({signature,selected,finished,deadline,penalty,at,submitReason}));return true}catch{return false}}
  function getSaved(){try{return validateAttempt(JSON.parse(localStorage.getItem(attemptKey)||'null'),bank.items)}catch{return null}}
  function clearSaved(){try{localStorage.removeItem(attemptKey)}catch{}}
  function loadMarks(){try{const v=JSON.parse(localStorage.getItem('nursing-marks-v1')||'[]');return Array.isArray(v)?v.filter(m=>m&&typeof m.path==='string'&&typeof m.stem==='string'):[]}catch{return []}}
  function toggleMark(q,b){let marks=loadMarks();const exists=marks.some(m=>m.path===path&&m.stem===q.stem);marks=exists?marks.filter(m=>!(m.path===path&&m.stem===q.stem)):[...marks,{path,stem:q.stem}];try{localStorage.setItem('nursing-marks-v1',JSON.stringify(marks));b.textContent=exists?'☆ Bookmark':'★ Bookmarked';b.setAttribute('aria-pressed',String(!exists))}catch{b.textContent='Bookmark unavailable'}}
  function markButton(q){const saved=loadMarks().some(m=>m.path===path&&m.stem===q.stem);const b=btn(saved?'★ Bookmarked':'☆ Bookmark',()=>toggleMark(q,b));b.setAttribute('aria-pressed',String(saved));return b}
- function setView(view){root.dataset.view=view;const locationText=document.getElementById('reading-position');if(locationText)locationText.textContent=view==='results'?'Test results & answer review':view==='practice'?(root.dataset.learning==='true'?'Learning mode':'Interactive practice'):'Document introduction';const u=new URL(location.href);if(view==='results')u.searchParams.set('view','results');else u.searchParams.delete('view');if(view!=='setup')u.hash='';history.replaceState(history.state,'',u.href)}
+ function setView(view){root.dataset.view=view;const locationText=document.getElementById('reading-position');if(locationText)locationText.textContent=view==='results'?'Test results & answer review':view==='practice'?(root.dataset.learning==='true'?'Learning mode':'Interactive practice'):'Document introduction';const u=new URL(location.href);if(view==='results')u.searchParams.set('view','results');else u.searchParams.delete('view');if(view!=='setup')u.hash='';u.searchParams.delete('session');history.replaceState(history.state,'',u.href)}
  function focusHeading(h){h.tabIndex=-1;h.focus({preventScroll:true});h.scrollIntoView({block:'start',behavior:'instant'})}
  function stopTimer(){clearInterval(timer);timer=null}
  function showSetup(){delete root.dataset.learning;stopTimer();started=false;finished=false;selected={};at=0;body.replaceChildren();controls.replaceChildren();state.textContent='';state.classList.remove('result-announcement');state.setAttribute('aria-live','off');intro.hidden=false;config.hidden=false;actions.hidden=false;content.hidden=false;setView('setup');drawStartActions()}
  function showResults(reason='submitted',focus=true,celebrate=false){
   stopTimer();for(const dialog of root.querySelectorAll('dialog[open]'))dialog.close();started=true;finished=true;submitReason=reason;intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;body.replaceChildren();controls.replaceChildren();setView('results');
-  const s=resultMetrics(bank.items,selected,penalty);const saved=persist();
+  const s=resultMetrics(bank.items,selected,penalty);const saved=persist();const daily=celebrate&&typeof recordRoutine==='function'?recordRoutine(path,bank.items,selected):null;
   state.textContent='Result: '+s.correct+' correct · '+s.wrong+' incorrect · '+s.skipped+' skipped · Score '+s.score.toFixed(2)+' / '+s.total;
   state.classList.add('result-announcement');state.setAttribute('aria-live','polite');
   const hero=el('div',undefined,'result-hero'),copy=el('div',undefined,'result-copy'),check=el('span','✓','result-check');check.setAttribute('aria-hidden','true');copy.append(check,el('p','ATTEMPT COMPLETE','result-kicker'));
-  const greeting=s.percentage>=80?'Excellent work!':s.percentage>=50?'Well done!':'Keep going — every attempt counts.';
-  const h=el('h2',greeting,'result-heading');if(celebrate&&s.percentage>=50)hero.classList.add('result-celebration');copy.append(h,el('p',reason==='expired'?'Time is up. Your answers have been submitted.':'You have completed your practice session. Review your answers and build on what you learned.'));
-  const metric=el('div',undefined,'result-score');metric.append(el('span','YOUR SCORE'),el('strong',s.score.toFixed(2)+' / '+s.total),el('span',s.percentage.toFixed(1)+'% of available marks'));hero.append(copy,metric);body.append(hero);
+  const feedback=performanceFeedback(s.percentage);hero.dataset.performance=feedback.level;check.textContent=feedback.symbol;
+  const h=el('h2',feedback.greeting,'result-heading');if(celebrate&&feedback.celebrate)hero.classList.add('result-celebration');copy.append(h,el('p',(reason==='expired'?'Time is up. Your answers have been submitted. ':'')+feedback.advice));
+  const metric=el('div',undefined,'result-score');metric.append(el('span','YOUR SCORE'),el('strong',s.score.toFixed(2)+' / '+s.total),el('span',s.percentage.toFixed(1)+'% of available marks'));hero.append(copy,metric);body.append(hero);if(daily?.saved&&daily.changed){const note=el('p',daily.after>=daily.goal?'Daily goal reached — great work!':daily.after+' / '+daily.goal+' questions studied today.','daily-result-note');if(daily.before<daily.goal&&daily.after>=daily.goal)note.classList.add('celebrate-once');body.append(note)}else if(daily&&!daily.saved)body.append(el('p','Your browser could not save daily progress. Your results are still shown.','load-error'));
   const stats=el('div',undefined,'result-stats');
   for(const [label,value,cls] of [['Correct',s.correct,'is-correct'],['Incorrect',s.wrong,'is-incorrect'],['Unanswered',s.skipped,'is-skipped'],['Accuracy',s.accuracy===null?'—':s.accuracy.toFixed(1)+'%','']]){const card=el('div',undefined,'result-stat '+cls);card.append(el('span',label),el('strong',String(value)));stats.append(card)}body.append(stats);
   const bar=el('div',undefined,'result-distribution');bar.setAttribute('role','img');bar.setAttribute('aria-label',s.correct+' correct, '+s.wrong+' incorrect, '+s.skipped+' unanswered');for(const [n,cls] of [[s.correct,'dist-correct'],[s.wrong,'dist-incorrect'],[s.skipped,'dist-skipped']]){const segment=el('span',undefined,cls);segment.style.flex=String(n);bar.append(segment)}body.append(bar);
-  body.append(el('p','Marks: +1 per correct answer, '+(penalty?'−⅓ per incorrect answer':'no deduction for incorrect answers')+', 0 for unanswered. Percentage uses net marks divided by total scoreable questions; accuracy uses correct answers divided by attempted questions.','result-note'));
+  body.append(el('p','Marks: +1 per correct answer, '+(penalty?'−⅓ per incorrect answer':'no deduction for incorrect answers')+', 0 for unanswered. Percentage uses net marks divided by total questions; accuracy uses correct answers divided by attempted questions.','result-note'));
   if(!saved)body.append(el('p','Your result is available on this screen, but browser storage is unavailable. Refreshing may lose the attempt.','load-error'));
   const commands=el('div',undefined,'result-actions');const reviewButton=btn('Review my answers ↓',()=>focusHeading(reviewHeading),'primary-action');const retake=btn('Try again',()=>{if(confirm('Start a new attempt? This replaces the saved result for this question bank.')){clearSaved();showSetup();focusHeading(intro.querySelector('h2'))}});const readButton=btn('Back to study material',()=>{showSetup();focusHeading(content.querySelector('h1')||content)});commands.append(reviewButton,retake,readButton);body.append(commands);
   const review=el('section',undefined,'answer-review');const reviewHeading=el('h2','Review your answers');review.append(reviewHeading,el('p','Compare your selection with the published answer. Every explanation below is taken directly from the original GitHub question bank.','muted'));
@@ -99,7 +109,7 @@ function mountQuiz(md,path,content,render,route){
     const choices=el('ol',undefined,'review-options');choices.setAttribute('aria-label','Submitted answer and correct answer');
     for(let j=0;j<4;j++){const letter='ABCD'[j],row=el('li',undefined,'review-option');if(letter===q.key)row.classList.add('correct-choice');if(letter===choice&&choice!==q.key)row.classList.add('wrong-choice');const option=el('div',undefined,'review-option-text');render(option,letter+'. '+q.options[j],path);row.append(option);const labels=el('div',undefined,'review-option-labels');if(letter===choice)labels.append(el('span','Your answer','selection-label'));if(letter===q.key)labels.append(el('span','Correct answer','correct-label'));row.append(labels);choices.append(row)}card.append(choices);
     const summary=el('div',undefined,'answer-comparison');summary.append(el('p','Your answer: '+(choice||'Not answered')),el('p','Correct answer: '+q.key));card.append(summary);
-    const details=el('details',undefined,'original-explanation');details.open=true;details.append(el('summary','Original GitHub explanation'));const ex=el('div',undefined,'explanation-body');render(ex,q.explanation,path);details.append(ex);card.append(details);list.append(card)
+    const details=el('details',undefined,'original-explanation');details.open=true;details.append(el('summary','Original explanation'));const ex=el('div',undefined,'explanation-body');render(ex,q.explanation,path);details.append(ex);card.append(details);list.append(card)
    }
    if(pages>1){const previous=btn('← Previous review page',()=>{reviewPage--;drawReview(true)});previous.disabled=reviewPage===0;const next=btn('Next review page →',()=>{reviewPage++;drawReview(true)});next.disabled=reviewPage===pages-1;nav.append(previous,el('span','Page '+(reviewPage+1)+' / '+pages),next)}
    if(focusList)focusHeading(range);
@@ -132,36 +142,53 @@ function mountQuiz(md,path,content,render,route){
  }
 
  // Untimed learning is separate from the saved timed attempt. Correctness is revealed only on explicit check.
- function startLearning(){
+ function startLearning(mode='all',sessionItems=null){
+  const routine=loadRoutine(),known=routine.banks[path]?.questions||{};const lesson=sessionItems|| (mode==='all'?bank.items:mode==='remaining'?bank.items.filter(q=>!Object.hasOwn(known,practiceKey(q))):quickItems(routine,path,bank.items,mode));if(!lesson.length){state.textContent=mode==='remaining'?'You have already checked all practice questions.':mode==='mistakes'?'You have no incorrect answers to review here.':'No questions need revision today.';const u=new URL(location.href);u.searchParams.delete('session');history.replaceState(history.state,'',u.href);return}
   stopTimer();intro.hidden=true;config.hidden=true;actions.hidden=true;content.hidden=true;root.dataset.learning='true';setView('practice');state.setAttribute('aria-live','polite');
-  let index=0,choice='',checked=0,correct=0,locked=false;
+  let index=0,choice='',checked=0,correct=0,locked=false;const sessionAnswers={};
   function leave(){delete root.dataset.learning;showSetup();focusHeading(intro.querySelector('h2'))}
   function drawLearn(){
-   body.replaceChildren();controls.replaceChildren();choice='';locked=false;const q=bank.items[index];
-   state.textContent='Learning mode · '+checked+' / '+bank.items.length+' checked · No timer';
-   const meta=el('div',undefined,'question-meta'),h=el('h3','Question '+(index+1)+' / '+bank.items.length);meta.append(h,markButton(q));body.append(meta);
-   const meter=el('progress',undefined,'quiz-progress');meter.max=bank.items.length;meter.value=checked;meter.setAttribute('aria-label','Questions checked');body.append(meter);
+   body.replaceChildren();controls.replaceChildren();choice='';locked=false;const q=lesson[index];
+   state.textContent=(mode==='all'?'Learning mode':mode==='remaining'?'Continue learning':mode==='review'?'Revision session':mode==='mistakes'?'Review mistakes':'Quick practice')+' · '+checked+' / '+lesson.length+' checked · No timer';
+   const meta=el('div',undefined,'question-meta'),h=el('h3','Question '+(index+1)+' / '+lesson.length);meta.append(h,markButton(q));body.append(meta);
+   const meter=el('progress',undefined,'quiz-progress');meter.max=lesson.length;meter.value=checked;meter.setAttribute('aria-label','Questions checked');body.append(meter);
    const stem=el('div',undefined,'question-stem');render(stem,q.stem+'\n\n'+q.extra,path);body.append(stem);
    const field=el('fieldset');field.append(el('legend','Choose an answer, then check it'));const optionRows=[];
-   const check=btn('Check answer',()=>{if(!choice||locked)return;locked=true;checked++;const right=choice===q.key;if(right)correct++;
+   const check=btn('Check answer',()=>{if(!choice||locked)return;locked=true;checked++;sessionAnswers[q.id]=choice;const right=choice===q.key;if(right)correct++;const daily=recordRoutine(path,bank.items,{[q.id]:choice});
     for(const [letter,row,input] of optionRows){input.disabled=true;if(letter===q.key){row.classList.add('correct-choice');row.append(el('span','Correct answer','learn-option-label'))}if(letter===choice&&letter!==q.key){row.classList.add('wrong-choice');row.append(el('span','Your answer','learn-option-label'))}}
     const feedback=el('div',undefined,'learn-feedback '+(right?'learn-correct':'learn-review'));feedback.setAttribute('role','status');
     feedback.append(el('strong',right?'✓ Nice work! You got it right.':'Good effort — review this answer.'),el('p',right?'You selected '+choice+'. Keep building your understanding.':'You selected '+choice+'. The published answer is '+q.key+'.'));
-    if(right)feedback.classList.add('celebrate-once');body.append(feedback);
-    const explanation=el('details',undefined,'original-explanation');explanation.open=true;explanation.append(el('summary','Original GitHub explanation'));const ex=el('div',undefined,'explanation-body');render(ex,q.explanation,path);explanation.append(ex);body.append(explanation);meter.value=checked;state.textContent='Learning mode · '+checked+' / '+bank.items.length+' checked · '+correct+' correct';check.disabled=true;next.disabled=false;
+    if(right)feedback.classList.add('celebrate-once');body.append(feedback);if(daily.saved&&daily.before<daily.goal&&daily.after>=daily.goal){const goalNote=el('p','Daily goal reached! Nice work making time to learn.','daily-result-note celebrate-once');body.append(goalNote)}else if(!daily.saved)body.append(el('p','Your browser could not save daily progress.','load-error'));
+    const explanation=el('details',undefined,'original-explanation');explanation.open=true;explanation.append(el('summary','Original explanation'));const ex=el('div',undefined,'explanation-body');render(ex,q.explanation,path);explanation.append(ex);body.append(explanation);meter.value=checked;state.textContent=(mode==='all'?'Learning mode':mode==='remaining'?'Continue learning':mode==='review'?'Revision session':mode==='mistakes'?'Review mistakes':'Quick practice')+' · '+checked+' / '+lesson.length+' checked · '+correct+' correct';check.disabled=true;next.disabled=false;
    },'primary-action');check.disabled=true;
    for(let i=0;i<4;i++){const letter='ABCD'[i],row=el('label',undefined,'quiz-option'),input=el('input');input.type='radio';input.name='learn-choice';input.value=letter;input.onchange=()=>{choice=letter;check.disabled=false};const txt=el('div');render(txt,letter+'. '+q.options[i],path);row.append(input,txt);field.append(row);optionRows.push([letter,row,input])}body.append(field);
-   const next=btn(index===bank.items.length-1?'Finish learning':'Next question →',()=>{if(!locked)return;if(index+1<bank.items.length){index++;drawLearn()}else finishLearning()},'primary-action');next.disabled=true;
-   controls.append(check,next,btn('Exit learning',()=>{if(!checked||confirm('Exit learning? This untimed session is not saved. Your timed attempt is unchanged.'))leave()}));focusHeading(h)
+   const next=btn(index===lesson.length-1?'Finish learning':'Next question →',()=>{if(!locked)return;if(index+1<lesson.length){index++;drawLearn()}else finishLearning()},'primary-action');next.disabled=true;
+   controls.append(check,next,btn('Exit learning',()=>{if(!checked||confirm('Exit learning? Checked questions remain in your daily progress. Your timed attempt is unchanged.'))leave()}));focusHeading(h)
   }
-  function finishLearning(){body.replaceChildren();controls.replaceChildren();state.textContent=checked+' checked · '+correct+' correct';const h=el('h2','Learning session complete!','result-heading'),panel=el('div',undefined,'learn-feedback learn-correct celebrate-once');panel.append(h,el('p','You reviewed '+checked+' questions and answered '+correct+' correctly. Revisit explanations to strengthen your understanding.'));body.append(panel);controls.append(btn('Back to study material',leave,'primary-action'));focusHeading(h)}
+  function finishLearning(){
+   body.replaceChildren();controls.replaceChildren();const wrong=checked-correct,percentage=checked?100*correct/checked:0,feedback=performanceFeedback(percentage);
+   state.textContent=checked+' checked · '+correct+' correct · '+wrong+' incorrect';const locationText=document.getElementById('reading-position');if(locationText)locationText.textContent='Learning results';
+   const sessionTitle=mode==='all'||mode==='remaining'?'Learning session complete!':mode==='review'?'Revision complete!':mode==='mistakes'?'Mistake review complete!':'Quick practice complete!';
+   const hero=el('div',undefined,'result-hero learning-result'),copy=el('div',undefined,'result-copy'),symbol=el('span',feedback.symbol,'result-check');symbol.setAttribute('aria-hidden','true');hero.dataset.performance=feedback.level;if(feedback.celebrate)hero.classList.add('result-celebration');
+   const h=el('h2',sessionTitle,'result-heading');copy.append(symbol,el('p',typeof knownTitle==='function'?knownTitle(path):'Your topic','result-kicker'),h,el('strong',feedback.greeting,'learning-greeting'),el('p',feedback.advice));
+   const metric=el('div',undefined,'result-score');metric.append(el('span','YOUR SCORE'),el('strong',correct+' / '+checked),el('span',percentage.toFixed(1)+'% correct'));hero.append(copy,metric);body.append(hero);
+   const stats=el('div',undefined,'result-stats learning-result-stats');for(const [label,value,cls] of [['Correct',correct,'is-correct'],['Incorrect',wrong,'is-incorrect'],['Questions checked',checked,''],['Accuracy',percentage.toFixed(1)+'%','']]){const card=el('div',undefined,'result-stat '+cls);card.append(el('span',label),el('strong',String(value)));stats.append(card)}body.append(stats);
+   const bar=el('div',undefined,'result-distribution');bar.setAttribute('role','img');bar.setAttribute('aria-label',correct+' correct, '+wrong+' incorrect');for(const [n,cls] of [[correct,'dist-correct'],[wrong,'dist-incorrect']]){const segment=el('span',undefined,cls);segment.style.flex=String(n);bar.append(segment)}body.append(bar,el('p','Score for this learning session: 1 mark per correct answer, no deduction for incorrect answers. Your overall topic progress is shown separately above.','result-note'));
+   const missed=lesson.filter(q=>sessionAnswers[q.id]&&sessionAnswers[q.id]!==q.key),commands=el('div',undefined,'result-actions');
+   if(missed.length)commands.append(btn('Practise mistakes ('+missed.length+')',()=>startLearning('mistakes',missed),'primary-action'));
+   commands.append(btn('Try these questions again',()=>startLearning(mode,lesson),missed.length?'':'primary-action'));
+   const current=loadRoutine().banks[path]?.questions||{},remaining=bank.items.filter(q=>!Object.hasOwn(current,practiceKey(q))).length;if(remaining)commands.append(btn('Continue '+remaining+' remaining questions',()=>startLearning('remaining')));
+   commands.append(btn('Back to study material',leave));body.append(commands);
+   if(missed.length){const review=el('details',undefined,'learning-missed-review');review.append(el('summary','Review missed answers and explanations ('+missed.length+')'));for(const q of missed){const card=el('article',undefined,'review-card incorrect'),stem=el('div',undefined,'question-stem');render(stem,q.stem+'\n\n'+q.extra,path);card.append(stem,el('p','Your answer: '+sessionAnswers[q.id]+' · Correct answer: '+q.key,'answer-comparison'));const options=el('div');render(options,q.options.map((o,i)=>'ABCD'[i]+'. '+o).join('\n\n'),path);card.append(options);const explanation=el('details',undefined,'original-explanation');explanation.append(el('summary','Original explanation'));const ex=el('div',undefined,'explanation-body');render(ex,q.explanation,path);explanation.append(ex);card.append(explanation,markButton(q));review.append(card)}body.append(review)}
+   focusHeading(h);
+  }
   drawLearn();
  }
 
  function drawStartActions(){
-  actions.replaceChildren();const saved=getSaved();const start=btn('Start timed practice',()=>{const mins=Number(minutes.value);if(!Number.isFinite(mins)||mins<1||mins>300){state.textContent='Enter 1–300 minutes.';return}if(saved&&!confirm('Start a new attempt and replace the saved attempt or result?'))return;clearSaved();begin(null)},'primary-action');actions.append(start,btn('Learn with instant feedback',startLearning,'learning-start'));
+  actions.replaceChildren();const saved=getSaved();const start=btn('Start timed practice',()=>{const mins=Number(minutes.value);if(!Number.isFinite(mins)||mins<1||mins>300){state.textContent='Enter 1–300 minutes.';return}if(saved&&!confirm('Start a new attempt and replace the saved attempt or result?'))return;clearSaved();begin(null)},'primary-action');actions.append(start,btn('Learn with instant feedback',()=>startLearning(),'learning-start'),btn('Quick 5-question practice',()=>startLearning('quick'),'quick-start'));const known=loadRoutine().banks[path]?.questions||{},remaining=bank.items.filter(q=>!Object.hasOwn(known,practiceKey(q))).length;if(remaining>0&&remaining<bank.items.length)actions.append(btn('Continue remaining '+remaining+' questions',()=>startLearning('remaining'),'learning-start'));const missed=missedItems(loadRoutine(),path,bank.items).length;if(missed)actions.append(btn('Review mistakes ('+missed+')',()=>startLearning('mistakes'),'mistakes-start'));if(quickItems(loadRoutine(),path,bank.items,'review').length)actions.append(btn('Revise due questions',()=>startLearning('review')));
   if(saved)actions.append(btn(saved.finished?'Review saved result':'Resume saved attempt',()=>begin(saved)),btn('Discard saved attempt',()=>{if(confirm('Remove the saved attempt or result from this device?')){clearSaved();drawStartActions()}}));
  }
- drawStartActions();const saved=getSaved();if(new URLSearchParams(location.search).get('view')==='results'){if(saved?.finished)begin(saved);else{setView('setup');state.textContent='No saved result is available for this question bank.'}}
+ drawStartActions();const saved=getSaved(),session=new URLSearchParams(location.search).get('session');if(['quick','review','remaining','mistakes'].includes(session)){startLearning(session)}else if(new URLSearchParams(location.search).get('view')==='results'){if(saved?.finished)begin(saved);else{setView('setup');state.textContent='No saved result is available for this question bank.'}}
 }
-if(typeof module!=='undefined')module.exports={parseBank,scoreBank,bankSignature,validateAttempt,resultMetrics,answerStatus};
+if(typeof module!=='undefined')module.exports={parseBank,scoreBank,bankSignature,validateAttempt,resultMetrics,answerStatus,performanceFeedback};

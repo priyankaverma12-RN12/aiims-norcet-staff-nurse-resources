@@ -31,6 +31,9 @@ try:
         count = cards.count()
         assert count >= 35, f"Expected at least 35 chapters, found {count}"
         expect(page.locator("#chapter-total")).to_have_text(str(count))
+        expect(page.locator("#daily-study")).to_be_visible()
+        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 10 questions")
+        expect(page.locator(".study-day")).to_have_count(7)
         assert page.locator(".chapter-group").count() >= 8
         assert page.locator('.chapter-card').filter(has_text='Nursing Foundations').get_by_text('Revision',exact=True).count()==0
         page.locator("#search").fill("Respiratory")
@@ -61,7 +64,7 @@ try:
         expect(page.locator("#metrics-chapter")).to_have_value("Nursing-Foundations")
         expect(page.locator(".metric-record").first).to_be_visible()
         # Expanded chapter entries are whole-card links, not inline text links.
-        records=page.locator(".metric-records > a.metric-record")
+        records=page.locator(".metric-records a.metric-record")
         expect(records.first).to_be_visible()
         metrics=json.loads((site/"study-metrics.json").read_text(encoding="utf-8"))
         chapter=next(c for c in metrics["chapters"] if c["id"]=="Nursing-Foundations")
@@ -69,7 +72,7 @@ try:
         for record in chapter["records"]:
             target=records.filter(has=page.locator(".metric-record-title",has_text=record["title"]))
             assert any(parse_qs(urlsplit(href).query).get("doc")==[record["path"]] for href in target.evaluate_all("(els)=>els.map(e=>e.href)")),record["path"]
-        assert records.first.evaluate("""e=>{const s=getComputedStyle(e);return parseFloat(s.borderTopWidth)>0&&parseFloat(s.borderRadius)>0&&e.getBoundingClientRect().height>=44&&s.textDecorationLine==='none'}""")
+        assert records.first.evaluate("""e=>{const s=getComputedStyle(e.closest('.tracked-resource-card')||e);return parseFloat(s.borderTopWidth)>0&&parseFloat(s.borderRadius)>0&&e.getBoundingClientRect().height>=44&&getComputedStyle(e).textDecorationLine==='none'}""")
         assert page.locator(".metric-records").first.evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
         # The count is inside the anchor, so a tap anywhere opens the correct document.
         target_href=records.first.get_attribute("href")
@@ -77,11 +80,11 @@ try:
         expect(page.locator("#status")).to_have_text(__import__("re").compile(r"^Live source"),timeout=30000)
         assert parse_qs(urlsplit(page.url).query)["doc"]==parse_qs(urlsplit(target_href).query)["doc"]
         page.go_back()
-        expect(page.locator(".metric-records > a.metric-record").first).to_be_visible(timeout=30000)
+        expect(page.locator(".metric-records a.metric-record").first).to_be_visible(timeout=30000)
         print("Expanded metrics cards, complete chapter resource destinations, boxed styling and whole-card navigation passed.",flush=True)
 
         page.locator("#metrics-category").select_option("mock")
-        expect(page.locator(".metric-record small").first).to_have_text("Mock question slots")
+        expect(page.locator(".metric-record .study-tag[data-role=type]").first).to_have_text("Mock test")
         no_overflow(page)
         page.goto(base+"?"+urlencode({"doc":"Chapters/Nursing-Foundations/Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md"}))
         ready(page)
@@ -110,7 +113,7 @@ try:
         image = page.locator('#content img[src*="airway-zones.svg"]').first
         image.scroll_into_view_if_needed()
         page.wait_for_function("Array.from(document.querySelectorAll('#content img')).some(i => i.src.includes('airway-zones.svg') && i.complete && i.naturalWidth > 0)", timeout=30000)
-        expect(page.locator(".quiz-panel")).to_contain_text("44 scoreable questions")
+        expect(page.locator(".quiz-panel")).to_contain_text("44 questions available for practice")
         expect(page.locator("#content h1").first).to_have_text("Day 1 — Respiratory Anatomy & Physiology")
         page.get_by_role("button",name="Learn with instant feedback").click()
         expect(page.locator(".original-explanation")).to_have_count(0)
@@ -133,6 +136,19 @@ try:
         page.get_by_role("button",name="Exit learning").click()
         expect(page.locator("#content")).to_be_visible()
         print("V7 untimed feedback, original explanations, correct/incorrect choice and topic title passed.",flush=True)
+        # Quick practice checks only five questions, without replacing saved timed attempts.
+        page.get_by_role("button",name="Quick 5-question practice").click()
+        expect(page.locator(".question-meta h3")).to_have_text("Question 1 / 5")
+        for j in range(5):
+            page.locator("input[name=learn-choice][value=B]").check()
+            page.get_by_role("button",name="Check answer").click()
+            page.get_by_role("button",name="Finish learning" if j==4 else "Next question").click()
+        expect(page.locator(".result-heading")).to_have_text("Quick practice complete!")
+        assert page.evaluate("routineCount(loadRoutine())")==7
+        assert page.evaluate("(p)=>bankProgress(loadRoutine(),p).checked",sample)==7
+        page.get_by_role("button",name="Back to study material").click()
+        print("Quick practice length and seven unique checked questions tracked.",flush=True)
+
         page.get_by_role("button", name="Start timed practice").click()
         expect(page.locator("#content")).to_be_hidden()
         expect(page.locator(".original-explanation")).to_have_count(0)

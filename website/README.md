@@ -40,3 +40,35 @@ The website builds a display-title catalog from each chapter document's source h
 
 ### V7 verification repair
 Fixed the collection-label fallback so valid Theory and MCQs labels survive generic-title handling. Title audit now checks every catalog record and produces title-audit.json with explicit review flags. Public verification compares that JSON to the deployment checkout. Timed milestones, one-time celebration, exact learning explanation and saved-attempt isolation have dedicated browser regression tests. Original clinical files are unchanged.
+
+## V8 — Personal daily study routine
+
+Daily progress, a configurable 5/10/20/30-question goal, seven-day activity, quick five-question practice and due-revision suggestions are device-local. Only checked learning questions and submitted timed answers count. Same-bank repeats count once per local calendar day, not as unique clinical questions across banks. Revision suggestions use a simple next-day interval for incorrect answers and three days for correct answers. These are pragmatic defaults, not a validated individualized spaced-repetition algorithm or mastery certification. No telemetry, public score publishing or account is introduced. Source headings, questions, answers and timed attempts are preserved. Progress labels are factual local activity, not invented priority labels. Evidence: health-professions retrieval/spacing review https://doi.org/10.1007/s10459-023-10274-3, habit formation https://doi.org/10.1080/17437199.2011.603640, progressive disclosure https://www.nngroup.com/articles/progressive-disclosure/, WCAG interaction motion https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.
+
+## V9 — My progress
+
+A separate device-local completion checklist tracks actual published theory resources, MCQ banks, mocks, reported PYQ practice and revision resources by chapter. Manual completion is explicit and independent of accuracy. Percent complete is completed resources divided by eligible resources. Question-slot coverage combines the checked-question count with all slots in a manually marked bank. Drafts and evidence-only indexes do not count. A bank count change requires reconfirmation. Reset per resource, chapter or all tracked chapters clears completion and question/revision coverage, while retaining daily activity history, saved attempts and bookmarks. No clinical source content is modified. Resource-level tracking does not imply completion of every subsection of a combined topic file.
+
+### V9.1 — automatic question-bank completion
+
+Opening a bank shows cumulative saved coverage but does not count as practice. Each checked interactive answer and submitted timed answer updates the bank's distinct question coverage. Fully supported banks automatically count as completed when every current question is checked, irrespective of score. Remaining-question practice resumes only unreviewed questions. Current question fingerprints prevent stale questions from inflating coverage after source changes. Manual completion remains available for reading-only or unsupported formats. An explicit unmark can override auto-completion; reset clears both marks and tracked answers. The global inventory is a deployed snapshot, while a loaded bank reconciles its own current source counts. Original content and saved timed results are unchanged.
+
+### V9.2 — progress from every study route
+
+Library chapter cards show separate inventory counts and completion bars; resource listings, recent resources, compact indexes and Metrics cards share mark-done and reset controls with the reader and Progress page. Navigation anchors and completion controls are separate. Counts use the same deployment snapshot and remain separate by category; uncounted resources do not get invented question totals. Chapter totals are not unique-question counts. Drafts and evidence-only documents retain navigation but not completion controls.
+
+### V10 — Simple study language and immediate mistake review
+
+All website-generated question-count labels use questions or MCQs; internal schema field names remain compatible. The original study notes are unchanged. Review mistakes offers up to five currently incorrect answers from the same bank, even before a scheduled review. A correct recheck removes the question from the mistakes list; repeated checks do not inflate daily counts. The home dashboard offers a remaining-question shortcut for the recent partly studied bank and a mistake-review shortcut when available. Weekly feedback acknowledges study days without a streak penalty. Existing progress, saved results and revision dates remain intact. Fixed the public test selector to target the search box rather than the completion checkboxes.
+
+### V10.1 — mock counts and study labels
+
+Mock test totals count published question-containing documents classified as Mock test (including short topic mocks). Draft fragments and plans are not additional tests. Draft sections and their question totals are shown separately. Existing inventory counts and stored progress are unchanged. Shared readable type, count and personal-status labels appear on chapter, topic, Metrics and Progress cards. No invented difficulty or priority badges; colour is supplementary to text. The existing tests verify actual counts and status changes.
+
+### V10.2 — Today’s progress includes Mark done
+
+The daily goal combines actual checked answers with self-reported question totals from existing dated completion marks. Per bank and local day, use the larger count instead of adding both. The home screen separately displays answers checked here and additional questions marked done. Theory-only marks count as study topics but not questions. Existing marks made today are recognized without migration; older marks do not add to today's goal. Undoing/resetting a mark removes manual credit from its dated day; real answered-question history and test results are unchanged. Home refreshes on progress events, tab visibility and returning from browser history. Internal progress keys and original study content stay intact.
+
+### V10.3 — score-based learning feedback
+
+Every completed learning session displays score, percentage, correct and incorrect answers and specific next-step guidance. Perfect scores and scores of at least 80% celebrate; 60–79% encourages improvement, 40–59% suggests revisiting missed concepts, and lower scores recommend more topic study and practice. These are motivational thresholds, not exam pass marks. Students can retry the exact session or its missed questions without changing saved timed results. Original explanations are available for missed questions. Timed results use the same guidance with their existing net score. Also repairs the previous daily-goal release syntax error. Reduced motion remains respected.
