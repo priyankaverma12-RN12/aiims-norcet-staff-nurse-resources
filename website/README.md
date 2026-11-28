@@ -52,3 +52,7 @@ A separate device-local completion checklist tracks actual published theory reso
 ### V9.1 — automatic question-bank completion
 
 Opening a bank shows cumulative saved coverage but does not count as practice. Each checked interactive answer and submitted timed answer updates the bank's distinct question coverage. Fully supported banks automatically count as completed when every current question is checked, irrespective of score. Remaining-question practice resumes only unreviewed questions. Current question fingerprints prevent stale questions from inflating coverage after source changes. Manual completion remains available for reading-only or unsupported formats. An explicit unmark can override auto-completion; reset clears both marks and tracked answers. The global inventory is a deployed snapshot, while a loaded bank reconciles its own current source counts. Original content and saved timed results are unchanged.
+
+### V9.2 — progress from every study route
+
+Library chapter cards show separate inventory counts and completion bars; resource listings, recent resources, compact indexes and Metrics cards share mark-done and reset controls with the reader and Progress page. Navigation anchors and completion controls are separate. Counts use the same deployment snapshot and remain separate by category; uncounted resources do not get invented question totals. Chapter totals are not unique-question counts. Drafts and evidence-only documents retain navigation but not completion controls.
