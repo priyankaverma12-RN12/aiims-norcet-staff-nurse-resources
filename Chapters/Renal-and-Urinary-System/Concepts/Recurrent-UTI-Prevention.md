@@ -12,6 +12,8 @@ Bladder infection aur kidney infection alag clinical problems hain. Agar baar-ba
 
 ![Original prevention pathway](../Assets/Recurrent-UTI-Prevention.svg)
 
+**Dhyan de:** Agar fever, flank pain, vomiting ya systemic deterioration jaise red flags milte hain, toh pehle patient ki prompt clinical assessment aur zaroorat ke hisaab se treatment hota hai. Routine preventive plan tabhi consider karo jab current infection aur urgent safety concerns address ho chuke hon.
+
 ## Relapse aur reinfection
 
 Agar pehle infection ka organism adequate treatment ke baad bhi persist karta hai aur symptoms jaldi wapas aate hain, toh relapse ka doubt hota hai. Agar pehle infection resolve ho gaya aur baad mein naya organism ya nayi strain infection cause karti hai, toh reinfection ka pattern fit ho sakta hai. Kabhi pehle wala organism dobara milne par bhi reinfection ho sakti hai, especially jab beech mein documented clearance hua ho. Isliye culture history, treatment response aur episodes ke beech ka interval saath mein interpret karo.
@@ -30,9 +32,13 @@ Spermicide exposure aur intercourse-related episodes ka pattern bhi relevant ho 
 
 Menopause ke baad estrogen kam hone se vaginal tissue aur protective microbial environment change ho sakte hain. Suitable peri- ya postmenopausal patient mein clinician local vaginal estrogen discuss kar sakta hai. Systemic HRT sirf UTI prevention ke liye shuru karna NICE ka recommended approach nahi hai. Vaginal estrogen treatment ka planned review 12 mahine ke andar ya patient ke saath agreed earlier interval par hota hai. Cancer history ya hormone-related concerns mein individualized discussion zaroori hai.
 
+Agar patient ko arthritis ki wajah se cream applicator pakadne ya use karne mein dikkat hoti hai, toh nurse pehle uski practical problem samjhe. Prescriber ke saath suitable local formulation aur patient ki preference discuss karo. Different preparations ka dose aur use karne ka schedule alag ho sakta hai. Isliye dose ya preparation khud se change mat karo. [NICE recommendation 1.2.2](https://www.nice.org.uk/guidance/ng112/chapter/recommendations) aur [Q10 practice](../MCQs/Recurrent-UTI-Prevention-30-MCQs.md) is decision ko samajhne mein madad karte hain.
+
 ## Antibiotic-sparing prevention
 
 Methenamine hippurate selected patients mein daily antibiotic prophylaxis ka alternative ho sakta hai. Acidic urine mein methenamine se formaldehyde release hota hai, jo bacterial growth ko inhibit karne mein madad karta hai. EAU ke prevention recommendation mein urinary tract abnormalities na hona important hai. Ye current symptomatic infection ka replacement treatment nahi hai. Iski suitability clinician assess karta hai, especially renal ya hepatic problems aur interacting medicines ke context mein. Urinary alkalinizing citrate sachets activity kam kar sakte hain. Pregnancy, recurrent upper UTI aur complicated lower UTI mein specialist advice ki zaroorat hai.
+
+Methenamine ki activity urine ke acidic environment par depend karti hai, vagina ke pH par nahi. US HIPREX product label ke mutabik severe hepatic insufficiency mein ye medicine contraindicated hai. Agar patient ke record mein severe liver dysfunction likha ho, toh nurse dose dene se pehle prescriber se clarification le. Country-specific product label aur local protocol follow karo. [US HIPREX label](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=c8ddaa11-5753-46eb-8bd4-8f1d874a3ec4) aur [Q27 practice](../MCQs/Recurrent-UTI-Prevention-30-MCQs.md) mein isi safety principle ko cover kiya gaya hai.
 
 NICE mein methenamine treatment ka review chhe mahine ke andar aur phir har saal ya agreed earlier interval par hota hai.
 
@@ -59,9 +65,9 @@ Episode count, culture evidence, special populations, hydration suitability, est
 
 | Topic | Teaching video | Dedicated MCQ practice |
 |---|---|---|
-| Recurrent infection aur prevention | [Nurse Magda — UTI causes and prevention](https://www.youtube.com/watch?v=D5ZUotnwxV4), description-level lead | [UTI Nursing MCQs with Concept Clarity](https://www.youtube.com/watch?v=mtjTI100_sw), broad UTI question-solving description only |
+| Recurrent infection aur prevention | [Nurse Magda — UTI causes and prevention](https://www.youtube.com/watch?v=D5ZUotnwxV4), description-level lead. [Level Up RN — UTI](https://www.youtube.com/watch?v=4O2jFP-jvzI), published prevention chapter marker 02:52, general teaching only | [UTI Nursing MCQs with Concept Clarity](https://www.youtube.com/watch?v=mtjTI100_sw), broad UTI question-solving description only |
 | Estrogen, methenamine, antimicrobial prophylaxis aur clinical review | Specific video verification pending | Q1–30 exact or specific-concept mapping pending |
 
-Video playback aur exact timestamps verify nahi hue hain. Broad UTI MCQ video ko kisi specific prevention question ka verified solution mat samjho. See the separate evidence register for research limitations.
+Video playback aur exact question timestamps verify nahi hue hain. Medscape ka recurrent UTI video methenamine ke liye recommended teaching resource nahi hai, kyunki indexed transcript mein urine aur vaginal pH ke beech misleading distinction hai. Clinical reference aur product label ko priority do. Broad UTI MCQ video ko kisi specific prevention question ka verified solution mat samjho. See the separate evidence register for research limitations.
 
 [Practice questions](../MCQs/Recurrent-UTI-Prevention-30-MCQs.md) · [Evidence register](../Previous-Year-Questions/Recurrent-UTI-Prevention-Evidence.md) · [Chapter](../README.md)
