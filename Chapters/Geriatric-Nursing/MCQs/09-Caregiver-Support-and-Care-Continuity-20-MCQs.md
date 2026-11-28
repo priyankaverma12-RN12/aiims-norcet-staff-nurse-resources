@@ -8,7 +8,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 ### Q1. Which construct is primarily assessed by the Zarit Burden Interview when supporting an older person's family caregiver?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
 
 - **A.** The older person's ability to transfer independently
 - **B.** The caregiver's perceived burden associated with caregiving
@@ -19,13 +19,13 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 **Correct answer: B. The caregiver's perceived burden associated with caregiving**
 
-**Kyun sahi hai?** Zarit Burden Interview caregiver ke experience aur perceived burden ko assess karta hai. Patient ki dependency se related impact ho sakta hai lekin score ka focus caregiver par hota hai.
+**Kyun sahi hai?** Zarit Burden Interview caregiver ko apni caring responsibility se kitna burden feel ho raha hai, yeh samajhne ke liye use hota hai. Patient ki dependency us burden ko affect kar sakti hai, lekin scale ka respondent aur focus caregiver hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Transfer ability patient ke functional assessment ka hissa hai, burden ka direct measure nahi.
-- **C.** Orientation cognition ka domain hai, caregiver burden ka nahi.
-- **D.** Dressing competence ke liye skill observation chahiye, burden questionnaire kaafi nahi.
+- **A.** Transfer ability older patient ka physical function batati hai. Caregiver ko transfer mein kitni strain ho rahi hai, yeh us assessment se directly measure nahi hota.
+- **C.** Time aur place ki orientation patient ki cognition ka hissa hai. Zarit tool cognitive screening ke liye nahi, caregiver ke perceived burden ke liye hai.
+- **D.** Wound dressing skill ko nurse actual demonstration se assess karti hai. Burden questionnaire se safe technique perform karne ki competence establish nahi hoti.
 
 [Clinical reference](https://www.sralab.org/rehabilitation-measures/zarit-burden-interview)
 
@@ -52,11 +52,11 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 **Baaki options kyun galat hain?**
 
-- **A.** 9 sirf positive response count hai, weighted score nahi.
-- **B.** 18 ke liye response weights galat apply karne padenge.
+- **A.** 4 regularly aur 5 sometimes mila kar 9 positive responses hain. Lekin regularly ke har response ko 2 points milte hain, isliye total weighted score 9 nahi hai.
+- **B.** 18 tab aa sakta hai jab sabhi 9 positive responses ko 2 points de diye jaayen. Sometimes ko sirf 1 point dena hai, isliye 18 correct nahi hai.
 - **C.** 26 maximum score hai jab sabhi 13 items regularly hon.
 
-[Clinical reference](https://tilda.tcd.ie/data/resource-hub/scale-docs/MCSI.html)
+[Clinical reference](https://tilda.tcd.ie/data/resource-hub/scale-docs/MCSI.html) · [Hartford MCSI scoring and interpretation](https://hign.org/consultgeri/try-this-series/modified-caregiver-strain-index-mcsi)
 
 **YouTube MCQ practice:** Question-specific dedicated video mapping pending hai.
 
@@ -66,7 +66,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 ### Q3. Which scoring distinction correctly differentiates the original Caregiver Strain Index (CSI) from the Modified CSI?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
 
 - **A.** Original CSI uses binary responses, whereas the Modified CSI includes a sometimes category
 - **B.** Both instruments assign 0 to 4 points to every item
@@ -85,7 +85,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 - **C.** Maximum scores reverse diye gaye hain. Original 13 aur modified 26 tak ja sakta hai.
 - **D.** Dono caregiver strain se related instruments hain, cognition aur mobility tests nahi.
 
-[Clinical reference](https://www.sralab.org/rehabilitation-measures/caregiver-strain-index)
+[Clinical reference](https://www.sralab.org/rehabilitation-measures/caregiver-strain-index) · [Hartford MCSI scoring and interpretation](https://hign.org/consultgeri/try-this-series/modified-caregiver-strain-index-mcsi)
 
 **YouTube MCQ practice:** Question-specific dedicated video mapping pending hai.
 
@@ -95,7 +95,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 ### Q4. An older adult's daughter scores 19 on the Modified Caregiver Strain Index. Which interpretation is most appropriate?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
 
 - **A.** Diagnose major depressive disorder on the score alone
 - **B.** Declare the caregiver incapable of providing any care
@@ -106,15 +106,15 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 **Correct answer: C. Explore the specific strain domains and arrange further individualized assessment rather than diagnosing a disorder from the score alone**
 
-**Kyun sahi hai?** High strain score further discussion aur support planning ka signal hai. Isse depression ya caregiving incapacity automatically diagnose nahi hoti.
+**Kyun sahi hai?** MCSI mein total 0 se 26 tak hota hai aur higher score zyada strain ko indicate karta hai. Is tool mein fixed low, moderate ya high diagnostic categories nahi di gayi hain. Isliye 19 points dekhkar nurse specific problems, caregiver ki health aur support needs ko detail mein assess karti hai. Yeh score depression ya care dene ki incapacity ka diagnosis nahi hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Depression diagnosis ke liye relevant clinical assessment chahiye.
-- **B.** Caregiving capacity aur willingness alag se assess hoti hain.
-- **D.** Barthel Index patient ki activities of daily living ko assess karta hai, conversion valid nahi.
+- **A.** Depression ke liye symptoms, duration aur functional impact ki separate clinical assessment chahiye. MCSI caregiver strain screen karta hai, depression diagnose nahi karta.
+- **B.** Caregiver ki capacity, willingness aur practical support alag assess karna chahiye. Score alone se yeh nahi kaha ja sakta ki woh koi care nahi de sakti.
+- **D.** Barthel Index patient ke basic daily functions measure karta hai. MCSI caregiver ke strain ko measure karta hai, isliye dono scores ko directly convert nahi kar sakte.
 
-[Clinical reference](https://tilda.tcd.ie/data/resource-hub/scale-docs/MCSI.html)
+[Clinical reference](https://tilda.tcd.ie/data/resource-hub/scale-docs/MCSI.html) · [Hartford MCSI scoring and interpretation](https://hign.org/consultgeri/try-this-series/modified-caregiver-strain-index-mcsi)
 
 **YouTube MCQ practice:** Question-specific dedicated video mapping pending hai.
 
@@ -143,7 +143,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 - **B.** Present help future unlimited commitment ka consent nahi hai.
 - **D.** Informal support se legal decision-making authority automatically nahi milti.
 
-[Clinical reference](https://www.nice.org.uk/guidance/ng150/chapter/Recommendations)
+[Clinical reference](https://www.nice.org.uk/guidance/ng150/chapter/Recommendations) · [WHO caregiver support](https://www.who.int/news-room/questions-and-answers/item/dementia-information-for-caregivers)
 
 **YouTube MCQ practice:** Question-specific dedicated video mapping pending hai.
 
@@ -153,7 +153,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 ### Q6. A patient's son is willing to help with evening meals but works away from home for five days each week. What should the discharge nurse document?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
 
 - **A.** The distinction between his willingness and actual availability, with a realistic plan for uncovered periods
 - **B.** Full-time availability because he expressed willingness
@@ -182,7 +182,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 ### Q7. During a joint appointment a caregiver appears distressed but avoids discussing personal difficulties in front of the older person. Which action best supports assessment?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
 
 - **A.** Require all personal details to be disclosed in the patient's presence
 - **B.** Record a psychiatric diagnosis without asking further questions
@@ -211,7 +211,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 ### Q8. A sole caregiver of an older adult with dementia may need an urgent hospital admission next month. Which arrangement most directly improves continuity of care?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
 
 - **A.** Wait until the caregiver is admitted before discussing alternatives
 - **B.** Agree on a backup caregiver, emergency contacts and a practical handover plan before the crisis
@@ -230,7 +230,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 - **C.** Independent medication management capacity aur safety assess kiye bina assume nahi karni chahiye.
 - **D.** Ambulance emergency transport provide karti hai, routine long-term care guarantee nahi.
 
-[Clinical reference](https://www.nice.org.uk/guidance/ng150/chapter/Recommendations)
+[Clinical reference](https://www.nice.org.uk/guidance/ng150/chapter/Recommendations) · [WHO caregiver support](https://www.who.int/news-room/questions-and-answers/item/dementia-information-for-caregivers)
 
 **YouTube MCQ practice:** Question-specific dedicated video mapping pending hai.
 
@@ -240,7 +240,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 ### Q9. A backup caregiver has agreed to take over for two days. Which handover information is most essential for safe individualized care?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
 
 - **A.** Current medication instructions, essential care routines, warning signs and whom to contact
 - **B.** Only the older adult's age and address
@@ -259,7 +259,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 - **C.** Unrelated family diagnoses unnecessary aur confidential ho sakte hain.
 - **D.** Guesswork se important medicines ya care tasks miss ho sakte hain.
 
-[Clinical reference](https://www.nice.org.uk/guidance/ng150/chapter/Recommendations)
+[Clinical reference](https://www.nice.org.uk/guidance/ng150/chapter/Recommendations) · [WHO caregiver support](https://www.who.int/news-room/questions-and-answers/item/dementia-information-for-caregivers)
 
 **YouTube MCQ practice:** Question-specific dedicated video mapping pending hai.
 
@@ -317,7 +317,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 - **C.** Clinical decisions appropriate professional aur authorized decision maker ke through honi chahiye.
 - **D.** Small reliable help bhi useful hoti hai, complete replacement zaroori nahi.
 
-[Clinical reference](https://www.who.int/news-room/questions-and-answers/item/dementia-information-for-caregivers)
+[Clinical reference](https://www.who.int/news-room/questions-and-answers/item/dementia-information-for-caregivers) · [WHO caregiver support](https://www.who.int/news-room/questions-and-answers/item/dementia-information-for-caregivers)
 
 **YouTube MCQ practice:** Question-specific dedicated video mapping pending hai.
 
@@ -342,9 +342,9 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 **Baaki options kyun galat hain?**
 
-- **A.** Yeh surgical training manual nahi hai.
-- **B.** Visual acuity screening iska primary purpose nahi hai.
-- **C.** Laboratory culture training iska target nahi hai.
+- **A.** Neurosurgery specialist procedural training ka alag field hai. iSupport dementia care ki everyday challenges aur caregiver wellbeing ke liye bana hai.
+- **B.** Visual acuity screening eyesight measure karti hai. iSupport ka focus dementia ke saath jee rahe person aur uski care karne wale logon ka support hai.
+- **C.** CSF culture laboratory infection investigation ka part hai. iSupport caregiver ko daily care aur apni wellbeing manage karne ki skills sikhata hai.
 
 [Clinical reference](https://www.who.int/publications/i/item/9789241515863)
 
@@ -404,7 +404,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 - **C.** Providing everyday care routine care skills par focus karta hai.
 - **D.** Dealing with behaviour changes dementia-related behaviour ko manage karne ki strategies deta hai.
 
-[Clinical reference](https://www.who.int/publications/i/item/9789241515863)
+[Clinical reference](https://www.who.int/publications/i/item/9789241515863) · [WHO caregiver support](https://www.who.int/news-room/questions-and-answers/item/dementia-information-for-caregivers)
 
 **YouTube MCQ practice:** Question-specific dedicated video mapping pending hai.
 
@@ -414,7 +414,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 ### Q15. After a caregiver training session on using a prescribed home-care device, which finding provides the strongest evidence of practical readiness?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
 
 - **A.** The caregiver signs an attendance sheet
 - **B.** The caregiver remembers the device brand name
@@ -443,7 +443,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 ### Q16. A caregiver tells the nurse that loss of income and travel costs are making care difficult. Which intervention addresses the stated problem most directly?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
 
 - **A.** Assess the financial impact and refer to appropriate local social-work or benefits advice
 - **B.** Provide only memory exercises for the older person
@@ -491,7 +491,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 - **C.** Har problem resolve hone ki guarantee nahi di ja sakti.
 - **D.** Medicine changes appropriate prescriber ke assessment se honi chahiye.
 
-[Clinical reference](https://www.who.int/news-room/questions-and-answers/item/dementia-information-for-caregivers)
+[Clinical reference](https://www.who.int/news-room/questions-and-answers/item/dementia-information-for-caregivers) · [WHO caregiver support](https://www.who.int/news-room/questions-and-answers/item/dementia-information-for-caregivers)
 
 **YouTube MCQ practice:** Question-specific dedicated video mapping pending hai.
 
@@ -501,7 +501,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 ### Q18. A caregiver reports being unable to sleep, feeling hopeless and having thoughts of self-harm. Which action has the highest priority?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
 
 - **A.** Offer a routine education leaflet and review in six months
 - **B.** Tell the caregiver that such thoughts are normal and require no assessment
@@ -512,15 +512,15 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 **Correct answer: D. Arrange urgent safety and mental-health assessment and ensure the older person's immediate care needs are covered**
 
-**Kyun sahi hai?** Self-harm thoughts urgent safety concern hain. Immediate professional assessment arrange karna aur dependent older adult ke liye safe interim care ensure karna dono important hain.
+**Kyun sahi hai?** Self-harm ke thoughts severe distress ka signal ho sakte hain. Nurse urgent safety aur mental-health assessment arrange karti hai. Agar immediate danger ho toh local emergency pathway activate karo aur safe supervision ensure karo. Saath hi older adult ki essential medicines, meals aur supervision ke liye interim care plan confirm karo.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Six-month delay immediate risk ko address nahi karta.
-- **B.** Aise thoughts ko dismiss karna unsafe hai.
-- **C.** Extra workload distress worsen kar sakta hai aur safety issue solve nahi karta.
+- **A.** Six months ka wait current safety concern ko address nahi karta. Leaflet later support mein useful ho sakta hai, lekin urgent risk assessment ka replacement nahi hai.
+- **B.** Self-harm thoughts ko normal kehkar dismiss karne se serious risk miss ho sakta hai. Caregiver ko bina judgement ke sunna aur immediate assessment arrange karna chahiye.
+- **C.** Extra caregiving workload distress aur exhaustion ko badha sakta hai. Abhi priority caregiver ki safety aur dependent older adult ki care continuity hai.
 
-[Clinical reference](https://www.nice.org.uk/guidance/ng150/chapter/Recommendations)
+[Clinical reference](https://www.nice.org.uk/guidance/ng150/chapter/Recommendations) · [WHO self-harm risk assessment](https://www.who.int/teams/mental-health-and-substance-use/treatment-care/mental-health-gap-action-programme/evidence-centre/self-harm-and-suicide/assessment-for-self-harm-suicide-in-persons-with-priority-mental-neurological-and-substance-use-disorders)
 
 **YouTube MCQ practice:** Question-specific dedicated video mapping pending hai.
 
@@ -559,7 +559,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 
 ### Q20. Two siblings disagree about how much help each can provide to their older parent. Which approach most directly supports a sustainable shared-care arrangement?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · NORCET / Staff Nurse — Original practice
 
 - **A.** Assign identical hours to both without asking about work or ability
 - **B.** Require the older parent to accept whichever arrangement is cheapest
@@ -578,7 +578,7 @@ Teaching lead: [Modified Caregiver Strain Index — Hartford Institute](https://
 - **B.** Cost important ho sakta hai lekin patient safety aur preferences ignore nahi karni chahiye.
 - **D.** Responsibilities discuss na karne se confusion aur care gaps badh sakte hain.
 
-[Clinical reference](https://www.nice.org.uk/guidance/ng150/chapter/Recommendations)
+[Clinical reference](https://www.nice.org.uk/guidance/ng150/chapter/Recommendations) · [WHO caregiver support](https://www.who.int/news-room/questions-and-answers/item/dementia-information-for-caregivers)
 
 **YouTube MCQ practice:** Question-specific dedicated video mapping pending hai.
 
