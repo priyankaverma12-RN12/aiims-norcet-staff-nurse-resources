@@ -264,27 +264,27 @@
 
 </details>
 
-### Q11. At an ICU family conference, a clinician knows the laboratory trend but not the patient's priorities. Which question best reflects the person-understanding component of VALUE?
+### Q11. Under the Indian advance medical directive framework restated in the March 2026 Supreme Court judgment, which execution arrangement should the hospital legal team verify?
 
 **Difficulty:** Medium | **Priority:** High | **Type:** Original practice | **Topic:** ICU end-of-life communication and legal safeguards
 
-- **A.** What abilities or activities were most important to the patient before this illness?
-- **B.** Which room number did the patient prefer?
-- **C.** How quickly can we finish this meeting?
-- **D.** Would you agree to every option without discussion?
+- **A.** Signature in the presence of two attesting witnesses, preferably independent, and attestation before a notary or gazetted officer
+- **B.** A single unsigned statement prepared by an unrelated visitor
+- **C.** The signature of the hospital cashier alone
+- **D.** Automatic execution by the ICU nurse without the patient's participation
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. What abilities or activities were most important to the patient before this illness?**
+**Correct: A. Signature in the presence of two attesting witnesses, preferably independent, and attestation before a notary or gazetted officer**
 
-- **A.** Patient ki meaningful abilities aur priorities samajhne se clinical goals individualize hote hain. VALUE ka U is tarah ke questions support karta hai.
-- **B.** Room preference clinical values ka substitute nahi hai.
-- **C.** Meeting speed patient-centred understanding se more important nahi.
-- **D.** Undiscussed agreement informed decision-making support nahi karta.
+- **A.** Harish Rana paragraph 101 Common Cause framework ki specified witness aur attestation requirements restate karta hai. Legal team actual validity aur current process verify karti hai.
+- **B.** Unverified unsigned visitor statement prescribed execution safeguards satisfy nahi karta.
+- **C.** Cashier ki signature alone required witnesses aur authorized attestation ka substitute nahi hai.
+- **D.** Nurse patient ki voluntary informed execution ko replace nahi kar sakti. Document validity authorized legal review se verify hoti hai.
 
-**Exam clue:** Ask about the person's meaningful life priorities.
+**Exam clue:** Check two witnesses and the specified attestation authority.
 
-**Reference:** [ESICM 2024 ICU end-of-life guidance](https://link.springer.com/article/10.1007/s00134-024-07579-1).
+**Reference:** [Supreme Court Harish Rana, 11 March 2026, paragraph 101](https://api.sci.gov.in/supremecourt/2025/60980/60980_2025_7_1501_69246_Judgement_11-Mar-2026.pdf).
 
 **YouTube MCQ practice:** exact item verification pending.
 
@@ -498,27 +498,27 @@
 
 </details>
 
-### Q20. A hospital proposes making flexible visiting a mandatory evidence-proven policy with a guaranteed reduction in all family mental-health symptoms. Which appraisal of ESICM 2024 is accurate?
+### Q20. A capable adult in India has executed an advance medical directive and asks the nurse whether a digital health-record copy alone replaces delivery to the designated local government custodian. Under the framework restated in Harish Rana (2026), which advice is accurate?
 
 **Difficulty:** Difficult | **Priority:** High | **Type:** Original practice | **Topic:** ICU end-of-life communication and legal safeguards
 
-- **A.** It presents high-certainty evidence for every claimed outcome
-- **B.** The guidance offers an expert suggestion based on limited evidence, not a formal guarantee of benefit
-- **C.** It prohibits flexible visiting in all circumstances
-- **D.** It establishes a fixed mandatory visiting duration for all countries
+- **A.** Digital inclusion alone automatically replaces all specified custody arrangements
+- **B.** Digital inclusion is optional; the designated local-government custodian must receive a copy as specified, with other required copies and legal formalities
+- **C.** The directive should be kept exclusively by an unrelated visitor
+- **D.** All copies should be destroyed after the first ICU admission
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. The guidance offers an expert suggestion based on limited evidence, not a formal guarantee of benefit**
+**Correct: B. Digital inclusion is optional; the designated local-government custodian must receive a copy as specified, with other required copies and legal formalities**
 
-- **A.** High-certainty universal benefit guideline claim nahi karti.
-- **B.** Flexible visiting ke evidence limited hain; guideline expert suggestion deti hai. Local assessment aur patient preference matter karte hain.
-- **C.** Guidance flexible visiting prohibit nahi karti.
-- **D.** Countries aur ICUs ka context differ karta hai, fixed universal duration specified nahi hai.
+- **A.** Digital record inclusion optional provision hai. Isse specified custodian aur other copy requirements automatically remove nahi hote.
+- **B.** Paragraph 101 local government, municipality ya panchayat ke designated officer ko copy dene ka provision restate karta hai. Nominee aur family physician if any ko copies dene ke requirements bhi verify karo. Current legal process authorized team explain karti hai.
+- **C.** Unrelated visitor designated statutory custody ka substitute nahi hai. Secure authorized document availability important hai.
+- **D.** ICU admission directive ko automatically cancel nahi karta. Revocation aur record preservation prescribed procedures follow karte hain.
 
-**Exam clue:** Know the strength of an expert suggestion versus a formal recommendation.
+**Exam clue:** Optional digital copy is different from the designated local-government custody requirement.
 
-**Reference:** [ESICM 2024 ICU end-of-life guidance](https://link.springer.com/article/10.1007/s00134-024-07579-1).
+**Reference:** [Supreme Court Harish Rana, 11 March 2026, paragraph 101(c–d)](https://api.sci.gov.in/supremecourt/2025/60980/60980_2025_7_1501_69246_Judgement_11-Mar-2026.pdf).
 
 **YouTube MCQ practice:** exact item verification pending.
 
