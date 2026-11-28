@@ -6,6 +6,13 @@ Scope: Reserved continuation of draft PR45; no active writer
 Claimed UTC: none
 Expiry UTC: none
 
+## Verified checkpoint — Batch 07 targeted correction
+
+- Released owner child-health-b07-targeted-20261128-095248Z, acquisition c4f2fc6333201d11a62169636c340744fbd17354. PR45 exact head 107f02bd928a543fe36a0dea08d88bfb860e4fdb, draft true, mergeable true, 60 changed paths, all chapter-local. Exact-head PR workflow runs returned 1. No integration.
+- Actual clinical-file commits fd3b503fa5c8cc1fff66f1fffade79fde73a3010 (02D Q1–5, Q8–13, Q15–17, 56 expanded rationales) and 307c6cfa549a480028ae74e4f8688321d7af07be (02C Q16–17, eight expanded rationales). Exact readbacks passed. All stems and correct answers retained, Q5 distractors improved, six difficulty regrades. Earlier documented 02D Q6/7/14/18/19/20 corrections unchanged. RCH, PREDICT 2025 and CPS/UKHSA evidence checked; no new video playback claimed.
+- Inventory corrections bb2efa2bd38d130808a35420e1dc631d7f131001 and 107f02bd928a543fe36a0dea08d88bfb860e4fdb read back exactly. 400 staged originals, 1600 option rationales, 20 banks, 14 concept guides, 16 SVGs, four legacy originals and one adaptation preserved. Cumulative difficulty 58 Easy / 228 Medium / 114 Difficult derived from verified prior totals plus six exact label changes, not a repeated full audit. Zero new originals, mocks, PYQs or live additions this run.
+- Full fresh preflight certification not claimed (long rules and manual sibling scope checks were bounded). Continue content-first next unclaimed individual Child Health topics under valid ownership and incremental clinical/source/semantic checks, with target 100 genuinely distinct originals and 400 individual rationales. User's prior priority corrections are preserved, including oxygen, EA/TEF, UIP/AEFI, HPV 2026. Outstanding unreviewed 02A/B/C/E questions, independent clinical and semantic review, video playback, full INC reconciliation, PR7/8/12/35 clearance, latest-main and exact-head CI/website gates remain before integration. No redundant comments, other jobs, learner history, shared navigation or five automations modified.
+
 ## Verified checkpoint — Batch 06
 
 - Draft PR45 exact head a61b0aab389aa3046e73c9bd1b018d8202131b63; 60 changed files all Child Health Nursing. No final-head checks yet returned. Previous checkpoint CI 140927266028 successful. Observed main 90a91e3884422406a8f075723d33398b3526bc1b; latest-main reconciliation not complete.

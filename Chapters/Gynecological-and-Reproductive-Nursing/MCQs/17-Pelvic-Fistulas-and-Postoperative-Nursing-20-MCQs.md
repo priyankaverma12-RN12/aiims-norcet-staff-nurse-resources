@@ -176,27 +176,29 @@
 
 </details>
 
-### Q8. Continuous urine leakage causes vulvar skin maceration. Best nursing care?
+### Q8. A woman with an unrepaired vesicovaginal fistula has continuous urine leakage and painful, soggy vulvar skin. There is no surgical incision. Which nursing plan specifically prevents incontinence-associated dermatitis while specialist fistula care is arranged?
 
-**Priority:** High · **Difficulty:** Medium · **Evidence:** Original practice
+**Priority:** High · **Difficulty:** Medium · **Evidence:** Original practice, not PYQ
 
-- **A.** Scrub vigorously
-- **B.** Restrict fluids without orders
-- **C.** Ignore wet pads
-- **D.** Gentle cleansing, barrier protection and frequent dry changes
+- **A.** Scrub the vulva with strong soap after each leak to remove all moisture
+- **B.** Restrict oral fluids without a clinical order so urine stops forming
+- **C.** Leave a saturated pad in place until the next scheduled dressing round
+- **D.** Gently cleanse exposed skin, pat dry, use a suitable skin barrier and change wet continence products promptly
 
 <details><summary>Answer and detailed A–D Hinglish rationales</summary>
 
-**Correct: D. Gentle cleansing, barrier protection and frequent dry changes**
+**Correct: D. Gently cleanse exposed skin, pat dry, use a suitable skin barrier and change wet continence products promptly**
 
-**Correct kyun?** Gentle cleaning aur dry protection skin preserve karte hain.
+**Correct kyun?** Vesicovaginal fistula ka matlab bladder aur vagina ke beech ek abnormal rasta hai. Is wajah se urine baar-baar vulvar skin par lag sakta hai. Jab skin lagataar geeli rahe, toh uski protective layer kamzor ho jaati hai. Is problem ko incontinence-associated dermatitis kehte hain. Nurse ko gentle cleansing, skin ko softly dry karna, suitable barrier lagana aur wet pad jaldi change karna chahiye. Ye care fistula ko band nahi karti, lekin repair tak skin damage kam kar sakti hai.
 
-- **A. Scrub vigorously:** Scrubbing barrier damage karta hai.
-- **B. Restrict fluids without orders:** Unnecessary fluid restriction dehydration kar sakti hai.
-- **C. Ignore wet pads:** Wet pads skin breakdown badhate hain.
-- **D. Gentle cleansing, barrier protection and frequent dry changes:** Gentle cleaning aur dry protection skin preserve karte hain.
+- **A. Scrub the vulva with strong soap after each leak to remove all moisture:** Strong soap aur zor se ragadne par skin ki protective layer aur damage ho sakti hai. Patient ko gentle, non-irritating cleanser chahiye, scrubbing nahi.
+- **B. Restrict oral fluids without a clinical order so urine stops forming:** Bina medical indication paani rokna dehydration aur dusri complications badha sakta hai. Fistula leakage ka anatomical cause fluid restriction se theek nahi hota.
+- **C. Leave a saturated pad in place until the next scheduled dressing round:** Geela pad urine ko skin ke contact mein rakhta hai. Isse maceration aur pain badh sakte hain. Pad ko timely change karna zaroori hai.
+- **D. Gently cleanse exposed skin, pat dry, use a suitable skin barrier and change wet continence products promptly:** Is plan mein urine exposure kam karna aur skin barrier protect karna dono included hain. Yeh generic surgical wound asepsis se alag, continuous leakage ke liye specific nursing intervention hai.
 
-**Nursing application:** Patient ki privacy rakho, leakage pattern aur infection red flags assess karo, catheter patency monitor karo, specialist ko timely report karo.
+**Nursing application:** Privacy ke saath vulvar skin assess karo, redness ya broken skin document karo, gentle cleanser aur suitable protective product use karo. Patient ko pad changes aur specialist follow-up samjhao. Worsening skin breakdown, infection signs ya severe pain ho toh timely escalate karo.
+
+**Clinical references:** [Wounds International 2026 IAD practice statement](https://woundsinternational.com/wp-content/uploads/2026/04/SOL26_BPS_IAD_WINT_WEB-v2.pdf) and [NHS skin-care pathway](https://www.dbth.nhs.uk/wp-content/uploads/2024/01/Skin-Care-Pathway-for-Incontinence-Associated-Dermatitis-IAD-v3-2024.pdf). **YouTube MCQ evidence:** Specific question-solving coverage not verified.
 
 </details>
 
@@ -276,27 +278,29 @@
 
 </details>
 
-### Q12. Fever, flank pain and dysuria in a fistula patient raise concern for?
+### Q12. A woman awaiting fistula repair develops a temperature of 39°C, shaking chills, new right costovertebral-angle tenderness and painful urination. Which complication requires prompt clinical escalation rather than routine pelvic wound care?
 
-**Priority:** High · **Difficulty:** Medium · **Evidence:** Original practice
+**Priority:** Very High · **Difficulty:** Difficult · **Evidence:** Original practice, not PYQ
 
-- **A.** Normal ovulation
-- **B.** Seasonal allergy
-- **C.** Mastalgia
-- **D.** Urinary tract infection including pyelonephritis
+- **A.** Uncomplicated vulvar contact dermatitis without systemic illness
+- **B.** Normal ovulatory pain that requires only reassurance
+- **C.** A superficial postoperative incision infection despite no recent incision
+- **D.** Possible acute pyelonephritis with risk of systemic infection
 
 <details><summary>Answer and detailed A–D Hinglish rationales</summary>
 
-**Correct: D. Urinary tract infection including pyelonephritis**
+**Correct: D. Possible acute pyelonephritis with risk of systemic infection**
 
-**Correct kyun?** Infection upper urinary tract tak pahunch sakti hai.
+**Correct kyun?** Pyelonephritis ka matlab kidney mein infection hai. Patient ko tez fever, kapkapi, ek taraf peeth ya flank mein pain aur urine pass karte waqt jalan ho rahi hai. Costovertebral-angle tenderness ka matlab kidney ke paas peeth mein touch karne par dard hona hai. Ye symptoms lower urinary infection se aage kidney involvement ka concern badhate hain. Nurse ko vital signs aur deterioration assess karke turant clinician ko inform karna chahiye. Delay hone par sepsis ka risk ho sakta hai.
 
-- **A. Normal ovulation:** Ovulation fever flank pain explain nahi karti.
-- **B. Seasonal allergy:** Allergy urinary symptoms explain nahi karti.
-- **C. Mastalgia:** Mastalgia breast pain hai.
-- **D. Urinary tract infection including pyelonephritis:** Infection upper urinary tract tak pahunch sakti hai.
+- **A. Uncomplicated vulvar contact dermatitis without systemic illness:** Contact dermatitis mein local itching ya burning ho sakti hai. Lekin high fever, chills aur kidney-area tenderness simple skin irritation ko explain nahi karte.
+- **B. Normal ovulatory pain that requires only reassurance:** Ovulation ke aas-paas mild lower abdominal pain ho sakta hai. High fever, painful urination aur flank tenderness ko normal ovulation samajhna unsafe hai.
+- **C. A superficial postoperative incision infection despite no recent incision:** Surgical site infection incision ke aas-paas redness, warmth, pain ya discharge se related ho sakta hai. Is patient mein recent incision hi nahi hai aur kidney-area symptoms dominant hain. Isliye generic pelvic wound care answer nahi hai.
+- **D. Possible acute pyelonephritis with risk of systemic infection:** Fever, chills, dysuria aur costovertebral tenderness ka combination upper urinary tract infection ka important clue hai. Diagnosis confirm karne ke liye clinician assessment, urine testing aur zarurat ke hisaab se further tests chahiye.
 
-**Nursing application:** Patient ki privacy rakho, leakage pattern aur infection red flags assess karo, catheter patency monitor karo, specialist ko timely report karo.
+**Nursing application:** Temperature, pulse, blood pressure, respiratory rate, mental status aur urine output assess karo. Prompt medical escalation karo aur ordered urine samples, treatment aur monitoring arrange karne mein help karo. Confusion, low blood pressure ya worsening breathing sepsis ke red flags ho sakte hain.
+
+**Clinical reference:** [NIDDK kidney infection symptoms and causes](https://www.niddk.nih.gov/health-information/urologic-diseases/kidney-infection-pyelonephritis/symptoms-causes%20). **YouTube MCQ evidence:** Specific question-solving coverage not verified.
 
 </details>
 
