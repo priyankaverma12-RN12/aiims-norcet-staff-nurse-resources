@@ -611,6 +611,7 @@ try:
                 expect(mobile.locator(".completion-resource")).to_have_count(0)
                 mobile.locator(".completion-category[data-kind=theory]>summary").tap()
                 expect(mobile.locator(".completion-category[data-kind=theory] .completion-resource").first).to_be_visible()
+                expect(mobile.locator(".completion-category[data-kind=theory] .completion-resource [data-role=status]").first).to_have_text("Not started")
                 expect(mobile.locator(".completion-category:not([data-kind=theory]) .completion-resource")).to_have_count(0)
                 for section in ["theory","mcq","mock","pyq"]:
                     group=mobile.locator(f".completion-category[data-kind={section}]")
