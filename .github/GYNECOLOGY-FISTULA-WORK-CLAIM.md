@@ -1,10 +1,10 @@
 # Gynecology pelvic fistula independent claim
 
-State: CLAIMED
-Owner: gyne-f11-20261128
-Scope: Fistula Q11 only and claim checkpoint
-Claimed UTC: 2026-11-28T08:00:00Z
-Expiry UTC: 2026-11-28T09:00:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: 564 allocated originals, 20 preserved vulvar slots awaiting allocation and 19 overlapping menstrual revision slots. This new bank must be independently audited before adding to unique count.
 
@@ -27,3 +27,9 @@ Baseline: 564 allocated originals, 20 preserved vulvar slots awaiting allocation
 - Vulvar Q10/13/14 rewritten, commit cacfb4b598c82d6168ac3240af2f9ed6ac2d7856; 20 questions and hidden answers verified.
 - Fistula Q1 rewritten to postoperative ureter injury escalation after detecting within-bank overlap with F6; final commit 1d30dc3f33b5b7b96087f540701890859000d242, 20 questions and hidden answers verified.
 - Audit revised and checkpointed at cfee1a52c798239ef05b8bc207992e19067cfd85. Physical slots 623 and allocated originals 564 preserved. Full 40-item independent clinical/source audit incomplete; README distinct count unchanged; no mocks.
+
+## 28 November 2026 — targeted full-option comparison and corrections
+- Full target-bank stems/options/keys and 80 overlapping Procedures/RTI bank stems/options/keys compared. Confirmed V14 duplicate with RTI expansion HSV lesion NAAT, corrected to recurrent HSV-2 suppressive counseling, commit e73b7d2f2b192792f2f95456d05b5e3a96a42274.
+- Confirmed F11 overlap with Procedures postoperative oliguria, corrected to fistula-repair catheter bag positioning and traction avoidance, commit 3a0747ac642ed8c3661887c5ff66bc7fcf33bae1.
+- Updated 40-item audit and source verification caveats, commit 5b0f35c3eae808cdfc819c8e57c8ebb1d0bccd3a. Remote readbacks confirmed 20 Q and 20 hidden answers per bank. WHO/CDC HSV opened, CDC CAUTI and genital ulcers timed out. Complete 160-option independent clinical audit not finished.
+- Preserve 564 allocated originals, 20 Vulvar unallocated, 20 Fistula unallocated and 19 menstrual revision = 623 physical slots. README count unchanged; no mocks.
