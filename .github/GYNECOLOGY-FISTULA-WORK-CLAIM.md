@@ -1,10 +1,10 @@
 # Gynecology pelvic fistula independent claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: gyne-rework-fistula-20261128
+Scope: respective 20-question bank, claim and read-only semantic audit; no shared README edits
+Claimed UTC: 2026-11-28T10:00:00Z
+Expiry UTC: 2026-11-28T11:00:00Z
 
 Baseline: 564 allocated originals, 20 preserved vulvar slots awaiting allocation and 19 overlapping menstrual revision slots. This new bank must be independently audited before adding to unique count.
 
