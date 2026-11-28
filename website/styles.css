@@ -825,3 +825,5 @@ html:has(body.reader-page){scroll-padding-top:calc(var(--header-offset) + var(--
  #reader-sections-panel .tabs{grid-template-columns:repeat(2,minmax(0,1fr))}
  #reader .reader-completion .completion-control{flex:0 1 auto}
 }
+
+@media(max-width:600px){body.focus-study .topbar nav{display:none!important}}
