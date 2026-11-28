@@ -401,17 +401,16 @@ Pulse oximeter ka photodetector sensor ki light ko receive karta hai. Agar proce
 
 **Correct answer: B. Inspect skin, reposition or change the sensor site as allowed, and continue necessary monitoring safely**
 
-<!-- job5-rationale -->
-Continuous probe contact pressure, adhesive irritation aur kabhi heat-related injury create kar sakta hai. Redness detect ho toh skin assess karo, compatible alternative site use karo aur device instructions ke according inspection interval follow karo. Required oxygen monitoring interrupt na ho, iske liye safe arrangement karo.
+Continuous monitoring mein probe lambe samay tak skin ko touch karti hai. Pressure, adhesive irritation ya kabhi heat se skin damage ho sakta hai. Maan lo finger par redness dikh rahi hai. Nurse probe site inspect karti hai aur approved alternative site par compatible sensor lagati hai. Manufacturer aur facility ke inspection aur rotation intervals follow karne chahiye. Agar continuous monitoring necessary hai, toh safe alternative arrange karke monitoring continue karo.
 
 **Option-by-option reasoning**
 
-- **A:** Unapproved ointment sensor aur skin-care compatibility affect kar sakti hai.
-- **B:** Skin inspection aur safe site change appropriate hai.
-- **C:** Optical sensors bhi contact injury cause kar sakte hain.
-- **D:** Tightening pressure worsen kar sakti hai.
+- **A:** Unapproved ointment optical light transmission ya adhesive compatibility affect kar sakti hai. Skin care aur sensor instructions dono verify karne chahiye.
+- **B:** Skin inspect karne aur approved site change karne se further pressure injury ka risk kam hota hai aur monitoring continue reh sakti hai. Isliye B sahi hai.
+- **C:** Optical sensor bhi skin ke contact mein rehta hai aur injury cause kar sakta hai. Redness ignore nahi karni chahiye.
+- **D:** Probe tight karne se pressure aur circulation problem badh sakti hai. Suitable fit use karna chahiye.
 
-**Exam clue:** Inspect skin and rotate site as appropriate.
+**Exam clue:** Continuous monitoring mein skin regularly inspect karo aur approved site rotation follow karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -438,17 +437,16 @@ Continuous probe contact pressure, adhesive irritation aur kabhi heat-related in
 
 **Correct answer: A. Clean and disinfect it using the approved manufacturer-compatible process**
 
-<!-- job5-rationale -->
-Reusable sensor patient-to-patient contamination transfer kar sakta hai. Visible soil clean karo aur manufacturer-compatible disinfectant, contact time aur facility IPC procedure follow karo. Electronics ko damage karne wali immersion avoid karo. Single-use sensor ko reuse karne se pehle applicable policy verify karo.
+Reusable probe ek patient ki skin ko touch karne ke baad microorganisms carry kar sakti hai. Doosre patient par use karne se pehle visible dirt remove karo aur manufacturer-compatible disinfectant ko required contact time tak use karo. Contact time ka matlab hai disinfectant ko effective hone ke liye surface par kitni der rehna chahiye. Facility infection prevention procedure follow karo. Electronic probe ko liquid mein tabhi immerse karo jab instructions permit karein. Single-use sensor ko routine reusable equipment mat samjho.
 
 **Option-by-option reasoning**
 
-- **A:** Approved cleaning aur disinfection correct hai.
-- **B:** Dry tissue required disinfection assure nahi karta.
-- **C:** All electronics immersion tolerate nahi karte.
-- **D:** Tape contamination remove nahi karti.
+- **A:** Approved cleaning aur disinfection se contamination transfer ka risk kam hota hai aur equipment compatibility maintain hoti hai. Isliye A sahi hai.
+- **B:** Dry tissue visible dirt ka kuch hissa hata sakti hai, lekin required disinfection establish nahi karti.
+- **C:** Har electronic sensor immersion tolerate nahi karta. Liquid se device damage ya malfunction ho sakta hai.
+- **D:** Fresh tape contamination ko cover kar sakti hai, lekin microorganisms remove ya inactivate nahi karti.
 
-**Exam clue:** Clean then disinfect according to approved instructions.
+**Exam clue:** Reusable probe ko next patient se pehle approved process se clean aur disinfect karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -475,17 +473,16 @@ Reusable sensor patient-to-patient contamination transfer kar sakta hai. Visible
 
 **Correct answer: C. Conventional pulse oximetry may mistake carboxyhemoglobin for oxygenated hemoglobin**
 
-<!-- job5-rationale -->
-Carbon monoxide Hb ke oxygen-binding sites occupy karta hai aur tissue oxygen delivery impair karta hai. Conventional two-wavelength oximeter COHb ko reliably distinguish nahi kar sakta, isliye reading falsely reassuring ho sakti hai. Smoke exposure with confusion urgent evaluation, indicated oxygen treatment aur blood co-oximetry maangta hai.
+Carbon monoxide, yaani CO, hemoglobin se bind karke carboxyhemoglobin banata hai. Isse blood ki oxygen carry karne aur tissues tak release karne ki ability impair ho sakti hai. Conventional two-wavelength pulse oximeter carboxyhemoglobin aur oxyhemoglobin ko reliably distinguish nahi karta. Isliye smoke exposure ke baad patient ko headache aur confusion hone par bhi display 98% dikha sakta hai. Nurse is reassuring number par depend nahi karti. Urgent clinical evaluation, indicated oxygen treatment aur blood co-oximetry arrange karni chahiye. Co-oximetry different hemoglobin forms measure karne mein help karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Conventional device CO concentration directly measure nahi karti.
-- **B:** Cyanosis absent hone se CO poisoning exclude nahi hoti.
-- **C:** COHb optical interference correct explanation hai.
-- **D:** 98% reading CO poisoning exclude nahi karti.
+- **A:** Conventional pulse oximeter blood CO concentration directly measure nahi karta. Suspected exposure mein appropriate blood co-oximetry chahiye.
+- **B:** Cyanosis na dikhne par bhi CO poisoning possible hai. Exposure history aur symptoms important hain.
+- **C:** Carboxyhemoglobin ko conventional oximeter reliably distinguish nahi karta, isliye falsely reassuring saturation aa sakti hai. Isliye C sahi hai.
+- **D:** 98% SpO2 suspected CO poisoning exclude nahi karti. Confusion aur smoke exposure urgent assessment maangte hain.
 
-**Exam clue:** Smoke exposure: normal SpO2 cannot rule out CO poisoning.
+**Exam clue:** Smoke exposure mein normal SpO2 se CO poisoning rule out mat karo. Urgent clinical evaluation zaroori hai.
 
 [Concept reference](https://www.cdc.gov/carbon-monoxide/hcp/clinical-guidance/index.html)
 <!-- /job5-rationale -->
@@ -514,17 +511,16 @@ Carbon monoxide Hb ke oxygen-binding sites occupy karta hai aur tissue oxygen de
 
 **Correct answer: B. Dyshemoglobins may distort conventional readings and appropriate co-oximetry is needed**
 
-<!-- job5-rationale -->
-Methemoglobinemia mein iron ferric state mein oxidize hota hai aur oxygen transport impair ho sakta hai. Conventional two-wavelength absorption ratio significant MetHb par saturation display ko approximately 85% ki taraf pull kar sakta hai. Clinical history, symptoms aur multiwavelength blood co-oximetry se evaluate karo. Number alone diagnosis nahi hai.
+Methemoglobinemia mein hemoglobin ke iron ka form ferrous se ferric state mein oxidize ho jaata hai. Is wajah se affected hemoglobin oxygen normally bind nahi kar paata. Conventional red aur infrared light absorption ka ratio significant methemoglobin present hone par reading ko lagbhag 85% ki taraf le ja sakta hai. Ye exact fixed reading nahi hai. Nurse exposure history, symptoms aur overall condition assess karti hai aur appropriate multiwavelength blood co-oximetry arrange karti hai. Patient unstable ho toh urgent care test confirmation ke liye delay nahi honi chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Repeated same sensor se dyshemoglobin limitation solve nahi hoti.
-- **B:** Co-oximetry appropriate confirmatory assessment hai.
-- **C:** 85% saturation aur 85 mmHg pressure different hain.
-- **D:** Near-85 reading multiple causes se ho sakti hai.
+- **A:** Same sensor repeat karne se abnormal hemoglobin ki optical limitation resolve nahi hoti. Symptoms ko promptly report aur assess karna chahiye.
+- **B:** Dyshemoglobins conventional optical readings distort kar sakte hain aur appropriate co-oximetry different forms identify karne mein help karti hai. Isliye B sahi hai.
+- **C:** 85% saturation aur PaO2 85 mmHg alag measurements hain. Ek se doosri exact value establish nahi hoti.
+- **D:** 85% ke paas reading true hypoxemia ya artifact se bhi aa sakti hai. Number alone methemoglobinemia confirm nahi karta.
 
-**Exam clue:** Approximately 85% is a clue, not a definitive diagnosis.
+**Exam clue:** Mid-80s ki persistent reading ek possible clue hai. Diagnosis ke liye clinical context aur appropriate co-oximetry chahiye.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK537317/)
 <!-- /job5-rationale -->
@@ -553,17 +549,16 @@ Methemoglobinemia mein iron ferric state mein oxidize hota hai aur oxygen transp
 
 **Correct answer: A. Reduced total oxygen-carrying capacity due to anemia**
 
-<!-- job5-rationale -->
-Saturation available Hb ka oxygen-bound proportion hai. Hb 6 g/dL mein 98% saturation ke bawajood oxygen-carrying capacity low ho sakti hai. Approximate Hb-bound oxygen content 1.34 × 6 × 0.98 = 7.88 mL O2/dL, dissolved oxygen ko exclude karke. Hb 15 par same saturation approximately 19.70 hoti. Patient symptoms aur perfusion assess karo.
+SpO2 batati hai ki available functional hemoglobin ka kitna proportion oxygen se bound hai. Lekin anemia mein total hemoglobin kam hota hai. Maan lo bus ki 98% seats occupied hain, lekin bus mein seats hi bahut kam hain. Isi tarah Hb 6 g/dL par 98% saturation ke bawajood oxygen carry karne ki capacity reduced ho sakti hai. Approximate Hb-bound oxygen content 1.34 × 6 × 0.98 = 7.88 mL O2/dL hai. Hb 15 g/dL par same saturation se lagbhag 19.70 mL O2/dL milta hai. Dono calculations dissolved oxygen exclude karti hain. Nurse symptoms aur perfusion assess karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Reduced Hb quantity oxygen content kam kar sakti hai.
-- **B:** SpO2 Hb concentration establish nahi karti.
-- **C:** Remaining Hb oxygen saturated ho sakta hai.
-- **D:** Tissue delivery blood flow aur content par depend karti hai.
+- **A:** Hemoglobin ki quantity kam hone se high saturation ke bawajood total oxygen-carrying capacity kam ho sakti hai. Isliye A sahi hai.
+- **B:** SpO2 available hemoglobin ka saturated proportion estimate karti hai, uski concentration nahi. Hb level blood test se pata chalta hai.
+- **C:** Anemia mein remaining hemoglobin oxygen bind kar sakta hai. Isliye saturation necessarily zero nahi hoti.
+- **D:** Tissues tak oxygen delivery blood oxygen content aur blood flow par depend karti hai. Saturation alone sufficient delivery prove nahi karti.
 
-**Exam clue:** Saturation is fraction, oxygen content depends on Hb.
+**Exam clue:** SpO2 ko occupied seats ka percentage samjho. Hb ki quantity kam ho toh high percentage ke bawajood oxygen content kam ho sakta hai.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK499818/)
 <!-- /job5-rationale -->
@@ -592,17 +587,16 @@ Saturation available Hb ka oxygen-bound proportion hai. Hb 6 g/dL mein 98% satur
 
 **Correct answer: D. Hypoventilation and carbon dioxide retention remain possible despite preserved oxygen saturation**
 
-<!-- job5-rationale -->
-Supplemental oxygen hypoventilation ke early phase mein saturation maintain kar sakta hai jab CO2 clearance worsen ho rahi ho. Increasing drowsiness aur shallow breathing respiratory depression ke warning signs hain. Immediate airway, breathing aur sedation assessment, urgent escalation aur indicated ventilation monitoring or blood gas arrange karo.
+Ventilation ka matlab air ka lungs mein aana aur bahar jaana hai, jisse carbon dioxide remove hoti hai. Oxygenation ka matlab blood tak oxygen pahunchna hai. Supplemental oxygen ki wajah se sedation ke dauran SpO2 kuch samay normal reh sakti hai, jabki shallow breathing ke kaaran carbon dioxide clearance kam ho rahi ho. Increasing drowsiness aur shallow breaths respiratory depression ke warning signs hain. Nurse airway, effective breathing aur sedation urgently assess karti hai, clinical help activate karti hai aur indicated ventilation monitoring ya blood gas arrange karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Normal SpO2 opioid respiratory depression exclude nahi karti.
-- **B:** PaCO2 oximeter measure nahi karta.
-- **C:** Desaturation wait karna already concerning signs ignore karta hai.
-- **D:** Preserved saturation ke bawajood hypoventilation possible hai.
+- **A:** Opioids respiratory drive depress kar sakte hain. Supplemental oxygen par normal SpO2 is problem ko exclude nahi karti.
+- **B:** PaCO2 arterial carbon dioxide pressure hai. Pulse oximeter ise directly measure nahi karta.
+- **C:** Drowsiness aur shallow breaths already concerning hain. Desaturation ka wait karne se urgent care delay ho sakti hai.
+- **D:** Normal displayed saturation ke bawajood inadequate ventilation aur CO2 retention possible hain. Isliye D sahi hai.
 
-**Exam clue:** Oxygenation and ventilation are different.
+**Exam clue:** Oxygen support par normal SpO2 ko adequate ventilation ka proof mat samjho. Breathing depth aur alertness bhi assess karo.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -631,17 +625,16 @@ Supplemental oxygen hypoventilation ke early phase mein saturation maintain kar 
 
 **Correct answer: B. Expected saturation may differ with altitude and individual clinical context**
 
-<!-- job5-rationale -->
-Altitude par atmospheric pressure decrease hota hai, jisse inspired oxygen partial pressure lower hoti hai even when oxygen fraction approximately same hai. Acclimatization, altitude aur health status ke according expected SpO2 vary kar sakti hai. New symptoms ya baseline se fall assess karo, har low value normal assume mat karo.
+High altitude par atmospheric pressure kam hota hai. Hawa mein oxygen ka fraction approximately same reh sakta hai, lekin inspired oxygen ka partial pressure kam ho jaata hai. Isse arterial oxygenation aur expected SpO2 lower ho sakti hai. Patient ka acclimatization, altitude, usual baseline aur illness bhi reading affect karte hain. Nurse new symptoms aur baseline se change assess karti hai. Har low reading ko device fault ya normal altitude response assume nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Low reading true physiological change ho sakti hai.
-- **B:** Altitude aur individual context important hain.
-- **C:** Exactly 100% universal expectation nahi hai.
-- **D:** Barometric pressure oxygenation influence karti hai.
+- **A:** Altitude par low reading actual physiological change ho sakti hai. Device fault bina verification conclude nahi karna chahiye.
+- **B:** Expected SpO2 altitude aur individual clinical context ke according vary kar sakti hai. Isliye B sahi hai.
+- **C:** Healthy people mein bhi saturation exactly 100% hona universal requirement nahi hai, especially altitude par.
+- **D:** Atmospheric pressure inspired oxygen partial pressure ko affect karta hai aur arterial oxygenation badal sakti hai.
 
-**Exam clue:** Altitude changes oxygen partial pressure, not necessarily fraction.
+**Exam clue:** Altitude par oxygen fraction similar reh sakta hai, lekin partial pressure kam ho sakta hai. Patient ka baseline aur symptoms assess karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK525974/)
 <!-- /job5-rationale -->
@@ -670,17 +663,16 @@ Altitude par atmospheric pressure decrease hota hai, jisse inspired oxygen parti
 
 **Correct answer: A. Interpret readings against the individualized prescribed range and assess clinical condition**
 
-<!-- job5-rationale -->
-Hypercapnic respiratory failure risk wale selected patients mein controlled oxygen target commonly 88–92% prescribe hota hai. Excess oxygen kuch patients mein CO2 retention worsen kar sakti hai, including V/Q changes and Haldane effect. Prescribed target, breathing, consciousness aur blood gas as indicated review karo. Critical illness mein emergency oxygen and support delay mat karo.
+Kuch patients mein carbon dioxide retain hone ka risk hota hai, jise hypercapnic respiratory failure ka risk kehte hain. Aise selected patients ke liye clinician controlled oxygen target 88–92% prescribe kar sakta hai. Excess oxygen kuch patients mein ventilation-perfusion matching aur Haldane effect, yaani oxygenation ke saath hemoglobin ki CO2 carry karne ki capacity mein change, ke through CO2 retention worsen kar sakti hai. Nurse prescribed target, breathing, consciousness aur indicated blood gas findings review karti hai. Critical illness mein emergency oxygen aur necessary support delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Individual target aur clinical assessment correct hai.
-- **B:** Universal 100% target appropriate nahi.
-- **C:** Below prescribed lower limit ko automatically acceptable nahi bol sakte.
-- **D:** Authorized plan review ke bina target arbitrary change nahi karna.
+- **A:** Patient-specific prescribed range ke against reading interpret karne aur clinical condition assess karne se controlled oxygen therapy safely monitor hoti hai. Isliye A sahi hai.
+- **B:** Har patient ko 100% saturation tak le jaana necessary ya appropriate nahi hota. Individual target verify karna chahiye.
+- **C:** COPD present hone par bhi prescribed lower limit se neeche saturation automatically acceptable nahi hai. Patient ko assess karke appropriate action lo.
+- **D:** Sirf display dekhkar target independently change nahi karna chahiye. Authorized clinical plan aur applicable protocol follow karo.
 
-**Exam clue:** Target individualized, not a universal 100%.
+**Exam clue:** Oxygen target patient-specific hota hai. Prescribed range, symptoms aur clinical response saath mein dekho.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -709,17 +701,16 @@ Hypercapnic respiratory failure risk wale selected patients mein controlled oxyg
 
 **Correct answer: D. Increasing oxygen requirement can indicate worsening respiratory status even with unchanged saturation**
 
-<!-- job5-rationale -->
-Same SpO2 maintain karne ke liye oxygen support increase hona respiratory status change ka important clue hai. Earlier 95% room air aur later 95% supplemental oxygen same clinical meaning nahi rakhte. Device, flow or concentration, respiratory effort aur trend document karo aur increasing requirement par prompt assessment karo.
+Maan lo patient ki SpO2 pehle room air par 95% thi aur ab supplemental oxygen par 95% hai. Number same hai, lekin body ko same saturation maintain karne ke liye extra support chahiye. Ye worsening respiratory condition ka important clue ho sakta hai. Nurse oxygen device, actual flow ya set concentration, respiratory effort, symptoms aur trend record karti hai. Increasing oxygen requirement par prompt clinical assessment aur indicated escalation chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Stable displayed number deterioration exclude nahi karta.
-- **B:** Support level comparison ke liye important hai.
-- **C:** Oxygen receiving patient ko room air chart karna false hai.
-- **D:** Increasing support requirement worsening indicate kar sakti hai.
+- **A:** Same saturation number se condition stable prove nahi hoti. Oxygen requirement increase hona deterioration indicate kar sakta hai.
+- **B:** Oxygen support level ke bina serial readings ka clinical meaning incomplete hota hai. Flow aur device record karna chahiye.
+- **C:** Supplemental oxygen mil rahi ho toh room air likhna inaccurate documentation hai. Actual support record karo.
+- **D:** Same saturation ke liye extra oxygen ki requirement worsening respiratory status ka clue ho sakti hai. Isliye D sahi hai.
 
-**Exam clue:** Read saturation together with oxygen requirement.
+**Exam clue:** Saturation ke saath oxygen requirement ka trend dekho. Sirf number same hone ko improvement mat samjho.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -748,17 +739,16 @@ Same SpO2 maintain karne ke liye oxygen support increase hona respiratory status
 
 **Correct answer: C. SpO2, time, oxygen device or room air, prescribed flow or concentration, and relevant symptoms**
 
-<!-- job5-rationale -->
-Serial oximetry meaningful tab hoti hai jab measurement time aur oxygen support context known ho. SpO2, device, actual flow or set concentration where relevant, symptoms aur target document karo. Clinical response after intervention bhi record karo. Cannula flow se exact FiO2 assume mat karo.
+Serial oximetry ka purpose alag-alag times ki readings compare karna hai. Iske liye actual SpO2 ke saath measurement time aur oxygen support pata hona chahiye. Maan lo morning reading room air par thi aur afternoon reading mask oxygen par hai. Dono ko bina context compare karna misleading hoga. Nurse oxygen device, actual flow ya set concentration, applicable target, symptoms aur intervention ke baad response record karti hai. Nasal cannula ke flow se exact inspired oxygen fraction assume nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Cylinder size patient oxygenation show nahi karti.
-- **B:** Generic normal statement measurable trend nahi deta.
-- **C:** Measured saturation plus support and clinical context best entry hai.
-- **D:** Percentage alone support change hide kar sakti hai.
+- **A:** Cylinder size se patient ki actual saturation aur delivered oxygen support establish nahi hota. Clinical measurements record karne chahiye.
+- **B:** Oxygenation normal likhna vague hai. Measured value aur time ke bina trend compare karna difficult hai.
+- **C:** SpO2, time, actual oxygen support aur relevant symptoms record karne se serial observations meaningful banti hain. Isliye C sahi hai.
+- **D:** Sirf saturation percentage likhne se increased oxygen requirement jaise important changes hide ho sakte hain.
 
-**Exam clue:** Document SpO2 + time + oxygen support + symptoms.
+**Exam clue:** Har saturation entry mein time, oxygen device ya room air, relevant flow aur symptoms record karo.
 
 [Concept reference](https://www.fda.gov/medical-devices/products-and-medical-procedures/pulse-oximeters)
 <!-- /job5-rationale -->
@@ -787,17 +777,16 @@ Serial oximetry meaningful tab hoti hai jab measurement time aur oxygen support 
 
 **Correct answer: A. Assess the patient immediately, verify the signal and escalate or provide indicated care based on findings**
 
-<!-- job5-rationale -->
-Sudden low alarm true hypoxemia ya artifact dono ho sakta hai. Pehle patient ki airway, breathing, circulation aur consciousness assess karo. Signal, placement aur pulse correspondence verify karo while indicated care and escalation proceed. Marked distress mein perfect signal ka wait mat karo.
+Sudden low saturation alarm actual hypoxemia ya unreliable optical signal ki wajah se aa sakta hai. Patient alert dikh raha hai, lekin isse oxygenation normal prove nahi hoti. Nurse immediately airway, breathing, circulation aur consciousness assess karti hai. Saath mein sensor placement, signal quality aur pulse correspondence verify karti hai. Findings ke hisaab se indicated oxygen ya respiratory support aur escalation arrange karo. Severe distress mein reliable display ka wait nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Immediate patient assessment aur signal verification correct hai.
-- **B:** All alarms silence karna genuine deterioration miss kar sakta hai.
-- **C:** Artifact assume karna true hypoxemia miss kar sakta hai.
-- **D:** Technician ka wait patient evaluation delay karta hai.
+- **A:** Immediate patient assessment aur signal verification se true deterioration aur possible artifact dono address hote hain. Isliye A sahi hai.
+- **B:** Saare alarms silence karne se later genuine deterioration miss ho sakti hai. Alarm ka cause identify aur resolve karna chahiye.
+- **C:** Patient check kiye bina artifact assume karne se actual hypoxemia miss ho sakti hai.
+- **D:** Technician ka wait urgent clinical assessment delay karega. Equipment support patient care ke saath arrange ki ja sakti hai.
 
-**Exam clue:** Patient first, signal second.
+**Exam clue:** Alarm par patient ko immediately assess karo aur signal verify karo. Indicated urgent care ko delay mat karo.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -826,17 +815,16 @@ Sudden low alarm true hypoxemia ya artifact dono ho sakta hai. Pehle patient ki 
 
 **Correct answer: D. Verify patient-specific ordered targets and approved alarm settings before relying on monitoring**
 
-<!-- job5-rationale -->
-Alarm limits clinical target aur patient's condition ke according set honi chahiye. Previous patient ki setting wrong threshold create kar sakti hai. Ordered range aur institutional alarm policy verify karo, appropriate staff ke saath adjust karo aur ensure karo ki alarms audible and actionable hain.
+Alarm limits woh thresholds hain jinke cross hone par monitor warning deta hai. Har patient ka clinical target same nahi hota. Previous patient ki settings reuse karne se current patient mein dangerous low saturation par timely alarm na aaye, ya unnecessary alarms repeatedly aa sakte hain. Nurse current prescribed target aur institutional alarm policy verify karti hai. Approved process se appropriate limits set karwati hai aur ensure karti hai ki alarm audible hai aur staff ko response ki responsibility pata hai.
 
 **Option-by-option reasoning**
 
-- **A:** All adults identical target nahi rakhte.
-- **B:** Lower alarm disable karna hypoxemia miss kar sakta hai.
-- **C:** 100% setting inappropriate alarm burden create kar sakti hai.
-- **D:** Patient-specific targets aur approved settings verify karna correct hai.
+- **A:** Different clinical conditions mein oxygen targets different ho sakte hain. Previous patient ki setting automatically suitable nahi hai.
+- **B:** Lower alarm disable karne se true hypoxemia detect hone mein delay ho sakta hai.
+- **C:** Har alarm ko 100% par set karne se inappropriate alarm burden create ho sakta hai. Individual target follow karna chahiye.
+- **D:** Current patient ke ordered target aur approved alarm settings verify karna safe monitoring ke liye appropriate hai. Isliye D sahi hai.
 
-**Exam clue:** Alarm settings must match the patient.
+**Exam clue:** Alarm thresholds patient-specific target aur facility policy ke according verify karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -863,17 +851,16 @@ Alarm limits clinical target aur patient's condition ke according set honi chahi
 
 **Correct answer: C. Ensure appropriate portable monitoring, power, sensor and assigned responsibility are arranged**
 
-<!-- job5-rationale -->
-Transfer ke time oxygen requirement aur clinical instability continue reh sakti hai. Portable monitor, charged battery, compatible sensor, oxygen supply as indicated aur monitoring responsibility before departure arrange karo. Disconnection par actual gap document karo aur monitoring restore karo. Urgent transfer plan clinical team coordinate kare.
+Transfer ke dauran patient ki oxygen requirement aur deterioration ka risk continue reh sakta hai. Agar continuous monitoring indicated hai, toh departure se pehle suitable portable monitor, charged battery, compatible sensor aur required oxygen supply arrange karni chahiye. Team clear karti hai ki transfer ke waqt patient ko kaun monitor karega aur concern hone par kya response hoga. Agar disconnection ho jaaye, toh actual monitoring gap honestly record karke safe monitoring restore karo. Urgent transfer ki planning clinical team ke saath coordinate honi chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Destination monitor en-route gap cover nahi karta.
-- **B:** Interrupted monitoring ko continuous likhna inaccurate hai.
-- **C:** Portable equipment aur assigned responsibility safe continuity support karte hain.
-- **D:** Visual checks indicated continuous monitoring ka universal substitute nahi.
+- **A:** Destination par monitor available hona travel ke dauran monitoring gap cover nahi karta. En-route safety ka plan chahiye.
+- **B:** Repeated disconnection ke bawajood continuous monitoring likhna actual events ko misrepresent karta hai.
+- **C:** Portable equipment, power, compatible sensor aur assigned responsibility arrange karne se monitoring continuity support hoti hai. Isliye C sahi hai.
+- **D:** Visual inspection important hai, lekin jab continuous monitoring clinically indicated ho toh ye hamesha equivalent substitute nahi hai.
 
-**Exam clue:** Plan monitoring before transport.
+**Exam clue:** Transfer shuru karne se pehle monitoring equipment aur responsible staff ka arrangement verify karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -900,17 +887,16 @@ Transfer ke time oxygen requirement aur clinical instability continue reh sakti 
 
 **Correct answer: B. Clinical assessment takes priority and wellness-device readings cannot independently exclude illness**
 
-<!-- job5-rationale -->
-Consumer wellness device ka intended use aur validation medical-purpose monitor se differ kar sakta hai. Progressive breathlessness ko reassuring number ke basis par dismiss nahi karna. Prompt clinical assessment arrange karo, severe symptoms mein emergency help lo. Treatment decision symptoms, examination aur indicated reliable tests par based hona chahiye.
+Consumer wellness devices ka intended use medical-purpose monitor se alag ho sakta hai. Har device clinical diagnosis ya treatment decisions ke liye validated nahi hota. Maan lo patient ko progressively zyada breathlessness ho rahi hai, lekin home device reassuring saturation dikha raha hai. Symptoms ko ignore nahi karna chahiye. Prompt clinical assessment arrange karo aur severe symptoms mein emergency help lo. Treatment decisions symptoms, examination aur indicated reliable tests ke basis par hone chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Medication solely consumer reading se change unsafe hai.
-- **B:** Clinical assessment priority hai.
-- **C:** All wellness devices equal clinical validation nahi rakhte.
-- **D:** Above 95% reading serious illness exclude nahi karti.
+- **A:** Sirf consumer device number dekhkar medicine change karne se incorrect treatment ka risk ho sakta hai. Clinical review chahiye.
+- **B:** Progressive symptoms ko priority dena aur device ki limitations recognize karna appropriate hai. Isliye B sahi hai.
+- **C:** Wellness aur medical-purpose devices ki validation requirements different ho sakti hain. Har device equally reliable assume nahi karna chahiye.
+- **D:** 95% se upar reading bhi ventilation impairment ya doosri serious illness exclude nahi karti. Symptoms assess karne chahiye.
 
-**Exam clue:** Symptoms override reassurance from an unvalidated device.
+**Exam clue:** Progressive breathlessness mein reassuring wellness-device reading par alone depend mat karo. Clinical assessment lo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -937,17 +923,16 @@ Consumer wellness device ka intended use aur validation medical-purpose monitor 
 
 **Correct answer: D. Interpret with symptoms, trend and appropriate confirmatory assessment when indicated, without a fixed skin-color correction**
 
-<!-- job5-rationale -->
-Evidence show karta hai ki skin pigmentation some devices ki accuracy affect kar sakti hai, including occult hypoxemia risk. Individual error predictable fixed number nahi hai. Symptoms, trend, signal quality aur indicated confirmatory measurement consider karo. Clinical concern par escalation delay mat karo aur ethnicity ko physiological diagnosis ka substitute na banao.
+Research mein kuch pulse oximeters ke performance mein skin pigmentation-related differences documented hain. Kuch situations mein actual arterial saturation displayed estimate se lower ho sakti hai, jise occult hypoxemia kehte hain. Lekin har person mein error ka direction aur amount same nahi hota. Nurse symptoms, baseline trend, signal quality aur clinical context assess karti hai. Indicated ho toh appropriate confirmatory measurement arrange karo. Concerning symptoms par timely escalation karni chahiye aur skin colour ya ethnicity ke basis par fixed numerical correction ya diagnosis nahi banana chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Fixed three-point correction validated nahi hai.
-- **B:** Pigmentation-related performance differences documented hain.
-- **C:** Ethnicity alone hypoxemia diagnose nahi karti.
-- **D:** Individual clinical assessment aur confirmation appropriate hain.
+- **A:** Har darker-skinned patient ki reading se exactly teen points subtract karna validated correction nahi hai. Individual error vary kar sakta hai.
+- **B:** Skin pigmentation-related accuracy limitations documented hain. Unhe completely ignore karne se hypoxemia miss ho sakti hai.
+- **C:** Ethnicity se individual oxygenation directly measure nahi hoti. Diagnosis ke liye relevant clinical evidence chahiye.
+- **D:** Symptoms, trend aur indicated confirmation ko consider karna bina fixed correction ke known limitations address karta hai. Isliye D sahi hai.
 
-**Exam clue:** No universal skin-color correction.
+**Exam clue:** Skin colour ke basis par fixed saturation correction mat lagao. Clinical findings aur indicated confirmatory assessment use karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -974,17 +959,16 @@ Evidence show karta hai ki skin pigmentation some devices ki accuracy affect kar
 
 **Correct answer: C. PaO2 is oxygen partial pressure and SpO2 is an estimate of hemoglobin saturation**
 
-<!-- job5-rationale -->
-PaO2 dissolved oxygen ki partial pressure hai jo ABG par mmHg ya kPa mein report hoti hai. SpO2 hemoglobin saturation ka noninvasive percentage estimate hai. Oxygen dissociation curve dono ko relate karti hai, lekin pH, temperature aur other factors relationship change karte hain. Dono interchangeable nahi hain.
+PaO2 ka matlab arterial blood mein dissolved oxygen ka partial pressure hai. ABG, yaani arterial blood gas test, ise mmHg ya kPa mein report kar sakta hai. SpO2 hemoglobin ki oxygen saturation ka noninvasive percentage estimate hai. Dono oxygen dissociation curve ke through related hain, lekin same quantity nahi hain. Temperature, pH aur other factors pressure aur saturation ke relationship ko influence kar sakte hain. Isliye ek SpO2 percentage ko exact PaO2 value ke roop mein interpret nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** PaO2 Hb concentration nahi.
-- **B:** SpO2 acid-base pH measure nahi karti.
-- **C:** Pressure aur saturation distinction correct hai.
-- **D:** Dono same percentage variable nahi hain.
+- **A:** Hemoglobin concentration blood mein Hb ki quantity batati hai. PaO2 dissolved oxygen ka partial pressure hai.
+- **B:** Arterial pH acid-base status ka measurement hai. Conventional pulse oximeter pH directly measure nahi karta.
+- **C:** PaO2 oxygen partial pressure aur SpO2 hemoglobin saturation estimate hai. Isliye C sahi hai.
+- **D:** PaO2 pressure units mein aur SpO2 percentage mein express hoti hai. Dono interchangeable numerical variables nahi hain.
 
-**Exam clue:** PaO2 pressure, SpO2 saturation.
+**Exam clue:** PaO2 pressure batati hai aur SpO2 saturation ka estimate deti hai. Dono ko clinical context ke saath interpret karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK499818/)
 <!-- /job5-rationale -->
@@ -1013,17 +997,16 @@ PaO2 dissolved oxygen ki partial pressure hai jo ABG par mmHg ya kPa mein report
 
 **Correct answer: B. Hemoglobin saturation changes little across a range of relatively high oxygen partial pressures**
 
-<!-- job5-rationale -->
-Oxyhemoglobin dissociation curve sigmoid hai. High PaO2 par Hb binding sites nearly saturated hoti hain, isliye curve plateau par pressure change ke comparison mein saturation ka change small ho sakta hai. Is reason se high SpO2 hyperoxia ya substantial PaO2 variation quantify nahi karti. Clinical context aur indicated ABG use karo.
+Oxygen dissociation curve hemoglobin saturation aur PaO2 ka relationship dikhati hai. Iska shape S jaisa, yaani sigmoid, hota hai. High PaO2 range mein hemoglobin ki binding sites already nearly occupied hoti hain. Isliye pressure mein kaafi change hone par bhi saturation mein chhota change dikhta hai. Curve ke is upper flat part ko plateau kehte hain. High SpO2 se excess arterial oxygen, yaani hyperoxia, accurately quantify nahi ki ja sakti. Nurse relevant clinical context aur indicated ABG findings use karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** PaO2 95% se above saturation par bhi change ho sakti hai.
-- **B:** Plateau par saturation comparatively little change karti hai.
-- **C:** Dissolved oxygen oximeter directly measure nahi karti.
-- **D:** Sigmoid curve linear nahi hai.
+- **A:** SpO2 95% se upar ho tab bhi arterial oxygen partial pressure considerably change ho sakti hai.
+- **B:** Upper plateau par hemoglobin saturation pressure ke comparison mein relatively little change karti hai. Isliye B sahi hai.
+- **C:** Conventional oximeter hemoglobin saturation estimate karta hai. Dissolved oxygen directly measure nahi karta.
+- **D:** Curve sigmoid hoti hai, isliye har pressure range mein saturation ka change linear nahi hota.
 
-**Exam clue:** Plateau hides changes in oxygen pressure.
+**Exam clue:** Upper plateau par high SpO2 significant PaO2 changes hide kar sakti hai. Indicated ho toh blood gas assessment use karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK499818/)
 <!-- /job5-rationale -->
@@ -1052,17 +1035,16 @@ Oxyhemoglobin dissociation curve sigmoid hai. High PaO2 par Hb binding sites nea
 
 **Correct answer: A. Assess the new symptoms and respiratory status while verifying the sensor and measurement context**
 
-<!-- job5-rationale -->
-Position change se sensor move ho sakta hai, lekin respiratory mechanics aur ventilation-perfusion relation bhi change ho sakte hain. New breathlessness ko genuine clinical cue treat karo. Patient assess karo, probe and signal verify karo aur findings ke according care escalate karo. Actual readings and context document karo.
+Position change ke waqt sensor move ho sakta hai aur optical artifact aa sakta hai. Lekin body posture se breathing mechanics aur lungs mein ventilation-perfusion matching bhi change ho sakti hai. Yahan patient new breathlessness report kar raha hai, isliye nurse us symptom ko seriously leti hai. Airway, breathing, oxygenation aur relevant vital signs assess karo. Saath mein probe fit aur signal verify karo aur findings ke according prompt care ya escalation arrange karo. Actual reading, position aur symptoms record karne chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Symptoms aur measurement dono assess karna correct hai.
-- **B:** Every change artifact assume karna unsafe hai.
-- **C:** Previous reading replace karna inaccurate charting hai.
-- **D:** Repeated identical numbers ka wait distress response delay kar sakta hai.
+- **A:** New symptoms aur respiratory status assess karne ke saath measurement verify karna possible true deterioration aur artifact dono address karta hai. Isliye A sahi hai.
+- **B:** Position change ki har low reading artifact nahi hoti. Actual respiratory condition change ho sakti hai.
+- **C:** Previous reading ko current reading ki jagah chart karna clinical trend hide karega. Actual observations document karo.
+- **D:** Distress hone par identical repeat readings ka wait karna timely care delay kar sakta hai.
 
-**Exam clue:** New symptoms plus lower reading require assessment.
+**Exam clue:** Position change ke baad new breathlessness aur low reading mile toh patient assess karo aur sensor verify karo.
 
 [Concept reference](https://www.resus.org.uk/library/abcde-approach)
 <!-- /job5-rationale -->
@@ -1091,17 +1073,16 @@ Position change se sensor move ho sakta hai, lekin respiratory mechanics aur ven
 
 **Correct answer: C. Review alarm-response workflow and ensure clinical assessment, actions and reassessment are recorded**
 
-<!-- job5-rationale -->
-Alarm acknowledgment ka matlab sirf alert notice hua, patient assessed ya improved hua yeh prove nahi hota. Quality review mein alarm routing, responsibility, clinical response timing aur reassessment documentation examine karo. Patient-specific thresholds aur education improve karo, system barriers identify karo. Safety data preserve karo.
+Alarm acknowledge karne ka matlab hai ki alert notice hua hai. Isse patient ka assessment, clinical action ya improvement automatically prove nahi hota. Quality audit mein team dekhti hai ki alarm kisko receive hua, kaun patient assess karta hai, response kitni jaldi hua aur intervention ke baad reassessment record hua ya nahi. System barriers, staff education aur patient-specific thresholds review karke workflow improve kiya ja sakta hai. Original safety data preserve karo aur subsequent audit se improvement evaluate karo.
 
 **Option-by-option reasoning**
 
-- **A:** Acknowledgment resolution proof nahi.
-- **B:** Universal wider thresholds genuine deterioration hide kar sakte hain.
-- **C:** Workflow, assessment, actions aur reassessment review correct hai.
-- **D:** Low values delete karna safety data conceal karta hai.
+- **A:** Alarm acknowledgment se patient ki clinical problem resolve hone ka evidence nahi milta. Actual response aur reassessment chahiye.
+- **B:** Universal wider alarm limits se important desaturation alerts miss ho sakte hain. Individual prescribed targets consider karne chahiye.
+- **C:** Alarm-response workflow aur assessment, intervention aur reassessment documentation review karne se clinical response ki gaps identify hoti hain. Isliye C sahi hai.
+- **D:** Low values delete karne se safety data conceal hota hai aur true improvement measure karna difficult ho jaata hai.
 
-**Exam clue:** Alarm response must close the clinical loop.
+**Exam clue:** Alarm ka response tabhi clinically meaningful hai jab patient assessment, indicated action aur actual reassessment documented hon.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
