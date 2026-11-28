@@ -1,5 +1,25 @@
 # Emergency and Critical Care Nursing manual claim
 
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified released checkpoint — partial Batch 02
+
+Draft PR49: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/49
+Candidate head: bcac002e111767e2d9c7c6d7c71c869aca03fb35
+Branch: emergency-critical-care-preflight-20261128
+Previous owner: emergency-b02-20261128-0746Z
+Reservation: Emergency Nursing only, resume PR49. No active lease.
+
+160 staged originals, 640 individual rationales, eight banks, eight concept guides and eight SVGs. 60 new originals in thermal emergencies, adult SSC 2026 sepsis and snakebite. Triage Q20 replacement and Q08 clarification do not increase counts. Exact readbacks and combined structural checks passed. Preserve four legacy originals, one reported adaptation, 72-stem prior audit and 29 objectives. Zero live inventory credit. Next poisoning/toxic exposure and ICU organization/monitoring (up to 40 remaining Batch02 originals), then remaining uncovered curriculum. Full bounded preflight and independent clinical/comprehensive semantic checks, PR29 acknowledgment, PR7/8 requests 7236205001 and 7236205288, source/video gaps, latest-main reconciliation, rendering and CI pending. Preserve all other sessions and five hourly automations.
+
+## Prior lease and history
+
+# Emergency and Critical Care Nursing manual claim
+
 State: CLAIMED
 Owner: emergency-b02-20261128-0746Z
 Scope: Existing PR49 isolated Emergency-only clinical corrections and genuinely uncovered topic drafts, guides and diagrams. No shared navigation or live publication.
