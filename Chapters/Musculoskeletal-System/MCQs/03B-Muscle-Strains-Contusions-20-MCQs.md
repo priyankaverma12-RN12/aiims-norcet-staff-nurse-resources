@@ -555,30 +555,30 @@
 
 </details>
 
-### Q20. An athlete with a recovering quadriceps strain asks why the therapist measures knee extension strength rather than judging recovery by thigh circumference alone. What is the best explanation?
+### Q20. A recreational athlete with a healing muscle strain asks why the rehabilitation team introduces controlled eccentric loading after initial recovery. What type of muscle action is being trained?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Muscle size does not fully reflect force production and functional recovery
-- **B.** Strength testing is useful only if the thigh remains bruised
-- **C.** Equal circumference guarantees equal power
-- **D.** Circumference measures tendon continuity perfectly
+- **A.** The muscle generates tension while lengthening under a controlled load
+- **B.** The muscle is electrically silent while the limb moves passively
+- **C.** The muscle shortens against resistance throughout the movement
+- **D.** The muscle remains at constant length throughout the contraction
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Muscle size does not fully reflect force production and functional recovery**
+**Correct answer: A. The muscle generates tension while lengthening under a controlled load**
 
-**A kyun sahi hai:** Muscle force, control aur fatigue tolerance functional capacity determine karte hain. Clinician appropriate safe strength testing ke through rehabilitation progression guide karta hai.
+**A kyun sahi hai:** Eccentric contraction mein active muscle tension produce karte hue lengthen hota hai. Graded eccentric exercise selected muscle-strain rehabilitation mein load tolerance improve karne ke liye use ho sakti hai, lekin timing aur intensity therapist decide karta hai.
 
-**B kyun galat hai:** Bruising resolve hone ke baad bhi strength deficit persist kar sakta hai. Functional assessment recovery ke multiple stages mein useful hai.
+**B kyun galat hai:** Passive movement mein patient ka muscle actively force generate nahi karta. Eccentric loading active tension ke saath hoti hai, isliye passive stretch se different hai.
 
-**C kyun galat hai:** Same circumference ke bawajood inhibition, pain ya reduced activation strength difference create kar sakte hain.
+**C kyun galat hai:** Muscle shortening while producing force concentric contraction hai. Eccentric phase controlled lengthening hai.
 
-**D kyun galat hai:** Circumference edema, muscle mass aur measurement technique se affect hoti hai. Tendon continuity clinical assessment aur imaging se evaluate hoti hai.
+**D kyun galat hai:** Constant muscle length ke saath tension isometric contraction hai. Eccentric loading mein muscle length change hoti hai.
 
-**Exam clue:** Muscle bulk alone is not a functional clearance measure.
+**Exam clue:** Eccentric contraction = active tension during muscle lengthening.
 
-**Clinical reference:** [AAOS muscle strains in thigh](https://www.orthoinfo.org/en/diseases--conditions/muscle-strains-in-the-thigh/). Indexed clinical evidence, independent item-level review pending.
+**Clinical reference:** [Hamstring injury review](https://www.ncbi.nlm.nih.gov/books/NBK558936/). Indexed clinical evidence, independent item-level review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
