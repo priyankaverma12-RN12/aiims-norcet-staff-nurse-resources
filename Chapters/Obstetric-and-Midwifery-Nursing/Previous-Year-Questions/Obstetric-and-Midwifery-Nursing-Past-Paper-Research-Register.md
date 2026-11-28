@@ -97,3 +97,8 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Fetal Doppler — 28 November 2026
 
 [Research gaps and sources](06H-Doppler-Evidence-and-Research-Gaps.md). No authenticated nursing recruitment item found in targeted searches, zero new historical items counted. Medical-exam video lead is not nursing-specific. All eight fetal assessment packages published. Obstetrics historical adaptation total remains 25.
+
+
+## Normal labour physiology — 28 November 2026
+
+[Clinical and research gaps](07A-Labour-Physiology-Evidence-and-Research-Gaps.md). HPRCA oxytocin-receptor lead not authenticated. DSSSB true-labour and HPSSC third-stage leads reserved. Dedicated MCQ candidate indexed; all 20 specific item mappings and playback pending. No new historical adaptation counted; Obstetrics total 25.

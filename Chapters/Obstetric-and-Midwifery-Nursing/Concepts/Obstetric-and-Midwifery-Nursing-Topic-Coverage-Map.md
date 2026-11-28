@@ -28,7 +28,9 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - [BPP concepts](06F-Biophysical-Profile-BPP.md) · [20 original MCQs](../MCQs/06F-Biophysical-Profile-BPP-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06F-BPP-Reported-Evidence.md). Published, independent review pending.
   - [Ultrasound concepts](06G-Obstetric-Ultrasound-and-Fetal-Biometry.md) · [20 original MCQs](../MCQs/06G-Obstetric-Ultrasound-and-Fetal-Biometry-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06G-Ultrasound-Reported-Evidence.md). Published, independent review pending.
   - [Doppler concepts](06H-Fetal-Doppler-Studies.md) · [20 original MCQs](../MCQs/06H-Fetal-Doppler-Studies-20-MCQs.md) · [Evidence gaps](../Previous-Year-Questions/06H-Doppler-Evidence-and-Research-Gaps.md). Published, independent review pending.
-- normal pregnancy and labor
+- Normal pregnancy and labour
+  - Normal labour physiology: [Concepts](07A-Normal-Labour-Physiology.md) · [20 originals](../MCQs/07A-Normal-Labour-Physiology-20-MCQs.md) · [Evidence gaps](../Previous-Year-Questions/07A-Labour-Physiology-Evidence-and-Research-Gaps.md). Published; independent review pending.
+  - Signs and onset, stages, powers/passenger/passage, cardinal movements, maternal-fetal assessment and nursing management: pending.
 - partograph and delivery
 - hypertensive disorders
 - antepartum hemorrhage
