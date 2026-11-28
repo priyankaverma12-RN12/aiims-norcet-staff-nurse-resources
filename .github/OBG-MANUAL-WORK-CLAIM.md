@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: obg-endocrine-20261128-0157
-Scope: Obstetrics maternal endocrine physiology new MCQs, concepts, related evidence and chapter-local navigation only. No other chapter or shared trackers.
+Scope: Obstetrics maternal endocrine completed checkpoint and maternal breast physiological adaptations new MCQs, concepts, evidence and chapter-local navigation only. No Gynecology, other chapter or shared trackers.
 Claimed UTC: 2026-11-28T01:56:41Z
 Expiry UTC: 2026-11-28T02:26:41Z
 
@@ -52,3 +52,10 @@ Previous verified checkpoint: Pregnancy Diagnosis 20 original MCQs in four parts
 - Chapter README 0d8f431d6cf2ac6be939e4d8a8789b5c80af5158, topic map dbac9e2f5c9455f2391f15ea4d56140fc8252e15, research register bf5adb81f96064c970e7f34ed6e2e91b216483aa exact readbacks. Obstetrics 148 indexed originals and seven reported adaptations. Gynecology 504 indexed originals and ten reported adaptations per inspected unchanged index. Combined 652 indexed originals and 17 reported adaptations. No completed full-length OBG mocks.
 - Both current skills, AGENTS, Copilot and audit learnings retrieved with unchanged hashes. Previous complete rule reading reused, current relevant portions checked, fresh independent line-by-line reread of every historical audit-log entry not certified. Comprehensive cross-chapter semantic and independent clinical audit, official exam authentication and exact video verification pending. No other chapter or global tracker writes. No schedule changes.
 - Next: endocrine, breast, musculoskeletal and skin changes individually, allocating overview Q17, Q18, Q19 and Q20 once respectively, target 19 new distinct originals each after checking existing banks and current clinical evidence. Continue fetal development, placenta, membranes and fetal assessment after remaining physiology topics. Preserve separate Gynecology owner, all other jobs, learner attempts and original-only mock rule. Acquire new safe claim next run. This run's own claim released.
+
+## Verified endocrine continuation — 28 November 2026
+
+- 19 new maternal endocrine originals bc7ba11daa70a34fef8cd38aa82d44fc4e12eb05, blob 08a73fc34bb8f334c5fe79e34adc7120919c5012, exact readback. 19 hidden blocks, 76 option rationales, correct text/letter alignment, zero normalized stem overlaps against 148 prior Obstetrics originals. Relevant Endocrine and Gynecology stems inspected and direct TBG and hCG support tasks avoided. Overview Q17 plus 19 new = 20 allocated endocrine slots. Independent full semantic and clinical audit pending.
+- Concepts and original Mermaid diagram 1fd1bb9e5076b1608d9b6b8854bc4dd490613718, blob 79bd3cdcd5863d814162a10ff732f93fd87344ad. Endotext endocrine and mineral chapters plus ATA 2026 thyroid guideline relevant text retrieved. Other indexed clinical sources and direct access gaps recorded. Mermaid source read back, rendering not tested.
+- Reported GMCH Nursing Officer 29 June 2025 adaptation and related RMLIMS 7 September 2025 evidence 7ba0afd5fd7c7b7c772ea3b5c64c8cbbb942d774, blob 69e6107d33d9621019e55d637d303d89a545cfdb. One new independently worded adaptation, official booklet/key not authenticated. AIIMS Nagpur, ESIC, HSSC, HPRCA and other leads recorded. 19 exact video item gaps, broad indexed MCQ session only. AIIMS Raipur pigmentation evidence reserved for skin.
+- README ec95b81385d73bd328330850bc83c2ceb05b2309, map 0b7ad47eb9a49f7a0d5f02e573e6fd89028fd7a6, register 2c88dae80e02f69043e5c1181c9910d999e3a07b all exact readback. Obstetric 167 originals and eight reported adaptations, Gynecology unchanged 504 and ten, total 671 indexed originals and 18 reported adaptations. All claims inspected at preflight. Current skills, AGENTS, Copilot and audit files retrieved unchanged; prior readings reused and relevant current excerpts checked, full fresh line-by-line audit not certified. Next: breast adaptations, scope extended only after claim checks.
