@@ -517,6 +517,15 @@ with sync_playwright() as p:
         fit()
         go({"progress":"1","chapter":"Respiratory-System"})
         expect(page.locator("#progress-link")).to_have_attribute("aria-current","page")
+        for panel_id,inside in (("#progress-summary-panel","#progress-summary"),("#progress-filter-panel","#progress-search")):
+            panel=page.locator(panel_id)
+            summary=panel.locator(":scope > summary")
+            assert summary.bounding_box()["height"]>=44
+            summary.click()
+            expect(page.locator(inside)).to_be_hidden()
+            summary.click()
+            expect(page.locator(inside)).to_be_visible()
+            fit()
         page.locator("#progress-search").fill("no matching topic xyz")
         expect(page.locator("#progress-list .empty-state")).to_be_visible()
         page.locator("#clear-progress").click()
@@ -525,6 +534,17 @@ with sync_playwright() as p:
         go({"doc":sample})
         ready()
         expect(page.locator("#library-link")).to_have_attribute("aria-current","page")
+        for panel_id,inside in (("#reader-sections-panel","#sections"),("#reading-tools-panel","#reading-size")):
+            panel=page.locator(panel_id)
+            summary=panel.locator(":scope > summary")
+            assert summary.bounding_box()["height"]>=44
+            summary.click()
+            expect(page.locator(inside)).to_be_hidden()
+            expect(page.locator(".quiz-panel")).to_be_visible()
+            summary.click()
+            expect(page.locator(inside)).to_be_visible()
+            fit()
+        print(f"V12 live reader and progress disclosures passed at {width}x{height}.",flush=True)
         page.locator("#reading-size").select_option("large")
         expect(page.locator("body")).to_have_attribute("data-reading-size","large")
         page.locator("#focus-study").click()

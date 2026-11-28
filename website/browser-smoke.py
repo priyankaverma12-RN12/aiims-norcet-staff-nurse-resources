@@ -542,6 +542,18 @@ try:
                 mobile.locator(".outline-card summary").tap()
                 expect(mobile.locator(".outline-card")).to_have_attribute("open","")
                 mobile.locator(".outline-card summary").tap()
+            for panel_id,inside in (("#reader-sections-panel","#sections"),("#reading-tools-panel","#toggle")):
+                panel=mobile.locator(panel_id)
+                summary=panel.locator(":scope > summary")
+                assert summary.bounding_box()["height"]>=44
+                expect(mobile.locator(inside)).to_be_visible()
+                summary.tap()
+                expect(mobile.locator(inside)).to_be_hidden()
+                expect(mobile.locator(".quiz-panel")).to_be_visible()
+                summary.tap()
+                expect(mobile.locator(inside)).to_be_visible()
+                no_overflow(mobile)
+            print(f"V12 independent reader panels passed at {width}x{height}.",flush=True)
             expect(mobile.locator("#toggle")).to_be_visible()
             assert mobile.locator("#toggle").bounding_box()["height"] >= 43
             mobile.clock.install()
@@ -580,6 +592,17 @@ try:
                 assert mobile.locator("#metrics-chapter").bounding_box()["height"]>=43
                 mobile.goto(base+"?progress=1&chapter=Nursing-Foundations")
                 expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible(timeout=30000)
+                for panel_id,inside in (("#progress-summary-panel","#progress-summary"),("#progress-filter-panel","#progress-chapter")):
+                    panel=mobile.locator(panel_id)
+                    summary=panel.locator(":scope > summary")
+                    assert summary.bounding_box()["height"]>=44
+                    summary.tap()
+                    expect(mobile.locator(inside)).to_be_hidden()
+                    expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible()
+                    summary.tap()
+                    expect(mobile.locator(inside)).to_be_visible()
+                    no_overflow(mobile)
+                print(f"V12 independent progress panels passed at {width}x{height}.",flush=True)
                 expect(mobile.locator(".completion-chapter").first).not_to_have_attribute("open","")
                 expand_chapter(mobile,"progress")
                 expect(mobile.locator(".completion-category[open]")).to_have_count(0)

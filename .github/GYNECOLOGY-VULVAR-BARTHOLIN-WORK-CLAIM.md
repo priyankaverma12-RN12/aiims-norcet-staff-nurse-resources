@@ -1,10 +1,10 @@
 # Independent vulvar and Bartholin topic claim
 
-State: CLAIMED
-Owner: gyne-rework-vulvar-20261128
-Scope: respective 20-question bank, claim and read-only semantic audit; no shared README edits
-Claimed UTC: 2026-11-28T10:00:00Z
-Expiry UTC: 2026-11-28T11:00:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: 504 indexed original slots, 20 preserved overlapping AUB raw slots excluded. No mocks until topic banks complete.
 
@@ -17,3 +17,8 @@ Baseline: 504 indexed original slots, 20 preserved overlapping AUB raw slots exc
 ## Clinical rationale correction 28 November 2026
 - Updated all 20 original Vulvar/Bartholin questions with 80 distinct option-specific explanations, evidence pointers and nursing notes. Commit eed719f981bb3f64689a8ff4d7b29de120e206d9, blob bb4eaa7e892833237059a5712fd95068c14f3848. Exact remote readback: 20 questions, 20 hidden answers and 80 option-specific rationales.
 - AUB 20 question allocation already recorded in Revision/Menstrual-Disorders-Question-Allocation-Audit.md: 19 revision slots and one retained Q15, now reflected in chapter README. Vulvar 20 remain separately preserved raw slots awaiting complete cross-bank semantic allocation. No additional unique credit.
+
+## 28 Nov 2026 verified overlap rework
+- Vulvar Q10/13/14 rewritten, commit cacfb4b598c82d6168ac3240af2f9ed6ac2d7856; 20 questions and hidden answers verified.
+- Fistula Q1 rewritten to postoperative ureter injury escalation after detecting within-bank overlap with F6; final commit 1d30dc3f33b5b7b96087f540701890859000d242, 20 questions and hidden answers verified.
+- Audit revised and checkpointed at cfee1a52c798239ef05b8bc207992e19067cfd85. Physical slots 623 and allocated originals 564 preserved. Full 40-item independent clinical/source audit incomplete; README distinct count unchanged; no mocks.
