@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr61-b10-20261128-1234Z
+Scope: PR61 Batch10 deficit-only supplements for 21,24–35 subject to actual label counts and distinct objectives; preserve Batch09 and PR62 overlap allocations; no shared navigation, no specialty treatment.
+Claimed UTC: 2026-11-28T12:34:12Z
+Expiry UTC: 2026-11-28T13:04:12Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
