@@ -45,3 +45,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Maternal musculoskeletal and skin evidence — 28 November 2026
 
 [AIIMS Raipur Nursing Officer 31 August 2019 Shift II reported pigmentation mechanism adaptation](03G-Maternal-Musculoskeletal-Skin-Exam-Evidence.md). Two third-party recall listings located; official paper and key not authenticated. Distinct mechanism task from the older HPSSC linea nigra identification. Ten reported adaptations now indexed in Obstetrics. No adequately attributed new musculoskeletal recruitment item established; HPRCA question-level verification and dedicated MCQ playback remain pending. All 38 new originals retain item-specific video gaps.
+
+## Embryonic and fetal development evidence — 28 November 2026
+
+[Two reported adaptations, DSSSB 29 August 2019 Shift 3 morula and ESIC 19 March 2016 Shift I fetal urine onset](04-Embryonic-and-Fetal-Development-Reported-Evidence.md). Third-party pages retrieved, official booklets and keys pending. GMCH 2019 cardiac timing report retrieved but ambiguous clock, not counted. AIIMS Bhopal and UP NHM leads reserved, HPRCA official final-key notice indexed but direct fetch failed. Current Obstetrics total 12 reported adaptations. Seven embryonic provisional topic links, 33 specific item coverage gaps and 40 exact playback gaps.
