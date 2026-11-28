@@ -1,10 +1,10 @@
 # Neonatal Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: neonatal-b04-20261128-1406Z
+Scope: PR57 isolated NEC, ROP, neonatal seizures, meconium aspiration and HIE new topic packages only; no shared navigation or prior banks
+Claimed UTC: 2026-11-28T14:06:00Z
+Expiry UTC: 2026-11-28T14:36:00Z
 
 ## Verified released checkpoint — 2026-11-28
 
