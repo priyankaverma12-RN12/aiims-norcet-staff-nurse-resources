@@ -1,10 +1,10 @@
 # Biochemistry and Pathology manual work claim
 
-State: CLAIMED
-Owner: biochemistry-batch04-20261128-0650Z
-Scope: PR42 isolated chapter-local candidate files and checkpoint only. No shared navigation, main study content, other owners or schedules.
-Claimed UTC: 2026-11-28T06:50:00Z
-Expiry UTC: 2026-11-28T07:20:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: four original starter slots, one separate reported HPSSC adaptation, zero full mocks. Target five topics x 20 originals per batch, then ten original-only 120-item mocks in pairs, then remaining sourced PYQs. Full independent audit and reconciliation required before merge.
 
@@ -19,3 +19,8 @@ PR42 branch 0de512f45cffee27cb947a0dd9321889a63722a0 exact readback verified. 20
 ## Batch 03 released checkpoint
 
 PR42 branch 3d5348134f4f0bd7f6713cf375438f5004f0536d exact checkpoint readback verified. 300 staged originals and 1,200 individual rationales, four unchanged legacy originals, one reported adaptation, six concept guides and six SVGs. 305 normalized chapter stems distinct. Prior ten bank blobs preserved. INC extracted text mapped, screenshot cache misses. PR7/8 comments 7235142418/7235142733 and PR30 comment 7235143042 pending acknowledgment. Full independent clinical/semantic review, remaining INC scope, item sources/videos and live integration pending. No main study content or other jobs/schedules changed. Resume existing branch only.
+
+
+## Batch 04 released checkpoint
+
+PR42 draft head c2d12e77f7dbbabf089000fbaeb88ddc763ed82d. 100 added candidates, 400 total, 1,600 rationales, four preserved legacy originals, one preserved reported adaptation, eight guides and eight SVGs. Exact remote readback and normalized stem audit passed; comprehensive clinical, semantic, curriculum, source/video, rendering and coordination gates remain. No study content merged or live credit. Claim released; preserve other jobs and schedules.
