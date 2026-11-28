@@ -157,13 +157,13 @@ Drained volume minus infused volume = 2380 minus 2000, yani 380 mL net UF.
 **Difficulty:** Difficult | **Topic:** Peritoneal dialysis, CAPD and APD | **Priority:** High | **Type:** Original practice
 
 - **A.** Assume all bedside glucose meters are compatible
-- **B.** Use a glucose-specific monitoring system verified as compatible with icodextrin
+- **B.** Stop glucose monitoring for the entire admission
 - **C.** Give insulin solely on any unexpectedly high meter reading without checking compatibility
-- **D.** Stop glucose monitoring for the entire admission
+- **D.** Use a glucose-specific monitoring system verified as compatible with icodextrin
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Use a glucose-specific monitoring system verified as compatible with icodextrin**
+**Correct: D. Use a glucose-specific monitoring system verified as compatible with icodextrin**
 
 Icodextrin ke maltose jaise metabolites kuch glucose meter methods mein falsely high reading produce kar sakte hain. Compatible glucose-specific meter aur strips verify karna zaroori hai, taaki false high result ke basis par insulin dekar severe hypoglycemia ka risk na badhe.
 
@@ -171,7 +171,7 @@ Icodextrin ke maltose jaise metabolites kuch glucose meter methods mein falsely 
 
 - **A.** Har monitor method compatible nahi hota, manufacturer information check karni chahiye.
 - **C.** Unexpected reading mein clinical status aur compatible measurement assess kiye bina insulin decision unsafe ho sakta hai.
-- **D.** Glucose monitoring band karna safe alternative nahi, appropriate method use karna chahiye.
+- **B.** Glucose monitoring band karna safe alternative nahi, appropriate method use karna chahiye.
 
 **Exam clue:** Icodextrin aur maltose interference se falsely high glucose reading ka risk yaad rakho.
 
