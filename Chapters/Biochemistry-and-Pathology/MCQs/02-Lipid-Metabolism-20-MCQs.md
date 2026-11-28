@@ -6,27 +6,27 @@
 
 ## Part 1
 
-### Q1. A patient with impaired lymphatic drainage develops difficulty transporting absorbed dietary long-chain triglycerides. Which lipoprotein normally enters intestinal lymph first?
+### Q1. An infant with fat malabsorption and very low circulating apoB-containing lipoproteins has confirmed abetalipoproteinemia. Which protein defect directly impairs assembly of both intestinal chylomicrons and hepatic VLDL?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Lipid metabolism | **Exam focus:** NORCET-style original
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Lipid metabolism | **Exam focus:** NORCET-style original
 
-- **A.** LDL
-- **B.** HDL
-- **C.** Chylomicron
-- **D.** VLDL
+- **A.** Lipoprotein lipase
+- **B.** LCAT
+- **C.** Microsomal triglyceride transfer protein
+- **D.** Cholesteryl ester transfer protein
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Chylomicron**
+**Correct: C. Microsomal triglyceride transfer protein**
 
-- **A.** LDL mainly cholesterol ko tissues tak pahunchata hai. Absorbed dietary long-chain fat ko intestine se lymph mein le jaane wala first particle LDL nahi, chylomicron hai.
-- **B.** HDL peripheral tissues se cholesterol accept karke liver-directed transport mein help karta hai. Yeh intestinal dietary triglyceride ka main initial transport particle nahi hai.
-- **C.** Intestinal cells absorbed long-chain fatty acids ko phir se triglycerides mein jodte hain. Inhe chylomicrons mein pack karke lymphatic vessels mein bheja jata hai, jahan se woh blood tak pahunchte hain.
-- **D.** VLDL liver mein bane triglycerides ko circulation mein le jata hai. Intestine se newly absorbed dietary fat ki initial lymphatic transport chylomicron karta hai.
+- **A.** Lipoprotein lipase circulating triglycerides ko hydrolyze karta hai. Abetalipoproteinemia mein problem particles banne aur secrete hone ke step par hai, unke blood mein breakdown par nahi.
+- **B.** LCAT circulating lipoproteins mein cholesterol esterification mein help karta hai. Yeh intestine aur liver mein apoB-containing particles ki initial assembly ka required transfer protein nahi hai.
+- **C.** Microsomal triglyceride transfer protein, yani MTP, apoB-containing particles ko lipid load karne mein help karta hai. MTTP gene defect se chylomicrons aur VLDL ki assembly aur secretion impair ho sakti hai. Suspected inherited metabolic disorder mein specialist evaluation chahiye.
+- **D.** CETP lipoproteins ke beech cholesteryl esters aur triglycerides exchange karne mein help karta hai. Yeh apoB-containing particles banane ka initial intracellular assembly factor nahi hai.
 
-**Clinical reference:** [Relevant biochemical mechanism](https://www.ncbi.nlm.nih.gov/books/NBK305896/). Indexed source-level evidence. Full item-specific independent review remains pending.
+**Clinical reference:** [Relevant mechanism](https://www.ncbi.nlm.nih.gov/books/NBK532447/). Indexed source evidence. Independent review pending.
 
-**MCQ practice video:** Verified exact item mapping pending.
+**MCQ practice video:** Exact item mapping pending.
 
 </details>
 
@@ -322,27 +322,27 @@
 
 </details>
 
-### Q14. What is the primary physiological function of bile salts during lipid digestion?
+### Q14. In the small intestine, bile salts can interfere with pancreatic lipase binding to the lipid-water interface. Which pancreatic cofactor helps lipase remain active at this interface?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Lipid metabolism | **Exam focus:** NORCET-style original
 
-- **A.** Direct enzymatic cleavage of triglyceride ester bonds
-- **B.** Conversion of dietary lipids into urea
-- **C.** Absorption of intact triglycerides into red cells
-- **D.** Emulsification and micelle formation to aid absorption
+- **A.** Enteropeptidase
+- **B.** Intrinsic factor
+- **C.** Apolipoprotein C-II
+- **D.** Colipase
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Emulsification and micelle formation to aid absorption**
+**Correct: D. Colipase**
 
-- **A.** Triglyceride ester bonds lipase enzyme hydrolyze karta hai. Bile salts detergent-like molecules hain, jo digestion aur absorption mein madad karte hain, lekin khud lipase nahi hain.
-- **B.** Urea nitrogen waste disposal pathway ka product hai. Bile salts dietary triglycerides ko urea mein convert nahi karte.
-- **C.** Fat digestion products intestinal cells mein absorb hote hain. Long-chain triglycerides dobara assemble hokar chylomicron mein transport ho sakte hain, RBC mein direct absorption nahi hota.
-- **D.** Bile salts large fat droplets ko disperse karne mein help karte hain. Woh lipid digestion products ke saath mixed micelles bhi banate hain, jo fatty acids aur other lipids ko intestinal absorption surface tak pahunchane mein madad karti hain.
+- **A.** Enteropeptidase trypsinogen ko activate karta hai. Lipase ko lipid-water interface par bind karne mein madad karne wala specific cofactor colipase hai.
+- **B.** Intrinsic factor vitamin B12 ke intestinal absorption mein help karta hai. Yeh pancreatic lipase ka cofactor nahi hai.
+- **C.** ApoC-II circulating lipoprotein lipase ko activate karne mein help karta hai. Question intestinal pancreatic lipase ki activity ke baare mein hai, circulating LPL ke baare mein nahi.
+- **D.** Colipase pancreatic lipase ko lipid-water interface par anchor karne mein help karta hai. Bile salts ke presence mein bhi is interaction se triglyceride digestion efficient reh sakta hai.
 
-**Clinical reference:** [Relevant biochemical mechanism](https://www.ncbi.nlm.nih.gov/books/NBK525952/). Indexed source-level evidence. Full item-specific independent review remains pending.
+**Clinical reference:** [Relevant mechanism](https://www.ncbi.nlm.nih.gov/mesh/68003089). Indexed source evidence. Independent review pending.
 
-**MCQ practice video:** Verified exact item mapping pending.
+**MCQ practice video:** Exact item mapping pending.
 
 </details>
 
@@ -501,3 +501,5 @@
 Specific MCQ video coverage, additional question-level source checks and independent semantic audit pending. No historical exam attribution inferred.
 
 Audit continuation: 20 original English stems, options and keys preserved. All 80 explanations expanded in conversational Roman Hinglish, with Q20 metabolic decompensation context and Q17 HDL concentration limitation. Difficulty recalibrated. Independent clinical and cross-bank semantic review, full-text source-depth checks and exact video playback pending.
+
+Semantic corrective audit: Q1: Published A&P 10 Q9 already tests chylomicron packaging and lymphatic transport. Q14: Published A&P 10 Q12 and Nutrition PR35 01C Q3 already test emulsification and micelle formation. Original draft wording retained in Git history. Same question numbers and key letters, no additional inventory credit. All other question blocks unchanged.
