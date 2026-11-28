@@ -1,0 +1,3 @@
+# UC evidence register
+
+NIDDK direct pages retrieved 28 Nov 2026. ACG 2025 update and BSG 2025 guideline indexed recommendations retrieved; complete full-text claim verification pending. Video search did not yield a verified UC-specific practice mapping in this pass; do not infer prior examination appearances. Objectives: distribution, tenesmus, PSC, biopsy, CDI, severe criteria, response trends, VTE, limited endoscopy, megacolon, antimotility safety, day-three rescue, topical 5-ASA, steroid maintenance distinction, anti-TNF screening, renal safety, calprotectin, surveillance, surgery, iron evaluation. Cross-branch review needed for generic screening/anemia objectives. No historical claims.
