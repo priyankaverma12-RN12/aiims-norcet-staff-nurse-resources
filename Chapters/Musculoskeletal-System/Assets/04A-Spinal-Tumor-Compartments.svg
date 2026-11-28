@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="420" viewBox="0 0 760 420" role="img" aria-labelledby="title desc">
+<title id="title">Spinal tumor compartments</title><desc id="desc">Simplified transverse diagram showing extradural, intradural extramedullary and intramedullary lesions.</desc>
+<rect width="760" height="420" fill="#f8fafc"/>
+<g font-family="Arial,sans-serif" fill="#163047"><text x="30" y="38" font-size="24" font-weight="bold">Spinal tumor compartments</text><text x="30" y="62" font-size="14">Conceptual cross-section, not to scale</text>
+<ellipse cx="225" cy="230" rx="157" ry="139" fill="#d7e2eb" stroke="#64748b" stroke-width="3"/>
+<ellipse cx="225" cy="230" rx="119" ry="106" fill="#f7e1c1" stroke="#a16207" stroke-width="2"/>
+<ellipse cx="225" cy="230" rx="93" ry="81" fill="#dbeafe" stroke="#2563eb" stroke-width="4"/>
+<ellipse cx="225" cy="230" rx="46" ry="47" fill="#93c5fd" stroke="#1e40af" stroke-width="2"/>
+<circle cx="130" cy="185" r="14" fill="#b91c1c"/><circle cx="284" cy="220" r="15" fill="#b91c1c"/><circle cx="225" cy="243" r="13" fill="#b91c1c"/>
+<g stroke="#475569" stroke-width="2" fill="none"><path d="M130 171 L130 98 L410 98"/><path d="M299 220 L410 220"/><path d="M225 256 L225 330 L410 330"/></g>
+<g font-size="18" font-weight="bold"><text x="420" y="94">Extradural</text><text x="420" y="216">Intradural extramedullary</text><text x="420" y="326">Intramedullary</text></g>
+<g font-size="14"><text x="420" y="114">Outside the dura</text><text x="420" y="236">Inside dura, outside cord</text><text x="420" y="346">Within the spinal cord</text><text x="33" y="395">Blue outline: dura  •  Central blue oval: cord  •  Red: illustrative lesions</text></g></g></svg>
