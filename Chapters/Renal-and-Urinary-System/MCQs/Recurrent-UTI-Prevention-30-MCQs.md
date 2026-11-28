@@ -8,22 +8,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Episode counting
 
-- **A.** Count only febrile infections
-- **B.** Wait for a fourth infection
+- **A.** Count only episodes with systemic features
+- **B.** Wait until three episodes occur within six months
 - **C.** Begin recurrent UTI assessment
-- **D.** Count only hospital admissions
+- **D.** Require three episodes within twelve months before any assessment
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Begin recurrent UTI assessment**
 
-**A. Kyun galat hai:** Bladder infection bina fever ke bhi recurrence mein count hota hai.
+**A. Kyun galat hai:** Fever ya rigors upper tract involvement ka clue ho sakte hain. Lekin localized symptomatic cystitis bhi recurrence ki calculation mein count hoti hai.
 
-**B. Kyun galat hai:** Chaar episodes ka wait karna zaroori nahi hai. Do episodes bhi chhe mahine mein threshold meet karte hain.
+**B. Kyun galat hai:** Teen episodes ka annual criterion alag hai. Do symptomatic episodes chhe mahine mein ho jaayein toh bhi assessment justified hai.
 
 **C. Kyun sahi hai:** Do symptomatic episodes chhe mahine ke andar aaye hain. Isliye recurrence ki assessment aur prevention par baat karna reasonable hai.
 
-**D. Kyun galat hai:** Admission severity ka indicator ho sakta hai, lekin recurrence ki definition admission par depend nahi karti.
+**D. Kyun galat hai:** Ek saal mein teen episodes alternate threshold hai. Is patient ne shorter six-month criterion already meet kar liya hai.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -35,24 +35,24 @@
 
 ### Q2. A woman reports four antibiotic courses for presumed cystitis, but none of the episodes has documented symptoms or culture results. What should the nurse help establish before long-term prophylaxis?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Episode documentation
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Episode documentation
 
-- **A.** A lifelong antibiotic schedule
+- **A.** Select prophylaxis from the most recently prescribed antibiotic
 - **B.** A history of symptomatic episodes and available microbiology
-- **C.** The brand of each urine container
-- **D.** Total number of tablets alone
+- **C.** Use a positive surveillance culture alone to establish recurrence
+- **D.** Use the number of antibiotic courses as the episode count
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. A history of symptomatic episodes and available microbiology**
 
-**A. Kyun galat hai:** Bina indication confirm kiye lifelong antibiotics dene se adverse effects aur resistance ka risk badhta hai.
+**A. Kyun galat hai:** Recent prescription se causative bacteria ya susceptibility establish nahi hoti. Pehle ye clarify karo ki symptoms bacterial infection se related the ya nahi.
 
 **B. Kyun sahi hai:** Symptoms aur cultures ko saath dekhne se clinician bacterial episodes ko doosri causes se alag kar sakta hai. Isse unnecessary prophylaxis se bachne mein madad milti hai.
 
-**C. Kyun galat hai:** Container ka brand clinical episode ka evidence nahi hai.
+**C. Kyun galat hai:** Bina urinary symptoms ke positive culture ASB ho sakti hai. Is result ko recurrent symptomatic infection ka proof nahi bana sakte.
 
-**D. Kyun galat hai:** Tablet count se ye pata nahi chalta ki sach mein infection tha ya nahi.
+**D. Kyun galat hai:** Antibiotic courses kabhi ek hi persistent episode ya noninfectious symptoms ke liye bhi diye ja sakte hain. Isliye distinct episodes ka history verify karna zaroori hai.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -67,9 +67,9 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Hydration selection
 
 - **A.** Consider increasing water intake
-- **B.** Replace water with caffeinated energy drinks
-- **C.** Routine water restriction
-- **D.** Drink only during symptomatic episodes
+- **B.** Recommend cranberry instead of addressing low water intake
+- **C.** Maintain the current low intake to avoid urinary frequency
+- **D.** Increase water intake only during acute episodes
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -77,11 +77,11 @@
 
 **A. Kyun sahi hai:** Jab daily water intake kam hota hai, toh suitable patient mein paani badhane se recurrence kam ho sakti hai. Individual tolerance bhi check karo.
 
-**B. Kyun galat hai:** Energy drinks se extra caffeine mil sakta hai. Ye increased water intake ka evidence-based substitute nahi hai.
+**B. Kyun galat hai:** Cranberry ek additional prevention option ho sakta hai. Lekin is patient ki low water intake ko ignore karna indicated counseling ko miss karega.
 
-**C. Kyun galat hai:** Kam intake wali patient mein routine restriction ka preventive benefit establish nahi hai.
+**C. Kyun galat hai:** Frequency temporarily troublesome ho sakti hai, lekin fluid restriction bina medical indication ke recurrence prevention ka recommended approach nahi hai.
 
-**D. Kyun galat hai:** Prevention ka aim episodes ke beech bhi suitable hydration maintain karna hai.
+**D. Kyun galat hai:** Increased hydration ka preventive effect episodes ke beech regular intake maintain karne se related hai. Acute episode ka treatment alag decision hai.
 
 **Clinical reference:** [Guidance](https://www.auanews.net/issues/articles/2025/october-2025/updates-to-the-aua/cua/sufu-guideline-on-recurrent-uncomplicated-urinary-tract-infections-in-women).
 
@@ -93,22 +93,22 @@
 
 ### Q4. A woman with recurrent cystitis and decompensated heart failure asks whether to follow a fixed high-water-intake prevention plan. What should the nurse advise?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Fluid restriction
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Fluid restriction
 
-- **A.** Ignore the heart failure plan
-- **B.** Double the prescribed fluid allowance
-- **C.** Stop all oral fluids
+- **A.** Apply the same hydration target as in healthy women with low intake
+- **B.** Increase the fluid allowance whenever cystitis recurs without reviewing volume status
+- **C.** Restrict intake below the prescribed allowance to reduce urinary frequency
 - **D.** Discuss a safe individualized fluid target with the treating team
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Discuss a safe individualized fluid target with the treating team**
 
-**A. Kyun galat hai:** Heart failure mein excess fluid congestion badha sakta hai. Existing restriction ko ignore karna unsafe hai.
+**A. Kyun galat hai:** Healthy women ki hydration study ko decompensated heart failure par directly apply nahi kar sakte. Excess volume se pulmonary congestion badh sakta hai.
 
-**B. Kyun galat hai:** Allowance double karne se breathlessness aur edema worsen ho sakte hain.
+**B. Kyun galat hai:** Cystitis recurrence se existing fluid restriction automatically cancel nahi hoti. Weight, edema aur breathlessness ka context dekh kar team ko fluid allowance decide karna chahiye.
 
-**C. Kyun galat hai:** Poora fluid band karne se dehydration aur doosri problems ho sakti hain.
+**C. Kyun galat hai:** Urinary frequency kam karna recurrence prevention ka main target nahi hai. Excessive restriction dehydration aur kidney perfusion ki problems badha sakti hai.
 
 **D. Kyun sahi hai:** Pehle heart failure ka fluid plan dekho. Prevention advice ko patient ki volume status aur treating team ki recommendation ke hisaab se adjust karna chahiye.
 
@@ -124,22 +124,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Spermicide exposure
 
-- **A.** Start prophylaxis without reviewing the exposure
+- **A.** Begin continuous prophylaxis before reviewing the contraceptive exposure
 - **B.** Discuss a suitable alternative contraceptive method
-- **C.** Increase spermicide exposure
-- **D.** Stop all contraception without replacement
+- **C.** Change the timing of intercourse but continue the same spermicide
+- **D.** Switch to another spermicide-containing product as the sole intervention
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Discuss a suitable alternative contraceptive method**
 
-**A. Kyun galat hai:** Prophylaxis se pehle modifiable factors review karna antibiotic exposure kam karne mein madad karta hai.
+**A. Kyun galat hai:** Daily antibiotics selected patients mein useful ho sakte hain, lekin pehle modifiable risk factor ko address karne se unnecessary antibiotic exposure avoid ho sakta hai.
 
 **B. Kyun sahi hai:** Spermicide recurrent cystitis ka modifiable risk factor ho sakta hai. Contraceptive needs preserve karte hue alternative discuss karna useful hai.
 
-**C. Kyun galat hai:** Exposure badhane se potential risk factor aur badhega.
+**C. Kyun galat hai:** Intercourse ka timing change karne se spermicide-related risk necessarily remove nahi hota. Contraceptive suitability aur alternative product discuss karna zyada relevant hai.
 
-**D. Kyun galat hai:** Contraception abruptly band karne se unintended pregnancy ka risk ho sakta hai.
+**D. Kyun galat hai:** Sirf brand change karna exposure eliminate nahi karta. Patient ki contraceptive preference ke hisaab se nonspermicidal option discuss karna chahiye.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
@@ -153,22 +153,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Trigger identification
 
-- **A.** Record only her body temperature once a month
-- **B.** Record the colour of every antibiotic package
+- **A.** Use the most recent culture alone to infer an activity-related trigger
+- **B.** Record the timing of prophylactic doses without recording symptom onset
 - **C.** Keep a symptom, culture and possible trigger diary
-- **D.** Avoid every physical activity indefinitely
+- **D.** Infer a trigger from a single episode without tracking subsequent episodes
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Keep a symptom, culture and possible trigger diary**
 
-**A. Kyun galat hai:** Monthly temperature record se episode aur trigger ka temporal relation samajh nahi aayega.
+**A. Kyun galat hai:** Culture organism identify kar sakta hai, lekin infection kis activity ke baad hua ye nahi batata. Temporal history ki zaroorat hoti hai.
 
-**B. Kyun galat hai:** Packaging ka colour clinical trigger nahi batata.
+**B. Kyun galat hai:** Medicine timing adherence assess karne mein useful hai. Lekin symptoms ki timing missing ho toh activity aur recurrence ka relation establish karna mushkil hai.
 
 **C. Kyun sahi hai:** Diary mein symptoms, dates, culture aur possible triggers likhne se pattern samajh aata hai. Isse targeted prevention decide karne mein help mil sakti hai.
 
-**D. Kyun galat hai:** Har activity avoid karna quality of life ko affect karega aur specific risk identify nahi karega.
+**D. Kyun galat hai:** Ek coincidence ko established trigger nahi samajhna chahiye. Repeated episodes ka pattern future targeted prevention ko inform karta hai.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -180,12 +180,12 @@
 
 ### Q7. A nonpregnant woman has confirmed recurrent cystitis consistently following intercourse despite appropriate initial preventive measures. Which clinician-directed option may reduce antibiotic exposure compared with daily prophylaxis?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Trigger-associated prophylaxis
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Trigger-associated prophylaxis
 
 - **A.** Single-dose prophylaxis linked to the identified trigger
-- **B.** Antibiotics after every meal
-- **C.** Repeated unsupervised broad-spectrum courses
-- **D.** Continuous intravenous antibiotics
+- **B.** Use a fixed once-daily prophylactic regimen regardless of trigger timing
+- **C.** Start each symptomatic episode with a self-start treatment course instead of discussing prevention
+- **D.** Select continuous prophylaxis based only on the most recent isolate
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -193,11 +193,11 @@
 
 **A. Kyun sahi hai:** NICE ke stepwise approach mein suitable patient ke liye identified trigger ke saath single-dose prophylaxis consider ki ja sakti hai. Isse daily exposure ki zaroorat kam ho sakti hai.
 
-**B. Kyun galat hai:** Meal ka timing stated trigger se related nahi hai.
+**B. Kyun galat hai:** Daily prophylaxis effective ho sakti hai, lekin clear trigger ke context mein targeted single dose se total exposure kam ho sakta hai. Question specifically exposure reduction pooch raha hai.
 
-**C. Kyun galat hai:** Unsupervised broad-spectrum treatment resistance badha sakta hai aur culture data ignore karta hai.
+**C. Kyun galat hai:** Agreed self-start treatment selected patients ke liye option hai, lekin ye infection shuru hone ke baad treatment hai. Trigger-linked prophylaxis ka purpose episode prevent karna hai.
 
-**D. Kyun galat hai:** Stable recurrent cystitis prevention ke liye continuous IV treatment indicated nahi hai.
+**D. Kyun galat hai:** Culture agent selection mein useful hai, lekin prevention strategy decide karte waqt predictable trigger, adverse effects aur preferences bhi matter karte hain.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -211,20 +211,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Menopause mechanism
 
-- **A.** It produces systemic antibiotic concentrations
-- **B.** It blocks all renal filtration
-- **C.** It directly sterilizes urine
+- **A.** It maintains antibacterial drug concentrations between episodes
+- **B.** It reduces recurrence primarily by increasing glomerular filtration
+- **C.** It acts mainly as a urinary antiseptic released into the bladder
 - **D.** It can support local vaginal tissue and microbial changes that reduce recurrence
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. It can support local vaginal tissue and microbial changes that reduce recurrence**
 
-**A. Kyun galat hai:** Local estrogen ka preventive effect systemic antibiotic concentration se nahi aata.
+**A. Kyun galat hai:** Vaginal estrogen antimicrobial drug nahi hai. Iska role local tissue aur microbial environment ko support karna hai, antibiotic concentration maintain karna nahi.
 
-**B. Kyun galat hai:** Renal filtration block karna kidney function ke liye harmful hoga.
+**B. Kyun galat hai:** Glomerular filtration kidney ka filtering process hai. Local vaginal estrogen ke preventive benefit ko increased GFR se explain nahi kiya jaata.
 
-**C. Kyun galat hai:** Estrogen antibiotic nahi hai aur urine ko sterilize nahi karta.
+**C. Kyun galat hai:** Methenamine jaise urinary antiseptic urine ke environment mein act karte hain. Vaginal estrogen ka mechanism local vaginal changes se related hai.
 
 **D. Kyun sahi hai:** Menopause ke baad estrogen kam hone se local tissue aur vaginal flora change ho sakte hain. Local estrogen suitable patient mein in changes ko address karke recurrence kam karne mein madad kar sakta hai.
 
@@ -241,9 +241,9 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Estrogen route
 
 - **A.** Discuss vaginal estrogen when appropriate rather than starting systemic HRT specifically for UTI prevention
-- **B.** Start systemic HRT in every patient
-- **C.** Use injectable estrogen as an antibiotic
-- **D.** Avoid discussing any hormonal option
+- **B.** Start systemic HRT solely because it treats other menopausal symptoms
+- **C.** Select systemic estrogen rather than local treatment to maximize urinary protection
+- **D.** Exclude vaginal estrogen because systemic HRT is not recommended for this indication
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -251,11 +251,11 @@
 
 **A. Kyun sahi hai:** NICE prevention ke liye suitable patient mein vaginal estrogen consider karta hai. Systemic HRT ko sirf UTI prevention ke liye start nahi karna chahiye.
 
-**B. Kyun galat hai:** Systemic HRT ke apne indications aur risks hain. Har patient ko dena appropriate nahi hai.
+**B. Kyun galat hai:** Systemic HRT ke separate menopausal indications ho sakte hain. Lekin NICE ke according recurrent UTI prevention akela systemic HRT start karne ka reason nahi hai.
 
-**C. Kyun galat hai:** Estrogen antibacterial injection nahi hai.
+**C. Kyun galat hai:** Zyada systemic exposure ka matlab better UTI prevention nahi hai. Local vaginal treatment ke preventive evidence aur systemic HRT ke risk profile ko alag samjho.
 
-**D. Kyun galat hai:** Local hormonal option ko ignore karne se suitable patient ek useful prevention choice miss kar sakti hai.
+**D. Kyun galat hai:** Systemic HRT aur low-dose vaginal estrogen alag routes hain. Systemic route ki restriction ka matlab local option bhi contraindicated hai, aisa nahi hai.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -267,24 +267,24 @@
 
 ### Q10. A woman considering vaginal estrogen for prevention has a history of estrogen-sensitive breast cancer. Which nursing action is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Estrogen shared decision
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Estrogen shared decision
 
-- **A.** Guarantee that all formulations are risk-free
-- **B.** Advise her to discontinue cancer treatment
+- **A.** Proceed without discussing the cancer history because systemic absorption is generally low
+- **B.** Recommend avoiding all future local therapy without a specialist discussion
 - **C.** Arrange individualized discussion with the treating clinician and oncology team as appropriate
-- **D.** Replace vaginal estrogen with systemic estrogen without review
+- **D.** Choose systemic HRT instead to simplify the treatment plan
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Arrange individualized discussion with the treating clinician and oncology team as appropriate**
 
-**A. Kyun galat hai:** Local absorption generally kam ho sakti hai, lekin har individual ke liye risk-free guarantee dena sahi nahi hai.
+**A. Kyun galat hai:** Local estrogen ka systemic absorption usually low ho sakta hai, lekin estrogen-sensitive cancer mein treatment history aur patient preference important hain. Individualized discussion skip nahi karni chahiye.
 
-**B. Kyun galat hai:** Cancer treatment apne aap rokna dangerous hai.
+**B. Kyun galat hai:** Cancer history automatically har possible local option ko exclude nahi karti. Nonhormonal measures, persistent symptoms aur specialist guidance ke hisaab se decision ho sakta hai.
 
 **C. Kyun sahi hai:** Cancer history aur ongoing treatment ko consider karke shared decision lena chahiye. Oncology input relevant ho sakta hai.
 
-**D. Kyun galat hai:** Systemic estrogen ka risk profile alag hai aur bina assessment substitute nahi karna chahiye.
+**D. Kyun galat hai:** Systemic HRT ka exposure aur risk profile local vaginal treatment se alag hai. Is context mein systemic substitute bina appropriate clinical review ke choose nahi karna chahiye.
 
 **Clinical reference:** [Guidance](https://www.auanews.net/issues/articles/2025/october-2025/updates-to-the-aua/cua/sufu-guideline-on-recurrent-uncomplicated-urinary-tract-infections-in-women).
 
@@ -296,24 +296,24 @@
 
 ### Q11. A suitable nonpregnant woman has recurrent cystitis despite initial preventive measures and wants to discuss an alternative to daily antibiotic prophylaxis. Which option appears in updated NICE guidance?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Methenamine role
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Methenamine role
 
-- **A.** Long-term urinary analgesics alone
+- **A.** Continuous phenazopyridine as the principal preventive agent
 - **B.** Methenamine hippurate
-- **C.** Daily antifungal treatment
-- **D.** Intravenous vancomycin indefinitely
+- **C.** Daily fluconazole to suppress the usual bacterial pathogens
+- **D.** A prolonged therapeutic-dose broad-spectrum antibiotic course
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Methenamine hippurate**
 
-**A. Kyun galat hai:** Urinary analgesic symptoms kam kar sakta hai, lekin bacterial recurrence prevention ka substitute nahi hai.
+**A. Kyun galat hai:** Phenazopyridine burning kam karne wala urinary analgesic hai. Ye recurrent bacterial cystitis ko prevent karne ka established long-term alternative nahi hai.
 
 **B. Kyun sahi hai:** Methenamine hippurate selected patients mein daily antibiotic prophylaxis ka alternative ho sakta hai. Pehle current infection treat honi chahiye aur suitability assess honi chahiye.
 
-**C. Kyun galat hai:** Antifungal bacterial cystitis ki routine prevention nahi karta.
+**C. Kyun galat hai:** Fluconazole fungal infection ke liye use hota hai. Recurrent bacterial cystitis mein routine antifungal prophylaxis appropriate nahi hai.
 
-**D. Kyun galat hai:** IV vancomycin routine recurrent cystitis prevention ke liye suitable nahi hai.
+**D. Kyun galat hai:** Ye daily antimicrobial exposure avoid karne ka requested alternative nahi hai. Methenamine suitable patient mein antibiotic-sparing option ho sakta hai.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -325,22 +325,22 @@
 
 ### Q12. A patient prescribed methenamine hippurate plans to buy a sodium citrate urinary alkalinizing sachet. Which counseling is appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Methenamine interaction
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Methenamine interaction
 
-- **A.** Take both to enhance methenamine activity
-- **B.** Double methenamine without advice
-- **C.** Use citrate only to replace the prescription
+- **A.** Continue both because alkaline urine enhances methenamine activity
+- **B.** Separate the sachet and methenamine by two hours without further review
+- **C.** Use the citrate sachet on days when methenamine is omitted
 - **D.** Avoid concurrent alkalinizing sachets and discuss alternatives with the clinician
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Avoid concurrent alkalinizing sachets and discuss alternatives with the clinician**
 
-**A. Kyun galat hai:** Citrate urine ka pH badha sakta hai. Methenamine ki activity acidic urine par depend karti hai, isliye combination effect kam kar sakta hai.
+**A. Kyun galat hai:** Methenamine acidic urine mein formaldehyde release karta hai. Alkalinizing citrate pH badha kar activity kam kar sakta hai, enhance nahi.
 
-**B. Kyun galat hai:** Dose double karna interaction ko safely solve nahi karta aur adverse effects badh sakte hain.
+**B. Kyun galat hai:** Ye sirf stomach absorption ka timing interaction nahi hai. Citrate urine pH ko change karta hai, isliye dose separation reliable solution nahi maana ja sakta.
 
-**C. Kyun galat hai:** Citrate prescribed prophylaxis ka equivalent nahi hai.
+**C. Kyun galat hai:** Citrate prophylaxis ka replacement nahi hai. Prescribed preventive plan mein self-directed interruptions treatment effectiveness ko affect kar sakte hain.
 
 **D. Kyun sahi hai:** Urinary alkalinizing products methenamine ko less effective bana sakte hain. Nurse ko OTC products review karke patient ko appropriate advice deni chahiye.
 
@@ -354,22 +354,22 @@
 
 ### Q13. A suitable woman starts methenamine hippurate under NICE guidance. When should the initial planned treatment review occur?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Methenamine review
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Methenamine review
 
-- **A.** Every day indefinitely
-- **B.** Only after five years
-- **C.** Only if the prescription runs out
+- **A.** Review at twelve months initially, then annually
+- **B.** Review only when breakthrough infection occurs
+- **C.** Review at six months but omit later reviews if effective
 - **D.** Within six months, then annually or earlier by agreement
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Within six months, then annually or earlier by agreement**
 
-**A. Kyun galat hai:** Daily formal review routine long-term schedule nahi hai. Symptoms ya concerns hon toh earlier assessment zaroori hai.
+**A. Kyun galat hai:** Ye interval vaginal estrogen review ke saath confuse ho sakta hai. Methenamine ka initial NICE review six months ke andar hota hai.
 
-**B. Kyun galat hai:** Paanch saal ka wait treatment failure ya adverse effects ko miss kar sakta hai.
+**B. Kyun galat hai:** Breakthrough episode par review zaroori ho sakta hai, lekin planned review bhi chahiye taaki benefit aur harms symptoms absent hone par assess ho sakein.
 
-**C. Kyun galat hai:** Refill hona clinical review ka replacement nahi hai.
+**C. Kyun galat hai:** Initial six-month review sahi hai, lekin ongoing treatment par annual ya agreed earlier review bhi recommended hai.
 
 **D. Kyun sahi hai:** Chhe mahine ke andar review se benefit, side effects aur ongoing need assess hoti hai. Uske baad annual review ya agreed earlier review hota hai.
 
@@ -383,24 +383,24 @@
 
 ### Q14. A pregnant patient requests methenamine hippurate after reading an adult recurrent cystitis prevention leaflet. Which response matches NICE guidance?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Methenamine pregnancy
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Methenamine pregnancy
 
-- **A.** Assume pregnancy eliminates UTI risk
+- **A.** Offer methenamine automatically once current infection has been treated
 - **B.** Seek specialist advice before considering methenamine prophylaxis
-- **C.** Automatically prescribe a double dose
-- **D.** Use the general adult pathway without adjustment
+- **C.** Use the same regimen as in the nonpregnant patient if the culture is negative
+- **D.** Defer prevention assessment until after delivery
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Seek specialist advice before considering methenamine prophylaxis**
 
-**A. Kyun galat hai:** Pregnancy urinary infection ke risk ko eliminate nahi karti.
+**A. Kyun galat hai:** Active infection treat karna general pathway ka ek part hai. Pregnancy mein uske baad bhi specialist advice ki requirement rehti hai.
 
 **B. Kyun sahi hai:** NICE pregnancy mein methenamine consider karne se pehle specialist advice recommend karta hai. Patient ki history aur current infection ko bhi assess karna chahiye.
 
-**C. Kyun galat hai:** Dose double karne ka koi stated justification nahi hai.
+**C. Kyun galat hai:** Negative culture current bacterial growth ke baare mein information deti hai. Ye maternal aur fetal medicine safety establish nahi karti.
 
-**D. Kyun galat hai:** Pregnancy mein maternal aur fetal safety considerations alag hoti hain. General nonpregnant pathway directly apply nahi karna chahiye.
+**D. Kyun galat hai:** Pregnancy ke dauran recurrent UTI clinically relevant hai. Appropriate obstetric ya specialist assessment abhi arrange karni chahiye, rather than automatic postponement.
 
 **Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
 
@@ -412,12 +412,12 @@
 
 ### Q15. A woman has repeated episodes of culture-confirmed pyelonephritis and asks for an over-the-counter prevention product alone. What should the nurse prioritize?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Upper tract recurrence
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / Staff Nurse · **Topic:** Upper tract recurrence
 
 - **A.** Arrange specialist assessment for recurrent upper urinary infection
-- **B.** Recommend a supplement as definitive treatment
-- **C.** Reassure her that no investigation is needed
-- **D.** Advise delaying care until another episode occurs
+- **B.** Apply the routine uncomplicated lower cystitis prophylaxis algorithm without further evaluation
+- **C.** Use a symptom diary as the only follow-up until recurrence is documented again
+- **D.** Arrange routine prophylaxis review in six months before investigating upper tract causes
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -425,11 +425,11 @@
 
 **A. Kyun sahi hai:** Repeated pyelonephritis mein specialist assessment ki zaroorat ho sakti hai. Prevention ko cause aur renal risk ke hisaab se plan karna chahiye.
 
-**B. Kyun galat hai:** Supplement underlying obstruction ya recurrent kidney infection ka evaluation replace nahi karta.
+**B. Kyun galat hai:** Repeated pyelonephritis upper tract disease hai. Lower cystitis pathway underlying stone, reflux ya obstruction ke evaluation ko replace nahi karta.
 
-**C. Kyun galat hai:** Repeated upper infection underlying structural ya functional problem ka clue ho sakti hai.
+**C. Kyun galat hai:** Repeated culture-confirmed kidney infections already documented hain. Diary useful supplementary record hai, lekin specialist evaluation delay karne ka reason nahi.
 
-**D. Kyun galat hai:** Delay se preventable renal complications ka risk ho sakta hai.
+**D. Kyun galat hai:** Six-month preventive review interval stable prophylaxis patients ke liye relevant ho sakta hai. Repeated kidney infections mein underlying causes ka assessment pehle discuss karna chahiye.
 
 **Clinical reference:** [Guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
