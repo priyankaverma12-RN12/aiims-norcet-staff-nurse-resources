@@ -1,10 +1,10 @@
 # Endocrine manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: endocrine-b03-20261128-0912Z
+Scope: PR54 isolated adult adrenal disease nursing candidates only. No shared navigation or existing content changes.
+Claimed UTC: 2026-11-28T09:11:49Z
+Expiry UTC: 2026-11-28T09:41:49Z
 
 Last owner: endocrine-b02-20261128-0857Z
 Released: 2026-11-28 after isolated Batch 02 authoring, targeted correction and remote readback.
