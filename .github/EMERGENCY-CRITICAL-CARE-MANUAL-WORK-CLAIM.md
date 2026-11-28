@@ -1,5 +1,17 @@
 # Emergency and Critical Care Nursing manual claim
 
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr49-line-overlap-20261128T1219Z at verified checkpoint e8cf94e4e3dae373581148df90af0aebd30fe99b. PR49 ICU Q15 replacement 6400c3716fc67f09860a122446ab053874aded76; prior corrected Q14 and PR48 A06 unchanged. 340 staged originals/1360 rationales, 17 banks, exact readbacks passed. Both flagged PR48/49 pairs allocated. No live credit. Remaining independent clinical/semantic, source/video, navigation and current-head CI gates. Preserve other sessions and schedules.
+
+Prior lease history:
+
+# Emergency and Critical Care Nursing manual claim
+
 State: CLAIMED
 Owner: integration-pr49-line-overlap-20261128T1219Z
 Scope: isolated PR49 ICU Q15 and candidate checkpoint, retain PR48 10A Q06 line management, preserve corrected PR49 Q14 and all other questions. No shared navigation, other branches or clinical publication.
