@@ -17,17 +17,16 @@
 
 **Correct answer: A. Allow the recommended interval after tobacco use and a quiet rest before measuring**
 
-<!-- job5-rationale -->
-Smoking nicotine ke through sympathetic activity badha sakti hai, jisse temporary BP rise ho sakta hai. Routine standardized measurement se pehle smoking, caffeine aur exercise se kam se kam 30 minute ka gap aur approximately 5 minute quiet seated rest rakho. Acute illness mein urgent assessment delay nahi karna hai.
+Cigarette peene ke turant baad nicotine sympathetic nervous system ko stimulate kar sakti hai. Iska matlab hai ki heart aur blood vessels ka response kuch samay ke liye badal sakta hai aur BP temporarily rise ho sakta hai. Agar patient stable hai aur routine BP check ke liye aaya hai, toh smoking, caffeine aur exercise ke baad kam se kam 30 minute ka gap rakho. Measurement se pehle patient ko lagbhag paanch minute shaant baithne do. Isse resting BP ka better estimate mil sakta hai. Agar patient acutely unwell hai, toh is preparation ke liye urgent assessment delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Recommended preparation temporary effect kam karti hai.
-- **B:** Smoking effect har patient mein same nahi hota, fixed subtraction invalid hai.
-- **C:** Forced breathing normal resting condition change karti hai.
-- **D:** Cuff size arm circumference se select hota hai, smoking se nahi.
+- **A:** Recommended interval aur quiet rest se smoking ka temporary effect kam hone ka mauka milta hai. Isliye A sahi hai.
+- **B:** Nicotine ka effect sab patients mein same nahi hota. Isliye turant reading lekar usmein se guessed number subtract karna reliable correction nahi hai.
+- **C:** Forcefully deep breaths lene se patient ka normal resting breathing pattern aur circulatory response change ho sakta hai. Routine measurement mein quiet natural breathing preferable hai.
+- **D:** Cuff size actual arm circumference ke hisaab se select hota hai. Chhota cuff smoking ka effect correct nahi karega aur reading ko aur falsely high bana sakta hai.
 
-**Exam clue:** 30 minute preparation, 5 minute rest.
+**Exam clue:** Stable routine BP mein smoking, caffeine aur exercise ke baad 30 minute ka gap aur measurement se pehle paanch minute quiet rest yaad rakho.
 
 [Concept reference](https://www.cdc.gov/high-blood-pressure/measure/)
 <!-- /job5-rationale -->
@@ -56,17 +55,16 @@ Smoking nicotine ke through sympathetic activity badha sakti hai, jisse temporar
 
 **Correct answer: D. Back supported, feet flat and legs uncrossed**
 
-<!-- job5-rationale -->
-Supported back aur feet flat rakhne se unnecessary muscle contraction kam hota hai. Legs cross karne se reading change ho sakti hai. Arm supported aur cuff heart level par rakho. Seated readings comparable banane ke liye same standardized posture important hai.
+Patient ki sitting position BP reading ko affect kar sakti hai. Maan lo patient ke feet hawa mein latak rahe hain aur back ko support nahi mila hai. Position maintain karne ke liye muscles ko extra kaam karna pad sakta hai. Legs cross karne se bhi reading change ho sakti hai. Routine seated BP ke liye nurse patient ka back support karti hai, feet floor par flat rakhti hai aur legs uncrossed rakhti hai. Arm relaxed aur supported ho aur cuff ka midpoint heart level par ho. Isse repeated readings comparable banane mein help milti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Unsupported feet aur back muscle tension badha sakte hain.
-- **B:** Crossed legs reading falsely elevate kar sakte hain.
-- **C:** Standing reading seated protocol ka substitute nahi hai.
-- **D:** Supported back, flat feet aur uncrossed legs correct preparation hain.
+- **A:** Feet aur back unsupported hone se muscle tension badh sakti hai. Ye standardized resting posture nahi hai.
+- **B:** Legs aur firmly cross karne se reading falsely elevate ho sakti hai. Accurate comparison ke liye legs uncrossed rakhni chahiye.
+- **C:** Standing BP ek alag position ki reading hai, jo orthostatic assessment mein useful ho sakti hai. Ye routine seated reading ka substitute nahi hai.
+- **D:** Supported back, flat feet aur uncrossed legs se standardized seated posture milta hai. Isliye D sahi hai.
 
-**Exam clue:** Feet flat, back supported, arm heart level.
+**Exam clue:** Routine seated BP mein back aur arm supported rakho, feet flat rakho aur legs cross mat karo.
 
 [Concept reference](https://www.cdc.gov/high-blood-pressure/measure/)
 <!-- /job5-rationale -->
@@ -95,17 +93,16 @@ Supported back aur feet flat rakhne se unnecessary muscle contraction kam hota h
 
 **Correct answer: C. Allow the patient to empty the bladder when feasible**
 
-<!-- job5-rationale -->
-Full bladder discomfort aur autonomic response ke through BP temporarily increase kar sakta hai. Stable routine check mein pehle patient ko bladder empty karne ka opportunity do. Fall risk ho toh safe assistance do. Urgent clinical deterioration mein assessment postpone nahi karna hai.
+Jab bladder full hota hai, toh patient uncomfortable feel kar sakta hai aur autonomic nervous system ka response BP temporarily badha sakta hai. Maan lo patient routine check se pehle urine pass karna chahta hai. Agar woh clinically stable hai, toh nurse use pehle bladder empty karne ka mauka deti hai. Agar patient ko dizziness ya fall risk hai, toh safe assistance arrange karti hai. Isse measurement ke waqt discomfort aur avoidable variation kam ho sakte hain. Lekin acute deterioration mein BP aur urgent assessment postpone nahi karne chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Abdominal pressure unnecessary aur potentially unsafe hai.
-- **B:** Lowest value choose karna selection bias hai.
-- **C:** Bladder empty karna standardized preparation hai.
-- **D:** Urine retain karne se discomfort aur reading variation badh sakti hai.
+- **A:** Abdomen par pressure apply karna routine BP preparation ka part nahi hai. Isse discomfort ya harm ho sakta hai.
+- **B:** Sab readings mein se lowest number arbitrarily choose karne se actual BP ka biased estimate milega. Standard technique se readings leni chahiye.
+- **C:** Feasible hone par bladder empty karne se discomfort aur full bladder ka temporary BP effect kam ho sakta hai. Isliye C sahi hai.
+- **D:** Urine retain karne ko kehne se discomfort aur measurement variation badh sakti hai. Stable patient ko bladder empty karne dena better hai.
 
-**Exam clue:** Empty bladder before routine BP.
+**Exam clue:** Routine BP se pehle feasible ho toh bladder empty karwao, lekin urgent care ko delay mat karo.
 
 [Concept reference](https://www.cdc.gov/high-blood-pressure/measure/)
 <!-- /job5-rationale -->
@@ -134,17 +131,16 @@ Full bladder discomfort aur autonomic response ke through BP temporarily increas
 
 **Correct answer: B. Remove constrictive clothing and apply cuff to bare arm**
 
-<!-- job5-rationale -->
-Upper-arm cuff bare skin par correctly fit hona chahiye. Tight rolled sleeve arm ko constrict kar sakti hai aur cuff positioning affect kar sakti hai. Patient ki privacy maintain karke sleeve remove ya suitable clothing adjust karo. Actual arm circumference se cuff choose karo.
+BP cuff ka pressure bare upper arm par appropriate tareeke se transmit hona chahiye. Agar shirt sleeve bahut tight roll ki gayi hai, toh woh arm ko constrict kar sakti hai aur cuff ki position ya measurement affect kar sakti hai. Nurse patient ki privacy maintain karte hue clothing adjust karti hai, taaki upper arm bare ho aur koi tight band na ho. Phir arm circumference ke according suitable cuff lagati hai. Sirf shirt ka size dekhkar cuff size decide nahi kiya ja sakta.
 
 **Option-by-option reasoning**
 
-- **A:** Shirt size arm circumference ka reliable measure nahi hai.
-- **B:** Constrictive clothing remove karke bare arm par cuff lagana correct hai.
-- **C:** Thick clothing correct cuff fit aur measurement ko affect kar sakti hai.
-- **D:** Sleeve aur tight karna obstruction risk badhata hai.
+- **A:** Shirt size se actual mid-upper-arm circumference reliably pata nahi chalta. Cuff choose karne ke liye arm measure karni chahiye.
+- **B:** Tight clothing remove karke bare arm par correct cuff lagane se proper fit aur pressure transmission mein help milti hai. Isliye B sahi hai.
+- **C:** Thick clothing cuff ko properly fit hone se rok sakti hai aur reading affect kar sakti hai. Bare arm preferable hai.
+- **D:** Sleeve aur tight karne se arm constriction badh sakti hai. Ye measurement ki problem solve nahi karega.
 
-**Exam clue:** Bare arm without constriction.
+**Exam clue:** Cuff ko bare upper arm par lagao aur ensure karo ki clothing arm ko constrict na kare.
 
 [Concept reference](https://www.cdc.gov/high-blood-pressure/measure/)
 <!-- /job5-rationale -->
@@ -173,17 +169,16 @@ Upper-arm cuff bare skin par correctly fit hona chahiye. Tight rolled sleeve arm
 
 **Correct answer: D. Obtain a compatible cuff with a validated range covering the circumference**
 
-<!-- job5-rationale -->
-Cuff ka validated circumference range patient ke measured mid-upper-arm circumference ko cover karna chahiye. Too small cuff commonly falsely high aur too large cuff falsely low reading de sakta hai. Compatible correct cuff arrange karo aur unusual site use karne par technique document karo.
+BP cuff har arm size ke liye interchangeable nahi hota. Manufacturer cuff par compatible arm circumference ki range mark karta hai. Nurse patient ki mid-upper-arm circumference measure karke aisa validated compatible cuff choose karti hai jo us range ko cover kare. Bahut chhota cuff reading falsely high aur bahut bada cuff falsely low kar sakta hai. Agar standard upper-arm site suitable nahi hai, toh approved alternative technique use karo aur actual site document karo. Galat fit ke saath number mil jaana accurate measurement ka proof nahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** Force fit measurement inaccurate kar sakta hai.
-- **B:** Thigh circumference upper-arm cuff select karne ka basis nahi hai.
-- **C:** Loose fitting se pressure transmission unreliable hoti hai.
-- **D:** Compatible range wali cuff accuracy ke liye zaroori hai.
+- **A:** Available cuff ko force karke close karne se fit aur pressure transmission inaccurate ho sakte hain. Suitable size arrange karna chahiye.
+- **B:** Thigh circumference upper arm ka size nahi batati. Upper-arm cuff ke liye actual upper-arm circumference measure karni chahiye.
+- **C:** Cuff ko size ignore karke loose lagane se pressure artery tak reliably transmit nahi ho sakta. Manufacturer ki fit instructions follow karo.
+- **D:** Compatible cuff ki validated range patient ki actual arm circumference cover karegi. Isliye D sahi hai.
 
-**Exam clue:** Measure arm, then choose validated cuff.
+**Exam clue:** Pehle arm circumference measure karo, phir device ke liye compatible aur validated cuff select karo.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -214,17 +209,16 @@ Cuff ka validated circumference range patient ke measured mid-upper-arm circumfe
 
 **Correct answer: C. Approximately 75–100%**
 
-<!-- job5-rationale -->
-AHA 2019 statement bladder length ko measured arm circumference ke 75–100% aur width ko 37–50% recommend karta hai. Length arm ke around coverage hai, width arm ki longitudinal direction mein hoti hai. Example 32 cm arm mein length approximately 24–32 cm aur width 11.8–16 cm ho sakti hai. Device manufacturer ka validated range bhi check karo.
+Cuff ke andar inflatable bladder hota hai jo arm ke around pressure apply karta hai. AHA ki 2019 BP measurement statement bladder length ko arm circumference ki lagbhag 75–100% aur width ko 37–50% recommend karti hai. Length arm ke around coverage batati hai aur width arm ki long direction mein hoti hai. Maan lo circumference 32 cm hai. Bladder length 24–32 cm aur width lagbhag 11.8–16 cm ho sakti hai. Device ka validated cuff size range bhi check karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** 37–50% width ka range hai, length nahi.
-- **B:** 150% length stated recommendation nahi hai.
-- **C:** 75–100% correct bladder length range hai.
-- **D:** 20–30% length inadequate coverage de sakti hai.
+- **A:** 37–50% bladder width ka recommended range hai. Question length pooch raha hai, isliye ye sahi answer nahi hai.
+- **B:** Exactly 150% arm circumference AHA 2019 ki stated length recommendation nahi hai.
+- **C:** 75–100% arm circumference bladder length ke stated range se match karta hai. Isliye C sahi hai.
+- **D:** 20–30% length se arm ke around bladder coverage recommended range se bahut kam hogi.
 
-**Exam clue:** Length 75–100%, width 37–50%.
+**Exam clue:** AHA 2019 ke according bladder length 75–100% aur width 37–50% arm circumference hoti hai.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -255,17 +249,16 @@ AHA 2019 statement bladder length ko measured arm circumference ke 75–100% aur
 
 **Correct answer: B. To align the cuff artery marker and identify the auscultation site**
 
-<!-- job5-rationale -->
-Manual BP mein brachial artery antecubital area mein locate karte hain. Cuff artery marker ko align karne aur stethoscope ko correct artery ke upar rakhne se Korotkoff sounds accurately sunne mein help milti hai. Cuff size aur pulse site separate checks hain.
+Manual upper-arm BP mein nurse brachial artery locate karti hai, jo elbow ke antecubital area ke paas palpate ki ja sakti hai. Isse pata chalta hai ki cuff ka artery marker kis taraf align karna hai aur stethoscope kahan rakhna hai. Jab cuff pressure release hota hai, toh artery se aane wali Korotkoff sounds sunne ke liye suitable location important hai. Cuff ka size select karna ek separate step hai aur uske liye circumference measure karte hain.
 
 **Option-by-option reasoning**
 
-- **A:** Pulse location arm circumference establish nahi karti.
-- **B:** Brachial pulse correct alignment aur auscultation site identify karta hai.
-- **C:** Radial vein routine upper-arm auscultation site nahi hai.
-- **D:** Oxygen saturation pulse oximeter se estimate hoti hai.
+- **A:** Artery ki location se arm circumference pata nahi chalti. Cuff ka size actual measurement se choose karna chahiye.
+- **B:** Brachial artery locate karne se cuff marker align aur stethoscope suitable site par place karne mein help milti hai. Isliye B sahi hai.
+- **C:** Routine upper-arm BP auscultation brachial artery ke upar hoti hai, radial vein par nahi.
+- **D:** Oxygen saturation estimate karne ke liye pulse oximeter use hota hai. Brachial pulse locate karna uska measurement nahi hai.
 
-**Exam clue:** Brachial artery for upper-arm auscultation.
+**Exam clue:** Upper-arm manual BP mein brachial artery locate karke cuff marker aur auscultation site align karo.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -294,17 +287,16 @@ Manual BP mein brachial artery antecubital area mein locate karte hain. Cuff art
 
 **Correct answer: A. It helps choose inflation pressure and avoid missing an auscultatory gap**
 
-<!-- job5-rationale -->
-Palpatory estimate mein cuff inflate karte hue radial pulse disappearance pressure note karte hain, phir deflate karte hain. Repeat auscultatory measurement ke liye approximately 20–30 mmHg above estimated systolic inflate karna premature start aur auscultatory gap miss karne ka risk reduce karta hai. Palpation se diastolic endpoint nahi milta.
+Palpatory systolic estimate mein nurse cuff inflate karte hue radial pulse ke disappearance ka pressure note karti hai aur phir cuff deflate karti hai. Isse systolic BP ka approximate idea milta hai. Auscultatory measurement ke liye applicable protocol ke according estimated systolic se lagbhag 20–30 mmHg upar inflate karne se pehli Korotkoff sound miss hone ka risk kam hota hai. Kabhi sounds beech mein temporarily disappear hoti hain, jise auscultatory gap kehte hain. Palpatory estimate se is gap ki wajah se galat systolic endpoint choose karne se bachne mein help milti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Systolic estimate suitable inflation level choose karne mein help karta hai.
-- **B:** Palpation diastolic pressure directly identify nahi karti.
-- **C:** Auscultation systolic aur diastolic endpoints deti hai, palpation har purpose replace nahi karti.
-- **D:** MAP estimate ke liye systolic aur diastolic dono chahiye.
+- **A:** Palpatory estimate suitable inflation level decide karne aur auscultatory gap miss hone ka risk kam karne mein help karta hai. Isliye A sahi hai.
+- **B:** Palpation se routine manual BP ka diastolic endpoint directly identify nahi hota. Uske liye auscultation ya appropriate alternative measurement chahiye.
+- **C:** Auscultation systolic aur diastolic dono endpoints identify kar sakti hai. Palpatory estimate har purpose ke liye uska replacement nahi hai.
+- **D:** Usual MAP formula ke liye systolic aur diastolic dono values chahiye. Sirf palpatory systolic estimate se MAP nahi nikal sakte.
 
-**Exam clue:** Palpate systolic first to avoid gap error.
+**Exam clue:** Manual auscultation se pehle palpatory systolic estimate lene se suitable inflation pressure choose karne mein help milti hai.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -333,17 +325,16 @@ Palpatory estimate mein cuff inflate karte hue radial pulse disappearance pressu
 
 **Correct answer: C. Recognize a possible auscultatory gap rather than mistake temporary silence for diastolic pressure**
 
-<!-- job5-rationale -->
-Auscultatory gap mein initial Korotkoff sounds ke baad temporary silence aur phir sounds return hote hain. Agar silence ko final disappearance samajh liya toh DBP falsely high record ho sakta hai. Agar first sounds miss ho gaye toh SBP falsely low aa sakta hai. Palpatory estimate aur controlled deflation se error reduce karo.
+Auscultatory gap ko ek example se samjho. Nurse cuff pressure release kar rahi hai aur pehle tapping sounds sunai deti hain. Phir kuch pressure range mein sounds gayab ho jaati hain, lekin deflation continue karne par wapas sunai deti hain. Is temporary silence ko auscultatory gap kehte hain. Agar nurse ise final disappearance samajh le, toh diastolic reading falsely high record ho sakti hai. Agar shuru ki sounds miss ho jaayein, toh systolic reading falsely low aa sakti hai. Palpatory systolic estimate aur controlled deflation se error ka risk kam hota hai.
 
 **Option-by-option reasoning**
 
-- **A:** Repeated inflation without rest venous congestion badha sakti hai.
-- **B:** Gap alone specific valve diagnosis prove nahi karta.
-- **C:** Temporary silence aur final disappearance distinguish karna correct hai.
-- **D:** Sounds return hone par first silence final DBP nahi hai.
+- **A:** Cuff ko fully deflate kiye bina baar-baar inflate karne se venous congestion aur discomfort badh sakte hain. Approved measurement aur repeat technique follow karo.
+- **B:** Auscultatory gap ek measurement finding hai. Sirf iske basis par particular valve disorder confirm nahi hota.
+- **C:** Temporary silence ke baad sounds return hoti hain, isliye nurse gap ko final disappearance se alag pehchanti hai. Isliye C sahi hai.
+- **D:** Agar sounds wapas aa gayi hain, toh pehli silence final diastolic endpoint nahi thi. Use definite DBP record karna incorrect ho sakta hai.
 
-**Exam clue:** Gap is temporary, phase V final disappearance.
+**Exam clue:** Auscultatory gap temporary silence hai. Routine adult diastolic endpoint usually final disappearance hota hai.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -372,17 +363,16 @@ Auscultatory gap mein initial Korotkoff sounds ke baad temporary silence aur phi
 
 **Correct answer: B. About 2 mmHg per second**
 
-<!-- job5-rationale -->
-Manual cuff pressure approximately 2 mmHg per second reduce karne se individual beats aur sound transitions identify karna easier hota hai. Very slow heart rate mein per-beat adjustment relevant ho sakta hai. Fast release se first ya final sound miss ho sakta hai, excessively slow release discomfort aur congestion cause kar sakta hai.
+Manual BP mein nurse cuff pressure ko controlled speed se kam karti hai, taaki individual heartbeats aur sound transitions clearly identify ho sakein. Standard adult technique mein lagbhag 2 mmHg per second deflation useful hoti hai. Agar heart rate bahut slow hai, toh appropriate per-beat adjustment ki zaroorat ho sakti hai. Bahut fast deflation se systolic ya diastolic endpoint miss ho sakta hai. Bahut slow deflation se patient uncomfortable ho sakta hai aur venous congestion develop ho sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** First sound ke turant baad release karne se diastolic endpoint miss hoga.
-- **B:** About 2 mmHg per second standard technique hai.
-- **C:** 10–15 mmHg per second too fast hai.
-- **D:** 1 mmHg per ten seconds excessively slow hai.
+- **A:** Pehli sound systolic endpoint batati hai. Uske turant baad cuff poora release karne se diastolic endpoint assess nahi ho paayega.
+- **B:** Lagbhag 2 mmHg per second controlled deflation se sounds ke transitions identify karne ka time milta hai. Isliye B sahi hai.
+- **C:** 10–15 mmHg per second bahut fast ho sakti hai. Isse important sound transition miss ho sakta hai.
+- **D:** 1 mmHg per ten seconds excessively slow hai aur cuff compression unnecessarily prolong ho sakti hai.
 
-**Exam clue:** Controlled deflation around 2 mmHg/s.
+**Exam clue:** Routine manual BP mein cuff ko lagbhag 2 mmHg per second ki controlled speed se deflate karo.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -411,17 +401,16 @@ Manual cuff pressure approximately 2 mmHg per second reduce karne se individual 
 
 **Correct answer: A. Phase V, disappearance of sounds**
 
-<!-- job5-rationale -->
-Korotkoff phase I pehle consistent tapping sounds ko represent karti hai aur systolic BP identify karti hai. Phase V final disappearance routine adult diastolic BP endpoint hai. Phase II swishing aur phase III louder sounds intermediate stages hain. Special situation mein sounds zero tak audible rahen toh protocol ke according phase IV muffling aur phase V findings document karo.
+Korotkoff sounds manual BP measurement mein different phases mein change hoti hain. Phase I pehli consistent tapping sound hai aur usual adult systolic pressure represent karti hai. Phase II mein swishing aur phase III mein louder sounds ho sakti hain. Phase V mein sounds finally disappear ho jaati hain, jo routine adult diastolic pressure ka usual endpoint hai. Agar sounds very low pressure ya zero tak persist karein, toh local protocol ke according phase IV muffling aur observed phase V pattern document karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Phase V usual adult diastolic endpoint hai.
-- **B:** Phase I systolic BP hai.
-- **C:** Phase II intermediate sound change hai.
-- **D:** Phase III routine DBP endpoint nahi hai.
+- **A:** Phase V mein sounds disappear hoti hain aur routine adult measurement mein ye usual diastolic endpoint hai. Isliye A sahi hai.
+- **B:** Phase I pehli repeated tapping sound hai, jo usual systolic pressure identify karti hai. Ye diastolic endpoint nahi hai.
+- **C:** Phase II intermediate swishing sounds ka stage hai. Routine diastolic value is stage se identify nahi hoti.
+- **D:** Phase III mein louder sounds ho sakti hain, lekin ye usual adult DBP endpoint nahi hai.
 
-**Exam clue:** I = systolic, V = diastolic.
+**Exam clue:** Korotkoff phase I systolic aur phase V usually adult diastolic pressure batati hai.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -450,17 +439,16 @@ Korotkoff phase I pehle consistent tapping sounds ko represent karti hai aur sys
 
 **Correct answer: D. Document observed muffling and disappearance pattern as appropriate and seek protocol-based interpretation**
 
-<!-- job5-rationale -->
-Kuch situations mein Korotkoff sounds very low cuff pressure ya zero tak audible ho sakte hain. Nurse observed phase IV muffling aur phase V disappearance, ya disappearance absent hone ki finding accurately document kare aur local protocol se interpretation confirm kare. Guess karke numerical value fill karna unsafe hai.
+Kabhi manual BP measurement mein Korotkoff sounds very low cuff pressure ya zero ke paas tak audible rehti hain. Aisi situation mein usual phase V endpoint clearly identify karna mushkil ho sakta hai. Nurse actual sound pattern ko carefully observe karti hai. Phase IV mein sounds muffled, yaani dheemi ya soft ho jaati hain. Nurse observed muffling aur disappearance, ya disappearance na milne ki finding, applicable local protocol ke according record karti hai aur interpretation confirm karti hai. Guess karke diastolic number bharna reliable documentation nahi hai.
 
 **Option-by-option reasoning**
 
-- **A:** Last shift value current measurement ka substitute nahi hai.
-- **B:** Systolic equal diastolic assume karne ka evidence nahi hai.
-- **C:** Peak inflation intentionally systolic se higher hoti hai, DBP nahi.
-- **D:** Observed pattern preserve karke interpretation seek karna correct hai.
+- **A:** Previous shift ki reading clinical comparison ke liye useful hai, lekin current diastolic value ki jagah use nahi kar sakte.
+- **B:** Systolic aur diastolic pressure equal maan lene ka koi evidence nahi hai. Observed pattern accurately document karna chahiye.
+- **C:** Peak inflation pressure intentionally estimated systolic se upar hota hai. Ye diastolic endpoint nahi hai.
+- **D:** Actual muffling aur disappearance pattern record karne aur protocol-based interpretation lene se unusual finding honestly preserve hoti hai. Isliye D sahi hai.
 
-**Exam clue:** Document unusual endpoints, do not invent values.
+**Exam clue:** Atypical Korotkoff endpoints ko clearly document karo. Unmeasured numerical value invent mat karo.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -489,17 +477,16 @@ Kuch situations mein Korotkoff sounds very low cuff pressure ya zero tak audible
 
 **Correct answer: B. Repeat to confirm, document both arms and use the consistently higher arm for later routine readings**
 
-<!-- job5-rationale -->
-Initial assessment mein suitable dono arms ki BP compare ki ja sakti hai. Difference repeat karke confirm karo. Persistently higher reading wali arm routine follow-up ke liye generally preferred hai, aur important difference clinical review maang sakta hai. Acute symptoms ke saath marked difference emergency concern ho sakta hai.
+Initial BP assessment mein jab dono arms suitable hon, toh nurse unki readings compare kar sakti hai. Maan lo ek arm ki reading doosri se higher aayi. Ek single difference se exact vascular cause confirm nahi hota. Nurse standardized technique se repeat karke dekhti hai ki difference persist karta hai ya nahi aur dono readings document karti hai. Routine follow-up mein generally consistently higher reading wali arm use ki jaati hai. Significant persistent difference clinical review maang sakta hai. Agar marked difference acute concerning symptoms ke saath hai, toh urgent evaluation zaroori ho sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Single difference specific obstruction diagnose nahi karta.
-- **B:** Repeat, document aur consistently higher arm use karna appropriate hai.
-- **C:** Lower arm use karne se BP underestimate ho sakti hai.
-- **D:** Persistent difference ko indefinitely average karna recommended comparison strategy nahi hai.
+- **A:** Ek reading ka difference specific acute obstruction prove nahi karta. Clinical context aur further assessment chahiye.
+- **B:** Repeat karke difference confirm karna, dono readings document karna aur consistently higher arm use karna appropriate routine follow-up hai. Isliye B sahi hai.
+- **C:** Lower reading wali arm deliberately choose karne se patient's BP underestimate ho sakta hai.
+- **D:** Persistent difference ko indefinitely average karne se clinically meaningful higher-arm reading chhup sakti hai. Consistent recommended site use karo.
 
-**Exam clue:** Confirm difference, use higher arm for routine follow-up.
+**Exam clue:** Inter-arm difference ko repeat karke confirm karo aur routine follow-up mein consistently higher arm use karo.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -528,17 +515,16 @@ Initial assessment mein suitable dono arms ki BP compare ki ja sakti hai. Differ
 
 **Correct answer: A. Use a suitable alternative arm or approved site rather than routinely compressing the fistula arm**
 
-<!-- job5-rationale -->
-AV fistula artery aur vein ka surgical connection hai jisse dialysis ke liye adequate blood flow milta hai. Routine BP cuff compression access ko unnecessarily compress karta hai. Suitable other arm use karo, aur dono arms unsuitable hon toh approved alternative site aur clinical advice follow karo. Emergency monitoring ko avoid mat karo.
+Arteriovenous fistula ya AV fistula artery aur vein ka surgically banaya gaya connection hai, jisse hemodialysis ke liye sufficient blood flow mil sake. Fistula ko patent aur functional rakhna patient ke treatment ke liye important hai. Routine BP cuff inflate karne se us arm par unnecessary compression pad sakti hai. Nurse suitable opposite arm ya approved alternative site choose karti hai. Agar dono arms unsuitable hain, toh local protocol aur clinical advice se safe measurement arrange karo. Emergency monitoring ko simply skip nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Alternative safe site fistula protect karti hai.
-- **B:** High flow fistula arm select karne ka indication nahi hai.
-- **C:** Double cuffs unnecessary compression create karte hain.
-- **D:** Dialysis patients ko BP monitoring ki zaroorat ho sakti hai.
+- **A:** Suitable alternative site se BP assess ho sakta hai aur fistula arm unnecessary compression se protect rehti hai. Isliye A sahi hai.
+- **B:** Fistula mein high blood flow dialysis access ke liye useful hai. Ye routine BP measurement ke liye us arm ko prefer karne ka indication nahi hai.
+- **C:** Do cuffs lagane se unnecessary compression badhegi. Isse fistula protection nahi hogi.
+- **D:** Dialysis patients mein BP monitoring clinically important ho sakti hai. Suitable alternative site arrange karni chahiye, monitoring omit nahi karni chahiye.
 
-**Exam clue:** Protect access arm, measure elsewhere.
+**Exam clue:** Dialysis fistula wali arm ko protect karo aur BP ke liye approved suitable alternative site use karo.
 
 [Concept reference](https://www.kidney.org/kidney-topics/hemodialysis-access)
 <!-- /job5-rationale -->
@@ -567,17 +553,16 @@ AV fistula artery aur vein ka surgical connection hai jisse dialysis ke liye ade
 
 **Correct answer: D. Assess the patient and verify with suitable alternative measurement and repeated readings**
 
-<!-- job5-rationale -->
-Oscillometric device cuff pressure oscillations analyze karke BP estimate karta hai. Markedly irregular rhythm mein beat-to-beat variation algorithm accuracy affect kar sakti hai. Patient symptoms aur perfusion assess karo, device validation review karo aur suitable repeat manual ya alternative measurement arrange karo. Deteriorating patient mein escalation delay mat karo.
+Oscillometric BP machine cuff ke pressure mein heartbeat se hone wali oscillations analyze karke BP estimate karti hai. Irregular rhythm mein consecutive heartbeats ki timing aur strength change ho sakti hai. Isse kuch devices ka algorithm inconsistent readings de sakta hai. Nurse pehle patient ke symptoms aur perfusion assess karti hai, device ki validation aur cuff fit check karti hai aur suitable repeated manual ya alternative measurement arrange karti hai. Exact rhythm subtype samajhne ke liye ECG evaluation relevant ho sakti hai. Patient deteriorate kar raha ho toh equipment verification ke saath urgent escalation bhi karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Largest value selectively record karna valid measurement nahi hai.
-- **B:** Har automated device arrhythmia ke liye equally validated nahi hai.
-- **C:** BP display rhythm subtype confirm nahi karti, ECG assessment relevant ho sakti hai.
-- **D:** Clinical assessment aur suitable verification best approach hai.
+- **A:** Sirf sabse bada number select karke definitive BP record karna biased measurement hai. Readings ko appropriate technique se verify karo.
+- **B:** Har automated monitor har arrhythmia ke liye equally validated nahi hota. Device ki limitations samajhni chahiye.
+- **C:** BP display se exact electrical rhythm subtype confirm nahi hota. Clinical rhythm assessment aur ECG ki zaroorat ho sakti hai.
+- **D:** Patient assessment aur suitable repeat ya alternative measurement se inconsistent reading verify ki ja sakti hai. Isliye D sahi hai.
 
-**Exam clue:** Irregular rhythm: assess, repeat and verify.
+**Exam clue:** Irregular rhythm mein inconsistent BP aaye toh patient assess karo aur suitable technique se measurement verify karo.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -606,17 +591,16 @@ Oscillometric device cuff pressure oscillations analyze karke BP estimate karta 
 
 **Correct answer: C. Prefer validated upper-arm device when suitable and maintain correct heart-level position for any approved wrist device**
 
-<!-- job5-rationale -->
-Wrist position heart ke relative change hone se hydrostatic pressure error ho sakta hai. Heart se below wrist reading higher aur above lower aa sakti hai. Validated upper-arm monitor generally preferred hai. Agar wrist device clinically suitable aur validated ho toh manufacturer instruction aur heart-level positioning follow karo.
+Wrist BP device ki reading wrist ki height se affect ho sakti hai. Maan lo wrist heart level se neeche hai, toh hydrostatic pressure ki wajah se reading falsely high aa sakti hai. Heart level se upar hone par reading low aa sakti hai. Jab suitable ho, validated upper-arm monitor generally preferred hota hai. Agar approved validated wrist device use karna ho, toh manufacturer instructions follow karke wrist ko correct heart-level position par rakhna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Device upside down karna validated technique nahi hai.
-- **B:** Noninvasive wrist reading direct intra-arterial pressure nahi hai.
-- **C:** Validated upper arm preferred aur approved wrist heart level correct hai.
-- **D:** Lap position heart level se below ho sakti hai.
+- **A:** Device upside down karne se correct measurement establish nahi hoti. Manufacturer ki validated positioning follow karo.
+- **B:** Noninvasive wrist BP ek estimated reading hai. Ye direct intra-arterial pressure measurement ke exactly barabar nahi hai.
+- **C:** Suitable validated upper-arm device prefer karna aur approved wrist device ko heart level par use karna appropriate advice hai. Isliye C sahi hai.
+- **D:** Lap mein wrist heart level se neeche ho sakti hai. Is position mein reading falsely elevate ho sakti hai.
 
-**Exam clue:** Correct device plus heart-level positioning.
+**Exam clue:** Validated device choose karo aur measurement site ko manufacturer instructions ke according heart level par rakho.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -645,17 +629,16 @@ Wrist position heart ke relative change hone se hydrostatic pressure error ho sa
 
 **Correct answer: A. 142/82 mmHg**
 
-<!-- job5-rationale -->
-BP average mein SBP aur DBP separately calculate karte hain. SBP = (146 + 138)/2 = 284/2 = 142 mmHg. DBP = (84 + 80)/2 = 164/2 = 82 mmHg. Isliye average 142/82 mmHg hai. Dono readings same standardized conditions mein honi chahiye.
+BP ka average calculate karte waqt systolic values ka average alag nikalte hain aur diastolic values ka average alag. Yahan pehli reading 146/84 mmHg aur doosri 138/80 mmHg hai. Systolic average ke liye 146 aur 138 add karo, jisse 284 milta hai. Do se divide karne par 142 mmHg aata hai. Diastolic average ke liye 84 aur 80 add karo, jisse 164 milta hai. Do se divide karne par 82 mmHg aata hai. Isliye component-wise average 142/82 mmHg hai. Meaningful comparison ke liye dono readings appropriate standardized conditions mein honi chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** 142/82 dono component averages correct hain.
-- **B:** 146/80 first systolic aur second diastolic mix karta hai.
-- **C:** 140/84 given numbers ka correct average nahi hai.
-- **D:** 284/164 sums hain, divide by two missing hai.
+- **A:** 142 mmHg systolic aur 82 mmHg diastolic values ke correct averages hain. Isliye A sahi hai.
+- **B:** 146/80 mein pehli reading ka systolic aur doosri reading ka diastolic use hua hai. Ye average nahi hai.
+- **C:** 140/84 given systolic aur diastolic values ke correct calculated averages nahi hain.
+- **D:** 284 aur 164 respective values ke sums hain. Average ke liye dono sums ko do se divide karna chahiye.
 
-**Exam clue:** Average each component separately.
+**Exam clue:** BP average mein systolic aur diastolic values ko separately add karke readings ki sankhya se divide karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -682,17 +665,16 @@ BP average mein SBP aur DBP separately calculate karte hain. SBP = (146 + 138)/2
 
 **Correct answer: D. 110 mmHg**
 
-<!-- job5-rationale -->
-MAP cardiac cycle ke dauran arterial pressure ka time-weighted average hai. Regular resting rate par diastole comparatively longer hoti hai, isliye usual approximation DBP + (SBP − DBP)/3 hai. Pulse pressure = 150 − 90 = 60 mmHg. MAP = 90 + 60/3 = 110 mmHg. Severe tachycardia ya altered waveform mein approximation less reliable ho sakti hai.
+Mean arterial pressure ya MAP cardiac cycle ke dauran average arterial pressure ka estimate hai. Regular resting heart rate par diastole comparatively longer hoti hai, isliye usual approximation DBP + pulse pressure/3 use karti hai. Yahan BP 150/90 mmHg hai. Pehle pulse pressure nikaalo, jo 150 − 90 = 60 mmHg hai. Iska one-third 20 mmHg hai. Diastolic pressure 90 mein 20 add karne par approximate MAP 110 mmHg milta hai. Severe tachycardia ya altered arterial waveform mein ye formula less reliable ho sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** 120 simple arithmetic mean hai, usual resting estimate nahi.
-- **B:** 60 pulse pressure hai.
-- **C:** 90 DBP alone hai.
-- **D:** 110 correct estimated MAP hai.
+- **A:** 120 mmHg systolic aur diastolic ka simple average hai. Ye usual resting MAP approximation nahi hai.
+- **B:** 60 mmHg systolic aur diastolic pressure ka difference hai, yaani pulse pressure. Ye MAP nahi hai.
+- **C:** 90 mmHg diastolic BP hai. MAP ke approximate calculation mein pulse pressure ka one-third bhi add hota hai.
+- **D:** 90 + 60/3 = 110 mmHg hai. Isliye D correct approximate MAP hai.
 
-**Exam clue:** MAP ≈ DBP + PP/3.
+**Exam clue:** Ordinary resting rate mein MAP estimate karne ke liye DBP mein pulse pressure ka one-third add karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK538226/)
 <!-- /job5-rationale -->
@@ -721,17 +703,16 @@ MAP cardiac cycle ke dauran arterial pressure ka time-weighted average hai. Regu
 
 **Correct answer: C. Appropriately repeated measurements and clinical confirmation are generally needed**
 
-<!-- job5-rationale -->
-BP time, activity, stress, medicines aur measurement conditions se vary karti hai. Stable adult mein single routine elevated value chronic hypertension establish karne ke liye generally sufficient nahi hoti. Standardized repeat readings aur clinical confirmation, including home or ambulatory monitoring when appropriate, use hote hain. Severe symptomatic elevation urgent assessment maang sakti hai.
+BP ek fixed number nahi hai. Patient ki activity, stress, medicines, time aur measurement conditions ke according reading change ho sakti hai. Maan lo stable adult ka routine office BP ek baar high aaya hai. Nurse correct cuff aur standardized position se repeat readings leti hai aur previous trend aur clinical context check karti hai. Clinician appropriate confirmation ke liye home ya ambulatory BP monitoring use kar sakta hai. Ek high reading ko ignore bhi nahi karna chahiye aur usse automatically chronic hypertension bhi confirm nahi karni chahiye. Severe elevation ke saath concerning symptoms hon toh urgent assessment zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** Office BP standardized ho toh useful hai.
-- **B:** Persistent high readings true elevation represent kar sakti hain.
-- **C:** Repeated measurements aur appropriate confirmation correct approach hai.
-- **D:** Equipment fault ek possibility hai, har elevated BP ko explain nahi karta.
+- **A:** Standardized office BP readings clinical assessment mein useful ho sakti hain. Unhe completely useless maanna sahi nahi hai.
+- **B:** Repeated high readings true persistent elevation represent kar sakti hain. Accurate readings ka low hona compulsory nahi hai.
+- **C:** Appropriate repeat measurements aur clinical confirmation se temporary elevation aur persistent hypertension ko differentiate karne mein help milti hai. Isliye C sahi hai.
+- **D:** Equipment fault ek possible cause hai, lekin har high BP reading ko equipment failure maan lena unsafe ho sakta hai.
 
-**Exam clue:** One routine high reading is not automatically chronic hypertension.
+**Exam clue:** Stable patient ki ek routine high reading ko repeat aur clinically confirm karo. Concerning symptoms hon toh urgent assessment delay mat karo.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -760,17 +741,16 @@ BP time, activity, stress, medicines aur measurement conditions se vary karti ha
 
 **Correct answer: B. Assist to safe position and assess rather than force continued standing**
 
-<!-- job5-rationale -->
-Orthostatic testing mein standing se venous pooling ho sakti hai aur symptomatic patient dizzy ya faint feel kar sakta hai. Marked dizziness par nurse patient ko safe sitting ya lying position mein assist kare, vital signs aur symptoms assess kare aur required escalation kare. Exact interval complete karna patient safety se important nahi hai.
+Orthostatic assessment mein patient ko lying position se standing position mein laakar BP changes check kiye jaate hain. Standing par blood lower body mein pool ho sakta hai aur agar compensation adequate nahi hai, toh patient dizzy ya faint feel kar sakta hai. Yahan patient planned interval complete hone se pehle markedly dizzy ho gaya hai. Nurse use safely sitting ya lying position mein assist karti hai aur symptoms aur vital signs assess karti hai. Zaroorat ke according escalation karti hai aur actual test interruption document karti hai. Fixed time complete karne se zyada important patient ko fall aur injury se protect karna hai.
 
 **Option-by-option reasoning**
 
-- **A:** Unmeasured normal value document karna false charting hai.
-- **B:** Safe position aur prompt assessment fall risk reduce karte hain.
-- **C:** Continued standing syncope ya fall cause kar sakti hai.
-- **D:** Walking provoke karna unsafe hai.
+- **A:** Jo standing reading measure hi nahi hui hai, use normal likhna inaccurate documentation hai. Actual findings aur test interruption record karo.
+- **B:** Safe position mein assist karne aur prompt assessment se syncope aur fall ka risk kam karne mein help milti hai. Isliye B sahi hai.
+- **C:** Marked dizziness ke bawajood standing continue karne se patient faint hokar gir sakta hai. Test ka fixed interval safety se zyada important nahi hai.
+- **D:** Dizzy patient ko symptoms provoke karne ke liye walk karwana fall risk badha sakta hai. Pehle safe position aur assessment chahiye.
 
-**Exam clue:** Stop unsafe test, protect patient, document symptoms.
+**Exam clue:** Orthostatic test mein marked dizziness ho toh unsafe standing rok kar patient ko protect karo aur actual symptoms document karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596728/?report=classic)
 <!-- /job5-rationale -->
@@ -799,17 +779,16 @@ Orthostatic testing mein standing se venous pooling ho sakti hai aur symptomatic
 
 **Correct answer: D. The 11 mmHg diastolic fall meets the usual numerical threshold**
 
-<!-- job5-rationale -->
-Usual orthostatic numerical criterion standing within 3 minutes mein systolic decrease at least 20 mmHg ya diastolic decrease at least 10 mmHg hai. Yahan SBP fall = 132 − 118 = 14 mmHg aur DBP fall = 76 − 65 = 11 mmHg. DBP threshold meet hota hai. Sustained finding aur clinical context review karo, cause confirm karna separate task hai.
+Orthostatic hypotension ka common numerical criterion standing ke teen minute ke andar systolic pressure mein kam se kam 20 mmHg ki fall ya diastolic pressure mein kam se kam 10 mmHg ki fall hai. Dono criteria ek saath meet hona compulsory nahi hai. Yahan supine BP 132/76 aur standing BP 118/65 mmHg hai. Systolic fall 132 − 118 = 14 mmHg hai. Diastolic fall 76 − 65 = 11 mmHg hai. Diastolic change usual threshold meet karta hai. Finding sustained hai ya nahi aur patient ki clinical condition kya hai, ye review karna chahiye. Exact cause further assessment se establish hota hai.
 
 **Option-by-option reasoning**
 
-- **A:** Systolic threshold miss hone par bhi diastolic criterion meet ho sakta hai.
-- **B:** 132 − 118 = 14, not 24.
-- **C:** Numerical criterion specific autonomic disorder prove nahi karta.
-- **D:** 11 mmHg DBP fall usual threshold meet karta hai.
+- **A:** Systolic fall 20 se kam hai, lekin diastolic fall 10 se zyada hai. Isliye koi bhi criterion meet nahi hua, ye statement galat hai.
+- **B:** 132 mein se 118 subtract karne par 14 mmHg aata hai, 24 mmHg nahi.
+- **C:** Numerical threshold meet hone se particular autonomic disorder automatically diagnose nahi hota. Clinical cause separately investigate karna padta hai.
+- **D:** 11 mmHg ki diastolic fall common numerical threshold meet karti hai. Isliye D sahi hai.
 
-**Exam clue:** Either 20 systolic or 10 diastolic fall.
+**Exam clue:** Orthostatic criterion mein systolic 20 mmHg ya diastolic 10 mmHg ki fall ya usse zyada consider ki jaati hai.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596728/?report=classic)
 <!-- /job5-rationale -->
@@ -838,17 +817,16 @@ Usual orthostatic numerical criterion standing within 3 minutes mein systolic de
 
 **Correct answer: C. Site, position, technique and clinical context**
 
-<!-- job5-rationale -->
-Alternative limb site ki readings upper-arm measurement se differ kar sakti hain due to anatomy, cuff fit aur position. Site, side, posture, device, cuff aur relevant clinical situation document karne se future comparison meaningful hota hai. Approved technique use karo aur site-specific interpretation seek karo.
+Agar dono upper arms unsuitable hain, toh nurse local protocol ke according approved alternative limb site par BP measure kar sakti hai. Different sites par anatomy, cuff fit aur position ki wajah se readings upper-arm BP se alag ho sakti hain. Isliye record mein actual site aur side, patient ki position, device, cuff aur technique ke saath relevant clinical context likhna chahiye. Maan lo agli shift ki nurse trend compare karna chahti hai. Site clearly likhi ho toh use pata chalega ki comparison suitable hai ya site-specific interpretation chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Site note kiye bina direct comparison misleading ho sakta hai.
-- **B:** Cuff color technique ya location establish nahi karta.
-- **C:** Site, position, technique aur context correct documentation hain.
-- **D:** Alternative measurement ko upper-arm BP label karna inaccurate hai.
+- **A:** Measurement site note kiye bina different sites ki values directly compare karne se misleading trend ban sakta hai.
+- **B:** Cuff colour se measurement site, technique ya patient ki position establish nahi hoti. Relevant details record karni chahiye.
+- **C:** Site, position, technique aur clinical context record karne se actual measurement transparent rehti hai. Isliye C sahi hai.
+- **D:** Alternative site ki reading ko upper-arm BP label karna inaccurate hai aur future comparison ko affect kar sakta hai.
 
-**Exam clue:** Document exactly how and where BP was measured.
+**Exam clue:** BP jahan aur jis technique se actually measure kiya hai, wahi clearly document karo.
 
 [Concept reference](https://pmc.ncbi.nlm.nih.gov/articles/PMC11409525/)
 <!-- /job5-rationale -->
@@ -877,17 +855,16 @@ Alternative limb site ki readings upper-arm measurement se differ kar sakti hain
 
 **Correct answer: B. Assess clinical condition and verify hemodynamics promptly while escalating concern**
 
-<!-- job5-rationale -->
-BP circulation ka important parameter hai, lekin normal pressure adequate tissue perfusion guarantee nahi karta. Compensatory vasoconstriction early shock mein pressure maintain kar sakti hai. Mental status, skin, capillary refill, pulse, urine output aur relevant clinical findings assess karo. Acute worsening par urgent ABCDE assessment, hemodynamic verification aur escalation karo.
+BP circulation ka important indicator hai, lekin sirf normal pressure se ye confirm nahi hota ki organs tak sufficient oxygenated blood pahunch raha hai. Early shock mein body blood vessels constrict karke pressure kuch samay tak maintain kar sakti hai. Maan lo monitor normal BP dikha raha hai, lekin patient ki mental status kharab ho rahi hai, skin clammy hai aur urine output kam ho raha hai. Ye worsening perfusion ke clues ho sakte hain. Nurse patient ka prompt ABCDE assessment karti hai, pulse, capillary refill aur relevant clinical findings check karti hai, hemodynamic measurement verify karti hai aur urgent help activate karti hai. Monitor ki normal reading ke basis par deterioration ignore nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** BP directly tissue oxygen delivery measure nahi karti.
-- **B:** Clinical deterioration ko prioritize karna aur measurement verify karna correct hai.
-- **C:** Normal displayed BP shock exclude nahi karti.
-- **D:** Routine observation ka wait harm badha sakta hai.
+- **A:** BP arterial pressure measure karta hai. Tissue oxygen delivery blood flow aur oxygen content jaise factors par bhi depend karti hai, isliye BP direct delivery measurement nahi hai.
+- **B:** Patient ki worsening clinical condition ko priority dekar hemodynamics verify karna aur concern escalate karna appropriate hai. Isliye B sahi hai.
+- **C:** Compensation ki wajah se shock mein BP initially normal reh sakta hai. Normal displayed BP shock exclude nahi karti.
+- **D:** Critically unwell patient mein next routine observation tak wait karne se important treatment delay ho sakta hai. Prompt reassessment chahiye.
 
-**Exam clue:** Treat patient perfusion, not monitor number alone.
+**Exam clue:** Patient ki actual perfusion ko monitor number ke saath assess karo. Worsening clinical findings par urgent escalation karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
