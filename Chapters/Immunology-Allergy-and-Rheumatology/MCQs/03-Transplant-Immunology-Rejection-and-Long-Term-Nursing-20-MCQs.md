@@ -517,30 +517,30 @@
 
 </details>
 
-### Q20. A patient after an allogeneic stem-cell transplant develops findings concerning for graft-versus-host disease. Which distinction from solid-organ rejection is essential?
+### Q20. Four weeks after an allogeneic stem-cell transplant, a patient develops a new widespread rash, profuse diarrhoea and rising bilirubin. Which nursing action is most appropriate?
 
 **Difficulty:** Difficult | **Priority:** High Yield | **Exam focus:** NORCET / HPRCA Staff Nurse | **Topic:** Transplant immunology and nursing
 
-- **A.** The recipient's own skin necessarily rejects its own red cells
-- **B.** GVHD is identical to graft vascular thrombosis
-- **C.** Every post-transplant rash is conclusive evidence of GVHD
-- **D.** Donor immune cells may damage recipient organs rather than recipient immunity attacking a donor organ
+- **A.** Attribute the entire presentation to a routine dietary change
+- **B.** Treat the rash as isolated uncomplicated dermatitis without further assessment
+- **C.** Independently discontinue all immunosuppressants
+- **D.** Escalate promptly to the transplant team for possible acute graft-versus-host disease and other causes
 
 <details><summary>Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Donor immune cells may damage recipient organs rather than recipient immunity attacking a donor organ**
+**Correct answer: D. Escalate promptly to the transplant team for possible acute graft-versus-host disease and other causes**
 
-**A kyun galat hai:** Patient ki apni red cells par skin ka attack GVHD mechanism nahi hai.
+**A kyun galat hai:** Dietary change alone rash, severe diarrhoea aur liver abnormality ka combined pattern explain nahi karta.
 
-**B kyun galat hai:** Vascular thrombosis clotting-related problem hai, GVHD immune-cell mediated injury se alag hai.
+**B kyun galat hai:** Skin finding ko isolated dermatitis maan lene se possible multisystem complication miss ho sakti hai.
 
-**C kyun galat hai:** Rash ke multiple causes hain, isliye diagnosis clinical specialist evaluation maangta hai.
+**C kyun galat hai:** Immunosuppressant independently stop karna harmful ho sakta hai aur regimen ka decision specialist team leti hai.
 
-**D kyun sahi hai:** Allogeneic stem-cell graft se donor immune cells recipient mein establish hote hain. Ye host tissues attack kar sakte hain, jo conventional graft rejection ki reverse direction hai.
+**D kyun sahi hai:** Allogeneic transplant ke baad skin, gut aur liver involvement acute GVHD suggest kar sakta hai. Infection aur drug toxicity jaise alternative causes bhi consider karke prompt transplant-team review chahiye.
 
-**Exam clue:** Graft-versus-host aur host-versus-graft ki direction pehchano.
+**Exam clue:** Post-transplant rash plus diarrhoea plus liver abnormalities ko urgent multisystem warning pattern samjho.
 
-**Clinical reference:** [Source A](https://www.merckmanuals.com/professional/immunology-allergic-disorders/transplantation/overview-of-transplantation)
+**Clinical reference:** [Merck Manual — Hematopoietic Stem Cell Transplantation](https://www.merckmanuals.com/professional/hematology/hematopoietic-stem-cell-transplantation/hematopoietic-stem-cell-transplantation)
 
 </details>
 
