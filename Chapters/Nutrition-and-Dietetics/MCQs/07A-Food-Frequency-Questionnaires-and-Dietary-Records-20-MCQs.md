@@ -188,27 +188,27 @@ Yeh bank food frequency questionnaire (FFQ), prospective food records aur indivi
 
 </details>
 
-### Q8. A questionnaire records tea as one eating occasion even when a participant drinks two cups at that occasion. It separately records cups per occasion. How should a nurse estimate the average number of cups consumed?
+### Q8. A local FFQ instructs respondents to report standalone dal and mixed rice-pulse dishes in separate, mutually exclusive categories. A respondent reports the same khichdi meal under both lines. What is the best correction before calculating intake?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Occasions versus portions | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Overlapping FFQ food categories | **Type:** Original practice
 
-- **A.** Count one cup for every occasion regardless of the portion response
-- **B.** Add the number of cups per occasion directly to the weekly occasion frequency
-- **C.** Multiply the reported occasion frequency by the usual cups per occasion
-- **D.** Multiply the occasion frequency by both the cup count and the already calculated total cups
+- **A.** Retain both reports and sum their full nutrient estimates
+- **B.** Remove all pulse-containing dishes from the questionnaire
+- **C.** Clarify the actual meal and apply the questionnaire's inclusion rules so that the dish is counted once
+- **D.** Divide every respondent's total reported food intake by two
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Multiply the reported occasion frequency by the usual cups per occasion**
+**Correct: C. Clarify the actual meal and apply the questionnaire's inclusion rules so that the dish is counted once**
 
-- **A. Incorrect:** Isse do cups wale occasion ko ek cup maan liya jaayega. Actual quantity ka estimate kam ho sakta hai.
-- **B. Incorrect:** Occasions per week aur cups per occasion different units hain. Dono add karne ke bajay multiply karna hota hai.
-- **C. Correct:** Frequency batati hai kitni baar tea pi gayi aur portion batata hai har occasion par kitni cups li gayi. Dono multiply karne se quantity estimate hoti hai. Units ko daily ya weekly basis par consistent rakhna chahiye.
-- **D. Incorrect:** Already calculated total ko phir multiply karne se wahi portions dobara count ho jaayenge. Isse intake overestimate hogi.
+- **A. Incorrect:** Agar same khichdi meal dono lines mein report ho gayi hai toh full nutrient estimates add karne se wahi intake do baar count hogi. Isse participant ki intake falsely high ho sakti hai.
+- **B. Incorrect:** Pulse-containing dishes ko remove karne se actual diet ka useful part miss ho jaayega. Problem food ki presence nahi, same eating event ka duplicate reporting hai.
+- **C. Correct:** Question ke instrument mein categories mutually exclusive hain, yaani same dish sirf appropriate ek category mein record honi chahiye. Nurse respondent se clarify kare ki kaunsi entry same meal ko refer karti hai aur coding instructions follow kare. Agar recipe ingredients separately calculate kiye jaate hain toh unhe full dish ke nutrient total ke saath dobara add nahi karna chahiye.
+- **D. Incorrect:** Har person's total intake ko half karne ka koi basis nahi hai. Sirf confirmed duplicate entry ko correct karna chahiye, baaki genuine food reports preserve hone chahiye.
 
-**Exam clue:** Frequency occasions aur quantity per occasion ko double count mat karo.
+**Exam clue:** Same eating event ko overlapping food categories mein count karne se nutrient estimate inflate ho sakta hai.
 
-**Evidence:** [NCI Dietary Assessment Primer, FFQ analysis](https://epi.grants.cancer.gov/dietary-assessment-primer/learn/software.html), directly retrieved. [Related concepts](../Concepts/13-Dietary-Assessment-FFQ-and-Food-Records.md).
+**Evidence:** [NCI Dietary Assessment Primer, FFQ profile](https://epi.grants.cancer.gov/dietary-assessment-primer/profiles/questionnaire/) and [FAO/WHO GIFT, Recipes and mixed dishes](https://www.fao.org/gift-individual-food-consumption/methodology/data-collation-harmonisation-and-sharing/), directly retrieved. The mutually exclusive coding rule is specified in this hypothetical stem. [Related concepts](../Concepts/13-Dietary-Assessment-FFQ-and-Food-Records.md).
 
 **YouTube MCQ practice:** Verification pending for this specific item.
 
