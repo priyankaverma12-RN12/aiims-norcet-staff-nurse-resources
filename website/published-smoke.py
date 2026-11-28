@@ -51,8 +51,9 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js","quiz.js"):
-        response=api.get(urljoin(base,filename)+"?v="+("11.9.1" if filename=="app.js" else "11.8" if filename in ("progress.js","study-ui.js") else "11.9")+"&build="+commit,headers={"Cache-Control":"no-cache"})
+    asset_versions={"styles.css":"11.9","app.js":"11.9.2","progress.js":"11.8","routine.js":"11.9","study-ui.js":"11.8","quiz.js":"11.9","media.js":"11.9.2","favicon.svg":"1"}
+    for filename,version in asset_versions.items():
+        response=api.get(urljoin(base,filename)+"?v="+version+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
         print("Published versioned asset exact readback:",filename,flush=True)
     api.dispose()
@@ -68,9 +69,8 @@ with sync_playwright() as p:
             assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth+2"),"Horizontal overflow"
         page.goto(base+"?build="+commit)
         expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
-        for filename in ("styles.css","app.js","progress.js","routine.js","study-ui.js","quiz.js"):
-            version="11.9.1" if filename=="app.js" else "11.8" if filename in ("progress.js","study-ui.js") else "11.9"
-            assert page.evaluate("""([name,version])=>[...document.querySelectorAll('script[src],link[rel=stylesheet]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')===version})""",[filename,version]), f"Wrong live asset version: {filename}"
+        for filename,version in asset_versions.items():
+            assert page.evaluate("""([name,version])=>[...document.querySelectorAll('script[src],link[rel=stylesheet],link[rel=icon]')].some(e=>{const u=new URL(e.src||e.href);return u.pathname.endsWith('/'+name)&&u.searchParams.get('v')===version})""",[filename,version]), f"Wrong live asset version: {filename}"
         expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 50 MCQs")
         expect(page.locator(".study-day")).to_have_count(7)
         expect(page.locator(".study-day-date")).to_have_count(7)
