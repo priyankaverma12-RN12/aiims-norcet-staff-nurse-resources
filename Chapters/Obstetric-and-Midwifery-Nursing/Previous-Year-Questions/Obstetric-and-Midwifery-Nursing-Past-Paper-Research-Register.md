@@ -89,3 +89,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## BPP — 28 November 2026
 
 [NORCET 9 Mains 27 September 2025 reported-key discrepancy adaptation](06F-BPP-Reported-Evidence.md). Direct third-party item retrieved. The reported 10% false-negative answer conflicts with standard teaching and is not adopted. Official key unavailable. Historical adaptation inventory 24. MCQ-oriented BPP description indexed, exact playback pending.
+
+## Obstetric ultrasound — 28 November 2026
+
+[RMLIMS Lucknow 7 September 2025 memory-based adaptation](06G-Ultrasound-Reported-Evidence.md). Reported 18–20 weeks contextualized against broader clinical window. Official key unavailable. Historical adaptation inventory 25. MCQ-oriented anomaly-scan topic indexed, exact playback pending.
