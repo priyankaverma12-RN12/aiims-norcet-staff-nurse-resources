@@ -36,7 +36,9 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - Passenger — fetal factors: [Concepts](07E-Passenger-Fetal-Factors.md) · [20 originals](../MCQs/07E-Passenger-Fetal-Factors-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07E-Passenger-Fetal-Factors-Evidence.md). Published, independent review pending.
   - Passage — maternal pelvis: [Concepts](07F-Passage-Maternal-Pelvis.md) · [20 originals](../MCQs/07F-Passage-Maternal-Pelvis-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07F-Passage-Maternal-Pelvis-Evidence.md). Published, independent review pending.
   - Mechanism and cardinal movements: [Concepts](07G-Mechanism-and-Cardinal-Movements.md) · [20 originals](../MCQs/07G-Mechanism-and-Cardinal-Movements-20-MCQs.md) · [Reported adaptation and evidence](../Previous-Year-Questions/07G-Mechanism-and-Cardinal-Movements-Evidence.md). Published, independent review pending.
-  - Maternal-fetal assessment, partograph, WHO Labour Care Guide and nursing management: pending.
+  - Maternal-fetal intrapartum assessment: [Concepts](07H-Maternal-Fetal-Intrapartum-Assessment.md) · [20 originals](../MCQs/07H-Maternal-Fetal-Intrapartum-Assessment-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07H-Maternal-Fetal-Intrapartum-Assessment-Evidence.md). Published, independent review pending.
+  - Traditional and modified partograph: [Concepts](07I-Partograph.md) · [20 originals](../MCQs/07I-Partograph-20-MCQs.md) · [Reported adaptation and evidence](../Previous-Year-Questions/07I-Partograph-Evidence.md). Published, independent review pending.
+  - WHO Labour Care Guide and nursing management: pending.
 - partograph and delivery
 - hypertensive disorders
 - antepartum hemorrhage
