@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: FREE
-Owner: none
-Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: continuation-pr60-b06-20261128T104844Z
+Scope: PR60 new alcohol-associated liver disease and distinct hepatobiliary complications banks only, no shared navigation or existing question edits.
+Claimed UTC: 2026-11-28T10:48:44Z
+Expiry UTC: 2026-11-28T11:18:44Z
 
 ## Released checkpoint — 28 November 2026
 
