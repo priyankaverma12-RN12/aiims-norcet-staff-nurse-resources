@@ -1,5 +1,17 @@
 # Nursing Management and Education manual claim
 
+State: FREE
+Owner: none
+Scope: no active write lease; continue existing PR40 only after fresh coordination.
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr40-staffing-concepts-20261128T1156Z after exact readbacks. PR40 checkpoint `29a234f1fdbb5cf6d17d02dc98306cb31ec80b5c`. Added staffing concept and direct bank cross-link, preserved all 100 staged originals/400 rationales and prior corrections. Prior head CI 46140876338 passed; new head CI and independent review, video, remaining concept, navigation, semantic and rendering gates pending. No new live content. Other sessions and five hourly automations preserved.
+
+Prior lease history:
+
+# Nursing Management and Education manual claim
+
 State: CLAIMED
 Owner: integration-pr40-staffing-concepts-20261128T1156Z
 Scope: isolated PR40 staffing and delegation concept guide and direct bank cross-link only. Preserve prior five corrections and all question identities. No shared navigation or clinical main publication.
