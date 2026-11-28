@@ -38,3 +38,9 @@ Batch 02 partial: 20 new originals and 80 separate option rationales. Cumulative
 [20 Elder Abuse and Safeguarding MCQs](08-Elder-Abuse-and-Safeguarding-20-MCQs.md) · [Detailed notes](../Concepts/Elder-Abuse-and-Safeguarding.md) · [Original pathway](../Assets/elder-safeguarding-response.svg)
 
 Cumulative Batch 02 staged: 40 originals and 160 rationales. Cumulative across batches: 140 originals and 560 rationales, four legacy original questions unchanged. Two new guides and two SVGs. No live credit. Direct WHO and PIB source checks, NICE indexed only (403 direct), Level Up RN publisher quiz marker but no playback or exact MCQ confirmation. NPHCE diagram label corrected to primary/secondary care. Remaining Batch 02: continence, rehabilitation, caregiver support. Independent clinical, legal applicability, complete semantic audit, preflight and PR8 release pending.
+
+## Batch 02 partial candidate — continence and bowel care
+
+[20 Continence and Bowel Care MCQs](06-Continence-and-Bowel-Care-20-MCQs.md) · [Detailed concepts](../Concepts/Continence-and-Bowel-Care-in-Older-Adults.md) · [Original SVG](../Assets/continence-assessment-pathway.svg)
+
+Cumulative Batch 02: 60 originals, 240 rationales, three guides and three SVGs. Across batches: 160 staged originals, 640 rationales plus four legacy originals. No live count. Targeted task comparison against Foundations 09 (20), 09A (26), 14 (20), Renal assessment (30) and Geriatric starter (4) performed before authoring. Full semantic and clinical independent review, full preflight, sources and video playback pending. Remaining rehabilitation and caregiver support.
