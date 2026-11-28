@@ -908,3 +908,10 @@ body{font-family:var(--ui-font)}
 /* Keep icon hit areas stable throughout reader entry and narrow flex layout. */
 #metrics-filter-toggle,.mobile-reader-controls .panel-icon{box-sizing:border-box;flex:0 0 44px;min-width:44px;min-height:44px;width:44px;height:44px;transform:none}
 @media(max-width:600px){#reader>.reader-head{animation:none}.mobile-reader-controls{align-items:center}}
+
+/* V12.5 — dedicated Library workspace; Home is a study dashboard. */
+#library[hidden]{display:none!important}
+#library .library-toolbar{margin:0 0 .5rem;min-height:44px}
+#library .library-toolbar h1{flex:1;min-width:0;margin:0;font-family:var(--ui-font);font-size:var(--ui-heading);font-weight:800;letter-spacing:-.035em;line-height:1.2;overflow-wrap:anywhere}
+#home #library-overview,#home #daily-panel,#home #recent-panel,#home #saved-panel{margin:.4rem 0 .65rem}
+#library .panel-icon{min-height:44px;min-width:44px;flex:0 0 44px}
