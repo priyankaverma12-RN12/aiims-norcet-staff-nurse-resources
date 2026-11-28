@@ -129,32 +129,34 @@ Treponema pallidum syphilis ka causative bacterium hai.
 
 </details>
 
-### Q6. Which common STI can be prevented by vaccination against its causative virus?
+### Q6. What does ICTC stand for in India's HIV service network?
 
 **Difficulty:** Easy | **Priority:** High | **Topic:** HIV-STI programme and service linkage | **Type:** Original practice
 
-- **A.** Gonorrhoea
-- **B.** Hepatitis B
-- **C.** Syphilis
-- **D.** HIV infection
+- **A.** Intensive Cardiac Treatment Centre
+- **B.** Integrated Counselling and Testing Centre
+- **C.** Infection Control Training Committee
+- **D.** Integrated Childhood Tuberculosis Clinic
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Hepatitis B**
+**Correct: B. Integrated Counselling and Testing Centre**
 
-HBV sexual transmission se bhi spread ho sakta hai aur effective vaccine available hai.
+ICTC Integrated Counselling and Testing Centre hai; yahan HIV counselling, testing aur appropriate referral services provide ki jaati hain.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Gonorrhoea ke liye routine licensed preventive vaccine available nahi hai.
-- **C.** Syphilis ke liye licensed routine vaccine nahi hai.
-- **D.** HIV ke liye licensed preventive vaccine available nahi hai.
+- **A.** Cardiac treatment centre HIV testing service ka official expansion nahi hai.
+- **C.** Infection control training committee alag health-system function describe karti hai.
+- **D.** Childhood TB clinic TB services se related hai, ICTC ka meaning nahi hai.
 
-**Exam clue:** HBV vaccination is a sexual-health prevention measure.
+**Exam clue:** Identify the HIV counselling and testing service point.
 
 </details>
 
 ## Study sources
+- https://naco.mohfw.gov.in/division/basic-services/hiv-counselling-testing-services/
+- https://www.who.int/news-room/fact-sheets/detail/syphilis
 - https://www.who.int/westernpacific/newsroom/fact-sheets/detail/hiv-aids
 - https://www.who.int/publications/i/item/B09471
 - https://sochtraining.naco.gov.in/about.html
