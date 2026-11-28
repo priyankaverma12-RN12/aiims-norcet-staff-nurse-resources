@@ -1,10 +1,10 @@
 # Geriatric Nursing manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: geriatric-pr39-batch02-20261128-0618Z
+Scope: PR39 branch candidate-only new Geriatric continence, rehabilitation, elder safeguarding, caregiver support, NPHCE topic banks and concept/evidence assets; no PR8 shared navigation edits or main merge
+Claimed UTC: 2026-11-28T06:18:25Z
+Expiry UTC: 2026-11-28T06:48:25Z
 
 Last owner: geriatric-priority-20261128-0540Z. Active write lease released. Geriatric chapter candidate remains reserved under open draft PR #39, branch `geriatric-priority-20261128`. Coordinate before resuming or claiming overlapping work; do not restart or merge an unreviewed candidate.
 
