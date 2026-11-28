@@ -1,9 +1,20 @@
 # Independent NORCET coverage-gap claim
 
-State: CLAIMED
-Owner: coverage-gap-hematology-20261128-032114
-Scope: Hematology and Blood Disorders only, first blood-cell and CBC interpretation bank, chapter-local question inventory and evidence register. No theory, website, shared index, other jobs or automation edits.
-Claimed UTC: 2026-11-28T03:21:14Z
-Expiry UTC: 2026-11-28T03:51:14Z
+State: FREE
+Owner: none
 
-Baseline: 4 original starter slots, 0 published full mocks, 0 question-level PYQs in chapter. Main observed f8912584b24dc4b1272e0ad388626b4a64f845ec. Forward Foundations and Renal, reverse GK, audit Respiratory, metadata/explanations Foundations, manual OBG/Gynecology and Eye/ENT mock-only scopes preserved. PR8/12 branches untouched. PR8 navigation may overlap chapter README, so use new chapter-local MCQ/evidence files and checkpoint, defer shared navigation writes if conflict remains. Eye/ENT external semantic reviewer must screen subsequent new bank against staged mock if relevant. No other owner may be displaced. Before every write recheck own claim, target path and remote activity. Release on controlled stop.
+Last owner: coverage-gap-hematology-20261128-032114
+Last scope: Hematology and Blood Disorders only. Released on controlled stop after verified writes.
+
+## Verified checkpoint — 28 November 2026
+
+- Initial claim commit: 57b87cf0e48c8a18f39207713d2216376e896b97.
+- 30 original diagnostic MCQs: a4ed091651f7592587dbec211471bfc2263a3db1.
+- 1 separately classified HPRCA reported-concept adaptation: a5745eb32b538b92471975f62bd03bc1012717ad.
+- Chapter-local inventory: 35ce2352c3b3e7d1a48d3d5e778978fe1d05cbe9.
+- All three exact remote readbacks passed. Chapter: 34 original slots including four existing starters, one adaptation, zero authenticated official verbatim PYQs, zero full mocks.
+- [Chapter-local inventory](../Chapters/Hematology-and-Blood-Disorders/MCQs/Hematology-Question-Inventory.md).
+
+## Next safe scope
+
+Recheck all claims, recent commits, rules, PR8/12 and other open work. If Hematology remains unclaimed, continue hemostasis and coagulation diagnostics 30–40 original questions, then anemia and remaining topic banks. Continue bounded read-only inventory of all 36 chapter directories. No new mocks before completing topic banks. Record exact YouTube practice verification and all-India official paper/key evidence gaps. Audit log retrieved in full and relevant portions reviewed, not an exhaustive line-by-line sign-off. Full cross-repository semantic review pending. PR8 navigation coordination unresolved, so chapter-local inventory updated without changing existing README, mock plan, theory, global navigation, website, learner history, other claims or automations. Do not overwrite any subsequent owner.
