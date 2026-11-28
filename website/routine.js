@@ -26,6 +26,26 @@ function dailyStudyStats(d,marks,day=localDay()){
  for(const [p,n] of Object.entries(manual)){marked+=n;extra+=Math.max(0,n-(Array.isArray(actual[p])?new Set(actual[p]).size:0))}
  return {answered,marked,extra,topics:topics.size,total:answered+extra};
 }
+// Calendar totals use the same daily deduplication as the home goal.
+// Keep recorded dates indefinitely; old pruned dates cannot be reconstructed.
+function calendarStudyStats(d,marks,today=localDay()){
+ const monday=offsetDay(today,-((new Date(today+'T12:00:00').getDay()+6)%7));
+ const month=today.slice(0,7),dates=new Set(Object.keys(d.days||{}));
+ for(const m of Object.values(marks||{}))if(m&&m.mode!=='pending'&&typeof m.at==='string'&&Number.isFinite(new Date(m.at).getTime())&&Number.isSafeInteger(m.slots)&&m.slots>0)dates.add(localDay(new Date(m.at)));
+ const sum=()=>({answered:0,extra:0,total:0,activeDays:0});
+ const add=(a,b)=>{a.answered+=b.answered;a.extra+=b.extra;a.total+=b.total;if(b.total>0)a.activeDays++};
+ const daily=sum(),weekly=sum(),monthly=sum(),months={};
+ for(const date of [...dates].sort()){
+  if(!/^\d{4}-\d{2}-\d{2}$/.test(date)||date>today||!Number.isFinite(new Date(date+'T12:00:00').getTime())||localDay(new Date(date+'T12:00:00'))!==date)continue;
+  const stats=dailyStudyStats(d,marks,date);
+  if(!stats.total)continue;
+  const key=date.slice(0,7);add(months[key]||=(sum()),stats);
+  if(date===today)add(daily,stats);
+  if(date>=monday)add(weekly,stats);
+  if(key===month)add(monthly,stats);
+ }
+ return {daily,weekly,monthly,months,monday,today};
+}
 function dailyGoalFeedback(count){
  const remaining=Math.max(0,DAILY_MCQ_GOAL-count),percent=Math.floor(100*count/DAILY_MCQ_GOAL);
  if(count>DAILY_MCQ_GOAL)return {title:'Hurrah! Goal exceeded!',message:'You studied '+count+' MCQs today — '+(count-DAILY_MCQ_GOAL)+' beyond your goal. Review what you learned and take a well-earned break.',remaining,percent,level:'complete'};
@@ -43,7 +63,7 @@ function updateRoutine(d,p,items,answers,day=localDay()){
  const valid=new Set(items.map(practiceKey));for(const key of Object.keys(bank.questions))if(!valid.has(key))delete bank.questions[key];
  const ids=new Set(d.days[day]?.[p]||[]);let changed=false;
  for(const q of items){const answer=answers[q.id];if(!['A','B','C','D'].includes(answer))continue;const key=practiceKey(q),right=answer===q.key;ids.add(key);bank.questions[key]={right,due:offsetDay(day,right?3:1)};changed=true}
- if(changed){bank.total=items.length;bank.last=day;d.banks[p]=bank;(d.days[day]||={})[p]=[...ids];for(const date of Object.keys(d.days))if(date<offsetDay(day,-34))delete d.days[date]}
+ if(changed){bank.total=items.length;bank.last=day;d.banks[p]=bank;(d.days[day]||={})[p]=[...ids]}
  return {changed,before,after:routineCount(d,day),goal:d.goal};
 }
 function recordRoutine(p,items,answers){const d=loadRoutine(),marks=currentStudyMarks(),day=localDay(),before=dailyStudyStats(d,marks,day).total,result=updateRoutine(d,p,items,answers,day);const saved=!result.changed||saveRoutine(d);if(result.changed&&saved&&typeof document!=='undefined')document.dispatchEvent(new CustomEvent('study-progress-change'));return {...result,goal:DAILY_MCQ_GOAL,before,after:dailyStudyStats(d,marks,day).total,saved}}
@@ -82,4 +102,4 @@ function drawRoutine(data){
  const mistakes=records.map(f=>({f,n:(f.questionKeys||[]).filter(k=>d.banks[f.path]?.questions?.[k]?.right===false).length})).filter(x=>x.n>0).sort((a,b)=>b.n-a.n);if(mistakes.length){const card=node('a',undefined,'daily-action mistakes-action');card.href=route(mistakes[0].f.path)+'&session=mistakes';card.append(node('strong','Learn from your mistakes'),node('span',knownTitle(mistakes[0].f.path)),node('small',mistakes[0].n+' questions to try again →'));actions.append(card)}
  const progressLink=node('a','View my chapter and topic progress →','daily-progress-link');progressLink.href='./?progress=1';panel.append(actions,progressLink,node('p','Today’s goal includes questions answered here and questions you mark done. We do not add the same bank twice. Undoing or resetting a mark removes its manual credit; actual answer history stays. Progress is saved on this browser.','daily-note'));
 }
-if(typeof module!=='undefined')module.exports={localDay,offsetDay,emptyRoutine,routineCount,updateRoutine,bankProgress,quickItems,practiceKey,missedItems,dailyStudyStats,dailyGoalFeedback,DAILY_MCQ_GOAL,loadRoutine,saveRoutine,currentRevisionCount};
+if(typeof module!=='undefined')module.exports={localDay,offsetDay,emptyRoutine,routineCount,updateRoutine,bankProgress,quickItems,practiceKey,missedItems,dailyStudyStats,dailyGoalFeedback,DAILY_MCQ_GOAL,loadRoutine,saveRoutine,currentRevisionCount,calendarStudyStats};
