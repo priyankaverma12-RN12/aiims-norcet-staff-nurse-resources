@@ -372,31 +372,31 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 </details>
 
-### Q14. A patient with new painful vulvar ulcers has possible genital herpes. Which lesion-sampling approach is most appropriate while fresh lesions are present?
+### Q14. A patient with confirmed recurrent genital HSV-2 has frequent painful outbreaks that affect daily life. Which counseling is appropriate when discussing clinician-prescribed treatment options?
 
-**Difficulty:** Difficult · **Priority:** 🔴 Very High · **Evidence:** Original clinical practice, not PYQ
+**Difficulty:** Difficult · **Priority:** 🔴 Very High · **Evidence:** Original practice, not PYQ
 
-- **A.** Send a lesion swab for HSV nucleic-acid amplification testing when available
-- **B.** Diagnose HSV solely from a routine urine culture
-- **C.** Wait until every ulcer has healed before collecting a lesion sample
-- **D.** Use a Pap smear as the primary test for active genital herpes
+- **A.** Discuss daily suppressive oral antiviral therapy to reduce recurrences and explain that it does not eradicate latent HSV
+- **B.** Explain that topical antifungal cream permanently removes HSV from sensory ganglia
+- **C.** Advise stopping all antiviral therapy because recurrence is always harmless
+- **D.** Promise that suppressive treatment completely eliminates viral shedding and all transmission risk
 
-<details><summary>Answer aur detailed Hinglish A–D explanation</summary>
+<details><summary>Correct answer and detailed A–D Hinglish explanation</summary>
 
-**Correct: A. Send a lesion swab for HSV nucleic-acid amplification testing when available**
+**Correct: A. Discuss daily suppressive oral antiviral therapy to reduce recurrences and explain that it does not eradicate latent HSV**
 
-**Correct kyun?** HSV NAAT/PCR from a fresh lesion is the preferred sensitive direct test when available; a negative test does not completely exclude infection if lesions are old. Simple language mein: symptom ko repeat karne ke bajay next clinical decision test kar rahe hain.
+**Clinical reason:** Frequent genital HSV-2 recurrences mein doctor daily oral acyclovir ya valacyclovir jaise suppressive treatment discuss kar sakte hain. Isse attacks aur transmission risk kam ho sakte hain, lekin virus permanently khatam nahi hota. Patient ke goals, pregnancy status, kidney function aur prescription ke according plan banta hai.
 
-**Har option ka clinical reason:**
+**Har option samjho:**
 
-- **A. Send a lesion swab for HSV nucleic-acid amplification testing when available:** HSV NAAT/PCR from a fresh lesion is the preferred sensitive direct test when available; a negative test does not completely exclude infection if lesions are old.
-- **B. Diagnose HSV solely from a routine urine culture:** Routine urine culture detects urinary bacteria, not HSV in vulvar lesions.
-- **C. Wait until every ulcer has healed before collecting a lesion sample:** Sampling fresh lesions improves diagnostic yield; waiting until healing can lower sensitivity.
-- **D. Use a Pap smear as the primary test for active genital herpes:** Pap cytology is for cervical screening, not an appropriate diagnostic test for active genital HSV.
+- **A. Discuss daily suppressive oral antiviral therapy to reduce recurrences and explain that it does not eradicate latent HSV:** Yeh recurrent HSV management ka correct counseling point hai. Daily suppressive therapy frequent outbreaks ko reduce kar sakti hai, par lifelong latent infection cure nahi hota.
+- **B. Explain that topical antifungal cream permanently removes HSV from sensory ganglia:** Antifungal cream fungal infection ke liye hoti hai. HSV ek virus hai jo latent rehta hai, isliye topical antifungal isko eradicate nahi karti.
+- **C. Advise stopping all antiviral therapy because recurrence is always harmless:** Frequent outbreaks pain, distress aur transmission risk badha sakte hain. Individualized clinician-prescribed antiviral treatment discuss karna appropriate hai.
+- **D. Promise that suppressive treatment completely eliminates viral shedding and all transmission risk:** Suppressive therapy transmission ka risk reduce kar sakti hai, lekin zero risk guarantee nahi hoti. Condoms aur outbreaks ke time sexual contact avoid karne ki counseling bhi chahiye.
 
-**Nursing responsibility:** Privacy, informed consent, examination/referral aur red flags ko document karo.
+**Nursing application:** Patient ke outbreaks ki frequency, distress, adherence, kidney disease aur pregnancy considerations note karo. Treatment decision prescribing clinician ke saath shared decision-making se hota hai.
 
-**Clinical reference:** [Guidance](https://www.cdc.gov/std/treatment-guidelines/herpes.htm). **Historical PYQ/video evidence:** Not verified.
+**Clinical reference, directly checked:** [CDC Genital Herpes Treatment Guidelines](https://www.cdc.gov/std/treatment-guidelines/herpes.htm), recurrent HSV-2 and suppressive therapy sections. **Exam/video provenance:** Not independently verified.
 
 </details>
 
