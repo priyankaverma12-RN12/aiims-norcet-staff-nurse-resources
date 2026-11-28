@@ -65,3 +65,7 @@ Banks 05 and 06, Q1–20 each, reviewed. Three overlapping tasks replaced with m
 ## Batch 08 inferential statistics and research ethics
 
 Banks 07 and 08 reviewed, three learning tasks revised, 37 exam clues and related references added, earlier ethics Q3/Q7/Q19 preserved byte-for-byte. Nine numerical recalculations passed. Fresh complete structural verification: 300 distinct normalized stems, 1200 options and rationales, 300 hidden answers, balanced keys, zero structural errors. [Batch 08 corrective audit](../Concepts/Batch-08-Inferential-Statistics-and-Ethics-Corrective-Audit.md). Inventory unchanged at 307 candidate slots. No live publication or mocks credited. Independent review and remaining gates pending.
+
+## Batch 09 evidence-based practice and research appraisal
+
+Banks 09 and 10 reviewed, three distinct replacement learning tasks and one trial-registration timing refinement, 37 exam clues and related references added. Earlier EBP Q12/Q13/Q20 preserved byte-for-byte. Fresh 300-question structural verification passed with balanced keys, 1200 options and rationales, zero normalized-stem duplicates and no structural errors. [Batch 09 corrective audit](../Concepts/Batch-09-EBP-and-Research-Appraisal-Corrective-Audit.md). Inventory remains 307 candidate slots. Independent review and publication gates pending. No new mock or live count credited.
