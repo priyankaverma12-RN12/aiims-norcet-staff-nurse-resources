@@ -76,3 +76,7 @@ Every completed learning session displays score, percentage, correct and incorre
 ### V10.4 — daily 50-MCQ goal
 
 The daily goal is fixed at 50 MCQs, replacing the old selector. Existing browser activity, marks and revision history survive the change; legacy goals normalize to 50 on read/save. The actual daily total continues beyond 50 and is shown separately from the goal bar. Motivational feedback and 10/25/40/50 milestones reflect actual study activity; weekly totals use the same counts. Daily totals combine checked questions and additional manually marked questions without counting the same bank twice in a day. Repeated questions in different banks may still overlap. No score or clinical content changes.
+
+### V10.5 — theory topic counts
+
+Library and home show theory totals and completed counts. Theory shortcuts, directory cards, reader tabs, chapter summaries, Metrics and Progress use the same published Theory document classification. One eligible theory document equals one topic, not a count of headings. Drafts, indexes and research notes are excluded; embedded MCQs retain their separate question count. Metrics adds a Theory filter and cards without duplicating documents already listed for embedded questions in the default view. Tests verify counts, exact destinations and live completion changes. Existing question and progress data stay compatible.
