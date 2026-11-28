@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 404 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate aur 20 NST MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 424 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST aur 20 CST MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -23,6 +23,7 @@
 | Fetal movements and reduced movements | [Detailed concepts and 2026 RCOG pathway](Concepts/06A-Fetal-Movements-and-Reduced-Movements.md) · [20 original MCQs](MCQs/06A-Fetal-Movements-and-Reduced-Movements-20-MCQs.md) · [HSSC reported practice](Previous-Year-Questions/06A-Fetal-Movements-Reported-Evidence.md) |
 | Fetal heart rate | [Concepts](Concepts/06B-Fetal-Heart-Rate-and-Intermittent-Auscultation.md) · [20 original MCQs](MCQs/06B-Fetal-Heart-Rate-and-Intermittent-Auscultation-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06B-Fetal-Heart-Rate-Reported-Evidence.md) |
 | Nonstress test | [Concepts](Concepts/06C-Nonstress-Test-NST.md) · [20 original MCQs](MCQs/06C-Nonstress-Test-NST-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06C-NST-Reported-Evidence.md) |
+| Contraction stress test | [Concepts](Concepts/06D-Contraction-Stress-Test-CST.md) · [20 original MCQs](MCQs/06D-Contraction-Stress-Test-CST-20-MCQs.md) · [SKAU 2026 official-source adaptation](Previous-Year-Questions/06D-CST-Exam-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -92,3 +93,7 @@ Ab fetal heart rate aur intermittent auscultation ke 20 naye originals, 80 optio
 ## Verified NST expansion — 28 November 2026
 
 Ab 20 NST originals, 80 individual option explanations, two original diagrams aur ek AIIMS Bathinda 2019 reported adaptation publish hue hain. Current Obstetrics inventory 404 originals aur 21 reported adaptations hai. CST next hai. Independent clinical and semantic review, exact video playback aur official historical keys pending hain.
+
+## Verified CST expansion — 28 November 2026
+
+Ab 20 CST originals, 80 individual option explanations, ek original flowchart aur ek official-paper/provisional-key-traced SKAU Staff Nurse 22 November 2026 Set C Q62 adaptation publish hue hain. Current Obstetrics inventory 424 originals aur 22 historical adaptations hai. CTG next hai. Final historical key status, independent clinical/semantic review aur exact video playback pending hain.
