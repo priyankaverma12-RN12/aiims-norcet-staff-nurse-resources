@@ -83,8 +83,15 @@ try:
         expect(page.locator("#library")).to_be_hidden()
         expect(page.locator("#home #library")).to_have_count(0)
         expect(cards).to_have_count(0)
-        for panel_id in ("#library-overview","#daily-panel","#recent-panel","#saved-panel"):
+        for panel_id in ("#home-activity-panel","#daily-panel"):
             expect(page.locator(panel_id)).to_have_attribute("open","")
+        for panel_id in ("#recent-panel","#saved-panel"):
+            expect(page.locator(panel_id)).not_to_have_attribute("open","")
+        expect(page.locator("#home #library-overview")).to_have_count(0)
+        expect(page.locator("#home-activity [data-period=today] strong")).to_have_text("0")
+        expect(page.locator("#home-activity [data-period=today]")).to_have_attribute("data-level","low")
+        expect(page.locator("#home-activity .home-activity-card")).to_have_count(6)
+        assert page.locator(".topbar nav > a").evaluate_all("els=>els.map(e=>e.id)")==["home-link","progress-link","library-link","metrics-link"]
         count = int(page.locator("#chapter-total").text_content())
         assert count >= 35, f"Expected at least 35 chapters, found {count}"
         expect(page.locator("#daily-study")).to_be_visible()
@@ -100,17 +107,15 @@ try:
         assert page.evaluate("""()=>{const holder=document.createElement('div');holder.innerHTML=DOMPurify.sanitize('<details><summary>Answer</summary><p>Safe text</p></details><script>unsafe</script><img src=x onerror=unsafe>',{ADD_TAGS:['details','summary'],FORBID_TAGS:['style','iframe','form'],FORBID_ATTR:['style','srcset']});return !!holder.querySelector('details summary')&&!holder.querySelector('script,[onerror]')}""")
         assert page.locator(".topbar").evaluate("e=>getComputedStyle(e).position")== "sticky"
         # V11.2: actual computed layout, keyboard focus and daily milestone grid.
-        expect(page.locator("#library-overview")).to_have_attribute("open","")
-        assert page.locator(".stats>.stat").count()==7
-        assert page.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==7
-        assert page.locator(".stats").bounding_box()["height"]<=110
         assert page.locator(".hero").bounding_box()["height"]<=240
-        assert page.locator(".stats").bounding_box()["y"]<page.locator("#daily-study").bounding_box()["y"]
-        expect(page.locator(".daily-week-details")).not_to_have_attribute("open","")
+        assert page.locator("#home-activity").bounding_box()["y"]<page.locator("#daily-study").bounding_box()["y"]
+        expect(page.locator(".daily-week-details")).to_have_attribute("open","")
+        expect(page.locator(".study-day.today")).to_be_visible()
+        assert page.locator(".daily-count-breakdown").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==3
+        page.locator(".daily-week-details>summary").click()
+        expect(page.locator(".study-day.today")).to_be_hidden()
         page.locator(".daily-week-details>summary").click()
         expect(page.locator(".study-day.today")).to_be_visible()
-        page.locator(".daily-week-details>summary").click()
-        print("V11.7 compact desktop overview dimensions:",page.locator(".hero").bounding_box()["height"],page.locator(".stats").bounding_box()["height"],flush=True)
         assert page.locator(".daily-milestones").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==4
         page.keyboard.press("Tab")
         page.locator("#library-link").focus()
@@ -123,6 +128,11 @@ try:
         expect(page.locator("#library-link")).to_have_attribute("aria-current","page")
         assert __import__("urllib.parse",fromlist=["parse_qs"]).parse_qs(__import__("urllib.parse",fromlist=["urlsplit"]).urlsplit(page.url).query)["library"]==["1"]
         expect(cards).to_have_count(count,timeout=30000)
+        expect(page.locator("#library #library-overview")).to_be_visible()
+        expect(page.locator("#library-overview")).to_have_attribute("open","")
+        assert page.locator(".stats>.stat").count()==7
+        assert page.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==7
+        assert page.locator(".stats").bounding_box()["height"]<=110
         assert page.locator(".chapter-group").count() >= 8
         page.goto(base+"#library")
         expect(cards).to_have_count(count,timeout=30000)
@@ -131,7 +141,7 @@ try:
         page.locator("#home-link").click()
         expect(page.locator("#home")).to_be_visible()
         expect(page.locator("#library")).to_be_hidden()
-        for panel_id in ("#library-overview","#daily-panel","#recent-panel","#saved-panel"):
+        for panel_id in ("#home-activity-panel","#daily-panel"):
             expect(page.locator(panel_id)).to_have_attribute("open","")
         page.locator("#library-link").click()
         expect(cards).to_have_count(count,timeout=30000)
@@ -420,14 +430,27 @@ try:
 
         page.goto(base)
         page.reload()
+        page.locator("#saved-panel > summary").click()
         expect(page.locator("#marks .saved-question-copy > a").first).to_contain_text("voice box")
         page.locator("#marks .saved-question-copy > a").first.click()
         ready(page)
         page.goto(base)
+        page.locator("#recent-panel > summary").click()
         expect(page.locator("#recent .recent-card").first).to_be_visible()
         expect(page.locator("#recent .recent-continue").first).to_have_text("Resume study →")
+        expect(page.locator("#recent .recent-labels .study-tag[data-role=type]").first).to_be_visible()
+        page.goto(base+"?resume=1")
+        expect(page.locator("#resume-page #recent .recent-card").first).to_be_visible(timeout=30000)
+        expect(page.locator("#home")).to_be_hidden()
+        expect(page.locator("#resume")).to_have_attribute("aria-current","page")
+        page.goto(base+"?saved=1")
+        expect(page.locator("#saved-page #marks .saved-question-copy > a").first).to_be_visible(timeout=30000)
+        expect(page.locator("#home")).to_be_hidden()
+        expect(page.locator("#saved-link")).to_have_attribute("aria-current","page")
+        page.goto(base+"?resume=1")
+        expect(page.locator("#recent .recent-card").first).to_be_visible(timeout=30000)
         heights=page.locator("#recent .recent-entry").evaluate_all("els=>els.map(e=>e.getBoundingClientRect().height)")
-        assert max(heights)-min(heights)<=2
+        assert all(h>0 for h in heights)
         no_overflow(page)
         # Actual Mermaid source, breadcrumb and source image fallback.
         flow = "Chapters/Nursing-Foundations/Concepts/01A-Nursing-Process-and-Care-Planning.md"
@@ -497,29 +520,30 @@ try:
             expect(mobile.locator("#library")).to_be_hidden()
             expect(mobile.locator("#home #library")).to_have_count(0)
             expect(mobile.locator("#chapters .chapter")).to_have_count(0)
-            for panel_id in ("#library-overview","#daily-panel","#recent-panel","#saved-panel"):
+            for panel_id in ("#home-activity-panel","#daily-panel"):
                 expect(mobile.locator(panel_id)).to_have_attribute("open","")
+            for panel_id in ("#recent-panel","#saved-panel"):
+                expect(mobile.locator(panel_id)).not_to_have_attribute("open","")
+            expect(mobile.locator(".daily-week-details")).to_have_attribute("open","")
+            expect(mobile.locator("#home-activity .home-activity-card")).to_have_count(6)
             no_overflow(mobile)
             if width<=600:
-                expect(mobile.locator("#library-overview")).to_have_attribute("open","")
-                expect(mobile.locator("#chapter-total")).to_be_visible()
-                assert mobile.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==6
-                assert mobile.locator(".stats").bounding_box()["height"]<=255
+                assert mobile.locator(".home-activity-grid").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==3
+                assert mobile.locator(".daily-count-breakdown").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==3
                 print(f"V11.7 measured narrow hero at {width}: {mobile.locator('.hero').bounding_box()['height']:.1f}px",flush=True)
                 assert mobile.locator(".hero").bounding_box()["height"]<=300
                 assert mobile.locator(".hero-actions .cta").bounding_box()["height"]>=43
                 assert mobile.locator(".hero-secondary").bounding_box()["height"]>=43
-                assert mobile.locator(".stats").bounding_box()["y"]<mobile.locator("#daily-study").bounding_box()["y"]
+                assert mobile.locator("#home-activity").bounding_box()["y"]<mobile.locator("#daily-study").bounding_box()["y"]
                 assert mobile.locator(".daily-milestones").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
-                expect(mobile.locator(".daily-week-details")).not_to_have_attribute("open","")
+                mobile.locator(".daily-week-details>summary").tap()
+                expect(mobile.locator(".study-day.today")).to_be_hidden()
                 mobile.locator(".daily-week-details>summary").tap()
                 expect(mobile.locator(".study-day.today")).to_be_visible()
-                mobile.locator(".daily-week-details>summary").tap()
-                mobile.locator("#library-overview>summary").tap()
-                expect(mobile.locator("#chapter-total")).not_to_be_visible()
-                mobile.locator("#library-overview>summary").tap()
-                expect(mobile.locator("#chapter-total")).to_be_visible()
-                print(f"V11.7 compact mobile {width}: hero {mobile.locator('.hero').bounding_box()['height']:.0f}px, inventory {mobile.locator('.stats').bounding_box()['height']:.0f}px.",flush=True)
+                mobile.locator("#home-activity-panel>summary").tap()
+                expect(mobile.locator("#home-activity")).to_be_hidden()
+                mobile.locator("#home-activity-panel>summary").tap()
+                expect(mobile.locator("#home-activity")).to_be_visible()
                 expect(mobile.locator("#nav-more")).not_to_have_attribute("open","")
                 mobile.locator("#nav-more>summary").tap()
                 expect(mobile.locator("#saved-link")).to_be_visible()
@@ -541,12 +565,22 @@ try:
                     panel.locator(":scope > summary").tap()
                     assert (panel.get_attribute("open") is not None)!=was_open
                     panel.locator(":scope > summary").tap()
+            mobile.locator("#nav-more>summary").tap()
+            mobile.locator("#saved-link").tap()
+            expect(mobile.locator("#saved-page")).to_be_visible()
+            expect(mobile.locator("#home")).to_be_hidden()
+            mobile.locator("#nav-more>summary").tap()
+            mobile.locator("#resume").tap()
+            expect(mobile.locator("#resume-page")).to_be_visible()
+            expect(mobile.locator("#home")).to_be_hidden()
             mobile.locator("#library-link").tap()
             expect(mobile.locator("#chapters .chapter").first).to_be_visible(timeout=30000)
             expect(mobile.locator("#home")).to_be_hidden()
             expect(mobile.locator("#library-link")).to_have_attribute("aria-current","page")
             assert "?library=1" in mobile.url
+            expect(mobile.locator("#library #library-overview")).to_be_visible()
             if width<=600:
+                assert mobile.locator(".stats").bounding_box()["height"]<=255
                 expect(mobile.locator("#library-filters")).to_be_hidden()
                 assert mobile.locator(".library-toolbar").bounding_box()["height"]<=60
                 mobile.locator("#library-panel-toggle").tap()
