@@ -125,3 +125,7 @@ Teaching: [Level Up RN sterile field](https://www.youtube.com/watch?v=KzUL1thZM6
 ## Group 09C catheter maintenance and CAUTI
 
 [Concepts](09C-Catheter-Maintenance-and-CAUTI-Prevention.md) · [23 originals](../MCQs/09C-Catheter-Maintenance-and-CAUTI-Prevention-23-MCQs.md) · [Evidence](../Previous-Year-Questions/09C-Catheter-Maintenance-Reported-Evidence.md). [JINC E-NURSING catheterization practice](https://www.youtube.com/watch?v=ofQ1VNcp-aQ) ka indexed title aur description topic practice ke liye relevant hain. Exact question coverage aur playback abhi pending hai. [Catheter bundle teaching](https://www.youtube.com/watch?v=N6UCB3JUvvY) teaching candidate hai. CDC, EAUN, EAU aur BAUS source links concept page mein hain.
+
+## Group 09D urinary specimen collection
+
+[Concepts](09D-Urinary-Specimen-Collection.md) · [27 original questions](../MCQs/09D-Urinary-Specimen-Collection-27-MCQs.md) · [Evidence](../Previous-Year-Questions/09D-Urinary-Specimen-Reported-Evidence.md). [NORCET10 renal MCQ series](https://www.youtube.com/watch?v=FzjMv67IJA8) ke published description mein 01:52:16 par pediatric urine collection ka marker hai. Ye Q12–14 ke liye topic-level lead hai, verified exact question nahi. [ARJUNA CLASS 32](https://www.youtube.com/watch?v=ls09ojopBH8) teaching candidate hai. [NHA urine and other specimens practice](https://www.youtube.com/watch?v=28gx9z7sArc) mixed laboratory practice candidate hai. Direct watch retrieval failed aur 27 specific mappings pending hain. UW, Labcorp aur CDC references concept page par hain.

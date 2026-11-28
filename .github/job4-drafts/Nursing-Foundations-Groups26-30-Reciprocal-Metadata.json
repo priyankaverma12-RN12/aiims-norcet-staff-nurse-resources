@@ -1052,4 +1052,89 @@
       "metadata_candidate": "**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse"
     }
   ]
+,
+  "revalidation": {
+    "date": "2026-11-28",
+    "main_snapshot": "4b43260f8737d8b4c91c494243f483178b6f4b13",
+    "pr12_snapshot": "1e26eff6e61b567b9a2783e0f61e8655b33bc40c",
+    "pr8_observed_head": "c05cedba76c9193b5c55c24045ef03012cbcd6f9",
+    "job5_release": "88cb33c48de5c6f99627dd2549bf648aaf2bfd4d",
+    "job5_live_reviewed": 1864,
+    "job5_live_rationales": 7456,
+    "job5_staged_legacy": 100,
+    "job5_staged_rationales": 400,
+    "group30_draft_blob": "4984cfd178c2554d28511e4c6e237b6fe25f57f0",
+    "main_and_pr12_exact_identity_matches": 100,
+    "main_and_pr12_identity_failures": 0,
+    "main_bank_side_links": 100,
+    "main_new_reciprocal_links": 0,
+    "pr12_new_reciprocal_links": 0,
+    "bank_blobs": [
+      {
+        "file": "26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md",
+        "blob": "6656f946c44469dc76a62b0ffd75883f36d27148"
+      },
+      {
+        "file": "27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md",
+        "blob": "11935e80b3229d8e8d79e3b9ac977cfc4f16d7bc"
+      },
+      {
+        "file": "28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md",
+        "blob": "eb7c917489b43884c9b4f8fcfbf6df7ae1b6c56b"
+      },
+      {
+        "file": "29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md",
+        "blob": "34e7fb66b88b72a5313e9074c18fd7abe66557cd"
+      },
+      {
+        "file": "30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md",
+        "blob": "17a2429bb18b3ed3ff2a988e6186cd309c4a7b85"
+      }
+    ],
+    "main_mock_blobs": [
+      {
+        "file": "Nursing-Foundations-Mock-01-120.md",
+        "blob": "7109d02abed0cb2381367e5bdc14ba7732e9b417"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-02-120.md",
+        "blob": "88f4beb32dd7e959bd4d00f172b9af7020b2617c"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-03-120.md",
+        "blob": "76f768e2e5b14a0179d68a89b4991cfeb7219243"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-04-120.md",
+        "blob": "7a654a81fda00298cba6954fed4c4dc7a50cae5b"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-05-120.md",
+        "blob": "b909218a3ca6eef4921487aea0a7163b816e20de"
+      }
+    ],
+    "pr12_mock_blobs": [
+      {
+        "file": "Nursing-Foundations-Mock-01-120.md",
+        "blob": "9cb16146ac1750a5cd1dbab1d526993617a84d36"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-02-120.md",
+        "blob": "aedadb980c8ccb028821e52f3a52e3879ba18bda"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-03-120.md",
+        "blob": "fe1fc4849726bf8925315f0d11c27a52f0c7f196"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-04-120.md",
+        "blob": "0ed5e440b08d4c32b147ef0122d110b5e5d82686"
+      },
+      {
+        "file": "Nursing-Foundations-Mock-05-120.md",
+        "blob": "3e0b49dc290a2d51fbe13fa7feb2b1865b8b3020"
+      }
+    ],
+    "integration_status": "STAGED ONLY — PR12 overlap remains; coordinate latest PR and Job5 staged rationales before writing shared mocks. Revalidate current blobs immediately before integration."
+  }
 }

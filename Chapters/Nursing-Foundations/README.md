@@ -10,7 +10,7 @@
 
 ### Original topic-wise questions
 
-- [1,323 original slots (600 initial + 723 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md)
+- [1,350 original slots (600 initial + 750 expansion)](MCQs/Nursing-Foundations-Topic-Wise-MCQ-Index.md)
 
 ### Full chapter mocks
 
@@ -24,7 +24,7 @@
 
 - [Teaching and MCQ video guide](Concepts/Nursing-Foundations-Video-and-Research-Guide.md)
 
-564 Medium and 759 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
+577 Medium and 773 Difficult editorial labels. English stems and options with hidden conversational Hinglish explanations. All five mocks compile the same 600 bank questions exactly once by stem. Four earlier starter questions remain separately preserved. Clinical guidance follows the current authorized local protocol. Previous exam material is reported practice, not an authenticated official key.
 
 - [Full syllabus index](../NORCET-Full-Chapter-Index.md)
 - [Repository home](../../README.md)
@@ -32,7 +32,7 @@
 
 ## Revised individual-topic progress
 
-[Individual-topic audit](Concepts/Individual-Topic-Coverage-Audit.md) · [Nursing process and care planning](Concepts/01A-Nursing-Process-and-Care-Planning.md) · [Clinical judgment](Concepts/01B-Clinical-Judgment-and-Reasoning.md). Two initial individual allocations of 30 each. Five legacy compiled practice tests are preserved. Ten new original-only chapter mocks remain the distinct target, with full semantic audit pending. Ab Group 09A ka allocation poora hua hai. Group 09B bhi publish ho gaya hai. Group 09C bhi publish ho gaya hai. Agla topic 09D urinary specimen collection hai.
+[Individual-topic audit](Concepts/Individual-Topic-Coverage-Audit.md) · [Nursing process and care planning](Concepts/01A-Nursing-Process-and-Care-Planning.md) · [Clinical judgment](Concepts/01B-Clinical-Judgment-and-Reasoning.md). Two initial individual allocations of 30 each. Five legacy compiled practice tests are preserved. Ten new original-only chapter mocks remain the distinct target, with full semantic audit pending. Ab Group 09A ka allocation poora hua hai. Group 09B bhi publish ho gaya hai. Group 09C bhi publish ho gaya hai. Group 09D bhi publish ho gaya hai. Agla topic Group10 mobility, positioning aur body mechanics hai.
 
 
 [Communication](Concepts/02A-Therapeutic-Communication.md) · [Documentation](Concepts/02B-Nursing-Documentation-and-Records.md) · [Handover](Concepts/02C-Clinical-Handover-and-Team-Communication.md). Group 02 three allocations of 30 each. Total five individual allocations met at initial numerical target.
@@ -83,4 +83,6 @@
 
 [Urinary catheter insertion and removal](Concepts/09B-Urinary-Catheter-Insertion-and-Removal.md) · [24 new MCQs](MCQs/09B-Urinary-Catheter-Insertion-and-Removal-24-MCQs.md) · [Reported evidence](Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md) · [Original catheter schematic](Assets/09B-Catheter-Insertion-and-Removal.svg). Is topic mein 24 naye aur chhe preserved questions milakar 30 allocate hue hain. 96 individual rationales aur 356 related stems ke against zero exact normalized matches verify hue hain. SCTIMST 2019 source-based exercise uncounted hai. Independent clinical, semantic, official-key aur exact video audit pending hain. Next 09C maintenance/CAUTI aur 09D specimens.
 
-[Catheter maintenance and CAUTI prevention](Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md) · [23 new MCQs](MCQs/09C-Catheter-Maintenance-and-CAUTI-Prevention-23-MCQs.md) · [Evidence](Previous-Year-Questions/09C-Catheter-Maintenance-Reported-Evidence.md) · [Irrigation diagram](Assets/09C-Catheter-Maintenance-and-Irrigation.svg). Is topic mein 23 naye aur saat preserved questions milakar 30 allocate hue hain. 92 individual rationales aur 370 related stems ke against zero exact normalized matches verify hue hain. Independent clinical, semantic aur exact video audit pending hain. Agla topic 09D specimens hai.
+[Catheter maintenance and CAUTI prevention](Concepts/09C-Catheter-Maintenance-and-CAUTI-Prevention.md) · [23 new MCQs](MCQs/09C-Catheter-Maintenance-and-CAUTI-Prevention-23-MCQs.md) · [Evidence](Previous-Year-Questions/09C-Catheter-Maintenance-Reported-Evidence.md) · [Irrigation diagram](Assets/09C-Catheter-Maintenance-and-Irrigation.svg). Is topic mein 23 naye aur saat preserved questions milakar 30 allocate hue hain. 92 individual rationales aur 370 related stems ke against zero exact normalized matches verify hue hain. Independent clinical, semantic aur exact video audit pending hain. Group 09D is now published.
+
+[Urinary specimen collection](Concepts/09D-Urinary-Specimen-Collection.md) · [27 new MCQs](MCQs/09D-Urinary-Specimen-Collection-27-MCQs.md) · [Reported evidence](Previous-Year-Questions/09D-Urinary-Specimen-Reported-Evidence.md) · [Original specimen pathway](Assets/09D-Urinary-Specimen-Collection.svg). Is topic mein 27 naye aur teen preserved questions milakar 30 allocate hue hain. 108 individual rationales aur 423 related stems ke against zero exact normalized matches verify hue hain. Group09A–D ki allocation ab 120 hai. Independent clinical, semantic aur exact video audit pending hain. Agla topic Group10 mobility, positioning aur body mechanics hai.

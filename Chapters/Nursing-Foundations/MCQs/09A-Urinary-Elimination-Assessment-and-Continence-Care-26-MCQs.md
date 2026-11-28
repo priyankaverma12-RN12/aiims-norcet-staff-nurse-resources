@@ -210,7 +210,7 @@ D. Record at least three days, including variations in usual activities
 
 ### Q7. A woman with stress urinary incontinence asks whether a supervised exercise programme should be abandoned after one week without improvement. Which response reflects recommended first-line care?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Pelvic floor training duration
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Pelvic floor training duration · **[🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept only](https://testbook.com/question-answer/a-nurse-teaches-a-pregnant-client-to-perform-kegel--625dc7cca1f2495a3469d230)**
 
 A. Continue the supervised programme for at least three months, with review
 
@@ -229,6 +229,8 @@ D. Perform exercises only when leakage occurs
 - **C — Incorrect:** Catheter stress incontinence ke routine rehabilitation ka substitute nahi hai aur avoidable risks laata hai.
 - **D — Incorrect:** Regular planned practice chahiye. Sirf leakage ke moment par exercise karne se prescribed training dose complete nahi hoti.
 
+**Related exam evidence:** Is reported obstetric question mein pelvic floor strengthening ka purpose poochha gaya tha. Isse is question ki three-month training duration ya correct contraction assessment ka historical appearance prove nahi hota. Official paper aur key verify nahi hue hain.
+
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
 [Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#pelvic-floor-muscle-training)
@@ -243,7 +245,7 @@ D. Perform exercises only when leakage occurs
 
 ### Q8. During instruction, a woman repeatedly bears down instead of lifting and contracting her pelvic floor. What should the nurse do?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Correct contraction
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Correct contraction · **[🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept only](https://testbook.com/question-answer/a-nurse-teaches-a-pregnant-client-to-perform-kegel--625dc7cca1f2495a3469d230)**
 
 A. Increase the number of repetitions immediately
 
@@ -261,6 +263,8 @@ D. Declare pelvic floor therapy ineffective without assessment
 - **B — Incorrect:** Straining abdomen ka pressure badhata hai. Yeh intended pelvic floor contraction ka replacement nahi hai.
 - **C — Correct:** Pehle correct contraction confirm karna chahiye. Trained clinician consent aur privacy ke saath assessment kare, phir suitable exercise plan sikhaye.
 - **D — Incorrect:** Technique correct kiye bina treatment ineffective declare karna premature hai.
+
+**Related exam evidence:** Is reported obstetric question mein pelvic floor strengthening ka purpose poochha gaya tha. Isse is question ki three-month training duration ya correct contraction assessment ka historical appearance prove nahi hota. Official paper aur key verify nahi hue hain.
 
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
@@ -301,7 +305,7 @@ D. One week
 
 **Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [Related MCQ practice — Canadian Nurse Expert, NCLEX-RN elimination knowledge check](https://www.youtube.com/watch?v=vdQdgMbIF-A).** Publisher description mein bladder training par question practice explicitly listed hai. NICE ki six-week duration wali exact item, timestamp aur playback verify nahi hue hain.
 
 </details>
 
@@ -334,7 +338,7 @@ D. Use the diary to set a tolerable interval and gradually extend it with urge-c
 
 **Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [Related MCQ practice — Canadian Nurse Expert, NCLEX-RN elimination knowledge check](https://www.youtube.com/watch?v=vdQdgMbIF-A).** Publisher description mein bladder training question practice explicitly listed hai. Is exact gradual interval scenario, timestamp aur playback verify nahi hue hain.
 
 </details>
 
@@ -476,7 +480,7 @@ D. Assess for retention promptly and seek prescriber review
 
 ### Q15. A patient taking a prescribed diuretic late in the evening reports disrupted sleep from repeated voiding. Which intervention is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Diuretic timing
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Diuretic timing · **[🟣 PGIMER Chandigarh Staff Nurse Grade II, 2015 — related reported concept only](https://testbook.com/question-answer/a-nurse-teaches-the-client-with-heart-failure-to-t--62b70f3734e031410c43c9ad)**
 
 A. Discuss dose timing with the prescriber while maintaining the prescribed treatment
 
@@ -494,6 +498,10 @@ D. Restrict fluids irrespective of cardiac or renal status
 - **B — Incorrect:** Diuretic ko apne aap stop karne se underlying fluid overload ya blood pressure condition worsen ho sakti hai.
 - **C — Incorrect:** Bedtime par doses combine karna nocturnal urine production aur medication-related harm badha sakta hai.
 - **D — Incorrect:** Cardiac aur renal fluid plans individual hote hain. Blanket restriction safe nahi hai.
+
+**Related exam evidence:** Is third-party report mein morning furosemide aur raat ki sleep disturbance ka relation poochha gaya tha. Is question mein prescriber ke saath dose timing review karna hai. Official paper aur key verify nahi hue hain. Apne aap medicine stop ya dose change mat karo.
+
+[Additional clinical reference — diuretic timing and sleep disturbance, South Tees NHS](https://www.southtees.nhs.uk/resources/diuretics-water-tablets/)
 
 **Clinical reference:** [NHS continence treatment](https://www.nhs.uk/conditions/urinary-incontinence/treatment/)
 
