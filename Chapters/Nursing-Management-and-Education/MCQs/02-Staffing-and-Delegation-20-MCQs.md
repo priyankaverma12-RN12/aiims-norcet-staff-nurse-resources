@@ -2,7 +2,7 @@
 
 **20 original English MCQs.** Study-ready and unattempted. In questions mein staffing calculations, safe workload distribution aur delegation ke alag decisions practice kar sakte hain. Ye official Previous Year Questions nahi hain. Candidate review pending. Local Indian institutional scope aur policy ko follow karna zaroori hai.
 
-[Chapter](../README.md) · [Topic map](../Concepts/Nursing-Management-and-Education-Topic-Coverage-Map.md) · [Mock plan](../Mock-Tests/Nursing-Management-and-Education-Mock-Test-Plan.md) · [Past-paper research](../Previous-Year-Questions/Nursing-Management-and-Education-Past-Paper-Research-Register.md)
+[Chapter](../README.md) · [Staffing and delegation concepts](../Concepts/02-Staffing-and-Delegation.md) · [Topic map](../Concepts/Nursing-Management-and-Education-Topic-Coverage-Map.md) · [Mock plan](../Mock-Tests/Nursing-Management-and-Education-Mock-Test-Plan.md) · [Past-paper research](../Previous-Year-Questions/Nursing-Management-and-Education-Past-Paper-Research-Register.md)
 
 ## Staffing, workload and delegation
 
