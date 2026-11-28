@@ -76,7 +76,7 @@
 
 **Exam clue:** Vastus lateralis ko routine neonatal IM site ke roop mein yaad rakho.
 
-**Reference:** [Source](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_2.pdf) · [Concept guide](../Concepts/01C-Immediate-Newborn-Care-and-Prophylaxis.md)
+**Reference:** [Source](https://nhm.gov.in/images/pdf/programmes/child-health/guidelines/Vitamin_K_Operational_Guidelines.pdf) · [Concept guide](../Concepts/01C-Immediate-Newborn-Care-and-Prophylaxis.md)
 
 **YouTube MCQ practice:** Individual coverage verification pending.
 
@@ -316,25 +316,25 @@
 
 </details>
 
-### Q13. A healthy newborn is transferred between two postnatal beds and the mother's bed label has changed. Which check should be used before handing the infant over?
+### Q13. A vigorous newborn has a strong cry and no visible airway obstruction after birth. A suction catheter has been prepared on the trolley. Which action is appropriate?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Match approved infant and maternal identifiers rather than the bed number alone
-- **B.** Use the new bed number as the only identifier
-- **C.** Ask a visitor to identify the infant by clothing
-- **D.** Use the baby's weight as the sole identifier
+- **A.** Avoid routine suction and continue appropriate observation
+- **B.** Insert the catheter deeply into the pharynx before every first feed
+- **C.** Suction the trachea routinely even when breathing is effective
+- **D.** Repeat suction until no oral moisture remains
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Match approved infant and maternal identifiers rather than the bed number alone**
+**Correct answer: A. Avoid routine suction and continue appropriate observation**
 
-- **A — Correct:** Bed location change ho sakti hai. Approved matching identifiers infant aur mother ko reliably link karte hain, isliye transfer safety verify karo.
-- **B — Incorrect:** Bed number patient identity ka stable proof nahi hai. Wrong handover possible hai.
-- **C — Incorrect:** Clothing similar ho sakti hai aur visitor reliable identification source nahi hai.
-- **D — Incorrect:** Weight unique identifier nahi hai. Do babies ka weight same ho sakta hai.
+- **A — Correct:** Baby vigorous hai aur airway obstruction ka sign nahi hai. Routine suction benefit nahi deti aur mucosa injury ya vagal response ka risk ho sakta hai. Breathing observe karo aur suction sirf clinical indication par trained team ke protocol ke hisaab se karo.
+- **B — Incorrect:** Deep catheter stimulation se trauma ya heart rate fall ho sakti hai. Har feed se pehle suction karna routine healthy baby care nahi hai.
+- **C — Incorrect:** Tracheal suction invasive procedure hai. Effective spontaneous breathing wale baby mein bina indication ise karna safe routine practice nahi hai.
+- **D — Incorrect:** Oral mucosa ka normally moist rehna expected hai. Har moisture remove karne ki koshish unnecessary suction aur injury ka risk badhati hai.
 
-**Exam clue:** Location ko identity ka replacement mat banao.
+**Exam clue:** Suction ki need airway obstruction aur clinical condition se decide hoti hai.
 
 **Reference:** [Source](https://nhm.gov.in/images/pdf/programmes/maternal-health/guidelines/Revised_CEmONC_curriculum_2024-Part_2.pdf) · [Concept guide](../Concepts/01C-Immediate-Newborn-Care-and-Prophylaxis.md)
 
