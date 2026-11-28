@@ -1,10 +1,10 @@
 # Geriatric Nursing manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: geriatric-pr39-corrective-20261128-0657Z
+Scope: PR39 candidate-only NPHCE and caregiver correction, bounded clinical and semantic review, candidate-local audit. No shared PR8 navigation or live merge.
+Claimed UTC: 2026-11-28T06:57:08Z
+Expiry UTC: 2026-11-28T07:27:08Z
 
 Last owner: geriatric-priority-20261128-0540Z. Active write lease released. Geriatric chapter candidate remains reserved under open draft PR #39, branch `geriatric-priority-20261128`. Coordinate before resuming or claiming overlapping work; do not restart or merge an unreviewed candidate.
 
