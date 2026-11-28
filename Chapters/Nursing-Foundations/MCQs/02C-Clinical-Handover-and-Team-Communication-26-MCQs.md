@@ -525,17 +525,16 @@ Ongoing IV infusion ke handover mein nurse ko ye verify karna chahiye ki patient
 
 **Correct answer: C. Communicate required precautions and ensure the receiving area is prepared before transfer**
 
-<!-- job5-rationale -->
-Isolation precaution pathogen aur transmission risk ke basis par decide hoti hai, room location ke basis par nahi. Transfer ke pehle receiving team ko applicable precaution, PPE requirement aur placement arrangement communicate karo. Transport ke dauran relevant precautions follow karo. Only necessary information authorized staff ko share karo, privacy maintain karte hue infection risk manage karo.
+Isolation precautions ka purpose infection ko doosre patients aur healthcare workers tak phailne se rokna hai. Maan lo patient ko doosri ward mein transfer karna hai, lekin uske liye abhi bhi transmission-based precautions required hain. Sirf ward change hone se infection transmission ka risk khatam nahi hota. Outgoing nurse receiving team ko pehle batati hai ki kaunsi precautions applicable hain, kaunsa personal protective equipment chahiye aur patient placement ka kya arrangement hona chahiye. Transport ke dauran bhi relevant precautions follow karni chahiye. Patient ki privacy maintain karte hue authorized team ko care ke liye necessary information deni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A location change se infection risk automatically end nahi hota.
-- **B:** B confidentiality authorized care team ko required safety information dene se nahi rokti.
-- **C:** C transfer se pehle precaution aur receiving readiness verify karta hai.
-- **D:** D arrival ke baad discovery exposure aur delay cause kar sakti hai.
+- **A:** Location change se pathogen ya transmission risk automatically khatam nahi hota. Precautions discontinue karne ka decision applicable clinical criteria aur policy se hona chahiye.
+- **B:** Confidentiality ka matlab unauthorized disclosure rokna hai. Receiving clinical team ko infection prevention ke liye necessary information dena safe care ka part hai.
+- **C:** Transfer se pehle applicable precautions communicate karne aur receiving area ki readiness confirm karne se unnecessary exposure ka risk kam hota hai. Isliye C sahi hai.
+- **D:** Patient ke pahunchne ke baad isolation requirement discover hone par suitable placement aur protective equipment arrange karne mein delay ho sakta hai.
 
-**Exam clue:** Precautions travel with the patient's relevant care needs.
+**Exam clue:** Patient transfer hone par uski applicable infection-control precautions bhi care handover ke saath communicate karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -563,17 +562,16 @@ Isolation precaution pathogen aur transmission risk ke basis par decide hoti hai
 
 **Correct answer: B. Clarify the documented allergen and reaction history, and verify relevant records before exposure to the agent**
 
-<!-- job5-rationale -->
-Allergy handover mein exact substance aur known reaction verify karna important hai. Nausea jaisa adverse effect aur anaphylaxis jaisi serious hypersensitivity same nahi hain, lekin uncertain report ko independently delete mat karo. Patient, record aur authorized team se clarification lo. Suspected allergen exposure avoid karne aur urgent treatment decision ke liye facility policy follow karo.
+Allergy handover mein nurse ko ye samajhna hota hai ki patient ko kis substance se reaction hua tha aur reaction kaisa tha. Maan lo record mein medicine allergy likhi hai, lekin reaction ki detail missing hai. Nausea jaisa adverse effect aur anaphylaxis jaisi serious allergic reaction ek hi cheez nahi hain. Nurse patient ki available history, documented allergy record aur authorized clinical team se clarification leti hai. Jab tak relevant uncertainty resolve na ho, suspected agent ke exposure ke risk ko facility policy ke according manage karti hai. Urgent treatment decision mein bhi appropriate clinical review lena chahiye. Bina verification allergy warning delete nahi karni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A reaction hone tak wait prevention fail karta hai.
-- **B:** B allergen aur reaction details clarify aur verify karta hai.
-- **C:** C uncertain allergy silently remove karna unsafe hai.
-- **D:** D allergy reaction type aur severity vary kar sakti hai.
+- **A:** Reaction hone ka wait karne se preventable exposure aur patient harm ka risk reh sakta hai. Allergy warning ko pehle clarify karna chahiye.
+- **B:** Allergen ka naam aur reaction history verify karne se receiving team safer treatment decisions le sakti hai. Isliye B sahi hai.
+- **C:** Reaction ki detail unknown hone se allergy warning automatically invalid nahi hoti. Bina authorized review use remove karna unsafe hai.
+- **D:** Har allergic reaction ki type aur severity same nahi hoti. Isliye exact history aur patient-specific risk samajhna zaroori hai.
 
-**Exam clue:** Unknown reaction is a reason to clarify, not erase.
+**Exam clue:** Agar allergy reaction unclear hai, toh uske baare mein clarification lo. Uncertainty ko allergy erase karne ka reason mat banao.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -601,17 +599,16 @@ Allergy handover mein exact substance aur known reaction verify karna important 
 
 **Correct answer: A. Resolve the discrepancy with current authorized orders and communicate the confirmed restriction**
 
-<!-- job5-rationale -->
-Transfer ke time oral intake order missing ho toh receiving nurse ko latest authorized order verify karna chahiye. Restriction aspiration risk, procedure preparation ya other condition se related ho sakti hai. Unsafe oral intake avoid karo while promptly resolving discrepancy. Confirmed restriction aur review timing team aur patient ko communicate karo. Unnecessary prolonged restriction bhi dehydration ya discomfort cause kar sakti hai.
+Ward transfer ke baad oral intake restriction ka order receiving summary mein missing hai. Iska matlab ye nahi hai ki restriction cancel ho gayi hai. Nurse latest authorized orders check karti hai aur zaroorat padne par responsible clinician se discrepancy clarify karti hai. Restriction aspiration risk, procedure preparation ya doosri clinical condition ke liye ho sakti hai. Jab tak urgent clarification ho rahi hai, nurse unsafe oral intake avoid karti hai. Confirmed restriction, uski duration ya review timing aur relevant instructions patient aur receiving team ko batati hai. Bina review unnecessarily prolonged restriction se dehydration aur discomfort bhi ho sakte hain.
 
 **Option-by-option reasoning**
 
-- **A:** A current orders reconcile karke confirmed restriction communicate karta hai.
-- **B:** B routine meal schedule patient-specific restriction override nahi karta.
-- **C:** C every transferred patient ke liye normal intake safe assume nahi kar sakte.
-- **D:** D indefinite restriction without review unnecessary harm kar sakti hai.
+- **A:** Current authorized order reconcile karne aur confirmed restriction communicate karne se missing handover information resolve hoti hai. Isliye A sahi hai.
+- **B:** Routine meal schedule patient ki individual clinical restriction ko override nahi karta. Food offer karne se pehle current order clarify karna chahiye.
+- **C:** Har transferred patient normal oral intake safely tolerate karega, aisa assume nahi kar sakte. Swallowing risk aur procedure-related restrictions alag ho sakti hain.
+- **D:** Bina verification restriction indefinitely continue karne se unnecessary discomfort ya dehydration ka risk ho sakta hai. Timely review chahiye.
 
-**Exam clue:** Reconcile conflicting orders before implementing care.
+**Exam clue:** Care orders mein discrepancy ho, toh latest authorized order verify karo aur confirmed plan communicate karne ke baad appropriate care implement karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -639,17 +636,16 @@ Transfer ke time oral intake order missing ho toh receiving nurse ko latest auth
 
 **Correct answer: C. Provide a protected handover process with arrangements for genuine urgent interruptions**
 
-<!-- job5-rationale -->
-Frequent nonurgent interruptions handover mein important information bhoolne aur incomplete task transfer ka risk badhati hain. Protected time, designated location aur clear coverage arrangement se routine interruptions reduce ki ja sakti hain. Genuine urgent concern ke liye exception hona chahiye, kyunki patient emergency handover se bhi higher priority le sakti hai. Interrupted report ko resume karte waqt last point verify karo.
+Handover ke dauran baar-baar unrelated nonurgent requests aane se nurse important information ka sequence bhool sakti hai ya pending task batana miss kar sakti hai. Protected handover ka matlab hai aisa arrangement jahan routine interruptions kam ki ja sakein. Team suitable time, location aur routine care coverage decide kar sakti hai. Lekin agar kisi patient ki genuine emergency hai, toh usse turant address karna zaroori hai. Handover interrupt ho jaaye toh dobara shuru karte waqt last discussed point confirm karna helpful hai, taaki important information miss na ho.
 
 **Option-by-option reasoning**
 
-- **A:** A unstable patients omit karna highest-priority information lose karta hai.
-- **B:** B unreviewed list receiver questions aur acknowledgment replace nahi karti.
-- **C:** C protected process plus emergency exception balance karta hai.
-- **D:** D all interruptions prohibit karna emergency response delay kar sakta hai.
+- **A:** Unstable patients ko handover se omit karne par receiving team sabse urgent information miss kar sakti hai. Unki care priorities pehle communicate karni chahiye.
+- **B:** Written list useful support hai, lekin unreviewed list receiver ke questions, clarification aur task acceptance ko replace nahi karti.
+- **C:** Nonurgent interruptions kam karne aur real emergencies ke liye exception rakhne se communication quality aur patient safety dono protect hoti hain. Isliye C sahi hai.
+- **D:** Har interruption prohibit karne par emergency response delay ho sakta hai. Genuine urgent clinical concerns ko priority milni chahiye.
 
-**Exam clue:** Protect handover, allow true emergencies.
+**Exam clue:** Handover ko routine interruptions se protect karo, lekin genuine patient emergency ko delay mat karo.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -679,17 +675,16 @@ Frequent nonurgent interruptions handover mein important information bhoolne aur
 
 **Correct answer: B. Respect privacy, clarify consent and communicate sensitive details through an appropriate private channel**
 
-<!-- job5-rationale -->
-Bedside handover patient involvement improve kar sakta hai, lekin sensitive information public ya shared space mein reveal nahi karni chahiye. Patient ki wishes aur consent clarify karo, authorized receiving staff ko relevant details appropriate private channel se communicate karo. Confidentiality ka purpose unauthorized disclosure prevent karna hai, necessary safe care information suppress karna nahi.
+Bedside handover mein patient apni care ke baare mein input de sakta hai aur important details verify karne mein help kar sakta hai. Lekin shared room ya public area mein sensitive personal information discuss karne se privacy compromise ho sakti hai. Agar patient kisi topic ko privately discuss karna chahta hai, toh nurse uski wishes aur relevant consent clarify karti hai. Authorized receiving clinical team ko safe care ke liye necessary sensitive information appropriate private channel se communicate karna chahiye. Confidentiality ka purpose patient information ko unauthorized logon se protect karna hai, na ki essential care information ko responsible team se chhupaana.
 
 **Option-by-option reasoning**
 
-- **A:** A corridor public space ho sakta hai aur privacy risk remain karta hai.
-- **B:** B private communication aur required clinical information dono preserve karta hai.
-- **C:** C standardized format privacy need override nahi karta.
-- **D:** D clinically relevant information receiving team se hide karna safety compromise kar sakta hai.
+- **A:** Public corridor mein doosre log sensitive discussion sun sakte hain. Sirf bedside se corridor mein jaana privacy ki guarantee nahi hai.
+- **B:** Private communication aur relevant consent se patient ki privacy respect hoti hai, jabki authorized team ko necessary information bhi milti hai. Isliye B sahi hai.
+- **C:** Standard handover format patient ki individual privacy needs ko automatically override nahi karta. Sensitive details suitable private setting mein share karni chahiye.
+- **D:** Receiving team ko necessary clinical information bilkul na dene se patient care aur safety compromise ho sakti hai. Appropriate authorized disclosure arrange karna chahiye.
 
-**Exam clue:** Private handoff for sensitive content, not omission.
+**Exam clue:** Sensitive handover content ko private tareeke se communicate karo. Patient ki privacy protect karne ke liye necessary care information omit mat karo.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -719,17 +714,16 @@ Bedside handover patient involvement improve kar sakta hai, lekin sensitive info
 
 **Correct answer: A. Acknowledge the input and verify the correct current assistance plan before care**
 
-<!-- job5-rationale -->
-Patient apne routine function, preferences aur baseline assistance ke baare mein valuable information de sakta hai. Discrepancy sunne ke baad nurse current mobility assessment, prescribed restrictions aur care plan verify kare. Patient ka input respect karo aur safe confirmed assistance level document aur communicate karo. Unverified change ke saath transfer ya walking shuru karna fall risk badha sakta hai.
+Patient apni usual mobility, daily function aur kitni assistance normally chahiye, iske baare mein useful information de sakta hai. Maan lo bedside handover mein staff kuch aur assistance level bata raha hai aur patient kehta hai ki uski normal requirement alag hai. Nurse patient ki baat acknowledge karti hai aur current mobility assessment, prescribed restrictions aur care plan check karti hai. Ho sakta hai recent condition ke change ki wajah se ab extra help chahiye ho. Confirmed safe assistance level patient aur team ko batana aur record karna chahiye. Bina verification transfer ya walking shuru karne se fall ka risk badh sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** A patient input acknowledge karke current plan validate karta hai.
-- **B:** B patient ko dismiss karna potential error correction miss karta hai.
-- **C:** C clinical restrictions check kiye bina statement follow karna unsafe ho sakta hai.
-- **D:** D staff convenience safe mobility assessment replace nahi karti.
+- **A:** Patient ka input sunne aur current plan verify karne se discrepancy identify karke safe mobility assistance decide ki ja sakti hai. Isliye A sahi hai.
+- **B:** Patient ko dismiss karne se baseline function ya existing care plan ki important galti correct karne ka mauka miss ho sakta hai.
+- **C:** Patient ki report important hai, lekin current restrictions aur clinical assessment check kiye bina use follow karna unsafe ho sakta hai.
+- **D:** Staff ke liye easiest plan zaroori nahi ki patient ke liye safest ho. Assistance level clinical findings aur patient needs se decide hona chahiye.
 
-**Exam clue:** Patient participation adds evidence, verification makes it safe.
+**Exam clue:** Patient ki participation se useful evidence milta hai. Actual care shuru karne se pehle conflicting information verify karo.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -759,17 +753,16 @@ Patient apne routine function, preferences aur baseline assistance ke baare mein
 
 **Correct answer: D. Confirm receipt and task ownership through the approved escalation or communication method**
 
-<!-- job5-rationale -->
-Secure message send hone ka matlab task accept ya complete hona nahi hai. Time-sensitive work ke liye correct receiver, receipt, understanding aur ownership confirm karo. Acknowledgment na aaye toh approved alternate communication ya escalation route use karo. Actual completion aur result later verify karo. Unrelated accounts ko message bhejna privacy breach aur confusion cause kar sakta hai.
+Secure message bhejne aur clinical task actually accept ya complete hone mein difference hai. Maan lo routine report secure message se bheji gayi hai, lekin usmein ek time-sensitive task bhi hai aur responsible clinician ne acknowledgment nahi diya hai. Nurse correct receiver, receipt, understanding aur task ownership confirm karti hai. Agar acknowledgment nahi milta, toh facility ke approved alternate communication ya escalation route ka use karti hai. Baad mein actual completion aur result bhi verify karna chahiye. Unrelated staff accounts ko message bhejne se privacy aur coordination dono affect ho sakte hain.
 
 **Option-by-option reasoning**
 
-- **A:** A delivery ko action ka proof assume karta hai.
-- **B:** B wrong recipients ko message karna confidentiality aur task confusion badhata hai.
-- **C:** C message sent hona completed care ka evidence nahi hai.
-- **D:** D receipt aur responsibility confirm karta hai.
+- **A:** Sent message se ye confirm nahi hota ki correct person ne use padha, task samjha aur action lene ki responsibility accept ki.
+- **B:** Unrelated staff ko repeated messages bhejne se confidential information galat recipients tak pahunch sakti hai aur task ownership aur unclear ho sakti hai.
+- **C:** Message bhejna actual task completion nahi hai. Task perform hue bina completed record karna inaccurate hai.
+- **D:** Approved communication method se receipt aur responsibility confirm karne se time-sensitive task miss hone ka risk kam hota hai. Isliye D sahi hai.
 
-**Exam clue:** Sent does not mean received, accepted or completed.
+**Exam clue:** Message sent, received, accepted aur task completed hona alag-alag cheezein hain. Zaroorat ke hisaab se har important stage verify karo.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -799,17 +792,16 @@ Secure message send hone ka matlab task accept ya complete hona nahi hai. Time-s
 
 **Correct answer: B. Clearly state known facts and uncertainties, verify critical items and arrange follow-up ownership**
 
-<!-- job5-rationale -->
-Unfamiliar patient ka handoff incomplete ho toh facts aur uncertainty clearly separate karo. Patient identifiers, immediate clinical status, allergies, critical orders aur pending high-risk tasks prioritize karke verify karo. Jo information missing hai usko guess mat karo. Receiving team ke saath outstanding checks aur responsibility agree karo. Urgent transfer ko every minor detail ke liye unnecessary delay mat karo.
+Agar nurse ko unfamiliar patient ka handover incomplete information ke saath dena pad raha hai, toh report ko complete dikhane ke liye guess nahi karna chahiye. Nurse clearly batati hai ki kaunsi facts verify ho chuki hain aur kaunsi information abhi unknown hai. Approved patient identifiers, current clinical condition, allergies, critical orders aur high-risk pending tasks ko priority dekar verify karti hai. Receiving team ke saath agree karti hai ki baaki information kaun aur kab check karega. Urgent transfer ko har minor detail milne tak unnecessarily delay nahi karna chahiye. Lekin critical uncertainties ko clearly communicate karna zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** A unrelated template wrong-patient information introduce kar sakta hai.
-- **B:** B known facts, unknowns aur follow-up ownership transparent karta hai.
-- **C:** C plausible assumption ko factual information bana deta hai.
-- **D:** D all information withhold karna timely care continuity delay karta hai.
+- **A:** Unrelated patient ka template bina check copy karne se wrong-patient details report mein aa sakti hain. Har relevant fact current patient se verify hona chahiye.
+- **B:** Known facts aur uncertainties alag batane, critical items verify karne aur follow-up ownership agree karne se incomplete handover bhi transparent aur safer ban sakta hai. Isliye B sahi hai.
+- **C:** Plausible assumption ko confirmed information ki tarah batane se receiving team wrong clinical decision le sakti hai. Missing information honestly identify karni chahiye.
+- **D:** Saari information tab tak rokne se jab tak har minor detail mil jaaye, time-sensitive care aur continuity delay ho sakti hai. Available verified critical information promptly share karni chahiye.
 
-**Exam clue:** State known, unknown and who will verify.
+**Exam clue:** Incomplete handover mein clear batao ki kya known hai, kya unknown hai aur missing information kaun verify karega.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -839,17 +831,16 @@ Unfamiliar patient ka handoff incomplete ho toh facts aur uncertainty clearly se
 
 **Correct answer: A. Restate the concern with supporting evidence and use the approved further escalation pathway**
 
-<!-- job5-rationale -->
-Persistent serious clinical concern ko first dismissal ke baad ignore nahi karna hai. Nurse objective findings, change from baseline aur urgency clearly restate kare aur facility-approved escalation pathway use kare. Patient reassessment aur appropriate emergency support continue kare. TeamSTEPPS advocacy aur two-challenge principles safety concern ko professional manner mein raise karne mein help karte hain. Actual local response route policy ke according hoga.
+Agar nurse serious clinical concern report karti hai aur initial recipient use dismiss kar deta hai, toh ongoing concerning findings ko ignore nahi karna chahiye. Nurse current observations, baseline se change aur possible harm ki urgency calmly aur clearly dobara explain karti hai. Agar concern resolve nahi hota, toh facility ke approved further escalation pathway ka use karti hai. Patient ki reassessment aur required emergency support continue rehni chahiye. TeamSTEPPS advocacy aur two-challenge rule jaise principles healthcare staff ko unresolved safety concerns professionally raise karne mein help karte hain. Actual escalation route local policy aur patient condition ke according hona chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A evidence-based concern repeat karke further escalation karta hai.
-- **B:** B ongoing deterioration ke bawajood dismissal accept karna unsafe hai.
-- **C:** C next shift ka wait time-sensitive harm increase kar sakta hai.
-- **D:** D personal insults se clinical issue resolve nahi hota.
+- **A:** Supporting clinical evidence ke saath serious concern dobara raise karna aur approved further escalation use karna patient safety ko protect karta hai. Isliye A sahi hai.
+- **B:** Agar concerning findings persist kar rahi hain, toh initial dismissal accept karne se necessary assessment aur treatment delay ho sakte hain.
+- **C:** Next shift tak wait karne se patient deterioration badh sakti hai. Current reassessment aur timely escalation zaroori hain.
+- **D:** Personal insult se team communication kharab ho sakti hai aur clinical concern resolve nahi hoti. Nurse ko factual findings aur patient safety par focus karna chahiye.
 
-**Exam clue:** Speak up with facts, escalate unresolved safety concerns.
+**Exam clue:** Patient safety concern resolve na ho, toh evidence ke saath respectfully dobara bolo aur approved escalation pathway follow karo.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -879,17 +870,16 @@ Persistent serious clinical concern ko first dismissal ke baad ignore nahi karna
 
 **Correct answer: D. Agree who will follow the consultation and when action or escalation is due**
 
-<!-- job5-rationale -->
-Pending consultation ek unfinished responsibility hai. Handover mein consultant request ka reason, status, expected review timing aur responsible clinician clarify karo. Agar consultation delay ho ya patient deteriorate kare toh agreed escalation plan use karo. Receiver acknowledgment ensure karta hai ki task kisi ke responsibility mein hai. Patient ko informed rakho, par clinical coordination ka entire burden us par mat daalo.
+Pending consultation ka matlab hai ki patient ki care ka ek clinical task abhi complete nahi hua hai. Maan lo transfer summary mein specialist consultation requested likha hai, lekin koi responsible person identify nahi kiya gaya hai. Outgoing aur receiving team request ka reason, current status, expected review timing aur follow-up responsibility clear karti hain. Agar review delay ho jaaye ya patient ki condition kharab ho, toh agreed escalation plan follow karna chahiye. Receiving clinician ki acknowledgment se task ownership confirm hoti hai. Patient ko relevant information deni chahiye, lekin clinical coordination ka poora burden us par nahi daalna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A implicit ownership diffusion of responsibility create kar sakti hai.
-- **B:** B patient ko all clinical follow-up independently coordinate karwana appropriate substitute nahi hai.
-- **C:** C pending task remove karne se continuity information lose hoti hai.
-- **D:** D ownership, timing aur escalation clear karta hai.
+- **A:** Sab log record padh sakte hain, lekin isse ye clear nahi hota ki actual follow-up kaun karega. Implicit responsibility ki wajah se task miss ho sakta hai.
+- **B:** Patient ko care mein participate karna chahiye, lekin healthcare team ki clinical coordination responsibility automatically patient ko transfer nahi hoti.
+- **C:** Pending consultation delete karne se receiving team important unfinished task miss kar sakti hai. Uska actual status preserve karna chahiye.
+- **D:** Responsible person, expected timing aur escalation condition agree karne se pending consultation ka follow-up actionable ban jaata hai. Isliye D sahi hai.
 
-**Exam clue:** Every pending task needs an owner and deadline.
+**Exam clue:** Har time-sensitive pending task ke liye responsible person aur due time clear karo. Zaroorat par escalation plan bhi batao.
 
 [Concept reference](https://www.ahrq.gov/teamstepps-program/curriculum/communication/overview/index.html)
 <!-- /job5-rationale -->
@@ -919,17 +909,16 @@ Pending consultation ek unfinished responsibility hai. Handover mein consultant 
 
 **Correct answer: C. Brief**
 
-<!-- job5-rationale -->
-Brief planned activity ke pehle short team discussion hai. Team members roles, objective, equipment, staffing aur anticipated risks review karte hain. Complex procedure se pehle yeh shared mental model banata hai. Safety checklist aur formal time-out ki local requirements phir bhi follow karni hoti hain. Brief ka purpose preparation hai, retrospective review nahi.
+Brief ek short team discussion hai jo planned activity se pehle hoti hai. Maan lo team ek complex procedure shuru karne wali hai. Team members pehle discuss karte hain ki procedure ka objective kya hai, kaun kya role perform karega, kaunse equipment aur staff chahiye aur kaunse risks anticipate karne hain. Isse sabhi members ko shared plan samajh aata hai. Brief local safety checklist ya required formal time-out ka replacement nahi hai. In procedures ko bhi applicable policy ke according follow karna hota hai.
 
 **Option-by-option reasoning**
 
-- **A:** A discharge counselling patient education ke liye hoti hai.
-- **B:** B incident investigation event ke baad cause explore karti hai.
-- **C:** C planned action se pehle team coordination karta hai.
-- **D:** D debrief activity ke baad performance review karta hai.
+- **A:** Routine discharge counselling patient ko ghar ki care samjhane ke liye hoti hai. Yahan procedure se pehle healthcare team ki preparation discuss ho rahi hai.
+- **B:** Retrospective incident investigation kisi event ke baad uske circumstances aur contributing factors review karti hai. Yahan activity abhi shuru bhi nahi hui hai.
+- **C:** Planned activity se pehle roles, resources aur anticipated risks clear karna brief ka purpose hai. Isliye C sahi hai.
+- **D:** Debrief activity complete hone ke baad team learning aur performance review ke liye hota hai. Yahan preparation pehle ho rahi hai.
 
-**Exam clue:** Brief = before.
+**Exam clue:** Brief planned activity se pehle hota hai. Team ismein roles, resources aur possible risks clear karti hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -957,17 +946,16 @@ Brief planned activity ke pehle short team discussion hai. Team members roles, o
 
 **Correct answer: A. Huddle**
 
-<!-- job5-rationale -->
-Huddle care ke dauran short team meeting hai jab situation change ho aur existing plan revise karna zaroori ho. Unexpected workload, staffing issue ya deteriorating patient ke time priorities, resource allocation aur task ownership reassess karte hain. Huddle immediate emergency treatment ko delay nahi karna chahiye. Updated plan clear communicate aur acknowledge karvao.
+Huddle ek short team meeting hai jo ongoing care ke dauran tab useful hoti hai jab situation change ho jaaye aur existing plan ko revise karne ki zaroorat pade. Maan lo ward mein workload achanak badh gaya hai aur ek patient deteriorate kar raha hai. Team jaldi discuss karti hai ki ab urgent priorities kya hain, available staff aur resources kaise use honge aur kaunsa task kaun karega. Updated plan sabko clearly communicate kiya jaata hai aur relevant acknowledgment li jaati hai. Huddle ke chakkar mein immediate emergency treatment delay nahi hona chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A changing situation ke according real-time replanning karta hai.
-- **B:** B individual patient orientation team coordination replace nahi karti.
-- **C:** C annual appraisal immediate unit priority solve nahi karti.
-- **D:** D post-event debrief current action ke liye late ho sakta hai.
+- **A:** Changing situation ke dauran priorities aur task allocation ko dobara decide karna huddle ka purpose hai. Isliye A sahi hai.
+- **B:** New patient orientation mein individual patient ki care aur relationship establish ki jaati hai. Ye unit-level team replanning ka substitute nahi hai.
+- **C:** Annual performance appraisal long-term staff performance review hai. Isse abhi ki urgent ward priorities timely resolve nahi hoti hain.
+- **D:** Post-event debrief baad mein learning ke liye useful hai, lekin current situation mein plan turant adjust karna zaroori hai.
 
-**Exam clue:** Huddle = during, when the plan needs adjustment.
+**Exam clue:** Huddle ongoing activity ke dauran hota hai, jab changing situation ke hisaab se current plan update karna ho.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -995,17 +983,16 @@ Huddle care ke dauran short team meeting hai jab situation change ho aur existin
 
 **Correct answer: D. Debrief**
 
-<!-- job5-rationale -->
-Debrief activity ya event ke baad structured reflection hai. Team review karti hai kya effective raha, kya communication gap hua aur next time kaunsi practical safeguard improve kar sakti hai. Discussion factual aur learning-oriented honi chahiye. Required clinical documentation aur formal incident report ka replacement nahi hai. Agreed improvement actions ko follow up karna important hai.
+Debrief kisi activity ya event ke complete hone ke baad team ki structured reflection hoti hai. Maan lo patient ka transfer difficult raha. Team baad mein factual tareeke se discuss karti hai ki kya achha hua, kaunsi communication miss hui aur next time kya practical safeguard useful ho sakta hai. Purpose future care improve karna hai, sirf kisi individual ko blame karna nahi. Required clinical documentation aur formal incident reporting agar applicable hai, toh woh alag se complete karni chahiye. Jo improvement actions agree hue hain, unka follow-up bhi important hai.
 
 **Option-by-option reasoning**
 
-- **A:** A brief planned activity ke pehle hota hai.
-- **B:** B call-out current critical finding communicate karta hai.
-- **C:** C teach-back patient ki understanding evaluate karta hai.
-- **D:** D completed activity ke baad team performance review karta hai.
+- **A:** Pre-procedure brief activity se pehle team ki preparation ke liye hota hai. Yahan transfer complete hone ke baad review ho raha hai.
+- **B:** Call-out current urgent observation team ko announce karne ka tool hai. Ye completed event ki structured reflection nahi hai.
+- **C:** Teach-back patient ya caregiver ki teaching samajhne ki ability verify karta hai. Yahan team apna completed work review kar rahi hai.
+- **D:** Completed activity ke baad effective actions, communication gaps aur future improvements review karna debrief hai. Isliye D sahi hai.
 
-**Exam clue:** Debrief = after, learn and improve.
+**Exam clue:** Brief pehle preparation karta hai, huddle activity ke dauran plan adjust karta hai aur debrief baad mein learning aur improvement ke liye hota hai.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
