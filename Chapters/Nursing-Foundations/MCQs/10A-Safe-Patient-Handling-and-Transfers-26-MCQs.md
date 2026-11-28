@@ -368,7 +368,7 @@
 
 **Exam clue:** Power failure mein device-specific emergency lowering plan follow karo.
 
-**Clinical reference:** [Safe handling guidance](https://www.fda.gov/MedicalDevices/ProductsandMedicalProcedures/GeneralHospitalDevicesandSupplies/ucm308622.htm).
+**Clinical reference:** [FDA Patient Lifts Safety Guide](https://www.fda.gov/files/medical%20devices/published/Patient-Lifts-Safety-Guide.pdf), printed page 11.
 
 **YouTube MCQ practice:** Specific item verification pending. [Patient Safety and Positioning MCQ Sessions — Ritika Mam, VS Nursing Academy](https://www.youtube.com/watch?v=SISfTMUsLHg) is an indexed broad topic lead only, not a verified solution to this item.
 
@@ -624,32 +624,32 @@
 
 ---
 
-### Q21. A lateral transfer is about to begin. A line of equipment prevents the team from reaching the opposite side of the stretcher where a staff member must guide the transfer aid. Which action is best?
+### Q21. During the initial low-height trial of a sling lift, the patient begins to tilt and one strap appears to be carrying noticeably more load than the others. Which response is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Team workspace
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Low-height trial stability
 
-- **A.** Reorganize the environment before starting so each assigned team member can reach the required working position
-- **B.** Ask the guide to lean across the patient from the far side
-- **C.** Begin the transfer and change team positions midway while the patient crosses the gap
-- **D.** Omit the guide because the other staff are physically strong
+- **A.** Lower the patient safely onto the support surface and recheck sling position, attachments and fit before continuing
+- **B.** Raise the patient higher to allow the straps to adjust under full suspension
+- **C.** Ask an assistant to hold the patient's body weight while the lift moves
+- **D.** Unhook the loaded strap while the patient is suspended to correct the tilt
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Reorganize the environment before starting so each assigned team member can reach the required working position**
+**Correct answer: A. Lower the patient safely onto the support surface and recheck sling position, attachments and fit before continuing**
 
-**A. Kyun sahi hai:** Har team member ko assigned position safely access karni chahiye. Environment pehle arrange karne se movement coordinated aur controlled rehti hai.
+**A. Kyun sahi hai:** Low-height trial ka purpose ye dekhna hai ki patient sling mein stable hai ya nahi. Agar patient tilt kar raha hai aur ek strap par unusual load aa raha hai, toh aage lift karna unsafe ho sakta hai. Patient ko controlled tareeke se support surface par lower karo aur device instructions ke according fitting aur attachments dobara check karo.
 
-**B. Kyun galat hai:** Patient ke upar lean karne se staff ka balance aur reach compromise ho sakta hai. Patient par unintended pressure bhi aa sakta hai.
+**B. Kyun galat hai:** Height badhane se sling ki incorrect fitting automatically correct nahi hoti. Patient ke slip hone ya fall se injury ka risk badh sakta hai.
 
-**C. Kyun galat hai:** Gap cross karte hue roles change karna support ko interrupt kar sakta hai. Team position pehle confirm karo.
+**C. Kyun galat hai:** Assistant agar suspended patient ka weight manually support kare, toh sling par tension badal sakti hai. Isse attachment disengage hone ka risk ho sakta hai. Device-specific safe lowering use karo.
 
-**D. Kyun galat hai:** Staff strength alone safe handling technique ko replace nahi karti. Transfer aid aur team roles protocol ke according use karo.
+**D. Kyun galat hai:** Loaded attachment ko unhook karne se patient ka support achanak kam ho sakta hai. Correction tab karo jab patient stable surface par supported ho.
 
-**Exam clue:** Staff positions aur access ko movement se pehle confirm karo.
+**Exam clue:** Low-height check mein instability mile toh stop, safely lower aur recheck karo.
 
-**Clinical reference:** [Safe handling guidance](https://opentextbc.ca/clinicalskills/chapter/3-7-transfers-and-ambulation/).
+**Clinical reference:** [FDA Patient Lifts Safety Guide](https://www.fda.gov/files/medical%20devices/published/Patient-Lifts-Safety-Guide.pdf), printed page 10.
 
-**YouTube MCQ practice:** Specific item verification pending. [Patient Safety and Positioning MCQ Sessions — Ritika Mam, VS Nursing Academy](https://www.youtube.com/watch?v=SISfTMUsLHg) is an indexed broad topic lead only, not a verified solution to this item.
+**YouTube MCQ practice:** Specific item verification pending.
 
 </details>
 
@@ -748,32 +748,32 @@
 
 ---
 
-### Q25. After an assisted transfer, a nurse develops new sharp back pain and realizes that the equipment used was difficult to maneuver. Which response supports both immediate and future worker safety?
+### Q25. In a simplified body-mechanics example, a 40-N object is held with a perpendicular distance of 0.5 m from an assumed pivot. If that distance is reduced to 0.25 m while force stays unchanged, what happens to the external turning moment?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Worker injury prevention
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Load distance and turning moment
 
-- **A.** Stop further unsafe handling, report the injury or hazard and arrange appropriate assessment and equipment review
-- **B.** Continue the same method until the end of the shift to avoid changing workflow
-- **C.** Record only the patient's successful transfer because the patient did not fall
-- **D.** Advise the next nurse to use more force when maneuvering the device
+- **A.** It decreases from 20 N m to 10 N m
+- **B.** It increases from 20 N m to 40 N m
+- **C.** It remains 20 N m because the force is unchanged
+- **D.** It becomes zero because the distance is less than one metre
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Stop further unsafe handling, report the injury or hazard and arrange appropriate assessment and equipment review**
+**Correct answer: A. It decreases from 20 N m to 10 N m**
 
-**A. Kyun sahi hai:** New pain ko ignore nahi karna chahiye. Nurse ko appropriate assessment aur reporting arrange karni chahiye, aur equipment ya environment ka hazard review karna chahiye taaki repeat injury na ho.
+**A. Kyun sahi hai:** Turning moment ka matlab force ki wajah se pivot ke around ghumane ka effect hai. Formula force × perpendicular distance hai. Pehle 40 × 0.5 = 20 N m tha. Ab 40 × 0.25 = 10 N m hai. Force same hone par distance half karne se moment bhi half ho gaya.
 
-**B. Kyun galat hai:** Same method continue karne se back injury worsen ho sakti hai. Safe handling problem ko next transfer se pehle address karo.
+**B. Kyun galat hai:** Agar same force ke saath perpendicular distance double ho jaaye toh moment double ho sakta hai. Yahan distance double nahi hua, half hua hai.
 
-**C. Kyun galat hai:** Patient safe rehna important hai, lekin worker injury bhi safety incident hai. Reporting se system-level prevention improve ho sakti hai.
+**C. Kyun galat hai:** Moment sirf force par depend nahi karta. Force ki line aur pivot ke beech ka perpendicular distance bhi important hai, isliye value badlegi.
 
-**D. Kyun galat hai:** Zyada force original maneuvering difficulty ko solve nahi karti. Device condition, space aur handling method review karna safer hai.
+**D. Kyun galat hai:** Distance kam hone se moment kam hota hai, lekin nonzero force aur nonzero perpendicular distance ke saath moment zero nahi hota. Yahan 0.25 m abhi bhi nonzero hai.
 
-**Exam clue:** Safe patient handling patient aur staff dono ko protect karti hai.
+**Exam clue:** Ye simplified physics example hai, actual spine load ya patient-lifting safety limit ka calculation nahi. Patient handling mein assessment aur suitable equipment ki zaroorat phir bhi rehti hai.
 
-**Clinical reference:** [Safe handling guidance](https://www.ccohs.ca/oshanswers/hsprograms/patient_handling.html).
+**Clinical reference:** [OpenStax Fundamentals of Nursing — activity and alignment](https://openstax.org/books/fundamentals-nursing/pages/22-1-importance-of-activity-movement-and-alignment).
 
-**YouTube MCQ practice:** Specific item verification pending. [Patient Safety and Positioning MCQ Sessions — Ritika Mam, VS Nursing Academy](https://www.youtube.com/watch?v=SISfTMUsLHg) is an indexed broad topic lead only, not a verified solution to this item.
+**YouTube MCQ practice:** Specific item verification pending.
 
 </details>
 
