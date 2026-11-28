@@ -1,10 +1,14 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-08b-programmes-20261128-0904Z
-Scope: PR35 isolated 08B national nutrition programme and food entitlement bank, guide, SVG and ledger. No shared navigation or other job edits.
-Claimed UTC: 2026-11-28T09:04:00Z
-Expiry UTC: 2026-11-28T09:34:00Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 08B national nutrition programme updates
+
+Candidate head: 3c1a7ed0138e4ceef6e3f5f54ca86a39fc4bebca
+Inventory: 720 staged originals, 2880 individual rationales, 36 banks, 19 guides, 19 SVGs. Four legacy originals and one adaptation preserved separately.
+Run 8: 40 originals, 160 rationales, 2 banks, 2 guides, 2 diagrams. Exact readbacks and structural checks complete, no normalized exact matches against prior candidate banks. PR35 draft; exact-head workflow 46128957993 pending. Full mandatory preflight, independent reviews, INC mapping, source/video, flagged 07D/07E and PR7/8 gates incomplete. No integration/live credit. Next: retrieve full revised 2026 AMB guideline, audit genuine remaining gaps and complete all gates. Other jobs, learner history, website and five automations untouched.
 
 ## Latest released checkpoint — 08A Indian food labelling and nutrition claims
 
