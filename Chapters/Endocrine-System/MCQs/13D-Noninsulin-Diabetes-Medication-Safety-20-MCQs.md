@@ -574,31 +574,31 @@ D. Cardiovascular benefit requires deliberate severe hypoglycemia
 
 </details>
 
-### Q20. A patient repeatedly misses a diabetes medicine because its monthly cost is unaffordable. Which clinical management response is most appropriate?
+### Q20. An adult newly taking sitagliptin reports severe disabling joint pain that appeared after treatment began. What should the nurse communicate?
 
 **Difficulty:** Easy | **Priority:** 🟠 High yield | **Type:** Original practice
 
-A. Advise purchasing double doses of every medicine
+A. Treat the pain as unavoidable diabetic neuropathy without medication review
 
-B. Permanently discontinue follow-up because the current regimen is unaffordable
+B. Increase sitagliptin because joint pain proves inadequate glucose control
 
-C. Discuss actual access barriers and coordinate an affordable clinically appropriate regimen with the prescriber
+C. DPP-4 inhibitors can cause severe arthralgia; arrange prompt prescriber assessment for possible discontinuation and alternative therapy
 
-D. Record intentional nonadherence without asking about cost
+D. Independently switch to another DPP-4 inhibitor because recurrence is impossible
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: C. Discuss actual access barriers and coordinate an affordable clinically appropriate regimen with the prescriber**
+**Correct answer: C. DPP-4 inhibitors can cause severe arthralgia; arrange prompt prescriber assessment for possible discontinuation and alternative therapy**
 
-- **A — Incorrect:** Double purchases financial burden worsen kar sakti hain. Prescribed therapy ko sustainable banana important hai.
-- **B — Incorrect:** Follow-up discontinue karne se uncontrolled disease risk increase ho sakta hai. Alternative regimen aur support discuss karo.
-- **C — Correct:** Affordability treatment adherence ka important factor hai. Patient se actual barrier samajhkar safe affordable option, monitoring aur support coordinate karo.
-- **D — Incorrect:** Bina history blame karna problem solve nahi karta. Access barrier document karna care planning support karta hai.
+- **A — Incorrect:** Severe joint pain ko automatically diabetic neuropathy bolna sahi nahi hai. Nayi medicine ke timing aur other possible causes ka assessment chahiye.
+- **B — Incorrect:** Arthralgia glucose control ka reliable marker nahi hai. Dose increase karne ke bajay adverse drug reaction ka review zaroori hai.
+- **C — Correct:** Sitagliptin jaise DPP-4 inhibitors severe, disabling joint pain cause kar sakte hain. Prescriber ko promptly report karo taaki medicine discontinue karne aur suitable alternative ka decision ho sake.
+- **D — Incorrect:** Same class ki doosri medicine par bhi symptoms recur kar sakte hain. Nurse ko independently switch nahi karna chahiye.
 
-**Exam clue:** Person-centered treatment includes affordability and access.
+**Exam clue:** Severe arthralgia after DPP-4 inhibitor initiation is a recognized medication safety warning.
 
-**Clinical reference:** [ADA 2026 pharmacologic approaches](https://doi.org/10.2337/dc26-s009)
+**Clinical reference:** [US sitagliptin label, severe and disabling arthralgia](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=1b03c82f-b52e-4092-b9dc-f2c9b0d6ab40)
 
 **YouTube MCQ practice:** Item-specific mapping pending.
 
