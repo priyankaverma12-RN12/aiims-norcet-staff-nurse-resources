@@ -4,29 +4,29 @@
 
 ## Part 1 — Q1–Q5
 
-### Q1. A woman has persistent urine leakage from the vagina after pelvic surgery. During a supervised three-swab dye assessment, the upper swab is wet with clear urine but is not stained blue after methylene blue is instilled into the bladder. Which additional fistula should the team consider?
+### Q1. After pelvic surgery, a patient has new vaginal urine leakage, fever, worsening flank pain and rising serum creatinine. Which nursing escalation best addresses a possible ureteric injury?
 
 **Priority:** Very High · **Difficulty:** Difficult · **Evidence:** Original practice, not PYQ
 
-- **A.** Rectovaginal fistula
-- **B.** Ureterovaginal fistula
-- **C.** Simple stress urinary incontinence
-- **D.** Uncomplicated Bartholin duct cyst
+- **A.** Reassure her that all postoperative vaginal leakage is expected
+- **B.** Arrange prompt surgical/urologic assessment and anticipate upper urinary tract imaging as ordered
+- **C.** Restrict oral and intravenous fluids indefinitely without a prescription
+- **D.** Begin pelvic floor exercises as the only intervention
 
 <details><summary>Answer and detailed A–D Hinglish rationales</summary>
 
-**Correct: B. Ureterovaginal fistula**
+**Correct: B. Arrange prompt surgical/urologic assessment and anticipate upper urinary tract imaging as ordered**
 
-**Correct kyun?** Ureter se urine bladder ko bypass karke vagina mein aa sakta hai. Isliye bladder mein diya blue dye clear upper-vaginal urine ko stain nahi karta. Dye pattern specialist ko fistula site localize karne mein help karta hai, lekin definitive diagnosis ke liye further evaluation zaroori hai.
+**Correct kyun?** Surgery ke baad new urine leak + flank pain + kidney function worsening ureteric injury/obstruction ya infection ke red flags hain. Timely urologic review aur clinician-directed imaging kidney damage prevent karne mein help kar sakte hain.
 
-- **A. Rectovaginal fistula:** Is tract mein bowel se stool ya gas vagina mein aa sakti hai. Clear urine without blue bladder dye ka primary explanation nahi.
-- **B. Ureterovaginal fistula:** Ureter directly vagina se connect ho to continuous urine leakage bladder dye-negative ho sakti hai. Ureteric imaging aur specialist review appropriate hain.
-- **C. Simple stress urinary incontinence:** Cough, sneeze ya exertion se episodic leakage hoti hai. Continuous upper-vaginal urine leak ka typical cause nahi.
-- **D. Uncomplicated Bartholin duct cyst:** Ye posterior vestibule ki localized swelling hai; ureteric clear urine leak cause nahi karti.
+- **A. Reassure her that all postoperative vaginal leakage is expected:** Continuous new urine leakage normal healing assume nahi kar sakte, especially fever aur creatinine rise ke saath.
+- **B. Arrange prompt surgical/urologic assessment and anticipate upper urinary tract imaging as ordered:** Ye anatomical injury aur possible urinary obstruction assess karne ka safest next step hai; clinician CT urography ya alternative imaging decide kar sakta hai.
+- **C. Restrict oral and intravenous fluids indefinitely without a prescription:** Unsupervised fluid restriction kidney perfusion worsen kar sakti hai. Fluid plan vitals aur renal status se guide hota hai.
+- **D. Begin pelvic floor exercises as the only intervention:** Exercises stress leakage mein helpful ho sakti hain, structural ureter injury aur infection ko treat nahi karti.
 
-**Nursing application:** Dye swabs aur leakage site accurately document karo, patient privacy protect karo, urologic/gynecologic team ko promptly report karo. Dye test trained clinician ke supervision mein hota hai.
+**Nursing application:** Vital signs, urine output, creatinine trends aur pain document karo. Prompt escalation, informed consent aur privacy maintain karo.
 
-**Clinical reference:** [NCBI Bookshelf: Vesicovaginal Fistula](https://www.ncbi.nlm.nih.gov/books/NBK564389/). **Question-level PYQ/YouTube evidence:** Not verified.
+**Clinical reference:** [NCBI Bookshelf: Ureteral Injury](https://www.ncbi.nlm.nih.gov/books/NBK507817/). **Exam/video evidence:** Not independently verified.
 
 </details>
 
