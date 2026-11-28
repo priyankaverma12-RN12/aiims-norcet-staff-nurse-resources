@@ -494,13 +494,13 @@
 
 **Correct answer: D. Arrange prompt specialist surgical assessment, taking liver function and operative risk into account**
 
-**D. Kyun sahi hai:** PSC mein gallbladder malignancy ka risk increased hota hai. AASLD guidance mein 8 mm se bade gallbladder polyps ke liye cholecystectomy consider karte hain. Yahan 12 mm ka polyp hai, isliye specialist ko surgical suitability aur liver disease severity assess karni chahiye.
+**A. Kyun galat hai:** New large polyp ko report kiye bina routine follow-up karne se important specialist assessment delay ho sakta hai.
 
 **B. Kyun galat hai:** PSC malignancy se protection nahi deta. Is condition mein gallbladder cancer ka risk badh sakta hai.
 
 **C. Kyun galat hai:** Polyp mucosal growth hai, blood clot nahi. Anticoagulant polyp dissolve karne ka treatment nahi hai.
 
-**A. Kyun galat hai:** New large polyp ko report kiye bina routine follow-up karne se important specialist assessment delay ho sakta hai.
+**D. Kyun sahi hai:** PSC mein gallbladder malignancy ka risk increased hota hai. AASLD guidance mein 8 mm se bade gallbladder polyps ke liye cholecystectomy consider karte hain. Yahan 12 mm ka polyp hai, isliye specialist ko surgical suitability aur liver disease severity assess karni chahiye.
 
 **Exam clue:** PSC mein 8 mm se bada gallbladder polyp specialist surgical review ka important indication hai.
 
