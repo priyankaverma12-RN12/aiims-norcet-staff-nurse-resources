@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 644 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour aur 20 passenger fetal factors aur 20 passage maternal pelvis aur 20 mechanism and cardinal movements MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 704 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour aur 20 passenger fetal factors aur 20 passage maternal pelvis aur 20 mechanism and cardinal movements aur 20 maternal-fetal intrapartum assessment aur 20 partograph aur 20 WHO Labour Care Guide MCQs hain. Chapter abhi complete nahi hai.
 
 ## Study resources
 
@@ -186,6 +186,24 @@
 - [20 original MCQs](MCQs/07G-Mechanism-and-Cardinal-Movements-20-MCQs.md)
 - [One reported HPSSSB adaptation and evidence](Previous-Year-Questions/07G-Mechanism-and-Cardinal-Movements-Evidence.md)
 
+### Maternal-fetal intrapartum assessment
+
+- [Detailed concepts and original diagrams](Concepts/07H-Maternal-Fetal-Intrapartum-Assessment.md)
+- [20 original MCQs](MCQs/07H-Maternal-Fetal-Intrapartum-Assessment-20-MCQs.md)
+- [Evidence and practice gaps](Previous-Year-Questions/07H-Maternal-Fetal-Intrapartum-Assessment-Evidence.md)
+
+### Traditional and modified partograph
+
+- [Detailed concepts and original plots](Concepts/07I-Partograph.md)
+- [20 original MCQs](MCQs/07I-Partograph-20-MCQs.md)
+- [One reported RRB adaptation and evidence](Previous-Year-Questions/07I-Partograph-Evidence.md)
+
+### WHO Labour Care Guide
+
+- [Detailed concepts and worked examples](Concepts/07J-WHO-Labour-Care-Guide.md)
+- [20 original MCQs](MCQs/07J-WHO-Labour-Care-Guide-20-MCQs.md)
+- [Exam and video evidence gaps](Previous-Year-Questions/07J-WHO-Labour-Care-Guide-Evidence.md)
+
 ### Chapter-only mocks
 
 - [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md)
@@ -308,3 +326,14 @@ Is topic mein 20 naye original MCQs aur 80 individual explanations hain. Ab Obst
 ## Mechanism and cardinal movements — 28 November 2026
 
 Ab fetal adaptation, rotation, head birth, shoulder alignment aur normal versus concerning progress ke 20 original MCQs publish hue hain. Har option ka individual Roman Hinglish explanation hai aur concepts mein do original flowcharts hain. HPSSSB October 2020 ka ek independently worded third-party reported adaptation alag add hua hai. Obstetrics mein 644 originals aur 26 historical adaptations hain. Next maternal-fetal intrapartum assessment, partograph, WHO Labour Care Guide aur nursing management hain. Independent clinical, comprehensive semantic, historical official key aur exact video verification pending hain.
+
+## Maternal-fetal intrapartum assessment — 28 November 2026
+20 original MCQs aur 80 individual Roman Hinglish rationales publish hue hain. Obstetrics 664 originals aur 26 historical adaptations. NICE monitoring intervals aur escalation thresholds named guideline context mein samjhaye hain. Independent audit aur video gaps pending. Next partograph, WHO Labour Care Guide aur nursing management.
+
+## Partograph — 28 November 2026
+20 originals, 80 individual rationales, two original chart SVGs and one separate reported RRB adaptation with four reasons. Obstetrics 684 originals and 27 historical adaptations. Traditional plotting conventions distinguished from current WHO guidance. Next WHO Labour Care Guide and nursing management. Independent audit and exact practice gaps pending.
+
+
+## WHO Labour Care Guide — 28 November 2026
+
+Ab WHO LCG ke supportive care, alert boundaries, cervical time references, second-stage documentation aur shared decision-making ke 20 original MCQs publish hue hain. Har option ka separate Roman Hinglish explanation hai aur concepts mein do original flowcharts aur worked examples hain. Obstetrics mein 704 originals aur 27 historical adaptations hain. Naya historical item count nahi kiya gaya hai. Nursing management next hai. Independent clinical, exhaustive semantic aur exact video review pending hain.

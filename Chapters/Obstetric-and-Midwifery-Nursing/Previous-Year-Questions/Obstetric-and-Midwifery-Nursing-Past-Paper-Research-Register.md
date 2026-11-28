@@ -134,3 +134,14 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Mechanism and cardinal movements — 28 November 2026
 
 [HPSSSB October 2020 reported adaptation and research gaps](07G-Mechanism-and-Cardinal-Movements-Evidence.md). Direct third-party report and reported external-rotation key retrieved. Official booklet/key not authenticated. DSSSB 2019 restitution report related to original Q14, not recounted. AIIMS Delhi 2019 and HPRCA archive leads pending. Thirteen broad provisional original video mappings, seven unmapped, exact playback pending all originals and adaptation. Obstetrics historical adaptation inventory now 26.
+
+## Maternal-fetal intrapartum assessment — 28 November 2026
+[Clinical and exam evidence](07H-Maternal-Fetal-Intrapartum-Assessment-Evidence.md). NICE NCBI direct text reviewed, publisher indexed. RRB 29 April 2025 Shift 3 pulse notation report reserved for Partograph. HPRCA 25026 final-key listing indexed, direct retrieval failed. Zero new historical adaptations. Broad MCQ session candidate, all 20 specific practice gaps pending.
+
+## Partograph — 28 November 2026
+[One separate reported RRB 29 April 2025 Shift 3 pulse-symbol adaptation and research gaps](07I-Partograph-Evidence.md). Official final key not authenticated. NHM 2024 text corroborates chart convention. Shift 1 contraction question indexed, not counted. Obstetrics adaptations 27. All 20 originals and adaptation retain exact video gaps.
+
+
+## WHO Labour Care Guide — 28 November 2026
+
+[LCG research gaps](07J-WHO-Labour-Care-Guide-Evidence.md). WHO official form visually inspected, manual and implementation text checked. HPRCA post 25026 key portal returned 403, no matched LCG item or official key. RRB traditional partograph leads remain allocated to 07I. Twenty candidate-linked original video gaps, zero specific verified mappings or playback. Historical adaptation count unchanged at 27 in Obstetrics.
