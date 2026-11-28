@@ -25,6 +25,10 @@
 - **B.** Reference ke comparison mein consistent 3 kg difference measurement error hai. Random variability kam ho sakti hai, lekin systematic error present hai.
 - **C.** Kilograms appropriate measurement unit hai, lekin unit choice accurate device performance establish nahi karti. Known reference ke against testing important hai.
 
+**Exam clue:** Repeatability aur systematic accuracy ko separate rakho.
+
+**Related concept reference:** [COSMIN measurement property taxonomy](https://link.springer.com/article/10.1007/s11136-010-9606-8). Direct HTML, taxonomy and checklist domains reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -50,30 +54,38 @@
 - **C.** Predictive validity future relevant outcome se measure ka relation assess karti hai. Stable patients ke repeated scores future criterion prediction nahi hain.
 - **D.** Inter-rater reliability different assessors ke ratings compare karti hai. Yahan focus same measure ki time stability par hai.
 
+**Exam clue:** Stable patients ke repeated scores se test-retest reliability assess hoti hai.
+
+**Related concept reference:** [COSMIN measurement property taxonomy](https://link.springer.com/article/10.1007/s11136-010-9606-8). Direct HTML, taxonomy and checklist domains reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
 
-### Q3. Two independent nurses use the same pressure-injury staging criteria to assess the same set of cases, without seeing each other's ratings. Which property is directly assessed by comparing their ratings?
+### Q3. A symptom scale has an estimated individual smallest detectable change of 6 points at the stated confidence level. A patient's score improves by 4 points. Which interpretation is most defensible?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Inter-rater reliability
-- **B.** Test-retest reliability across a prolonged time interval
-- **C.** Content validity of the criteria
-- **D.** Predictive validity for future wound healing
+- **A.** The observed change does not exceed the estimated measurement-error threshold
+- **B.** The change is necessarily clinically unimportant
+- **C.** The patient has definitely not improved
+- **D.** The instrument is necessarily invalid for the study population
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Inter-rater reliability**
+**Correct: A. The observed change does not exceed the estimated measurement-error threshold**
 
-**A.** Dono nurses same cases ko independently rate kar rahi hain. Ratings ka agreement assess karne se pata chalega ki criteria different observers ke beech kitne consistently apply ho rahe hain.
+**A.** Smallest detectable change (SDC) measurement error ke context mein change ki threshold batata hai. Yahan 4 points, stated 6-point SDC se kam hain. Isliye individual score change ko us confidence level par measurement error se confidently alag nahi kar sakte. Yeh actual improvement ko rule out nahi karta.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Test-retest design primarily repeated time measurements compare karta hai. Yahan central comparison different assessors ka hai.
-- **C.** Content validity staging tool ke relevant domains aur definitions evaluate karti hai. Observer agreement alone complete content coverage establish nahi karta.
-- **D.** Future healing outcomes is comparison mein measure nahi hue. Rater agreement predictive performance ka evidence nahi hai.
+- **B.** Clinically important change patient ke liye meaningful benefit se related hai. SDC measurement error se related hai. Dono thresholds different hain, isliye sirf SDC se clinical importance decide nahi hoti.
+- **C.** Observed change mein true improvement aur measurement error dono ka contribution ho sakta hai. Threshold cross na karna absence of improvement ka definitive proof nahi hai.
+- **D.** Measurement error ek specific property hai. Is one observation se tool ki complete validity ya suitability establish ya reject nahi kar sakte. Intended use ke liye broader evidence check karo.
+
+**Exam clue:** Measurement error ki threshold aur clinically important change ki threshold alag hain.
+
+**Related concept reference:** [COSMIN systematic review guideline, measurement error and SDC](https://pmc.ncbi.nlm.nih.gov/articles/5891568/). Indexed criteria retrieved, full item-specific review pending. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -83,22 +95,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Pearson's correlation as the sole measure of agreement
-- **B.** The arithmetic mean of the record identifiers
+- **A.** Pearson correlation between the two binary ratings
+- **B.** McNemar test of marginal disagreement
 - **C.** Cohen's kappa
-- **D.** A paired t-test of the raters' names
+- **D.** Raw percentage agreement alone
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. Cohen's kappa**
 
-**C.** Cohen's kappa do raters ki categorical agreement ko chance agreement ke estimate ke against assess karta hai. Category prevalence aur marginal distributions interpretation affect kar sakti hain.
+**C.** Cohen kappa observed agreement ko expected chance agreement ke against quantify karta hai. Do observers aur nominal categories ke scenario mein yeh suitable measure ho sakta hai. Category prevalence aur rater marginals kappa ko influence kar sakte hain, isliye raw agreement bhi report karna useful hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Correlation association measure karti hai aur agreement ke systematic differences miss kar sakti hai. Binary classification agreement ke liye kappa zyada directly relevant hai.
-- **B.** Record IDs labels hain, ratings ki agreement ka measure nahi. Unka mean calculate karne se observer consistency assess nahi hogi.
-- **D.** Names categorical identifiers hain aur numerical paired difference ka meaningful outcome nahi. Paired t-test continuous paired outcomes ke appropriate assumptions mein use hota hai.
+- **A.** Pearson correlation association batata hai, chance-corrected categorical agreement nahi. Raters ke labels mein relation hone ke bawajood agreement incomplete ho sakti hai.
+- **B.** McNemar test paired binary categories ke discordant counts compare karta hai. Yeh marginal proportions ke difference ka test hai, chance-adjusted agreement coefficient nahi hai.
+- **D.** Raw agreement same label milne wale cases ka proportion hai. Yeh useful descriptive measure hai, lekin expected chance agreement ko adjust nahi karta. Question specifically beyond-chance agreement poochta hai.
+
+**Exam clue:** Do raters ke binary labels mein chance-adjusted agreement ke liye Cohen kappa use ho sakta hai.
+
+**Related concept reference:** [Common pitfalls in statistical analysis: Measures of agreement](https://pmc.ncbi.nlm.nih.gov/articles/PMC5654219/). Indexed binary agreement guidance. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -117,13 +133,17 @@
 
 **Correct: B. The items show substantial internal consistency under the relevant assumptions, but validity and dimensionality still require evidence**
 
-**B.** Alpha items ke scores ke interrelationship se internal consistency assess karta hai. High alpha alone yeh prove nahi karta ki scale sirf anxiety measure karta hai ya single dimension mein hai.
+**B.** Alpha items ke scores ke interrelationship se internal consistency assess karta hai. High alpha alone yeh prove nahi karta ki scale sirf anxiety measure karta hai ya single dimension mein hai. Item count aur inter-item covariance alpha ko influence karte hain. Internal consistency interpret karne se pehle relevant dimensional structure ka evidence check karo.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Validity specific intended use aur population ke evidence par depend karti hai. High alpha cross-cultural equivalence establish nahi karta.
 - **C.** Items related construct ko different aspects se represent kar sakte hain. High alpha se exact symptom identity prove nahi hoti aur redundant items bhi alpha badha sakte hain.
 - **D.** Responsiveness change detect karne ki property hai. Internal consistency alone longitudinal change sensitivity establish nahi karti.
+
+**Exam clue:** High alpha se validity ya unidimensionality prove nahi hoti.
+
+**Related concept reference:** [COSMIN measurement property taxonomy](https://link.springer.com/article/10.1007/s11136-010-9606-8). Direct HTML, taxonomy and checklist domains reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -142,13 +162,17 @@
 
 **Correct: C. Content validity**
 
-**C.** Experts dekh rahe hain ki tool intended discharge-readiness construct ke relevant domains sufficiently cover karta hai ya nahi. Intended patients ki feedback bhi item relevance aur comprehensibility assess karne mein useful hoti hai.
+**C.** Experts dekh rahe hain ki tool intended discharge-readiness construct ke relevant domains sufficiently cover karta hai ya nahi. Intended patients ki feedback bhi item relevance, comprehensiveness aur comprehensibility assess karne mein useful hoti hai. Expert review alone har content-validity concern resolve nahi karta.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Test-retest mein stable participants ko repeat measurement diya jata hai. Expert domain review repeated scores ka comparison nahi hai.
 - **B.** Raters ke scores compare karne ke bajaye panel tool ki content coverage evaluate kar raha hai. Content adequacy aur scoring consistency alag questions hain.
 - **D.** Future hospital readmission jaise outcome yahan measure nahi hue. Expert judgment future prediction directly establish nahi karta.
+
+**Exam clue:** Relevant, comprehensive aur understandable items content validity ke clues hain.
+
+**Related concept reference:** [COSMIN measurement property taxonomy](https://link.springer.com/article/10.1007/s11136-010-9606-8). Direct HTML, taxonomy and checklist domains reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -175,6 +199,10 @@
 - **C.** Time ke across repeated stable scores test nahi hue hain. Isliye face feedback score stability guarantee nahi karta.
 - **D.** Questionnaire relevant lagne se future outcomes predict karna establish nahi hota. Prediction ke liye appropriate follow-up data chahiye.
 
+**Exam clue:** Surface impression face validity ka clue hai, complete validation nahi.
+
+**Related concept reference:** [COSMIN measurement property taxonomy](https://link.springer.com/article/10.1007/s11136-010-9606-8). Direct HTML, taxonomy and checklist domains reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -192,13 +220,17 @@
 
 **Correct: D. Concurrent criterion-related validity**
 
-**D.** New method aur appropriate reference ko same period mein compare kiya ja raha hai. Agreement aur systematic differences assess karne se concurrent criterion evidence mil sakta hai.
+**D.** New method aur appropriate reference ko same period mein compare kiya ja raha hai. Agreement aur systematic differences assess karne se concurrent criterion evidence mil sakta hai, provided reference method genuinely suitable hai. Correlation high hone par bhi readings interchangeably accurate hona zaroori nahi.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Future cardiovascular outcomes follow nahi kiye gaye hain. Yahan immediate reference comparison ho raha hai.
 - **B.** Device readings ka reference comparison instrument performance assess karta hai. Written item coverage is scenario ka focus nahi hai.
 - **C.** Internal consistency multi-item scale ke item relationships se linked hai. Two measurement methods compare karna alag objective hai.
+
+**Exam clue:** Same-time suitable criterion comparison concurrent validity ka traditional clue hai.
+
+**Related concept reference:** [COSMIN measurement property taxonomy](https://link.springer.com/article/10.1007/s11136-010-9606-8). Direct HTML, taxonomy and checklist domains reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -225,6 +257,10 @@
 - **C.** Test-retest repeated score stability assess karti hai. Yahan score ko repeat karne ke bajaye later falls observe kiye ja rahe hain.
 - **D.** Internal consistency scale items ke relation par focus karti hai. Future event prediction ke liye outcome-based evaluation chahiye.
 
+**Exam clue:** Baseline score se future outcome ki prediction predictive validity hai.
+
+**Related concept reference:** [Measuring what matters in healthcare, psychometric principles](https://pmc.ncbi.nlm.nih.gov/articles/PMC10543275/). Indexed text retrieved, direct access challenged by CAPTCHA. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -250,6 +286,10 @@
 - **B.** Different assessors same instrument use karke agreement compare nahi kar rahe. Do related instruments ke relation ka test ho raha hai.
 - **D.** Future diagnosis outcome measure nahi hua. Present related measures ka expected association assess hua hai.
 
+**Exam clue:** Related constructs ke expected association se convergent evidence milta hai.
+
+**Related concept reference:** [COSMIN measurement property taxonomy](https://link.springer.com/article/10.1007/s11136-010-9606-8). Direct HTML, taxonomy and checklist domains reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -267,13 +307,17 @@
 
 **Correct: D. Discriminant validity**
 
-**D.** Jab instrument distinct ya unrelated construct ke saath weak relation dikhata hai, toh yeh support karta hai ki tool har unrelated trait ko same tarah capture nahi kar raha. Expected pattern ko theory aur data ke context mein interpret karna chahiye.
+**D.** Jab instrument distinct ya unrelated construct ke saath weak relation dikhata hai, toh yeh support karta hai ki tool har unrelated trait ko same tarah capture nahi kar raha. Expected pattern ko theory aur data ke context mein interpret karna chahiye. Ek unrelated preference ke saath weak relation alone complete discriminant validity prove nahi karta.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Convergent validity mein related constructs ke expected strong relation ka evidence chahiye. Unrelated preference ke saath weak association discriminant evidence ke liye relevant hai.
 - **B.** Change over time assess nahi hua. Responsiveness ke liye actual change detect karne ki capacity evaluate karni hoti hai.
 - **C.** Same participants ke repeated stable scores compare nahi hue. Weak association with a different construct score stability ka evidence nahi hai.
+
+**Exam clue:** Distinct constructs ke expected weak association se discriminant evidence milta hai.
+
+**Related concept reference:** [COSMIN measurement property taxonomy](https://link.springer.com/article/10.1007/s11136-010-9606-8). Direct HTML, taxonomy and checklist domains reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -300,6 +344,10 @@
 - **C.** Test-retest reliability stable patients mein score consistency check karti hai. Improvement wale patients mein true change capture karna responsiveness ka question hai.
 - **D.** Sampling frame eligible participants ke coverage se related hai. Yeh scale ki actual change sensitivity ka measurement property nahi hai.
 
+**Exam clue:** True change detect karne ki ability responsiveness hai.
+
+**Related concept reference:** [COSMIN measurement property taxonomy](https://link.springer.com/article/10.1007/s11136-010-9606-8). Direct HTML, taxonomy and checklist domains reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -317,13 +365,17 @@
 
 **Correct: B. Ceiling effect**
 
-**B.** Jab many patients maximum score par cluster karte hain, tool higher levels mein differences ya further improvement capture nahi kar pata. Isse discrimination aur responsiveness limit ho sakti hain.
+**B.** Jab bahut se patients maximum score par cluster karte hain, tool higher levels mein differences ya further improvement capture nahi kar pata. Isse discrimination aur responsiveness limit ho sakti hain.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Floor effect mein scores minimum ke paas cluster karte hain. Yahan problem upper score limit par hai.
 - **C.** Allocation concealment upcoming trial group assignment hide karne ka method hai. Maximum scale score clustering measurement issue hai.
 - **D.** Maximum score par crowding meaningful differences hide kar sakti hai. Isliye tool ki intended population mein performance evaluate karni chahiye.
+
+**Exam clue:** Maximum score par clustering ceiling effect hai.
+
+**Related concept reference:** [Measuring what matters in healthcare, psychometric principles](https://pmc.ncbi.nlm.nih.gov/articles/PMC10543275/). Indexed text retrieved, direct access challenged by CAPTCHA. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -350,6 +402,10 @@
 - **B.** Responses present hain, lekin scoring rule incorrectly applied hua hai. Original responses preserve karke correct scoring rerun karna chahiye.
 - **C.** Positive aur negative wording response style address karne ke liye use ho sakti hai, lekin incorrect scoring validity improve nahi karti. Scoring manual follow karna zaroori hai.
 
+**Exam clue:** Scoring manual ke according negative-direction items reverse karo.
+
+**Related concept reference:** [Measuring what matters in healthcare, psychometric principles](https://pmc.ncbi.nlm.nih.gov/articles/PMC10543275/). Indexed text retrieved, direct access challenged by CAPTCHA. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -375,6 +431,10 @@
 - **B.** Length alone measurement quality decide nahi karti. Burden, comprehension aur coverage evaluate karne chahiye.
 - **D.** Unrelated questions intended construct measure nahi karenge. Adaptation evidence aur content relevance ke basis par honi chahiye.
 
+**Exam clue:** Intended population ke liye evidence check karo, validation universal nahi hoti.
+
+**Related concept reference:** [COSMIN measurement property taxonomy](https://link.springer.com/article/10.1007/s11136-010-9606-8). Direct HTML, taxonomy and checklist domains reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -383,22 +443,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Data-source triangulation
-- **B.** Randomized allocation to three interview treatments
-- **C.** Cronbach's alpha calculation
-- **D.** A guarantee that every interpretation is objectively final
+- **A.** Triangulation across sources and collection methods
+- **B.** Member checking of a tentative interpretation
+- **C.** Peer debriefing with an external researcher
+- **D.** Thick description of the research setting
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Data-source triangulation**
+**Correct: A. Triangulation across sources and collection methods**
 
-**A.** Multiple sources compare karne se researcher phenomenon ka broader context dekh sakta hai. Differences ko bhi investigate karna important hai, kyunki agreement ko force karna scientific interpretation nahi hai.
+**A.** Interview accounts, field notes aur documents ko compare karne se multiple types of evidence examine hote hain. Isko broadly triangulation kehte hain. Specific framework ke according data-source aur methodological triangulation ke labels overlap kar sakte hain. Convergence ke saath disagreement bhi investigate karo.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Different data sources use karna random treatment assignment nahi hai. Qualitative triangulation findings ko multiple perspectives se examine karti hai.
-- **C.** Alpha multi-item quantitative scale ki internal consistency evaluate karta hai. Interviews aur documents ka qualitative comparison alpha calculation nahi hai.
-- **D.** Triangulation rigor improve kar sakti hai, lekin multiple interpretations aur researcher assumptions phir bhi consider karne chahiye. Yeh absolute certainty guarantee nahi karti.
+- **B.** Member checking mein willing participants ko interpretation ya account par feedback dene ka opportunity diya jata hai. Question mein different evidence sources compare ho rahe hain, participant feedback ka step nahi diya gaya.
+- **C.** Peer debriefing mein another researcher analytic reasoning challenge ya discuss karta hai. Is scenario ka key action multiple collected records compare karna hai.
+- **D.** Thick description setting aur context ko detail mein explain karti hai, jisse readers relevance judge kar sakein. Yahan primary technique different kinds of evidence ko compare karna hai.
+
+**Exam clue:** Multiple data sources aur methods findings ko different perspectives se examine karte hain.
+
+**Related concept reference:** [Practical guidance to qualitative research: trustworthiness](https://doi.org/10.1080/13814788.2017.1375092). Indexed definitions and strategies retrieved, direct access blocked. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -408,22 +472,26 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Inter-rater reliability of a quantitative scale
-- **B.** Predictive validity of a diagnostic test
+- **A.** Credibility
+- **B.** Dependability
 - **C.** Transferability
-- **D.** Random allocation concealment
+- **D.** Confirmability
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: C. Transferability**
 
-**C.** Detailed contextual description reader ko judge karne deti hai ki findings doosre setting mein meaningful ho sakti hain ya nahi. Yeh statistical representativeness ka automatic claim nahi hai.
+**C.** Transferability mein reader context aur participant details dekhkar decide karta hai ki findings apne setting mein relevant ho sakti hain ya nahi. Rich description is judgment ko support karti hai, statistical generalization guarantee nahi karti.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Scale ratings aur different raters ka agreement yahan assess nahi ho raha. Context description qualitative applicability judgment support karti hai.
-- **B.** Future diagnostic outcome prediction is scenario mein evaluate nahi hua. Trustworthiness ka relevant criterion transferability hai.
-- **D.** Treatment allocation ka koi step nahi hai. Rich context reporting future setting relevance assess karne mein madad karti hai.
+- **A.** Credibility findings ki plausibility aur participant experience se meaningful fit par focus karti hai. Context description credibility ko bhi help kar sakti hai, lekin question specifically other settings ki applicability judge karne ki baat karta hai.
+- **B.** Dependability research process ki traceability aur consistency se related hai. Detailed process log useful hota hai, lekin setting description ka stated purpose doosre context mein relevance judge karna hai.
+- **D.** Confirmability interpretations ko underlying evidence se link karne aur researcher assumptions ko examine karne se related hai. Yahan main focus contextual applicability hai.
+
+**Exam clue:** Rich contextual description transferability support karti hai.
+
+**Related concept reference:** [Practical guidance to qualitative research: trustworthiness](https://doi.org/10.1080/13814788.2017.1375092). Indexed definitions and strategies retrieved, direct access blocked. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -434,21 +502,25 @@
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
 - **A.** Dependability
-- **B.** Statistical power
-- **C.** Criterion validity against a gold-standard device
-- **D.** Guaranteed transferability to every hospital
+- **B.** Credibility
+- **C.** Transferability
+- **D.** Confirmability as the sole concern
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: A. Dependability**
 
-**A.** Audit trail se reader ya reviewer samajh sakta hai ki study process kaise conduct aur modify hua. Transparent decisions process consistency aur traceability support karte hain, aur confirmability ko bhi help kar sakte hain.
+**A.** Dependability research process ki consistency aur traceability ko address karti hai. Protocol, coding aur analysis changes ka audit trail reviewer ko samjhata hai ki decisions kab aur kyun liye gaye. Yeh process ko mechanically identical repeat karne ki guarantee nahi hai.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Power quantitative hypothesis test mein specified effect detect karne ki probability hai. Qualitative decision log power calculation nahi karta.
-- **C.** No reference device comparison described hai. Audit trail qualitative research process ke documentation par focus karta hai.
-- **D.** Detailed record useful hai, lekin different settings mein applicability context par depend karti hai. Universal transferability guarantee nahi hoti.
+- **B.** Credibility interpretations ki plausibility aur participant accounts ke meaningful fit par focus karti hai. Audit trail useful ho sakta hai, lekin scenario specifically process decisions trace karne par focused hai.
+- **C.** Transferability rich contextual description se other settings mein relevance judge karne mein help karti hai. Chronological decision log ka stated main purpose process traceability hai.
+- **D.** Audit trail confirmability bhi support kar sakta hai, especially jab findings ko original data se link kare. Lekin ise sole concern kehna galat hai. Given focus process changes par hai, isliye dependability most direct answer hai.
+
+**Exam clue:** Process aur analytic decisions ka audit trail dependability support karta hai.
+
+**Related concept reference:** [Practical guidance to qualitative research: trustworthiness](https://doi.org/10.1080/13814788.2017.1375092). Indexed definitions and strategies retrieved, direct access blocked. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -458,22 +530,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Sample size power for a two-group trial
-- **B.** Concurrent criterion validity
-- **C.** A fully concealed random assignment sequence
+- **A.** Transferability
+- **B.** Dependability alone
+- **C.** Credibility alone
 - **D.** Confirmability
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: D. Confirmability**
 
-**D.** Reflexive journal researcher ko apne assumptions recognize karne mein madad karta hai. Interpretations ko participant data se link karna findings ko sirf personal preference ka result banne se bachane ki koshish hai.
+**D.** Confirmability ka focus interpretations ko original evidence se trace karna aur researcher ke assumptions ka influence critically examine karna hai. Reflexive journal bias eliminate karne ki guarantee nahi deta, but transparent reasoning aur grounding improve kar sakta hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Reflexivity quantitative sample size ka calculation nahi karti. Yahan focus qualitative interpretation ki grounding par hai.
-- **B.** Concurrent criterion validity appropriate reference measurement ke saath same period ka empirical comparison hai. Reflexive journal aur qualitative accounts ka review aisa criterion comparison nahi hai.
-- **C.** Allocation concealment trial mein upcoming assignment hide karti hai. Qualitative investigator ke assumptions aur data grounding ka issue random allocation se address nahi hota.
+- **A.** Transferability detailed setting aur participant description se readers ko applicability judge karne mein help karti hai. Reflexive journal ka stated focus personal assumptions aur interpretation ka data se connection hai.
+- **B.** Dependability research process aur changes ki traceability se related hai. Journal process record bhi de sakta hai, lekin yahan interpretation ko personal assumptions se distinguish karna main task hai.
+- **C.** Credibility participant accounts ki meaningful interpretation se related hai aur reflexivity ise bhi support kar sakti hai. Lekin question mein evidence grounding aur investigator influence par specific emphasis confirmability ko zyada directly address karta hai.
+
+**Exam clue:** Reflexivity aur original accounts se grounding confirmability support karti hain.
+
+**Related concept reference:** [Practical guidance to qualitative research: trustworthiness](https://doi.org/10.1080/13814788.2017.1375092). Indexed definitions and strategies retrieved, direct access blocked. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -483,22 +559,26 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Perfect generalizability to the entire national population
+- **A.** Transferability
 - **B.** Credibility
-- **C.** Measurement error estimation in a calibrated instrument
-- **D.** Random assignment of participants to interventions
+- **C.** Dependability as the only purpose
+- **D.** Confirmability as the only purpose
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
 **Correct: B. Credibility**
 
-**B.** Participant feedback se researcher check kar sakta hai ki interpretation unke accounts ke saath meaningful fit rakhti hai ya nahi. Disagreement ko preserve karne se interpretation refine hoti hai, lekin member checking har qualitative approach mein compulsory nahi hai.
+**B.** Participant feedback ya member checking researcher ko tentative interpretation aur participant accounts ke meaningful fit ko examine karne deta hai. Disagreement ko seriously consider karo. Yeh credibility support kar sakta hai, though har qualitative approach mein member checking necessary ya appropriate nahi hoti.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Participant feedback selected accounts ki interpretation improve kar sakti hai. National statistical representativeness ka evidence is process se nahi milta.
-- **C.** Yahan numerical instrument ki reference readings compare nahi ho rahi. Qualitative interpretation ka feedback collect ho raha hai.
-- **D.** Participants interpretations discuss kar rahe hain, treatment groups assign nahi ho rahe. Credibility evaluation randomization se alag hai.
+- **A.** Transferability mein reader context aur setting details se relevance judge karta hai. Participant feedback ka main stated purpose current interpretation ko refine karna hai, other populations par applicability establish karna nahi.
+- **C.** Dependability analytic process ki traceability se related hai. Feedback ka record helpful ho sakta hai, but is scenario ka primary aim interpretation ki credibility examine karna hai.
+- **D.** Confirmability data-grounded interpretations aur researcher assumptions ko address karti hai. Feedback useful ho sakta hai, but member checking ko sirf confirmability tak limit karna justified nahi hai.
+
+**Exam clue:** Interpretation par participant feedback credibility support kar sakta hai.
+
+**Related concept reference:** [Practical guidance to qualitative research: trustworthiness](https://doi.org/10.1080/13814788.2017.1375092). Indexed definitions and strategies retrieved, direct access blocked. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
