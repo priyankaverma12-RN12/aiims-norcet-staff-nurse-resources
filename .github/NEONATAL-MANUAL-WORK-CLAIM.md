@@ -2,7 +2,7 @@
 
 State: CLAIMED
 Owner: neonatal-b02-20261128-1312Z
-Scope: PR57 new isolated neonatal prophylaxis and feeding topic packages only, no shared navigation or previous bank changes
+Scope: PR57 isolated new neonatal prophylaxis, feeding, resuscitation, prematurity and KMC packages only, no shared navigation or existing banks changes
 Claimed UTC: 2026-11-28T13:12:00Z
 Expiry UTC: 2026-11-28T13:42:00Z
 
