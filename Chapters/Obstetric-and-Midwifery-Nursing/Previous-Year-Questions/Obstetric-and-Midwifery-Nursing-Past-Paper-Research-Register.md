@@ -49,3 +49,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Embryonic and fetal development evidence — 28 November 2026
 
 [Two reported adaptations, DSSSB 29 August 2019 Shift 3 morula and ESIC 19 March 2016 Shift I fetal urine onset](04-Embryonic-and-Fetal-Development-Reported-Evidence.md). Third-party pages retrieved, official booklets and keys pending. GMCH 2019 cardiac timing report retrieved but ambiguous clock, not counted. AIIMS Bhopal and UP NHM leads reserved, HPRCA official final-key notice indexed but direct fetch failed. Current Obstetrics total 12 reported adaptations. Seven embryonic provisional topic links, 33 specific item coverage gaps and 40 exact playback gaps.
+
+## Placental structure and function — 28 November 2026
+
+[UPPSC 10 April 2022 reported adaptation and related leads](05A-Placenta-Reported-Exam-Evidence.md). One new reported adaptation, no authenticated official paper/key. Related NVS, UPRVUNL, Kerala PSC and RRB leads not double counted. Dedicated teaching and MCQ video descriptions indexed; playback and question-level coverage pending. Current obstetric reported total: 13.
