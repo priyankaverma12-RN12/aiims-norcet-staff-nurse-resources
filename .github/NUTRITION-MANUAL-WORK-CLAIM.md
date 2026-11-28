@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-07e-elderly-20261128-0838Z
+Scope: PR35 isolated 07E elderly-specific nutrition and hydration assessment, supplementation and food care. Excludes PR39 geriatric functional assessments, frailty interventions and shared navigation. Candidate-only new bank, guide, SVG and ledger.
+Claimed UTC: 2026-11-28T08:38:02Z
+Expiry UTC: 2026-11-28T09:08:02Z
 
 ## Latest released checkpoint — 07D school-age nutrition and school meals
 
