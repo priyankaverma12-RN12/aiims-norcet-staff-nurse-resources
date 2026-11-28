@@ -1,10 +1,10 @@
 # Dedicated Mental Health Nursing manual claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: mental-health-manual-20261128-0436Z
+Scope: Mental Health Group 02B psychosocial assessment and chapter-local navigation, no PR merges or other job edits.
+Claimed UTC: 2026-11-28T04:36:00Z
+Expiry UTC: 2026-11-28T05:06:00Z
 
 ## Verified continuation — Group 02A, 28 November 2026
 
