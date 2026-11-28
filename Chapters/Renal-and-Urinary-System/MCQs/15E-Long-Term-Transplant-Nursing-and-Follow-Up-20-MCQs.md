@@ -377,28 +377,28 @@ Lymphocele vessels compress karke leg edema ya urinary obstruction cause kar sak
 
 </details>
 
-### Q16. A recipient has unexpectedly poor graft function immediately after transplant and needs temporary hemodialysis. What should the nurse explain?
+### Q16. A recipient has improving graft filtration but develops low serum phosphate with increased urinary phosphate loss early after transplantation. Which mechanism can contribute to this pattern?
 
 **Difficulty:** Difficult | **Topic:** Long-term kidney transplant nursing and graft follow-up | **Priority:** High | **Type:** Original practice
 
-- **A.** Dialysis in the first week always proves permanent graft loss
-- **B.** All immunosuppression should be stopped automatically
-- **C.** Temporary dialysis can support the patient during delayed graft recovery while the team investigates causes
-- **D.** Further graft assessment is unnecessary
+- **A.** Complete absence of renal phosphate excretion
+- **B.** Permanent cessation of intestinal mineral absorption in every recipient
+- **C.** Persistent phosphaturic hormonal effects from the pre-transplant CKD period
+- **D.** Proof of recurrent dialysis-dependent kidney failure
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Temporary dialysis can support the patient during delayed graft recovery while the team investigates causes**
+**Correct: C. Persistent phosphaturic hormonal effects from the pre-transplant CKD period**
 
-Delayed graft function mein temporary dialysis metabolic aur volume support provide karti hai; graft recovery possible hai, causes evaluate hote hain.
+Restored graft function ke baad elevated PTH aur FGF-23 kuch time persist kar sakte hain, jisse renal phosphate wasting aur hypophosphatemia develop ho sakti hai. Serum phosphate trend, symptoms aur prescribed correction team review kare.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Early dialysis permanent loss establish nahi karti.
-- **B.** Immune therapy specialist plan ke according continue ya adjust hoti hai.
-- **D.** Assessment reversible causes detect karne ke liye important hai.
+- **A.** Absent phosphate excretion given increased urinary losses ke opposite hai.
+- **B.** Intestinal absorption contribute kar sakti hai, par universal cessation claim incorrect hai aur given renal wasting explain nahi karti.
+- **D.** Improving filtration ke saath phosphate wasting ho sakti hai; low phosphate dialysis-dependent failure prove nahi karta.
 
-**Exam clue:** Dialysis can bridge delayed graft recovery.
+**Exam clue:** Restored filtration and persistent phosphaturic hormones can coexist.
 
 </details>
 
@@ -506,3 +506,5 @@ Early planning access, suitability, symptom care aur patient preferences address
 - [EAU transplant guideline](https://uroweb.org/guidelines/renal-transplantation/chapter/the-guideline) and [2025 surgical complication review](https://pmc.ncbi.nlm.nih.gov/articles/PMC12112604/), early graft function, lymphocele and vascular complications.
 - [NHSBT longer-term risks](https://www.nhsbt.nhs.uk/organ-transplantation/kidney/benefits-and-risks-of-a-kidney-transplant/risks-of-a-kidney-transplant/longer-term-risks-of-a-kidney-transplant/), [delayed graft function](https://www.nhsbt.nhs.uk/organ-transplantation/kidney/benefits-and-risks-of-a-kidney-transplant/risks-of-a-kidney-transplant/delayed-graft-function/) and [staying healthy](https://www.nhsbt.nhs.uk/organ-transplantation/kidney/living-with-a-kidney-transplant/staying-healthy-after-a-kidney-transplant/).
 - [NKF life with a kidney transplant](https://www.kidney.org/kidney-topics/life-kidney-transplant), follow-up and preventive care. Q18–20 require dedicated pregnancy, transition and failing graft evidence confirmation. Indexed research; independent clinical and question-specific source/video verification pending.
+
+- [Bone and mineral disease in kidney transplant recipients](https://pmc.ncbi.nlm.nih.gov/articles/PMC8763144/), Q16 phosphate wasting.
