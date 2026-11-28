@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 324 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane aur 20 amniotic fluid MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 344 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid aur 20 umbilical cord MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -19,6 +19,7 @@
 | Placental structure and function | [Detailed concepts and two original flowcharts](Concepts/05A-Placental-Structure-and-Function.md) · [20 original MCQs](MCQs/05A-Placental-Structure-and-Function-20-MCQs.md) · [UPPSC 2022 reported practice](Previous-Year-Questions/05A-Placenta-Reported-Exam-Evidence.md) |
 | Fetal membranes | [Detailed concepts and original flowcharts](Concepts/05B-Fetal-Membranes.md) · [20 original MCQs](MCQs/05B-Fetal-Membranes-20-MCQs.md) · [BHU 2019 reported practice](Previous-Year-Questions/05B-Fetal-Membranes-Reported-Evidence.md) |
 | Amniotic fluid | [Detailed concepts and original flowcharts](Concepts/05C-Amniotic-Fluid.md) · [20 original MCQs](MCQs/05C-Amniotic-Fluid-20-MCQs.md) · [RRB 2018 and GMCH 2022 reported practice](Previous-Year-Questions/05C-Amniotic-Fluid-Reported-Evidence.md) |
+| Umbilical cord | [Detailed concepts and original flowcharts](Concepts/05D-Umbilical-Cord.md) · [20 original MCQs](MCQs/05D-Umbilical-Cord-20-MCQs.md) · [Two RRB 2019 reported questions](Previous-Year-Questions/05D-Umbilical-Cord-Reported-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -72,3 +73,7 @@ Fetal membranes ke 20 original MCQs, 80 individual rationales, two original flow
 ## Verified amniotic fluid expansion — 28 November 2026
 
 Amniotic fluid ke 20 original MCQs, 80 individual rationales, two original flowcharts aur two reported adaptations publish hue. Current chapter inventory: 324 originals, 16 reported adaptations. Historical volume convention and current SMFM ultrasound thresholds separate rakhe gaye hain. Umbilical cord next; independent audit, official keys and exact video verification pending.
+
+## Verified umbilical cord expansion — 28 November 2026
+
+Umbilical cord ke 20 original MCQs, 80 option explanations, three original flowcharts aur two RRB 2019 reported adaptations publish hue. Current chapter inventory: 344 indexed originals and 18 reported adaptations. Six current topic targets (embryonic development, fetal growth, placenta, fetal membranes, amniotic fluid, umbilical cord) each have 20 new original questions. Next fetal assessment; independent clinical/semantic audits, official keys, exact video playback and diagram rendering remain pending.
