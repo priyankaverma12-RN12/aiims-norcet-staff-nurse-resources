@@ -8,7 +8,7 @@
 
 ## Sodium — food exposure and assessment
 
-Sodium fluid balance aur normal cellular electrical activity mein important hai. Common salt sodium chloride hai, lekin sodium-containing additives jaise monosodium glutamate bhi total dietary sodium contribute karte hain. Sirf table salt count karne se actual sodium intake underestimate ho sakta hai. WHO general adult population guidance mein daily sodium less than 2,000 mg, approximately less than 5 g salt, recommend karta hai. Children aged 2–15 years ke liye adult recommendation ko energy requirements ke hisab se downward adjust karte hain. Infants ke liye age-appropriate feeding guidance follow karo.
+Sodium fluid balance aur normal cellular electrical activity mein important hai. Common salt sodium chloride hai, lekin sodium-containing additives jaise monosodium glutamate bhi total dietary sodium contribute karte hain. Sirf table salt count karne se actual sodium intake underestimate ho sakta hai. Sodium bicarbonate sodium provide karta hai lekin chloride nahi. Chloride gastric hydrochloric acid ka component hai. Dono sodium salts ko chloride provision mein equivalent mat samjho. WHO general adult population guidance mein daily sodium less than 2,000 mg, approximately less than 5 g salt, recommend karta hai. Children aged 2–15 years ke liye adult recommendation ko energy requirements ke hisab se downward adjust karte hain. Infants ke liye age-appropriate feeding guidance follow karo.
 
 Population salt-intake survey mein complete 24-hour urinary sodium excretion objective estimate provide kar sakti hai. Ek serum sodium result usual dietary sodium intake ka measurement nahi hai. Missed urine void ko document karo, incomplete collection ko complete mat maan lo. Hot weather aur strenuous work mein sweat losses urinary sodium aur total intake ka relationship affect kar sakte hain.
 
@@ -20,7 +20,7 @@ Potassium many food groups mein milta hai. Dal, vegetables, curd, fruit aur suit
 
 NIH ODS dietary potassium absorption ko approximately 85–90% estimate karta hai. Example mein 2,000 mg hypothetical intake ka estimated absorbed amount 1,700–1,800 mg hai, actual patient measurement nahi. Dietary sodium-to-potassium ratio ko compare karte waqt same units use karo. Same sodium aur double potassium ke saath mass-based ratio half ho jata hai.
 
-Kidney disease, medications or prescribed potassium restriction present hone par general food advice ko individualized plan se reconcile karo. Published Renal diet bank already covers therapeutic potassium restriction, vegetable leaching, concentrated juice and dialysis-related adjustments. Those tasks are not counted here again.
+Persistent clay eating (pica) se potassium gut mein bind ho sakta hai aur fecal loss badh sakta hai. Patient ki pica history, clinical status aur appropriate assessment important hain. Kidney disease, medications or prescribed potassium restriction present hone par general food advice ko individualized plan se reconcile karo. Published Renal diet bank already covers therapeutic potassium restriction, vegetable leaching, concentrated juice and dialysis-related adjustments. Those tasks are not counted here again.
 
 ## Magnesium — nutrient sources, absorption and clinical context
 
@@ -37,6 +37,7 @@ Long-term proton pump inhibitors low magnesium se associated ho sakte hain. Magn
 - [WHO sodium reduction fact sheet](https://www.who.int/news-room/fact-sheets/detail/sodium-reduction), retrieved adult and child guidance and sodium sources.
 - [ICMR-NIN DGI 2024](https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf), Guideline 11 printed pages 73–74 text retrieved. PDF screenshots attempted but unavailable. WHO primary guidance used for WHO's numeric recommendation.
 - [WHO 24-hour urine protocol](https://www.who.int/europe/publications/i/item/WHO-EURO-2021-2333-42088-57949), official publication page retrieved, and [WHO SEARO salt measurement brief](https://cdn.who.int/media/docs/default-source/searo/healthy-diets/salt-reduction/measurement-of-population-salt-intake.pdf), indexed text on complete timed collection and undercollection.
+- [MedlinePlus, Chloride in diet](https://medlineplus.gov/ency/article/002417.htm), indexed digestive role and chloride nutrition information.
 - [NIH ODS Potassium professional fact sheet](https://ods.od.nih.gov/factsheets/Potassium-HealthProfessional/), retrieved food sources, forms and absorption.
 - [NIH ODS Magnesium professional fact sheet](https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/), retrieved status, food sources, supplement forms and medicine interactions. US reference context, not a separate Indian therapeutic prescription.
 - [Level Up RN — Electrolytes: Nutrition in Nursing](https://www.youtube.com/watch?v=ZQ-sQU9wNxU): indexed description and published topic markers 2:27 magnesium, 4:54 potassium, 6:29 sodium, and 7:25 quiz. Teaching topic lead only, no item-specific playback verification. [Bhushan Science - Nursing — Classification of Minerals in Hindi](https://www.youtube.com/watch?v=IeGfQkW-SdU): indexed topic coverage, not independently verified question content.
