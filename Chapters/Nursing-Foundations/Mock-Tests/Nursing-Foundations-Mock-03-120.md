@@ -95,9 +95,17 @@ Individualized care ka matlab patient ki condition, needs aur choice ke accordin
 
 **Correct: B. Electrocardiogram**
 
-ECG surface electrodes se cardiac electrical signals record karta hai. Nurse skin preparation aur correct lead placement ensure karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** EEG brain signals, EMG muscle activity aur spirometry lung volumes-flow assess karti hai.
+**A kyun galat hai:** Spirometry breathing maneuver ke through airflow aur kuch lung volumes measure karti hai. Ismein cardiac electrical activity record nahi hoti.
+
+**B kyun sahi hai:** Electrocardiogram ya ECG skin par lagaye gaye electrodes se heart ke electrical signals record karta hai. Nurse correct electrode placement, skin preparation aur signal quality check karti hai, kyunki loose electrodes se artifact aa sakta hai.
+
+**C kyun galat hai:** EMG muscles aur unse related nerve function assess karta hai. Routine cardiac electrical recording ke liye ECG use hota hai.
+
+**D kyun galat hai:** EEG brain ki electrical activity record karta hai. Iska primary target heart nahi hai.
+
+**Exam clue:** ECG heart, EEG brain aur EMG muscle electrical activity se related hain.
 
 </details>
 
@@ -183,9 +191,17 @@ Multidose vial manufacturer ki approval ke according repeated withdrawal ke liye
 
 **Correct: C. Use a qualified interpreter, plain language, pictures and teach-back when appropriate**
 
-Language aur literacy barriers treatment misunderstanding cause kar sakte hain. Qualified interpreter aur accessible education understanding improve karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Technical text inaccessible ho sakta hai. Child interpreter privacy-accuracy concerns raise kar sakta hai. Nodding comprehension prove nahi karta.
+**A kyun galat hai:** Technical text alone limited literacy wale patient ke liye inaccessible ho sakta hai. Nurse information ko patient ki language aur understanding ke hisaab se adapt karti hai.
+
+**B kyun galat hai:** Young child ko sensitive medical translation ki default responsibility dene se accuracy, privacy aur emotional burden ki problems ho sakti hain. Nurse qualified interpreter arrange karti hai aur applicable policy follow karti hai.
+
+**C kyun sahi hai:** Qualified interpreter language barrier ko kam karta hai. Plain language aur suitable pictures se information samajhna aasaan hota hai. Teach-back mein patient apne words mein instructions batata hai, jisse nurse misunderstanding pehchankar apni explanation improve kar sakti hai.
+
+**D kyun galat hai:** Nodding politeness ya general agreement dikha sakta hai. Yeh confirm nahi karta ki patient ghar par instructions correctly follow kar payega.
+
+**Exam clue:** Teach-back patient ka exam nahi hai, balki nurse ki explanation clear thi ya nahi yeh check karne ka tareeka hai.
 
 </details>
 
@@ -415,9 +431,17 @@ Sudden dyspnea aur hypotension central-line manipulation ke waqt venous air embo
 
 **Correct: D. Electroencephalography**
 
-EEG scalp electrodes se brain electrical patterns record karta hai. Seizure evaluation jaise indications mein use ho sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** ECG heart, spirometry lung function aur Doppler blood flow assess karta hai.
+**A kyun galat hai:** Doppler venous ultrasound sound waves se blood flow assess karta hai. Yeh brain ke electrical signals measure nahi karta.
+
+**B kyun galat hai:** Spirometry lungs ke airflow aur volumes assess karti hai. Yeh neurological electrical recording nahi hai.
+
+**C kyun galat hai:** Electrocardiography heart ki electrical activity record karti hai. Isse brain electrical patterns record nahi hote.
+
+**D kyun sahi hai:** Electroencephalography ya EEG scalp electrodes ke through brain ki electrical activity record karti hai. Seizure aur kuch altered consciousness conditions evaluate karne mein iska use ho sakta hai. Nurse test preparation aur safety instructions follow karti hai.
+
+**Exam clue:** EEG brain aur ECG heart ke electrical signals record karta hai.
 
 </details>
 
@@ -659,9 +683,17 @@ Insulin high-alert medicine hai kyunki dosing error severe hypoglycemia ya hyper
 
 **Correct: A. Set achievable goals and assist only as much as necessary for safety**
 
-Gradual goal-based practice patient ki ability improve karne mein help karti hai. Nurse safety aur fatigue ke according assistance adjust karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Full takeover independence reduce kar sakta hai. Forced independence unsafe ho sakti hai. Feedback useful hai.
+**A kyun sahi hai:** Nurse patient ke saath realistic goal set karti hai, jaise safe assistance se chair tak transfer karna. Patient jitna safely khud kar sake utna karne diya jaata hai. Assistance balance, fatigue aur recovery ke according adjust hoti hai.
+
+**B kyun galat hai:** Har activity indefinitely nurse kar de toh patient ko remaining skills practice karne ka mauka nahi milta. Zaroorat se zyada help dependence badha sakti hai.
+
+**C kyun galat hai:** Patient ko progress batane aur goals discuss karne se woh rehabilitation mein participate kar sakta hai. Discussion avoid karna person-centred care ko kamzor karta hai.
+
+**D kyun galat hai:** Turant full independence force karna falls ya injury ka risk badha sakta hai. Gradual progression aur supervision chahiye.
+
+**Exam clue:** Rehabilitation mein maximum safe participation encourage karo.
 
 </details>
 
@@ -818,9 +850,17 @@ Urinary retention ka matlab bladder mein urine jama hai lekin patient use bahar 
 
 **Correct: D. Spiritual support**
 
-Spiritual care patient ke meaning, beliefs aur sources of comfort respect karti hai. Requested counselor access emotional support provide kar sakta hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Spiritual support beliefs impose nahi karta. Financial aur medication processes separate hain.
+**A kyun galat hai:** Medication reconciliation mein patient ki medicines ki accurate list verify karte hain. Spiritual counselor ka purpose medicine list check karna nahi hai.
+
+**B kyun galat hai:** Financial auditing accounts aur expenses check karne se related hai. Requested counselor visit ka purpose emotional ya spiritual support ho sakta hai.
+
+**C kyun galat hai:** Patient ki permission ke bina beliefs impose karna spiritual care nahi hai. Nurse patient ke apne beliefs aur choices ka respect karti hai.
+
+**D kyun sahi hai:** Spiritual support mein patient ke beliefs, life ke meaning aur hope jaise concerns ko respect karte hain. Agar patient counselor ya religious representative se milna chahta hai, toh nurse uski choice ke according access arrange kar sakti hai.
+
+**Exam clue:** Spiritual care patient ki choice par based hai, religion impose karne par nahi.
 
 </details>
 
@@ -978,9 +1018,17 @@ Nutritional intake delivered food se nahi, actual consumed amount se assess hoti
 
 **Correct: C. Ensure correct fit and function and inspect skin according to the plan**
 
-IPC sleeves intermittent pressure se venous flow support karti hain. Nurse correct application aur contraindications check karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Disconnected device function nahi karti. Suspected DVT assessment maangti hai. Monitoring still important hai.
+**A kyun galat hai:** IPC clot risk kam kar sakta hai, lekin skin injury, symptoms aur patient risk monitor karna abhi bhi zaroori hai.
+
+**B kyun galat hai:** Disconnected IPC device prescribed pressure cycles deliver nahi karta. Nurse device ki functioning check karti hai.
+
+**C kyun sahi hai:** Intermittent pneumatic compression mein sleeves inflate aur deflate hokar leg veins ka blood flow support karti hain. Nurse indication, contraindications, fit, tubing aur functioning check karti hai aur plan ke according skin inspect karti hai.
+
+**D kyun galat hai:** Painful suspected DVT mein naya compression bina assessment start nahi karna chahiye. Nurse symptoms escalate karti hai aur authorized plan follow karti hai.
+
+**Exam clue:** IPC prophylaxis mein correct application aur monitoring dono important hain.
 
 </details>
 
@@ -1341,9 +1389,17 @@ Wound healing ke overlapping phases mein proliferative phase woh time hai jab fi
 
 **Correct: B. Psychomotor domain**
 
-Psychomotor domain actual physical skill se related hai. Verbal knowledge ke bawajood practical steps incorrect ho sakte hain, isliye supervised return demonstration needed hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Cognitive knowledge facts samajhna hai. Affective attitudes-values hain. Documentation skill acquisition ka domain nahi hai.
+**A kyun galat hai:** Cognitive domain knowledge aur understanding se juda hai. Patient verbally steps bata raha hai, isliye sirf knowledge assess karna practical problem ko solve nahi karega.
+
+**B kyun sahi hai:** Psychomotor domain ka matlab hai physical skill ko perform karna. Patient insulin ke steps verbally bata sakta hai, lekin injection technique correct nahi hai. Nurse supervised return demonstration mein actual steps observe karti hai aur feedback deti hai.
+
+**C kyun galat hai:** Affective domain attitudes, beliefs aur motivation se related hai. Yeh adherence influence kar sakta hai, lekin yahan direct problem physical skill perform karne ki hai.
+
+**D kyun galat hai:** Documentation assessment ko record karne mein help karti hai. Yeh learning domain nahi hai aur actual injection technique assess karne ka substitute nahi hai.
+
+**Exam clue:** Cognitive mein patient samjhata hai, psychomotor mein karke dikhata hai aur affective mein attitudes ya values assess hoti hain.
 
 </details>
 
@@ -1530,9 +1586,17 @@ Immobile patient apni position easily change nahi kar paata. Folded linen skin k
 
 **Correct: C. It limits CPR according to the order but does not automatically stop other appropriate care**
 
-DNAR order cardiac arrest ke waqt CPR decision address karta hai. Other treatments aur comfort care separately agreed plan ke according continue ho sakte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** All medicines stop, no pain relief aur symptoms ignore karna DNAR ka meaning nahi hai.
+**A kyun galat hai:** DNAR hone par bhi nurse new symptoms assess karti hai aur agreed plan ke according action leti hai. Symptoms ignore karna order ka meaning nahi hai.
+
+**B kyun galat hai:** Saari medicines automatically band karne se untreated symptoms ya reversible problems worsen ho sakti hain. Medicine review ke liye alag authorized decision chahiye.
+
+**C kyun sahi hai:** DNAR ka matlab Do Not Attempt Resuscitation hai. Valid DNAR order cardiac ya respiratory arrest ke samay CPR ke decision se related hai. Pain relief, nursing care aur doosra suitable treatment alag clinical plan ke according jaari reh sakta hai.
+
+**D kyun galat hai:** Pain relief aur comfort care DNAR ke saath bhi important hain. Patient ki dignity aur takleef kam karne ki responsibility bani rehti hai.
+
+**Exam clue:** DNAR CPR ko address karta hai, do not treat ka order nahi hai.
 
 </details>
 
@@ -1759,9 +1823,17 @@ Airway suction negative pressure se secretions remove karne ka procedure hai. Ja
 
 **Correct: C. Assess reversible causes and use supervision, orientation and other least restrictive alternatives**
 
-Confusion pain, infection, medication ya toileting need se related ho sakti hai. Nurse cause aur alternatives assess karke safety support karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Routine restraint aur unapproved sedation harm kar sakte hain. Rails alone supervision replace nahi karte.
+**A kyun galat hai:** Raised rails se climbing patient ke fall risk mein kabhi aur danger badh sakta hai. Rails direct supervision ya individualized risk assessment ka replacement nahi hain.
+
+**B kyun galat hai:** Staff convenience restraint ka valid clinical reason nahi hai. Restriction se distress, injury aur immobility badh sakti hai aur patient ke rights affect hote hain.
+
+**C kyun sahi hai:** Confusion pain, infection, hypoxia, medicine effect, urinary retention ya delirium se related ho sakti hai. Nurse cause aur immediate safety assess karti hai, patient ko calmly orient karti hai aur supervision aur suitable environmental measures arrange karti hai. Agar serious harm ka immediate risk ho toh least restrictive authorized safety plan follow hota hai.
+
+**D kyun galat hai:** Unprescribed sedative cause ko treat kiye bina consciousness aur breathing affect kar sakti hai. Medication sirf appropriate assessment aur authorized plan ke under use hoti hai.
+
+**Exam clue:** Restraint se pehle reversible causes aur least restrictive safety alternatives assess karo.
 
 </details>
 
@@ -1950,9 +2022,17 @@ Severe malnutrition mein body prolonged low intake ke according adapt ho jaati h
 
 **Correct: B. Use individualized scanning and safety cues with rehabilitation team guidance**
 
-Spatial neglect attention problem ho sakti hai, visual acuity loss se different. Rehabilitation cues affected side ki awareness aur safe activities support karte hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Affected side ignore karna injury risk badha sakta hai. Forced movement unsafe hai. Neglect blindness prove nahi karta.
+**A kyun galat hai:** Neglect attention aur spatial awareness ki problem ho sakti hai. Isse complete blindness automatically establish nahi hoti aur vision separately assess hoti hai.
+
+**B kyun sahi hai:** Stroke ke baad spatial neglect mein patient affected side ki stimuli ya body part par attention nahi de paata. Yeh sirf eyesight ki problem nahi hai. Nurse rehabilitation team ke plan ke according scanning cues aur safe grooming practice use karti hai aur injury risk monitor karti hai.
+
+**C kyun galat hai:** Neglected side ignore karne se patient us taraf ke objects ya body parts miss kar sakta hai. Isse injury aur self-care difficulty badh sakti hai.
+
+**D kyun galat hai:** Rapid movements force karne se confusion aur fall risk badh sakta hai. Individualized cues aur suitable pace zyada useful hain.
+
+**Exam clue:** Neglect aur visual loss ko ek hi condition mat samjho.
 
 </details>
 
@@ -2014,9 +2094,17 @@ Strenuous exercise mein muscles ko zyada oxygen aur energy chahiye aur CO2 produ
 
 **Correct: C. Follow applicable policy and authorized plan and seek immediate senior clinical support for the conflict**
 
-End-of-life conflict mein applicable law, valid orders aur patient wishes important hain. Nurse team ko involve karke clear compassionate communication karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Independent order change aur conflict escalation inappropriate hain. Documented plan ignore nahi karna chahiye.
+**A kyun galat hai:** Bedside par argument karne se family ka distress badh sakta hai. Calm explanation aur senior support se conflict safely handle hota hai.
+
+**B kyun galat hai:** Nurse apne level par DNAR order cancel ya replace nahi kar sakti. Aise decision ke liye authorized clinician aur applicable consent process chahiye.
+
+**C kyun sahi hai:** Nurse valid documented plan aur applicable policy check karti hai aur senior treating team ko turant involve karti hai. Family ki concern compassion se sunti hai. Agar order ki validity unclear ho, toh urgent clarification aur local emergency protocol follow karna zaroori hai.
+
+**D kyun galat hai:** Patient ki documented wishes bina review ignore karna autonomy aur safety compromise kar sakta hai. Authorized team order ki validity aur relevance confirm karti hai.
+
+**Exam clue:** Valid plan par conflict ho toh senior clinical support lo aur applicable policy follow karo.
 
 </details>
 
@@ -2075,9 +2163,17 @@ Used sharp skin puncture karke bloodborne pathogens transmit kar sakta hai. Devi
 
 **Correct: D. Explore the preference, protect confidentiality and discuss communication within applicable law**
 
-Competent patient information sharing preferences express kar sakta hai. Nurse confidentiality aur lawful exceptions clarify karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Automatic disclosure aur public sharing inappropriate hain. Absolute secrecy guarantee bhi correct nahi hai.
+**A kyun galat hai:** Public area mein private medical information publish karna confidentiality breach hai. Information appropriate authorized logon tak limited rehni chahiye.
+
+**B kyun galat hai:** Family hone se har medical detail ka automatic access nahi milta. Patient ki valid preference aur lawful exceptions check karne chahiye.
+
+**C kyun galat hai:** Nurse har situation mein absolute secrecy promise nahi kar sakti. Law ya immediate safety ke hisaab se authorized disclosure zaroori ho sakta hai.
+
+**D kyun sahi hai:** Nurse patient se poochti hai ki woh kya information share karna chahta hai aur kis se. Capacity, consent aur confidentiality ka respect karti hai. Lawful exception ho toh authorized team se guidance leti hai.
+
+**Exam clue:** Confidentiality protect karo aur lawful exceptions ke baare mein false promise mat karo.
 
 </details>
 
@@ -2374,9 +2470,17 @@ Convection mein moving air ya water heat carry karta hai. Skin ke paas warm air 
 
 **Correct: D. Attend to breathing and summon help, abandoning or replacing the sterile setup as needed**
 
-Airway-breathing emergency planned procedure se higher priority hai. Contaminated sterile setup later replace ki ja sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Dressing completion aur delay respiratory deterioration worsen kar sakte hain.
+**A kyun galat hai:** Bina kisi ko notify kiye routine care continue karne se emergency support delay hota hai. Early help se team parallel assessment aur interventions kar sakti hai.
+
+**B kyun galat hai:** Patient ko wait karne ko kehne se oxygenation aur ventilation problem worsen ho sakti hai. Nurse symptoms ko turant assess karti hai.
+
+**C kyun galat hai:** Sterile dressing ka purpose wound ko contamination se bachana hai. Lekin severe respiratory distress mein breathing ko immediate threat ho sakta hai, isliye dressing completion priority nahi hai.
+
+**D kyun sahi hai:** Nurse dressing preparation pause karti hai aur patient ki airway, breathing aur circulation assess karke emergency help activate karti hai. Appropriate respiratory support protocol follow karti hai. Sterile field unattended ya contaminated ho gaya ho toh baad mein fresh setup banaya jaata hai.
+
+**Exam clue:** Sterile field replace ho sakta hai, lekin airway aur breathing emergency wait nahi kar sakti.
 
 </details>
 
@@ -2543,9 +2647,17 @@ Needlestick mein skin barrier break hota hai aur bloodborne pathogen exposure po
 
 **Correct: B. Reduced activity and insufficient fluid or fiber can impair bowel function**
 
-Physical inactivity bowel motility reduce kar sakti hai aur inadequate fluid stool hard bana sakta hai. Medicines bhi contribute kar sakti hain.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Immobility propulsion necessarily increase nahi karti. Low fluid soft stool guarantee nahi karta. Multiple factors assess karne chahiye.
+**A kyun galat hai:** Immobility har patient mein bowel propulsion nahi badhati. Reduced movement constipation ka contributor ho sakta hai.
+
+**B kyun sahi hai:** Activity kam hone par bowel movement slow ho sakti hai. Insufficient fluid aur fiber se stool pass karna mushkil ho sakta hai. Nurse bowel history, medicines aur diet-fluid restrictions assess karke suitable activity aur bowel plan arrange karti hai.
+
+**C kyun galat hai:** Kam fluid intake se stool hard ho sakta hai. Soft stool ki guarantee nahi hoti.
+
+**D kyun galat hai:** Activity, diet aur opioids jaise medicines bowel function affect kar sakte hain. Nurse sab factors assess karti hai.
+
+**Exam clue:** Constipation mein mobility, fluid, fiber aur medicine history saath assess karo.
 
 </details>
 
@@ -3008,9 +3120,17 @@ Peristomal skin stoma ke aas-paas ki skin hai. Bowel effluent skin ke contact me
 
 **Correct: D. Verify alertness, swallowing safety and the procedure team's clearance**
 
-Sedation aur throat anesthesia protective reflexes impair kar sakti hain. Nurse prescribed recovery criteria confirm karke oral intake resume karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Immediate feeding aur unresponsive drinking aspiration risk badhate hain. Speech alone swallowing safety prove nahi karti.
+**A kyun galat hai:** Unresponsive patient ko drink dene se fluid airway mein ja sakta hai. Oral intake tab tak avoid karna chahiye jab tak recovery criteria meet na ho.
+
+**B kyun galat hai:** Patient bol paa raha hai toh bhi swallowing aur protective reflexes fully recover ho gaye hain, aisa assume nahi kar sakte. Throat numbness aur sedation abhi aspiration risk badha sakte hain.
+
+**C kyun galat hai:** Recovery assess kiye bina solid food dene se choking ya aspiration ka risk hai. Procedure-specific clearance zaroori hai.
+
+**D kyun sahi hai:** Sedation aur topical throat anesthesia swallowing aur airway protection temporarily affect kar sakte hain. Nurse alertness, breathing aur swallowing safety assess karti hai aur procedure team ki recovery instructions ke according oral intake resume karti hai.
+
+**Exam clue:** Endoscopy ke baad oral intake se pehle alertness aur safe swallowing verify karo.
 
 </details>
 
@@ -3060,9 +3180,17 @@ Patient recommended care complete hone se pehle leave karna chahe toh decision-m
 
 **Correct: A. Assess the patient and check electrode and cable connections for artifact**
 
-Monitor malfunction ya disconnected electrode flat tracing produce kar sakti hai. Nurse actual patient status aur pulse verify karke leads troubleshoot karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Definite pulse aur alertness mein blind compressions unsafe hain. Discrepancy ignore nahi karni chahiye.
+**A kyun sahi hai:** Awake patient ka palpable pulse hai, lekin monitor flat hai. Nurse pehle patient ki actual condition verify karti hai aur disconnected electrode, cable ya monitor malfunction jaise causes check karti hai. Agar patient unresponsive ho aur normal breathing aur definite pulse na ho, toh cardiac arrest protocol follow karna chahiye.
+
+**B kyun galat hai:** Flat trace alone cardiac arrest prove nahi karti. Patient assess kiye bina arrest declare karna inappropriate hai.
+
+**C kyun galat hai:** Monitoring disconnect karke problem ignore karne se future deterioration detect nahi ho paayegi. Nurse signal restore karti hai aur discrepancy resolve karti hai.
+
+**D kyun galat hai:** Definite pulse aur alertness wale patient par sirf display dekhkar compressions dena injury cause kar sakta hai. CPR ka decision clinical assessment se hota hai.
+
+**Exam clue:** Monitor ke saath patient ko bhi assess karo, artifact ko arrest mat samjho.
 
 </details>
 
@@ -3333,9 +3461,17 @@ Total measured intake = oral + IV + enteral water = 200 + 350 + 150 = 700 mL. Re
 
 **Correct: A. Stop and resolve the identity discrepancy before administering**
 
-Wrong identity wrong-patient medication risk create karti hai. Nurse approved identification aur records verify karke discrepancy resolve karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Diagnosis, later correction aur visitor signature approved identification substitute nahi hain.
+**A kyun sahi hai:** Nurse administration rok kar local policy ke according kam se kam do approved patient identifiers, jaise name aur date of birth ya unique hospital number, compare karti hai. Medication record, wristband aur correct patient details match hone par hi medicine deti hai. Unresolved mismatch ko responsible team tak escalate karti hai.
+
+**B kyun galat hai:** Same diagnosis multiple patients mein ho sakti hai. Diagnosis patient ka unique identifier nahi hai, isliye medicine uske basis par nahi deni chahiye.
+
+**C kyun galat hai:** Mismatch ke bawajood antibiotic dene se wrong-patient medication error ho sakta hai. Wristband later correct karna unsafe exposure ko reverse nahi karta.
+
+**D kyun galat hai:** Visitor information provide kar sakta hai, lekin uska signature approved patient identification process replace nahi karta. Nurse ko official records se discrepancy resolve karni hai.
+
+**Exam clue:** Identity mismatch ho toh medication hold karo aur approved identifiers verify karo.
 
 </details>
 
@@ -3385,9 +3521,17 @@ Braden Scale patient ke pressure injury risk ko structured way mein assess karti
 
 **Correct: A. Prioritize airway and breathing assessment and urgent opioid safety management**
 
-Slow breathing aur reduced alertness respiratory depression suggest kar sakte hain. Nurse additional opioid hold karke urgent support aur review arrange karti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** More opioid depression worsen kar sakti hai. Oral intake aspiration risk hai. Delay unsafe hai.
+**A kyun sahi hai:** Opioids breathing drive aur alertness kam kar sakte hain. Nurse additional opioid withhold karti hai, airway aur breathing assess karti hai aur urgent help bulati hai. Oxygenation aur ventilation support, naloxone jab indicated ho aur repeated monitoring authorized emergency protocol ke according hoti hai. Severe pain ko patient stable hone ke baad reassess karte hain.
+
+**B kyun galat hai:** Severe pain important hai, lekin extra opioid reduced breathing ko worsen kar sakta hai. Pehle life-threatening respiratory issue address karna chahiye.
+
+**C kyun galat hai:** Respiratory rate 8/min aur difficult arousal respiratory depression ke warning signs hain. Routine pain reassessment tak wait karna unsafe ho sakta hai.
+
+**D kyun galat hai:** Difficult-to-arouse patient ka swallowing aur airway protection impaired ho sakta hai. Water dene se aspiration ho sakti hai aur emergency care delay hoti hai.
+
+**Exam clue:** Opioid patient mein slow breathing aur reduced alertness ho toh airway-breathing safety pain score se pehle hai.
 
 </details>
 
@@ -3541,9 +3685,17 @@ Severe foreign-body airway obstruction ka matlab hai object airflow ko itna bloc
 
 **Correct: B. The patient will demonstrate correct inhaler use before discharge**
 
-Specific action aur deadline se nurse outcome evaluate kar sakti hai. Inhaler demonstration actual skill ka evidence deti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Teaching quality vague hai. Everything measurable nahi hai. Quiet ward patient learning objective nahi hai.
+**A kyun galat hai:** Patient sab kuch jaanega kehna bahut broad hai. Nurse ko specific knowledge ya behavior aur clear evaluation criteria chahiye.
+
+**B kyun sahi hai:** Is objective mein patient ko specific skill, yani correct inhaler use, discharge se pehle demonstrate karni hai. Nurse inhaler type ke appropriate steps observe karke evaluate kar sakti hai ki further practice chahiye ya nahi.
+
+**C kyun galat hai:** Nurse achha teach karegi kehna process intention hai. Ismein patient kya kar payega aur kab tak kar payega, yeh define nahi hota.
+
+**D kyun galat hai:** Ward quiet hona learning environment improve kar sakta hai, lekin yeh patient ka learning outcome measure nahi karta.
+
+**Exam clue:** Measurable objective mein patient ka observable action aur appropriate time frame hona chahiye.
 
 </details>
 
@@ -3734,9 +3886,17 @@ Risk diagnosis tab use hota hai jab patient mein problem ke risk factors hon, le
 
 **Correct: A. Return demonstration**
 
-Return demonstration mein patient task khud karke dikhata hai. Nurse mistakes observe karke feedback de sakti hai.
+<!-- job5-rationale -->
 
-**Baaki options kyun sahi nahi hain?** Yes-no aur leaflet reading actual procedural skill prove nahi karte. Nurse name unrelated hai.
+**A kyun sahi hai:** Return demonstration mein nurse pehle skill samjhati aur dikhati hai, phir patient supervised setting mein khud wahi skill perform karta hai. Nurse mistakes observe karke feedback deti hai aur zaroorat par repeat practice karwati hai.
+
+**B kyun galat hai:** Nurse ka naam yaad rakhne ka dressing technique se connection nahi hai. Isse procedural learning evaluate nahi hoti.
+
+**C kyun galat hai:** Leaflet aloud padhne se written steps ki familiarity pata chal sakti hai. Isse hand hygiene aur actual dressing technique correctly perform hone ka proof nahi milta.
+
+**D kyun galat hai:** Sirf yes ya no poochhne se pata nahi chalta ki patient dressing change sahi kar sakta hai. Patient politeness ya hesitation ki wajah se yes bol sakta hai.
+
+**Exam clue:** Physical skill evaluate karne ke liye actual return demonstration verbal confirmation se behtar hai.
 
 </details>
 
