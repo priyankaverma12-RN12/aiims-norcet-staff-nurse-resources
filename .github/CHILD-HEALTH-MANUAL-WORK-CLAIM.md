@@ -1,10 +1,10 @@
 # Child Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: Reserved continuation of draft PR45; no active writer
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: child-health-b07-targeted-20261128-095248Z
+Scope: Isolated PR45 chapter-local targeted uncorrected 02D/02C/02E/02B question blocks and inventories only; preserve all 400 existing staged originals, no shared navigation or merge.
+Claimed UTC: 2026-11-28T09:52:48Z
+Expiry UTC: 2026-11-28T10:22:48Z
 
 ## Verified checkpoint — Batch 06
 
