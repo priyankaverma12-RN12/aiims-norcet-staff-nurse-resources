@@ -77,7 +77,7 @@
 
 - **A. Kyun galat hai:** Audiometry sound sunne ki ability measure karti hai. Isse injured ossicle, yani middle ear ki small sound-transmitting bone, mechanically repair nahi hoti. Healing aur need for intervention specialist assessment se decide hoti hai.
 
-- **B. Kyun sahi hai:** Treatment se pehle audiogram record karne par pata chalta hai ki injury ke baad hearing kis level par hai. Recovery ke baad same type ki hearing assessment se change compare kar sakte hain. Isse trauma se pehle se present deficit aur treatment ke baad develop hue change ko distinguish karne mein help milti hai. Comparison alone exact cause prove nahi karta aur persistent loss mein further assessment zaroori ho sakti hai.
+- **B. Kyun sahi hai:** Treatment se pehle audiogram record karne par pata chalta hai ki injury ke baad hearing kis level par hai. Recovery ke baad same type ki hearing assessment se change compare kar sakte hain. Isse trauma ki wajah se treatment se pehle hi present deficit aur treatment ke baad develop hue change ko distinguish karne mein help milti hai. Comparison alone exact cause prove nahi karta aur persistent loss mein further assessment zaroori ho sakti hai.
 
 - **C. Kyun galat hai:** Audiometry mein sounds ki perception aur hearing thresholds assess kiye jaate hain. Ye bacteria count ya identify nahi karti. Agar infection ka concern hai, toh clinician appropriate microbiological assessment decide karega.
 
