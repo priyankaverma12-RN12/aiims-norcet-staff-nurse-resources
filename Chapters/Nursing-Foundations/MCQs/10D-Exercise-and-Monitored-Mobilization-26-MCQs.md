@@ -500,30 +500,30 @@
 
 ---
 
-### Q17. A stable patient has been resting supine for five minutes for a planned orthostatic measurement. Supine BP is 132/78 mmHg and standing BP at three minutes is 110/76 mmHg. Which finding is present?
+### Q17. A medically stable adult has been cleared for moderate-intensity walking as part of rehabilitation. During a supervised walk, the adult can converse comfortably but cannot sing. Which interpretation best matches the general talk-test principle?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Orthostatic interpretation
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Relative exercise intensity
 
-- **A.** A diastolic fall of 22 mmHg
-- **B.** A systolic fall meeting the conventional orthostatic threshold
-- **C.** No relevant BP change because diastolic BP is almost unchanged
-- **D.** An increase in systolic BP
+- **A.** The finding proves that exercise is maximal
+- **B.** The finding is consistent with moderate relative intensity, subject to clinical monitoring
+- **C.** The finding proves that heart rate and blood pressure are normal
+- **D.** The finding demonstrates a fixed joint contracture
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. A systolic fall meeting the conventional orthostatic threshold**
+**Correct answer: B. The finding is consistent with moderate relative intensity, subject to clinical monitoring**
 
-**A. Kyun galat hai:** Diastolic pressure 78 se 76 hui, yani sirf 2 mmHg drop hai. 22 systolic difference hai.
+**A. Kyun galat hai:** Maximal exercise mein comfortable conversation generally difficult ho sakti hai. Sirf gaana na gaa paana maximal effort prove nahi karta.
 
-**B. Kyun sahi hai:** Systolic BP 132 minus 110 = 22 mmHg gira. Within three minutes at least 20 mmHg systolic fall conventional threshold meet karta hai. Symptoms aur clinical context bhi assess karo.
+**B. Kyun sahi hai:** Talk test mein comfortable conversation kar paana lekin singing difficult hona moderate relative aerobic intensity ka useful general clue hai. Rehabilitation mein is clue ko symptoms, vital signs aur prescribed exercise limits ke saath use karo.
 
-**C. Kyun galat hai:** Diastolic drop chhota hone ke baad bhi systolic criterion independently meet ho sakta hai.
+**C. Kyun galat hai:** Talk test se actual BP ya pulse measurement nahi milti. Normal conversation ke bawajood abnormal hemodynamic findings ho sakti hain, isliye indicated monitoring continue rakho.
 
-**D. Kyun galat hai:** Systolic pressure increase nahi hui. 132 se 110 tak decrease hua hai.
+**D. Kyun galat hai:** Contracture mein joint ya surrounding tissues ki limitation ki wajah se passive movement restricted ho sakti hai. Conversation aur singing ka difference joint contracture ka test nahi hai.
 
-**Exam clue:** Orthostatic threshold mein systolic OR diastolic criterion sufficient ho sakta hai.
+**Exam clue:** Talk test relative exertion ka clue hai, clinical clearance ya vital-sign measurement ka substitute nahi.
 
-**Clinical reference:** [Exercise and mobility guidance](https://www.cdc.gov/steadi/media/pdfs/STEADI-Assessment-MeasuringBP-508.pdf).
+**Clinical reference:** [CDC physical activity intensity](https://www.cdc.gov/physical-activity-basics/measuring/index.html).
 
 **YouTube MCQ practice:** Item-specific verification pending. See separate evidence register for teaching and practice leads.
 
