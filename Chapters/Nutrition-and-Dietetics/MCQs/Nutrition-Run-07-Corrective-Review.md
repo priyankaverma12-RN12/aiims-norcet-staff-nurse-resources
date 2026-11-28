@@ -143,3 +143,44 @@ PR35 review list empty. Content-only delta from baseline before checkpoint compr
 | New live, mock-exclusive or authenticated PYQ credit | 0 |
 
 Continue 07C food exchange, menu and budget planning after distinct task screening (existing 03D Q9, Q17 and 04A Q16 must not be duplicated), then school-age and older adult nutrition and current programme/food-standards gaps. Maintain all independent gates before integration. No changes to website, other jobs, learner history or five hourly automations.
+
+
+## Continuation — 07C Food exchange, menu and budget planning
+
+Baseline eb87469f9743aaf8d921a82722679688a76ff663 and released claim a9c56baef2412ca1f334e706d910ce7e148c1aaa. Acquired isolated 07C lease 2eb49aa5caab8422ee37ebb7cc151952882bc580, exact remote readback. Current formal writer claims checked; rules and audit log blob identities unchanged. Main comparison from previous release showed no file delta at preflight. Prior PR7/8 explicit navigation release requests 7235777582 and 7235778156 remain unanswered. Shared navigation untouched.
+
+| Actual content | Verified commit | Blob |
+|---|---|---|
+| 20 original 07C candidate MCQs | 5ee81f20de518525b45749b2f55e704420559202 | 3558bff8441aae2b8780b71fe449fd9c5428097b (initial) |
+| Q18 and Q19 replacements, final bank | 6bc334cee8d8432278221c327b640aa75c9d6c6e | e3a4073593b9569f2a383e2c3ac068c095416d63 |
+| Original SVG 15 | 166d6cea62825f1788723d89bf3fccc5496719a0 | b292ffdb4c1a13a35f012d6c1f0503df7ef38a4a |
+| Guide 15 | c09fa315a343d860f27dfe28749ed0514fc8e72c | 193abcbe49da13e5655304b687c0b7e10dd00928 |
+
+All exact remote readbacks passed. Final bank 20 original candidate stems, 80 English options, 80 separate conversational Roman Hinglish rationales, 20 keys, clues and evidence rows, 20 explicit item-level video gaps. Correct-key sequence CADBBDACDCABCABDADBC, five per letter. Difficulty metadata one Easy, 16 Medium, three Difficult, subject to independent calibration. Hypothetical arithmetic checked: Q3 20 kcal reduction; Q6 14 g protein; Q9 1200 g gross purchase; Q10 ₹80 versus ₹66.67 per edible kg; Q11 ₹24 per usable serving; Q12 ₹420 remaining; Q13 ₹4 per 10 g protein for each option; Q18 three packs; Q19 20 g combined reduction. All clinical exchange profiles named, approximate and not universal prescriptions.
+
+### Targeted semantic review
+
+Read all 120 stems in Nutrition 03D, 04A, 07A, 07B, 04B and 06A at the pinned baseline. Avoided 03D generic food group substitution, budget awareness, daily pattern review and equal-calorie adequacy, 04A basic carb-choice counting and exchange-purpose tasks, 07A recipe allocation and food record arithmetic, 07B general education methods and 06A scheme procurement norms. Replaced original Q18 (generic equal-energy adequacy constraint) and Q19 (yield-adjusted replacement decision too close to Q10) with stock-adjusted pack purchasing and explicit daily dry cereal allocation reconciliation. Other 18 slots preserved exactly. Q19 is arithmetic application of a supplied allocation, not reauthoring 03D Q17's broad daily review. Q12 monetary budget residual and Q19 cereal allocation have related subtraction operations but different decision contexts. Q4 added-fat exchange accounting distinguished from 07A Q14 missing oil in recorded intake. Q7 menu preparation facilities may relate to 04A Q18's work and budget barriers; independent semantic reviewer must assess whether the task is sufficiently distinct. Comprehensive comparison against all 620 earlier questions, all adjacent clinical candidates and mocks remains outstanding.
+
+### Sources and curriculum
+
+Direct Illinois Extension exchange profile, ADA terms, FAO practical nutrition and healthy-diet affordability text retrieved. ICMR-NIN Dietary Guidelines 2024 Guideline 1 and FAO/INFOODS unit/yield PDF texts retrieved; both screenshot attempts returned cache miss. Hypothetical procurement/cost scenarios use general principles and stated assumptions rather than claiming an official operational procurement standard. Prior INC-hosted curriculum mapping of food exchange, meal planning and budgeting remains provisional; exact programme/version and complete BSc/GNM/PB BSc depth not certified. Indexed Hindi food-exchange and nursing menu-planning teaching videos are not verified MCQ segments. All 20 dedicated question video gaps retained. No qualified independent clinical/dietetic reviewer approval or historical provenance asserted.
+
+Original SVG 15 XML parsed and CairoSVG rendered from local file with Git blob SHA b292ffdb4c1a13a35f012d6c1f0503df7ef38a4a matching remote, visually inspected with no visible clipping. Candidate delta before inventory comprised only three new chapter-local files. PR35 submitted review list empty. CI run 46125972833 at c09fa315a343d860f27dfe28749ed0514fc8e72c was queued, not passed; final-head workflow must be checked separately. No production integration.
+
+### Latest staged inventory — supersedes prior counts
+
+| Material | Count |
+|---|---:|
+| Prior staged original questions preserved | 620 |
+| New 07C original candidates | 20 |
+| Total staged original MCQs | 640 |
+| Individual rationales | 2560 |
+| Topic banks | 32 |
+| Concept guides | 15 |
+| Original SVG diagrams | 15 |
+| Separate live legacy originals | 4 |
+| Separate reported adaptation | 1 |
+| New live, mock-exclusive or authenticated PYQ credit | 0 |
+
+Next priority school-age nutrition and distinct elderly nutrition objectives after adjacent-lane screening, then current programme/food standards gaps. Preserve completed 06C/06D and 07A–C. Complete independent clinical, semantic, curriculum, evidence/video, PR7/8 navigation and exact candidate CI/rendering gates before safe integration. No other job, website, learner history or schedule changes.
