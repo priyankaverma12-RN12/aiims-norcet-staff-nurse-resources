@@ -4,7 +4,7 @@ from functools import partial
 from pathlib import Path
 import json, tempfile
 from threading import Thread
-from urllib.parse import urljoin, urlencode
+from urllib.parse import urljoin, urlencode, unquote, urlsplit
 from playwright.sync_api import sync_playwright, expect
 
 site = Path(__file__).resolve().parent
@@ -19,6 +19,53 @@ def ready(page):
 
 def no_overflow(page):
     assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth + 2"), "Horizontal overflow"
+
+
+def verify_chapter_folders(page):
+    expect(page.locator(".index-resource-group").first).to_be_visible()
+    expect(page.locator(".index-resource-group[open]")).to_have_count(0)
+    expect(page.locator("#original-index")).not_to_have_attribute("open","")
+    expect(page.locator(".outline-card")).not_to_have_attribute("open","")
+    for kind in ("theory","mcq","mock","pyq"):
+        group=page.locator(f".index-resource-group[data-kind={kind}]")
+        expect(group).to_have_count(1)
+        summary=group.locator(":scope > summary")
+        assert summary.bounding_box()["height"]>=44, f"Chapter folder {kind} below 44px"
+        summary.click()
+        expect(group).to_have_attribute("open","")
+        expect(page.locator(".index-resource-group[open]")).to_have_count(1)
+        expect(group.locator(".index-link-list")).to_be_visible()
+        assert group.locator(".index-link-list a[href]").evaluate_all("""(els,k)=>els.every(a=>{
+            const path=new URL(a.href).searchParams.get('doc');
+            if(!path)return true;
+            const type=getResourceMeta(path).type;
+            const folder=path.split('/')[2];
+            return (type==='Mock test'||type==='Draft question set'?'mock':({Concepts:'theory',MCQs:'mcq','Mock-Tests':'mock','Previous-Year-Questions':'pyq'}[folder]||'other'))===k;
+        })""",kind)
+        summary.click()
+        expect(group).not_to_have_attribute("open","")
+        no_overflow(page)
+    for selector in ("#original-index > summary",".outline-card > summary"):
+        assert page.locator(selector).bounding_box()["height"]>=44, f"{selector} below 44px"
+    expect(page.locator(".index-resource-group[open]")).to_have_count(0)
+
+
+def expand_chapter(page, kind="metric"):
+    card=page.locator(".metric-chapter" if kind=="metric" else ".completion-chapter").first
+    expect(card).to_be_visible(timeout=30000)
+    if card.get_attribute("open") is None:
+        card.locator(":scope > summary").click()
+    return card
+
+def expand_folders(page, kind="metric", only=None):
+    card=expand_chapter(page,kind)
+    groups=card.locator(".metric-category" if kind=="metric" else ".completion-category")
+    expect(groups.first).to_be_visible()
+    for group in groups.all():
+        if only is None or group.get_attribute("data-kind")==only:
+            if group.get_attribute("open") is None:
+                group.locator(":scope > summary").click()
+    return card
 
 try:
     with sync_playwright() as p:
@@ -44,9 +91,18 @@ try:
         assert page.evaluate("""()=>{const holder=document.createElement('div');holder.innerHTML=DOMPurify.sanitize('<details><summary>Answer</summary><p>Safe text</p></details><script>unsafe</script><img src=x onerror=unsafe>',{ADD_TAGS:['details','summary'],FORBID_TAGS:['style','iframe','form'],FORBID_ATTR:['style','srcset']});return !!holder.querySelector('details summary')&&!holder.querySelector('script,[onerror]')}""")
         assert page.locator(".topbar").evaluate("e=>getComputedStyle(e).position")== "sticky"
         # V11.2: actual computed layout, keyboard focus and daily milestone grid.
+        expect(page.locator("#library-overview")).not_to_have_attribute("open","")
+        page.locator("#library-overview>summary").click()
         assert page.locator(".stats>.stat").count()==7
-        assert page.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==12
-        assert page.locator(".stats>.stat").last.evaluate("e=>getComputedStyle(e).gridColumnStart")=="span 4"
+        assert page.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==7
+        assert page.locator(".stats").bounding_box()["height"]<=110
+        assert page.locator(".hero").bounding_box()["height"]<=240
+        assert page.locator(".stats").bounding_box()["y"]<page.locator("#daily-study").bounding_box()["y"]
+        expect(page.locator(".daily-week-details")).not_to_have_attribute("open","")
+        page.locator(".daily-week-details>summary").click()
+        expect(page.locator(".study-day.today")).to_be_visible()
+        page.locator(".daily-week-details>summary").click()
+        print("V11.7 compact desktop overview dimensions:",page.locator(".hero").bounding_box()["height"],page.locator(".stats").bounding_box()["height"],flush=True)
         assert page.locator(".daily-milestones").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==4
         page.keyboard.press("Tab")
         page.locator("#library-link").focus()
@@ -107,6 +163,12 @@ try:
         print("V11.3 calendar totals, year navigation and historical activity passed.",flush=True)
         assert page.locator("#metrics-chapter").bounding_box()["height"]>=43
         assert page.locator("#metrics-search").bounding_box()["height"]>=43
+        expect(page.locator(".metric-chapter").first).not_to_have_attribute("open","")
+        expect(page.locator(".metric-record")).to_have_count(0)
+        expand_chapter(page)
+        expect(page.locator(".metric-category[open]")).to_have_count(0)
+        expect(page.locator(".metric-category")).to_have_count(4)
+        expand_folders(page)
         expect(page.locator(".metric-record").first).to_be_visible()
         # Expanded chapter entries are whole-card links, not inline text links.
         records=page.locator(".metric-records a.metric-record:not([data-category=theory])")
@@ -120,9 +182,11 @@ try:
             page.locator("#metrics-chapter").select_option(empty_chapter["id"])
             page.locator("#metrics-category").select_option("theory")
             expect(page.locator('#metrics-totals [data-category=theory] strong')).to_have_text("0")
+            expand_folders(page,only="theory")
             expect(page.locator("#metrics-list")).to_contain_text("No published theory notes yet")
             page.locator("#metrics-chapter").select_option(chapter["id"])
             page.locator("#metrics-category").select_option("")
+            expand_folders(page)
         print("V11.4 theory counts, empty-state and sanitizer checks passed.",flush=True)
         expect(records).to_have_count(len(chapter["records"]))
         for record in chapter["records"]:
@@ -136,10 +200,12 @@ try:
         expect(page.locator("#status")).to_have_text(__import__("re").compile(r"^Live source"),timeout=30000)
         assert parse_qs(urlsplit(page.url).query)["doc"]==parse_qs(urlsplit(target_href).query)["doc"]
         page.go_back()
+        expand_folders(page)
         expect(page.locator(".metric-records a.metric-record:not([data-category=theory])").first).to_be_visible(timeout=30000)
         print("Expanded metrics cards, complete chapter resource destinations, boxed styling and whole-card navigation passed.",flush=True)
 
         page.locator("#metrics-category").select_option("mock")
+        expand_folders(page,only="mock")
         expect(page.locator(".metric-record .study-tag[data-role=type]").first).to_have_text("Mock test")
         no_overflow(page)
         page.goto(base+"?"+urlencode({"doc":"Chapters/Nursing-Foundations/Previous-Year-Questions/01-Nursing-Process-Reported-Evidence.md"}))
@@ -155,6 +221,7 @@ try:
         # A chapter overview uses Assets/... relative to its own directory.
         page.goto(base + "?" + urlencode({"doc":"Chapters/Respiratory-System/README.md"}))
         ready(page)
+        verify_chapter_folders(page)
         original_index=page.locator("#original-index")
         if original_index.count():
             original_index.locator("summary").first.click()
@@ -164,6 +231,10 @@ try:
         print("Chapter-relative README image resolved and decoded.",flush=True)
         page.goto(base + "?" + urlencode({"doc": sample}))
         ready(page)
+        expect(page.locator("#content .difficulty-label[data-level=easy]").first).to_be_visible()
+        expect(page.locator("#content .difficulty-label .difficulty-icon").first).to_have_attribute("aria-hidden","true")
+        expect(page.get_by_role("button",name="Start timed practice")).to_have_attribute("data-ui-icon","timer")
+        assert page.get_by_role("button",name="Start timed practice").bounding_box()["height"]>=44
         assert page.locator("#content details").count() >= 44
         assert page.locator("#content details[open]").count() == 0
         image = page.locator('#content img[src*="airway-zones.svg"]').first
@@ -172,6 +243,8 @@ try:
         expect(page.locator(".quiz-panel")).to_contain_text("44 questions available for practice")
         expect(page.locator("#content h1").first).to_have_text("Day 1 — Respiratory Anatomy & Physiology")
         page.get_by_role("button",name="Learn with instant feedback").click()
+        expect(page.locator(".question-stem .difficulty-label[data-level=easy]")).to_be_visible()
+        expect(page.get_by_role("button",name="Check answer")).to_have_attribute("data-ui-icon","check")
         expect(page.locator(".original-explanation")).to_have_count(0)
         page.locator("input[name=learn-choice][value=B]").check()
         expect(page.locator(".learn-feedback")).to_have_count(0)
@@ -292,9 +365,14 @@ try:
         page.get_by_role("button",name="Submit and see results").click()
         expect(page.locator(".result-score")).to_contain_text("100.0%")
         expect(page.locator(".result-celebration")).to_be_visible()
+        expect(page.locator(".result-hero > .study-celebration")).to_have_attribute("aria-hidden","true")
+        expect(page.locator(".result-hero > .study-confetti")).to_have_count(1)
         page.reload()
         expect(page.locator(".result-heading")).to_be_visible(timeout=30000)
         expect(page.locator(".result-celebration")).to_have_count(0)
+        expect(page.locator(".result-hero > .study-confetti")).to_have_count(0)
+        assert page.evaluate("""()=>{const root=document.createElement('div');root.innerHTML='<p><strong>Difficulty:</strong> 🟢 Easy · Priority: IMPORTANT</p><p>Difficulty: 🟡 Medium</p><p>Difficulty: 🔴 Difficult</p><p>Medium is a clinical term.</p>';decorateQuestionDifficulty(root);return [...root.querySelectorAll('.difficulty-label')].map(x=>x.dataset.level).join(',')==='easy,medium,difficult'&&root.querySelectorAll('.difficulty-icon i').length===9&&root.lastElementChild.textContent==='Medium is a clinical term.'}""")
+        print("V11.9 explicit difficulty metadata, accessible icons and one-shot celebration passed.",flush=True)
         print("Learning preserves saved timed result, all four progress milestones, hidden timed answers and one-time result celebration passed.",flush=True)
 
 
@@ -378,10 +456,24 @@ try:
             if width<=600:
                 expect(mobile.locator("#library-overview")).not_to_have_attribute("open","")
                 mobile.locator("#library-overview>summary").tap()
-                assert mobile.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
-                assert mobile.locator(".stats>.stat").last.evaluate("e=>getComputedStyle(e).gridColumnEnd")=="-1"
+                expect(mobile.locator("#chapter-total")).to_be_visible()
+                assert mobile.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==6
+                assert mobile.locator(".stats").bounding_box()["height"]<=255
+                print(f"V11.7 measured narrow hero at {width}: {mobile.locator('.hero').bounding_box()['height']:.1f}px",flush=True)
+                assert mobile.locator(".hero").bounding_box()["height"]<=300
+                assert mobile.locator(".hero-actions .cta").bounding_box()["height"]>=43
+                assert mobile.locator(".hero-secondary").bounding_box()["height"]>=43
+                assert mobile.locator(".stats").bounding_box()["y"]<mobile.locator("#daily-study").bounding_box()["y"]
                 assert mobile.locator(".daily-milestones").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
+                expect(mobile.locator(".daily-week-details")).not_to_have_attribute("open","")
+                mobile.locator(".daily-week-details>summary").tap()
+                expect(mobile.locator(".study-day.today")).to_be_visible()
+                mobile.locator(".daily-week-details>summary").tap()
                 mobile.locator("#library-overview>summary").tap()
+                expect(mobile.locator("#chapter-total")).not_to_be_visible()
+                mobile.locator("#library-overview>summary").tap()
+                expect(mobile.locator("#chapter-total")).to_be_visible()
+                print(f"V11.7 compact mobile {width}: hero {mobile.locator('.hero').bounding_box()['height']:.0f}px, inventory {mobile.locator('.stats').bounding_box()['height']:.0f}px.",flush=True)
                 expect(mobile.locator("#nav-more")).not_to_have_attribute("open","")
                 mobile.locator("#nav-more>summary").tap()
                 expect(mobile.locator("#saved-link")).to_be_visible()
@@ -399,6 +491,8 @@ try:
             mobile.locator("#search").fill("Respiratory")
             expect(mobile.locator("#chapters .chapter")).to_have_count(1)
             assert mobile.locator(".chapter-links a").first.bounding_box()["height"] >= 43
+            assert mobile.locator(".chapter-card-progress>a").first.bounding_box()["height"]>=43
+            assert mobile.locator(".chapter-card-progress").first.bounding_box()["height"]<=100
             mobile.locator("#theme").tap()
             theme = mobile.locator("html").get_attribute("data-theme")
             mobile.reload()
@@ -436,11 +530,26 @@ try:
                 expect(mobile.locator("#metrics-personal .history-month")).to_have_count(12)
                 expect(mobile.locator("#metrics-personal .history-period")).to_have_count(3)
                 no_overflow(mobile)
-                expect(mobile.locator(".metric-record").first).to_be_visible(timeout=30000)
+                expect(mobile.locator(".metric-chapter").first).not_to_have_attribute("open","")
+                expand_chapter(mobile)
+                expect(mobile.locator(".metric-category[open]")).to_have_count(0)
+                for section in ["theory","mcq","mock","pyq"]:
+                    group=mobile.locator(f".metric-category[data-kind={section}]")
+                    expect(group).to_have_count(1)
+                    assert group.locator("summary").bounding_box()["height"]>=44
+                    group.locator("summary").tap()
+                    expect(group.locator(".metric-record").first).to_be_visible()
+                    assert group.locator(".metric-record").evaluate_all("(els,k)=>els.every(e=>studyFolderKind(e.dataset.category)===k)",section)
+                    expect(mobile.locator(".metric-category[open]")).to_have_count(1)
+                    group.locator("summary").tap()
+                print(f"V11.8 isolated closed Metrics folders at {width}x{height}.",flush=True)
                 no_overflow(mobile)
                 assert mobile.locator("#metrics-chapter").bounding_box()["height"]>=43
                 mobile.goto(base+"?progress=1&chapter=Nursing-Foundations")
                 expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible(timeout=30000)
+                expect(mobile.locator(".completion-chapter").first).not_to_have_attribute("open","")
+                expand_chapter(mobile,"progress")
+                expect(mobile.locator(".completion-category[open]")).to_have_count(0)
                 for section in ["theory","mcq","mock","pyq"]:
                     expect(mobile.locator(f".completion-category[data-kind={section}]")).to_have_count(1)
                 expect(mobile.locator(".completion-resource")).to_have_count(0)
@@ -449,10 +558,11 @@ try:
                 expect(mobile.locator(".completion-category:not([data-kind=theory]) .completion-resource")).to_have_count(0)
                 for section in ["theory","mcq","mock","pyq"]:
                     group=mobile.locator(f".completion-category[data-kind={section}]")
+                    assert group.locator("summary").bounding_box()["height"]>=44
                     if group.get_attribute("open") is None:
                         group.locator("summary").tap()
                     expect(group.locator(".completion-resource").first).to_be_visible()
-                    assert group.locator(".completion-resource input").evaluate_all("(els,k)=>els.every(e=>progressCatalog.find(r=>r.path===e.dataset.progressPath)?.kind===k)",section)
+                    assert group.locator(".completion-resource input").evaluate_all("(els,k)=>els.every(e=>studyFolderKind(progressCatalog.find(r=>r.path===e.dataset.progressPath)?.kind)===k)",section)
                     if width==360:
                         checkbox=group.locator(".completion-resource input").first
                         checkbox.check()
@@ -465,6 +575,8 @@ try:
                     expect(group.locator(".completion-resource").first).not_to_be_visible()
                     no_overflow(mobile)
                 mobile.locator("#progress-kind").select_option("mcq")
+                expect(mobile.locator(".completion-chapter").first).not_to_have_attribute("open","")
+                expand_folders(mobile,"progress","mcq")
                 expect(mobile.locator(".completion-category[data-kind=mcq] .completion-resource").first).to_be_visible()
                 expect(mobile.locator(".completion-category[data-kind=theory]")).to_have_count(0)
                 no_overflow(mobile)
@@ -486,8 +598,39 @@ try:
                 assert mobile.locator(".topbar").evaluate("e=>getComputedStyle(e).position")== "sticky"
                 assert mobile.locator(".reading-location").evaluate("e=>parseFloat(getComputedStyle(e).top)>=document.querySelector('.topbar').getBoundingClientRect().height-1")
 
+            mobile.goto(base+"?"+urlencode({"doc":"Chapters/Nursing-Foundations/README.md"}))
+            ready(mobile)
+            verify_chapter_folders(mobile)
+            print(f"V11.8 chapter index isolated closed folders and 44px targets at {width}x{height}.",flush=True)
             print(f'Touch layout {width}x{height}: search, theme persistence, reader controls, quiz targets and timer passed.', flush=True)
             ctx.close()
+        # Audit each chapter landing page from the checked-out candidate, not moving main.
+        inventory=json.loads((site/"study-metrics.json").read_text(encoding="utf-8"))
+        def pinned_chapter_source(route):
+            rel=unquote(urlsplit(route.request.url).path.split("/main/",1)[-1])
+            target=(site.parent/rel).resolve()
+            if target.is_relative_to(site.parent/"Chapters") and target.is_file():
+                route.fulfill(status=200,content_type="text/plain; charset=utf-8",headers={"Access-Control-Allow-Origin":"*"},body=target.read_text(encoding="utf-8"))
+            else:
+                route.continue_()
+        for width,height in [(1440,900),(390,844)]:
+            audit=browser.new_context(viewport={"width":width,"height":height},is_mobile=width<600,has_touch=width<600,reduced_motion="reduce")
+            audit.route("https://raw.githubusercontent.com/**/main/Chapters/**",pinned_chapter_source)
+            audit_page=audit.new_page()
+            for chapter_record in inventory["chapters"]:
+                chapter_path="Chapters/"+chapter_record["id"]+"/README.md"
+                audit_page.goto(base+"?"+urlencode({"doc":chapter_path}),wait_until="domcontentloaded")
+                ready(audit_page)
+                expect(audit_page.locator("#reader-title")).not_to_have_text("")
+                assert audit_page.evaluate("()=>document.title.startsWith(document.querySelector('#reader-title').textContent)"), chapter_path
+                expect(audit_page.locator(".index-resource-group[open]")).to_have_count(0)
+                expect(audit_page.locator(".outline-card")).not_to_have_attribute("open","")
+                for summary in audit_page.locator(".index-resource-group > summary").all():
+                    assert summary.bounding_box()["height"]>=44, chapter_path
+                no_overflow(audit_page)
+                print(f"V11.9 chapter heading and disclosure audit {width}x{height}: {chapter_record['id']}",flush=True)
+            assert audit_page.evaluate("""()=>{const host=document.createElement('div');addStudyCelebration(host,true);return host.querySelector('.study-celebration')?.getAttribute('aria-hidden')==='true'&&!host.querySelector('.study-confetti')}""")
+            audit.close()
         browser.close()
         print("Desktop/mobile integration, real diagram, hidden answers, score, bookmark reload, and timer expiry passed.", flush=True)
 finally:

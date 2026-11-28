@@ -1,0 +1,19 @@
+# Geriatric Nursing manual work claim
+
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+Last owner: geriatric-priority-20261128-0540Z. Active write lease released. Geriatric chapter candidate remains reserved under open draft PR #39, branch `geriatric-priority-20261128`. Coordinate before resuming or claiming overlapping work; do not restart or merge an unreviewed candidate.
+
+Verified candidate checkpoint `c0c75b9de9cf25f8b0b5928b52f8137e58c1aa1f`: five banks, 100 original candidate MCQs, 400 individual rationales, 100 aligned keys, 104 distinct normalized stems including four preserved legacy starters, balanced 25 A/B/C/D each. Targeted cross-chapter audit replaced 16 potentially overlapping tasks at `38e36fdada6c6e7085b6456dc8988c254f8e50c3`. Full semantic/clinical audit, sources, video coverage, theory/diagrams, full mandatory preflight and latest-main/PR8 reconciliation pending. No live count, no mock or PYQ added. Next: remaining continence and mobility, rehabilitation and caregiver support topic groups, validate existing candidate and complete coverage before mock-exclusive and source-traced PYQ phases. All other jobs and schedules preserved.
+
+## Batch 02 released checkpoint — 28 November 2026
+
+Last owner: geriatric-pr39-batch02-20261128-0618Z. Verified draft PR39 head `a8c91508d6e8bf200bb11cf0e4dfaeec7acdf61e`. Nine new candidate commits, 20 chapter files changed. Batch 02: 100 original questions, 400 individual rationales, five topic guides and five original SVGs, plus two Batch 01 companion concept files and two original SVGs. Total 200 staged originals and 800 rationales, plus four legacy originals unchanged. All ten banks verified with 200 aligned keys, 200 closed answers and 204 distinct normalized stems including legacy. Exact changed-file readbacks passed. PR39 comment 7235353753 records remaining gates. PR8 coordination comment 7235210222 posted, explicit release not confirmed. Full mandatory preflight, independent clinical and repository-wide semantic audit, complete topic depth and evidence checks, video playback and latest-main reconciliation remain pending. Do not count staged material as live or merge before review. No mock or source-traced PYQ added. Next: close those gates, validate chapter coverage, then author ten distinct mock-exclusive 120-question tests and source-traced PYQs. No other job or schedule changes.
+
+## Corrective audit released checkpoint — 28 November 2026
+
+Last owner: geriatric-pr39-corrective-20261128-0657Z. Candidate PR39 head 56ba474d6866bd90a3b97ade6a171c4905cfe541. Corrective content d1a9bdbf31ffc2b53c1eb062407e67cd677450d9, audit register/index final head. Two candidate commits, four chapter files only, exact readbacks. NPHCE and caregiver Q1–20 first-pass review: 40 stems, 160 English option strings and all correct meanings preserved, 17 NPHCE answer positions changed in draft, 26 difficulty edits, 19 rationale improvements, 40 closed details. Cumulative 200 staged originals, 800 rationales, four unchanged legacy originals, seven guides and seven SVGs. 204 distinct normalized stems, 8,120 directed lexical comparisons, 65 extra main stems read. Semantic overlap flags and INC Unit X depth map in chapter MCQs/Geriatric-Corrective-Audit-Register-2026-11-28.md. PR39 comment 7235658284 and PR8 follow-up 7235643309 exact readbacks. PR8 release not confirmed. No current CI run returned. Independent clinical and exhaustive semantic review, fresh full line-by-line mandatory preflight, curriculum gaps, dedicated item video coverage, final main reconciliation/rendering remain pending. No study content merged, no live/mock/PYQ credit. Next: resolve flagged overlap tasks, audit remaining eight banks beginning 08 and 06, complete actual uncovered syllabus topics and evidence, then safe integration and mock-exclusive phase only after gates. Other owners and schedules preserved.
