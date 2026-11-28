@@ -1,10 +1,13 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-09d-lipid-diet-20261128-1208Z
-Scope: Isolated PR35 new dyslipidemia dietary-care bank, guide, original diagram and candidate inventory. No shared navigation or other chapter edits.
-Claimed UTC: 2026-11-28T12:08:47Z
-Expiry UTC: 2026-11-28T12:38:47Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 09D dyslipidemia dietary care
+
+Candidate head: 7564155228ac4e8f825d617858abe41ce90c50a6
+Inventory: 860 staged originals, 3440 individual Roman Hinglish rationales, 43 banks, 26 guides and 26 SVG sources. Four legacy originals and one reported adaptation separately preserved. This run added 20 new originals and 80 rationales, guide and diagram. Final bank f8d217cd09970ce91ab2e3c0cb99e06fac0f8791, guide 6376570f1ab4b9ec01c98653c7b479cb0cd616c2, SVG 797bfa37eee6d13affbf8e8395357724c7868cb0. All exact readbacks passed, all keys and option rationale pairs aligned, 200 prior Nutrition stems screened with zero normalized exact matches, SVG rendered. Current CI 46143557484 pending at inspection. Draft only. Full bounded preflight and independent clinical/dietetic/pharmacy/regulatory, comprehensive semantic, INC, AMB 2026, sources/videos, flagged clusters, PR7/8 clearance and integration remain outstanding. No live credit. Other jobs, learner history, website and five schedules untouched. Next identify genuine remaining Unit IX and other INC curriculum gaps, without duplicating 09D or previous banks.
 
 ## Latest released checkpoint — 09C constipation dietary care
 
