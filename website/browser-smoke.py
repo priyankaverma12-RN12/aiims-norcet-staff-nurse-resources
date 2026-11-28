@@ -75,6 +75,8 @@ try:
         browser = p.chromium.launch()
         desktop = browser.new_context(viewport={"width": 1440, "height": 900})
         page = desktop.new_page()
+        page.on("console", lambda message: print("BROWSER ERROR:",message.text,flush=True) if message.type=="error" else None)
+        page.on("pageerror",lambda error: print("PAGE ERROR:",error,flush=True))
         page.goto(base)
         cards = page.locator("#chapters .chapter")
         expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
