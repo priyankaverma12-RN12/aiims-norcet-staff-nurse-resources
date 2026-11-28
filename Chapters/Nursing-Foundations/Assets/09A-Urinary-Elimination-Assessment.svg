@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 660" role="img" aria-labelledby="title desc">
+<title id="title">Urinary elimination assessment and nursing care pathway</title><desc id="desc">Assess leakage and voiding pattern, screen for red flags, and select individualized conservative care or referral.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="#47617c"/></marker></defs>
+<rect width="800" height="660" fill="#f5f8fc" rx="18"/>
+<g font-family="Arial,sans-serif" text-anchor="middle" fill="#183450">
+<text x="400" y="36" font-size="24" font-weight="bold">Urinary elimination: assess before intervening</text>
+<rect x="120" y="58" width="560" height="78" rx="12" fill="#e0edff" stroke="#86a8d4"/>
+<text x="400" y="86" font-size="19" font-weight="bold">History + diary + examination as indicated</text>
+<text x="400" y="111" font-size="15">Intake • void volume • urge • leakage • medicines • access</text>
+<path d="M400 136V166" stroke="#47617c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="180" y="169" width="440" height="67" rx="12" fill="#fff0dc" stroke="#bf8b38"/>
+<text x="400" y="196" font-weight="bold" font-size="19">Red flags or suspected retention?</text><text x="400" y="217" font-size="14">Painful inability to void, blood, new neurological signs</text>
+<path d="M180 202H89V267" fill="none" stroke="#47617c" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="115" y="190" font-size="14">Yes</text>
+<rect x="16" y="270" width="178" height="118" rx="10" fill="#ffe4e2" stroke="#c66c66"/>
+<text x="105" y="296" font-weight="bold" font-size="16">Escalate / assess</text><text x="105" y="318" font-size="13">Acute retention or</text><text x="105" y="337" font-size="13">cauda equina:</text><text x="105" y="356" font-size="13">urgent assessment</text><text x="105" y="375" font-size="13">PVR when indicated</text>
+<path d="M400 236V265" stroke="#47617c" stroke-width="2" marker-end="url(#arrow)"/><text x="420" y="253" font-size="13">No</text>
+<rect x="223" y="268" width="554" height="56" rx="10" fill="#e4f4eb" stroke="#7cae94"/><text x="500" y="301" font-weight="bold" font-size="18">Identify symptom pattern and contributing factors</text>
+<path d="M500 324V342H295V360M500 342H470V360M500 342H675V360" fill="none" stroke="#47617c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="215" y="363" width="160" height="93" rx="10" fill="#e0edff" stroke="#86a8d4"/><text x="295" y="389" font-weight="bold" font-size="16">Stress</text><text x="295" y="412" font-size="13">Exertion leakage</text><text x="295" y="433" font-size="13">Pelvic floor therapy</text>
+<rect x="390" y="363" width="160" height="93" rx="10" fill="#e0edff" stroke="#86a8d4"/><text x="470" y="389" font-weight="bold" font-size="16">Urgency</text><text x="470" y="412" font-size="13">Strong urge + leak</text><text x="470" y="433" font-size="13">Bladder training</text>
+<rect x="565" y="363" width="210" height="93" rx="10" fill="#e0edff" stroke="#86a8d4"/><text x="670" y="389" font-weight="bold" font-size="16">Mixed / functional</text><text x="670" y="412" font-size="13">Combine suitable care</text><text x="670" y="433" font-size="13">Prompt or assist toileting</text>
+<path d="M295 456V478H500M470 456V478M670 456V478H500V500" fill="none" stroke="#47617c" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="223" y="503" width="554" height="70" rx="12" fill="#e4f4eb" stroke="#7cae94"/><text x="500" y="531" font-size="18" font-weight="bold">Individualised plan + reassessment</text><text x="500" y="553" font-size="14">Hydration • skin care • bowel and medication review • goals</text>
+<text x="400" y="611" font-size="14">Suspected overflow: evaluate emptying before holding exercises.</text><text x="400" y="634" font-size="13">Original teaching diagram • not a substitute for local clinical pathways</text>
+</g></svg>
