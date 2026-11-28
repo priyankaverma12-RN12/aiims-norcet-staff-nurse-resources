@@ -250,27 +250,29 @@
 
 ## Part 3 — Q11–Q15
 
-### Q11. After repair, urine bag stays empty and suprapubic pain increases. First action?
+### Q11. On postoperative day two after vesicovaginal fistula repair, the urine drainage bag is hanging from the bed rail above bladder level and the catheter tubing is pulled taut when the patient turns. What should the nurse do?
 
-**Priority:** High · **Difficulty:** Medium · **Evidence:** Original practice
+**Priority:** Very High · **Difficulty:** Medium · **Evidence:** Original practice, not PYQ
 
-- **A.** Wait overnight
-- **B.** Remove catheter without orders
-- **C.** Check tubing and escalate possible blockage promptly
-- **D.** Ask patient to strain
+- **A.** Clamp the catheter for several hours to train the bladder
+- **B.** Reposition the bag below bladder level without touching the floor and secure the tubing to prevent traction on the repair
+- **C.** Disconnect the closed drainage tubing at every turn to reduce pulling
+- **D.** Remove the catheter immediately because the patient can move in bed
 
 <details><summary>Answer and detailed A–D Hinglish rationales</summary>
 
-**Correct: C. Check tubing and escalate possible blockage promptly**
+**Correct: B. Reposition the bag below bladder level without touching the floor and secure the tubing to prevent traction on the repair**
 
-**Correct kyun?** Kink, position aur output check karke urgent report karo.
+**Correct kyun?** Fistula repair ke baad continuous free urine drainage healing ke liye important hai. Bag bladder se neeche aur floor se upar rakhna reflux aur contamination ka risk kam karta hai. Tubing mein slack aur securement se catheter pull nahi hota. Nurse ordered catheter duration aur local protocol follow karti hai.
 
-- **A. Wait overnight:** Delay bladder overdistension risk badhata hai.
-- **B. Remove catheter without orders:** Unauthorized removal repair harm kar sakta hai.
-- **C. Check tubing and escalate possible blockage promptly:** Kink, position aur output check karke urgent report karo.
-- **D. Ask patient to strain:** Straining pressure badhata hai.
+- **A. Clamp the catheter for several hours to train the bladder:** Unprescribed clamping bladder filling aur repair par pressure badha sakti hai. Fistula repair mein ordered free drainage preserve karna zaroori hai.
+- **B. Reposition the bag below bladder level without touching the floor and secure the tubing to prevent traction on the repair:** Yeh gravity drainage maintain karta hai, closed system ko preserve karta hai aur catheter traction reduce karta hai.
+- **C. Disconnect the closed drainage tubing at every turn to reduce pulling:** Repeated disconnection contamination aur catheter-associated infection ka risk badhata hai. Securement aur safe bag position better hain.
+- **D. Remove the catheter immediately because the patient can move in bed:** Catheter removal repair surgeon ke plan ke according hoti hai. Mobility alone catheter remove karne ka reason nahi hai.
 
-**Nursing application:** Patient ki privacy rakho, leakage pattern aur infection red flags assess karo, catheter patency monitor karo, specialist ko timely report karo.
+**Nursing application:** Urine output aur catheter patency assess karo. Bag ka position aur tubing ka securement har transfer aur turning ke baad check karo. Pain, obstruction ya accidental dislodgement urgently report karo.
+
+**Clinical references:** [CDC CAUTI prevention guideline](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html), [WHO simple obstetric fistula catheter duration](https://www.who.int/publications/i/item/9789241550192). **Question-level PYQ/video:** Not verified.
 
 </details>
 
