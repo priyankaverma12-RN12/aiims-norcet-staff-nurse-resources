@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: FREE
-Owner: none
-Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: hepatobiliary-b02-20261128-1010Z
+Scope: PR60 isolated ALF companion guide and acute variceal bleeding bank, no shared navigation or other chapter edits.
+Claimed UTC: 2026-11-28T10:10:00Z
+Expiry UTC: 2026-11-28T10:40:00Z
 
 ## Released checkpoint — 28 November 2026
 
