@@ -439,7 +439,7 @@ Original practice, not PYQs. Draft-only. Treatment timing follows the named RCH 
 
 ### Q16. A district facility has administered repeated prescribed nebulized adrenaline doses, yet the child has recurrent severe stridor. Which disposition should the nurse anticipate?
 
-**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Acute viral croup | **Type:** Original
+**Difficulty:** Medium | **Priority:** 🔴 High | **Topic:** Acute viral croup | **Type:** Original
 
 - **A.** Routine discharge after each transient response
 - **B.** Urgent escalation and transfer to a facility capable of advanced pediatric airway care
@@ -450,15 +450,15 @@ Original practice, not PYQs. Draft-only. Treatment timing follows the named RCH 
 
 **Correct: B. Urgent escalation and transfer to a facility capable of advanced pediatric airway care**
 
-- **A.** Transient response lasting recovery prove nahi karta. Recurrent severe symptoms routine home management ke liye unsafe hain.
+- **A.** Nebulized adrenaline se swelling kuch samay ke liye kam ho sakti hai. Agar severe stridor baar-baar wapas aa raha hai, toh temporary improvement ko safe discharge ka proof nahi maan sakte. Bachche ko monitored care aur urgent review chahiye.
 
-- **B.** Repeated doses aur recurrent severe symptoms indicate ongoing airway risk. Senior review aur higher-level pediatric airway support arrange karna chahiye rather than waiting for respiratory failure.
+- **B.** Repeated prescribed adrenaline ke baad bhi severe stridor wapas aa raha hai, toh upper airway ki obstruction abhi serious ho sakti hai. Nurse ko senior pediatric team ko turant batana chahiye aur advanced airway support wale centre tak safe transfer ki taiyari karni chahiye. Transfer tak prescribed treatment aur monitoring jaari rehni chahiye.
 
-- **C.** Cough suppressant airway edema treat nahi karta aur sedation potentially harmful ho sakti hai.
+- **C.** Home cough suppressant swelling ka treatment nahi karta. Sedating medicines se bachche ki alertness aur breathing assessment par asar pad sakta hai. Isliye yeh higher-level airway care ka substitute nahi hai.
 
-- **D.** Hypoxemia late sign ho sakti hai. Transfer decision deterioration aur repeated treatment need par based hona chahiye.
+- **D.** Croup mein oxygen saturation kam hona ek late sign ho sakta hai. Severe stridor aur repeated rescue treatment ki zaroorat ke basis par pehle hi escalation karni chahiye. Critical desaturation ka wait karna unsafe hai.
 
-**Exam clue:** Repeated adrenaline requirement is an escalation signal.
+**Exam clue:** Agar prescribed nebulized adrenaline ke baad severe stridor baar-baar wapas aaye, toh urgent senior review aur higher-level airway care ki zaroorat ho sakti hai.
 
 **Reference:** [RCH croup guideline](https://www.rch.org.au/clinicalguide/guideline_index/Croup_Laryngotracheobronchitis/); [CPS acute croup management](https://cps.ca/en/documents/position/acute-management-of-croup).
 
@@ -479,17 +479,17 @@ Original practice, not PYQs. Draft-only. Treatment timing follows the named RCH 
 
 **Correct: C. Humidified air has not shown reliable benefit and must not replace indicated treatment**
 
-- **A.** Severe croup mein indicated pharmacologic treatment aur airway support replace nahi ho sakte. Steam ko equivalent nahi maanna chahiye.
+- **A.** Corticosteroid airway ki inflammation ko kam karne mein madad karta hai. Severe croup mein prescribed medicine aur zaroori airway support ko steam se replace nahi kar sakte.
 
-- **B.** Boiling water bachche ke liye scald hazard hai. Yeh safe airway treatment nahi hai.
+- **B.** Boiling water aur garam steam se bachche ko serious burn ya scald ho sakta hai. Yeh airway kholne ka proven treatment nahi hai. Caregiver ko hot-water inhalation avoid karne ke liye samjhao.
 
-- **C.** Humidified air ka consistent clinical benefit demonstrate nahi hua. Caregiver ko explain karna chahiye ki severity-based treatment aur return precautions important hain, aur hot steam burns ka risk bhi create karta hai.
+- **C.** Humidified air ya steam ka reliable clinical benefit establish nahi hua hai. Isliye prescribed croup treatment jaari rakhna aur bachche ki breathing dekhna zaroori hai. Garam paani aur steam inhalation avoid karna chahiye, kyunki inmein scald ka risk hai. Agar stridor at rest, breathing difficulty ya kam alertness aaye, toh urgent medical assessment chahiye.
 
-- **D.** Humidity recurrence prevention guarantee nahi karti. Symptoms worsen hon to reassessment required hai.
+- **D.** Humidity se stridor kabhi wapas nahi aayega, aisi guarantee nahi hai. Agar bachcha worsen kare, toh caregiver ko treatment plan aur warning signs ke hisaab se medical help leni chahiye.
 
-**Exam clue:** No steam substitution for indicated therapy.
+**Exam clue:** Croup mein steam prescribed treatment ka substitute nahi hai aur hot steam se scald ho sakta hai.
 
-**Reference:** [RCH croup guideline](https://www.rch.org.au/clinicalguide/guideline_index/Croup_Laryngotracheobronchitis/); [CPS acute croup management](https://cps.ca/en/documents/position/acute-management-of-croup).
+**Reference:** [RCH croup guideline](https://www.rch.org.au/clinicalguide/guideline_index/Croup_Laryngotracheobronchitis/); [CPS acute croup management](https://cps.ca/en/documents/position/acute-management-of-croup). [UKHSA 2026 caregiver advice and scald risk](https://ukhsa.blog.gov.uk/2026/01/21/a-parents-guide-to-croup-what-are-the-symptoms-and-when-to-seek-medical-advice/).
 
 **MCQ-practice evidence:** Dedicated exact-question video evidence pending.
 
