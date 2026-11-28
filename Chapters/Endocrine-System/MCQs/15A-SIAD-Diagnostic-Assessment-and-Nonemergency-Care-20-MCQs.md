@@ -394,31 +394,31 @@ D. Actual fluid intake, sodium trend, urine findings and adherence difficulties
 
 </details>
 
-### Q14. A patient receiving specialist-prescribed tolvaptan for SIAD asks why urine output has increased. Which explanation is appropriate?
+### Q14. An adult receiving SAMSCA (tolvaptan) for hyponatremia develops new jaundice and dark urine. According to the US prescribing information, which action is appropriate?
 
-**Difficulty:** Medium | **Priority:** 🟠 High yield | **Type:** Original practice
+**Difficulty:** Medium | **Priority:** 🔴 Most important | **Type:** Original practice
 
-A. The drug causes urine production only by increasing blood glucose
+A. Continue treatment until the next routine visit
 
-B. The drug promotes water excretion by blocking vasopressin action at renal V2 receptors
+B. Withhold further treatment and urgently notify the prescriber for assessment of possible liver injury
 
-C. The drug replaces missing aldosterone
+C. Double the dose to improve the urine colour
 
-D. The drug prevents all water from entering the body
+D. Interpret jaundice as the expected therapeutic effect
 
 <details>
 <summary>Show answer and explanation</summary>
 
-**Correct answer: B. The drug promotes water excretion by blocking vasopressin action at renal V2 receptors**
+**Correct answer: B. Withhold further treatment and urgently notify the prescriber for assessment of possible liver injury**
 
-- **A — Incorrect:** Tolvaptan ka main mechanism blood glucose badhana nahi hai.
-- **B — Correct:** V2 receptor blockade se kidney collecting ducts mein water reabsorption kam ho sakti hai. Isliye urine water output badh sakta hai.
-- **C — Incorrect:** Tolvaptan aldosterone replacement nahi hai. Iska action vasopressin receptor par hai.
-- **D — Incorrect:** Dawa oral water intake ko physically stop nahi karti. Patient ki fluid access aur monitoring prescribed plan ke hisaab se chahiye.
+- **A — Incorrect:** Jaundice liver injury ka warning sign ho sakta hai. Routine visit ka wait karne se assessment delay ho sakta hai.
+- **B — Correct:** US SAMSCA label possible liver injury ke symptoms mein treatment discontinue karne ki warning deta hai. Nurse further dose rok kar urgent prescriber assessment arrange karti hai.
+- **C — Incorrect:** Dose badhane se medicine-related harm badh sakta hai. Dark urine ko dose increase se treat nahi karna chahiye.
+- **D — Incorrect:** Tolvaptan ka intended effect water excretion badhana hai. Jaundice normal therapeutic effect nahi hai.
 
-**Exam clue:** V2 blockade ke baad aquaresis yani water excretion badh sakti hai.
+**Exam clue:** Tolvaptan ke saath jaundice ya dark urine ko liver safety warning samjho.
 
-**Clinical reference:** [Clinical guidance](https://academic.oup.com/edrv/article/44/5/819/7090475)
+**Clinical reference:** [US SAMSCA prescribing information](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=5526617c-c7b9-4556-886d-729bbabbc566)
 
 **YouTube MCQ practice:** Item-specific mapping pending.
 

@@ -12,7 +12,7 @@ Severe neurological symptoms emergency hain aur stable SIAD ke routine plan se m
 
 ## 🔴 Specialist therapies aur monitoring
 
-Oral urea osmotic solute excretion badhakar water excretion mein help kar sakti hai. Tolvaptan vasopressin V2 receptor block karti hai. Isse urine water loss badhta hai. Tolvaptan har patient ke liye appropriate nahi hai aur specialist ki supervision chahiye. Initial dosing ke time purani restriction order ko review karo aur safe water access aur sodium monitoring ensure karo. Agar trigger resolve hone ke baad achanak dilute urine zyada aane lage toh sodium tezi se rise kar sakta hai. Is change ko turant team ko report karo. Discharge par individualized fluid instructions, medicine review aur repeat sodium testing ka plan hona chahiye.
+Oral urea osmotic solute excretion badhakar water excretion mein help kar sakti hai. Tolvaptan vasopressin V2 receptor block karti hai. Isse urine water loss badhta hai. Tolvaptan har patient ke liye appropriate nahi hai aur specialist ki supervision chahiye. US SAMSCA prescribing information mein jaundice aur dark urine jaise possible liver injury symptoms par treatment discontinue karne ki warning hai. Nurse further dose rok kar urgent prescriber assessment arrange karti hai. Local prescribing information aur protocol verify karo. Initial dosing ke time purani restriction order ko review karo aur safe water access aur sodium monitoring ensure karo. Agar trigger resolve hone ke baad achanak dilute urine zyada aane lage toh sodium tezi se rise kar sakta hai. Is change ko turant team ko report karo. Discharge par individualized fluid instructions, medicine review aur repeat sodium testing ka plan hona chahiye.
 
 ![SIAD diagnostic and care pathway](../Assets/15a-siad-diagnostic-care.svg)
 
