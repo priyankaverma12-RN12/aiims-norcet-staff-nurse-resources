@@ -54,11 +54,11 @@
 
 **C. Kyun galat hai:** Angle ek guide hai, success ka sole measure nahi. Actual tissue offloading verify karna zaroori hai.
 
-**D. Kyun sahi hai:** International guideline mein 30-degree lateral position conditional suggestion hai. Body shape aur tissue contact ke hisaab se angle aur support adjust karke sacrum aur hip ke bony prominence ka pressure kam karna chahiye.
+**D. Kyun sahi hai:** International Guideline ki R10 recommendation 30-degree lateral tilt suggest karti hai, lekin evidence certainty bahut low hai. Body shape ke hisaab se ye angle effective na bhi ho sakta hai. Sacrum aur greater trochanter dono ka actual pressure relief check karke angle aur support individualize karo. Har patient mein exact same angle force karna zaroori nahi hai.
 
 **Exam clue:** Prescribed position ka actual mechanical effect check karo.
 
-**Clinical reference:** [Positioning guidance](https://www.internationalguideline.com/repositioning).
+**Clinical reference:** [International Guideline, Repositioning R10/R11 and implementation considerations](https://www.internationalguideline.com/repositioning)
 
 **YouTube MCQ practice:** [Patient Safety and Positioning MCQ Sessions — VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg), indexed broad topic lead only. Item-specific coverage and playback verification pending.
 
@@ -114,13 +114,13 @@
 
 **B. Kyun galat hai:** Feeding, swallowing aur respiratory status har patient mein different ho sakte hain. Ek fixed low angle sab ke liye appropriate nahi.
 
-**C. Kyun sahi hai:** Aspiration se serious harm ho sakta hai, isliye required elevation maintain karo. Skin pressure aur alignment assess karke suitable support aur repositioning plan adjust karo.
+**C. Kyun sahi hai:** Aspiration ka matlab gastric ya oral material airway mein jaana hai. Is risk ki wajah se clinically required head elevation maintain karo. International Guideline R11 pressure injury prevention ke liye lower elevation suggest karti hai, lekin aspiration risk mein higher elevation ki need accept karti hai. Support surface, thigh support aur sliding se hone wale shear ko assess karke plan adjust karo.
 
 **D. Kyun galat hai:** High pressure injury risk aspiration risk ko cancel nahi karta. Dono risks ko saath assess karna chahiye.
 
 **Exam clue:** Pressure injury prevention ki position ko airway safety ke saath balance karo.
 
-**Clinical reference:** [Positioning guidance](https://www.internationalguideline.com/repositioning).
+**Clinical reference:** [International Guideline, Repositioning R10/R11 and implementation considerations](https://www.internationalguideline.com/repositioning)
 
 **YouTube MCQ practice:** [Patient Safety and Positioning MCQ Sessions — VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg), indexed broad topic lead only. Item-specific coverage and playback verification pending.
 
@@ -132,26 +132,26 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Support deformation
 
-- **A.** Its ability to prevent the patient from making any voluntary movement
-- **B.** Its colour contrast with the bed linen
+- **A.** Its ability to reduce surface friction while the patient is repositioned
+- **B.** Its ability to absorb moisture at the skin interface
 - **C.** Its ability to maintain the intended support under the patient's weight
-- **D.** Its suitability for raising the entire bed
+- **D.** Its ability to cushion a small bony prominence without supporting the trunk
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Its ability to maintain the intended support under the patient's weight**
 
-**A. Kyun galat hai:** Voluntary movement ko unnecessarily prevent karna safety goal nahi hai. Aid support provide kare aur patient ki mobility needs ko respect kare.
+**A. Kyun galat hai:** Friction kam karna moving patient ki skin protect karne mein useful hai, lekin wedge ka flatten hona load ke neeche support maintain na kar paane ki problem hai. Friction assessment alone is defect ko identify nahi karega.
 
-**B. Kyun galat hai:** Colour visibility mein help kar sakta hai, lekin wedge ki support capacity nahi batata.
+**B. Kyun galat hai:** Moisture management pressure injury prevention mein useful hai, lekin wedge ne apni shape lose kar di hai. Moisture absorb karne ki ability intended lateral angle maintain karne ka proof nahi hai.
 
 **C. Kyun sahi hai:** Wedge patient ke weight ke neeche flatten ho gayi hai. Isliye suitable density, dimensions aur support capacity wali aid assess karo jo intended position maintain kar sake.
 
-**D. Kyun galat hai:** Wedge ka kaam body ko support dena hai, entire bed ko raise karna nahi. Problem lateral tilt maintain na hone ki hai.
+**D. Kyun galat hai:** Local bony prominence ko cushion karna pressure relief ka ek part ho sakta hai. Yahan poora trunk intended tilt se wapas roll ho raha hai. Isliye trunk-support capacity ko reassess karna zyada relevant hai.
 
 **Exam clue:** Positioning aid ki performance use ke baad bhi verify karo.
 
-**Clinical reference:** [Positioning guidance](https://www.internationalguideline.com/repositioning).
+**Clinical reference:** [International Guideline, Repositioning R10/R11 and implementation considerations](https://www.internationalguideline.com/repositioning)
 
 **YouTube MCQ practice:** [Patient Safety and Positioning MCQ Sessions — VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg), indexed broad topic lead only. Item-specific coverage and playback verification pending.
 
@@ -275,7 +275,7 @@
 
 **Exam clue:** Sedation se pehle safe joint range assess karo.
 
-**Clinical reference:** [Positioning guidance](https://doi.org/10.1097/ALN.0000000000001937).
+**Clinical reference:** [ASA 2018 peripheral neuropathy advisory](https://www.asahq.org/~/media/sites/asahq/files/public/resources/standards-guidelines/practice-advisory-for-the-prevention-of-perioperative-peripheral-neuropathies.pdf) and [StatPearls patient positioning](https://www.ncbi.nlm.nih.gov/books/NBK513320/).
 
 **YouTube MCQ practice:** [Patient Safety and Positioning MCQ Sessions — VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg), indexed broad topic lead only. Item-specific coverage and playback verification pending.
 
@@ -306,7 +306,7 @@
 
 **Exam clue:** Arm angle normal circulation hone par bhi nerve risk create kar sakta hai.
 
-**Clinical reference:** [Positioning guidance](https://doi.org/10.1097/ALN.0000000000001937).
+**Clinical reference:** [ASA 2018 peripheral neuropathy advisory](https://www.asahq.org/~/media/sites/asahq/files/public/resources/standards-guidelines/practice-advisory-for-the-prevention-of-perioperative-peripheral-neuropathies.pdf) and [StatPearls patient positioning](https://www.ncbi.nlm.nih.gov/books/NBK513320/).
 
 **YouTube MCQ practice:** [Patient Safety and Positioning MCQ Sessions — VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg), indexed broad topic lead only. Item-specific coverage and playback verification pending.
 
@@ -337,7 +337,7 @@
 
 **Exam clue:** Tucked arm mein medial elbow aur neutral forearm check karo.
 
-**Clinical reference:** [Positioning guidance](https://doi.org/10.1097/ALN.0000000000001937).
+**Clinical reference:** [ASA 2018 peripheral neuropathy advisory](https://www.asahq.org/~/media/sites/asahq/files/public/resources/standards-guidelines/practice-advisory-for-the-prevention-of-perioperative-peripheral-neuropathies.pdf) and [StatPearls patient positioning](https://www.ncbi.nlm.nih.gov/books/NBK513320/).
 
 **YouTube MCQ practice:** [Patient Safety and Positioning MCQ Sessions — VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg), indexed broad topic lead only. Item-specific coverage and playback verification pending.
 
@@ -422,7 +422,7 @@
 
 **A. Kyun galat hai:** Eyes ko direct external pressure se free rakhna important prone-position check hai. Ye correct finding hai.
 
-**B. Kyun sahi hai:** Eye par sustained external pressure serious ocular injury cause kar sakta hai. Team ko support immediately correct karke eyes aur head position reassess karni chahiye.
+**B. Kyun sahi hai:** Eye par direct external pressure se retinal blood flow compromise ho sakta hai aur retinal artery occlusion jaise serious injury ka risk hota hai. Trained team pressure immediately relieve kare aur head support, alignment aur dono eyes ko reassess kare. Har perioperative visual loss ka mechanism direct pressure nahi hota, lekin ye preventable risk hai.
 
 **C. Kyun galat hai:** Neutral head alignment desirable hai jab procedure aur patient condition allow kare. Is finding mein immediate defect nahi diya gaya.
 
@@ -430,7 +430,7 @@
 
 **Exam clue:** Prone position mein eyes par direct pressure nahi hona chahiye.
 
-**Clinical reference:** [Positioning guidance](https://www.ncbi.nlm.nih.gov/books/NBK513320/).
+**Clinical reference:** [ASA 2019 perioperative visual loss advisory, spine surgery](https://doi.org/10.1097/ALN.0000000000002503) and [StatPearls patient positioning](https://www.ncbi.nlm.nih.gov/books/NBK513320/).
 
 **YouTube MCQ practice:** [Patient Safety and Positioning MCQ Sessions — VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg), indexed broad topic lead only. Item-specific coverage and playback verification pending.
 
@@ -505,8 +505,8 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Stirrup pressure anatomy
 
 - **A.** Common fibular (peroneal) nerve
-- **B.** Ulnar nerve
-- **C.** Median nerve
+- **B.** Tibial nerve in the popliteal fossa
+- **C.** Obturator nerve in the medial thigh
 - **D.** Femoral nerve at the inguinal ligament
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
@@ -515,15 +515,15 @@
 
 **A. Kyun sahi hai:** Common fibular nerve fibular head aur neck ke paas superficial course leti hai. Stirrup ka direct pressure is nerve ko injure kar sakta hai aur foot dorsiflexion weakness jaise problems ho sakte hain.
 
-**B. Kyun galat hai:** Ulnar nerve elbow aur hand ke medial side se related hai. Lower leg stirrup pressure uska usual local compression site nahi hai.
+**B. Kyun galat hai:** Tibial nerve knee ke posterior popliteal region se pass karti hai aur plantar flexion jaise functions mein role rakhti hai. Stem mein lateral fibular head par direct pressure diya hai. Ye common fibular nerve ki superficial location se match karta hai.
 
-**C. Kyun galat hai:** Median nerve upper limb mein forearm aur hand ki function se related hai. Fibular head ke local pressure se ye nerve directly compress nahi hoti.
+**C. Kyun galat hai:** Obturator nerve medial thigh ki adductor muscles ko supply karti hai. Iska vulnerable course proximal fibula ke lateral surface par nahi hai. Is local pressure site se common fibular nerve injury zyada relevant hai.
 
 **D. Kyun galat hai:** Femoral nerve anterior thigh ki function se related hai aur inguinal region mein vulnerable ho sakti hai. Is stem mein pressure lateral proximal fibula par hai.
 
 **Exam clue:** Fibular head ke paas common fibular nerve superficial hoti hai.
 
-**Clinical reference:** [Positioning guidance](https://doi.org/10.1097/ALN.0000000000001937).
+**Clinical reference:** [ASA 2018 peripheral neuropathy advisory](https://www.asahq.org/~/media/sites/asahq/files/public/resources/standards-guidelines/practice-advisory-for-the-prevention-of-perioperative-peripheral-neuropathies.pdf) and [StatPearls patient positioning, lithotomy](https://www.ncbi.nlm.nih.gov/books/NBK513320/).
 
 **YouTube MCQ practice:** [Patient Safety and Positioning MCQ Sessions — VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg), indexed broad topic lead only. Item-specific coverage and playback verification pending.
 
@@ -535,22 +535,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Evidence:** Original practice · **Exam focus:** NORCET / Staff Nurse · **Topic:** Head-down edema
 
-- **A.** Improved airway patency caused by gravity
-- **B.** Reduced risk of upper-airway obstruction
+- **A.** Isolated lower-limb venous pooling without upper-airway involvement
+- **B.** Isolated corneal surface injury as the main explanation of the tongue swelling
 - **C.** Possible upper-airway edema and difficulty maintaining the airway
-- **D.** Increased lower-limb muscle strength
+- **D.** Expected transient preload increase without any airway risk
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Possible upper-airway edema and difficulty maintaining the airway**
 
-**A. Kyun galat hai:** Face aur tongue swelling airway ko automatically open nahi karti. Soft tissue swelling airway space kam kar sakti hai.
+**A. Kyun galat hai:** Lower-limb venous pooling kuch positions mein hemodynamics affect kar sakta hai, lekin facial aur tongue swelling ko isolated leg problem kehna incorrect hai. Head-down position mein upper body tissues ki edema clinically important hai.
 
-**B. Kyun galat hai:** Swelling obstruction ka risk badha sakti hai, reduce nahi. Team ko airway assessment aur extubation plan review karna chahiye.
+**B. Kyun galat hai:** Corneal injury perioperative positioning ka alag ocular risk hai. Ye tongue swelling explain nahi karti. Extubation se pehle upper-airway patency aur edema ka assessment zaroori hai.
 
 **C. Kyun sahi hai:** Prolonged head-down positioning se face, tongue aur laryngeal tissues mein swelling ho sakti hai. Airway removal se pehle anesthesia team ko airway risk carefully assess karna chahiye.
 
-**D. Kyun galat hai:** Head-down posture muscle strength ko improve karne ka exercise nahi hai. Acute finding edema se related hai.
+**D. Kyun galat hai:** Trendelenburg position se venous return aur preload transiently change ho sakte hain. Lekin prolonged head-down position ke baad facial edema ko sirf hemodynamic change maan kar airway risk ignore nahi karna chahiye.
 
 **Exam clue:** Prolonged head-down position ke baad facial edema airway warning ho sakti hai.
 
@@ -577,7 +577,7 @@
 
 **A. Kyun galat hai:** Boot present hone ka matlab effective offloading guaranteed nahi hai. Actual heel contact check karna padta hai.
 
-**B. Kyun sahi hai:** Heel suspension boot ka intended function heel ko support surface se free rakhna hai. Added pillow ne geometry change kar di hai. Support correct karke actual heel clearance dobara verify karo.
+**B. Kyun sahi hai:** Heel suspension boot ka intended function heel ko support surface se free rakhna hai. Added pillow ne geometry change kar di hai. Support correct karke actual heel clearance dobara verify karo. Guideline ke implementation points mein knee ke neeche extra pillow se heel contact ka specific warning hai. Hand check se confirm karo ki heel support surface se free hai.
 
 **C. Kyun galat hai:** Heel ke directly neeche cushion rakhne se contact continue rahega. Offloading mein load heel se away redistribute karna hai.
 
@@ -585,7 +585,7 @@
 
 **Exam clue:** Heel boot use karte waqt extra knee support offloading ko defeat kar sakta hai.
 
-**Clinical reference:** [Positioning guidance](https://www.internationalguideline.com/heels).
+**Clinical reference:** [International Guideline, Heels H1 and heel-offloading device implementation](https://www.internationalguideline.com/heels).
 
 **YouTube MCQ practice:** [Patient Safety and Positioning MCQ Sessions — VS Nursing Academy, Ritika Mam](https://www.youtube.com/watch?v=SISfTMUsLHg), indexed broad topic lead only. Item-specific coverage and playback verification pending.
 
