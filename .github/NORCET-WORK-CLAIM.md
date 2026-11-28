@@ -1,10 +1,10 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: forward-09d-20261128-0402
+Scope: Nursing Foundations Group09D urinary specimen collection new package and chapter-local navigation only. No legacy, PR, shared tracker or other job edits.
+Claimed UTC: 2026-11-28T04:02:00Z
+Expiry UTC: 2026-11-28T04:32:00Z
 
 Verified forward chapter-local checkpoint c9ea8618308e5435b29eba83e267d66a30ec0a0a. Nursing Foundations 1,323 indexed originals (564 Medium,759 Difficult), 600 initial +723 expansion. Group09C 23 new (11 Medium,12 Difficult) plus preserved Group09 Q2,3,4,5,7,13,14 once =30 allocated. Bank 13902362639103755489ed9f80c0707e3cf6d4d3 blob 846363566d2110ae6af29cc77923da069685a814, concept b3cef8bdfa29fa8dd1628642422f2fa6e12208ca, diagram 4bd8d5a800decf02d0a60016203144006b14f8db, evidence a6736f6577389fff377fb2563ae976ce7d93dd8c, index c0dfc82ac33078bc932f07d6029623a1a47bb4ec, map 592e805868fd70bef3d11d34de868098440806f8, audit 98dd629d7a7d565522f5553732fad0e3768c8bb6, PYQ index c01c33263fe2a005bea065df8ceea2929e0b5784, video guide 24805f5eb0b1da0bb271b71819a353686ebbe061, README c9ea8618308e5435b29eba83e267d66a30ec0a0a exact readbacks. 23 aligned keys, 92 rationales, 23 closed details, zero exact normalized duplicates against 370 related stems. Related IPC and Renal tasks screened, exhaustive semantic audit pending. CDC, EAUN, EAU and BAUS direct HTML reviewed, ICMR extracted PDF with screenshot failure, NICE indexed only. Retrieved reported three-way catheter task overlaps IPC Q20, no new historical count. HPRCA key listing indexed, exact item/key not established. JINC practice candidate indexed, all 23 specific mappings pending. Both skills, AGENTS/Copilot and current audit retrieved, relevant sections applied; full fresh line-by-line reread not certified. PR8/12 and other scopes checked, Job4 09B metadata and Job5 distinct scopes preserved. No global tracker, PR or automation changes. Next 09D urinary specimen collection, three reserved Group09 Q6,11,12. Independent clinical, full semantic, curriculum, official-key, rendered UI and playback checks remain pending. Own claim released.
 
