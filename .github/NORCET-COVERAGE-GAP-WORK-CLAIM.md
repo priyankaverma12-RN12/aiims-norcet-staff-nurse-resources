@@ -1,10 +1,10 @@
 # Independent NORCET coverage-gap claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: coverage-gap-hematology-20261128-041517
+Scope: Hematology only, new leukemia overview and subtype MCQ banks, separate evidence and chapter-local inventory. No shared navigation or other jobs.
+Claimed UTC: 2026-11-28T04:15:17Z
+Expiry UTC: 2026-11-28T04:45:17Z
 
 Last owner: coverage-gap-hematology-20261128-040142
 Last scope: Hematology and Blood Disorders only. Released after verified Run 4 writes.
