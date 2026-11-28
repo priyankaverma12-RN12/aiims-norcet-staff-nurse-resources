@@ -1,10 +1,10 @@
 # Independent NORCET coverage-gap claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: coverage-gap-hematology-20261128-0456
+Scope: Hematology only, new 18 safe transfusion administration bank, concept, SVG and evidence, own inventory and claim. Source discrepancy annotation in new package only. Existing navigation and other jobs excluded.
+Claimed UTC: 2026-11-28T04:56:00Z
+Expiry UTC: 2026-11-28T05:26:00Z
 
 Last owner: coverage-gap-hematology-20261128-0447
 Last scope: Hematology blood grouping and transfusion compatibility. Released after verified Run 7 package and inventory.
