@@ -2,6 +2,8 @@
 
 **Mock 01 complete-length practice edition is published; final clinical and exhaustive semantic validation remain pending.** The goal is 10 distinct chapter-only tests, each with 120 four-option questions and hidden detailed solutions. Target timing is 135 minutes with six practice blocks of 20 questions. Suggested score is +1 correct, −1/3 wrong and 0 skipped. This is a custom NORCET-style practice format, not the official exam length.
 
+## Test availability
+
 | Mock | Target | Published |
 |---|---:|---|
 | 1 | 120 | [Open Mock 01](Eye-and-ENT-Nursing-Mock-Test-01-120-MCQs.md) · 120 assembled, clinical rereview and bounded snapshot duplicate screen completed, [evidence gaps documented](Mock-01-Semantic-and-Video-Audit.md) |
@@ -15,7 +17,8 @@
 | 9 | 120 | Pending |
 | 10 | 120 | Pending |
 
-[Chapter](../README.md) · [Topic-wise starter questions](../MCQs/Eye-and-ENT-Nursing-Topic-Wise-Starter-MCQs.md)
+- [Chapter](../README.md)
+- [Topic-wise starter questions](../MCQs/Eye-and-ENT-Nursing-Topic-Wise-Starter-MCQs.md)
 
 **Learner correction (27 November 2026):** Every new mock must contain newly authored mock-exclusive questions. No copying, selecting, or superficial rewording of existing MCQs, PYQs, concept practice, revision questions or other mocks. The same concepts may be tested through genuinely different clinical tasks. Compare exact and semantic duplicates against all banks and mocks. Maintain a separate mock-exclusive question inventory, with 120 new questions per mock and 1,200 across ten mocks. Parallel Eye and ENT mock-only preparation is authorized without interfering with the topic authorship scope.
 

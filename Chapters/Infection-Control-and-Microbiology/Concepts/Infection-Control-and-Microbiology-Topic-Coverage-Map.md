@@ -2,6 +2,8 @@
 
 This is a curriculum-based checklist, not full theory notes. No learning completion is recorded.
 
+## Topics to study
+
 - Microorganisms and transmission
 - immunity
 - hand hygiene
@@ -31,9 +33,14 @@ Used needle se blood-borne infection ka risk ho sakta hai. Nurse site wash karti
 Contaminated recyclable plastic ko Indian biomedical waste rules mein red category mein segregate kiya jaata hai. Isse treatment aur recycling ka safe process follow ho sakta hai.
 
 ## Sources
-[Indian Nursing Council curriculum](https://thc.nic.in/Central%20Governmental%20Regulations/Indian%20Nursing%20Council%20%28Revised%20Regulations%20and%20Curriculum%20For%20B.Sc.%28Nursing%29%20%28Program%29%20Regulations%2C2020..pdf) · [AIIMS NORCET 10 official notice](https://www.aiimsraipur.edu.in/upload/vacancies/69a2c1a491171_Advertisement%20for%20NORCET%2010.pdf) · [NORCET 11 notice copy](https://dshelpingforever.co.in/wp-content/uploads/2026/07/AIIMS-NORCET-11-Recruitment-2026-Notification-PDF.pdf) · [OpenStax nursing textbooks](https://www2.openstax.org/nursing-2026)
 
-[Chapter](../README.md) · [MCQs](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-Starter-MCQs.md)
+- [Indian Nursing Council curriculum](https://thc.nic.in/Central%20Governmental%20Regulations/Indian%20Nursing%20Council%20%28Revised%20Regulations%20and%20Curriculum%20For%20B.Sc.%28Nursing%29%20%28Program%29%20Regulations%2C2020..pdf)
+- [AIIMS NORCET 10 official notice](https://www.aiimsraipur.edu.in/upload/vacancies/69a2c1a491171_Advertisement%20for%20NORCET%2010.pdf)
+- [NORCET 11 notice copy](https://dshelpingforever.co.in/wp-content/uploads/2026/07/AIIMS-NORCET-11-Recruitment-2026-Notification-PDF.pdf)
+- [OpenStax nursing textbooks](https://www2.openstax.org/nursing-2026)
+
+- [Chapter](../README.md)
+- [MCQs](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-Starter-MCQs.md)
 
 
 ## Expanded practice coverage (in progress)
@@ -69,7 +76,8 @@ Contaminated recyclable plastic ko Indian biomedical waste rules mein red catego
 - 29. VAP and surgical site infection prevention — [40 original MCQs](../MCQs/29-VAP-and-Surgical-Site-Infection-Prevention-40-MCQs.md) and [concepts](29-VAP-and-Surgical-Site-Infection-Prevention.md)
 - 30. Environmental IPC, outbreak investigation and surveillance calculations — [40 original MCQs](../MCQs/30-Environmental-IPC-Outbreak-Investigation-and-Surveillance-Calculations-40-MCQs.md) and [concepts](30-Environmental-IPC-Outbreak-Investigation-and-Surveillance-Calculations.md)
 
-[Topic-wise index](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) · [Videos](Infection-Control-and-Microbiology-Video-and-Research-Guide.md)
+- [Topic-wise index](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md)
+- [Videos](Infection-Control-and-Microbiology-Video-and-Research-Guide.md)
 
 
 [Detailed concept notes for topics 6 and 7](06-07-Chain-of-Infection-Bacterial-Structure-and-Growth.md) include three Mermaid diagrams and a growth calculation.

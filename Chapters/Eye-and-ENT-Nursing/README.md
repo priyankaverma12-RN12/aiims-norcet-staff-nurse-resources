@@ -4,45 +4,222 @@
 
 ## 📚 Study resources
 
-| Section | Open |
-|---|---|
-| Concepts and syllabus coverage | [Topic map](Concepts/Eye-and-ENT-Nursing-Topic-Coverage-Map.md) |
-| Eye anatomy and physiology | [Detailed Hinglish notes and diagrams](Concepts/Eye-Anatomy-and-Physiology.md) |
-| Eye assessment and diagnostics | [Detailed notes and Snellen schematic](Concepts/Eye-Assessment-and-Diagnostics.md) · [30 new MCQs](MCQs/Eye-Assessment-and-Diagnostics-30-MCQs.md) |
-| Refractive errors | [Detailed concepts and diagrams](Concepts/Refractive-Errors.md) · [30 integrated MCQs](MCQs/Refractive-Errors-30-MCQs.md) · [Myopia 24 additional](MCQs/Myopia-Additional-24-MCQs.md) · [Hypermetropia 24 additional](MCQs/Hypermetropia-Additional-24-MCQs.md) · [Astigmatism 24 additional](MCQs/Astigmatism-Additional-24-MCQs.md) · [Presbyopia 25 additional](MCQs/Presbyopia-Additional-25-MCQs.md) · [Optics 26 additional](MCQs/Refractive-Optics-Additional-26-MCQs.md) · [Nursing 27 additional](MCQs/Refractive-Nursing-Additional-27-MCQs.md) |
-| Cataract | [Detailed Hinglish concepts and diagrams](Concepts/Cataract-and-Perioperative-Nursing.md) · [30 original MCQs](MCQs/Cataract-30-MCQs.md) · [3 reported exam adaptations](Previous-Year-Questions/Cataract-Reported-Exam-Practice.md) |
-| Glaucoma | [Detailed Hinglish concepts and two diagrams](Concepts/Glaucoma-and-Nursing-Management.md) · [39 additional originals](MCQs/Glaucoma-Additional-39-MCQs.md) + one preserved starter · [4 source-traced adaptations](Previous-Year-Questions/Glaucoma-Reported-Exam-Practice.md) |
-| Retinal detachment | [Detailed concepts and two diagrams](Concepts/Retinal-Detachment-and-Surgical-Nursing.md) · [29 additional originals](MCQs/Retinal-Detachment-Additional-29-MCQs.md) + one preserved starter · [2 source-traced adaptations](Previous-Year-Questions/Retinal-Detachment-Reported-Exam-Practice.md) |
-| Diabetic retinopathy | [Detailed Hinglish concepts and original diagram](Concepts/Diabetic-Retinopathy-and-Nursing.md) · [32 original MCQs](MCQs/Diabetic-Retinopathy-32-MCQs.md) · [Exam evidence and gaps](Previous-Year-Questions/Diabetic-Retinopathy-Exam-Evidence.md) |
-| Age-related macular degeneration | [Detailed Hinglish concepts and original diagram](Concepts/Age-Related-Macular-Degeneration-and-Nursing.md) · [30 original MCQs](MCQs/AMD-30-MCQs.md) · [AIIMS 2019 reported adaptation](Previous-Year-Questions/AMD-Reported-Exam-Practice.md) |
-| Retinal artery occlusion | [Detailed emergency nursing concepts and fundus diagram](Concepts/Retinal-Artery-Occlusion-and-Emergency-Nursing.md) · [30 original MCQs](MCQs/Retinal-Artery-Occlusion-30-MCQs.md) · [Exam evidence and gaps](Previous-Year-Questions/Retinal-Artery-Occlusion-Exam-Evidence.md) |
-| Retinal vein occlusion | [Detailed Hinglish concepts and original fundus diagram](Concepts/Retinal-Vein-Occlusion-and-Nursing.md) · [30 original MCQs](MCQs/Retinal-Vein-Occlusion-30-MCQs.md) · [Exam evidence and gaps](Previous-Year-Questions/Retinal-Vein-Occlusion-Exam-Evidence.md) |
-| Vitreous hemorrhage | [Detailed Hinglish theory and original diagram](Concepts/Vitreous-Hemorrhage-and-Nursing.md) · [30 original MCQs](MCQs/Vitreous-Hemorrhage-30-MCQs.md) · [Exam research](Previous-Year-Questions/Vitreous-Hemorrhage-Exam-Evidence.md) |
-| Macular hole | [Detailed Hinglish concepts and original OCT-style schematic](Concepts/Macular-Hole-and-Nursing.md) · [30 original MCQs](MCQs/Macular-Hole-30-MCQs.md) · [Exam evidence](Previous-Year-Questions/Macular-Hole-Exam-Evidence.md) |
-| Epiretinal membrane | [Detailed Hinglish concepts and original OCT-style schematic](Concepts/Epiretinal-Membrane-and-Nursing.md) · [30 original MCQs](MCQs/Epiretinal-Membrane-30-MCQs.md) · [Exam evidence](Previous-Year-Questions/Epiretinal-Membrane-Exam-Evidence.md) |
-| Vitreomacular traction | [Detailed Hinglish concepts and original OCT-style schematic](Concepts/Vitreomacular-Traction-Concepts.md) · [30 original MCQs](MCQs/Vitreomacular-Traction-30-MCQs.md) · [Exam evidence](Previous-Year-Questions/Vitreomacular-Traction-Exam-Evidence.md) |
-| Central serous chorioretinopathy | [Detailed Hinglish concepts and original cross-section](Concepts/Central-Serous-Chorioretinopathy-Concepts.md) · [30 original MCQs](MCQs/Central-Serous-Chorioretinopathy-30-MCQs.md) · [Exam evidence](Previous-Year-Questions/Central-Serous-Chorioretinopathy-Exam-Evidence.md) |
-| Hypertensive retinopathy | [Detailed Hinglish concepts and original fundus schematic](Concepts/Hypertensive-Retinopathy-Concepts.md) · [30 original MCQs](MCQs/Hypertensive-Retinopathy-30-MCQs.md) · [GMCH 2019 reported adaptation and evidence gaps](Previous-Year-Questions/Hypertensive-Retinopathy-Exam-Evidence.md) |
-| Retinopathy of prematurity | [Detailed Hinglish concepts and two original schematics](Concepts/Retinopathy-of-Prematurity-Concepts.md) · [30 original MCQs](MCQs/Retinopathy-of-Prematurity-30-MCQs.md) · [JIPMER 2020 reported adaptation and gaps](Previous-Year-Questions/Retinopathy-of-Prematurity-Exam-Evidence.md) |
-| Conjunctivitis | [Detailed Hinglish concepts and original schematic](Concepts/Conjunctivitis-Concepts.md) · [30 original MCQs](MCQs/Conjunctivitis-30-MCQs.md) · [NORCET 7 reported concept adaptation and evidence gaps](Previous-Year-Questions/Conjunctivitis-Exam-Evidence.md) |
-| Keratitis | [Detailed Hinglish concepts and original schematic](Concepts/Keratitis-Concepts.md) · [30 original MCQs](MCQs/Keratitis-30-MCQs.md) · [Exam evidence and gaps](Previous-Year-Questions/Keratitis-Exam-Evidence.md) |
-| Corneal ulcer | [Detailed Hinglish concepts and original depth schematic](Concepts/Corneal-Ulcer-Concepts.md) · [30 original MCQs](MCQs/Corneal-Ulcer-30-MCQs.md) · [Exam evidence and gaps](Previous-Year-Questions/Corneal-Ulcer-Exam-Evidence.md) |
-| Stye (hordeolum) | [Detailed Hinglish concepts and original eyelid schematic](Concepts/Stye-Hordeolum-Concepts.md) · [30 original MCQs](MCQs/Stye-Hordeolum-30-MCQs.md) · [Exam evidence and gaps](Previous-Year-Questions/Stye-Hordeolum-Exam-Evidence.md) |
-| Chalazion | [Detailed Hinglish concepts and original lipogranuloma diagram](Concepts/Chalazion-Concepts.md) · [30 original MCQs](MCQs/Chalazion-30-MCQs.md) · [Exam evidence and gaps](Previous-Year-Questions/Chalazion-Exam-Evidence.md) |
-| Blepharitis | [Detailed Hinglish concepts and original diagram](Concepts/Blepharitis-Concepts.md) · [30 original MCQs](MCQs/Blepharitis-30-MCQs.md) · [Exam evidence and gaps](Previous-Year-Questions/Blepharitis-Exam-Evidence.md) |
-| Trachoma | [Roman Hinglish concepts and WHO grading schematic](Concepts/Trachoma-Concepts.md) · [30 original MCQs](MCQs/Trachoma-30-MCQs.md) · [UP NHM CHO reported adaptation and evidence gaps](Previous-Year-Questions/Trachoma-Exam-Evidence.md) |
-| Entropion | [Detailed Hinglish concepts and original diagram](Concepts/Entropion-Concepts.md) · [30 original MCQs](MCQs/Entropion-30-MCQs.md) · [Exam evidence and gaps](Previous-Year-Questions/Entropion-Exam-Evidence.md) |
-| Ectropion | [Detailed Hinglish concepts and original diagram](Concepts/Ectropion-Concepts.md) · [30 original MCQs](MCQs/Ectropion-30-MCQs.md) · [Exam evidence and gaps](Previous-Year-Questions/Ectropion-Exam-Evidence.md) |
-| Trichiasis | [Detailed Hinglish concepts and original diagram](Concepts/Trichiasis-Concepts.md) · [30 original MCQs](MCQs/Trichiasis-30-MCQs.md) · [Exam evidence and video gaps](Previous-Year-Questions/Trichiasis-Exam-Evidence.md) |
-| Ptosis | [Detailed Hinglish concepts and original diagram](Concepts/Ptosis-Concepts.md) · [30 original MCQs](MCQs/Ptosis-30-MCQs.md) · [Indexed DSSSB evidence and video gaps](Previous-Year-Questions/Ptosis-Exam-Evidence.md) |
-| Dacryocystitis | [Detailed Hinglish concepts and original diagram](Concepts/Dacryocystitis-Concepts.md) · [30 original MCQs](MCQs/Dacryocystitis-30-MCQs.md) · [Exam evidence and video gaps](Previous-Year-Questions/Dacryocystitis-Exam-Evidence.md) |
-| Congenital nasolacrimal duct obstruction | [Detailed Hinglish concepts and original diagram](Concepts/Congenital-Nasolacrimal-Duct-Obstruction-Concepts.md) · [30 original MCQs](MCQs/Congenital-Nasolacrimal-Duct-Obstruction-30-MCQs.md) · [Exam evidence and practice gaps](Previous-Year-Questions/Congenital-Nasolacrimal-Duct-Obstruction-Exam-Evidence.md) |
-| Dacryoadenitis | [Detailed Hinglish concepts and original diagram](Concepts/Dacryoadenitis-Concepts.md) · [30 original MCQs](MCQs/Dacryoadenitis-30-MCQs.md) · [Exam evidence and practice gaps](Previous-Year-Questions/Dacryoadenitis-Exam-Evidence.md) |
-| Topic-wise MCQs | [30 new anatomy MCQs](MCQs/Eye-Anatomy-and-Physiology-30-MCQs.md) · [4 preserved starter MCQs](MCQs/Eye-and-ENT-Nursing-Topic-Wise-Starter-MCQs.md) |
-| 📜 Previous Year Questions | [8 refractive error adaptations](Previous-Year-Questions/Refractive-Errors-Reported-Exam-Practice.md) · [3 assessment exam adaptations](Previous-Year-Questions/Eye-Assessment-Reported-Exam-Practice.md) · [Research register](Previous-Year-Questions/Eye-and-ENT-Nursing-Past-Paper-Research-Register.md) · [🔵 RRB 2019 reported adaptation](Previous-Year-Questions/RRB-2019-Eye-Anatomy-Reported-Practice.md) · [Existing HPSSC 2022 reported adaptation](Previous-Year-Questions/Eye-and-ENT-Nursing-India-Wide-Additional-Reported-PYQs.md) |
-| 🧪 Mock Tests | [Ten-test plan](Mock-Tests/Eye-and-ENT-Nursing-Mock-Test-Plan.md) |
-| ▶️ YouTube teaching | [PW Nursing College Prep eye anatomy](https://www.youtube.com/watch?v=rMmGCyXEIMU) |
-| ▶️ YouTube MCQ practice | [GS India anatomy practice](https://www.youtube.com/watch?v=bSc66vwFzLk) (topic-level, exact questions not verified) |
+### Concepts and syllabus coverage
+
+- [Topic map](Concepts/Eye-and-ENT-Nursing-Topic-Coverage-Map.md)
+
+### Eye anatomy and physiology
+
+- [Detailed Hinglish notes and diagrams](Concepts/Eye-Anatomy-and-Physiology.md)
+
+### Eye assessment and diagnostics
+
+- [Detailed notes and Snellen schematic](Concepts/Eye-Assessment-and-Diagnostics.md)
+- [30 new MCQs](MCQs/Eye-Assessment-and-Diagnostics-30-MCQs.md)
+
+### Refractive errors
+
+- [Detailed concepts and diagrams](Concepts/Refractive-Errors.md)
+- [30 integrated MCQs](MCQs/Refractive-Errors-30-MCQs.md)
+- [Myopia 24 additional](MCQs/Myopia-Additional-24-MCQs.md)
+- [Hypermetropia 24 additional](MCQs/Hypermetropia-Additional-24-MCQs.md)
+- [Astigmatism 24 additional](MCQs/Astigmatism-Additional-24-MCQs.md)
+- [Presbyopia 25 additional](MCQs/Presbyopia-Additional-25-MCQs.md)
+- [Optics 26 additional](MCQs/Refractive-Optics-Additional-26-MCQs.md)
+- [Nursing 27 additional](MCQs/Refractive-Nursing-Additional-27-MCQs.md)
+
+### Cataract
+
+- [Detailed Hinglish concepts and diagrams](Concepts/Cataract-and-Perioperative-Nursing.md)
+- [30 original MCQs](MCQs/Cataract-30-MCQs.md)
+- [3 reported exam adaptations](Previous-Year-Questions/Cataract-Reported-Exam-Practice.md)
+
+### Glaucoma
+
+- [Detailed Hinglish concepts and two diagrams](Concepts/Glaucoma-and-Nursing-Management.md)
+- [39 additional originals](MCQs/Glaucoma-Additional-39-MCQs.md) + one preserved starter
+- [4 source-traced adaptations](Previous-Year-Questions/Glaucoma-Reported-Exam-Practice.md)
+
+### Retinal detachment
+
+- [Detailed concepts and two diagrams](Concepts/Retinal-Detachment-and-Surgical-Nursing.md)
+- [29 additional originals](MCQs/Retinal-Detachment-Additional-29-MCQs.md) + one preserved starter
+- [2 source-traced adaptations](Previous-Year-Questions/Retinal-Detachment-Reported-Exam-Practice.md)
+
+### Diabetic retinopathy
+
+- [Detailed Hinglish concepts and original diagram](Concepts/Diabetic-Retinopathy-and-Nursing.md)
+- [32 original MCQs](MCQs/Diabetic-Retinopathy-32-MCQs.md)
+- [Exam evidence and gaps](Previous-Year-Questions/Diabetic-Retinopathy-Exam-Evidence.md)
+
+### Age-related macular degeneration
+
+- [Detailed Hinglish concepts and original diagram](Concepts/Age-Related-Macular-Degeneration-and-Nursing.md)
+- [30 original MCQs](MCQs/AMD-30-MCQs.md)
+- [AIIMS 2019 reported adaptation](Previous-Year-Questions/AMD-Reported-Exam-Practice.md)
+
+### Retinal artery occlusion
+
+- [Detailed emergency nursing concepts and fundus diagram](Concepts/Retinal-Artery-Occlusion-and-Emergency-Nursing.md)
+- [30 original MCQs](MCQs/Retinal-Artery-Occlusion-30-MCQs.md)
+- [Exam evidence and gaps](Previous-Year-Questions/Retinal-Artery-Occlusion-Exam-Evidence.md)
+
+### Retinal vein occlusion
+
+- [Detailed Hinglish concepts and original fundus diagram](Concepts/Retinal-Vein-Occlusion-and-Nursing.md)
+- [30 original MCQs](MCQs/Retinal-Vein-Occlusion-30-MCQs.md)
+- [Exam evidence and gaps](Previous-Year-Questions/Retinal-Vein-Occlusion-Exam-Evidence.md)
+
+### Vitreous hemorrhage
+
+- [Detailed Hinglish theory and original diagram](Concepts/Vitreous-Hemorrhage-and-Nursing.md)
+- [30 original MCQs](MCQs/Vitreous-Hemorrhage-30-MCQs.md)
+- [Exam research](Previous-Year-Questions/Vitreous-Hemorrhage-Exam-Evidence.md)
+
+### Macular hole
+
+- [Detailed Hinglish concepts and original OCT-style schematic](Concepts/Macular-Hole-and-Nursing.md)
+- [30 original MCQs](MCQs/Macular-Hole-30-MCQs.md)
+- [Exam evidence](Previous-Year-Questions/Macular-Hole-Exam-Evidence.md)
+
+### Epiretinal membrane
+
+- [Detailed Hinglish concepts and original OCT-style schematic](Concepts/Epiretinal-Membrane-and-Nursing.md)
+- [30 original MCQs](MCQs/Epiretinal-Membrane-30-MCQs.md)
+- [Exam evidence](Previous-Year-Questions/Epiretinal-Membrane-Exam-Evidence.md)
+
+### Vitreomacular traction
+
+- [Detailed Hinglish concepts and original OCT-style schematic](Concepts/Vitreomacular-Traction-Concepts.md)
+- [30 original MCQs](MCQs/Vitreomacular-Traction-30-MCQs.md)
+- [Exam evidence](Previous-Year-Questions/Vitreomacular-Traction-Exam-Evidence.md)
+
+### Central serous chorioretinopathy
+
+- [Detailed Hinglish concepts and original cross-section](Concepts/Central-Serous-Chorioretinopathy-Concepts.md)
+- [30 original MCQs](MCQs/Central-Serous-Chorioretinopathy-30-MCQs.md)
+- [Exam evidence](Previous-Year-Questions/Central-Serous-Chorioretinopathy-Exam-Evidence.md)
+
+### Hypertensive retinopathy
+
+- [Detailed Hinglish concepts and original fundus schematic](Concepts/Hypertensive-Retinopathy-Concepts.md)
+- [30 original MCQs](MCQs/Hypertensive-Retinopathy-30-MCQs.md)
+- [GMCH 2019 reported adaptation and evidence gaps](Previous-Year-Questions/Hypertensive-Retinopathy-Exam-Evidence.md)
+
+### Retinopathy of prematurity
+
+- [Detailed Hinglish concepts and two original schematics](Concepts/Retinopathy-of-Prematurity-Concepts.md)
+- [30 original MCQs](MCQs/Retinopathy-of-Prematurity-30-MCQs.md)
+- [JIPMER 2020 reported adaptation and gaps](Previous-Year-Questions/Retinopathy-of-Prematurity-Exam-Evidence.md)
+
+### Conjunctivitis
+
+- [Detailed Hinglish concepts and original schematic](Concepts/Conjunctivitis-Concepts.md)
+- [30 original MCQs](MCQs/Conjunctivitis-30-MCQs.md)
+- [NORCET 7 reported concept adaptation and evidence gaps](Previous-Year-Questions/Conjunctivitis-Exam-Evidence.md)
+
+### Keratitis
+
+- [Detailed Hinglish concepts and original schematic](Concepts/Keratitis-Concepts.md)
+- [30 original MCQs](MCQs/Keratitis-30-MCQs.md)
+- [Exam evidence and gaps](Previous-Year-Questions/Keratitis-Exam-Evidence.md)
+
+### Corneal ulcer
+
+- [Detailed Hinglish concepts and original depth schematic](Concepts/Corneal-Ulcer-Concepts.md)
+- [30 original MCQs](MCQs/Corneal-Ulcer-30-MCQs.md)
+- [Exam evidence and gaps](Previous-Year-Questions/Corneal-Ulcer-Exam-Evidence.md)
+
+### Stye (hordeolum)
+
+- [Detailed Hinglish concepts and original eyelid schematic](Concepts/Stye-Hordeolum-Concepts.md)
+- [30 original MCQs](MCQs/Stye-Hordeolum-30-MCQs.md)
+- [Exam evidence and gaps](Previous-Year-Questions/Stye-Hordeolum-Exam-Evidence.md)
+
+### Chalazion
+
+- [Detailed Hinglish concepts and original lipogranuloma diagram](Concepts/Chalazion-Concepts.md)
+- [30 original MCQs](MCQs/Chalazion-30-MCQs.md)
+- [Exam evidence and gaps](Previous-Year-Questions/Chalazion-Exam-Evidence.md)
+
+### Blepharitis
+
+- [Detailed Hinglish concepts and original diagram](Concepts/Blepharitis-Concepts.md)
+- [30 original MCQs](MCQs/Blepharitis-30-MCQs.md)
+- [Exam evidence and gaps](Previous-Year-Questions/Blepharitis-Exam-Evidence.md)
+
+### Trachoma
+
+- [Roman Hinglish concepts and WHO grading schematic](Concepts/Trachoma-Concepts.md)
+- [30 original MCQs](MCQs/Trachoma-30-MCQs.md)
+- [UP NHM CHO reported adaptation and evidence gaps](Previous-Year-Questions/Trachoma-Exam-Evidence.md)
+
+### Entropion
+
+- [Detailed Hinglish concepts and original diagram](Concepts/Entropion-Concepts.md)
+- [30 original MCQs](MCQs/Entropion-30-MCQs.md)
+- [Exam evidence and gaps](Previous-Year-Questions/Entropion-Exam-Evidence.md)
+
+### Ectropion
+
+- [Detailed Hinglish concepts and original diagram](Concepts/Ectropion-Concepts.md)
+- [30 original MCQs](MCQs/Ectropion-30-MCQs.md)
+- [Exam evidence and gaps](Previous-Year-Questions/Ectropion-Exam-Evidence.md)
+
+### Trichiasis
+
+- [Detailed Hinglish concepts and original diagram](Concepts/Trichiasis-Concepts.md)
+- [30 original MCQs](MCQs/Trichiasis-30-MCQs.md)
+- [Exam evidence and video gaps](Previous-Year-Questions/Trichiasis-Exam-Evidence.md)
+
+### Ptosis
+
+- [Detailed Hinglish concepts and original diagram](Concepts/Ptosis-Concepts.md)
+- [30 original MCQs](MCQs/Ptosis-30-MCQs.md)
+- [Indexed DSSSB evidence and video gaps](Previous-Year-Questions/Ptosis-Exam-Evidence.md)
+
+### Dacryocystitis
+
+- [Detailed Hinglish concepts and original diagram](Concepts/Dacryocystitis-Concepts.md)
+- [30 original MCQs](MCQs/Dacryocystitis-30-MCQs.md)
+- [Exam evidence and video gaps](Previous-Year-Questions/Dacryocystitis-Exam-Evidence.md)
+
+### Congenital nasolacrimal duct obstruction
+
+- [Detailed Hinglish concepts and original diagram](Concepts/Congenital-Nasolacrimal-Duct-Obstruction-Concepts.md)
+- [30 original MCQs](MCQs/Congenital-Nasolacrimal-Duct-Obstruction-30-MCQs.md)
+- [Exam evidence and practice gaps](Previous-Year-Questions/Congenital-Nasolacrimal-Duct-Obstruction-Exam-Evidence.md)
+
+### Dacryoadenitis
+
+- [Detailed Hinglish concepts and original diagram](Concepts/Dacryoadenitis-Concepts.md)
+- [30 original MCQs](MCQs/Dacryoadenitis-30-MCQs.md)
+- [Exam evidence and practice gaps](Previous-Year-Questions/Dacryoadenitis-Exam-Evidence.md)
+
+### Topic-wise MCQs
+
+- [30 new anatomy MCQs](MCQs/Eye-Anatomy-and-Physiology-30-MCQs.md)
+- [4 preserved starter MCQs](MCQs/Eye-and-ENT-Nursing-Topic-Wise-Starter-MCQs.md)
+
+### 📜 Previous Year Questions
+
+- [8 refractive error adaptations](Previous-Year-Questions/Refractive-Errors-Reported-Exam-Practice.md)
+- [3 assessment exam adaptations](Previous-Year-Questions/Eye-Assessment-Reported-Exam-Practice.md)
+- [Research register](Previous-Year-Questions/Eye-and-ENT-Nursing-Past-Paper-Research-Register.md)
+- [🔵 RRB 2019 reported adaptation](Previous-Year-Questions/RRB-2019-Eye-Anatomy-Reported-Practice.md)
+- [Existing HPSSC 2022 reported adaptation](Previous-Year-Questions/Eye-and-ENT-Nursing-India-Wide-Additional-Reported-PYQs.md)
+
+### 🧪 Mock Tests
+
+- [Ten-test plan](Mock-Tests/Eye-and-ENT-Nursing-Mock-Test-Plan.md)
+
+### ▶️ YouTube teaching
+
+- [PW Nursing College Prep eye anatomy](https://www.youtube.com/watch?v=rMmGCyXEIMU)
+
+### ▶️ YouTube MCQ practice
+
+- [GS India anatomy practice](https://www.youtube.com/watch?v=bSc66vwFzLk) (topic-level, exact questions not verified)
 
 ![Eye anatomy original schematic](Assets/eye-anatomy-light-path.svg)
 

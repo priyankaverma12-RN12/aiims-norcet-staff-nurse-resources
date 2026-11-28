@@ -2,6 +2,8 @@
 
 Public titles and descriptions were checked. Full playback, question-by-question transcription and audio language were not independently verified. These are practice resources, not evidence of official PYQs.
 
+## Video resources
+
 | Resource | Purpose |
 |---|---|
 | [Nursing Adda247 — NORCET 11 Microbiology Complete, episode 1](https://www.youtube.com/watch?v=hmrn2m4ak0s) | Microbiology and infection control teaching and practice |
@@ -21,7 +23,8 @@ Public titles and descriptions were checked. Full playback, question-by-question
 - [Raman Academy HPSSC archives](https://ramanacademy.in/hp-staff-nurse-previous-year-question-papers/) and [Himexam HPRCA archives](https://himexam.com/hp-staff-nurse-previous-question-papers-pdf-download/)
 - [NPrep NORCET recall evidence explanation](https://nprep.in/blogs/aiims-norcet-previous-year-question-papers-pdf)
 
-[Original question bank](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md) · [PYQs](../Previous-Year-Questions/Infection-Control-and-Microbiology-Previous-Year-Questions-Index.md)
+- [Original question bank](../MCQs/Infection-Control-and-Microbiology-Topic-Wise-MCQ-Index.md)
+- [PYQs](../Previous-Year-Questions/Infection-Control-and-Microbiology-Previous-Year-Questions-Index.md)
 
 
 Additional exposure references: [NACO 2024](https://naco.mohfw.gov.in/wp-content/uploads/2026/11/NACO_HCTS-Guideline-2024_02.11.2026.pdf), [WHO PEP](https://www.who.int/publications/i/item/9789240095137), [CDC HBV](https://www.cdc.gov/hepatitis-b/hcp/infection-control/index.html), [CDC HCV](https://www.cdc.gov/hepatitis-c/hcp/infection-control/index.html).

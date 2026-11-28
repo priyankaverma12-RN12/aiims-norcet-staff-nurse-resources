@@ -2,12 +2,22 @@
 
 [Chapter](../README.md) · [Concepts](../Concepts/Endocrine-System-Master-Guide.md) · [Original MCQs](../MCQs/Endocrine-Topic-Wise.md) · [Videos](../Endocrine-YouTube-Teaching-and-MCQ-Practice.md)
 
-| Exam | File | Questions |
-|---|---|---:|
-| NORCET 2022–2026 | [NORCET reported question practice](NORCET-2022-2026-Endocrine-Reported-Questions.md) | 14 |
-| PGIMER 2020–2025 | [PGIMER reported question practice](PGIMER-2020-2025-Endocrine-Reported-Questions.md) | 4 |
-| HPSSC 2020 / HPRCA 2026 | [HP Staff Nurse reported question practice](HPSSC-2020-HPRCA-2026-Endocrine-Reported-Questions.md) | 5 |
-| ESIC 2016 / MP CHO 2019 | [Other staff nurse and community exam practice](ESIC-2016-MP-CHO-2019-Endocrine-Reported-Questions.md) | 3 |
+- NORCET 2022–2026
+  - **File:** [NORCET reported question practice](NORCET-2022-2026-Endocrine-Reported-Questions.md)
+  - **Questions:** 14
+
+- PGIMER 2020–2025
+  - **File:** [PGIMER reported question practice](PGIMER-2020-2025-Endocrine-Reported-Questions.md)
+  - **Questions:** 4
+
+- HPSSC 2020 / HPRCA 2026
+  - **File:** [HP Staff Nurse reported question practice](HPSSC-2020-HPRCA-2026-Endocrine-Reported-Questions.md)
+  - **Questions:** 5
+
+- ESIC 2016 / MP CHO 2019
+  - **File:** [Other staff nurse and community exam practice](ESIC-2016-MP-CHO-2019-Endocrine-Reported-Questions.md)
+  - **Questions:** 3
+
 
 **Total 26 source-linked adapted questions**: English stems/options, hidden answer, easy Hinglish reasoning, distractors, exam trick, exam/year and source status. Includes earlier leads converted into practice. Official exact papers/keys not authenticated. Some concepts recur across different reported exams; not counted as independently verified repetitions. HPRCA 2026 item remains an unverified lead.
 
@@ -21,15 +31,34 @@
 
 These are independently worded study prompts based on published third-party exam collections, not verbatim official papers. Exact official keys and population-wide exam frequency have not been verified.
 
-| Exam / source | Reported question concept | Answer / revision |
-|---|---|---|
-| [NORCET 2022 memory-based](https://id.scribd.com/document/883792179/AIIMS-NORCET-2022-Memory-Based-Paper-11th-September-2022-English) | Carpopedal spasm after thyroid surgery | Hypocalcemia |
-| [NORCET 6 Prelims 2024, NPrep](https://nprep.in/question-answer/a-45-year-old-patient-undergoes-a-total-thyroidectomy-and-is-admitted-DbUfjWcVOdZhStNCoQlQQ) | Early signs of postoperative hypocalcemia | Perioral tingling / neuromuscular irritability |
-| [NORCET 5 Prelims 2023, Shift 2](https://nextnurse.in/pyq/norcet/norcet-norcet-5-prelims-shift-2) | Classic DI presentation | Polyuria, polydipsia |
-| [HPSSC Staff Nurse October 2020](https://ramanacademy.in/previous-papers/staff-nurse-hpssc-october-2020/) | Gland associated with pheochromocytoma | Adrenal, typically medulla |
-| [HP Staff Nurse May 2026, shift 2](https://rojgarbee.com/himachal-pradesh/staff-nurse/old-question-papers/25026-shift-2-05-may-2026) | Posterior pituitary hormone release | ADH and oxytocin |
-| [PGIMER Nursing Officer 2020](https://nextnurse.in/pyq/pgimer-nursing-officer/pgimer-nursing-officer-pgimer-no-2020) | Early hypoglycemia recognition | Sweating, tremor, hunger, palpitations |
-| [PGIMER Nursing Officer 2025](https://nextnurse.in/pyq/pgimer-nursing-officer/pgimer-nursing-officer-pgimer-nursing-officer-2025) | Clinical diabetes evaluation | Glucose-based diagnosis; revise criteria |
+- [NORCET 2022 memory-based](https://id.scribd.com/document/883792179/AIIMS-NORCET-2022-Memory-Based-Paper-11th-September-2022-English)
+  - **Reported question concept:** Carpopedal spasm after thyroid surgery
+  - **Answer / revision:** Hypocalcemia
+
+- [NORCET 6 Prelims 2024, NPrep](https://nprep.in/question-answer/a-45-year-old-patient-undergoes-a-total-thyroidectomy-and-is-admitted-DbUfjWcVOdZhStNCoQlQQ)
+  - **Reported question concept:** Early signs of postoperative hypocalcemia
+  - **Answer / revision:** Perioral tingling / neuromuscular irritability
+
+- [NORCET 5 Prelims 2023, Shift 2](https://nextnurse.in/pyq/norcet/norcet-norcet-5-prelims-shift-2)
+  - **Reported question concept:** Classic DI presentation
+  - **Answer / revision:** Polyuria, polydipsia
+
+- [HPSSC Staff Nurse October 2020](https://ramanacademy.in/previous-papers/staff-nurse-hpssc-october-2020/)
+  - **Reported question concept:** Gland associated with pheochromocytoma
+  - **Answer / revision:** Adrenal, typically medulla
+
+- [HP Staff Nurse May 2026, shift 2](https://rojgarbee.com/himachal-pradesh/staff-nurse/old-question-papers/25026-shift-2-05-may-2026)
+  - **Reported question concept:** Posterior pituitary hormone release
+  - **Answer / revision:** ADH and oxytocin
+
+- [PGIMER Nursing Officer 2020](https://nextnurse.in/pyq/pgimer-nursing-officer/pgimer-nursing-officer-pgimer-no-2020)
+  - **Reported question concept:** Early hypoglycemia recognition
+  - **Answer / revision:** Sweating, tremor, hunger, palpitations
+
+- [PGIMER Nursing Officer 2025](https://nextnurse.in/pyq/pgimer-nursing-officer/pgimer-nursing-officer-pgimer-nursing-officer-2025)
+  - **Reported question concept:** Clinical diabetes evaluation
+  - **Answer / revision:** Glucose-based diagnosis; revise criteria
+
 
 🔴 **Repeated concept documented in two NORCET-labelled collections (2022 and 2024): post-thyroidectomy hypocalcemia.** Third-party recall evidence, not an official frequency count.
 

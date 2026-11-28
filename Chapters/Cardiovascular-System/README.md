@@ -20,11 +20,30 @@ Heart aur blood circulation ka chapter. Day 4 mein external heart anatomy, peric
 
 ![Heart external anatomy overview](Assets/heart-anatomy-overview.svg)
 
-| Studied topic group | Concepts | English MCQs | Previous Year Questions | Teaching video | Practice video | Revision |
-|---|---|---|---|---|---|---|
-| Day 4: location, surfaces, borders, grooves, relations, variants | [Read](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md#location-and-external-anatomy) | [8 questions](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Reported leads](Previous-Year-Questions/README.md) | [Heart anatomy Hindi](https://www.youtube.com/watch?v=fHfqO5U63M0) | [Mixed CVS practice](https://www.youtube.com/watch?v=y6YYRSndzRE) | [Revise](Revision/Day-04-Heart-Anatomy-Quick-Revision.md) |
-| Day 4: pericardium, layers, fluid, nerves, attachments, sinuses | [Read](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md#pericardium-and-heart-wall) | [Same bank](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Evidence](Previous-Year-Questions/README.md) | [Heart layers Hindi](https://www.youtube.com/watch?v=Bd5Isncdj_0) | [Coverings section](https://www.youtube.com/watch?v=y6YYRSndzRE) | [Revise](Revision/Day-04-Heart-Anatomy-Quick-Revision.md) |
-| Day 4: cardiac muscle, junctions, skeleton, histology and clinical basics | [Read](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md#cardiac-muscle-and-skeleton) | [Same bank](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Evidence](Previous-Year-Questions/README.md) | Not separately verified | Not separately verified | [Revise](Revision/Day-04-Heart-Anatomy-Quick-Revision.md) |
+- Day 4: location, surfaces, borders, grooves, relations, variants
+  - **Concepts:** [Read](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md#location-and-external-anatomy)
+  - **English MCQs:** [8 questions](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md)
+  - **Previous Year Questions:** [Reported leads](Previous-Year-Questions/README.md)
+  - **Teaching video:** [Heart anatomy Hindi](https://www.youtube.com/watch?v=fHfqO5U63M0)
+  - **Practice video:** [Mixed CVS practice](https://www.youtube.com/watch?v=y6YYRSndzRE)
+  - **Revision:** [Revise](Revision/Day-04-Heart-Anatomy-Quick-Revision.md)
+
+- Day 4: pericardium, layers, fluid, nerves, attachments, sinuses
+  - **Concepts:** [Read](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md#pericardium-and-heart-wall)
+  - **English MCQs:** [Same bank](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md)
+  - **Previous Year Questions:** [Evidence](Previous-Year-Questions/README.md)
+  - **Teaching video:** [Heart layers Hindi](https://www.youtube.com/watch?v=Bd5Isncdj_0)
+  - **Practice video:** [Coverings section](https://www.youtube.com/watch?v=y6YYRSndzRE)
+  - **Revision:** [Revise](Revision/Day-04-Heart-Anatomy-Quick-Revision.md)
+
+- Day 4: cardiac muscle, junctions, skeleton, histology and clinical basics
+  - **Concepts:** [Read](Concepts/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md#cardiac-muscle-and-skeleton)
+  - **English MCQs:** [Same bank](MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md)
+  - **Previous Year Questions:** [Evidence](Previous-Year-Questions/README.md)
+  - **Teaching video:** Not separately verified
+  - **Practice video:** Not separately verified
+  - **Revision:** [Revise](Revision/Day-04-Heart-Anatomy-Quick-Revision.md)
+
 
 **Practice:** Q1–Q7 attempted in chat; Q8 pending. 40 additional topic-wise practice MCQs are now available (unattempted); 48 total across both banks. No personal scores published.
 
@@ -39,11 +58,30 @@ Heart aur blood circulation ka chapter. Day 4 mein external heart anatomy, peric
 
 ## Topic 2 — Chambers and valves (Very High priority)
 
-| Topic | Concepts | MCQs | Previous Year Questions | Teaching | Practice video | Revision |
-|---|---|---|---|---|---|---|
-| Chambers, septum, fetal openings | [Read](Concepts/Day-04-Chambers-Valves.md#four-chambers) | [50 topic-wise MCQs](MCQs/Day-04-Chambers-Valves.md) | [HP 2026 Q38 reported](Previous-Year-Questions/README.md#chambers-and-valves-evidence) | [Heart A&P](https://www.youtube.com/watch?v=JyiYX39mW2c) | [CVS discussion](https://www.youtube.com/watch?v=y6YYRSndzRE) | [Revise](Revision/Day-04-Chambers-Valves-Quick-Revision.md) |
-| Valves, chordae, papillary muscles, great vessels | [Read](Concepts/Day-04-Chambers-Valves.md#four-valves) | [50-question bank](MCQs/Day-04-Chambers-Valves.md) | [HP 2021 Q42 reported](Previous-Year-Questions/README.md#chambers-and-valves-evidence) | [Heart working model](https://www.youtube.com/watch?v=s4KD2legpH8) | [25 MCQs](https://www.youtube.com/watch?v=0FQ6kGFkvEA) | [Revise](Revision/Day-04-Chambers-Valves-Quick-Revision.md) |
-| Auscultation, clinical basics and extra anatomy | [Read](Concepts/Day-04-Chambers-Valves.md#auscultation) | [Practice](MCQs/Day-04-Chambers-Valves.md) | [Evidence](Previous-Year-Questions/README.md#chambers-and-valves-evidence) | Not separately verified | Not separately verified | [Revise](Revision/Day-04-Chambers-Valves-Quick-Revision.md) |
+- Chambers, septum, fetal openings
+  - **Concepts:** [Read](Concepts/Day-04-Chambers-Valves.md#four-chambers)
+  - **MCQs:** [50 topic-wise MCQs](MCQs/Day-04-Chambers-Valves.md)
+  - **Previous Year Questions:** [HP 2026 Q38 reported](Previous-Year-Questions/README.md#chambers-and-valves-evidence)
+  - **Teaching:** [Heart A&P](https://www.youtube.com/watch?v=JyiYX39mW2c)
+  - **Practice video:** [CVS discussion](https://www.youtube.com/watch?v=y6YYRSndzRE)
+  - **Revision:** [Revise](Revision/Day-04-Chambers-Valves-Quick-Revision.md)
+
+- Valves, chordae, papillary muscles, great vessels
+  - **Concepts:** [Read](Concepts/Day-04-Chambers-Valves.md#four-valves)
+  - **MCQs:** [50-question bank](MCQs/Day-04-Chambers-Valves.md)
+  - **Previous Year Questions:** [HP 2021 Q42 reported](Previous-Year-Questions/README.md#chambers-and-valves-evidence)
+  - **Teaching:** [Heart working model](https://www.youtube.com/watch?v=s4KD2legpH8)
+  - **Practice video:** [25 MCQs](https://www.youtube.com/watch?v=0FQ6kGFkvEA)
+  - **Revision:** [Revise](Revision/Day-04-Chambers-Valves-Quick-Revision.md)
+
+- Auscultation, clinical basics and extra anatomy
+  - **Concepts:** [Read](Concepts/Day-04-Chambers-Valves.md#auscultation)
+  - **MCQs:** [Practice](MCQs/Day-04-Chambers-Valves.md)
+  - **Previous Year Questions:** [Evidence](Previous-Year-Questions/README.md#chambers-and-valves-evidence)
+  - **Teaching:** Not separately verified
+  - **Practice video:** Not separately verified
+  - **Revision:** [Revise](Revision/Day-04-Chambers-Valves-Quick-Revision.md)
+
 
 Five reconstructed diagrams embedded; complete lesson includes final gap audit. 50 topic-wise questions available (Q1 offered, Q2–Q50 new, unattempted).
 

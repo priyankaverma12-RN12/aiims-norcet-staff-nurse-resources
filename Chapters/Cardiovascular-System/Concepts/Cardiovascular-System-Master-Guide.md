@@ -1,5 +1,10 @@
 # Cardiovascular System — Master Study Guide (NORCET 12 / PGIMER / HP Staff Nurse)
-[Chapter](../README.md) | [Existing anatomy MCQs](../MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Valve MCQs](../MCQs/Day-04-Chambers-Valves.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [Revision](../Revision/Day-04-Chambers-Valves-Quick-Revision.md) | [References](../References.md)
+- [Chapter](../README.md)
+- [Existing anatomy MCQs](../MCQs/Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md)
+- [Valve MCQs](../MCQs/Day-04-Chambers-Valves.md)
+- [Previous Year Questions](../Previous-Year-Questions/README.md)
+- [Revision](../Revision/Day-04-Chambers-Valves-Quick-Revision.md)
+- [References](../References.md)
 
 **26 November 2026 — Illustrated, English + Hindi-English detailed study-ready extension; not a record of completed learning or attempted questions.** Existing 128 questions unchanged. Roman Hinglish explanations; English original practice. Adult clinical values unless specified. Treatment is exam education, not independent bedside prescribing; follow institutional orders and emergency protocols.
 
@@ -2360,4 +2365,8 @@ Exercise and cessation functional capacity/risk improve karte. Bed rest decondit
 
 </details>
 
-[Chapter](../README.md) | [Existing anatomy](Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md) | [Existing valve concepts](Day-04-Chambers-Valves.md) | [Previous Year Questions](../Previous-Year-Questions/README.md) | [References](../References.md)
+- [Chapter](../README.md)
+- [Existing anatomy](Day-04-Heart-Anatomy-Pericardium-Cardiac-Muscle.md)
+- [Existing valve concepts](Day-04-Chambers-Valves.md)
+- [Previous Year Questions](../Previous-Year-Questions/README.md)
+- [References](../References.md)

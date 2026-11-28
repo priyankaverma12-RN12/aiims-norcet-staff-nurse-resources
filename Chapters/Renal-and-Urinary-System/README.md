@@ -4,13 +4,88 @@
 
 ![Original urinary tract and kidney anatomy schematic](Assets/renal-urinary-tract-and-kidney.svg)
 
-| Section | Published content |
-|---|---|
-| 📚 Concepts | [Complete topic coverage sequence](Concepts/Renal-and-Urinary-System-Topic-Coverage-Map.md) · [Kidney, nephron and urinary tract anatomy](Concepts/Kidney-Nephron-and-Urinary-Tract-Anatomy.md) · [Renal physiology](Concepts/Renal-Physiology-Urine-Formation-and-Regulation.md) · [Renal assessment and diagnostics](Concepts/Renal-Assessment-and-Diagnostics.md) · [Acute kidney injury](Concepts/Acute-Kidney-Injury.md) · [Chronic kidney disease](Concepts/Chronic-Kidney-Disease.md) · [Hyperkalemia](Concepts/Hyperkalemia.md) · [Fluid overload](Concepts/Renal-Fluid-Overload.md) · [Metabolic acidosis](Concepts/Renal-Metabolic-Acidosis.md) · [Renal anemia](Concepts/Renal-Anemia.md) · [CKD-MBD](Concepts/CKD-Mineral-Bone-Disorder.md) · [Renal diet](Concepts/Renal-Diet-and-Nutrition.md) · [Renal pharmacology](Concepts/Renal-Pharmacology.md) · [Glomerulonephritis](Concepts/Glomerulonephritis.md) · [Nephritic syndrome](Concepts/Nephritic-Syndrome.md) · [Nephrotic syndrome](Concepts/Nephrotic-Syndrome.md) · [RPGN](Concepts/Rapidly-Progressive-Glomerulonephritis.md) · [IgA nephropathy](Concepts/IgA-Nephropathy.md) · [Lower UTI and cystitis](Concepts/Lower-Urinary-Tract-Infection-and-Cystitis.md) · [Pyelonephritis](Concepts/Pyelonephritis.md) · [Asymptomatic bacteriuria](Concepts/Asymptomatic-Bacteriuria.md) |
-| 📝 Topic-wise MCQs | [30 new anatomy MCQs](MCQs/Kidney-Nephron-and-Urinary-Tract-Anatomy-30-MCQs.md) · [30 new physiology MCQs](MCQs/Renal-Physiology-Urine-Formation-and-Regulation-30-MCQs.md) · [30 assessment MCQs](MCQs/Renal-Assessment-and-Diagnostics-30-MCQs.md) · [30 AKI MCQs](MCQs/Acute-Kidney-Injury-30-MCQs.md) · [30 CKD MCQs](MCQs/Chronic-Kidney-Disease-30-MCQs.md) · [30 hyperkalemia MCQs](MCQs/Hyperkalemia-30-MCQs.md) · [30 fluid overload MCQs](MCQs/Renal-Fluid-Overload-30-MCQs.md) · [30 metabolic acidosis MCQs](MCQs/Renal-Metabolic-Acidosis-30-MCQs.md) · [30 renal anemia MCQs](MCQs/Renal-Anemia-30-MCQs.md) · [30 CKD-MBD MCQs](MCQs/CKD-Mineral-Bone-Disorder-30-MCQs.md) · [30 renal diet MCQs](MCQs/Renal-Diet-and-Nutrition-30-MCQs.md) · [30 renal pharmacology MCQs](MCQs/Renal-Pharmacology-30-MCQs.md) · [30 glomerulonephritis MCQs](MCQs/Glomerulonephritis-30-MCQs.md) · [30 nephritic syndrome MCQs](MCQs/Nephritic-Syndrome-30-MCQs.md) · [30 nephrotic syndrome MCQs](MCQs/Nephrotic-Syndrome-30-MCQs.md) · [30 RPGN MCQs](MCQs/Rapidly-Progressive-Glomerulonephritis-30-MCQs.md) · [30 IgA nephropathy MCQs](MCQs/IgA-Nephropathy-30-MCQs.md) · [30 lower UTI and cystitis MCQs](MCQs/Lower-Urinary-Tract-Infection-and-Cystitis-30-MCQs.md) · [30 pyelonephritis MCQs](MCQs/Pyelonephritis-30-MCQs.md) · [30 ASB MCQs](MCQs/Asymptomatic-Bacteriuria-30-MCQs.md) · [4 preserved starter MCQs](MCQs/Renal-and-Urinary-System-Topic-Wise-Starter-MCQs.md) |
-| 🧪 Mock Tests | [10 × 120 question plan](Mock-Tests/Renal-and-Urinary-System-Mock-Test-Plan.md), 0 published |
-| 📜 Previous Year Questions | [4 new anatomy adaptations](Previous-Year-Questions/Kidney-Anatomy-Reported-Exam-Questions.md) · [3 physiology adaptations](Previous-Year-Questions/Renal-Physiology-Reported-Exam-Questions.md) · [2 assessment adaptations](Previous-Year-Questions/Renal-Assessment-Reported-Exam-Questions.md) · [1 AKI adaptation](Previous-Year-Questions/Acute-Kidney-Injury-Reported-Exam-Questions.md) · [2 CKD adaptations](Previous-Year-Questions/Chronic-Kidney-Disease-Reported-Exam-Questions.md) · [2 hyperkalemia adaptations](Previous-Year-Questions/Hyperkalemia-Reported-Evidence.md) · [1 fluid overload adaptation](Previous-Year-Questions/Renal-Fluid-Overload-Reported-Evidence.md) · [1 metabolic acidosis adaptation](Previous-Year-Questions/Renal-Metabolic-Acidosis-Reported-Evidence.md) · [2 renal anemia adaptations](Previous-Year-Questions/Renal-Anemia-Reported-Evidence.md) · [2 CKD-MBD adaptations](Previous-Year-Questions/CKD-Mineral-Bone-Disorder-Reported-Evidence.md) · [1 renal diet adaptation](Previous-Year-Questions/Renal-Diet-and-Nutrition-Reported-Evidence.md) · [2 renal pharmacology adaptations](Previous-Year-Questions/Renal-Pharmacology-Reported-Evidence.md) · [1 glomerulonephritis adaptation](Previous-Year-Questions/Glomerulonephritis-Reported-Evidence.md) · [1 nephritic syndrome adaptation](Previous-Year-Questions/Nephritic-Syndrome-Reported-Evidence.md) · [2 nephrotic syndrome adaptations](Previous-Year-Questions/Nephrotic-Syndrome-Reported-Evidence.md) · [1 RPGN adaptation](Previous-Year-Questions/RPGN-Reported-Evidence.md) · [IgA evidence gaps](Previous-Year-Questions/IgA-Nephropathy-Reported-Evidence.md) · [Lower UTI evidence gaps](Previous-Year-Questions/Lower-UTI-Reported-Evidence.md) · [Pyelonephritis evidence](Previous-Year-Questions/Pyelonephritis-Reported-Evidence.md) · [ASB evidence](Previous-Year-Questions/Asymptomatic-Bacteriuria-Reported-Evidence.md) · [2 preserved earlier adaptations](Previous-Year-Questions/Renal-and-Urinary-System-India-Wide-Additional-Reported-PYQs.md) · [Research register](Previous-Year-Questions/Renal-and-Urinary-System-Past-Paper-Research-Register.md) |
-| ▶️ Videos | Teaching and MCQ practice are separated in the [anatomy concepts](Concepts/Kidney-Nephron-and-Urinary-Tract-Anatomy.md#-youtube-teaching-aur-practice) and the [physiology concepts](Concepts/Renal-Physiology-Urine-Formation-and-Regulation.md), and [hyperkalemia](Concepts/Hyperkalemia.md#-teaching-and-mcq-practice), and [CKD-MBD teaching and practice](Concepts/CKD-Mineral-Bone-Disorder.md#-teaching-and-mcq-practice), and [renal diet videos](Concepts/Renal-Diet-and-Nutrition.md#-teaching-and-mcq-practice), and [renal pharmacology teaching and practice](Concepts/Renal-Pharmacology.md#-teaching-and-mcq-practice), and [glomerulonephritis teaching and practice](Concepts/Glomerulonephritis.md#-teaching-and-mcq-practice), and [nephritic syndrome teaching and practice](Concepts/Nephritic-Syndrome.md#-teaching-and-mcq-practice), and [nephrotic syndrome teaching and practice](Concepts/Nephrotic-Syndrome.md), with explicit pending verification in the evidence files. |
+## Study resources
+
+### 📚 Concepts
+
+- [Complete topic coverage sequence](Concepts/Renal-and-Urinary-System-Topic-Coverage-Map.md)
+- [Kidney, nephron and urinary tract anatomy](Concepts/Kidney-Nephron-and-Urinary-Tract-Anatomy.md)
+- [Renal physiology](Concepts/Renal-Physiology-Urine-Formation-and-Regulation.md)
+- [Renal assessment and diagnostics](Concepts/Renal-Assessment-and-Diagnostics.md)
+- [Acute kidney injury](Concepts/Acute-Kidney-Injury.md)
+- [Chronic kidney disease](Concepts/Chronic-Kidney-Disease.md)
+- [Hyperkalemia](Concepts/Hyperkalemia.md)
+- [Fluid overload](Concepts/Renal-Fluid-Overload.md)
+- [Metabolic acidosis](Concepts/Renal-Metabolic-Acidosis.md)
+- [Renal anemia](Concepts/Renal-Anemia.md)
+- [CKD-MBD](Concepts/CKD-Mineral-Bone-Disorder.md)
+- [Renal diet](Concepts/Renal-Diet-and-Nutrition.md)
+- [Renal pharmacology](Concepts/Renal-Pharmacology.md)
+- [Glomerulonephritis](Concepts/Glomerulonephritis.md)
+- [Nephritic syndrome](Concepts/Nephritic-Syndrome.md)
+- [Nephrotic syndrome](Concepts/Nephrotic-Syndrome.md)
+- [RPGN](Concepts/Rapidly-Progressive-Glomerulonephritis.md)
+- [IgA nephropathy](Concepts/IgA-Nephropathy.md)
+- [Lower UTI and cystitis](Concepts/Lower-Urinary-Tract-Infection-and-Cystitis.md)
+- [Pyelonephritis](Concepts/Pyelonephritis.md)
+- [Asymptomatic bacteriuria](Concepts/Asymptomatic-Bacteriuria.md)
+
+### 📝 Topic-wise MCQs
+
+- [30 new anatomy MCQs](MCQs/Kidney-Nephron-and-Urinary-Tract-Anatomy-30-MCQs.md)
+- [30 new physiology MCQs](MCQs/Renal-Physiology-Urine-Formation-and-Regulation-30-MCQs.md)
+- [30 assessment MCQs](MCQs/Renal-Assessment-and-Diagnostics-30-MCQs.md)
+- [30 AKI MCQs](MCQs/Acute-Kidney-Injury-30-MCQs.md)
+- [30 CKD MCQs](MCQs/Chronic-Kidney-Disease-30-MCQs.md)
+- [30 hyperkalemia MCQs](MCQs/Hyperkalemia-30-MCQs.md)
+- [30 fluid overload MCQs](MCQs/Renal-Fluid-Overload-30-MCQs.md)
+- [30 metabolic acidosis MCQs](MCQs/Renal-Metabolic-Acidosis-30-MCQs.md)
+- [30 renal anemia MCQs](MCQs/Renal-Anemia-30-MCQs.md)
+- [30 CKD-MBD MCQs](MCQs/CKD-Mineral-Bone-Disorder-30-MCQs.md)
+- [30 renal diet MCQs](MCQs/Renal-Diet-and-Nutrition-30-MCQs.md)
+- [30 renal pharmacology MCQs](MCQs/Renal-Pharmacology-30-MCQs.md)
+- [30 glomerulonephritis MCQs](MCQs/Glomerulonephritis-30-MCQs.md)
+- [30 nephritic syndrome MCQs](MCQs/Nephritic-Syndrome-30-MCQs.md)
+- [30 nephrotic syndrome MCQs](MCQs/Nephrotic-Syndrome-30-MCQs.md)
+- [30 RPGN MCQs](MCQs/Rapidly-Progressive-Glomerulonephritis-30-MCQs.md)
+- [30 IgA nephropathy MCQs](MCQs/IgA-Nephropathy-30-MCQs.md)
+- [30 lower UTI and cystitis MCQs](MCQs/Lower-Urinary-Tract-Infection-and-Cystitis-30-MCQs.md)
+- [30 pyelonephritis MCQs](MCQs/Pyelonephritis-30-MCQs.md)
+- [30 ASB MCQs](MCQs/Asymptomatic-Bacteriuria-30-MCQs.md)
+- [4 preserved starter MCQs](MCQs/Renal-and-Urinary-System-Topic-Wise-Starter-MCQs.md)
+
+### 🧪 Mock Tests
+
+- [10 × 120 question plan](Mock-Tests/Renal-and-Urinary-System-Mock-Test-Plan.md), 0 published
+
+### 📜 Previous Year Questions
+
+- [4 new anatomy adaptations](Previous-Year-Questions/Kidney-Anatomy-Reported-Exam-Questions.md)
+- [3 physiology adaptations](Previous-Year-Questions/Renal-Physiology-Reported-Exam-Questions.md)
+- [2 assessment adaptations](Previous-Year-Questions/Renal-Assessment-Reported-Exam-Questions.md)
+- [1 AKI adaptation](Previous-Year-Questions/Acute-Kidney-Injury-Reported-Exam-Questions.md)
+- [2 CKD adaptations](Previous-Year-Questions/Chronic-Kidney-Disease-Reported-Exam-Questions.md)
+- [2 hyperkalemia adaptations](Previous-Year-Questions/Hyperkalemia-Reported-Evidence.md)
+- [1 fluid overload adaptation](Previous-Year-Questions/Renal-Fluid-Overload-Reported-Evidence.md)
+- [1 metabolic acidosis adaptation](Previous-Year-Questions/Renal-Metabolic-Acidosis-Reported-Evidence.md)
+- [2 renal anemia adaptations](Previous-Year-Questions/Renal-Anemia-Reported-Evidence.md)
+- [2 CKD-MBD adaptations](Previous-Year-Questions/CKD-Mineral-Bone-Disorder-Reported-Evidence.md)
+- [1 renal diet adaptation](Previous-Year-Questions/Renal-Diet-and-Nutrition-Reported-Evidence.md)
+- [2 renal pharmacology adaptations](Previous-Year-Questions/Renal-Pharmacology-Reported-Evidence.md)
+- [1 glomerulonephritis adaptation](Previous-Year-Questions/Glomerulonephritis-Reported-Evidence.md)
+- [1 nephritic syndrome adaptation](Previous-Year-Questions/Nephritic-Syndrome-Reported-Evidence.md)
+- [2 nephrotic syndrome adaptations](Previous-Year-Questions/Nephrotic-Syndrome-Reported-Evidence.md)
+- [1 RPGN adaptation](Previous-Year-Questions/RPGN-Reported-Evidence.md)
+- [IgA evidence gaps](Previous-Year-Questions/IgA-Nephropathy-Reported-Evidence.md)
+- [Lower UTI evidence gaps](Previous-Year-Questions/Lower-UTI-Reported-Evidence.md)
+- [Pyelonephritis evidence](Previous-Year-Questions/Pyelonephritis-Reported-Evidence.md)
+- [ASB evidence](Previous-Year-Questions/Asymptomatic-Bacteriuria-Reported-Evidence.md)
+- [2 preserved earlier adaptations](Previous-Year-Questions/Renal-and-Urinary-System-India-Wide-Additional-Reported-PYQs.md)
+- [Research register](Previous-Year-Questions/Renal-and-Urinary-System-Past-Paper-Research-Register.md)
+
+### ▶️ Videos
+
+Teaching and MCQ practice are separated in the [anatomy concepts](Concepts/Kidney-Nephron-and-Urinary-Tract-Anatomy.md#-youtube-teaching-aur-practice) and the [physiology concepts](Concepts/Renal-Physiology-Urine-Formation-and-Regulation.md), and [hyperkalemia](Concepts/Hyperkalemia.md#-teaching-and-mcq-practice), and [CKD-MBD teaching and practice](Concepts/CKD-Mineral-Bone-Disorder.md#-teaching-and-mcq-practice), and [renal diet videos](Concepts/Renal-Diet-and-Nutrition.md#-teaching-and-mcq-practice), and [renal pharmacology teaching and practice](Concepts/Renal-Pharmacology.md#-teaching-and-mcq-practice), and [glomerulonephritis teaching and practice](Concepts/Glomerulonephritis.md#-teaching-and-mcq-practice), and [nephritic syndrome teaching and practice](Concepts/Nephritic-Syndrome.md#-teaching-and-mcq-practice), and [nephrotic syndrome teaching and practice](Concepts/Nephrotic-Syndrome.md), with explicit pending verification in the evidence files.
 
 **Inventory:** 604 original questions (600 new, 4 preserved), thirty published reported adaptations (twenty-eight new, two preserved), twenty-two original SVG diagrams, 0/10 full-length mocks. Historical sources are not authenticated official keys.
 
@@ -54,6 +129,7 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 **Next:** Recurrent UTI prevention and remaining urinary infection topics. Expand individual assessment and physiology subtopic banks before full mocks.
 
-[Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
+- [Full syllabus index](../NORCET-Full-Chapter-Index.md)
+- [Repository home](../../README.md)
 
 <!-- Manual Renal scope claim: FREE. Owner: none. Released after exact readback of asymptomatic bacteriuria package and chapter-local indexes. -->

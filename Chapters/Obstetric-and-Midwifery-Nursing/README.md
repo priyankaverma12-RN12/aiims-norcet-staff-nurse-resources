@@ -2,46 +2,218 @@
 
 **Study-ready, not studied.** Ab is chapter mein 704 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment, 20 fetal heart rate, 20 NST, 20 CST, 20 CTG, 20 BPP, 20 ultrasound aur 20 Doppler aur 20 normal labour physiology aur 20 signs and onset of labour aur 20 stages of labour aur 20 powers of labour aur 20 passenger fetal factors aur 20 passage maternal pelvis aur 20 mechanism and cardinal movements aur 20 maternal-fetal intrapartum assessment aur 20 partograph aur 20 WHO Labour Care Guide MCQs hain. Chapter abhi complete nahi hai.
 
-| Section | Open |
-|---|---|
-| Concepts and topic coverage | [Topic map](Concepts/Obstetric-and-Midwifery-Nursing-Topic-Coverage-Map.md) |
-| Topic-wise original questions | [4 starter MCQs](MCQs/Obstetric-and-Midwifery-Nursing-Topic-Wise-Starter-MCQs.md) |
-| Antenatal Care | [20 original MCQs — four parts](MCQs/01-Antenatal-Care-20-MCQs.md) · [2 reported PYQ adaptations](Previous-Year-Questions/01-Antenatal-Care-Reported-PYQs.md) |
-| Pregnancy Diagnosis | [20 original MCQs — four parts](MCQs/02-Pregnancy-Diagnosis-20-MCQs.md) |
-| Physiological Changes During Pregnancy | [Detailed Hinglish concepts](Concepts/03-Physiological-Changes-During-Pregnancy.md) · [20 original MCQs](MCQs/03-Physiological-Changes-During-Pregnancy-20-MCQs.md) · [1 new reported adaptation](Previous-Year-Questions/03-Physiological-Changes-Reported-Exam-Practice.md) · [Original diagram](Assets/maternal-circulation-and-hemodilution.svg) |
-| Maternal cardiovascular and hematological changes | [30 original clinical MCQs](MCQs/03A-Maternal-Cardiovascular-and-Hematological-Changes-30-MCQs.md) · [1 reported exam adaptation and related evidence](Previous-Year-Questions/03A-Maternal-Cardiovascular-Hematology-Reported-Evidence.md) |
-| Individual cardiovascular, hematological and respiratory adaptations | [Expanded concepts and flowchart](Concepts/03B-Maternal-Cardiorespiratory-and-Hematological-Adaptations.md) · [19 additional original MCQs and allocation](MCQs/03B-Maternal-Cardiorespiratory-and-Hematological-19-MCQs.md) · [Rajasthan CHO reported adaptation](Previous-Year-Questions/03B-Maternal-Respiratory-Exam-Evidence.md) |
-| Maternal renal and gastrointestinal adaptations | [Detailed concepts and two flowcharts](Concepts/03C-Maternal-Renal-and-Gastrointestinal-Adaptations.md) · [17 renal MCQs](MCQs/03C-Maternal-Renal-Adaptations-17-MCQs.md) · [18 gastrointestinal MCQs](MCQs/03D-Maternal-Gastrointestinal-Adaptations-18-MCQs.md) · [Exam evidence and coaching practice](Previous-Year-Questions/03C-Maternal-Renal-GI-Exam-Evidence.md) |
-| Maternal endocrine adaptations | [Detailed concepts and flowchart](Concepts/03E-Maternal-Endocrine-Adaptations.md) · [19 additional original MCQs](MCQs/03E-Maternal-Endocrine-Adaptations-19-MCQs.md) · [GMCH 2025 reported adaptation](Previous-Year-Questions/03E-Maternal-Endocrine-Exam-Evidence.md) |
-| Maternal breast adaptations | [Detailed concepts and flowchart](Concepts/03F-Maternal-Breast-Adaptations.md) · [19 additional original MCQs](MCQs/03F-Maternal-Breast-Adaptations-19-MCQs.md) · [RRB 2019 reported adaptation](Previous-Year-Questions/03F-Maternal-Breast-Exam-Evidence.md) |
-| Maternal musculoskeletal and skin adaptations | [Detailed concepts and two flowcharts](Concepts/03G-Maternal-Musculoskeletal-and-Skin-Adaptations.md) · [19 musculoskeletal MCQs](MCQs/03G-Maternal-Musculoskeletal-Adaptations-19-MCQs.md) · [19 skin MCQs](MCQs/03H-Maternal-Skin-Adaptations-19-MCQs.md) · [AIIMS Raipur 2019 reported adaptation](Previous-Year-Questions/03G-Maternal-Musculoskeletal-Skin-Exam-Evidence.md) |
-| Embryonic and fetal development | [Detailed concepts and three original flowcharts](Concepts/04-Embryonic-and-Fetal-Development.md) · [20 embryonic MCQs](MCQs/04A-Embryonic-Development-20-MCQs.md) · [20 fetal growth MCQs](MCQs/04B-Fetal-Growth-and-Maturation-20-MCQs.md) · [DSSSB 2019 and ESIC 2016 reported practice](Previous-Year-Questions/04-Embryonic-and-Fetal-Development-Reported-Evidence.md) |
-| Placental structure and function | [Detailed concepts and two original flowcharts](Concepts/05A-Placental-Structure-and-Function.md) · [20 original MCQs](MCQs/05A-Placental-Structure-and-Function-20-MCQs.md) · [UPPSC 2022 reported practice](Previous-Year-Questions/05A-Placenta-Reported-Exam-Evidence.md) |
-| Fetal membranes | [Detailed concepts and original flowcharts](Concepts/05B-Fetal-Membranes.md) · [20 original MCQs](MCQs/05B-Fetal-Membranes-20-MCQs.md) · [BHU 2019 reported practice](Previous-Year-Questions/05B-Fetal-Membranes-Reported-Evidence.md) |
-| Amniotic fluid | [Detailed concepts and original flowcharts](Concepts/05C-Amniotic-Fluid.md) · [20 original MCQs](MCQs/05C-Amniotic-Fluid-20-MCQs.md) · [RRB 2018 and GMCH 2022 reported practice](Previous-Year-Questions/05C-Amniotic-Fluid-Reported-Evidence.md) |
-| Umbilical cord | [Detailed concepts and original flowcharts](Concepts/05D-Umbilical-Cord.md) · [20 original MCQs](MCQs/05D-Umbilical-Cord-20-MCQs.md) · [Two RRB 2019 reported questions](Previous-Year-Questions/05D-Umbilical-Cord-Reported-Evidence.md) |
-| Fetal movements and reduced movements | [Detailed concepts and 2026 RCOG pathway](Concepts/06A-Fetal-Movements-and-Reduced-Movements.md) · [20 original MCQs](MCQs/06A-Fetal-Movements-and-Reduced-Movements-20-MCQs.md) · [HSSC reported practice](Previous-Year-Questions/06A-Fetal-Movements-Reported-Evidence.md) |
-| Fetal heart rate | [Concepts](Concepts/06B-Fetal-Heart-Rate-and-Intermittent-Auscultation.md) · [20 original MCQs](MCQs/06B-Fetal-Heart-Rate-and-Intermittent-Auscultation-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06B-Fetal-Heart-Rate-Reported-Evidence.md) |
-| Nonstress test | [Concepts](Concepts/06C-Nonstress-Test-NST.md) · [20 original MCQs](MCQs/06C-Nonstress-Test-NST-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06C-NST-Reported-Evidence.md) |
-| Contraction stress test | [Concepts](Concepts/06D-Contraction-Stress-Test-CST.md) · [20 original MCQs](MCQs/06D-Contraction-Stress-Test-CST-20-MCQs.md) · [SKAU 2026 official-source adaptation](Previous-Year-Questions/06D-CST-Exam-Evidence.md) |
-| Cardiotocography | [Concepts](Concepts/06E-Cardiotocography-CTG.md) · [20 original MCQs](MCQs/06E-Cardiotocography-CTG-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06E-CTG-Reported-Evidence.md) |
-| Biophysical profile | [Concepts](Concepts/06F-Biophysical-Profile-BPP.md) · [20 original MCQs](MCQs/06F-Biophysical-Profile-BPP-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06F-BPP-Reported-Evidence.md) |
-| Obstetric ultrasound and biometry | [Concepts](Concepts/06G-Obstetric-Ultrasound-and-Fetal-Biometry.md) · [20 original MCQs](MCQs/06G-Obstetric-Ultrasound-and-Fetal-Biometry-20-MCQs.md) · [Reported evidence](Previous-Year-Questions/06G-Ultrasound-Reported-Evidence.md) |
-| Fetal Doppler studies | [Concepts](Concepts/06H-Fetal-Doppler-Studies.md) · [20 original MCQs](MCQs/06H-Fetal-Doppler-Studies-20-MCQs.md) · [Evidence and research gaps](Previous-Year-Questions/06H-Doppler-Evidence-and-Research-Gaps.md) |
-| Normal labour physiology | [Detailed concepts and flowcharts](Concepts/07A-Normal-Labour-Physiology.md) · [20 original MCQs](MCQs/07A-Normal-Labour-Physiology-20-MCQs.md) · [Exam and video evidence gaps](Previous-Year-Questions/07A-Labour-Physiology-Evidence-and-Research-Gaps.md) |
-| Signs and onset of labour | [Detailed concepts and diagrams](Concepts/07B-Signs-and-Onset-of-Labour.md) · [20 original MCQs](MCQs/07B-Signs-and-Onset-of-Labour-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07B-Signs-and-Onset-of-Labour-Evidence.md) |
-| Stages of labour | [Detailed concepts and diagrams](Concepts/07C-Stages-of-Labour.md) · [20 original MCQs](MCQs/07C-Stages-of-Labour-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07C-Stages-of-Labour-Evidence.md) |
-| Powers of labour | [Detailed concepts and flowcharts](Concepts/07D-Powers-of-Labour.md) · [20 original MCQs](MCQs/07D-Powers-of-Labour-20-MCQs.md) · [Exam evidence](Previous-Year-Questions/07D-Powers-of-Labour-Evidence.md) |
-| Passenger — fetal factors | [Detailed concepts and diagrams](Concepts/07E-Passenger-Fetal-Factors.md) · [20 original MCQs](MCQs/07E-Passenger-Fetal-Factors-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07E-Passenger-Fetal-Factors-Evidence.md) |
-| Passage — maternal pelvis | [Detailed concepts and diagrams](Concepts/07F-Passage-Maternal-Pelvis.md) · [20 original MCQs](MCQs/07F-Passage-Maternal-Pelvis-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07F-Passage-Maternal-Pelvis-Evidence.md) |
-| Mechanism and cardinal movements | [Detailed concepts and original flowcharts](Concepts/07G-Mechanism-and-Cardinal-Movements.md) · [20 original MCQs](MCQs/07G-Mechanism-and-Cardinal-Movements-20-MCQs.md) · [One reported HPSSSB adaptation and evidence](Previous-Year-Questions/07G-Mechanism-and-Cardinal-Movements-Evidence.md) |
-| Maternal-fetal intrapartum assessment | [Detailed concepts and original diagrams](Concepts/07H-Maternal-Fetal-Intrapartum-Assessment.md) · [20 original MCQs](MCQs/07H-Maternal-Fetal-Intrapartum-Assessment-20-MCQs.md) · [Evidence and practice gaps](Previous-Year-Questions/07H-Maternal-Fetal-Intrapartum-Assessment-Evidence.md) |
-| Traditional and modified partograph | [Detailed concepts and original plots](Concepts/07I-Partograph.md) · [20 original MCQs](MCQs/07I-Partograph-20-MCQs.md) · [One reported RRB adaptation and evidence](Previous-Year-Questions/07I-Partograph-Evidence.md) |
-| WHO Labour Care Guide | [Detailed concepts and worked examples](Concepts/07J-WHO-Labour-Care-Guide.md) · [20 original MCQs](MCQs/07J-WHO-Labour-Care-Guide-20-MCQs.md) · [Exam and video evidence gaps](Previous-Year-Questions/07J-WHO-Labour-Care-Guide-Evidence.md) |
-| Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
-| Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
+## Study resources
 
-[Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
+### Concepts and topic coverage
+
+- [Topic map](Concepts/Obstetric-and-Midwifery-Nursing-Topic-Coverage-Map.md)
+
+### Topic-wise original questions
+
+- [4 starter MCQs](MCQs/Obstetric-and-Midwifery-Nursing-Topic-Wise-Starter-MCQs.md)
+
+### Antenatal Care
+
+- [20 original MCQs — four parts](MCQs/01-Antenatal-Care-20-MCQs.md)
+- [2 reported PYQ adaptations](Previous-Year-Questions/01-Antenatal-Care-Reported-PYQs.md)
+
+### Pregnancy Diagnosis
+
+- [20 original MCQs — four parts](MCQs/02-Pregnancy-Diagnosis-20-MCQs.md)
+
+### Physiological Changes During Pregnancy
+
+- [Detailed Hinglish concepts](Concepts/03-Physiological-Changes-During-Pregnancy.md)
+- [20 original MCQs](MCQs/03-Physiological-Changes-During-Pregnancy-20-MCQs.md)
+- [1 new reported adaptation](Previous-Year-Questions/03-Physiological-Changes-Reported-Exam-Practice.md)
+- [Original diagram](Assets/maternal-circulation-and-hemodilution.svg)
+
+### Maternal cardiovascular and hematological changes
+
+- [30 original clinical MCQs](MCQs/03A-Maternal-Cardiovascular-and-Hematological-Changes-30-MCQs.md)
+- [1 reported exam adaptation and related evidence](Previous-Year-Questions/03A-Maternal-Cardiovascular-Hematology-Reported-Evidence.md)
+
+### Individual cardiovascular, hematological and respiratory adaptations
+
+- [Expanded concepts and flowchart](Concepts/03B-Maternal-Cardiorespiratory-and-Hematological-Adaptations.md)
+- [19 additional original MCQs and allocation](MCQs/03B-Maternal-Cardiorespiratory-and-Hematological-19-MCQs.md)
+- [Rajasthan CHO reported adaptation](Previous-Year-Questions/03B-Maternal-Respiratory-Exam-Evidence.md)
+
+### Maternal renal and gastrointestinal adaptations
+
+- [Detailed concepts and two flowcharts](Concepts/03C-Maternal-Renal-and-Gastrointestinal-Adaptations.md)
+- [17 renal MCQs](MCQs/03C-Maternal-Renal-Adaptations-17-MCQs.md)
+- [18 gastrointestinal MCQs](MCQs/03D-Maternal-Gastrointestinal-Adaptations-18-MCQs.md)
+- [Exam evidence and coaching practice](Previous-Year-Questions/03C-Maternal-Renal-GI-Exam-Evidence.md)
+
+### Maternal endocrine adaptations
+
+- [Detailed concepts and flowchart](Concepts/03E-Maternal-Endocrine-Adaptations.md)
+- [19 additional original MCQs](MCQs/03E-Maternal-Endocrine-Adaptations-19-MCQs.md)
+- [GMCH 2025 reported adaptation](Previous-Year-Questions/03E-Maternal-Endocrine-Exam-Evidence.md)
+
+### Maternal breast adaptations
+
+- [Detailed concepts and flowchart](Concepts/03F-Maternal-Breast-Adaptations.md)
+- [19 additional original MCQs](MCQs/03F-Maternal-Breast-Adaptations-19-MCQs.md)
+- [RRB 2019 reported adaptation](Previous-Year-Questions/03F-Maternal-Breast-Exam-Evidence.md)
+
+### Maternal musculoskeletal and skin adaptations
+
+- [Detailed concepts and two flowcharts](Concepts/03G-Maternal-Musculoskeletal-and-Skin-Adaptations.md)
+- [19 musculoskeletal MCQs](MCQs/03G-Maternal-Musculoskeletal-Adaptations-19-MCQs.md)
+- [19 skin MCQs](MCQs/03H-Maternal-Skin-Adaptations-19-MCQs.md)
+- [AIIMS Raipur 2019 reported adaptation](Previous-Year-Questions/03G-Maternal-Musculoskeletal-Skin-Exam-Evidence.md)
+
+### Embryonic and fetal development
+
+- [Detailed concepts and three original flowcharts](Concepts/04-Embryonic-and-Fetal-Development.md)
+- [20 embryonic MCQs](MCQs/04A-Embryonic-Development-20-MCQs.md)
+- [20 fetal growth MCQs](MCQs/04B-Fetal-Growth-and-Maturation-20-MCQs.md)
+- [DSSSB 2019 and ESIC 2016 reported practice](Previous-Year-Questions/04-Embryonic-and-Fetal-Development-Reported-Evidence.md)
+
+### Placental structure and function
+
+- [Detailed concepts and two original flowcharts](Concepts/05A-Placental-Structure-and-Function.md)
+- [20 original MCQs](MCQs/05A-Placental-Structure-and-Function-20-MCQs.md)
+- [UPPSC 2022 reported practice](Previous-Year-Questions/05A-Placenta-Reported-Exam-Evidence.md)
+
+### Fetal membranes
+
+- [Detailed concepts and original flowcharts](Concepts/05B-Fetal-Membranes.md)
+- [20 original MCQs](MCQs/05B-Fetal-Membranes-20-MCQs.md)
+- [BHU 2019 reported practice](Previous-Year-Questions/05B-Fetal-Membranes-Reported-Evidence.md)
+
+### Amniotic fluid
+
+- [Detailed concepts and original flowcharts](Concepts/05C-Amniotic-Fluid.md)
+- [20 original MCQs](MCQs/05C-Amniotic-Fluid-20-MCQs.md)
+- [RRB 2018 and GMCH 2022 reported practice](Previous-Year-Questions/05C-Amniotic-Fluid-Reported-Evidence.md)
+
+### Umbilical cord
+
+- [Detailed concepts and original flowcharts](Concepts/05D-Umbilical-Cord.md)
+- [20 original MCQs](MCQs/05D-Umbilical-Cord-20-MCQs.md)
+- [Two RRB 2019 reported questions](Previous-Year-Questions/05D-Umbilical-Cord-Reported-Evidence.md)
+
+### Fetal movements and reduced movements
+
+- [Detailed concepts and 2026 RCOG pathway](Concepts/06A-Fetal-Movements-and-Reduced-Movements.md)
+- [20 original MCQs](MCQs/06A-Fetal-Movements-and-Reduced-Movements-20-MCQs.md)
+- [HSSC reported practice](Previous-Year-Questions/06A-Fetal-Movements-Reported-Evidence.md)
+
+### Fetal heart rate
+
+- [Concepts](Concepts/06B-Fetal-Heart-Rate-and-Intermittent-Auscultation.md)
+- [20 original MCQs](MCQs/06B-Fetal-Heart-Rate-and-Intermittent-Auscultation-20-MCQs.md)
+- [Reported evidence](Previous-Year-Questions/06B-Fetal-Heart-Rate-Reported-Evidence.md)
+
+### Nonstress test
+
+- [Concepts](Concepts/06C-Nonstress-Test-NST.md)
+- [20 original MCQs](MCQs/06C-Nonstress-Test-NST-20-MCQs.md)
+- [Reported evidence](Previous-Year-Questions/06C-NST-Reported-Evidence.md)
+
+### Contraction stress test
+
+- [Concepts](Concepts/06D-Contraction-Stress-Test-CST.md)
+- [20 original MCQs](MCQs/06D-Contraction-Stress-Test-CST-20-MCQs.md)
+- [SKAU 2026 official-source adaptation](Previous-Year-Questions/06D-CST-Exam-Evidence.md)
+
+### Cardiotocography
+
+- [Concepts](Concepts/06E-Cardiotocography-CTG.md)
+- [20 original MCQs](MCQs/06E-Cardiotocography-CTG-20-MCQs.md)
+- [Reported evidence](Previous-Year-Questions/06E-CTG-Reported-Evidence.md)
+
+### Biophysical profile
+
+- [Concepts](Concepts/06F-Biophysical-Profile-BPP.md)
+- [20 original MCQs](MCQs/06F-Biophysical-Profile-BPP-20-MCQs.md)
+- [Reported evidence](Previous-Year-Questions/06F-BPP-Reported-Evidence.md)
+
+### Obstetric ultrasound and biometry
+
+- [Concepts](Concepts/06G-Obstetric-Ultrasound-and-Fetal-Biometry.md)
+- [20 original MCQs](MCQs/06G-Obstetric-Ultrasound-and-Fetal-Biometry-20-MCQs.md)
+- [Reported evidence](Previous-Year-Questions/06G-Ultrasound-Reported-Evidence.md)
+
+### Fetal Doppler studies
+
+- [Concepts](Concepts/06H-Fetal-Doppler-Studies.md)
+- [20 original MCQs](MCQs/06H-Fetal-Doppler-Studies-20-MCQs.md)
+- [Evidence and research gaps](Previous-Year-Questions/06H-Doppler-Evidence-and-Research-Gaps.md)
+
+### Normal labour physiology
+
+- [Detailed concepts and flowcharts](Concepts/07A-Normal-Labour-Physiology.md)
+- [20 original MCQs](MCQs/07A-Normal-Labour-Physiology-20-MCQs.md)
+- [Exam and video evidence gaps](Previous-Year-Questions/07A-Labour-Physiology-Evidence-and-Research-Gaps.md)
+
+### Signs and onset of labour
+
+- [Detailed concepts and diagrams](Concepts/07B-Signs-and-Onset-of-Labour.md)
+- [20 original MCQs](MCQs/07B-Signs-and-Onset-of-Labour-20-MCQs.md)
+- [Evidence and practice gaps](Previous-Year-Questions/07B-Signs-and-Onset-of-Labour-Evidence.md)
+
+### Stages of labour
+
+- [Detailed concepts and diagrams](Concepts/07C-Stages-of-Labour.md)
+- [20 original MCQs](MCQs/07C-Stages-of-Labour-20-MCQs.md)
+- [Evidence and practice gaps](Previous-Year-Questions/07C-Stages-of-Labour-Evidence.md)
+
+### Powers of labour
+
+- [Detailed concepts and flowcharts](Concepts/07D-Powers-of-Labour.md)
+- [20 original MCQs](MCQs/07D-Powers-of-Labour-20-MCQs.md)
+- [Exam evidence](Previous-Year-Questions/07D-Powers-of-Labour-Evidence.md)
+
+### Passenger — fetal factors
+
+- [Detailed concepts and diagrams](Concepts/07E-Passenger-Fetal-Factors.md)
+- [20 original MCQs](MCQs/07E-Passenger-Fetal-Factors-20-MCQs.md)
+- [Evidence and practice gaps](Previous-Year-Questions/07E-Passenger-Fetal-Factors-Evidence.md)
+
+### Passage — maternal pelvis
+
+- [Detailed concepts and diagrams](Concepts/07F-Passage-Maternal-Pelvis.md)
+- [20 original MCQs](MCQs/07F-Passage-Maternal-Pelvis-20-MCQs.md)
+- [Evidence and practice gaps](Previous-Year-Questions/07F-Passage-Maternal-Pelvis-Evidence.md)
+
+### Mechanism and cardinal movements
+
+- [Detailed concepts and original flowcharts](Concepts/07G-Mechanism-and-Cardinal-Movements.md)
+- [20 original MCQs](MCQs/07G-Mechanism-and-Cardinal-Movements-20-MCQs.md)
+- [One reported HPSSSB adaptation and evidence](Previous-Year-Questions/07G-Mechanism-and-Cardinal-Movements-Evidence.md)
+
+### Maternal-fetal intrapartum assessment
+
+- [Detailed concepts and original diagrams](Concepts/07H-Maternal-Fetal-Intrapartum-Assessment.md)
+- [20 original MCQs](MCQs/07H-Maternal-Fetal-Intrapartum-Assessment-20-MCQs.md)
+- [Evidence and practice gaps](Previous-Year-Questions/07H-Maternal-Fetal-Intrapartum-Assessment-Evidence.md)
+
+### Traditional and modified partograph
+
+- [Detailed concepts and original plots](Concepts/07I-Partograph.md)
+- [20 original MCQs](MCQs/07I-Partograph-20-MCQs.md)
+- [One reported RRB adaptation and evidence](Previous-Year-Questions/07I-Partograph-Evidence.md)
+
+### WHO Labour Care Guide
+
+- [Detailed concepts and worked examples](Concepts/07J-WHO-Labour-Care-Guide.md)
+- [20 original MCQs](MCQs/07J-WHO-Labour-Care-Guide-20-MCQs.md)
+- [Exam and video evidence gaps](Previous-Year-Questions/07J-WHO-Labour-Care-Guide-Evidence.md)
+
+### Chapter-only mocks
+
+- [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md)
+
+### Previous Year Questions
+
+- [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md)
+
+- [Full syllabus index](../NORCET-Full-Chapter-Index.md)
+- [Repository home](../../README.md)
 
 [1 source-linked reported Previous Year Questions](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Source-Linked-Reported-PYQs.md). These are adapted, not authenticated verbatim official questions.
 
