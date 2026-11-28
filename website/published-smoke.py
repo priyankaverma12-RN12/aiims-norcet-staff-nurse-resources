@@ -94,6 +94,13 @@ with sync_playwright() as p:
         expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions",timeout=30000)
         expect(page.locator(".daily-count-breakdown")).to_contain_text("1 answered here")
         expect(page.locator(".daily-count-breakdown")).to_contain_text("43 more marked done")
+        # Mark/unmark from a recent card on the home screen must refresh the goal without navigation.
+        recent=page.locator("#recent .tracked-resource-card").filter(has=page.locator("a[href*='Day-01-Complete-Respiratory-Anatomy-Physiology.md']")).first
+        expect(recent.locator("input[type=checkbox]")).to_be_checked()
+        recent.locator("input[type=checkbox]").uncheck()
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions")
+        recent.locator("input[type=checkbox]").check()
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions")
         # Verify unmark/reset without corrupting the subsequent existing regression.
         go({"doc":sample.rsplit("/",1)[0]+"/"})
         ready()
