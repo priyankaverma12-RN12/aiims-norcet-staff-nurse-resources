@@ -61,3 +61,40 @@ Both skills, AGENTS, Copilot and audit learnings fetched and latest relevant sec
 Independent clinical certification, comprehensive cross-repository semantic review, complete bounded preflight, exact clinical-source and video-item mapping, Batch 01 full concepts/diagrams, revised-curriculum gap inventory and rendered UI audit remain pending. Do not mark topic phase complete yet. Finish remaining INC meaningful topic gaps, including gangrene, shock, edema and other clinically relevant uncovered Applied Biochemistry and Pathology objectives after exact cross-chapter inventory. Reconcile current main and PR7/8 navigation after release. Correct or allocate overlapping objectives without deleting prior learner material. Update the chapter-local index and ten-mock plan only after navigation coordination. Ten mock-exclusive 120-question tests in pairs and all-India sourced PYQs remain pending. Zero newly staged or published mocks and zero new historical adaptations from Batch 02.
 
 Current candidate totals: 204 original slots including the four legacy starters, plus one reported adaptation, with 200 new originals and 800 newly authored rationales. Live baseline remains four originals and one reported adaptation, zero full mocks until separately verified merge. No claim of full chapter completion.
+
+
+---
+
+# Batch 03 verified continuation — 28 November 2026
+
+**Draft only.** Prior checkpoint 0de512f45cffee27cb947a0dd9321889a63722a0 preserved. Prior ten original banks, four legacy originals, one reported adaptation, two concept guides and two SVGs retain exact baseline blob identities.
+
+| Topic | New candidates | Individual rationales | Final verified bank commit |
+|---|---:|---:|---|
+| [Gangrene and tissue viability](11-Gangrene-and-Tissue-Viability-20-MCQs.md) | 20 | 80 | 3abaff445a4c9cd1cf31d2c2ec0801d4fc073cc3 |
+| [Shock pathology](12-Shock-Cellular-and-Circulatory-Pathology-20-MCQs.md) | 20 | 80 | aa2d6241265e8eb432edcd11198217b91bc85337 |
+| [Edema and microvascular exchange](13-Edema-and-Microvascular-Fluid-Exchange-20-MCQs.md) | 20 | 80 | cd70bd71e09629792f1b135608a5e4b33a55faa1 |
+| [Heme catabolism and bilirubin](14-Heme-Catabolism-and-Bilirubin-Biochemistry-20-MCQs.md) | 20 | 80 | b2b1e4d7939fe87ce5e0fe123ece1b5f2e2ffbc1 |
+| [Plasma proteins and electrophoresis](15-Plasma-Proteins-and-Serum-Protein-Electrophoresis-20-MCQs.md) | 20 | 80 | 3b3a4b15856d3d4b0b96b4ba4612e49e4dd877fa |
+| **Batch 03** | **100** | **400** | |
+| **All candidate batches** | **300** | **1,200** | |
+
+## Concepts and original diagrams
+
+Batch 01 missing support now staged: [Metabolism guide](../Concepts/01-03-Carbohydrate-Lipid-and-Amino-Acid-Metabolism.md) 7c247dd1d3b3284abb9e74e12f14e7954ea7c3e8 and [SVG](../Assets/metabolic-pathways.svg) ff65e247f64f22f8bc51ae1e16aedd85fcd3d93c. [Enzymes, biomarkers and cell injury guide](../Concepts/04-05-Enzymes-Biomarkers-and-Cellular-Injury.md) 592c458c5f4644429754edfd143b8b612f70d15f and [SVG](../Assets/cellular-injury-and-biomarkers.svg) 58a00527c3f85f8b54b85e164c8cc72584918ff8.
+
+Batch 03 support: [Circulatory pathology guide](../Concepts/11-13-Gangrene-Shock-and-Edema.md) 504d14a9defe96808756a57c60bd5488c9159674 and [SVG](../Assets/gangrene-shock-edema.svg) f376cf7b3a73be8b602e361ccc0b87aea2a81b53. [Clinical biochemistry guide](../Concepts/14-15-Heme-Catabolism-and-Plasma-Proteins.md) d568f3178e0421bf283ace49098ac558462203d9 and [SVG](../Assets/bilirubin-and-serum-proteins.svg) 570c530504d9e1057d868cfb153156c3d625b680.
+
+[Batch 03 clinical and curriculum evidence ledger](../Previous-Year-Questions/Batch-03-Clinical-and-Curriculum-Evidence-Ledger.md) dc20ced255c2c6dc5afb61e851047966de9915c8. Direct INC Gazette extracted pages 56–57 and 87 confirm scope. Three screenshot cache misses recorded. Full official question-level provenance and video mapping pending.
+
+## Verified structural audit
+
+All new files and corrective Q16 replacement passed exact remote readbacks. At dc20ced255c2c6dc5afb61e851047966de9915c8, remote reparse found 300 original candidate stems, 1,200 English options, 1,200 separately labeled Roman Hinglish rationales, 300 matching keys, 300 closed details and 300 complete four-label rationale sets. Each of 15 banks contains five A, five B, five C, five D keys. All 305 normalized chapter stems, including four legacy originals and one prior historical adaptation, were distinct. The ten prior MCQ bank blobs and legacy/adaptation blob IDs exactly match baseline. Six candidate concept guides and six original SVGs now exist. Batch 01 and Batch 03 guides cover their respective five topics, not yet independently certified.
+
+Bounded related-bank review covered 19 existing files and 397 question headings (including 49 in Endocrine Topic-Wise and 12 Respiratory edema-related headings). Mechanism-level tasks were selected instead of routine clinical management. One bilirubin Q16 replaced with Rotor transport defect to separate delta bilirubin objective. No claim of complete semantic uniqueness or independent clinical certification.
+
+Both skills, AGENTS, Copilot instructions and historical audit log fetched and applicable sections reviewed, exhaustive fresh line-by-line preflight not certified. Eighteen discovered work-claim headers and 14 open PRs checked. Claim e0a82b93b801b03408310c54d113b096f44d1f2b acquired, verified before writes. PR7/8 prior notices present, no release acknowledgment observed. Updated coordination comments 7235142418 and 7235142733 posted. PR30 overlap allocation request 7235143042 posted, prior Batch 01 questions preserved unchanged. No edits to shared chapter navigation, other owners' files, website, learner history or automations. No live credit.
+
+## Next scope
+
+Resolve independent clinical review of all 300 candidates, full repository semantic audit and PR30 allocation, exact video evidence, source-specific item review and rendering. Reconcile official INC remaining objectives against existing organ-system banks before new authoring: carbohydrate/glucose diagnostic biochemistry, lipid profile and cholesterol-derived compounds, clinical enzymology gaps, acid-base maintenance, organ function tests (renal, liver, thyroid), and remaining Unit VIII and special-pathology coverage where not already assigned. Do not duplicate related chapter questions. Allocate or link existing questions once. Complete uncovered objectives before ten distinct 120-question mock-exclusive tests and sourced PYQs. Obtain PR7/8 navigation release, reconcile latest main, then verify actual integration. Main baseline four originals, one adaptation, zero full mocks remains separate from draft totals. No claim of whole-chapter completion.
