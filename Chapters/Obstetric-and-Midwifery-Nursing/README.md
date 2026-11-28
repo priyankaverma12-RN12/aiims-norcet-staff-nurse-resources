@@ -1,6 +1,6 @@
 # Obstetric and Midwifery Nursing
 
-**Study-ready, not studied.** Ab is chapter mein 344 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid aur 20 umbilical cord MCQs hain. Chapter abhi complete nahi hai.
+**Study-ready, not studied.** Ab is chapter mein 364 indexed original questions hain. Inmein 4 preserved starters, 20 ANC, 20 Pregnancy Diagnosis, 20 physiology overview, 30 cardiovascular/hematological, 19 cardiorespiratory/hematological, 17 renal, 18 gastrointestinal, 19 endocrine, 19 breast, 19 musculoskeletal, 19 skin adaptation, 20 embryonic development, 20 fetal growth, 20 placental, 20 fetal membrane, 20 amniotic fluid, 20 umbilical cord aur 20 fetal movement assessment MCQs hain. Chapter abhi complete nahi hai.
 
 | Section | Open |
 |---|---|
@@ -20,6 +20,7 @@
 | Fetal membranes | [Detailed concepts and original flowcharts](Concepts/05B-Fetal-Membranes.md) · [20 original MCQs](MCQs/05B-Fetal-Membranes-20-MCQs.md) · [BHU 2019 reported practice](Previous-Year-Questions/05B-Fetal-Membranes-Reported-Evidence.md) |
 | Amniotic fluid | [Detailed concepts and original flowcharts](Concepts/05C-Amniotic-Fluid.md) · [20 original MCQs](MCQs/05C-Amniotic-Fluid-20-MCQs.md) · [RRB 2018 and GMCH 2022 reported practice](Previous-Year-Questions/05C-Amniotic-Fluid-Reported-Evidence.md) |
 | Umbilical cord | [Detailed concepts and original flowcharts](Concepts/05D-Umbilical-Cord.md) · [20 original MCQs](MCQs/05D-Umbilical-Cord-20-MCQs.md) · [Two RRB 2019 reported questions](Previous-Year-Questions/05D-Umbilical-Cord-Reported-Evidence.md) |
+| Fetal movements and reduced movements | [Detailed concepts and 2026 RCOG pathway](Concepts/06A-Fetal-Movements-and-Reduced-Movements.md) · [20 original MCQs](MCQs/06A-Fetal-Movements-and-Reduced-Movements-20-MCQs.md) · [HSSC reported practice](Previous-Year-Questions/06A-Fetal-Movements-Reported-Evidence.md) |
 | Chapter-only mocks | [Mock plan](Mock-Tests/Obstetric-and-Midwifery-Nursing-Mock-Test-Plan.md) |
 | Previous Year Questions | [Research register](Previous-Year-Questions/Obstetric-and-Midwifery-Nursing-Past-Paper-Research-Register.md) |
 
@@ -77,3 +78,7 @@ Amniotic fluid ke 20 original MCQs, 80 individual rationales, two original flowc
 ## Verified umbilical cord expansion — 28 November 2026
 
 Umbilical cord ke 20 original MCQs, 80 option explanations, three original flowcharts aur two RRB 2019 reported adaptations publish hue. Current chapter inventory: 344 indexed originals and 18 reported adaptations. Six current topic targets (embryonic development, fetal growth, placenta, fetal membranes, amniotic fluid, umbilical cord) each have 20 new original questions. Next fetal assessment; independent clinical/semantic audits, official keys, exact video playback and diagram rendering remain pending.
+
+## Verified fetal movement assessment expansion — 28 November 2026
+
+Ab fetal movements aur reduced movements ke 20 naye original MCQs, 80 option explanations aur ek original triage flowchart publish hue hain. HSSC 2019 ki ek reported quickening-timing adaptation alag se indexed hai. Current Obstetrics inventory 364 originals aur 19 reported adaptations hai. Fetal heart rate aur other surveillance tests next hain. Independent clinical and semantic audit, official keys aur exact video playback abhi pending hain.
