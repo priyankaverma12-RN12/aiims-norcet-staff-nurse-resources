@@ -1,10 +1,19 @@
 # Dedicated Mental Health Nursing manual claim
 
-State: CLAIMED
-Owner: mental-health-manual-20261128-0439Z
-Scope: Mental Health Group 02C cognitive screening/MMSE new topic files and local indexes only. No PR merges or other job edits.
-Claimed UTC: 2026-11-28T04:39:00Z
-Expiry UTC: 2026-11-28T05:09:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified continuation — Group 02C, 28 November 2026
+
+- 30 new original cognitive screening/MMSE MCQs, 1 Easy, 15 Medium and 14 Difficult editorial labels, 120 English options and 120 separate correct/distractor reasons, 30 closed details blocks, aligned answer distribution A8 B8 C7 D7. Bank commit 1d65da9abfdb61c39a4cef9bace257193f6c031e, blob a16490ab890f5e4c5902f754211aebdf7d305a7f. Zero normalized exact matches against 102 prior original/reported stems. Full semantic, difficulty and independent clinical audit remain pending.
+- Concepts 2600764eeb6a19463ab8ee0f58c48fc3c3d018af, SVG 473c3b246a0ce63f516297969351d7dbbd139f03, one NORCET 8 Prelims 2025 memory-based adaptation 9d309bff910eaed8c48424f17745276132b6f119. Direct Testbook item and reported score-band key inspected. Adaptation deliberately uses contextual clinical interpretation and does not assert universal severity classification. Official booklet and key pending.
+- Healthdirect, CAMH, published review, Mini-Cog and 4AT provider guidance and USPSTF direct HTML retrieved. NICE dementia and delirium direct requests returned 403, indexed recommendations only. Dedicated question-level video mappings for all 31 items pending, two teaching and two mixed practice candidates indexed, direct video opens failed/throttled. No protected complete cognitive test form reproduced.
+- References ad3fe7fcf12fad96edb11d77a4d4690289015bf3, coverage map f0c2e9449860a9f4e76fac1a724101c5c142cc82, evidence register 25fe971afb848b172d5f910c0004480a1cb01801, README e039e79fa2a1b7451d0d1ec745a740723d1e4b12. Exact readbacks. All formal claims checked again, no overlap. Prior PR7/8 navigation inspection and current main reconciliation preserved. PR branches and shared global tracker not modified. No schedule changes.
+- This run total: 60 new originals and 240 individual option rationales, two reported adaptations, two original diagrams, 60 hidden solution blocks. Current chapter-local total: 124 original MCQs, 9 reported adaptations, 5 diagrams, 0 of 1200 mock-exclusive questions. Both claims acquired and released separately. Prior rules reviewed with unchanged SHA, fresh full reread not independently certified. Rendered UI and exhaustive cross-bank semantic audits pending. 
+- Next: Group 02D neurological examination, then EEG, CT/MRI, blood chemistry and psychometric tests in meaningful packages, then remaining groups and 10 original-only mocks. Whole chapter not complete. Own claim released.
 
 ## Verified continuation — Group 02B, 28 November 2026
 
