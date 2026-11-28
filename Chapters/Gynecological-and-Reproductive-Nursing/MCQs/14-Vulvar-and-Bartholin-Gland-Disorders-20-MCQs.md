@@ -288,31 +288,31 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 ## Part 3 — Questions 11–15
 
-### Q11. Persistent vulvar itching despite repeated antifungals warrants?
+### Q11. A patient reports repeated scratching of a localized vulvar area. Examination shows a thickened leathery plaque with accentuated skin markings, but no white atrophic scarring. Which explanation best fits this itch–scratch cycle?
 
-**Difficulty:** Medium · **Priority:** 🟠 High · **Evidence:** Original practice, not PYQ
+**Difficulty:** Difficult · **Priority:** 🔴 Very High · **Evidence:** Original nursing practice, not PYQ
 
-- **A.** More empiric courses forever
-- **B.** Avoiding examination
-- **C.** Assessment for dermatoses and other causes
-- **D.** Scented sprays
+- **A.** Lichen simplex chronicus caused by repeated rubbing and scratching
+- **B.** An ovarian endometrioma causing external skin thickening
+- **C.** An acute vesicovaginal fistula causing urine leakage
+- **D.** Normal skin adaptation that requires no assessment
 
-<details><summary>Answer aur detailed Hinglish A–D explanation</summary>
+<details><summary>Correct answer and detailed A–D Hinglish explanation</summary>
 
-**Correct: C. Assessment for dermatoses and other causes**
+**Correct: A. Lichen simplex chronicus caused by repeated rubbing and scratching**
 
-**Why this is correct:** Vulvar itching infection, contact dermatitis, lichen sclerosus ya neoplasia se ho sakti hai. Targeted examination aur tests choose karo.
+**Clinical reason:** Lichen simplex chronicus mein chronic itching se scratching hoti hai, aur repeated scratching se skin thick aur lichenified ban jaati hai. Nurse trigger aur irritant exposure assess karti hai aur clinician-directed anti-inflammatory therapy support karti hai.
 
-**Har option ka clinical reason:**
+**Har option samjho:**
 
-- **A. More empiric courses forever:** Repeated antifungals bina diagnosis ke dermatitis ya lichen disease ko miss kar sakte hain.
-- **B. Avoiding examination:** Examination avoid karne se persistent lesions aur other infections miss ho sakti hain.
-- **C. Assessment for dermatoses and other causes:** Vulvar itching infection, contact dermatitis, lichen sclerosus ya neoplasia se ho sakti hai. Targeted examination aur tests choose karo.
-- **D. Scented sprays:** Perfumed sprays skin barrier irritate karke symptoms worsen kar sakte hain.
+- **A. Lichen simplex chronicus caused by repeated rubbing and scratching:** Lichen simplex chronicus mein chronic itching se scratching hoti hai, aur repeated scratching se skin thick aur lichenified ban jaati hai. Nurse trigger aur irritant exposure assess karti hai aur clinician-directed anti-inflammatory therapy support karti hai.
+- **B. An ovarian endometrioma causing external skin thickening:** Endometrioma ovary mein cystic lesion hota hai, external lichenified skin plaque ka direct explanation nahi.
+- **C. An acute vesicovaginal fistula causing urine leakage:** Vesicovaginal fistula continuous urine leakage deti hai, itch-scratch plaque uski primary finding nahi.
+- **D. Normal skin adaptation that requires no assessment:** Persistent localized itching aur thickened skin normal adaptation assume nahi karni chahiye. Assessment zaroori hai.
 
-**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+**Nursing application:** Patient ki privacy, informed consent aur nonjudgmental assessment maintain karo. Exam mein symptom aur next appropriate action ko link karo.
 
-**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
+**Verified clinical source:** [Official guidance](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching). **Exam provenance:** Original practice only. **Question-mapped video:** Pending verification.
 
 </details>
 
@@ -400,31 +400,31 @@ Advance-preparation, not authenticated PYQs. References for subsequent clinical 
 
 </details>
 
-### Q15. A patient with vulvar ulcers and possible STI exposure needs?
+### Q15. A patient presents with a new genital ulcer of uncertain cause. In addition to an HSV lesion test, which assessment is supported by genital-ulcer guidance?
 
-**Difficulty:** Medium · **Priority:** 🟠 High · **Evidence:** Original practice, not PYQ
+**Difficulty:** Difficult · **Priority:** 🔴 Very High · **Evidence:** Original nursing practice, not PYQ
 
-- **A.** Judgmental questioning
-- **B.** No testing
-- **C.** Confidential nonjudgmental assessment and testing
-- **D.** Automatic surgery
+- **A.** Only a routine urine bacterial culture because all ulcers are urinary infections
+- **B.** Syphilis serology and HIV testing with appropriate counseling and consent
+- **C.** No further tests if the ulcer is painless
+- **D.** An ovarian tumor-marker panel as the first test
 
-<details><summary>Answer aur detailed Hinglish A–D explanation</summary>
+<details><summary>Correct answer and detailed A–D Hinglish explanation</summary>
 
-**Correct: C. Confidential nonjudgmental assessment and testing**
+**Correct: B. Syphilis serology and HIV testing with appropriate counseling and consent**
 
-**Why this is correct:** Privacy, respectful sexual history, lesion assessment aur indicated STI testing se safe care milti hai.
+**Clinical reason:** CDC genital ulcer guidance recommends syphilis evaluation and HIV testing when status is unknown, alongside HSV lesion testing. Nurse privacy, informed consent and local protocols follow karti hai.
 
-**Har option ka clinical reason:**
+**Har option samjho:**
 
-- **A. Judgmental questioning:** Judgmental questioning patient ko history share karne se rok sakti hai.
-- **B. No testing:** Ulcers ke causes herpes, syphilis aur noninfectious disease bhi ho sakte hain. Bina assessment diagnosis assume nahi karo.
-- **C. Confidential nonjudgmental assessment and testing:** Privacy, respectful sexual history, lesion assessment aur indicated STI testing se safe care milti hai.
-- **D. Automatic surgery:** Har vulvar ulcer mein automatic surgery zaroori nahi. Cause-specific treatment choose hota hai.
+- **A. Only a routine urine bacterial culture because all ulcers are urinary infections:** Routine urine culture does not evaluate common genital ulcer causes such as syphilis or herpes. Urine testing is chosen for urinary symptoms, not as sole ulcer workup.
+- **B. Syphilis serology and HIV testing with appropriate counseling and consent:** CDC genital ulcer guidance recommends syphilis evaluation and HIV testing when status is unknown, alongside HSV lesion testing. Nurse privacy, informed consent and local protocols follow karti hai.
+- **C. No further tests if the ulcer is painless:** Painless ulcer bhi syphilis ya neoplasia ka sign ho sakta hai. Pain absent hone se assessment skip nahi karte.
+- **D. An ovarian tumor-marker panel as the first test:** Ovarian markers genital ulcer ki routine first-line investigation nahi hain. Lesion-directed STI and skin assessment needed hai.
 
-**Nursing application:** Symptoms, lesion site, fever, age-related red flags, consent aur confidential assessment ko clinical priority do.
+**Nursing application:** Patient ki privacy, informed consent aur nonjudgmental assessment maintain karo. Exam mein symptom aur next appropriate action ko link karo.
 
-**Medical evidence:** [ACOG Disorders of the Vulva](https://www.acog.org/womens-health/faqs/disorders-of-the-vulva-common-causes-of-vulvar-pain-burning-and-itching) · **Question-specific video:** Not yet verified.
+**Verified clinical source:** [Official guidance](https://www.cdc.gov/std/treatment-guidelines/genital-ulcers.htm). **Exam provenance:** Original practice only. **Question-mapped video:** Pending verification.
 
 </details>
 
