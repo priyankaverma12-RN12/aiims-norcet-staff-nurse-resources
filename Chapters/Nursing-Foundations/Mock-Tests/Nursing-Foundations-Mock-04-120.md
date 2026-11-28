@@ -639,7 +639,7 @@ Marked resistance aur severe pain catheter ka wrong path, obstruction ya urethra
 
 ### Q21. A sterile instrument falls below the sterile working field during a procedure. What is the correct action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ask the patient whether it looks sterile
 - **B.** Return it to the field if it looks clean
@@ -669,7 +669,7 @@ Sterile ka matlab microorganisms se free hona hai. Sterile field controlled aur 
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q15](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q15](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q15-a-sterile-instrument-falls-below-the-sterile-working-field-during-a-procedure-what-is-the-correct-action)
 
 ### Q22. Before applying strong compression to a leg ulcer, which assessment is important?
 
@@ -1815,7 +1815,7 @@ Language barrier mein nod karna polite response ho sakta hai, understanding ka p
 
 ### Q57. Which nursing intervention is appropriate to support postoperative venous thrombosis prevention?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Apply prescribed mechanical prophylaxis correctly and encourage suitable mobility
 - **B.** Keep every patient on indefinite bed rest
@@ -1845,7 +1845,7 @@ Venous thrombosis ka matlab vein ke andar blood clot ban jaana hai. Surgery aur 
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q13](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q13](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q13-which-nursing-intervention-is-appropriate-to-support-postoperative-venous-thrombosis-prevention)
 
 ### Q58. Which principle applies to removing sutures from a surgical incision?
 
@@ -2054,7 +2054,7 @@ Primary intention healing mein wound edges surgically approximate ki jaati hain,
 
 ### Q64. On which date is International Nurses Day observed annually?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** December 1
 - **B.** May 12
@@ -2084,7 +2084,7 @@ International Nurses Day har saal 12 May ko observe kiya jaata hai. Yeh Florence
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q15](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q15](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q15-on-which-date-is-international-nurses-day-observed-annually)
 
 ### Q65. Which finding is consistent with possible extracellular fluid volume depletion?
 
@@ -2122,7 +2122,7 @@ Extracellular fluid depletion mein blood circulation aur tissue spaces ka fluid 
 
 ### Q66. Which historical event is closely associated with Florence Nightingale's nursing reforms?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Discovery of ABO blood groups
 - **B.** Development of the first polio vaccine
@@ -2152,7 +2152,7 @@ Crimean War ke dauran Florence Nightingale ne sick aur injured soldiers ki nursi
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q14](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q14](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q14-which-historical-event-is-closely-associated-with-florence-nightingales-nursing-reforms)
 
 ### Q67. A nurse has cared for a patient under contact precautions and must use shared equipment on another patient. What should happen first?
 
@@ -2446,7 +2446,7 @@ Neurovascular assessment blood supply aur nerve function ka check hai. Bandaging
 
 ### Q76. Which theorist is associated with a framework of twenty-one nursing problems?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Jean Watson
 - **B.** Faye Glenn Abdellah
@@ -2472,15 +2472,15 @@ Abdellah ne nursing ko patient ki problems identify aur solve karne ke approach 
 
 **Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q13](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q13](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q13-which-theorist-is-associated-with-a-framework-of-twenty-one-nursing-problems)
 
 ### Q77. What is the purpose of counting surgical sponges and instruments according to the operative policy?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS NORCET, 20 November 2021 Shift II — related reported concept**
 
 - **A.** Calculate the anesthesia dose
 - **B.** Reduce the risk of unintended retained surgical items
@@ -2512,7 +2512,7 @@ Operation mein sponges, needles aur instruments use hote hain. Agar item patient
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q16](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q16](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q16-what-is-the-purpose-of-counting-surgical-sponges-and-instruments-according-to-the-operative-policy)
 
 ### Q78. A wound culture is ordered for suspected infection. Which sampling approach is appropriate?
 
@@ -3010,7 +3010,7 @@ Poor perfusion ka matlab limb tak adequate blood flow na pahunchna hai. Cold vas
 
 ### Q94. Which organization establishes statutory educational standards for nursing qualifications in India under its governing legislation?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Indian Medical Association
 - **B.** World Health Organization alone
@@ -3042,7 +3042,7 @@ Nursing education standards ka purpose hai ki nursing courses mein required know
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q16](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q16](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q16-which-organization-establishes-statutory-educational-standards-for-nursing-qualifications-in-india-under-its-governing-legislation)
 
 ### Q95. Which specimen requires prompt handling under laboratory transport instructions?
 
@@ -3725,7 +3725,7 @@ Thermal burn heat ke karan skin injury hai. Small recent burn mein cool clean ru
 
 ### Q116. A patient receiving spinal anesthesia develops new hypotension and nausea. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Assume low BP is harmless after every spinal anesthetic
 - **B.** Assess circulation and urgently notify the anesthesia team while following the treatment protocol
@@ -3755,7 +3755,7 @@ Spinal anesthesia spinal nerves ke signals temporarily block karti hai. Isse sym
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q14](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q14](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q14-a-patient-receiving-spinal-anesthesia-develops-new-hypotension-and-nausea-which-action-is-appropriate)
 
 ### Q117. During first ambulation after surgery a patient becomes pale and dizzy. Which action is safest?
 

@@ -75,7 +75,7 @@ Protective layer device aur skin ke direct contact ko moderate karti hai. Isse e
 
 ### Q3. A patient develops severe disproportionate limb pain and new paresthesia after surgery with a tight cast. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Give extra bedding and reassess tomorrow
 - **B.** Urgently assess neurovascular status and escalate for possible compartment syndrome
@@ -105,7 +105,7 @@ Compartment syndrome mein muscle ke around closed space ka pressure itna badh sa
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q19](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q19](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q19-a-patient-develops-severe-disproportionate-limb-pain-and-new-paresthesia-after-surgery-with-a-tight-cast-what-should-the-nurse-do)
 
 ### Q4. A person with a suspected venomous snakebite is waiting for transport. Which first aid principle is appropriate?
 
@@ -696,7 +696,7 @@ Decimal miss hone se tenfold dose error ho sakta hai. Less than one dose ke pehl
 
 ### Q22. A nurse identifies a gap between routine ward practice and current research evidence. What is the appropriate evidence-based practice approach?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Apply a study finding without considering local context
 - **B.** Combine best available evidence, clinical expertise and patient preferences
@@ -726,7 +726,7 @@ Evidence-based practice ka matlab hai patient care ke decisions mein best availa
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q17](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q17](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q17-a-nurse-identifies-a-gap-between-routine-ward-practice-and-current-research-evidence-what-is-the-appropriate-evidence-based-practice-approach)
 
 ### Q23. Which intervention can support a family during bedside end-of-life care?
 
@@ -1074,7 +1074,7 @@ Pulse pressure systolic aur diastolic pressure ke difference ko kehte hain. Syst
 
 ### Q34. Which nursing role is illustrated when a nurse communicates a patient's expressed concerns to the treatment team?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Financial auditor
 - **B.** Equipment manufacturer
@@ -1106,7 +1106,7 @@ Advocate ka matlab hai patient ki baat, rights aur needs ko respect ke saath saa
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q18](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q18](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q18-which-nursing-role-is-illustrated-when-a-nurse-communicates-a-patients-expressed-concerns-to-the-treatment-team)
 
 ### Q35. Why does excess wound exudate increase the risk of periwound maceration?
 
@@ -1746,7 +1746,7 @@ Pain evaluation ka goal sirf number ko kam karna nahi hai. Patient 8/10 se 4/10 
 
 ### Q54. The final surgical count is incorrect. What is the appropriate nursing response?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 AIIMS NORCET, 20 November 2021 Shift II — related reported concept**
 
 - **A.** Document the count as correct
 - **B.** Immediately communicate the discrepancy and follow the retained-item prevention protocol
@@ -1778,7 +1778,7 @@ Jab final count match nahi hota, toh surgical item missing ho sakta hai. Nurse d
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q17](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q17](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q17-the-final-surgical-count-is-incorrect-what-is-the-appropriate-nursing-response)
 
 ### Q55. Which procedure measures pulmonary airflow and volumes using a breathing maneuver?
 
@@ -2048,7 +2048,7 @@ Mean arterial pressure (MAP) ek cardiac cycle ke average arterial pressure ka es
 
 ### Q64. Which activity is an example of continuing professional development?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Relying permanently on initial training
 - **B.** Avoiding feedback after clinical errors
@@ -2080,7 +2080,7 @@ Continuing professional development ya CPD ka matlab hai initial nursing trainin
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q20](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q20](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q20-which-activity-is-an-example-of-continuing-professional-development)
 
 ### Q65. A chemical disinfectant requires a specified wet contact time. Which action preserves effectiveness?
 
@@ -2124,7 +2124,7 @@ Disinfectant ko organisms par effective action ke liye manufacturer-specified co
 
 ### Q66. Which item is especially important to confirm before transferring a postoperative patient to the ward?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only the hospital room decoration
 - **B.** Current airway and vital status, procedure details, orders and recovery criteria
@@ -2154,7 +2154,7 @@ Postoperative handover mein ek team doosri team ko patient ki important informat
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q18](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q18](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q18-which-item-is-especially-important-to-confirm-before-transferring-a-postoperative-patient-to-the-ward)
 
 ### Q67. Which intervention supports dignity for a patient who needs help using a bedpan?
 
@@ -2319,7 +2319,7 @@ Tube flush mein diya gaya water patient ke total fluid intake ka part hai. Fluid
 
 ### Q72. A nurse is assigned a procedure outside their competence. What is the appropriate professional action?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Document completion without performing it
 - **B.** Ask an untrained attendant to perform it
@@ -2351,7 +2351,7 @@ Competence ka matlab hai required knowledge, skill aur judgement ke saath proced
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q19](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q19](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q19-a-nurse-is-assigned-a-procedure-outside-their-competence-what-is-the-appropriate-professional-action)
 
 ### Q73. A nurse measures a surprisingly high BP in a clinically stable patient immediately after the patient climbs stairs. What is the next appropriate action?
 
@@ -2767,7 +2767,7 @@ Indwelling catheter urethra se bladder tak route create karta hai. Acute-care in
 
 ### Q86. Which postoperative education is important before a patient leaves the hospital?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Tell the patient to change medication doses independently
 - **B.** Give identical instructions after every type of operation
@@ -2797,7 +2797,7 @@ Discharge education se patient ghar par recovery safely manage kar sakta hai. Nu
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q20](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q20](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q20-which-postoperative-education-is-important-before-a-patient-leaves-the-hospital)
 
 ### Q87. Which finding should be documented after an oxygen therapy adjustment?
 

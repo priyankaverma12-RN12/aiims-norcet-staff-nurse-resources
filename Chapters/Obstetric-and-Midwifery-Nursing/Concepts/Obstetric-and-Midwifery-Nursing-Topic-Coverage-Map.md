@@ -3,6 +3,9 @@
 This is a curriculum-based checklist, not full theory notes. No learning completion is recorded.
 
 - Reproductive anatomy and antenatal care
+- Pregnancy diagnosis
+- Physiological changes during pregnancy — [detailed concepts](03-Physiological-Changes-During-Pregnancy.md), [20 original MCQs](../MCQs/03-Physiological-Changes-During-Pregnancy-20-MCQs.md), [reported exam practice](../Previous-Year-Questions/03-Physiological-Changes-Reported-Exam-Practice.md). Combined overview published, individual system expansion and full evidence audit remain pending.
+- Fetal development, placenta and membranes
 - fetal assessment
 - normal pregnancy and labor
 - partograph and delivery

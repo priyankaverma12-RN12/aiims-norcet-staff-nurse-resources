@@ -16,3 +16,12 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 [1 source-linked reported questions with English options and Hinglish answers](Obstetric-and-Midwifery-Nursing-Source-Linked-Reported-PYQs.md). Official paper/key matching remains pending.
 
 - [ANC — two source-linked UP NHM Staff Nurse 2021 Shift II adaptations](01-Antenatal-Care-Reported-PYQs.md). Official paper and key remain unverified. Two older OBG adaptations remain separately preserved.
+- [Physiological Changes During Pregnancy — HPSSC Staff Nurse 1 August 2021 reported hemodilution adaptation](03-Physiological-Changes-Reported-Exam-Practice.md). Third-party question page retrieved, official paper and key pending. HPRCA March 2026 papers remain research leads.
+- [Previously published HPSSC 2022 Series A Q27 linea nigra adaptation](Obstetric-and-Midwifery-Nursing-India-Wide-Additional-Reported-PYQs.md). Existing item, not counted as newly written. Source scan was not reauthenticated in this batch.
+
+Total indexed reported adaptations: 5. These are not authenticated verbatim official papers.
+
+
+## Maternal circulation historical evidence — 28 November 2026
+
+[One independently worded BTSC Bihar ANM 12 January 2024 Shift 3 reported adaptation](03A-Maternal-Cardiovascular-Hematology-Reported-Evidence.md) covers distinguishing cardiovascular adaptations from appetite changes. NHM MP CHO 17 April 2022 blood volume and UPPSC Staff Nurse 10 April 2022 cardiac output evidence are related leads and not counted twice. Six reported adaptations are now indexed across the chapter. Official question papers and keys, broader India-wide evidence and exact YouTube MCQ playback remain pending.

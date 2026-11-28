@@ -193,7 +193,7 @@ Language aur literacy barriers treatment misunderstanding cause kar sakte hain. 
 
 ### Q7. A postoperative patient has nausea, retching and a high aspiration risk. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Provide a large solid meal immediately
 - **B.** Ignore the symptoms because anesthesia is finished
@@ -223,7 +223,7 @@ Anesthesia ke baad nausea aur vomiting ho sakti hai. Agar vomit airway mein chal
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q10](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q10](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q10-a-postoperative-patient-has-nausea-retching-and-a-high-aspiration-risk-which-action-is-appropriate)
 
 ### Q8. Which bandage turn is commonly used around joints such as the ankle?
 
@@ -773,7 +773,7 @@ Sputum lower respiratory tract se cough ke saath nikla mucus hai. Saliva mouth s
 
 ### Q24. A postoperative patient has not voided and reports increasing suprapubic discomfort. What is the best initial assessment?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Force the patient to drink a large volume
 - **B.** Give repeated unprescribed diuretics
@@ -803,7 +803,7 @@ Urinary retention ka matlab bladder mein urine jama hai lekin patient use bahar 
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q12](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q12](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q12-a-postoperative-patient-has-not-voided-and-reports-increasing-suprapubic-discomfort-what-is-the-best-initial-assessment)
 
 ### Q25. Which aspect of care is addressed by offering access to a spiritual counselor when a patient requests it?
 
@@ -828,7 +828,7 @@ Spiritual care patient ke meaning, beliefs aur sources of comfort respect karti 
 
 ### Q26. A nurse and patient mutually agree on a mobility goal and select actions to reach it. Which theorist's central concept is especially illustrated?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Nightingale's environmental theory
 - **B.** Rogers' science of unitary human beings
@@ -854,11 +854,11 @@ King ki theory mein nurse aur patient milkar realistic goal decide karte hain. J
 
 **Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q10](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q10](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q10-a-nurse-and-patient-mutually-agree-on-a-mobility-goal-and-select-actions-to-reach-it-which-theorists-central-concept-is-especially-illustrated)
 
 ### Q27. A patient with aphasia becomes frustrated while answering questions. Which strategy is most appropriate?
 
@@ -2184,7 +2184,7 @@ Immobility venous stasis badha sakti hai. New painful swollen calf DVT ya doosri
 
 ### Q68. Why is early safe postoperative mobilization encouraged when not contraindicated?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** It eliminates every need for thrombosis prevention
 - **B.** It supports functional recovery and reduces complications of immobility
@@ -2214,7 +2214,7 @@ Jab patient bahut der bed par rehta hai, toh leg muscles ki pumping kam ho jaati
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q11](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q11](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q11-why-is-early-safe-postoperative-mobilization-encouraged-when-not-contraindicated)
 
 ### Q69. Which item is most relevant to a discharge plan for a patient at high risk of falls?
 
@@ -2584,7 +2584,7 @@ Sudden coughing, breathlessness aur oxygen saturation drop acute respiratory com
 
 ### Q80. Which factor is assessed using the Aldrete-type postanesthesia recovery score?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Only wound drainage color
 - **B.** Only the pain score
@@ -2614,7 +2614,7 @@ Aldrete-type recovery score anesthesia ke baad physiological recovery assess kar
 
 </details>
 
-[Source topic bank: Perioperative nursing and basic procedure safety, Q9](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md)
+[Source topic bank: Perioperative nursing and basic procedure safety, Q9](../MCQs/25-Perioperative-Nursing-and-Basic-Procedure-Safety-20-MCQs.md#q9-which-factor-is-assessed-using-the-aldrete-type-postanesthesia-recovery-score)
 
 ## Block 5
 
@@ -2860,7 +2860,7 @@ Passive ROM mein patient joint ko actively contract karke move nahi karta. Careg
 
 ### Q88. Which nursing model is associated with the three interrelated circles of care, core and cure?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Hildegard Peplau
 - **B.** Sister Callista Roy
@@ -2886,11 +2886,11 @@ Lydia Hall ne nursing ko three connected circles se samjhaya. Care ka matlab bod
 
 **Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q12](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q12](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q12-which-nursing-model-is-associated-with-the-three-interrelated-circles-of-care-core-and-cure)
 
 ### Q89. Which practice is required for an insulin pen used in a hospital?
 
@@ -3744,7 +3744,7 @@ Return demonstration mein patient task khud karke dikhata hai. Nurse mistakes ob
 
 ### Q116. Which theory describes the person as an open system interacting with stressors and lines of defense?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Betty Neuman Systems Model
 - **B.** Watson's human caring theory
@@ -3770,11 +3770,11 @@ Neuman patient ko open system maanti hain, yani body ke andar aur bahar ke chang
 
 **Reference:** [Nursing theory or professional guidance](https://www.currentnursing.com/nursing_theory/nursing_theorists.html)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q9](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q9](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q9-which-theory-describes-the-person-as-an-open-system-interacting-with-stressors-and-lines-of-defense)
 
 ### Q117. An injectable solution contains unexpected visible particles. What should the nurse do?
 
@@ -3843,7 +3843,7 @@ Incentive spirometer ek feedback device hai jo patient ko slow deep inspiration 
 
 ### Q119. Which theorist is particularly associated with the Theory of Human Caring and carative or Caritas concepts?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Dorothea Orem
 - **B.** Faye Abdellah
@@ -3869,11 +3869,11 @@ Watson ki Human Caring Theory mein patient ko sirf disease ya bed number nahi ma
 
 **Reference:** [Nursing theory or professional guidance](https://openstax.org/books/fundamentals-nursing/pages/1-5-selected-nursing-theorist)
 
-**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
+**▶️ [YouTube MCQ practice — nursing theorist and theory associations, RN e-Learning](https://www.youtube.com/watch?v=kCZ3xPlXKsA).** 25 October 2020 ki published quiz description mein in theorists ke models listed hain. Exact item, timestamp aur playback confirm nahi hue hain. Description mein Human Becoming theory ki attribution galat hai, isliye us point ke liye apne verified concept notes follow karo.
 
 </details>
 
-[Source topic bank: Nursing history, theories and professional role, Q11](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md)
+[Source topic bank: Nursing history, theories and professional role, Q11](../MCQs/24-Nursing-History-Theories-and-Professional-Role-20-MCQs.md#q11-which-theorist-is-particularly-associated-with-the-theory-of-human-caring-and-carative-or-caritas-concepts)
 
 ### Q120. Which crutch instruction helps avoid pressure-related nerve injury?
 

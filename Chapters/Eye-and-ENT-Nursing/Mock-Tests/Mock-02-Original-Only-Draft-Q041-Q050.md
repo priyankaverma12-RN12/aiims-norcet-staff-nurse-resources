@@ -17,13 +17,13 @@ Clinical references were retrieved for nasal foreign bodies, nasal trauma, saliv
 
 **Correct answer: B. Question the proposed drops and expedite immediate removal**
 
-- **A. Kyun galat hai:** Button battery ke liye topical nasal drops contraindicated ho sakte hain. Swelling kam hone ka wait tissue injury ko badha sakta hai.
+- **A. Kyun galat hai:** Normally kuch nasal foreign bodies mein clinician swelling kam karne ke liye drops use kar sakta hai. Lekin button battery alag situation hai. Is case mein topical nasal drops contraindicated hain, kyunki unse tissue damage ya battery ke peeche khisakne ka risk badh sakta hai. Swelling kam hone ka wait karna safe nahi hai.
 
-- **B. Kyun sahi hai:** Button battery electrical aur chemical injury rapidly cause kar sakti hai. Drops avoid karke urgent specialist removal expedite karna safest hai.
+- **B. Kyun sahi hai:** Button battery chhoti hoti hai, lekin nose ke geele tissue ke contact mein aate hi electrical reaction se alkaline injury ho sakti hai. Isse nasal lining aur septum jaldi damage ho sakte hain. Nurse proposed drops ko question karegi aur trained team se immediate removal arrange karwayegi. Agar local removal possible nahi hai, toh urgent ENT transfer arrange hoga.
 
-- **C. Kyun galat hai:** Irrigation se battery displacement ya aspiration ka risk ho sakta hai aur definitive removal delay hota hai.
+- **C. Kyun galat hai:** Nose ko saline se flush karne par battery peeche khisak sakti hai. Agar object airway mein chala jaaye, toh breathing ki emergency bhi ho sakti hai. Irrigation battery injury ka treatment nahi hai aur removal mein delay kar sakti hai.
 
-- **D. Kyun galat hai:** Routine fasting ka wait time-critical removal ko delay nahi karna chahiye. Anaesthesia aur airway plan treating team decide karegi.
+- **D. Kyun galat hai:** Routine fasting interval complete hone tak wait karne se battery tissue ke contact mein aur zyada samay rahegi. Agar anaesthesia ki zaroorat hai, toh urgent procedure ka airway aur fasting plan anaesthesia team clinical risk ke hisaab se decide karegi. Nurse time-critical removal ko routine fasting ke liye delay nahi karegi.
 
 **Exam clue:** Battery ki presence routine nasal foreign body management ko time-critical emergency bana deti hai.
 
@@ -46,19 +46,19 @@ Clinical references were retrieved for nasal foreign bodies, nasal trauma, saliv
 
 **Correct answer: C. Retained nasal foreign body**
 
-- **A. Kyun galat hai:** Allergic rhinitis mein itching, sneezing aur usually bilateral watery discharge hota hai. Unilateral foul smell typical nahi hai.
+- **A. Kyun galat hai:** Allergic rhinitis mein allergy ke response se sneezing, nose mein itching aur watery discharge ho sakta hai. Aksar dono nostrils affected hoti hain. Sirf ek nostril se lagatar badbu aur blood-stained discharge milna typical allergy se match nahi karta.
 
-- **B. Kyun galat hai:** Viral rhinitis usually dono nostrils ko affect karti hai aur short course hota hai. Persistent unilateral discharge ko investigate karna chahiye.
+- **B. Kyun galat hai:** Viral rhinitis mein cold ke saath dono nostrils congested ho sakti hain aur discharge aa sakta hai. Aam taur par symptoms kuch din mein improve hote hain. Ek taraf ka persistent foul-smelling discharge ho toh retained object jaisi local cause ko check karna chahiye.
 
-- **C. Kyun sahi hai:** Chhote bachche mein unilateral foul-smelling ya blood-stained discharge retained foreign body ka important clue hai. Insertion witness na hua ho tab bhi assessment zaroori hai.
+- **C. Kyun sahi hai:** Chhote bachche curiosity mein nose mein chhota object daal sakte hain aur kisi ko pata bhi nahi chalta. Jab object nose ke andar reh jaata hai, toh lining irritate ho sakti hai aur infection ya bleeding ho sakti hai. Isliye ek taraf ki badbu wali discharge foreign body ka important clue hai. Nurse trained clinician se nasal assessment arrange karegi.
 
-- **D. Kyun galat hai:** Otitis externa external ear canal ki inflammation hai aur nasal discharge explain nahi karti.
+- **D. Kyun galat hai:** Otitis externa outer ear canal ki inflammation hai. Ismein ear pain ya ear discharge ho sakta hai, lekin ye nose ki ek side se persistent badbu wala discharge explain nahi karti. Is patient mein nasal cause pehle assess honi chahiye.
 
 **Exam clue:** Unilateral badbu wala nasal discharge mein retained object ko miss mat karo.
 
 **Clinical reference:** [Clinical guidance](https://www.childrens.health.qld.gov.au/for-health-professionals/queensland-paediatric-emergency-care-qpec/queensland-paediatric-clinical-guidelines/foreign-body-nose).
 
-**YouTube MCQ practice:** [Nasal foreign body diagnosis MCQ — Dr Tageldin Aly](https://www.youtube.com/watch?v=m84mcwf_YBQ) (specific question topic apparent from indexed title, supplemental medical MCQ, playback and timestamp not verified).
+**YouTube MCQ practice:** [Nasal foreign body diagnosis MCQ — Dr Tageldin Aly](https://www.youtube.com/watch?v=m84mcwf_YBQ) (28 November 2026 indexed title and named channel rechecked. Related medical MCQ topic, direct playback unavailable and exact-item timestamp unverified).
 
 </details>
 
@@ -75,13 +75,13 @@ Clinical references were retrieved for nasal foreign bodies, nasal trauma, saliv
 
 **Correct answer: D. Stop further unplanned attempts and arrange experienced ENT assessment**
 
-- **A. Kyun galat hai:** Repeated blind instrumentation object ko posteriorly displace kar sakti hai aur mucosal injury ya aspiration risk badha sakti hai.
+- **A. Kyun galat hai:** Blind forceps attempt mein object aur surrounding tissue clearly nazar nahi aate. Isliye object peeche dhakelne, bleeding aur aspiration ka risk badhta hai. Pehla controlled attempt fail hone ke baad repeated blind attempts nahi karne chahiye.
 
-- **B. Kyun galat hai:** Forceful sniffing object ko airway ki taraf kheench sakta hai. Yeh safe removal instruction nahi hai.
+- **B. Kyun galat hai:** Forcefully sniff karne par air nose se andar ki taraf jaati hai aur object peeche move kar sakta hai. Isse object throat ya airway ki taraf jaane ka risk hai. Nurse aisi instruction nahi degi.
 
-- **C. Kyun galat hai:** Child distress aur movement injury risk badhate hain. Failed first attempt ke baad same approach ko repeatedly force nahi karna chahiye.
+- **C. Kyun galat hai:** Jab frightened child move karne lagta hai, toh instruments se nasal lining injure hone ka risk badhta hai. Distress badhne ke baad wahi attempt force karte rehna safe nahi hai. Pehle child aur situation ko reassess karna chahiye.
 
-- **D. Kyun sahi hai:** First attempt success ka important opportunity hai. Failure ke baad further attempts experienced clinician ke plan se hone chahiye. Nurse child ko calm rakhe aur escalation arrange kare.
+- **D. Kyun sahi hai:** First removal attempt fail hone ke baad experienced ENT clinician ki help leni chahiye. Nurse child ko calm rakhne, breathing observe karne aur appropriate referral arrange karne mein help karegi. Agar object battery ho ya breathing mein difficulty aaye, toh urgency aur badh jaati hai.
 
 **Exam clue:** Failed first attempt ke baad repeated traumatic attempts se bachna priority hai.
 
@@ -104,13 +104,13 @@ Clinical references were retrieved for nasal foreign bodies, nasal trauma, saliv
 
 **Correct answer: A. Arrange immediate ENT assessment for possible septal haematoma**
 
-- **A. Kyun sahi hai:** Septal haematoma cartilage ki blood supply compromise kar sakta hai, leading to necrosis or abscess. Urgent ENT assessment aur drainage as indicated zaroori hai.
+- **A. Kyun sahi hai:** Septum nose ke dono passages ko separate karta hai. Trauma ke baad cartilage aur uski covering ke beech blood jama ho jaaye toh ise septal haematoma kehte hain. Ye collection cartilage ki nutrition aur blood supply disturb kar sakta hai. Isliye urgent ENT assessment aur specialist drainage ki zaroorat ho sakti hai, taaki cartilage damage aur abscess prevent kiye ja sakein.
 
-- **B. Kyun galat hai:** Normal external alignment septal haematoma ko exclude nahi karta. Internal septal examination important hai.
+- **B. Kyun galat hai:** Nose bahar se seedhi nazar aane ka matlab ye nahi hai ki andar septum normal hai. Haematoma internal collection hota hai aur external fracture deformity ke bina bhi ho sakta hai. Isliye progressive blockage aur soft swelling ko ignore nahi karna chahiye.
 
-- **C. Kyun galat hai:** Delayed fracture follow-up suspected haematoma ke liye appropriate nahi hai. Is complication ko same-day emergency assessment chahiye.
+- **C. Kyun galat hai:** Uncomplicated nasal fracture ki alignment ke liye swelling settle hone ke baad review ho sakta hai. Lekin suspected septal haematoma mein delay cartilage damage ka risk badhata hai. Is patient ko routine seven-day follow-up ke bajay immediate ENT review chahiye.
 
-- **D. Kyun galat hai:** Direct pressure underlying collection ko safely treat nahi karta aur further pain or injury cause kar sakta hai.
+- **D. Kyun galat hai:** Septal haematoma ek internal blood collection hai. Is swelling par direct pressure dene se collection safely drain nahi hota aur pain ya injury badh sakti hai. Nurse specialist assessment arrange karegi, khud swelling ko press ya puncture nahi karegi.
 
 **Exam clue:** Nasal trauma mein fluctuant septal swelling ko fracture alignment se alag emergency samjho.
 
@@ -133,19 +133,19 @@ Clinical references were retrieved for nasal foreign bodies, nasal trauma, saliv
 
 **Correct answer: B. Saliva accumulating behind a partially obstructed salivary duct**
 
-- **A. Kyun galat hai:** Tear production lacrimal gland se related hai, submandibular meal-related swelling ka mechanism nahi.
+- **A. Kyun galat hai:** Tears lacrimal gland mein bante hain aur aankh ki surface ko moist rakhte hain. Jaw ke neeche meal-related swelling ka relation salivary gland aur uske duct se hai, tear production se nahi.
 
-- **B. Kyun sahi hai:** Meals salivary secretion stimulate karte hain. Partially blocked duct mein secretion accumulate hone se pressure aur swelling badh sakti hai, jo baad mein kam ho jaati hai.
+- **B. Kyun sahi hai:** Submandibular glands jaw ke neeche saliva banati hain. Khane ki smell, taste ya anticipation bhi saliva production stimulate kar sakti hai. Agar duct partially blocked hai, toh saliva aasani se mouth tak nahi pahunchta aur gland mein pressure aur swelling badh sakti hai. Meals ke beech secretion kam hone par swelling bhi kam ho sakti hai. Stone ya doosri obstruction ko specialist confirm karega.
 
-- **C. Kyun galat hai:** Vestibular dysfunction balance aur vertigo affect karta hai, salivary gland swelling nahi.
+- **C. Kyun galat hai:** Vestibular system inner ear ka balance system hai. Iski problem se dizziness ya vertigo ho sakta hai. Ye meals ke saath salivary gland mein pressure aur swelling develop hone ka reason nahi hai.
 
-- **D. Kyun galat hai:** Facial nerve paralysis facial movement affect karti hai. Meal-related reversible gland swelling duct obstruction ke favour mein hai.
+- **D. Kyun galat hai:** Facial nerve mainly face ki muscles ki movement control karta hai. Paralysis mein facial weakness hoti hai, lekin meals ke aas-paas reversible submandibular swelling duct blockage ke pattern se zyada match karti hai.
 
 **Exam clue:** Meal-time gland swelling salivary outflow obstruction ki taraf point karti hai.
 
 **Clinical reference:** [Clinical guidance](https://www.msdmanuals.com/professional/ear-nose-and-throat-disorders/oral-and-pharyngeal-disorders/salivary-stones).
 
-**YouTube MCQ practice:** [ENT PLAB question practice](https://www.youtube.com/watch?v=Y3F1A4yVWRI) (indexed description includes salivary calculi and postprandial swelling, supplemental medical question practice, exact item and playback pending).
+**YouTube MCQ practice:** [ENT PLAB question practice](https://www.youtube.com/watch?v=Y3F1A4yVWRI) (prior indexed description identified salivary calculi and postprandial swelling. Direct recheck unavailable on 28 November 2026, so retain as a supplemental unverified lead, not confirmed practice coverage).
 
 </details>
 
@@ -162,13 +162,13 @@ Clinical references were retrieved for nasal foreign bodies, nasal trauma, saliv
 
 **Correct answer: C. Assist collection of ductal purulence for microbiology as ordered and expedite treatment**
 
-- **A. Kyun galat hai:** Purulent material microbiological information provide kar sakta hai. Sirf temperature note karna infection assessment ke liye insufficient hai.
+- **A. Kyun galat hai:** Purulence ka matlab pus hai. Ismein infecting bacteria ke baare mein useful information mil sakti hai, isliye ordered specimen discard karne se targeted treatment ki information lose ho sakti hai. Temperature ke saath gland findings aur overall condition bhi assess karni chahiye.
 
-- **B. Kyun galat hai:** Parotid duct discharge urine specimen nahi hai. Correct anatomical specimen label aur appropriate microbiology request chahiye.
+- **B. Kyun galat hai:** Urine culture urinary tract infection investigate karta hai. Parotid duct mouth ke andar saliva release karta hai, isliye wahan se nikla pus urine specimen nahi hai. Nurse correct site aur specimen label ke saath appropriate microbiology request follow karegi.
 
-- **C. Kyun sahi hai:** Ductal pus culture organism aur susceptibility identify karne mein help kar sakta hai. Systemically unwell patient mein sampling se necessary treatment delay nahi hona chahiye.
+- **C. Kyun sahi hai:** Tender parotid swelling, fever aur ductal pus acute bacterial sialadenitis ke concern ko support karte hain. Sialadenitis ka matlab salivary gland ki inflammation hai. Ordered pus sample se lab organism aur antibiotic susceptibility identify kar sakti hai. Nurse aseptic collection aur timely transport mein help karegi, lekin unstable patient ya urgent infection mein sample ke liye treatment delay nahi karegi.
 
-- **D. Kyun galat hai:** Fever aur purulence acute bacterial infection suggest karte hain. Clinical deterioration aur abscess ka risk dekhte hue prompt escalation zaroori hai.
+- **D. Kyun galat hai:** Fever aur pus ko spontaneous recovery ka wait karke ignore karna unsafe ho sakta hai. Infection badhne par abscess ya systemic illness develop ho sakti hai. Nurse vital signs aur deterioration assess karke prescriber ko promptly inform karegi.
 
 **Exam clue:** Correct specimen collection aur timely antimicrobial management dono important hain.
 
@@ -191,13 +191,13 @@ Clinical references were retrieved for nasal foreign bodies, nasal trauma, saliv
 
 **Correct answer: A. Encourage regular hydration and oral hygiene**
 
-- **A. Kyun sahi hai:** Hydration aur oral hygiene salivary stasis aur bacterial load reduce karne mein help karte hain. Intake ko clinical status aur swallowing safety ke according maintain karo.
+- **A. Kyun sahi hai:** Saliva mouth ko moist rakhti hai aur food particles ko clear karne mein help karti hai. Jab fluid intake kam ho aur mouth dry ho, toh saliva flow kam ho sakta hai aur bacterial growth ka risk badhta hai. Is patient ki swallowing safe hai aur fluid restriction nahi hai, isliye regular hydration aur oral hygiene appropriate preventive care hain.
 
-- **B. Kyun galat hai:** Unnecessary restriction dehydration aur reduced salivary flow worsen kar sakti hai, increasing infection risk.
+- **B. Kyun galat hai:** Is patient ko bina clinical reason fluids restrict karne se dehydration worsen ho sakti hai. Saliva ka flow aur kam ho jaaye toh gland infection ka risk badh sakta hai. Isliye preventive care mein hydration support karna chahiye.
 
-- **C. Kyun galat hai:** Regular mouth care oral bacterial burden ko reduce karta hai. Appetite recovery tak delay karna beneficial nahi hai.
+- **C. Kyun galat hai:** Appetite kam hone ka matlab oral care ki zaroorat khatam hona nahi hai. Mouth mein bacteria aur debris jama ho sakte hain. Regular mouth care se cleanliness aur comfort improve hote hain, isliye appetite return hone tak care postpone nahi karni chahiye.
 
-- **D. Kyun galat hai:** Duct openings ko occlude karna drainage impair kar sakta hai. Yeh preventive care nahi hai.
+- **D. Kyun galat hai:** Salivary ducts gland se saliva mouth tak le jaate hain. Unke openings ko band karne se outflow mein rukawat ho sakti hai. Infection prevent karne ke liye duct ko occlude nahi kiya jaata.
 
 **Exam clue:** Salivary stasis aur dehydration infection risk factors hain.
 
@@ -220,13 +220,13 @@ Clinical references were retrieved for nasal foreign bodies, nasal trauma, saliv
 
 **Correct answer: C. Visualize the salivary duct and retrieve an accessible stone using suitable instruments**
 
-- **A. Kyun galat hai:** Sialendoscopy ka goal selected cases mein gland ko preserve karna hai. Gland excision kuch complex cases mein zaroori ho sakta hai par routine sialendoscopy ka meaning excision nahi hai.
+- **A. Kyun galat hai:** Sialendoscopy ka purpose selected duct problems ko gland preserve karte hue treat karna hai. Har patient ki poori salivary gland remove nahi ki jaati. Agar stone complex position mein ho ya less invasive treatment fail ho, toh specialist alternative surgery consider kar sakta hai.
 
-- **B. Kyun galat hai:** Radiotherapy duct mein phanse stone ko endoscopically identify aur remove karne ka method nahi hai.
+- **B. Kyun galat hai:** Radiotherapy selected diseases, jaise kuch cancers, ke treatment mein use ho sakti hai. Ye salivary duct ke andar phanse accessible stone ko dekhne aur mechanically retrieve karne ka method nahi hai.
 
-- **C. Kyun sahi hai:** Chhota endoscope salivary duct ke andar direct visualization deta hai. Stone accessible ho toh suitable retrieval instruments se nikala ja sakta hai. Stone ki size aur position dekhkar specialist decide karta hai ki ye technique appropriate hai ya additional approach chahiye.
+- **C. Kyun sahi hai:** Sialendoscopy mein specialist ek bahut patla endoscope salivary duct ke andar use karta hai. Isse duct aur obstruction ko directly dekh sakta hai. Agar stone accessible hai, toh suitable retrieval instrument se nikalne ki koshish ki ja sakti hai. Stone ki size, location aur duct anatomy ke hisaab se specialist approach decide karta hai, taaki possible ho toh gland preserve rahe.
 
-- **D. Kyun galat hai:** Auditory nerve testing hearing assessment se related hai. Salivary duct obstruction ka isse direct evaluation nahi hota.
+- **D. Kyun galat hai:** Auditory nerve signals inner ear se brain tak hearing information le jaate hain. Uski testing hearing problem ke assessment mein use hoti hai. Ye salivary duct ke andar stone visualize ya remove nahi karti.
 
 **Exam clue:** Sialendoscopy = selected duct obstruction ka direct visualization aur gland-preserving management.
 
@@ -249,13 +249,13 @@ Clinical references were retrieved for nasal foreign bodies, nasal trauma, saliv
 
 **Correct answer: B. Frey syndrome**
 
-- **A. Kyun galat hai:** Otitis media middle ear infection hai aur meal-triggered cheek sweating ka characteristic cause nahi hai.
+- **A. Kyun galat hai:** Acute otitis media middle ear ki infection hai aur ismein ear pain, fever ya hearing symptoms ho sakte hain. Eating ke time operated cheek par sweating aur flushing iska typical pattern nahi hai. Yahan postoperative nerve-related complication zyada likely hai.
 
-- **B. Kyun sahi hai:** Frey syndrome mein healing ke baad aberrant autonomic nerve regeneration ki wajah se eating ke time sweat glands activate ho sakti hain. Gustatory sweating aur flushing typical presentation hai.
+- **B. Kyun sahi hai:** Parotid gland ki saliva secretion ko autonomic nerve signals control karte hain. Surgery ke baad kabhi-kabhi healing nerves galat target se connect ho jaati hain, jaise cheek ke sweat glands se. Jab food saliva ka signal trigger karta hai, toh cheek par sweating aur redness aa sakti hai. Isi delayed complication ko Frey syndrome kehte hain. Nurse symptoms document karke appropriate review arrange karegi.
 
-- **C. Kyun galat hai:** Septal perforation nasal crusting, bleeding ya whistling cause kar sakti hai, gustatory cheek sweating nahi.
+- **C. Kyun galat hai:** Nasal septal perforation nose ke internal partition mein hole hota hai. Isse nose mein crusting, bleeding ya whistling ho sakti hai. Ye meals ke time operated cheek sweating ka mechanism nahi hai.
 
-- **D. Kyun galat hai:** Cellulitis persistent erythema, warmth aur tenderness cause kar sakti hai. Sirf eating ke time reproducible sweating Frey syndrome se more consistent hai.
+- **D. Kyun galat hai:** Facial cellulitis skin aur underlying tissue ki infection hai. Ismein redness, warmth, tenderness aur kabhi fever hota hai, jo sirf meals ke time tak limited nahi rehta. Healed wound ke baad meal-triggered sweating Frey syndrome ke pattern se zyada match karti hai.
 
 **Exam clue:** Gustatory sweating after parotid surgery ek delayed autonomic complication ho sakti hai.
 
@@ -278,13 +278,13 @@ Clinical references were retrieved for nasal foreign bodies, nasal trauma, saliv
 
 **Correct answer: C. Report a possible salivary leak or sialocele to the surgical team and assess for complications**
 
-- **A. Kyun galat hai:** Meal-related fluid accumulation ko simply normal postoperative swelling nahi maana chahiye. Document aur report karna important hai.
+- **A. Kyun galat hai:** Clear fluid ka collection meals ke aas-paas badhna salivary leakage ka clue ho sakta hai. Ise automatically normal swelling kehkar handover se omit karne par complication miss ho sakti hai. Nurse finding aur timing document karegi.
 
-- **B. Kyun galat hai:** Independent needle aspiration without authorization infection aur injury risk create kar sakta hai. Management surgical team decide karegi.
+- **B. Kyun galat hai:** Needle se collection drain karna selected cases mein surgical treatment ka hissa ho sakta hai. Lekin nurse bina authorization aur suitable assessment ke needle insert nahi karegi. Isse infection, bleeding ya nearby tissue injury ho sakti hai.
 
-- **C. Kyun sahi hai:** Meal-related clear fluid collection saliva leakage suggest kar sakti hai. Wound, output, pain, fever aur swelling assess karke surgeon ko notify karo. Further management clinical assessment par depend karta hai.
+- **C. Kyun sahi hai:** Surgery ke baad agar saliva gland ya duct se leak hokar skin ke neeche jama ho, toh ise sialocele kaha ja sakta hai. Meals ke time saliva production badhne se collection badh sakta hai. Nurse swelling, wound drainage, pain, fever aur overall condition assess karke surgeon ko notify karegi. Agar swelling rapidly badhe ya breathing problem ho, toh urgent escalation karegi. Surgical team further management decide karegi.
 
-- **D. Kyun galat hai:** Fresh incision par forceful massage tissue injury aur wound disruption cause kar sakti hai. Surgeon ki specific advice ke bina avoid karo.
+- **D. Kyun galat hai:** Fresh incision par forceful massage karne se healing tissue disturb ho sakta hai. Salivary leak ko treat karne ke liye bina surgeon ki advice forceful pressure nahi dena chahiye. Pehle collection ka cause aur safe management plan confirm hona chahiye.
 
 **Exam clue:** Post-parotidectomy meal-related fluid swelling mein salivary leak consider karo, independent invasive management nahi.
 
