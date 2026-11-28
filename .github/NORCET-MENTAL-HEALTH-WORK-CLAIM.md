@@ -1,10 +1,20 @@
 # Dedicated Mental Health Nursing manual claim
 
-State: CLAIMED
-Owner: mental-health-manual-20261128-0430Z
-Scope: Chapters/Mental-Health-Nursing Group 02A psychiatric history and psychosocial assessment new files, chapter-local checkpoint. PR7/8 existing navigation overlap excluded from edits until reconciled.
-Claimed UTC: 2026-11-28T04:30:00Z
-Expiry UTC: 2026-11-28T05:00:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified continuation — Group 02A, 28 November 2026
+
+- Owner mental-health-manual-20261128-0430Z released after chapter-local exact readbacks.
+- History-taking 30 new originals commit 69d7b6226ae4c77d5fc47a7acb4f0787b9a03410, blob 863967c89a8d2c76064b4ab048ae6d875851c292. 30 closed answer blocks, 120 separate correct/distractor reasons, 120 English options, answer distribution A8 B8 C7 D7. Exact normalized stem comparison against 40 prior chapter original/reported stems passed. All new labels currently Medium, independent difficulty/distractor and semantic quality calibration pending.
+- Concepts commit 2dc9b75e5ae2cc6076616d82c419278b4919759b. Original SVG commit 54f798472c06495b0767ac81fd8596a55962e1b7. Reported RRB Q70 adaptation commit 457c56bc00dd8d2ce95392494ee2a1ff53adc410. Source third-party PDF text and page 24 screenshot checked, official key not authenticated.
+- Local research navigation and inventory commit dbb854e5b966df27a3ec7ae1b55a0c275d77e1ae. 64 chapter-local originals (34 prior indexed and 30 new linked from References), 7 reported adaptations, 3 diagrams, 0/1200 mock-exclusive items. README and coverage map still show prior counts because PR7/8 overlap was excluded. Reconcile without losing new material before merging those PRs. Global tracker not changed.
+- Merck and OpenStax direct HTML checked. Two teaching video candidates indexed, direct fetch failed. General NPrep psychiatry MCQ description not specific to history. All 31 dedicated practice-video mappings pending. Official HPRCA and other paper/key matching, broader independent source and semantic audit and rendered UI validation pending.
+- Both SKILL files reviewed in bounded ranges, AGENTS/Copilot fetched and applicable rules reviewed, Respiratory benchmark and prior chapter inventory inspected. Audit learning log fetched and latest applicable excerpts reviewed, complete historical line-by-line reread not certified. All listed work claims and five formal job states checked. PR7 and PR8 overlap older chapter navigation, excluded. PR2,12,28,29 checked for overlaps. Disjoint OBG claim preserved. No schedule changes.
+- Next: Group 02B psychosocial assessment, then Group 02C cognitive screening/MMSE and neurological/diagnostic assessments as separately meaningful packages. Continue topic-first. Mock-exclusive questions only after topic packages. Entire chapter is not complete.
 
 ## Verified chapter-local checkpoint — 2026-11-28
 
