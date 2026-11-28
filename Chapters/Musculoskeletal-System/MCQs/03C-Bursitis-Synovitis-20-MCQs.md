@@ -381,30 +381,30 @@
 
 </details>
 
-### Q14. A patient has an inflamed synovial lining inside a knee joint. How does this differ anatomically from isolated superficial prepatellar bursitis?
+### Q14. A patient with suspected superficial bursitis has diffuse erythema over the elbow, and examination cannot confidently determine whether a distinct fluid collection is present. Which investigation may help distinguish a localized bursal collection from surrounding cellulitis?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Synovitis involves the joint lining, while superficial prepatellar bursitis involves a periarticular sac
-- **B.** Prepatellar bursitis always destroys the intra-articular cartilage immediately
-- **C.** Synovitis is limited to the patellar skin epidermis
-- **D.** Both always involve the same extra-articular fluid sac
+- **A.** Musculoskeletal ultrasound of the symptomatic area
+- **B.** Dual-energy X-ray absorptiometry
+- **C.** Routine chest radiograph
+- **D.** Serum calcium as the sole test
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Synovitis involves the joint lining, while superficial prepatellar bursitis involves a periarticular sac**
+**Correct answer: A. Musculoskeletal ultrasound of the symptomatic area**
 
-**A kyun sahi hai:** Synovitis joint ki synovial membrane ki inflammation hai. Prepatellar bursitis patella ke anterior superficial sac mein hoti hai. Dono pain aur swelling cause kar sakte hain but location different hai.
+**A kyun sahi hai:** Ultrasound superficial bursa ka fluid collection aur surrounding tissue changes visualize kar sakti hai. Clinician examination ke saath findings interpret karta hai aur sampling ki need decide karta hai. Imaging alone infection rule out nahi karti.
 
-**B kyun galat hai:** Superficial bursitis se immediate intra-articular cartilage destruction universal nahi hai. Infection ya other complications evaluate hote hain if clinically suspected.
+**B kyun galat hai:** DXA bone density assess karti hai. Superficial bursa ke fluid aur surrounding soft tissue swelling differentiate karne ke liye yeh targeted investigation nahi hai.
 
-**C kyun galat hai:** Synovial tissue skin epidermis nahi hai. Intra-articular inflammation joint fluid aur mobility affect kar sakti hai.
+**C kyun galat hai:** Chest radiograph thoracic structures assess karti hai. Elbow ki superficial soft tissues ke liye relevant localized imaging chahiye.
 
-**D kyun galat hai:** Synovial membrane joint cavity line karti hai. Superficial bursa separate location par hoti hai, isliye swelling ka anatomical source identify karna useful hai.
+**D kyun galat hai:** Serum calcium metabolic information de sakta hai, but bursal collection aur cellulitis ka anatomical distinction establish nahi karta.
 
-**Exam clue:** Synovitis = joint lining inflammation, superficial bursitis = periarticular sac inflammation.
+**Exam clue:** Ultrasound can help localize fluid when physical examination is limited.
 
-**Clinical reference:** [Merck professional bursitis](https://www.merckmanuals.com/professional/musculoskeletal-and-connective-tissue-disorders/bursa-muscle-and-tendon-disorders/bursitis). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [AAFP common superficial bursitis](https://www.aafp.org/afp/2017/0215/p224). Indexed clinical evidence, independent item-level review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
