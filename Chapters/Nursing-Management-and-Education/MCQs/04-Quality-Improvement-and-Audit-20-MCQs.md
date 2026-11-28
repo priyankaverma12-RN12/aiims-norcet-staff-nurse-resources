@@ -89,26 +89,26 @@
 
 ### Q4. A ward changes its discharge procedure to reduce waiting time. Staff notice that more patients telephone the ward after discharge because instructions were unclear. Which additional measure would best detect this unintended consequence?
 
-**Difficulty:** Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
-- **A.** Number of chairs in the discharge area
-- **B.** Number of patients admitted each year
+- **A.** Median time from discharge decision to departure
+- **B.** Percentage of patients whose discharge checklist is completed
 - **C.** Rate of post-discharge calls related to unclear instructions
-- **D.** Average age of staff members
+- **D.** Percentage of discharge prescriptions prepared before the planned departure time
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Rate of post-discharge calls related to unclear instructions**
 
-**A kyun galat hai:** Chairs infrastructure measure hain. Ye instruction-related problem ko directly track nahi karti.
+**A kyun galat hai:** Yeh discharge speed ke main improvement goal ko measure karta hai. Instructions unclear hone ke baad patient ko call karna pada ya nahi, yeh is measure se directly pata nahi chalta.
 
-**B kyun galat hai:** Annual admissions general service volume batate hain. Unclear discharge instructions detect karne ke liye specific call data chahiye.
+**B kyun galat hai:** Checklist completion process adherence ka indicator hai. Checklist complete hone ke baad bhi patient instructions samajh nahi paaya ho sakta hai.
 
-**C kyun sahi hai:** Balancing measure check karta hai ki ek improvement ke chakkar mein doosri problem toh nahi badh rahi. Unclear instructions ke related calls monitor karne se discharge speed ke possible negative effect ka pata chalega.
+**C kyun sahi hai:** Balancing measure se pata chalta hai ki discharge jaldi karne ki koshish se doosri problem toh nahi badhi. Unclear instructions ke related calls ko comparable discharge denominator ke saath track karna described unintended effect ka direct indicator hai.
 
-**D kyun galat hai:** Staff age workforce characteristic hai. Isse new discharge process ke unintended communication effect ka direct measurement nahi hota.
+**D kyun galat hai:** Prescription readiness discharge workflow ka useful process measure hai. Lekin instructions samajh na aane ke karan badhne wali calls ko yeh directly capture nahi karta.
 
-**Reference:** [Quality improvement resources](https://www.ihi.org/library/tools/quality-improvement-essentials-toolkit) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing)
+**Reference:** [Quality improvement resources](https://www.ihi.org/library/tools/quality-improvement-essentials-toolkit) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing) · [IHI establishing measures](https://www.ihi.org/library/model-for-improvement/establishing-measures)
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -197,7 +197,7 @@
 
 ### Q8. A pilot intervention improved documentation accuracy but increased completion time substantially. After analysing the findings, the team decides to simplify the form and run another test. Which PDSA phase is reflected in this decision?
 
-**Difficulty:** Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
 - **A.** Study only
 - **B.** Act
@@ -335,21 +335,21 @@
 **Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
 - **A.** Control limit calculation
-- **B.** Employee appraisal score
+- **B.** Pareto chart of recorded delay reasons
 - **C.** Process map
-- **D.** Medication expenditure matrix
+- **D.** Cause-and-effect diagram of suspected delay factors
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: C. Process map**
 
-**A kyun galat hai:** Control limits time-series variation assess karte hain. Workflow steps clear hone se pehle ye sequence problem directly solve nahi karenge.
+**A kyun galat hai:** Control chart time ke saath variation assess karta hai. Yeh current workflow ke steps aur handoffs ko directly map nahi karta.
 
-**B kyun galat hai:** Employee appraisal individual performance measure karti hai. Admission workflow multiple roles involve karta hai.
+**B kyun galat hai:** Pareto chart recorded delay categories ko frequency ya impact ke hisaab se prioritize kar sakta hai. Jab actual work sequence hi unclear hai, pehle us sequence ko samajhna zaroori hai.
 
-**C kyun sahi hai:** Process map current workflow ke steps, decisions aur handoffs ko visually show karta hai. Team compare kar sakti hai actual practice mein delay kahan develop hota hai.
+**C kyun sahi hai:** Process map se team actual workflow ke steps, decisions aur handoffs ko ek shared representation mein dekh sakti hai. Isse inconsistent descriptions ko clarify karke delay ke possible points investigate kiye ja sakte hain.
 
-**D kyun galat hai:** Expenditure matrix supply cost priorities describe karti hai. Admission process ke handoffs identify nahi karti.
+**D kyun galat hai:** Cause-and-effect diagram suspected contributing factors ko organize karta hai. Lekin yeh apne aap current work sequence aur har handoff ko establish nahi karta.
 
 **Reference:** [Quality improvement resources](https://www.ihi.org/library/tools/quality-improvement-essentials-toolkit) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing)
 
@@ -359,7 +359,7 @@
 
 ### Q14. A clinical audit standard requires 95% compliance with a defined documentation criterion. The audit finds 171 compliant records among 180 eligible records. How should this result be interpreted?
 
-**Difficulty:** Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
+**Difficulty:** Easy | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
 - **A.** Compliance is 95%, meeting the stated standard
 - **B.** Compliance is 90%, below the standard
@@ -440,26 +440,26 @@
 
 ### Q17. Two wards compare infection rates, but one includes only laboratory-confirmed events while the other includes suspected events. What is the key measurement problem?
 
-**Difficulty:** Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
-- **A.** The wards must have identical patient ages before any audit
-- **B.** A larger numerator always proves poorer nursing care
-- **C.** Case definitions do not affect quality indicators
+- **A.** Adjust the rates for patient age without harmonizing event inclusion criteria
+- **B.** Express both rates per 1,000 patient-days without changing their event definitions
+- **C.** Increase the observation periods while keeping the existing event definitions
 - **D.** Different operational case definitions undermine comparability
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Different operational case definitions undermine comparability**
 
-**A kyun galat hai:** Patient age aur case mix comparison affect kar sakte hain, lekin described primary issue case definition mismatch hai. Identical ages universal requirement nahi hai.
+**A kyun galat hai:** Case-mix adjustment useful ho sakta hai, lekin isse suspected aur laboratory-confirmed events ki differing inclusion criteria automatically equal nahi ho jaati.
 
-**B kyun galat hai:** Large numerator exposure, case mix aur detection differences se bhi affect ho sakta hai. Isliye raw count se care quality automatically judge nahi karni chahiye.
+**B kyun galat hai:** Same denominator scale exposure comparison improve karti hai. Agar counted event ki definition alag rahegi, toh per 1,000 patient-days report karne par bhi numerator comparable nahi hoga.
 
-**C kyun galat hai:** Case definition decide karti hai kaunse events indicator mein include honge. Different definitions comparison distort kar sakti hain.
+**C kyun galat hai:** Lambi observation period se zyada data mil sakta hai. Lekin inconsistent event definitions ki systematic problem sirf zyada data collect karne se solve nahi hoti.
 
-**D kyun sahi hai:** Operational definition batati hai kaunsa event count hoga. Different criteria se rates directly comparable nahi rehte, isliye consistent definition aur appropriate denominators chahiye.
+**D kyun sahi hai:** Operational definition decide karti hai ki kaunsa event count hoga. Comparable rates ke liye common case definition, compatible denominator aur appropriate case-mix interpretation chahiye.
 
-**Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing)
+**Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing) · [IHI establishing measures](https://www.ihi.org/library/model-for-improvement/establishing-measures)
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -467,26 +467,26 @@
 
 ### Q18. A quality team wishes to determine whether a sustained change is likely to reflect more than ordinary process variation. It has an appropriate time series and wishes to use statistically derived limits. Which tool is best suited?
 
-**Difficulty:** Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
 - **A.** Control chart
-- **B.** Simple organizational chart
+- **B.** Run chart with a baseline median only
 - **C.** Fishbone diagram
-- **D.** Unordered frequency table
+- **D.** Pareto chart of event categories
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: A. Control chart**
 
-**A kyun sahi hai:** Control chart time-ordered measurements ke saath statistically derived control limits use karta hai. Appropriate chart type aur interpretation se unusual variation identify karne mein madad milti hai.
+**A kyun sahi hai:** Control chart time-ordered measurements ke saath statistically derived control limits use karta hai. Suitable chart type aur correct interpretation se ordinary variation aur unusual signals ko distinguish karne mein help milti hai.
 
-**B kyun galat hai:** Organizational chart reporting relationships display karta hai. Process variation ke limits calculate nahi karta.
+**B kyun galat hai:** Run chart time trend aur median-based patterns dikhata hai. Lekin median-only run chart mein question ke specified statistically derived control limits nahi hote.
 
-**C kyun galat hai:** Fishbone diagram possible causes organize karta hai. Statistical change assess karne ke liye time-series chart chahiye.
+**C kyun galat hai:** Fishbone diagram possible causes organize karne ke liye useful hai. Yeh process ke statistical limits ya time-series signals assess nahi karta.
 
-**D kyun galat hai:** Unordered frequency table time sequence remove kar deti hai. Sustained change assess karne ke liye time order important hai.
+**D kyun galat hai:** Pareto chart event categories ko frequency ya impact ke hisaab se rank karta hai. Yeh control limits ke saath time-series variation analyse karne ka tool nahi hai.
 
-**Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing)
+**Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing) · [IHI control chart course](https://www.ihi.org/learn/courses/creating-and-analyzing-control-charts)
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -521,26 +521,26 @@
 
 ### Q20. A team reports that handover compliance increased after an intervention, but data collection stopped immediately after the first favourable week. Which action is most important to assess sustainability?
 
-**Difficulty:** Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
+**Difficulty:** Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Quality improvement and audit | **Exam focus:** NORCET / Indian Nursing Officer original practice
 
-- **A.** Declare permanent improvement from the first favourable week
+- **A.** Repeat the measurement once at a convenient later date and use that alone as evidence of sustainability
 - **B.** Continue comparable measurements over an appropriate follow-up period
-- **C.** Stop collecting all process data once the target is reached
-- **D.** Change the indicator definition at every measurement
+- **C.** Monitor only attendance at handover training sessions during follow-up
+- **D.** Replace the compliance indicator with a satisfaction survey during follow-up
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: B. Continue comparable measurements over an appropriate follow-up period**
 
-**A kyun galat hai:** First favourable week se permanent change prove nahi hota. Repeated measurement stronger evidence dega.
+**A kyun galat hai:** Ek later observation se kuch information mil sakti hai, lekin time ke saath performance ka pattern establish nahi hota. Repeated comparable observations zyada useful hain.
 
-**B kyun sahi hai:** Sustainability check karne ke liye team ko time ke saath consistent data collect karna chahiye. Ek favourable week random variation ya short-term attention se bhi aa sakta hai.
+**B kyun sahi hai:** Sustainability assess karne ke liye team ko consistent operational definition aur suitable frequency ke saath follow-up data collect karna chahiye. Ek favourable week short-term attention ya ordinary variation ka result bhi ho sakta hai.
 
-**C kyun galat hai:** Target reach karne ke baad bhi monitoring se decline identify ho sakta hai. All data collection stop karne se sustained performance unknown rahegi.
+**C kyun galat hai:** Training attendance implementation ka useful process indicator hai. Lekin attendance se actual handover compliance maintain hone ka direct evidence nahi milta.
 
-**D kyun galat hai:** Indicator definition baar-baar change karne se time comparison unreliable ho jaata hai. Consistent definition maintain karni chahiye.
+**D kyun galat hai:** Satisfaction survey ek additional outcome ho sakta hai. Lekin original compliance measure ko replace karne se baseline aur follow-up ki direct comparability lose ho jaati hai.
 
-**Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing)
+**Reference:** [Quality improvement resources](https://www.hqip.org.uk/guidance/guide-to-quality-improvement-methods/) · [OpenStax nursing quality improvement](https://openstax.org/books/fundamentals-nursing/pages/15-3-quality-improvement-in-nursing) · [IHI establishing measures](https://www.ihi.org/library/model-for-improvement/establishing-measures)
 
 **YouTube MCQ practice:** Verification pending.
 
