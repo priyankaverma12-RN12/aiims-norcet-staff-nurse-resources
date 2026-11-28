@@ -4,30 +4,30 @@
 
 [Chapter](../README.md) · [Batch 02 checkpoint](../Batch-02-Review-Checkpoint.md)
 
-### Q01. An 80-kg adult has a specific prescription allowing no more than 25% of body weight through the recovering leg. During therapist-directed static scale training, what approximate scale reading corresponds to that prescribed maximum?
+### Q01. Following lower-limb fracture fixation, an adult correctly reproduces the prescribed partial load during stationary scale practice, but the therapist suspects excessive loading during walking. Which additional assessment method most directly evaluates the loading problem during actual gait?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** 40 kg
-- **B.** 20 kg
-- **C.** 60 kg
-- **D.** 80 kg
+- **A.** Repeat only the stationary scale measurement after each rest period
+- **B.** Use therapist-directed dynamic load measurement, such as a validated instrumented insole with real-time feedback where available
+- **C.** Calculate the prescribed percentage again from body weight without assessing gait
+- **D.** Infer exact affected-limb loading from the number of steps walked
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. 20 kg**
+**Correct answer: B. Use therapist-directed dynamic load measurement, such as a validated instrumented insole with real-time feedback where available**
 
-**A kyun galat hai:** 40 kg body weight ka 50% hai. Yeh 25% restriction se double loading represent karega.
+**A kyun galat hai:** Stationary scale practice se patient ko prescribed load ka feel samajh aa sakta hai. Lekin walking ke dauran actual load change hota hai, isliye repeated static reading dynamic problem ko directly measure nahi karti.
 
-**B kyun sahi hai:** 80 × 0.25 = 20 kg. Static scale practice patient ko prescribed load ka feel samajhne mein help kar sakti hai, lekin walking mein dynamic force alag ho sakta hai. Therapist gait assess karta hai.
+**B kyun sahi hai:** Instrumented insole jaisa suitable validated system walking ke dauran load measure kar sakta hai aur excessive loading par feedback de sakta hai. Therapist is information ko supervised gait assessment mein use karke training adjust kar sakta hai. Biofeedback se har patient ki perfect adherence guarantee nahi hoti, aur surgeon ki loading restriction independently change nahi karni chahiye.
 
-**C kyun galat hai:** 60 kg body weight ka 75% hai. Yeh prescribed limit exceed karega.
+**C kyun galat hai:** Percentage calculation se prescribed target milta hai, actual walking load nahi. Agar patient stationary target samajh bhi gaya hai, tab bhi gait ke dauran us target ko follow karne ki ability alag se assess karni padti hai.
 
-**D kyun galat hai:** 80 kg full body weight represent karta hai. Partial restriction ko full weight bearing nahi samajhna chahiye.
+**D kyun galat hai:** Step count walking ki quantity batata hai. Har step mein affected limb par kitna load gaya, yeh step count se accurately determine nahi hota.
 
-**Exam clue:** A stated percentage can be converted to a static target, but dynamic gait still needs assessment.
+**Exam clue:** Static load target aur actual dynamic gait load alag measurements hain. Therapist-directed real-time feedback dynamic assessment mein help kar sakta hai.
 
-**Clinical reference:** [Cleveland Clinic crutches](https://my.clevelandclinic.org/health/treatments/15543-how-to-use-crutches). Indexed clinical evidence, independent item-level verification pending.
+**Clinical reference:** [The Impact of Real-Time Biofeedback on Partial Weightbearing Training: A Comparative Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11872552/) and [Audio-biofeedback versus the scale method in healthy older adults, randomized trial](https://pubmed.ncbi.nlm.nih.gov/39154064/). Research evidence, not a universal equipment requirement.
 
 **YouTube MCQ practice:** Verification pending.
 
