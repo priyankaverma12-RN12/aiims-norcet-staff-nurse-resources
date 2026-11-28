@@ -497,30 +497,30 @@
 
 </details>
 
-### Q18. A patient with a recent amputation has poor oral intake and a slowly healing wound. Which nursing action best addresses a modifiable recovery barrier?
+### Q18. After a major amputation for ischemic disease, the nurse observes that the previously pink incision-edge skin has become dusky and cool. What is the most appropriate interpretation?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Assess nutritional intake and arrange individualized dietetic support for healing needs
-- **B.** Recommend a protein-free diet regardless of health status
-- **C.** Replace all meals with sugary drinks
-- **D.** Assume the patient's weight alone proves nutritional adequacy
+- **A.** The color change proves normal wound maturation
+- **B.** Possible compromised tissue perfusion requires prompt surgical assessment
+- **C.** The incision should be exposed to a heating pad to restore viability
+- **D.** The finding is irrelevant if the patient has no fever
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Assess nutritional intake and arrange individualized dietetic support for healing needs**
+**Correct answer: B. Possible compromised tissue perfusion requires prompt surgical assessment**
 
-**A kyun sahi hai:** Energy aur protein intake tissue repair support karte hain. Dietitian patient ki renal function, diabetes aur other conditions ke according nutrition plan tailor kar sakta hai.
+**A kyun galat hai:** Wound maturation ke dauran appearance change ho sakta hai, lekin new dusky cool tissue perfusion compromise ka concern hai. Isko normal assume nahi karna chahiye.
 
-**B kyun galat hai:** Protein wound healing mein important hai. Restriction sirf specific clinical indication aur clinician-directed plan par based honi chahiye.
+**B kyun sahi hai:** Surgical flap healing ke liye adequate perfusion zaroori hai. New duskiness aur coolness objective warning signs hain, especially dysvascular patient mein. Nurse promptly assessment aur surgical review arrange karti hai.
 
-**C kyun galat hai:** Sugary drinks balanced nutrition provide nahi karti aur glucose management worsen kar sakti hain.
+**C kyun galat hai:** External heat arterial perfusion defect reliably correct nahi karti aur impaired sensation mein burns cause kar sakti hai.
 
-**D kyun galat hai:** Body weight normal ya high hone par bhi inadequate intake aur malnutrition possible hain. Actual intake aur clinical assessment zaroori hai.
+**D kyun galat hai:** Fever infection ka ek possible sign hai. Ischemia fever ke bina bhi develop ho sakti hai, isliye skin perfusion finding independently important hai.
 
-**Exam clue:** Wound healing mein nutrition assessment individualized honi chahiye.
+**Exam clue:** Amputation incision-edge viability ko color, warmth aur clinical findings se monitor karo.
 
-**Clinical reference:** [Society for Vascular Surgery: amputations](https://vascular.org/pmg/vascular-conditions/amputations). Retrieved relevant text.
+**Clinical reference:** [VA/DoD amputation guideline and Society for Vascular Surgery](https://vascular.org/pmg/vascular-conditions/amputations). Source indexed, full independent item-level review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -555,30 +555,30 @@
 
 </details>
 
-### Q20. A patient is medically stable after major amputation but lives alone and cannot yet perform safe toilet transfers. Which discharge decision best addresses this finding?
+### Q20. A patient with life-threatening infected lower-limb tissue requires urgent source-control surgery. Which factor distinguishes an urgent amputation pathway from elective rehabilitation planning?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Discharge independently because the incision is closed
-- **B.** Assume a prosthesis will immediately solve all transfer problems
-- **C.** Arrange only a routine wound appointment without functional assessment
-- **D.** Coordinate a safe rehabilitation or supported discharge plan based on current transfer ability and home needs
+- **A.** All rehabilitation assessments must be completed before any urgent operation
+- **B.** Severe systemic infection can require prompt surgery before full elective optimization is possible
+- **C.** A permanent prosthesis must be selected before removing infected tissue
+- **D.** Surgery should wait for complete normalization of every chronic condition
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Coordinate a safe rehabilitation or supported discharge plan based on current transfer ability and home needs**
+**Correct answer: B. Severe systemic infection can require prompt surgery before full elective optimization is possible**
 
-**A kyun galat hai:** Wound closure alone safe independent discharge establish nahi karti. Function aur environment bhi assess hote hain.
+**A kyun galat hai:** Elective planning useful hai, lekin life-threatening infection mein delay harm kar sakta hai. Immediate medical aur surgical priorities pehle address hoti hain.
 
-**B kyun galat hai:** Prosthetic use readiness, training aur fit par depend karti hai. Transfer safety ka immediate substitute nahi hai.
+**B kyun sahi hai:** Sepsis ya uncontrolled infected nonviable tissue mein source control time-sensitive ho sakta hai. Stabilization aur urgent surgery parallel clinical plan ke according hoti hain, rehabilitation planning baad mein continue hoti hai.
 
-**C kyun galat hai:** Wound follow-up important hai, lekin unsafe transfers aur home support needs address nahi hoti.
+**C kyun galat hai:** Definitive prosthesis wound healing aur later function assessment ke baad plan ho sakti hai. Is selection ko emergency surgery ki prerequisite nahi banate.
 
-**D kyun sahi hai:** Multidisciplinary plan current mobility, equipment, caregiver availability aur home access consider karta hai. Appropriate rehabilitation ya supported setting patient safety improve kar sakti hai.
+**D kyun galat hai:** Every chronic condition ka complete normalization possible ya appropriate nahi hota jab infection life-threatening ho. Risk-benefit aur urgency specialist team decide karti hai.
 
-**Exam clue:** Discharge readiness mein current functional safety wound status jitni important hai.
+**Exam clue:** Emergency source control ko elective optimization se differentiate karo.
 
-**Clinical reference:** [VA/DoD lower limb amputation guideline](https://healthquality.va.gov/HEALTHQUALITY/guidelines/rehab/amp/index.asp). Retrieved guideline landing page and indexed recommendations, individual recommendation check pending.
+**Clinical reference:** [Society for Vascular Surgery: amputations](https://vascular.org/pmg/vascular-conditions/amputations). Source indexed, full independent item-level review pending.
 
 **YouTube MCQ practice:** Verification pending.
 
