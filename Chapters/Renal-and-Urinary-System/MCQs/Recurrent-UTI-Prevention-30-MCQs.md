@@ -2,7 +2,7 @@
 
 **Draft candidate, not yet studied or released.** Original English practice, not official Previous Year Questions. Clinical and exhaustive semantic review, source-specific verification and navigation integration remain pending. Prescribing decisions belong to authorized clinicians and local protocols.
 
-[Chapter](../README.md)
+[Chapter](../README.md) · [Concepts](../Concepts/Recurrent-UTI-Prevention.md) · [Evidence](../Previous-Year-Questions/Recurrent-UTI-Prevention-Evidence.md)
 
 ### Q1. A woman has culture-supported symptomatic cystitis in January and April of the same year, with complete recovery between episodes. Which preventive assessment is appropriate?
 
@@ -445,18 +445,18 @@
 
 - **A.** Benefit is not guaranteed
 - **B.** Product formulations differ
-- **C.** Cranberry reliably cures every established bacterial infection
+- **C.** Cranberry can replace indicated antibacterial treatment for a new symptomatic infection
 - **D.** New symptoms still require assessment
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Cranberry reliably cures every established bacterial infection**
+**Correct answer: C. Cranberry can replace indicated antibacterial treatment for a new symptomatic infection**
 
 **A. Kyun galat hai:** Prevention ka benefit individual patient mein guaranteed nahi hai.
 
 **B. Kyun galat hai:** Juice aur capsules mein active constituents aur formulation vary kar sakte hain.
 
-**C. Kyun sahi hai:** Cranberry preventive option ho sakta hai, lekin established bacterial infection ka reliable treatment nahi hai. Isliye is claim ko correct karna chahiye.
+**C. Kyun sahi hai:** Cranberry selected patients mein future recurrence kam karne ka preventive option ho sakta hai. Lekin jab symptomatic bacterial infection develop ho jaaye, toh clinical assessment aur indicated antibacterial treatment ki zaroorat ho sakti hai. Prevention aur active infection treatment ko ek hi decision mat samjho.
 
 **D. Kyun galat hai:** Naye symptoms ka assessment zaroori hai, kyunki prevention ke bawajood infection ho sakti hai.
 
@@ -692,7 +692,7 @@
 
 **D. Kyun galat hai:** Persistent symptoms resistant infection ya alternative diagnosis indicate kar sakte hain. Unsupervised repeated courses ki jagah clinical reassessment chahiye.
 
-**Clinical reference:** [Guidance](https://www.nice.org.uk/guidance/ng112/chapter/recommendations).
+**Clinical reference:** [EAU recurrent cystitis guidance](https://uroweb.org/guidelines/urological-infections/chapter/the-guideline).
 
 **YouTube MCQ practice:** Verification pending for this item.
 
@@ -750,7 +750,7 @@
 
 **D. Kyun galat hai:** CT stones ya obstruction jaise specific concerns mein useful ho sakta hai. Har resolved lower episode ke baad repeat CT unnecessary radiation aur cost badha sakta hai.
 
-**Clinical reference:** [Guidance](https://www.auanews.net/issues/articles/2025/october-2025/updates-to-the-aua/cua/sufu-guideline-on-recurrent-uncomplicated-urinary-tract-infections-in-women).
+**Clinical reference:** [AUA 2025 guideline](https://www.auanet.org/guidelines-and-quality/guidelines/recurrent-uti).
 
 **YouTube MCQ practice:** Verification pending for this item.
 
@@ -860,7 +860,7 @@
 
 **A. Kyun galat hai:** Lower recurrence benefit hai, lekin distressing adverse effects earlier review justify kar sakte hain. Patient ko scheduled interval tak har haal mein continue karne ko nahi kehna chahiye.
 
-**B. Kyun sahi hai:** Shared decision mein patient ki priorities aur treatment harms ko consider karte hain. Clinician ke saath safer alternatives ya stopping plan discuss kiya ja sakta hai.
+**B. Kyun sahi hai:** Shared decision mein patient ki priorities aur treatment harms ko consider karte hain. Clinician ke saath safer alternatives ya stopping plan discuss kiya ja sakta hai. Agar suspected adverse reaction severe ho, toh scheduled review ka wait nahi karna chahiye aur urgent assessment ke liye local protocol follow karna chahiye.
 
 **C. Kyun galat hai:** Alternative option useful ho sakta hai, lekin nature aur severity of adverse effect, contraindications aur patient preferences assess karke clinician ko choice karni chahiye.
 
