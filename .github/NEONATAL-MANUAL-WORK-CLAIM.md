@@ -1,10 +1,10 @@
 # Neonatal Nursing manual chapter claim
 
-State: CLAIMED
-Owner: neonatal-b06-20261128T1736Z
-Scope: Isolated PR57 assessment and thermal Easy supplements, neonatal transport and opioid withdrawal; no shared navigation or existing banks
-Claimed UTC: 2026-11-28T17:36:00Z
-Expiry UTC: 2026-11-28T18:06:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Verified released checkpoint — 2026-11-28
 
@@ -43,3 +43,11 @@ Remaining: 460 new topic originals, then ten separate 120-question original-only
 - Candidate totals: 440 originals, 1760 rationales, 22 banks/guides/diagrams/evidence registers. Normalized stem comparison across 440 authored and four legacy starters found no duplicates; structural validation passed. New difficulty 35/35/30; cumulative 141/162/137. All new files exact-readback verified. 60 topic originals remaining before ten exclusive 120-question mocks. Zero live credit.
 - Prior CI 46153684468 failed website browser icon-height assertion at browser-smoke.py line 549. No exact-head CI run found at check; PR7/8 clearance not found. No shared website/test changes. Independent clinical/difficulty, semantic, distractor, source/video/curriculum, render and preflight gates remain.
 - TEF already covered in PR45; duodenal obstruction/volvulus authored instead. Next: 60 genuinely distinct questions addressing earlier Easy deficits and remaining verified neonatal competencies, then coverage certification and original-only mocks. Preserve other jobs, learner history and five hourly schedules.
+
+## Released checkpoint — 2026-11-28 batch 06
+- Released owner: neonatal-b06-20261128T1736Z
+- Draft PR57 head: d06eed1e3b4dbb4fbc41d865a081d036ad2a3254
+- Added 60 originals, 240 individual Roman Hinglish rationales, four guides, four SVGs, four evidence registers and curriculum-mapped inventory. 17 additive chapter-only files, 17 content commits, earlier paths unchanged.
+- Candidate: 500 originals, 2000 rationales, 26 banks/guides/diagrams/evidence registers. New difficulty 34/14/12, cumulative 175/176/149. New structural and normalized stem comparison against 440 prior originals and four starters passed. Numerical target achieved; full INC coverage not certified. Zero newly live MCQs or mocks.
+- CI 46171965200 pending; prior 46155747158 failed same website icon-height assertion as 46153684468. PR7/8 clearance not found. Shared website/tests unchanged. Independent clinical/difficulty, semantic, source/video/curriculum, render and preflight gates remain.
+- Next: use Batch 06 curriculum map to resolve actual residual competencies including neonatal tetanus, HIV-exposed newborn, Rh disease, safe sleep/compassionate care and remaining gaps after adjacent-bank screening, then certify coverage and create two original-exclusive 120-item mocks per run (40/40/40). Preserve all 500 and other jobs, learner history and five hourly schedules.
