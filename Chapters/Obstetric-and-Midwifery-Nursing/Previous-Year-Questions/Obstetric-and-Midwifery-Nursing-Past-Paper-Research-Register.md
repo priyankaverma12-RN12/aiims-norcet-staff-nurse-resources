@@ -69,3 +69,7 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Fetal movements — 28 November 2026
 
 [HSSC Staff Nurse 2019 reported quickening-timing adaptation](06A-Fetal-Movements-Reported-Evidence.md). Retrieved third-party question, official paper/key not authenticated. RRB, UP NHM and HSSC related terminology leads not allocated again. Current obstetric reported total 19. One provisional quickening MCQ topic mapping, 19 specific mapping gaps and 20 exact playback gaps.
+
+## Fetal heart rate — 28 November 2026
+
+[ESIC Staff Nurse 26 February 2019 Shift III reported range adaptation](06B-Fetal-Heart-Rate-Reported-Evidence.md). Retrieved third-party key 120–160 is distinguished from current NICE 110–160. Official key pending. Combined Obstetrics reported inventory: 20. KPSC and UP NHM related range leads are not counted again.
