@@ -16,7 +16,7 @@ function updateRoutine(d,p,items,answers,day=localDay()){
  if(changed){bank.total=items.length;bank.last=day;d.banks[p]=bank;(d.days[day]||={})[p]=[...ids];for(const date of Object.keys(d.days))if(date<offsetDay(day,-34))delete d.days[date]}
  return {changed,before,after:routineCount(d,day),goal:d.goal};
 }
-function recordRoutine(p,items,answers){const d=loadRoutine(),result=updateRoutine(d,p,items,answers);return {...result,saved:!result.changed||saveRoutine(d)}}
+function recordRoutine(p,items,answers){const d=loadRoutine(),result=updateRoutine(d,p,items,answers);const saved=!result.changed||saveRoutine(d);if(result.changed&&saved&&typeof document!=='undefined')document.dispatchEvent(new CustomEvent('study-progress-change'));return {...result,saved}}
 function bankProgress(d,p,day=localDay()){const b=d.banks[p];if(!b)return {checked:0,total:0,due:0};const entries=Object.values(b.questions||{});return {checked:entries.length,total:b.total,due:entries.filter(x=>x.due<=day).length,last:b.last}}
 function quickItems(d,p,items,mode,day=localDay()){
  const seen=d.banks[p]?.questions||{},due=[],fresh=[],later=[];
@@ -40,6 +40,6 @@ function drawRoutine(data){
  if(next){const card=node('a',undefined,'daily-action primary-daily');card.href=route(next)+'&session=quick';card.append(node('strong','Quick 5-question practice'),node('span',knownTitle(next)),node('small','Untimed · Original explanations →'));actions.append(card)}
  if(due.length){const p=due[0],card=node('a',undefined,'daily-action');card.href=route(p)+'&session=review';card.append(node('strong','Revise questions due'),node('span',knownTitle(p)),node('small',due.reduce((n,p)=>n+bankProgress(d,p).due,0)+' due across '+due.length+' banks →'));actions.append(card)}
  else{const card=node('a',undefined,'daily-action');card.href='#bookmarks';card.append(node('strong','Review saved questions'),node('span','Revisit your bookmarks'),node('small','No scheduled revision due from tracked banks'));actions.append(card)}
- panel.append(actions,node('p','Progress stays on this browser. A question counts once per bank each day. Revision intervals are 1 day after an incorrect answer and 3 days after a correct answer.','daily-note'));
+ const progressLink=node('a','View my chapter and topic progress →','daily-progress-link');progressLink.href='./?progress=1';panel.append(actions,progressLink,node('p','Progress stays on this browser. A question counts once per bank each day. Revision intervals are 1 day after an incorrect answer and 3 days after a correct answer.','daily-note'));
 }
 if(typeof module!=='undefined')module.exports={localDay,offsetDay,emptyRoutine,routineCount,updateRoutine,bankProgress,quickItems,practiceKey};
