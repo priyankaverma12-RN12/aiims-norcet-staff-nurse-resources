@@ -51,7 +51,7 @@ with sync_playwright() as p:
             raise AssertionError("Published JSON does not exactly match deployment snapshot: "+filename)
         print("Published JSON exact readback:",filename,flush=True)
     # Compare public versioned assets with the exact checked-out deployment bytes.
-    asset_versions={"styles.css":"12.1","app.js":"12.1","progress.js":"12.2","routine.js":"12.0","study-ui.js":"12.2","quiz.js":"11.9","media.js":"11.9.2","favicon.svg":"1"}
+    asset_versions={"styles.css":"12.3","app.js":"12.3","progress.js":"12.2","routine.js":"12.0","study-ui.js":"12.2","quiz.js":"12.3","media.js":"11.9.2","favicon.svg":"1"}
     for filename,version in asset_versions.items():
         response=api.get(urljoin(base,filename)+"?v="+version+"&build="+commit,headers={"Cache-Control":"no-cache"})
         assert response.ok and response.body()==(site/filename).read_bytes(), f"Published asset differs: {filename}"
@@ -330,6 +330,8 @@ with sync_playwright() as p:
         if theory:
             go({"doc":theory[0]})
             ready()
+            if width<=600:
+                page.locator("#reader-panel-toggle-0").click()
             expect(page.locator("#sections a[data-study-section=Concepts] [data-role=theory-count]")).to_be_visible()
             expect(page.locator("#resource-subtitle [data-role=theory-count]")).to_have_text("1 theory topic · 0 done")
             page.locator("#reader-completion input[type=checkbox]").check()
@@ -357,14 +359,15 @@ with sync_playwright() as p:
             expect(page.locator(".index-resource-group[open]")).to_have_count(1)
             expect(group.locator(".index-link-list")).to_be_visible()
             summary.click()
-        for selector in ("#original-index > summary",".outline-card > summary"):
+        outline_control="#reader-panel-toggle-1" if width<=600 else ".outline-card > summary"
+        for selector in ("#original-index > summary",outline_control):
             assert page.locator(selector).bounding_box()["height"]>=44
         print(f"Published V11.8 closed and isolated folders and 44px targets passed at {width}x{height}.",flush=True)
         if width<600:
             expect(page.locator(".outline-card")).not_to_have_attribute("open","")
-            page.locator(".outline-card summary").click()
+            page.locator("#reader-panel-toggle-1").click()
             expect(page.locator(".outline-card")).to_have_attribute("open","")
-            page.locator(".outline-card summary").click()
+            page.locator("#reader-panel-toggle-1").click()
         page.locator("#original-index > summary").click()
         expect(page.locator("#original-index")).to_have_attribute("open","")
         assert page.locator("#original-index a[href]").count()>0
@@ -565,29 +568,52 @@ with sync_playwright() as p:
         go({"doc":sample})
         ready()
         expect(page.locator("#library-link")).to_have_attribute("aria-current","page")
-        for panel_id,inside in (("#reader-sections-panel","#sections"),("#reading-tools-panel","#reading-size")):
-            panel=page.locator(panel_id)
-            summary=panel.locator(":scope > summary")
-            assert summary.bounding_box()["height"]>=44
-            summary.click()
-            expect(page.locator(inside)).to_be_hidden()
-            expect(page.locator(".quiz-panel")).to_be_visible()
-            summary.click()
-            expect(page.locator(inside)).to_be_visible()
-            fit()
-        print(f"V12 live reader and progress disclosures passed at {width}x{height}.",flush=True)
+        if width<=600:
+            for i,panel_id in enumerate(("#reader-sections-panel","#reader-outline-panel","#reading-tools-panel")):
+                icon=page.locator(f"#reader-panel-toggle-{i}")
+                expect(icon).to_have_attribute("aria-expanded","false")
+                expect(page.locator(panel_id)).to_be_hidden()
+                assert icon.bounding_box()["height"]>=44
+                icon.click()
+                expect(page.locator(panel_id)).to_be_visible()
+                icon.click()
+                expect(page.locator(panel_id)).to_be_hidden()
+            expect(page.locator(".practice-intro")).to_be_hidden()
+            expect(page.locator(".mobile-bank-context")).not_to_have_attribute("open","")
+            assert page.locator(".mobile-bank-context + h3").bounding_box()["y"]<height
+            page.locator("#reader-panel-toggle-2").click()
+        else:
+            for panel_id,inside in (("#reader-sections-panel","#sections"),("#reading-tools-panel","#reading-size")):
+                panel=page.locator(panel_id)
+                summary=panel.locator(":scope > summary")
+                assert summary.bounding_box()["height"]>=44
+                summary.click()
+                expect(page.locator(inside)).to_be_hidden()
+                summary.click()
+                expect(page.locator(inside)).to_be_visible()
         page.locator("#reading-size").select_option("large")
         expect(page.locator("body")).to_have_attribute("data-reading-size","large")
         page.locator("#focus-study").click()
         expect(page.locator("#reader-aside")).not_to_be_visible()
         expect(page.locator("#focus-study")).to_have_attribute("aria-pressed","true")
         page.keyboard.press("Escape")
-        expect(page.locator("#reader-aside")).to_be_visible()
+        expect(page.locator("#focus-study")).to_have_attribute("aria-pressed","false")
+        if width>600:
+            expect(page.locator("#reader-aside")).to_be_visible()
+        else:
+            expect(page.locator("#reader-panel-toggle-2")).to_be_visible()
         page.reload()
         ready()
+        if width<=600:
+            expect(page.locator("#reading-tools-panel")).to_be_hidden()
+            page.locator("#reader-panel-toggle-2").click()
         expect(page.locator("#reading-size")).to_have_value("large")
         page.locator("#reading-size").select_option("normal")
-        expect(page.locator(".study-mode-guide")).to_be_visible()
+        if width<=600:
+            page.locator("#reader-panel-toggle-2").click()
+            expect(page.locator(".study-mode-guide")).to_be_hidden()
+        else:
+            expect(page.locator(".study-mode-guide")).to_be_visible()
         fit()
         print(f"V11 home, library, chapter tabs, reader controls, practice, metrics and progress polish passed at {width}x{height}.",flush=True)
         # Cross-tab completion and saved question practice with real source.
