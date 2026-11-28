@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: CLAIMED
-Owner: community-pr61-b06-20261128-1049Z
-Scope: PR61 Batch06 only: NPCBVI, NPPCD, NIDDCP, NTCP, NOHP community programme organization, quality and access; avoid adjacent clinical/nutrition and existing NCD/school questions. No PR62 or shared navigation edits.
-Claimed UTC: 2026-11-28T10:49:00Z
-Expiry UTC: 2026-11-28T11:19:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
@@ -29,3 +29,8 @@ PR61 verified head `34cee6e90b61b647d0f4a328697a40908b59abd3`. Added five banks,
 ## PR61 Batch 05 checkpoint — 28 November 2026
 
 PR61 verified head `c3887f6cac38ec95a6b2c60a200e21e36b835b81`. Added five banks of 20, 100 original MCQs, 400 separate Roman Hinglish rationales and 100 separate exam clues; 5 Easy, 46 Medium, 49 Difficult. Cumulative 500 staged originals, 2000 rationales, 25 banks, 36 Easy/245 Medium/219 Difficult. Five exact readbacks and incremental structure checks passed. 100 distinct new normalized stems, no exact matches against 404 earlier/legacy stems or 100 PR62 stems; compare verified previous twenty banks unchanged. PR62 unchanged, coordination comment 7237645277 read. Adjacent PR60 hepatitis and PR49 rabies/PEP filename screening informed programme-only scope. No new live credit. Independent clinical/semantic/difficulty, item evidence, full preflight, curriculum, concept/diagram/video, historical evidence, navigation and CI gates pending. Next verify remaining INC programme gaps, including blindness, hearing, iodine deficiency, tobacco control and oral health as distinct, then reconcile PR62 before mocks. Preserve other jobs and five schedules; avoid retrospective audit repetition.
+
+
+## PR61 Batch 06 checkpoint — 28 November 2026
+
+PR61 verified head `065215f94baa802716dcf2f02f67595137e363c6`. Added 100 original MCQs in five banks, 400 separate Roman Hinglish rationales and 100 distinct exam clues; 8 Easy, 47 Medium, 45 Difficult. Cumulative 600 staged originals, 2400 rationales, 30 banks, 44 Easy/292 Medium/264 Difficult. Five exact readbacks and incremental structural validation passed, 100 distinct normalized new stems, zero exact matches against 504 prior PR61/legacy and 100 PR62 stems. Compare verified all 25 prior banks unchanged; candidate-index append verified. PR62 remains unchanged at b6157733d7f4e1b0180e98569d35f47ddce7fb84; coordination comment 7237645277 read. No newly live originals, mocks or PYQs. DGHS/NTCP official programme research; English NIDDCP full retrieval timed out, updated Hindi page provided programme benchmarks. Full independent clinical/semantic/difficulty and item evidence, concept/diagram/video, preflight, curriculum, CI and navigation gates remain pending. Next verify actual remaining curriculum, e.g. NPPCF, IDSP, community palliative care, adolescent and urban health as distinct, reconcile PR62 before mocks. Preserve all other sessions and five schedules; avoid repeated audits.
