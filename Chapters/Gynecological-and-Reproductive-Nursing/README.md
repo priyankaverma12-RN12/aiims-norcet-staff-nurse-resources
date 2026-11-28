@@ -1,6 +1,6 @@
 # Gynecological and Reproductive Nursing
 
-**Advance-preparation, not marked studied.** Ab is chapter mein 504 indexed original question slots hain: 4 preserved starters, 40 Menstrual Cycle/Ovulation MCQs, 40 Infertility MCQs, 40 Contraception MCQs, 40 RTI/STI/PID MCQs, 40 Fibroids/Endometriosis MCQs, 40 Gynecological Cancers/Cervical Screening MCQs, 40 Menopause/Perimenopause MCQs, 40 Gynecological Procedures MCQs, 40 Breast Disorders MCQs, 40 PCOS/Ovarian Cysts/Hormonal Disorders MCQs 40 Pelvic Floor/Prolapse MCQs, 30 Abnormal Uterine Bleeding MCQs aur 30 Amenorrhea/Endocrine Differential MCQs. Ten source-linked reported exam adaptations alag se indexed hain. Chapter abhi complete nahi hai. Combined-bank counts se individual disorder ki full coverage prove nahi hoti hai. Ek parallel 20-question combined menstrual-disorders bank bhi preserve kiya gaya hai. Uske questions ko distinct inventory mein abhi allocate nahi kiya gaya hai, kyunki learning-task overlap ka audit pending hai. Total physically published raw slots 524 hain. 504 indexed slots bhi comprehensive semantic audit ka substitute nahi hain.
+**Advance-preparation, not marked studied.** Ab is chapter mein 564 allocated original question slots hain. Ismein 504 previously indexed questions, 29 naye dysmenorrhea MCQs, 30 naye PMS/PMDD MCQs aur preserved combined bank ka ek distinct medication question include hai. Parallel vulvar/Bartholin bank ke 20 additional raw slots bhi publish ho chuke hain, lekin source, rationale aur semantic allocation audit ke baad hi unhe distinct count mein add karenge. Purane combined menstrual bank ke remaining 19 questions revision ke liye safe hain. Total 603 physical question slots hain, jismein 564 allocated aur 39 separately preserved slots hain. Eleven reported exam adaptations alag se indexed hain. Individual disease coverage aur full independent clinical audit abhi complete nahi hain.
 
 ## Study resources
 
@@ -112,9 +112,24 @@
 
 - [30 original MCQs](MCQs/13-Amenorrhea-and-Endocrine-Differential-30-MCQs.md)
 
-### Preserved parallel menstrual disorders bank — allocation audit pending
+### Preserved menstrual disorders bank
 
-- [20 raw practice slots](MCQs/12-Abnormal-Uterine-Bleeding-Amenorrhea-and-Dysmenorrhea-20-MCQs.md)
+- [20 preserved slots](MCQs/12-Abnormal-Uterine-Bleeding-Amenorrhea-and-Dysmenorrhea-20-MCQs.md)
+- [Allocation audit: 1 counted, 19 revision](Revision/Menstrual-Disorders-Question-Allocation-Audit.md)
+
+### Dysmenorrhea
+
+- [29 new MCQs](MCQs/15-Dysmenorrhea-29-New-MCQs.md)
+- [1 retained Q15](MCQs/12-Abnormal-Uterine-Bleeding-Amenorrhea-and-Dysmenorrhea-20-MCQs.md#q15-which-medication-class-is-commonly-first-line-for-primary-dysmenorrhea-if-no-contraindication-exists)
+
+### PMS and PMDD
+
+- [30 original MCQs](MCQs/16-PMS-and-PMDD-30-MCQs.md)
+- [1 reported DSSSB adaptation](Previous-Year-Questions/16-PMS-Reported-Exam-Evidence.md)
+
+### Vulvar and Bartholin disorders — parallel bank, allocation and rationale audit pending
+
+- [20 preserved raw questions](MCQs/14-Vulvar-and-Bartholin-Gland-Disorders-20-MCQs.md)
 
 ### Chapter-only mocks
 
@@ -129,6 +144,7 @@
 - [1 prolapse adaptation](Previous-Year-Questions/11-Pelvic-Floor-and-Prolapse-Reported-Exam-Adaptations.md)
 - [2 breast/pelvic adaptations and PCOS evidence](Previous-Year-Questions/09-11-Breast-PCOS-Pelvic-Floor-Reported-Exam-Evidence.md)
 - [1 AUB/amenorrhea reported adaptation and related evidence](Previous-Year-Questions/12-13-AUB-Amenorrhea-Reported-Exam-Evidence.md)
+- [1 PMS reported adaptation](Previous-Year-Questions/16-PMS-Reported-Exam-Evidence.md)
 
 [Full syllabus index](../NORCET-Full-Chapter-Index.md) · [Repository home](../../README.md)
 
@@ -139,3 +155,12 @@ All eleven current grouped banks contain 40 original slots each, plus four start
 ## Next verified practice checkpoint — 28 November 2026
 
 AUB aur amenorrhea ke dedicated 30-question banks publish ho gaye hain. Parallel combined bank ko delete ya overwrite nahi kiya gaya hai. Combined bank Q2 aur Q4 pregnancy exclusion aur FBC ke tasks se overlap karte hain. Q7 anovulatory bleeding mechanism, Q8 biopsy selection, Q11 ovarian-level hormone pattern aur Q19 NSAID precautions jaise tasks bhi dedicated banks ya existing questions ke saath compare karne hain. Pehle in 20 preserved slots ko question-wise clinical aur semantic audit se allocate karo. Uske baad dedicated dysmenorrhea, PMS/PMDD, pelvic fistulas, vulvar aur Bartholin disorders, ovarian mass subtypes aur remaining syllabus gaps ke distinct questions complete karo. New mock tests mein kisi existing bank ka question reuse nahi hoga. Har new mock ke 120 questions independently author aur verify karne hain. Official PYQ evidence, specific YouTube practice aur full clinical/language audit abhi pending hain.
+
+## Verified menstrual allocation and dysmenorrhea update — 28 November 2026
+
+Purane 20-question bank ka item-wise learning-task comparison record ho gaya hai. Q15 ko primary dysmenorrhea first-line medicine ke liye allocate kiya gaya hai. Baaki 19 questions revision mein rahenge, taaki repeated learning tasks ka double count na ho. Naye 29-question bank ke saath dysmenorrhea mein 30 allocated questions hain. Parallel vulvar/Bartholin bank ke 20 questions preserve aur navigation mein link kiye gaye hain, lekin unke repeated herpes and other possible cross-bank tasks aur short generic rationales ki individual review abhi pending hai. Next PMS/PMDD, pelvic fistulas, vulvar bank audit and expansion aur remaining distinct topics ko complete karna hai. Official evidence, specific video practice aur independent clinical audit pending hain. Topic banks ke baad ten 120-question mock-exclusive tests banenge.
+
+
+## Verified PMS/PMDD update — 28 November 2026
+
+30 new original clinical nursing MCQs, 120 separate option explanations, one original revision flowchart and one source-linked DSSSB 2019 reported adaptation published. Exact remote readback and answer-option mapping verified. All 30 new stems are distinct from the 573 previously published physical slots by normalized stem comparison, but independent comprehensive semantic audit remains pending. Current allocated original count is 564, including one retained menstrual-bank question. Physical count is 603, including 19 preserved revision slots and 20 parallel vulvar slots pending allocation audit. Historical adaptations: 11. Next: dedicated pelvic fistulas, review and expand vulvar/Bartholin bank, then remaining meaningful topics and mock-exclusive banks. Exact item-specific video verification and independent clinical audit remain pending. No new standalone theory or mock authored in this run.
