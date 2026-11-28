@@ -8,7 +8,7 @@
 
 ### Q1. Which ethical principle refers to acting for the patient's benefit?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Confidentiality
 - **B.** Autonomy
@@ -33,11 +33,11 @@
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q2](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q2](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q2-which-ethical-principle-refers-to-acting-for-the-patients-benefit)
 
 ### Q2. Which mechanism contributes to increased venous thromboembolism risk during prolonged immobility?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Reduced blood viscosity in every case
 - **B.** Reduced skeletal muscle pumping and venous stasis
@@ -62,7 +62,7 @@
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q1](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q1](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q1-which-mechanism-contributes-to-increased-venous-thromboembolism-risk-during-prolonged-immobility)
 
 ### Q3. A peripheral IV site becomes swollen, cool and pale during infusion of a nonvesicant fluid. Which complication is most likely?
 
@@ -253,7 +253,7 @@ Surgery ke baad restlessness, fast breathing aur SpO2 86% serious breathing comp
 
 ### Q8. Why can prolonged immobilization increase the risk of a joint contracture?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Cartilage becomes an actively contracting muscle
 - **B.** Muscles and connective tissues can shorten when joints remain in one position
@@ -278,7 +278,7 @@ Surgery ke baad restlessness, fast breathing aur SpO2 86% serious breathing comp
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q4](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q4](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q4-why-can-prolonged-immobilization-increase-the-risk-of-a-joint-contracture)
 
 ### Q9. Which position is commonly used for a pelvic examination with the legs supported in stirrups?
 
@@ -413,7 +413,7 @@ Orthopnea ka matlab letne par saans lene mein dikkat hai. Stable patient ko High
 
 ### Q13. What is a common musculoskeletal consequence of prolonged disuse?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Increased muscle mass without activity
 - **B.** Permanent improvement in all joint movements
@@ -438,11 +438,11 @@ Orthopnea ka matlab letne par saans lene mein dikkat hai. Stable patient ko High
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q3](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q3](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q3-what-is-a-common-musculoskeletal-consequence-of-prolonged-disuse)
 
 ### Q14. Which ethical principle supports a competent patient's right to accept or refuse treatment?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Raipur Nursing Officer, 9 September 2017 — related reported concept**
 
 - **A.** Justice alone
 - **B.** Nonmaleficence alone
@@ -467,7 +467,7 @@ Orthopnea ka matlab letne par saans lene mein dikkat hai. Stable patient ko High
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q1](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q1](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q1-which-ethical-principle-supports-a-competent-patients-right-to-accept-or-refuse-treatment)
 
 ### Q15. A patient reports burning, electric-shock pain after nerve injury. Which pain mechanism is most likely?
 
@@ -762,7 +762,7 @@ Nightingale ka maanna tha ki patient ke aas-paas ka environment recovery mein ma
 
 ### Q23. A patient is receiving an IV infusion and reports burning at the cannula site. The site is red and warm along the vein, without cool swelling. What should the nurse suspect?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Infiltration as the only possible complication
 - **B.** Phlebitis requiring assessment and appropriate line management
@@ -787,7 +787,7 @@ Nightingale ka maanna tha ki patient ke aas-paas ka environment recovery mein ma
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q3](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q3](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q3-a-patient-is-receiving-an-iv-infusion-and-reports-burning-at-the-cannula-site-the-site-is-red-and-warm-along-the-vein-without-cool-swelling-what-should-the-nurse-suspect)
 
 ### Q24. An indwelling catheter drainage bag is found above the level of the bladder. What should the nurse do?
 
@@ -895,7 +895,7 @@ Subcutaneous ya SC route mein medicine dermis ke neeche adipose tissue mein deli
 
 ### Q27. A patient with unilateral leg swelling develops sudden shortness of breath and pleuritic chest pain. Which action has highest priority?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 SGPGI Staff Nurse 28 Feb 2024 Shift 1 — related reported concept**
 
 - **A.** Complete the scheduled mobility assessment first
 - **B.** Emergency respiratory and circulatory assessment for possible pulmonary embolism
@@ -920,7 +920,7 @@ Subcutaneous ya SC route mein medicine dermis ke neeche adipose tissue mein deli
 
 </details>
 
-[Source topic bank: Immobility complications and functional rehabilitation, Q2](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md)
+[Source topic bank: Immobility complications and functional rehabilitation, Q2](../MCQs/29-Immobility-Complications-and-Functional-Rehabilitation-20-MCQs.md#q2-a-patient-with-unilateral-leg-swelling-develops-sudden-shortness-of-breath-and-pleuritic-chest-pain-which-action-has-highest-priority)
 
 ### Q28. A patient requires a controlled and relatively precise oxygen concentration. Which device is commonly selected?
 
@@ -1278,7 +1278,7 @@ Sedative alertness, balance aur reaction time impair kar sakta hai. Confused pat
 
 ### Q38. What is the main goal of palliative care?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Avoid discussions about patient preferences
 - **B.** Improve quality of life by addressing symptoms and psychosocial needs alongside appropriate treatment
@@ -1303,7 +1303,7 @@ Sedative alertness, balance aur reaction time impair kar sakta hai. Confused pat
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q1](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q1](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q1-what-is-the-main-goal-of-palliative-care)
 
 ### Q39. A patient reports several days without stool, severe abdominal pain, vomiting and distension. What should the nurse do?
 
@@ -1622,7 +1622,7 @@ Sedation se alertness, cough reflex aur swallowing coordination reduce ho sakti 
 
 ### Q48. Which response is most therapeutic when a newly bereaved person begins crying?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Remain present, acknowledge the loss and allow expression of grief
 - **B.** Tell the person to stop crying
@@ -1647,7 +1647,7 @@ Sedation se alertness, cough reflex aur swallowing coordination reduce ho sakti 
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q3](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q3](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q3-which-response-is-most-therapeutic-when-a-newly-bereaved-person-begins-crying)
 
 ### Q49. A patient remains silent after receiving difficult news. Which initial nursing response is appropriate?
 
@@ -2454,7 +2454,7 @@ Reaction ke baad bag aur administration tubing investigation mein important evid
 
 ### Q71. Four patients call simultaneously. Which needs assessment first?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** A stable patient whose discharge teaching is due
 - **B.** A patient with sudden chest tightness, wheeze and facial swelling after an injection
@@ -2479,7 +2479,7 @@ Reaction ke baad bag aur administration tubing investigation mein important evid
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q1](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q1](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q1-four-patients-call-simultaneously-which-needs-assessment-first)
 
 ### Q72. Which observation provides a baseline for monitoring transfusion reactions?
 
@@ -3116,7 +3116,7 @@ Black tarry stool ke saath hypotension aur dizziness circulation compromise ka w
 
 ### Q90. Which procedure removes fluid from the pleural space for diagnosis or symptom relief?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse
 
 - **A.** Thoracentesis
 - **B.** Paracentesis of the abdomen
@@ -3141,7 +3141,7 @@ Black tarry stool ke saath hypotension aur dizziness circulation compromise ka w
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q4](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q4](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q4-which-procedure-removes-fluid-from-the-pleural-space-for-diagnosis-or-symptom-relief)
 
 ### Q91. Which practice is preferred if hair must be removed before an operation?
 
@@ -3356,7 +3356,7 @@ Objective data woh finding hai jo examination, observation ya measurement se mil
 
 ### Q97. A patient with advanced illness says that maintaining alertness matters more than complete pain relief. What should the nurse do?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Explore this preference and communicate it for an individualized symptom plan
 - **B.** Withhold all comfort measures permanently
@@ -3381,11 +3381,11 @@ Objective data woh finding hai jo examination, observation ya measurement se mil
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q2](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q2](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q2-a-patient-with-advanced-illness-says-that-maintaining-alertness-matters-more-than-complete-pain-relief-what-should-the-nurse-do)
 
 ### Q98. When cerebrospinal fluid opening pressure is being measured, which patient position is generally needed for standard interpretation?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Standing
 - **B.** High Fowler sitting with legs dangling as the standard pressure position
@@ -3410,7 +3410,7 @@ Objective data woh finding hai jo examination, observation ya measurement se mil
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q3](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q3](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q3-when-cerebrospinal-fluid-opening-pressure-is-being-measured-which-patient-position-is-generally-needed-for-standard-interpretation)
 
 ### Q99. A reservoir mask bag collapses substantially during inspiration. Which nursing response is appropriate?
 
@@ -3445,7 +3445,7 @@ Reservoir bag patient ke inspiration ke liye oxygen-rich gas store karti hai. Ag
 
 ### Q100. A family member feels angry and sad at different times after a death. What explanation is accurate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 NVS Staff Nurse, September 2019 — related reported concept**
 
 - **A.** Anger always proves a psychiatric disorder
 - **B.** All people must progress through grief stages in one exact order
@@ -3470,7 +3470,7 @@ Reservoir bag patient ke inspiration ke liye oxygen-rich gas store karti hai. Ag
 
 </details>
 
-[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q4](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md)
+[Source topic bank: Loss, grief, palliative and end-of-life nursing, Q4](../MCQs/27-Loss-Grief-Palliative-and-End-of-Life-Care-20-MCQs.md#q4-a-family-member-feels-angry-and-sad-at-different-times-after-a-death-what-explanation-is-accurate)
 
 ## Block 6
 
@@ -3641,7 +3641,7 @@ Stroke se swallowing muscles ka control affect ho sakta hai. Repeated cough aur 
 
 ### Q106. Which position is commonly used to facilitate lumbar puncture when appropriate?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS NORCET 6 Prelims 2024 — related reported concept**
 
 - **A.** Flat prone with the neck forcefully extended
 - **B.** Lateral decubitus with suitable spinal flexion, or supported sitting as instructed
@@ -3666,11 +3666,11 @@ Stroke se swallowing muscles ka control affect ho sakta hai. Repeated cough aur 
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q2](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q2](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q2-which-position-is-commonly-used-to-facilitate-lumbar-puncture-when-appropriate)
 
 ### Q107. Which patient should the nurse assess first after receiving handover?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** A patient with longstanding unchanged mild constipation
 - **B.** A patient requesting a medication information leaflet
@@ -3695,7 +3695,7 @@ Stroke se swallowing muscles ka control affect ho sakta hai. Repeated cough aur 
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q2](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q2](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q2-which-patient-should-the-nurse-assess-first-after-receiving-handover)
 
 ### Q108. What reduces blood culture contamination?
 
@@ -3767,7 +3767,7 @@ Sepsis infection ke response mein organ function disturb hone ki serious conditi
 
 ### Q110. During a medication round, a patient has a newly low blood pressure and is due for an antihypertensive. What is the safest first step?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Give an unprescribed stimulant to raise BP
 - **B.** Give the medication before checking the reading
@@ -3792,7 +3792,7 @@ Sepsis infection ke response mein organ function disturb hone ki serious conditi
 
 </details>
 
-[Source topic bank: Integrated clinical prioritization and nursing judgment, Q4](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md)
+[Source topic bank: Integrated clinical prioritization and nursing judgment, Q4](../MCQs/30-Integrated-NORCET-Clinical-Prioritization-20-MCQs.md#q4-during-a-medication-round-a-patient-has-a-newly-low-blood-pressure-and-is-due-for-an-antihypertensive-what-is-the-safest-first-step)
 
 ### Q111. A patient with impaired swallowing is about to receive a meal. Which position usually reduces aspiration risk when tolerated?
 
@@ -3933,7 +3933,7 @@ Hypothalamus brain ka temperature-control center hai. Fever mein inflammatory si
 
 ### Q115. Which principle is illustrated by avoiding an unnecessary invasive procedure that may injure a patient?
 
-**Difficulty:** Medium | **Priority:** Medium
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Legacy topic-bank reuse · **🟣 AIIMS Jodhpur Nursing Officer, 10 December 2019 — related reported concept**
 
 - **A.** Justice alone
 - **B.** Nonmaleficence
@@ -3958,7 +3958,7 @@ Hypothalamus brain ka temperature-control center hai. Fever mein inflammatory si
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q3](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q3](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q3-which-principle-is-illustrated-by-avoiding-an-unnecessary-invasive-procedure-that-may-injure-a-patient)
 
 ### Q116. A patient scheduled for anesthesia reports eating shortly before the procedure despite fasting instructions. What should the nurse do?
 
@@ -3998,7 +3998,7 @@ Anesthesia ke dauran airway protect karne wali reflexes kam ho sakti hain. Agar 
 
 ### Q117. Two patients need the same limited clinical resource. Which ethical principle guides fair allocation based on relevant criteria?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse · **🟣 RRB Nursing Superintendent, 29 April 2025 Shift III — related reported concept**
 
 - **A.** Personal convenience
 - **B.** Confidentiality alone
@@ -4023,11 +4023,11 @@ Anesthesia ke dauran airway protect karne wali reflexes kam ho sakti hain. Agar 
 
 </details>
 
-[Source topic bank: Patient education, ethics and culturally safe care, Q4](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md)
+[Source topic bank: Patient education, ethics and culturally safe care, Q4](../MCQs/26-Patient-Education-Ethics-and-Culturally-Safe-Care-20-MCQs.md#q4-two-patients-need-the-same-limited-clinical-resource-which-ethical-principle-guides-fair-allocation-based-on-relevant-criteria)
 
 ### Q118. Before a planned lumbar puncture, a patient develops new focal neurological deficits and declining consciousness. Which action is appropriate?
 
-**Difficulty:** Difficult | **Priority:** High
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Legacy topic-bank reuse
 
 - **A.** Ignore neurological changes
 - **B.** Proceed because the consent is signed
@@ -4052,7 +4052,7 @@ Anesthesia ke dauran airway protect karne wali reflexes kam ho sakti hain. Agar 
 
 </details>
 
-[Source topic bank: Diagnostic procedures and bedside monitoring, Q1](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md)
+[Source topic bank: Diagnostic procedures and bedside monitoring, Q1](../MCQs/28-Diagnostic-Procedures-and-Bedside-Monitoring-20-MCQs.md#q1-before-a-planned-lumbar-puncture-a-patient-develops-new-focal-neurological-deficits-and-declining-consciousness-which-action-is-appropriate)
 
 ### Q119. Which device commonly provides low-flow supplemental oxygen while allowing a stable patient to speak and eat?
 
