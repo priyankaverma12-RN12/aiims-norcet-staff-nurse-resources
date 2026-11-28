@@ -120,30 +120,30 @@
 
 </details>
 
-### Q05. An older patient with a documented vertebral fragility fracture has no recent DXA result. Which treatment-planning principle is appropriate?
+### Q05. A postmenopausal patient has both femoral-neck and lumbar-spine DXA results. The clinician plans a standard FRAX calculation that includes measured bone mineral density. Which site should supply the BMD input?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Treatment review must always wait for a DXA appointment
-- **B.** Fracture history may justify prompt osteoporosis treatment assessment even before DXA if clinical risk is high
-- **C.** No bone-health assessment is required once the acute pain settles
-- **D.** A normal serum calcium concentration excludes high fracture risk
+- **A.** Lumbar spine because it always predicts hip fracture more accurately
+- **B.** Femoral neck, using the appropriate FRAX model
+- **C.** Any skeletal site with the lowest measured T-score
+- **D.** The heel ultrasound measurement entered as a femoral-neck DXA value
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Fracture history may justify prompt osteoporosis treatment assessment even before DXA if clinical risk is high**
+**Correct answer: B. Femoral neck, using the appropriate FRAX model**
 
-**A kyun galat hai:** High-risk treatment review ko unnecessary DXA delay ke liye postpone nahi karna chahiye.
+**A kyun galat hai:** Lumbar-spine DXA osteoporosis diagnosis aur treatment assessment mein useful ho sakti hai. Lekin standard FRAX BMD input femoral neck se aata hai. Lumbar result ko directly substitute karne se calculation ka validated method change ho jayega.
 
-**B kyun sahi hai:** Vertebral fragility fracture subsequent fracture risk ka strong marker hai. Clinician risk aur treatment suitability assess kar sakta hai, DXA ko appropriate time par arrange karte hue.
+**B kyun sahi hai:** FRAX clinical risk factors se ten-year fracture probability estimate karta hai. Jab measured BMD include ki jaati hai, standard model femoral-neck DXA value use karta hai. Nurse ko correct report aur country-specific model verify karne mein help karni chahiye.
 
-**C kyun galat hai:** Pain relief fracture risk resolve nahi karti.
+**C kyun galat hai:** Lowest valid T-score diagnosis mein important ho sakta hai, lekin FRAX ke input ka site fixed hai. Kisi bhi site ka lowest score femoral-neck measurement ki jagah use karna accurate nahi hai.
 
-**D kyun galat hai:** Serum calcium normal hone se osteoporosis exclude nahi hota.
+**D kyun galat hai:** Heel ultrasound aur femoral-neck DXA different methods hain. Unki numerical values directly interchangeable nahi hain, isliye heel value ko femoral-neck BMD ke roop mein enter nahi karna chahiye.
 
-**Exam clue:** Fracture risk assessment mein previous vertebral fracture ko high importance do.
+**Exam clue:** Standard FRAX with BMD uses femoral-neck DXA, not arbitrary skeletal-site values.
 
-**Clinical reference:** [NOGG](https://www.nogg.org.uk/full-guideline/summary-main-recommendations).
+**Clinical reference:** [NOGG section 3 — fracture risk assessment](https://www.nogg.org.uk/full-guideline/section-3-fracture-risk-assessment-and-case-finding), femoral-neck BMD in FRAX. Retrieved guidance.
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -162,17 +162,17 @@
 
 **Correct answer: A. Combined clinical fracture-risk assessment and appropriate treatment review**
 
-**A kyun sahi hai:** Fracture risk sirf BMD par depend nahi karta. Prior fragility fracture aur dusre risk factors ke saath FRAX ya relevant clinical assessment management decision mein help karte hain.
+**A kyun sahi hai:** Fracture risk sirf bone density par depend nahi karta. Previous fragility fracture, age aur other clinical risk factors probability badha sakte hain. Isliye osteopenic T-score ke bawajood clinician FRAX ya appropriate clinical assessment ke saath treatment indication review karta hai.
 
-**B kyun galat hai:** High clinical risk wale patients ko −2.5 threshold se pehle bhi treatment ki zaroorat ho sakti hai.
+**B kyun galat hai:** T-score −2.5 osteoporosis ki densitometric definition mein important cutoff hai. Lekin high fracture risk ya fragility fracture wale patients ko is cutoff tak pahunchne se pehle bhi treatment indicated ho sakta hai.
 
-**C kyun galat hai:** Serum calcium normal hone par bhi osteoporosis ho sakti hai. Ye fracture probability ka standalone measure nahi hai.
+**C kyun galat hai:** Serum calcium body ke mineral regulation ka ek marker hai. Osteoporosis mein calcium normal bhi ho sakta hai. Is single result se future hip ya other major fracture probability establish nahi hoti.
 
-**D kyun galat hai:** DXA category useful hai, lekin previous fracture jaise strong predictors ignore karne se risk underestimate ho sakta hai.
+**D kyun galat hai:** DXA skeletal density assess karti hai, lekin fall risk, prior fracture aur other clinical predictors ka full account nahi deti. In factors ko ignore karne se patient ka risk underestimate ho sakta hai.
 
-**Exam clue:** Fracture history aur risk factors ko DXA ke saath interpret karo.
+**Exam clue:** Osteopenic BMD does not rule out high clinical fracture risk.
 
-**Clinical reference:** [NOGG guideline summary](https://www.nogg.org.uk/full-guideline/summary-main-recommendations). Direct page retrieved.
+**Clinical reference:** [NOGG section 4 — intervention thresholds and strategy](https://www.nogg.org.uk/full-guideline/section-4-intervention-thresholds-and-strategy). Retrieved guidance.
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -423,17 +423,17 @@
 
 **Correct answer: A. Calcium can be maintained by compensatory regulation, so further clinical and biochemical evaluation is needed**
 
-**A kyun sahi hai:** Body calcium ko hormones ke through regulate karti hai. Isliye ek normal calcium result ke bawajood vitamin D deficiency ya mineralization problem possible hai. Clinician relevant tests aur history evaluate karta hai.
+**A kyun sahi hai:** Vitamin D deficiency se intestinal calcium absorption kam ho sakti hai. Body parathyroid hormone yani PTH badha kar serum calcium ko initially normal maintain kar sakti hai, jabki bone mineralization ki problem continue hoti hai. Isliye 25-hydroxyvitamin D, phosphate, alkaline phosphatase, PTH aur relevant clinical findings evaluate karna useful hai.
 
-**B kyun galat hai:** Normal calcium alone osteomalacia exclude nahi karta. Bone mineralization ek broader metabolic process hai.
+**B kyun galat hai:** Early vitamin D deficiency mein compensatory PTH response ki wajah se calcium normal reh sakta hai. Ek normal calcium report se defective bone mineralization ko definitively exclude nahi kar sakte.
 
-**C kyun galat hai:** Vitamin D status ko serum calcium se directly confirm nahi kiya ja sakta. Relevant vitamin D test aur context chahiye.
+**C kyun galat hai:** Serum calcium strongly regulated hota hai. Vitamin D stores assess karne ke liye appropriate 25-hydroxyvitamin D test aur clinical context chahiye, calcium alone sufficient nahi hai.
 
-**D kyun galat hai:** Normal calcium Paget disease ka specific diagnostic proof nahi hai. Uske liye disease-specific evaluation hoti hai.
+**D kyun galat hai:** Paget disease abnormal bone remodeling disorder hai. Normal calcium is disease ka specific diagnostic marker nahi hai. Imaging aur appropriate bone turnover assessment ke bina diagnosis establish nahi hota.
 
-**Exam clue:** Normal calcium akela osteomalacia exclude nahi karta.
+**Exam clue:** Normal calcium may coexist with vitamin D deficiency and secondary hyperparathyroidism.
 
-**Clinical reference:** [NHS rickets and osteomalacia](https://www.nhs.uk/conditions/rickets-and-osteomalacia/). Indexed source, independent full-page verification pending.
+**Clinical reference:** [Minisola et al., Osteomalacia and Vitamin D Status: A Clinical Update 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7839817/), biochemical stages and compensatory PTH response. Retrieved indexed full-text evidence.
 
 **YouTube MCQ practice:** Verification pending.
 
