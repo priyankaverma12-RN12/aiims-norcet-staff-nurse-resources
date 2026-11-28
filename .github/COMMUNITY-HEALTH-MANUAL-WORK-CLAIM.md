@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr61-b03-20261128-1010Z
+Scope: PR61 isolated Batch 03 family health nursing, home visiting and bag technique, malaria/vector control, leprosy programme, noncommunicable disease prevention. Exclude PR62 existing topics and other chapter writes.
+Claimed UTC: 2026-11-28T10:10:31Z
+Expiry UTC: 2026-11-28T10:40:31Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
