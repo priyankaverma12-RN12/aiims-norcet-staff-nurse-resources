@@ -1,10 +1,10 @@
 # Biochemistry and Pathology manual work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: biochem-b06-new-20261128-080053Z
+Scope: PR42 isolated new clinical pathology banks, concepts, diagrams and local evidence checkpoint, no shared navigation or other chapters. Draft only pending all release gates.
+Claimed UTC: 2026-11-28T08:00:53Z
+Expiry UTC: 2026-11-28T08:30:53Z
 
 Baseline: four original starter slots, one separate reported HPSSC adaptation, zero full mocks. Target five topics x 20 originals per batch, then ten original-only 120-item mocks in pairs, then remaining sourced PYQs. Full independent audit and reconciliation required before merge.
 
