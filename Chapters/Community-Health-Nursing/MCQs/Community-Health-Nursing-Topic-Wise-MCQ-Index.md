@@ -19,3 +19,17 @@ Clinical and public-health sources are linked inside each bank, including WHO, C
 Next authoring: individual remaining meaningful topics in the chapter map, beginning with health-system organization, community team roles, national programmes, immunization and cold chain, then occupational/school health and family/home visits as distinct topics. Preserve the existing cold-chain and prevention starters and screen adjacent chapters. Do not begin original-only mocks until the topic bank phase is complete. Then target two 120-question mocks per run, ten total, and finish topic-classified source-traced PYQs.
 
 [Existing starter bank](Community-Health-Nursing-Topic-Wise-Starter-MCQs.md) · [Chapter](../README.md)
+
+## Batch 02 — disjoint national programme continuation
+
+| Topic | New originals |
+|---|---:|
+| [PM-JAY financial protection](06-PMJAY-and-Financial-Protection-20-MCQs.md) | 20 |
+| [National Sickle Cell Anaemia Elimination Mission](07-Sickle-Cell-Elimination-Mission-20-MCQs.md) | 20 |
+| [National Dialysis Programme service access](08-PMNDP-and-Dialysis-Service-Access-20-MCQs.md) | 20 |
+| [Climate change and human health](09-NPCCHH-Climate-and-Human-Health-20-MCQs.md) | 20 |
+| [Leptospirosis programme prevention and control](10-Leptospirosis-Community-Prevention-and-Control-20-MCQs.md) | 20 |
+
+New batch: 100 originals, 400 individual Roman Hinglish option rationales and 100 exam clues. 14 Easy, 52 Medium, 34 Difficult. Answer keys evenly distributed A/B/C/D. PR62 cumulative: 200 staged originals, 800 rationales, 200 clues, 10 banks. All five new files exactly read back, structural checks passed, 100 distinct normalized new stems. Earlier five PR62 banks remain untouched. PR61 30 bank filenames screened to allocate distinct programme topics. Full cross-branch normalized stem retrieval exceeded connector call limit, so complete cross-branch exact and semantic uniqueness is not certified. Some distractors are basic and independent exam-level calibration remains pending.
+
+Sources: NHA and PIB scheme updates, official sickle mission portal and counselling pages, MoHFW PMNDP and NHSRC, NCDC NPCCHH and leptospirosis/One Health programme pages. Direct item-specific clinical/source depth and dedicated practice video verification remain pending. Programme service-access scope, not specialty treatment. PR61 verified at 065215f94baa802716dcf2f02f67595137e363c6 with 600 staged originals and 30 banks. PR62 topics deliberately exclude its proposed next five (NPPCF, IDSP, community palliative care, adolescent health, urban health) and Geriatric PR39 NPHCE bank. Prior overlapping Batch01 learning objectives still require allocation reconciliation before integration. No combined unique count or live credit asserted. Concepts, diagrams, historical sources, independent reviews, navigation and exact-head CI remain pending. Next coordinate remaining distinct curriculum gaps and one chapter inventory before mocks.
