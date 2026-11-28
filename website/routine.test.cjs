@@ -1,0 +1,17 @@
+'use strict';
+const assert=require('node:assert/strict');
+const {emptyRoutine,offsetDay,routineCount,updateRoutine,bankProgress,quickItems}=require('./routine.js');
+const d=emptyRoutine(),p='Chapters/X/MCQs/A.md',day='2026-11-28',items=Array.from({length:8},(_,i)=>({id:String(i),stem:'Question '+i,options:['a','b','c','d'],key:'B'}));
+assert.equal(offsetDay('2026-12-31',1),'2027-01-01');
+assert.equal(routineCount(d,day),0);
+assert.equal(updateRoutine(d,p,items,{'0':'B','1':'A'},day).after,2);
+assert.equal(updateRoutine(d,p,items,{'0':'B'},day).after,2);
+assert.deepEqual(bankProgress(d,p,day),{checked:2,total:8,due:0,last:day});
+assert.equal(bankProgress(d,p,offsetDay(day,1)).due,1);
+assert.equal(quickItems(d,p,items,'review',offsetDay(day,1))[0].id,'1');
+assert.deepEqual(quickItems(d,p,items,'quick',day).map(q=>q.id),['2','3','4','5','6']);
+assert.equal(updateRoutine(d,p,items,{'1':'B'},offsetDay(day,1)).after,1);
+assert.equal(bankProgress(d,p,offsetDay(day,1)).due,0);
+assert.equal(updateRoutine(d,p,items,{},day).changed,false);
+assert.equal(routineCount(d,day),2);
+console.log('Daily goal deduplication, local date rollover, revision scheduling and quick practice tests passed.');

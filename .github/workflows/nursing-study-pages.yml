@@ -32,6 +32,8 @@ jobs:
           node --check website/study-ui.js
           node --check website/build-metrics.cjs
           node --check website/app.js
+          node --check website/routine.js
+          node website/routine.test.cjs
           node --check website/quiz.js
           node website/quiz.test.cjs
       - name: Install browser test dependencies

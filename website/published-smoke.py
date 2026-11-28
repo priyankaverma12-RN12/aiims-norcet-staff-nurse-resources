@@ -43,6 +43,13 @@ with sync_playwright() as p:
             expect(page.locator("#status")).to_have_text(__import__("re").compile(r"^Live source"),timeout=30000)
         def fit():
             assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth+2"),"Horizontal overflow"
+        page.goto(base+"?build="+commit)
+        expect(page.locator("#daily-study .daily-action").first).to_be_visible(timeout=30000)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 10 questions")
+        expect(page.locator(".study-day")).to_have_count(7)
+        page.locator(".daily-goal-select select").select_option("5")
+        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 5 questions")
+        fit()
         go({"metrics":"1","chapter":chapter["id"]})
         expect(page.locator("#metrics-totals .metric-tile")).to_have_count(5,timeout=30000)
         expect(page.locator("#metrics-chapter")).to_have_value(chapter["id"])
@@ -100,6 +107,11 @@ with sync_playwright() as p:
         expect(page.locator(".original-explanation")).to_be_visible()
         assert page.locator(".explanation-body").text_content().strip()==page.evaluate("""async()=>{const q=parseBank(await read(new URLSearchParams(location.search).get('doc'))).items[0];const h=document.createElement('div');h.innerHTML=DOMPurify.sanitize(marked.parse(q.explanation,{gfm:true}),{ADD_TAGS:['details','summary'],FORBID_TAGS:['style','iframe','form'],FORBID_ATTR:['style','srcset']});return h.textContent.trim()}""")
         fit()
-        print(f"Published V7 UI {width}x{height}: chapter metrics, compact index, original source links, PYQ answers, reduced motion and responsive layout passed.",flush=True)
+        assert page.evaluate("routineCount(loadRoutine())")==1
+        page.goto(base+"?build="+commit)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-action.primary-daily")).to_be_visible()
+        fit()
+        print(f"Published V8 UI {width}x{height}: chapter metrics, compact index, original source links, PYQ answers, reduced motion and responsive layout passed.",flush=True)
         ctx.close()
     browser.close()

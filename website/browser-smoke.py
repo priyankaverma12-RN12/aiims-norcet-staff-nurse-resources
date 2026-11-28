@@ -31,6 +31,9 @@ try:
         count = cards.count()
         assert count >= 35, f"Expected at least 35 chapters, found {count}"
         expect(page.locator("#chapter-total")).to_have_text(str(count))
+        expect(page.locator("#daily-study")).to_be_visible()
+        expect(page.locator(".daily-progress-label strong")).to_have_text("0 / 10 questions")
+        expect(page.locator(".study-day")).to_have_count(7)
         assert page.locator(".chapter-group").count() >= 8
         assert page.locator('.chapter-card').filter(has_text='Nursing Foundations').get_by_text('Revision',exact=True).count()==0
         page.locator("#search").fill("Respiratory")
@@ -133,6 +136,18 @@ try:
         page.get_by_role("button",name="Exit learning").click()
         expect(page.locator("#content")).to_be_visible()
         print("V7 untimed feedback, original explanations, correct/incorrect choice and topic title passed.",flush=True)
+        # Quick practice checks only five questions, without replacing saved timed attempts.
+        page.get_by_role("button",name="Quick 5-question practice").click()
+        expect(page.locator(".question-meta h3")).to_have_text("Question 1 / 5")
+        for j in range(5):
+            page.locator("input[name=learn-choice][value=B]").check()
+            page.get_by_role("button",name="Check answer").click()
+            page.get_by_role("button",name="Finish learning" if j==4 else "Next question").click()
+        expect(page.locator(".result-heading")).to_have_text("Quick practice complete!")
+        assert page.evaluate("routineCount(loadRoutine())")==7
+        page.get_by_role("button",name="Back to study material").click()
+        print("Quick practice length and seven unique checked questions tracked.",flush=True)
+
         page.get_by_role("button", name="Start timed practice").click()
         expect(page.locator("#content")).to_be_hidden()
         expect(page.locator(".original-explanation")).to_have_count(0)
