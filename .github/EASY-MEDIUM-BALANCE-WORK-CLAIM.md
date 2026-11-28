@@ -1,10 +1,10 @@
 # Easy/Medium balancing lane claim
 
-State: ACTIVE
-Owner: easy-medium-ipc-b05-20261128T133600Z
-Scope: PR68 IPC biomedical waste and occupational exposure supplementary banks only
-Claimed UTC: 2026-11-28T13:36:00Z
-Expiry UTC: 2026-11-28T14:06:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
@@ -23,3 +23,7 @@ Own claim acquired 67291dbf0ebea5e0aa10cba1c790960d8290803a, released now. PR68 
 ## Verified Batch 04 checkpoint — 28 November 2026
 
 Own claim acquired edd994fc5844f78d166961cb8658cbfe3e59ce7c, released now. PR68 head 4593985eb81c8f40303b19b722265c94eff88d9d. Five new banks: CSSD packaging fe6ebd14721e2c1de7f11f4d05784a4a7c561e0a; standard precautions 9598074d4d61a2691ad94a2b1229861dfb69dc55; selected transmission cdf7c9125e9b0f379adf17a5d772a4bc142cc5a5; PPE d60daa7b82cf634ddc76af0d0459c4af617e1bcc; isolation-room and transfer 4593985eb81c8f40303b19b722265c94eff88d9d. 30 new originals (24 Easy, 6 Medium), 120 individual Roman Hinglish rationales, 30 clues. Exact readbacks passed for all five. All 13 final expected blobs matched and eight prior unchanged. 30 new normalized stems distinct, aligned answers, four option rationales and closed hidden blocks. Cumulative 78 originals (69 Easy, 9 Medium), 312 rationales, 78 clues, 13 banks. CDC direct source pages retrieved; bounded related-bank screening only. Combined E/M/D CSSD 9/12/21, standard 6/14/16, selected transmission 5/6/15, PPE 6/8/12, general precautions 3/22/21. Surgical preparation deferred to avoid padding. Check Nursing Foundations first, otherwise further distinct IPC deficiencies and biomedical waste and occupational exposure in order. PR69/70 policy candidates observed open, no changes made. Independent clinical/semantic, video, navigation and CI pending; no live credit. No mock edits or schedule changes. Preserve all other sessions, learner history and five hourly automations.
+
+## Verified Batch 05 checkpoint — 28 November 2026
+
+Own claim acquired 95f488ebfc852a9092eaf48100cfb39989f94e29, released now. PR68 head 974f61696655743f521d430350194c509c34782f. New commits: waste segregation d93e3e0e6222472e0d571b1769719ee7cb13eefa, regulation 1c07347b1d428c8694b51edc9738cb46191dd2d2, sharps 6e3e82fa9d73ab316b2545c9b72a335a0496ef8f, HIV ff7668b9e0d2954a58ae0799e8306240f9c06115, HBV 8597164e91b12c2265050729e9a690a60f6244bb, HCV 974f61696655743f521d430350194c509c34782f. 36 new candidates (30 Easy, 6 Medium), 144 individual Roman Hinglish rationales, 36 clues. Six exact remote readbacks, 36 distinct normalized new stems and aligned keys, four rationales, closed details and clues. All prior MCQ directory blobs unchanged. Cumulative 114 candidates (99 Easy, 15 Medium), 456 rationales, 114 clues, 19 banks. CPCB original 2016 rule text retrieved, page screenshot unavailable, consolidated amendment verification remains pending. WHO 2024 PEP, 2025 US PHS occupational HIV guidance, CDC NIOSH/HBV/HCV guidance consulted, some pages available as indexed excerpts only. Related bank stems screened, full cross-chapter and semantic comparison pending. Independent clinical, video, navigation and CI gates pending, no live credit. Nursing Foundations active forward claim and overlapping drafts at preflight. PR69/70 open at preflight, no policy edits. Next recheck Foundations, otherwise continue remaining genuine IPC deficits and chain of infection/microbial transmission in curriculum order. No mock edits, learner history or schedule changes. Preserve all five hourly automations and other sessions.
