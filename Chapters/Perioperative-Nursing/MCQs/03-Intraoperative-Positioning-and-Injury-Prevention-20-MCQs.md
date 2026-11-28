@@ -410,30 +410,30 @@
 
 </details>
 
-### Q15. An anesthetized patient with a previous joint contracture requires a change of operative position. Which factor should determine the safe final alignment?
+### Q15. During lithotomy positioning, a rigid leg-holder post presses against the lateral fibular head. Which peripheral nerve is particularly vulnerable to this pressure?
 
 **Difficulty:** Difficult | **Priority:** IMPORTANT | **Exam focus:** NORCET / HP Staff Nurse original practice
 
-- **A.** The maximum angle physically possible after muscle relaxation
-- **B.** The patient's documented limitations, surgical needs and supported neutral alignment where feasible
-- **C.** The positioning angle used for the preceding patient
-- **D.** The shortest possible preparation time regardless of joint limits
+- **A.** Femoral nerve
+- **B.** Common fibular (peroneal) nerve
+- **C.** Obturator nerve
+- **D.** Tibial nerve
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. The patient's documented limitations, surgical needs and supported neutral alignment where feasible**
+**Correct: B. Common fibular (peroneal) nerve**
 
-- **A.** Muscle relaxation se apparent range badh sakti hai, lekin joint aur nerve tolerance unlimited nahi hoti. Maximum angle target banana unsafe hai.
+- **A.** Femoral nerve anterior thigh mein course karta hai. Lateral fibular head par direct pressure iska typical compression site nahi hai.
 
-- **B.** Existing contracture aur tolerated range ko surgical exposure ke saath balance karte hain. Team suitable supports use karke avoidable stretch aur compression minimize karti hai.
+- **B.** Common fibular nerve fibular neck ke paas superficial hota hai. Leg support ka pressure is nerve ko injure kar sakta hai. Appropriate padding aur post contact avoid karna important hai.
 
-- **C.** Previous patient ki anatomy aur limitations alag ho sakti hain. Position individualized honi chahiye.
+- **C.** Obturator nerve medial thigh ke muscles se related hai. Fibular head par local compression se common fibular nerve zyada directly vulnerable hai.
 
-- **D.** Preparation speed se patient-specific limitations ignore nahi karni chahiye. Safe coordinated movement ko priority milti hai.
+- **D.** Tibial nerve posterior leg mein descend karta hai. Lateral fibular head ke superficial nerve course se iska anatomy match nahi karta.
 
-**Exam clue:** Patient-specific contracture ko standard positioning template par priority do.
+**Exam clue:** Lithotomy mein lateral fibular head ko direct leg-holder pressure se protect karo.
 
-**Clinical reference:** [AORN — brachial plexus protection](https://www.aorn.org/article/brachial-plexus-nerve-damage)
+**Clinical reference:** [StatPearls — patient positioning](https://www.ncbi.nlm.nih.gov/books/NBK513320/)
 
 **Dedicated MCQ video:** Exact question mapping and playback pending.
 

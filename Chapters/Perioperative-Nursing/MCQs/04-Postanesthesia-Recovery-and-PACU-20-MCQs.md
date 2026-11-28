@@ -520,7 +520,7 @@
 
 **Exam clue:** Regional block mein protective sensation ka loss injury risk badhata hai.
 
-**Clinical reference:** [NHS — spinal or epidural anesthesia recovery](https://www.ncic.nhs.uk/patients-visitors/patient-information-leaflets/anaesthetics-discharge-advice-following-spinal-or-epidural-analgesia-or-anaesthesia)
+**Clinical reference:** [NHS — adult day surgery discharge information](https://www.gloshospitals.nhs.uk/your-visit/patient-information-leaflets/adult-day-surgery-discharge-information/)
 
 **Dedicated MCQ video:** Exact question mapping and playback pending.
 
