@@ -24,3 +24,18 @@
 - [Voogly by Sahu Sir MSE — teaching and MCQ recap](https://www.youtube.com/watch?v=L2-XhdUbGKs). Indexed description lists MCQ practice/recap at 38:30. This is a published chapter marker, not a verified question timestamp. Exact question mapping, playback and dedicated subtopic coverage pending.
 
 [🏠 Chapter](README.md)
+
+
+## Group 02A — Psychiatric history taking (28 November 2026)
+
+Group 02A ki [detailed history-taking theory](Concepts/02A-Psychiatric-History-Taking.md), [30 original MCQs](MCQs/02A-Psychiatric-History-Taking-30-MCQs.md), [RRB reported exam adaptation](Previous-Year-Questions/02A-History-Assessment-Reported-Evidence.md) aur [original diagram](Assets/psychiatric-history-assessment.svg) study-ready hain. Abhi tak 64 chapter-local originals (34 prior indexed + 30 newly published), 7 reported adaptations aur 3 diagrams available hain. Chapter README aur coverage-map reconciliation pending hai.
+
+| Resource | Evidence |
+|---|---|
+| [Merck Manual — Initial psychiatric assessment](https://www.merckmanuals.com/professional/psychiatric-disorders/approach-to-the-patient-with-psychiatric-symptoms/initial-psychiatric-assessment) | Direct clinical HTML retrieved. |
+| [OpenStax — Nursing assessment and clinical tools](https://openstax.org/books/psychiatric-mental-health/pages/3-3-nursing-assessment-and-clinical-tools) | Direct clinical HTML retrieved. |
+| [RRB Staff Nurse 21 July 2019 Shift II, reported Q70](https://cdn-images.prepp.in/public/image/RRBStaffNursePreviousYearPaper21July2019ShiftII_c1462d44d3e808767aae4d725a6b3400.pdf#page=24) | Third-party PDF text and question page image checked. Official booklet/key pending. |
+| [History taking in Hindi](https://www.youtube.com/watch?v=MPaFWSR70lY) and [History taking in Mental Health Nursing](https://www.youtube.com/watch?v=DsDpHbc9Lt0) | Indexed teaching candidates only. Direct fetch failed. Playback, channel and duration pending. |
+| [NPrep general psychiatric question practice](https://www.youtube.com/watch?v=KOUHyWiL0eY) | Indexed mixed-topic description. History-specific MCQ coverage not established. |
+
+Dedicated practice video gap: original Q1–30 and reported Q1. Exact video mappings zero. Official HPRCA and other exam key matches remain pending. Next, psychosocial assessment as Group 02B, then cognitive screening and investigations. Mock-exclusive bank remains zero of 1,200.
