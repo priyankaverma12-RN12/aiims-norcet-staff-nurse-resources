@@ -15,8 +15,10 @@
 
 ## Manual chapter work claim
 
-State: CLAIMED
-Owner: content-first-community-20261128T094449Z
-Scope: Community Health Nursing topic-wise original MCQ banks only, isolated candidate branch community-health-b01-20261128, no shared navigation writes.
-Claimed UTC: 2026-11-28T09:44:49Z
-Expiry UTC: 2026-11-28T10:14:49Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+Latest candidate: [PR62 — Batch 01](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/62), head `b6157733d7f4e1b0180e98569d35f47ddce7fb84`. Five banks, 100 original MCQs, 400 individual Roman Hinglish option rationales, 100 exam clues, 16 Easy, 55 Medium, 29 Difficult. All bank and candidate index exact remote readbacks passed, 100 distinct normalized stems, four options and aligned key per question. Not live. Preserve four existing originals and two reported adaptations. Resume actual remaining topic banks on the same candidate branch after exclusive ownership, then ten 120-question original-only mocks, then source-traced PYQs. Concept/visual, video and independent release checks remain pending. No repeat retrospective audit during content creation. Preserve other owners and five hourly schedules.
