@@ -119,3 +119,7 @@ Teaching: [Level Up RN sterile field](https://www.youtube.com/watch?v=KzUL1thZM6
 ## Group 09B catheter insertion and removal
 
 [Concepts](09B-Urinary-Catheter-Insertion-and-Removal.md) · [24 original MCQs](../MCQs/09B-Urinary-Catheter-Insertion-and-Removal-24-MCQs.md) · [Evidence](../Previous-Year-Questions/09B-Catheter-Insertion-Reported-Evidence.md). [JINC E-NURSING catheterization NORCET10 practice](https://www.youtube.com/watch?v=ofQ1VNcp-aQ) ka indexed title aur description procedure-based MCQ preparation identify karte hain. Sabhi 24 questions ki exact mapping aur playback pending hai. [RegisteredNurseRN Foley removal](https://www.youtube.com/watch?v=9pRyoBXAYl0) aur [UroNurse removal](https://www.youtube.com/watch?v=vKGAO21Gdxg) teaching descriptions hain, dedicated MCQ verification nahi. CDC aur EAUN 2024 direct clinical guidance concept page mein linked hai.
+
+## Group 09C catheter maintenance and CAUTI
+
+[Concepts](09C-Catheter-Maintenance-and-CAUTI-Prevention.md) · [23 originals](../MCQs/09C-Catheter-Maintenance-and-CAUTI-Prevention-23-MCQs.md) · [Evidence](../Previous-Year-Questions/09C-Catheter-Maintenance-Reported-Evidence.md). [JINC E-NURSING catheterization practice](https://www.youtube.com/watch?v=ofQ1VNcp-aQ) ka indexed title aur description topic practice ke liye relevant hain. Exact question coverage aur playback abhi pending hai. [Catheter bundle teaching](https://www.youtube.com/watch?v=N6UCB3JUvvY) teaching candidate hai. CDC, EAUN, EAU aur BAUS source links concept page mein hain.
