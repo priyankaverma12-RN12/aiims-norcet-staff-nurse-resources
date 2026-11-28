@@ -408,3 +408,5 @@
 
 - [WHO iodine deficiency population indicators](https://www.who.int/data/nutrition/nlis/info/iodine-deficiency), indexed school-age population median categories. [DGHS NIDDCP](https://dghs.mohfw.gov.in/niddcp.php), indexed household 15 ppm target. [NIH ODS Iodine](https://ods.od.nih.gov/factsheets/Iodine-HealthProfessional/), indexed, direct open 403. Direct clinical thyroid, pregnancy, amiodarone and radioiodine protocol review remains pending. No individualized dosing advice.
 - [Voogly by Sahu Sir, Complete Nutrition MCQs + Concepts](https://www.youtube.com/watch?v=6t6nwvW56l4) indexed description includes iodine. Mixed-format lead only, exact Q1–20 question mapping/playback pending. No historical provenance claimed.
+
+- WHO population iodine indicators and DGHS NIDDCP were subsequently retrieved directly. [ATA low-iodine diet](https://www.thyroid.org/low-iodine-diet/) and [2025 ATA guideline](https://pmc.ncbi.nlm.nih.gov/articles/13090833/) indexed. [Top Nutrition MCQs](https://www.youtube.com/watch?v=S5tv1fJFtzM) indexed only. Q1–20 exact evidence pending.

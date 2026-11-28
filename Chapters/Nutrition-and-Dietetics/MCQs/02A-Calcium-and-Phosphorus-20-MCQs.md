@@ -6,7 +6,7 @@
 
 ### Q1. A patient who eats fish but avoids dairy asks why canned sardines eaten with their softened bones can contribute more calcium than boneless fish fillets. Which explanation is correct?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Calcium and phosphorus | **Type:** Original practice
+**Difficulty:** Medium | **Priority:** High | **Topic:** Calcium and phosphorus | **Type:** Original practice
 
 - **A.** The edible mineralized bones supply calcium in addition to the fish flesh
 - **B.** Fish oil contains calcium as its principal energy nutrient
@@ -408,3 +408,5 @@
 
 - [NIH ODS Calcium](https://ods.od.nih.gov/factsheets/Calcium-HealthProfessional/) direct HTML retrieved. [Phosphorus](https://ods.od.nih.gov/factsheets/Phosphorus-HealthProfessional/) indexed, direct open 403. Clinical transfusion, hypocalcaemia, CKD, binder and stone management require direct specialist guidance and independent clinical review.
 - [Voogly by Sahu Sir, Complete Nutrition MCQs + Concepts](https://www.youtube.com/watch?v=6t6nwvW56l4) indexed description lists mineral topics. Supplementary mixed-format lead, not verified specific question practice. Q1–20 exact mapping/playback pending. No historical provenance claimed.
+
+- Additional sources: [NIDDK kidney stones diet](https://www.niddk.nih.gov/health-information/urologic-diseases/kidney-stones/eating-diet-nutrition) direct HTML retrieved, [Merck hypocalcaemia](https://www.merckmanuals.com/professional/nephrology/electrolyte-disorders/hypocalcemia), [Merck hypophosphataemia](https://www.merckmanuals.com/professional/nephrology/electrolyte-disorders/hypophosphatemia), [NIDDK CKD complications](https://www.niddk.nih.gov/health-information/professionals/clinical-tools-patient-management/kidney-disease/identify-manage-patients/manage-ckd/treat-complications-comorbidities) indexed. [Minerals MCQ lead](https://www.youtube.com/watch?v=uym8eUM1Jm0), description indexed, direct watch failed. Q1–20 exact evidence pending.

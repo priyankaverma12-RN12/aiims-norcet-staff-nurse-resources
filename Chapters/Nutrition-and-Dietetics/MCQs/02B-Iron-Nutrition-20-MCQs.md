@@ -144,7 +144,7 @@
 
 </details>
 
-### Q8. A nurse compares a vegetarian patient's two iron-containing meals: one includes a small serving of meat and the other has the same plant ingredients without meat. What effect may the meat have on the absorption of the plant iron?
+### Q8. A nurse compares two hypothetical iron-containing menus: one includes a small serving of meat and the other has the same plant ingredients without meat. What effect may the meat have on the absorption of the plant iron?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Iron nutrition | **Type:** Original practice
 
@@ -246,7 +246,7 @@
 
 ### Q13. A hypothetical fortified cereal supplies 8 mg of iron per 100 g of dry product. A patient uses a 35 g dry portion. How much iron does this portion contain before preparation losses?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Iron nutrition | **Type:** Original practice
+**Difficulty:** Medium | **Priority:** High | **Topic:** Iron nutrition | **Type:** Original practice
 
 - **A.** 8 mg
 - **B.** 2.8 mg
@@ -326,7 +326,7 @@
 
 ### Q17. A public-health report shows a fall in anaemia prevalence after a nutrition intervention. Which conclusion is scientifically most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Iron nutrition | **Type:** Original practice
+**Difficulty:** Medium | **Priority:** High | **Topic:** Iron nutrition | **Type:** Original practice
 
 - **A.** Anaemia improvement is encouraging, but iron-specific status and other causes need separate evaluation
 - **B.** Every prevented case proves iron deficiency was its only cause
@@ -410,3 +410,5 @@
 - [Voogly by Sahu Sir, Complete Nutrition MCQs + Concepts](https://www.youtube.com/watch?v=6t6nwvW56l4) indexed description includes iron. Mixed-format lead, Q1–20 exact practice mapping and playback pending. No historical provenance claimed.
 
 - Additional indexed references after overlap correction: [FSSAI fortified food](https://www.fssai.gov.in/citizen/fortified-food), [WHO antenatal iron](https://www.who.int/tools/elena/interventions/daily-iron-pregnancy), [NHS haemochromatosis treatment](https://www.nhs.uk/conditions/haemochromatosis/treatment/), [WHO infant and young child feeding](https://www.who.int/en/news-room/fact-sheets/detail/infant-and-young-child-feeding). DMT1 and regulated iron excretion source-specific review pending.
+
+- Additional indexed physiology references: [Intestinal iron absorption](https://pubmed.ncbi.nlm.nih.gov/24994858/) and [DMT1 review](https://pubmed.ncbi.nlm.nih.gov/38292117/). [Minerals MCQ lead](https://www.youtube.com/watch?v=uym8eUM1Jm0), direct watch failed. Q1–20 exact evidence pending.
