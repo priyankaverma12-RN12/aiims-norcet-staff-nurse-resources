@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr61-b07-20261128-1157Z
+Scope: PR61 Batch07 only: NPPCF, IDSP programme reporting, NPPC community care, RKSK, NUHM. Exclude all ten PR62 banks and adjacent specialty treatment. No shared navigation or PR62 writes.
+Claimed UTC: 2026-11-28T11:57:25Z
+Expiry UTC: 2026-11-28T12:27:25Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
