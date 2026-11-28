@@ -1,10 +1,10 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: forward-pr48-audit-20261128-083122Z
+Scope: PR48 isolated Group10A–D corrective review, candidate files only. No Renal writes or shared navigation changes.
+Claimed UTC: 2026-11-28T08:31:22Z
+Expiry UTC: 2026-11-28T09:01:22Z
 
 ## Latest isolated draft checkpoint — Group10A–D, 28 November 2026
 
