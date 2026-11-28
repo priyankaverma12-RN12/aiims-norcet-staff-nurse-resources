@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="570" viewBox="0 0 900 570" role="img" aria-labelledby="title desc">
+<title id="title">Nutrition menu and budget planning workflow</title>
+<desc id="desc">Start with individualized nutrition targets, plan meal allocations using named exchange profiles, calculate purchase quantities using edible yield, deduct usable stock, then assess cost and feasibility before approving the menu.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#334155"/></marker></defs>
+<rect width="900" height="570" rx="16" fill="#f8fafc"/>
+<g font-family="Arial,sans-serif" fill="#0f172a" text-anchor="middle">
+<text x="450" y="36" font-size="24" font-weight="bold">From nutrition targets to a feasible menu</text>
+<rect x="65" y="56" width="770" height="65" rx="10" fill="#dbeafe" stroke="#1d4ed8"/>
+<text x="450" y="81" font-size="18" font-weight="bold">1. Set individualized requirements</text>
+<text x="450" y="103" font-size="15">Age, activity, clinical needs, available budget and food access</text>
+<path d="M450 121 V143" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="65" y="148" width="770" height="65" rx="10" fill="#e0f2fe" stroke="#0369a1"/>
+<text x="450" y="173" font-size="18" font-weight="bold">2. Allocate meals and exchanges</text>
+<text x="450" y="195" font-size="15">Use named profiles; check carbohydrate, protein, fat and total energy</text>
+<path d="M450 213 V235" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="65" y="240" width="770" height="92" rx="10" fill="#dcfce7" stroke="#15803d"/>
+<text x="450" y="265" font-size="18" font-weight="bold">3. Calculate usable quantity and purchases</text>
+<text x="450" y="288" font-size="15">As-purchased weight = edible target / edible fraction</text>
+<text x="450" y="309" font-size="15">Deduct safe usable stock on the same weight basis; account for pack sizes</text>
+<path d="M450 332 V354" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="65" y="359" width="770" height="75" rx="10" fill="#fff7ed" stroke="#c2410c"/>
+<text x="450" y="383" font-size="18" font-weight="bold">4. Compare costs and practicality</text>
+<text x="450" y="405" font-size="15">Cost per edible kg = purchase price per kg / edible fraction</text>
+<text x="450" y="423" font-size="14">Check equipment, fuel, time, safe storage and usable serving yield</text>
+<path d="M450 434 V456" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="65" y="461" width="770" height="65" rx="10" fill="#ede9fe" stroke="#6d28d9"/>
+<text x="450" y="486" font-size="18" font-weight="bold">5. Verify and revise the plan</text>
+<text x="450" y="508" font-size="15">Check daily allocations, actual yield and cost; revise if constraints fail</text>
+<path d="M835 494 H863 V88 H841" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="450" y="551" font-size="13" fill="#475569">Original study diagram. Hypothetical calculations, not a therapeutic diet prescription.</text>
+</g>
+</svg>
