@@ -17,13 +17,17 @@
 
 **Correct: B. 5.8 days**
 
-**B.** Pehle total patient-days nikalte hain, 12 × 4 + 18 × 7 = 174. Inko 30 patients se divide karne par 5.8 days milte hain.
+**B.** Pehle group totals nikalte hain: 12 × 4 = 48 days aur 18 × 7 = 126 days. Combined mean = (48 + 126)/(12 + 18) = 174/30 = 5.8 days, assuming given means exact hain aur patient groups nonoverlapping hain.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Yeh dono ward means ka simple average hai. Ward sizes different hone se is method mein patient-level weight galat ho jata hai.
 - **C.** Agar ward sizes ulte apply kiye jayein toh (18 × 4 + 12 × 7)/30 = 5.2 milta hai. Actual patient counts ke according weighting karni chahiye.
 - **D.** Dono means ko add karna pooled mean nahi hai. Total observations ko account karna zaroori hai.
+
+**Exam clue:** Combined mean ke liye group means ko group sizes se weight karo.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.5](https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -50,6 +54,10 @@
 - **B.** 18 ko sirf remaining 72 records se divide karne par 0.25 milta hai. Relative frequency mein total 90 records denominator hain.
 - **C.** 90/18 reciprocal hai. Relative frequency ko zero aur one ke beech hona chahiye.
 
+**Exam clue:** Relative frequency = category count / total observations.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.2](https://openstax.org/books/introductory-statistics-2e/pages/2-2-histograms-frequency-polygons-and-time-series-graphs). Direct HTML reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -74,6 +82,10 @@
 - **B.** Mean ko extreme values pull kar sakti hain aur maximum directly largest delay hai. Yeh pair central spread robustly describe nahi karta.
 - **C.** Range largest minus smallest hai, isliye extreme delay isko strongly influence karta hai. Minimum typical waiting time nahi batata.
 - **D.** Mode most frequent value hai aur continuous waiting times mein exact repeats kam ho sakte hain. Variance large deviations ko square karti hai, isliye robust spread nahi hai.
+
+**Exam clue:** Extreme values ke saath median aur IQR often robust choices hain.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.5](https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -100,6 +112,10 @@
 - **B.** 8 aur 20 ka average 14 hai, lekin average of quartiles IQR nahi hai.
 - **D.** 20/8 = 2.5 ek ratio hai, spread in hours nahi. IQR subtraction se nikalta hai.
 
+**Exam clue:** IQR = Q3 − Q1.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.3](https://openstax.org/books/introductory-statistics-2e/pages/2-3-measures-of-the-location-of-the-data). Direct HTML retrieved. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -125,6 +141,10 @@
 - **C.** Uniform shape mein comparable intervals ki frequency roughly similar hoti hai. Long one-sided tail uniformity ka indication nahi hai.
 - **D.** Symmetry mein central location ke dono sides ka pattern roughly mirror hota hai. One-sided long tail is description se fit nahi hoti.
 
+**Exam clue:** Skewness ka direction tail se identify karo.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.6](https://openstax.org/books/introductory-statistics-2e/pages/2-6-skewness-and-the-mean-median-and-mode). Related textbook section, direct verification pending. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -148,7 +168,11 @@
 
 - **A.** 19 do baar aaya hai. Ordered data mein yeh central value bhi ho sakti hai, lekin highest frequency 15 ki hai.
 - **B.** 23 maximum count hai aur ek hi baar aaya hai. Maximum aur mode different concepts hain.
-- **C.** 127/7 roughly 18.14 mean hai. Arithmetic mean frequency-based mode nahi hota.
+- **C.** 15 + 19 + 15 + 23 + 15 + 19 + 21 = 127, aur 127/7 roughly 18.14 mean hai. Arithmetic mean frequency-based mode nahi hota.
+
+**Exam clue:** Mode most frequent value hai, largest value nahi.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.5](https://openstax.org/books/introductory-statistics-2e/pages/2-5-measures-of-the-center-of-the-data). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -167,13 +191,17 @@
 
 **Correct: C. 4**
 
-**C.** Sample variance ke usual estimator mein divisor n − 1 hota hai. Yahan n = 5 hai, isliye divisor 4 hai.
+**C.** Sample variance ke usual estimator mein divisor n − 1 hota hai. Yahan n = 5 hai, isliye divisor 4 hai. Sample mean 35/5 = 7 hai, squared deviations 16 + 4 + 0 + 1 + 25 = 46 hain, aur usual sample variance 46/4 = 11.5 hai.
 
 **Baaki options kyun galat hain?**
 
 - **A.** n se divide karna complete population variance ya alternate descriptive convention mein use ho sakta hai. Question usual sample variance pooch raha hai.
 - **B.** n + 1 standard sample variance divisor nahi hai. Mean estimate karne par one degree of freedom use hoti hai.
 - **D.** n squared ka variance calculation mein yahan koi basis nahi hai. Squaring deviations ki hoti hai, sample size ki nahi.
+
+**Exam clue:** Usual sample variance ke liye n − 1 divisor hota hai.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.7](https://openstax.org/books/introductory-statistics-2e/pages/2-7-measures-of-the-spread-of-the-data). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -200,6 +228,10 @@
 - **C.** Variance ko two se divide karna SD calculation nahi hai. Square root lena padta hai.
 - **D.** 36 ka square 1296 hai, lekin SD ke liye inverse square operation chahiye. Units bhi correctly convert nahi hui hain.
 
+**Exam clue:** SD variance ka positive square root hai.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.7](https://openstax.org/books/introductory-statistics-2e/pages/2-7-measures-of-the-spread-of-the-data). Direct HTML reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -217,13 +249,17 @@
 
 **Correct: A. The ward with mean 10 minutes**
 
-**A.** CV = SD/mean × 100. Pehle ward ka 20% hai aur second ka 15%, isliye first relatively more variable hai.
+**A.** CV = SD/mean × 100. Pehle ward ka CV = 2/10 × 100 = 20%, aur second ka CV = 3/20 × 100 = 15%. Isliye first ward relative variability mein higher hai. CV near-zero means ke saath unstable ho sakta hai, jo yahan problem nahi hai.
 
 **Baaki options kyun galat hain?**
 
 - **B.** Second ward ka absolute SD 3 hai, lekin mean bhi larger hai. Relative variability ke liye dono ko ratio mein compare karna hai.
 - **C.** 2/10 aur 3/20 equal nahi hain. Isliye same unit hone ke bawajood relative spread equal nahi hai.
 - **D.** Elapsed time ka meaningful zero hai. Positive means ke saath CV comparison mathematically meaningful ho sakta hai.
+
+**Exam clue:** CV = SD / mean × 100, meaningful ratio scale aur nonzero mean check karo.
+
+**Related concept reference:** [NIST Coefficient of Variation](https://www.itl.nist.gov/div898/software/dataplot/refman2/auxillar/coefvari.htm). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -250,6 +286,10 @@
 - **C.** Scatter plot normally do numerical variables ke paired relationship ko show karta hai. Yahan single continuous variable ki distribution poochi gayi hai.
 - **D.** Bar chart categories ke counts ke liye useful hai. Continuous ordered intervals ke liye histogram more appropriate hai.
 
+**Exam clue:** Equal-width numerical intervals ki distribution ke liye histogram use karo.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.2](https://openstax.org/books/introductory-statistics-2e/pages/2-2-histograms-frequency-polygons-and-time-series-graphs). Direct HTML reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -275,30 +315,38 @@
 - **B.** Yahan paired numerical variables available nahi hain. Category counts compare karna objective hai.
 - **C.** Box plot numeric distribution ki quartiles aur spread summarize karta hai. Location names ka median ya IQR meaningful nahi hai.
 
+**Exam clue:** Mutually exclusive nominal category counts bar chart mein compare ho sakte hain.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.1](https://openstax.org/books/introductory-statistics-2e/pages/2-1-stem-and-leaf-graphs-stemplots-line-graphs-and-bar-graphs). Direct HTML retrieved. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
 
-### Q12. A nursing supervisor wants to visualize monthly medication-error rates over one year to identify changes over time. Which display is most appropriate?
+### Q12. A bar chart compares ward satisfaction scores of 78 and 82 on a scale from 0 to 100. Its vertical axis begins at 76, making the second bar appear three times as tall. What is the best correction if bar lengths represent score magnitudes?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** Pie chart of all twelve rates
-- **B.** Histogram of the rates alone
-- **C.** Time-series line graph
-- **D.** Alphabetically sorted bar chart of month names
+- **A.** Keep the truncated baseline because both values are labeled
+- **B.** Convert the scores into percentages of their combined total
+- **C.** Start the bar chart at zero and display the actual scores
+- **D.** Remove the smaller score to reduce visual distortion
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Time-series line graph**
+**Correct: C. Start the bar chart at zero and display the actual scores**
 
-**C.** Months ko chronological order mein rakhkar rates connect karne se trend aur fluctuations dikhte hain. Yeh temporal pattern evaluate karne ke liye useful hai.
+**C.** Bar lengths score magnitude encode kar rahi hain, isliye meaningful zero baseline use karo. Actual values 78 aur 82 display karne se four-point difference ko proportionately represent kar sakte hain. Agar small difference highlight karna ho, clearly labeled dot plot bhi alternative ho sakta hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Pie chart part-to-whole proportions ke liye hota hai. Monthly rates ko pie slices banana time order aur trend hide kar sakta hai.
-- **B.** Histogram rate distribution dikhata hai, lekin particular month ki identity lose ho jati hai. Time changes dekhne ke liye sequence preserve chahiye.
-- **D.** Alphabetical order actual time sequence distort karta hai. Trend assess karne ke liye months chronological hone chahiye.
+- **A.** Labels actual values batate hain, lekin 76 se bars start karne par displayed lengths 2 aur 6 ho jati hain. Is visual ratio se small difference exaggerated lag sakta hai. Labels alone distortion remove nahi karte.
+- **B.** Satisfaction scores independent measurements hain, combined total ke parts nahi. Unhe total shares mein convert karna intended comparison ka meaning change karega.
+- **D.** Smaller ward score remove karne se comparison incomplete aur selectively reported ho jayega. Data preserve karke misleading axis correct karna chahiye.
+
+**Exam clue:** Length-encoded bar chart mein zero baseline preserve karo.
+
+**Related concept reference:** [UK Government Analysis Function, Bar charts](https://analysisfunction.civilservice.gov.uk/support/communicating-analysis/introduction-to-data-visualisation-e-learning/module-5-bar-charts/). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -325,6 +373,10 @@
 - **C.** Box shape aur distant point se exact mean equality prove nahi hoti. Mean calculate karke compare karna padega.
 - **D.** Distant point clearly variation dikhata hai. Short box sirf middle half ke spread ke baare mein batati hai.
 
+**Exam clue:** Box ki length IQR batati hai, flagged observation ko investigate karo.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.4](https://openstax.org/books/introductory-statistics-2e/pages/2-4-box-plots). Related textbook section, direct verification pending. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -349,6 +401,10 @@
 - **A.** 29 upper fence 30 se kam hai. Is rule ke according yeh upper outlier nahi hai.
 - **B.** 30 fence ke exactly equal hai. Question strictly exceeds pooch raha hai, isliye 30 answer nahi hai.
 - **D.** 18 Q3 khud hai aur fence usse higher hai. Q3 ko upper outlier limit samajhna galat hai.
+
+**Exam clue:** Upper fence = Q3 + 1.5 × IQR.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.3](https://openstax.org/books/introductory-statistics-2e/pages/2-3-measures-of-the-location-of-the-data). Direct HTML retrieved. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -375,6 +431,10 @@
 - **C.** Zero z-score mean ke equal observation ko represent karta hai. Yeh score mean se do SD away hai.
 - **D.** −0.5 half SD below mean indicate karta hai. Question mein full two SD difference diya gaya hai.
 
+**Exam clue:** Mean se below value ka z-score negative hota hai.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 6.1](https://openstax.org/books/introductory-statistics-2e/pages/6-1-the-standard-normal-distribution). Direct HTML retrieved. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -400,6 +460,10 @@
 - **B.** 99.7% approximately three SD ke andar hota hai. Is question mein sirf one SD range hai.
 - **C.** 50% distribution ka half describe karta hai. Symmetric central one-SD interval dono sides mila kar about 68% cover karta hai.
 
+**Exam clue:** Normal distribution ke central one-SD interval mein approximately 68% values hoti hain.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 6.1](https://openstax.org/books/introductory-statistics-2e/pages/6-1-the-standard-normal-distribution). Direct HTML retrieved. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
@@ -417,13 +481,17 @@
 
 **Correct: C. Approximately 90% of waiting times are at or below 42 minutes**
 
-**C.** Percentile ordered distribution mein relative position batata hai. 90th percentile ka matlab majority values is level tak hain, exact fraction ties aur calculation method se vary kar sakta hai.
+**C.** Percentile ordered distribution mein relative position batata hai. 90th percentile roughly 90% observations ke at-or-below threshold ko indicate karta hai. Ties aur interpolation convention ki wajah se actual observed fraction exactly 90% hona zaroori nahi hai.
 
 **Baaki options kyun galat hain?**
 
 - **A.** Percentile exact value ki frequency nahi batata. Patients ke waiting times 42 se lower bhi ho sakte hain.
 - **B.** Is option mein percentile aur measured waiting time exchange kar diye gaye hain. Given number 42 minutes threshold hai.
 - **D.** Mean arithmetic average hai aur percentile position measure hai. Dono necessarily equal nahi hote.
+
+**Exam clue:** Percentile relative position hai, exact-value frequency nahi.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.3](https://openstax.org/books/introductory-statistics-2e/pages/2-3-measures-of-the-location-of-the-data). Direct HTML retrieved. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -450,30 +518,38 @@
 - **C.** Yeh sirf zero category hai. At most one mein one bhi count hoga.
 - **D.** 14 sabhi shifts ka total hai. Two aur three missed observations wali shifts stated threshold se bahar hain.
 
+**Exam clue:** At most ka matlab specified limit aur uske below dono include hain.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.2](https://openstax.org/books/introductory-statistics-2e/pages/2-2-histograms-frequency-polygons-and-time-series-graphs). Direct HTML reviewed. Independent item-level certification pending.
+
 **YouTube MCQ practice:** verification pending.
 
 </details>
 
-### Q19. A quality report gives 8 falls during 2,000 patient-days. Which rate per 1,000 patient-days is correct?
+### Q19. A dataset of procedure durations has a sample variance of 4 minutes squared. Every duration is converted from minutes to seconds. What is the new sample variance?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
-- **A.** 8 falls per 1,000 patient-days
-- **B.** 0.4 falls per 1,000 patient-days
-- **C.** 250 falls per 1,000 patient-days
-- **D.** 4 falls per 1,000 patient-days
+- **A.** 4 seconds squared
+- **B.** 240 seconds squared
+- **C.** 120 seconds squared
+- **D.** 14,400 seconds squared
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. 4 falls per 1,000 patient-days**
+**Correct: D. 14,400 seconds squared**
 
-**D.** Rate = 8/2000 × 1000 = 4. Patient-days exposure time reflect karte hain, isliye denominator admission count nahi hai.
+**D.** Har duration seconds mein 60 times hota hai. Variance ka conversion 4 × 60² = 4 × 3600 = 14,400 seconds squared hai. Check karne ke liye SD 120 seconds ka square bhi 14,400 hota hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** 8 observed event count hai, lekin actual exposure 2000 patient-days hai. Standard denominator par rate scale karna hai.
-- **B.** 0.4 tab milta hai jab numerator ko 100 patient-days ke scale par express karein. Question 1000 scale poochta hai.
-- **C.** 2000/8 = 250 patient-days per fall hai. Yeh event rate ka reciprocal hai, requested rate nahi.
+- **A.** Numerical variance unchanged nahi rahegi kyunki each duration 60 se multiply hota hai. Variance squared deviations par based hai, isliye conversion factor bhi square karna hota hai.
+- **B.** 4 × 60 = 240 linear conversion use karta hai. Standard deviation linear factor se change hoti hai, variance factor squared se change hoti hai.
+- **C.** Original SD = square root of 4 = 2 minutes. Converted SD 2 × 60 = 120 seconds hai. Yeh SD hai, variance nahi, isliye squared unit label galat hoga.
+
+**Exam clue:** Units convert karte waqt variance ko conversion factor ke square se multiply karo.
+
+**Related concept reference:** [Penn State STAT 500, Adding and Multiplying Constants](https://online.stat.psu.edu/stat500/Lesson01). Indexed formula reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
@@ -499,6 +575,10 @@
 - **B.** Agar every comparable day higher ho toh unchanged mean explain karna difficult hai. SD increase all values rising ka proof nahi hai.
 - **C.** Mean aur SD different properties measure karte hain. Same mean ke saath different spread perfectly possible hai.
 - **D.** Census spread aur falls count alag outcomes hain. Fall data ke bina is conclusion ko support nahi kiya ja sakta.
+
+**Exam clue:** Mean same hone par bhi dispersion different ho sakti hai.
+
+**Related concept reference:** [OpenStax Introductory Statistics 2e, section 2.7](https://openstax.org/books/introductory-statistics-2e/pages/2-7-measures-of-the-spread-of-the-data). Direct HTML reviewed. Independent item-level certification pending.
 
 **YouTube MCQ practice:** verification pending.
 
