@@ -54,12 +54,18 @@ with sync_playwright() as p:
         respiratory=page.locator(".chapter-card").filter(has=page.locator(".chapter strong",has_text="Respiratory System"))
         expect(respiratory.locator(".chapter .resource-question-count")).to_contain_text("MCQs")
         expect(respiratory.locator(".chapter-card-progress")).to_be_visible()
+        resp=next(c for c in expected["chapters"] if c["id"]=="Respiratory-System")
+        resp_mocks=[f for f in resp["records"] if f["category"]=="mock" and expected["resources"][f["path"]]["type"]=="Mock test" and not expected["resources"][f["path"]]["draft"]]
+        expect(respiratory.locator(".chapter .study-tag[data-kind=mock]")).to_have_text(f"{len(resp_mocks)} mock tests · {sum(f['slots'] for f in resp_mocks):,} questions")
         respiratory.get_by_role("link",name="Respiratory System MCQs",exact=True).click()
         ready()
         sample="Chapters/Respiratory-System/MCQs/Day-01-Complete-Respiratory-Anatomy-Physiology.md"
         bank=page.locator(".tracked-resource-card").filter(has=page.locator(".file-card strong",has_text="Day 1 — Respiratory Anatomy & Physiology")).first
         expect(bank.locator(".file-count")).to_have_text("44 questions")
+        expect(bank.locator(".study-tag[data-role=type]")).to_have_text("MCQ practice")
+        expect(bank.locator(".study-tag[data-role=status]")).to_have_text("Not started")
         bank.locator("input[type=checkbox]").check()
+        expect(bank.locator(".study-tag[data-role=status]")).to_have_text("✓ Completed")
         expect(bank.locator(".tracked-resource-line strong")).to_have_text("100%")
         assert page.evaluate("(p)=>loadCompletion()[p].slots",sample)==44
         page.reload()
@@ -132,7 +138,9 @@ with sync_playwright() as p:
         expect(records).to_have_count(len(chapter["records"]))
         print(f"Published metrics resource cards {width}x{height}: exact counts, full links, responsive grid and filtering passed.",flush=True)
 
-        expected_values=page.evaluate("(values)=>values.map(n=>n.toLocaleString('en-IN'))",[chapter["totals"][k] for k in ["mcq","mock","pyq","imported","embedded"]])
+        mocks=[f for f in chapter["records"] if f["category"]=="mock" and expected["resources"][f["path"]]["type"]=="Mock test" and not expected["resources"][f["path"]]["draft"]]
+        expected_values=page.evaluate("(values)=>values.map(n=>n.toLocaleString('en-IN'))",[chapter["totals"]["mcq"],len(mocks),chapter["totals"]["pyq"],chapter["totals"]["imported"],chapter["totals"]["embedded"]])
+        expect(page.locator(".mock-question-total")).to_have_text(f"{sum(f['slots'] for f in mocks):,} questions")
         assert page.locator(".metric-tile strong").all_text_contents()==expected_values
         assert page.locator(".metric-tile").first.evaluate("(e)=>getComputedStyle(e).animationName==='none'")
         fit()

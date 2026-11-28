@@ -60,3 +60,7 @@ Library chapter cards show separate inventory counts and completion bars; resour
 ### V10 — Simple study language and immediate mistake review
 
 All website-generated question-count labels use questions or MCQs; internal schema field names remain compatible. The original study notes are unchanged. Review mistakes offers up to five currently incorrect answers from the same bank, even before a scheduled review. A correct recheck removes the question from the mistakes list; repeated checks do not inflate daily counts. The home dashboard offers a remaining-question shortcut for the recent partly studied bank and a mistake-review shortcut when available. Weekly feedback acknowledges study days without a streak penalty. Existing progress, saved results and revision dates remain intact. Fixed the public test selector to target the search box rather than the completion checkboxes.
+
+### V10.1 — mock counts and study labels
+
+Mock test totals count published question-containing documents classified as Mock test (including short topic mocks). Draft fragments and plans are not additional tests. Draft sections and their question totals are shown separately. Existing inventory counts and stored progress are unchanged. Shared readable type, count and personal-status labels appear on chapter, topic, Metrics and Progress cards. No invented difficulty or priority badges; colour is supplementary to text. The existing tests verify actual counts and status changes.

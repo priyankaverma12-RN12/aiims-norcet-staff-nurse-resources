@@ -111,37 +111,56 @@ function attachBankProgress(root,p){
 
 // Shared card controls: one source of truth, no nested interactive elements.
 let studyInventory=null;
-function inventoryCounts(p){
- const parts=p.split('/').filter(Boolean),chapter=studyInventory?.chapters.find(c=>c.id===parts[1]);
- if(!chapter)return null;
- if(parts.length===3&&parts[2]==='README.md')return chapter.totals;
- if(p.endsWith('/')){
-  const records=chapter.records.filter(f=>f.path.startsWith(p)),totals={mcq:0,mock:0,pyq:0,imported:0,embedded:0};
-  for(const f of records)totals[f.category]=(totals[f.category]||0)+f.slots;
-  return totals;
- }
- const f=chapter.records.find(x=>x.path===p);
- return f?{[f.category]:f.slots}:null;
+
+// A published mock test is a question-containing document classified as a mock,
+// not a draft fragment, plan or audit. Keep historic inventory fields unchanged.
+function mockSummary(data,records){
+ const s={tests:0,questions:0,drafts:0,draftQuestions:0,otherQuestions:0};
+ for(const f of records||[]){if(f.category!=='mock'||!f.slots)continue;const m=data?.resources?.[f.path];if(m?.draft||m?.type==='Draft question set'){s.drafts++;s.draftQuestions+=f.slots}else if(m?.type==='Mock test'){s.tests++;s.questions+=f.slots}else s.otherQuestions+=f.slots}
+ return s;
 }
-function inventoryText(p){
- const c=inventoryCounts(p);if(!c)return '';
- return Object.entries({mcq:'MCQs',mock:'mock questions',pyq:'PYQ questions',imported:'imported questions',embedded:'embedded questions'}).filter(([k])=>c[k]>0).map(([k,label])=>c[k].toLocaleString('en-IN')+' '+label).join(' · ')||'';
+function countPhrase(n,one,many=one+'s'){return n.toLocaleString('en-IN')+' '+(n===1?one:many)}
+function mockCountText(s){return countPhrase(s.tests,'mock test')+' · '+countPhrase(s.questions,'question')}
+function scopedInventoryRecords(p,data=studyInventory){
+ const parts=p.split('/').filter(Boolean),c=data?.chapters.find(x=>x.id===parts[1]);if(!c)return [];
+ if(parts.length===3&&parts[2]==='README.md')return c.records;
+ return p.endsWith('/')?c.records.filter(f=>f.path.startsWith(p)):c.records.filter(f=>f.path===p);
 }
+function inventoryLabelParts(p,data=studyInventory){
+ const records=scopedInventoryRecords(p,data),totals={mcq:0,pyq:0,imported:0,embedded:0};for(const f of records)if(Object.hasOwn(totals,f.category))totals[f.category]+=f.slots;
+ const labels=[];if(totals.mcq)labels.push({kind:'mcq',text:countPhrase(totals.mcq,'MCQ','MCQs')});
+ const mock=mockSummary(data,records);
+ if(mock.tests||mock.drafts||mock.otherQuestions||p.endsWith('/Mock-Tests/'))labels.push({kind:'mock',text:mockCountText(mock)});
+ if(mock.drafts)labels.push({kind:'draft',text:countPhrase(mock.drafts,'draft section')+' · '+countPhrase(mock.draftQuestions,'question')});
+ if(mock.otherQuestions)labels.push({kind:'neutral',text:countPhrase(mock.otherQuestions,'other mock question')});
+ if(totals.pyq)labels.push({kind:'pyq',text:countPhrase(totals.pyq,'PYQ question')});
+ if(totals.imported)labels.push({kind:'neutral',text:countPhrase(totals.imported,'imported question')});
+ if(totals.embedded)labels.push({kind:'neutral',text:countPhrase(totals.embedded,'question in notes','questions in notes')});
+ return labels;
+}
+function studyTag(label,kind='neutral'){const tag=node('span',label,'study-tag');tag.dataset.kind=kind;return tag}
+function typeTagInfo(p){const type=getResourceMeta(p).type;return ({'Theory':['Theory','theory'],'Topic MCQs':['MCQ practice','mcq'],'Mock test':['Mock test','mock'],'Previous year questions':['Previous exam questions','pyq'],'Reported exam practice':['Reported exam questions','pyq'],'Revision':['Revision','revision'],'Draft question set':['Draft · not a finished test','draft'],'Imported practice':['Imported practice','neutral'],'Research and evidence notes':['Exam notes and sources','neutral'],'Study guide':['Study guide','neutral'],'Resource collection':['Study collection','neutral']}[type]||[type,'neutral'])}
+function resourceTypeTag(p){const [label,kind]=typeTagInfo(p);return studyTag(label,kind)}
+function progressTagInfo(x){return x.done?['✓ Completed','done']:x.changed?['Updated · review again','revision']:x.checked?['In progress','active']:['Not started','neutral']}
+
+function inventoryText(p){return inventoryLabelParts(p).map(x=>x.text).join(' · ')}
 function addInventoryCount(target,p){
- const text=inventoryText(p);if(text)target.append(node('span',text,'resource-question-count'));return target;
+ const labels=inventoryLabelParts(p);if(!labels.length)return target;
+ const wrap=node('span',undefined,'resource-question-count study-labels');for(const item of labels)wrap.append(studyTag(item.text,item.kind));target.append(wrap);return target;
 }
 const progressRefreshers=new Map();
 function liveProgressRefresh(fn,element){fn();for(const el of progressRefreshers.keys())if(!el.isConnected&&el.dataset.mounted==='true')progressRefreshers.delete(el);progressRefreshers.set(element,fn);queueMicrotask(()=>{if(element.isConnected)element.dataset.mounted='true';else progressRefreshers.delete(element)})}
 if(typeof document!=='undefined')document.addEventListener('study-progress-change',()=>{for(const [el,fn] of progressRefreshers){if(el.isConnected)fn();else progressRefreshers.delete(el)}});
 function resourceCardWithProgress(anchor,p,options={}){
+ if(!anchor.querySelector('.study-tag[data-role=type]')){const tag=resourceTypeTag(p);tag.dataset.role='type';anchor.append(tag)}
  const r=progressCatalog?.find(x=>x.path===p);
  if(!r){if(options.count!==false)addInventoryCount(anchor,p);return anchor}
  const card=node('div',undefined,'tracked-resource-card'),status=node('div',undefined,'tracked-resource-status'),line=node('div',undefined,'tracked-resource-line'),text=node('span'),percent=node('strong'),meter=completionMeter(0,r.title+' progress'),control=completionControl(r);
  if(options.count!==false)addInventoryCount(anchor,p);
- line.append(text,percent);status.append(line,meter,control);card.append(anchor,status);
+ const stateTag=studyTag('Not started');stateTag.dataset.role='status';line.append(text,percent);status.append(stateTag,line,meter,control);card.append(anchor,status);
  const refresh=()=>{const x=completionState(r,loadCompletion(),loadRoutine()),value=r.slots?completionPercent(x.covered,r.slots):Number(x.done)*100;
   text.textContent=r.slots?(x.done?'Completed · ':'')+x.checked+' / '+r.slots+' checked':x.done?'Completed':'Not marked done';
-  percent.textContent=value+'%';meter.value=value;card.classList.toggle('is-completed',x.done);control.refreshCompletion()
+  const [state,kind]=progressTagInfo(x);stateTag.textContent=state;stateTag.dataset.kind=kind;percent.textContent=value+'%';meter.value=value;card.classList.toggle('is-completed',x.done);control.refreshCompletion()
  };
  liveProgressRefresh(refresh,card);return card;
 }
@@ -183,7 +202,7 @@ async function showProgress(){
    const body=node('div',undefined,'completion-resources');card.append(body);
    function populate(){if(body.children.length)return;for(const r of matches){
     const x=completionState(r,loadCompletion(),loadRoutine()),tile=node('article',undefined,'completion-resource'),a=node('a',undefined,'completion-resource-link');a.href=route(r.path);
-    a.append(node('small',progressTypes[r.kind]),node('strong',r.title));tile.append(a);
+    a.append(resourceTypeTag(r.path),node('strong',r.title));tile.append(a);const [state,kind]=progressTagInfo(x);const tag=studyTag(state,kind);tag.dataset.role='status';tile.append(tag);
     if(r.slots){const line=node('div',undefined,'completion-question-label');line.append(node('span',x.checked+' / '+r.slots+' checked'+(x.automatic?' · Auto-completed':'')),node('strong',completionPercent(x.covered,r.slots)+'% covered'));tile.append(line,completionMeter(100*x.covered/r.slots,r.title+' question coverage'));if(r.scoreable<r.slots)tile.append(node('small',r.scoreable+' questions can be answered here; read the others in the original notes','muted'))}
     tile.append(completionControl(r));tile.classList.toggle('is-completed',x.done);body.append(tile)
    }}
@@ -197,4 +216,4 @@ async function showProgress(){
  $('reset-progress').onclick=()=>resetCompletionScope(scope(),chapter.value?'this chapter':'all tracked chapters');
  document.addEventListener('study-progress-change',draw);draw();
 }
-if(typeof module!=='undefined')module.exports={completionRecords,completionState,completionSummary,clearScope,countSlots};
+if(typeof module!=='undefined')module.exports={completionRecords,completionState,completionSummary,clearScope,countSlots,mockSummary,mockCountText,inventoryLabelParts,progressTagInfo};
