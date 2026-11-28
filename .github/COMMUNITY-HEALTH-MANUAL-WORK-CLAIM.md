@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr62-b05-20261128T1642Z
+Scope: PR62 Batch05 new distinct community programme banks only: Jal Jeevan Mission water service governance, VHSNC village health accountability, WHO International Health Regulations and international notification. Exclude existing PR61/62 stems and shared navigation, draft only.
+Claimed UTC: 2026-11-28T16:42:00Z
+Expiry UTC: 2026-11-28T17:12:00Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
