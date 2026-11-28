@@ -42,3 +42,21 @@ Combined fresh remote validation at candidate 2548b6524c08c6e0874c07b151f8569839
 ## Ownership and next gates
 
 Main observed 118db1156ca35689947ccf87299ccd48088b2038 or newer. PR36 rule reconciliation merged, 30–40 existing forward topic targets preserved. Forward claim a780dbe706021b08d13f56b1ff2c9ccac9a96917 read back. Formal claims and relevant manual scopes, current open PRs and recent commits inspected. Both skills and other rules fetched, relevant updated sections reviewed. Full fresh bounded line-by-line preflight not certified. PR8 comment 7235995036 requests explicit clearance, does not grant it. Previous PR48 handoff 7235956981 remains pending. No shared navigation, website, other owner or Renal writes. Renal corrected candidate 3e7ab3b509c8522f5e699cf90f60542cdf3603b1 preserved. Candidate CI, rendering, source-depth and item-specific video verification, exhaustive semantic and independent clinical review, complete preflight and safe latest-main integration remain pending. Do not regenerate the 100 slots or publish until gates pass.
+
+
+## Sequential corrective review continuation — 28 November 2026
+
+All D01–26 question blocks and 104 individual explanations read sequentially at blob feaffb14ea00205d789cd90357dbcd02fee159ba. Seventeen blocks corrected at 434aff8f08f47f418cd50432d3b3ef6788aec3bb, exact final blob f73348d1f309b455cb4f6cb2b4c45e43221e9bb5. All stems, correct answer texts and keys retained, except no stem changes were needed. No new counted questions.
+
+| Questions | Review |
+|---|---|
+| 01–04 | Active-assisted, active, isometric and dynamic resistance classification reviewed. More direct OpenStax source mapping for Q02–04. Q01/Q02 distinguish assistance from observation. |
+| 05–06 | Eccentric versus concentric phases reviewed as distinct muscle mechanisms. Q05 isometric distractor rationale qualified and difficulty Medium. |
+| 07–11 | New pain, repair-specific restrictions, joint support, active-passive discrepancy, goniometry repeatability reviewed. Q07/08/09/11 source depth improved. Goniometer source describes consistent positioning and anatomical landmarks, not permission to exceed repair restrictions. |
+| 12–13 | 95−65=30 degrees verified. Q13 ordinary breathing rationale expanded with British Heart Foundation guidance indexed, direct text not independently opened. |
+| 14–17 | Resting respiratory deterioration versus exertional symptomatic desaturation differentiated. Q14/15 acute reassessment and escalation strengthened. Q16 108−82=26 beats/min verified. CDC talk-test page directly retrieved Q17. |
+| 18–19 | CDC STEADI page 1 extracted text confirms five-minute supine rest, one- and three-minute standing readings. Screenshot returned cache miss again. Q19 plausible but inadequate seated-only measurement distractor added. |
+| 20–22 | Direct 2014 critical-care consensus confirms endotracheal tube alone is not contraindication and vasoactive thresholds lack universal consensus. Q21 escalating support requires team reassessment, stable vasopressor use is not absolute contraindication. Q22 graded sitting progression distinct. |
+| 23–26 | Exercise dose documentation, ROM versus endurance, healing-restricted resistance and compensation reviewed. Q25 plausible reduced-repetition/higher-resistance distractor added. Q26 additional goniometry reference. |
+
+Direct sources: [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility), [StatPearls Goniometer](https://www.ncbi.nlm.nih.gov/books/NBK558985/), [CDC intensity](https://www.cdc.gov/physical-activity-basics/measuring/index.html), [CDC STEADI PDF](https://cdc.gov/steadi/media/pdfs/STEADI-Assessment-MeasuringBP-508.pdf) extracted text, [2014 ICU consensus](https://link.springer.com/article/10.1186/s13054-014-0658-y). Other cited relevant sources indexed. All four candidate banks have now received sequential AI question-level review across the prior and current runs. Independent clinical signoff, exhaustive cross-bank semantic review, specific MCQ-video verification and remaining source/visual/preflight/navigation gates still pending. No live inventory credit.
