@@ -1,13 +1,13 @@
 # Independent NORCET coverage-gap claim
 
-State: CLAIMED
-Owner: coverage-gap-hematology-20261128-0515
-Scope: Hematology only, new 20 anticoagulation MCQs, concept, original SVG, evidence, own inventory and claim. Existing navigation, Pharmacology candidate and other jobs excluded.
-Claimed UTC: 2026-11-28T05:15:00Z
-Expiry UTC: 2026-11-28T05:45:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
-Last owner: coverage-gap-hematology-20261128-0505
-Last scope: Hematology transfusion reactions and hemovigilance. Released after verified Run 9 publication and inventory.
+Last owner: coverage-gap-hematology-20261128-0515
+Last scope: Hematology anticoagulation. Released after verified Run 10 publication and inventory.
 
 ## Verified checkpoint — 28 November 2026, Run 2
 
@@ -98,3 +98,12 @@ Recheck all claims, rule files, recent commits and open PRs. Continue distinct l
 - Inventory 6544fc234f97064abfae951d5775a48a5dab1fbe, blob 684a63e09f65696fc322e4ce927dd856758b4ad3, exact readback. Cumulative 576 original slots, eight separate adaptations, 2,320 individual rationales, zero mock-exclusive additions. Clinical and complete semantic audits pending. Indian standards 48/72-hour discrepancy rechecked, local validated SOP governs; earlier compatibility bank unchanged. HPRCA final-key portal 403, official key matching pending. Seven related-topic MCQ video leads, 25 specific original gaps plus one adaptation gap, exact item/playback pending. All 36 chapter directories enumerated, 80 additional Cardiovascular embedded concept question slots counted, combined 516 numbered practice slots not certified unique. Full census pending.
 - Both skills/AGENTS/Copilot/audit bounded fetches and unchanged hash reconciliation performed, fresh exhaustive line-by-line review not certified. PR8 prior coordination comment and concurrent import update reviewed, explicit release/reconciliation still pending. Other jobs, existing theory, shared navigation, learner history, website, PRs and all five schedules untouched by this run.
 - Resume anticoagulation, bleeding precautions, hemophilia and factor disorders, polycythemia, leukopenia and remaining INC-aligned gaps. Recheck all claims and gates, use balanced distinct answer sequences. Begin ten original-only 120-item mocks only after comprehensive coverage and semantic screening.
+
+
+## Verified checkpoint — 28 November 2026, Run 10
+
+- Prior Run 9 released checkpoint 6f27204cd532f6aa2d7ac9cd2ec2fe9acdf0552e preserved. Claim acquired 358fc56b363150742c48a6bfaf9fe8c6f54e7d87. Candidate ec8013de42c38eb1bfea16d7dea2502649492384 retained. Actual main publication f8570c23104a8ce6c79c14b8d917d50388211080 preserves intervening OBG claim advance. Exact four blob and text readbacks passed. Inventory commit 2ae36698ef4d48c13c187b08b0e86de6640bfaf2 blob e58f0b92209c114016a5a7a5e700b93a44c143a4 exact readback passed.
+- Hematology 608 original slots (604 newly authored plus four preserved starters), eight separate source-linked adaptations, 2,448 newly authored individual rationales, zero full original-only mocks. Run 10 adds 32 anticoagulation originals (1 Easy, 20 Medium, 11 Difficult), 128 option rationales, 32 closed details and eight answers per letter. Zero exact normalized matches against preceding 576 Hematology and 120 PR29 Pharmacology candidate stems. Selective related live chapter screening, full independent clinical and cross-repository semantic audits pending.
+- All four published blobs: bank a562397c33c1d9621c9b6f87d477dbc66b7ecdf1, concept c6b268d6444e57102c96aac208d72b85dd5ca989, SVG 650cb5d157d6be943d0ac060fc5285332d9c55ae, evidence f16563ac479df6280c9171a8e72c28b2286ce90c. No historical count increment. HPRCA exact question/key and all 32 exact video mappings pending. Nine description-level topic mappings, 23 specific gaps. India NAMS and INC extracted PDF text, screenshots failed. FDA US Andexxa sale cessation and ISTH assay interference distinguished. Previous Indian 48/72-hour discrepancy remains explicitly unresolved.
+- Census: 36 chapter directories, live Pharmacology six Markdown files checked, four original slots, two reported adaptations, no published full mocks; candidate 120 stems separately excluded. Full census incomplete. Both skills fetched in ranges, AGENTS/Copilot and audit learnings retrieved, relevant sections reviewed, fresh complete untruncated audit reread not certified. PR8 latest comments checked and current visible claim headers inspected, nonoverlapping OBG claim preserved. Existing navigation, other jobs, PRs, website, learner history and schedules untouched by this run. Rendered UI pending.
+- Next bleeding precautions, then hemophilia and clotting-factor disorders, polycythemia, leukopenia and remaining INC-aligned gaps. Complete topic coverage and full semantic screening before ten distinct mock-exclusive 120-item tests. Release only own claim.
