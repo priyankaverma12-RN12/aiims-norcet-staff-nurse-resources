@@ -1,5 +1,17 @@
 # Emergency and Critical Care Nursing manual claim
 
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr49-icu-overlap-20261128T1207Z at verified checkpoint da43064cc9ac83620162b5781d93525490ae4132. PR49 ICU Q14 replacement 5c10fbcddffffadc1a078d4db548253dd0122d52; prior PR48 10D Q21 unchanged. 340 staged originals/1360 rationales, 17 banks, prior candidate preserved. Exact remote readbacks passed. No live credit. Remaining independent review, semantic, navigation, video and current-head CI gates. Continue prior Batch 04 plan; preserve other sessions and schedules.
+
+Prior lease history:
+
+# Emergency and Critical Care Nursing manual claim
+
 State: CLAIMED
 Owner: integration-pr49-icu-overlap-20261128T1207Z
 Scope: PR49 isolated ICU bank Q14 replacement and checkpoint only, retain PR48 10D Q21 as earlier general mobility objective. User-authorized cross-PR duplicate allocation, no other branch or shared navigation writes, no publication.
