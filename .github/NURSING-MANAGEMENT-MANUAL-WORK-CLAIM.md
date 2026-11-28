@@ -1,5 +1,17 @@
 # Nursing Management and Education manual claim
 
+State: FREE
+Owner: none
+Scope: no active write lease; continuation reserved at PR40.
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr40-quality-20261128T151358Z at verified checkpoint c717324fd0d41dad07eac505b0048cc5ad76cd56. Seven QI blocks refined, seven clues added, all 100 originals and 400 rationales retained. Exact readbacks passed. Prior staffing corrections and guide preserved. Current-head CI, remaining clinical/semantic, source/video, concept and navigation gates remain. No new live count. Other sessions and schedules preserved.
+
+Prior lease history:
+
+# Nursing Management and Education manual claim
+
 State: CLAIMED
 Owner: integration-pr40-quality-20261128T151358Z
 Scope: isolated PR40 quality improvement bank Q4/Q8/Q13/Q14/Q17/Q18/Q20 corrections from comment 7241138754 and candidate checkpoint only. Preserve all stems, keys, staffing corrections, other branches and live navigation.
