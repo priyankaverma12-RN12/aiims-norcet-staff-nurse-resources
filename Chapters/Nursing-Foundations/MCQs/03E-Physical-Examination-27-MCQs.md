@@ -18,17 +18,16 @@ D. Omit all regions
 
 **Correct answer: B. Nontender regions first and tender region last**
 
-<!-- job5-rationale -->
-Abdominal palpation mein pehle nontender areas ko gently assess karte hain aur painful area last mein check karte hain. Isse pain aur involuntary guarding ke kaaran baaki examination difficult hone ka risk kam hota hai. Abdomen mein bowel sounds ko palpation se pehle auscultate karna usual teaching hai. Severe pain, rigidity ya deterioration mein routine examination force na karo, timely clinical review lo.
+Abdominal palpation ka matlab hai abdomen ko hands se gently feel karke tenderness aur doosri relevant findings assess karna. Maan lo patient ke right lower abdomen mein pain hai. Agar nurse wahi area pehle deep pressure se examine kare, toh patient pain ki wajah se muscles tight kar sakta hai. Ise guarding kehte hain. Isse baaki abdomen assess karna mushkil ho sakta hai. Isliye stable patient mein pehle non-tender areas gently examine karte hain aur painful area last mein check karte hain. Abdomen mein usual sequence inspection, auscultation, percussion aur palpation hota hai. Severe pain, rigidity ya deterioration mein examination force nahi karna chahiye aur timely clinical help leni chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Painful area par deep pressure first karne se pain aur guarding worsen ho sakti hai.
-- **B:** Nontender areas first comparison aur patient comfort support karte hain.
-- **C:** Sirf tender region examine karne se other relevant findings miss ho sakti hain.
-- **D:** Stable consenting patient mein appropriate assessment useful hai.
+- **A:** Painful region par pehle deep pressure lagane se pain aur guarding badh sakti hai. Isse baaki examination aur uncomfortable ho sakti hai.
+- **B:** Non-tender areas pehle assess karne aur tender area last mein examine karne se patient ka comfort aur meaningful comparison support hota hai. Isliye B sahi hai.
+- **C:** Sirf painful area examine karne se abdomen ke other regions ki relevant findings miss ho sakti hain. Patient ki condition ke according appropriate examination chahiye.
+- **D:** Stable consenting patient mein saare relevant areas omit karne se useful assessment information nahi milegi. Examination ko safely adapt karna chahiye.
 
-**Exam clue:** Abdomen: inspect, auscultate, then percussion/palpation. Tender site last.
+**Exam clue:** Abdomen mein pehle inspect aur auscultate karo, phir percussion aur palpation karo. Tender area ko last mein gently assess karo.
 
 [Additional concept reference](https://www.ncbi.nlm.nih.gov/books/NBK596738/)
 <!-- /job5-rationale -->
@@ -57,17 +56,16 @@ D. View one shoulder only
 
 **Correct answer: A. Good lighting and limited appropriate exposure**
 
-<!-- job5-rationale -->
-Inspection visual assessment hai. Shoulder symmetry, posture, swelling aur contour compare karne ke liye dono sides same lighting aur comparable position mein visible honi chahiye. Sirf necessary area expose karo, remaining body drape karo aur consent maintain karo. Normal anatomical variation ko disease assume mat karo.
+Inspection ka matlab hai patient ko carefully dekhkar relevant findings identify karna. Agar nurse shoulders ki symmetry assess kar rahi hai, toh dono shoulders ko comparable position aur same lighting mein dekhna zaroori hai. Good lighting se swelling, contour aur skin colour mein subtle differences identify karne mein help milti hai. Nurse patient ki permission leti hai aur sirf required area expose karti hai. Baaki body ko drape karke dignity maintain karti hai. Normal anatomical variation ko bina further assessment disease nahi maanna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Good light aur limited exposure reliable comparison aur dignity support karte hain.
-- **B:** Thick blanket anatomical contours hide karta hai.
-- **C:** Dim lighting subtle swelling ya color change miss kar sakti hai.
-- **D:** One shoulder se bilateral symmetry assess nahi hogi.
+- **A:** Good lighting aur limited appropriate exposure se dono shoulders compare karna aasaan hota hai aur privacy bhi maintain rehti hai. Isliye A sahi hai.
+- **B:** Thick blanket shoulders ki shape aur swelling hide kar sakta hai. Sirf examination ke liye necessary area expose karna chahiye.
+- **C:** Dim lighting mein subtle colour changes ya swelling miss ho sakti hai. Clear adequate lighting preferable hai.
+- **D:** Sirf ek shoulder dekhne se doosri side ke saath symmetry compare nahi ho sakti. Dono corresponding sites assess karo.
 
-**Exam clue:** Compare matching sides under the same conditions.
+**Exam clue:** Bilateral inspection mein matching sites ko same position aur lighting mein compare karo aur patient ki dignity maintain karo.
 
 [Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
 <!-- /job5-rationale -->
@@ -96,17 +94,16 @@ D. Record refusal without discussion
 
 **Correct answer: C. Pause and clarify the concern before seeking permission to resume**
 
-<!-- job5-rationale -->
-Consent ek ongoing process hai. Capable patient examination ke beech bhi permission withdraw kar sakta hai. Stop karo, pain ya discomfort ka reason poochho, safety assess karo aur modified approach discuss karo. Patient dobara agree kare tabhi routine examination resume karo. Refusal aur relevant action objectively document karo.
+Consent ka matlab hai patient ki permission, jo examination ke poore duration mein zaroori hai. Maan lo patient pehle examination ke liye agree karta hai, lekin palpation ke waqt discomfort hone par nurse ko rukne ko kehta hai. Nurse examination pause karti hai aur patient se poochti hai ki use kahan aur kis tarah ki takleef ho rahi hai. Relevant safety concern assess karke gentler approach ya doosra suitable option discuss kar sakti hai. Routine examination tabhi resume karo jab decision lene mein capable patient dobara agree kare. Actual refusal, relevant findings aur action objectively record karo.
 
 **Option-by-option reasoning**
 
-- **A:** Finish first karna withdrawal of consent ignore karta hai.
-- **B:** Relative capable patient's decision override nahi karta.
-- **C:** Pause, clarify aur renewed permission appropriate hai.
-- **D:** Without discussion concern aur alternatives miss ho sakte hain.
+- **A:** Pehle examination finish karna patient ki current withdrawal of consent ignore karta hai. Routine examination pause karna chahiye.
+- **B:** Relative capable patient ke decision ko automatically override nahi kar sakta. Patient ki apni permission respect karni chahiye.
+- **C:** Pause karna, discomfort samajhna aur resume karne se pehle fresh permission lena patient autonomy protect karta hai. Isliye C sahi hai.
+- **D:** Refusal document karna important hai, lekin bina concern samjhe sirf refusal likhne se pain, safety problem ya acceptable alternative miss ho sakta hai.
 
-**Exam clue:** Consent is continuous, not a one-time signature.
+**Exam clue:** Consent sirf shuru mein li gayi signature nahi hai. Patient examination ke beech bhi permission withdraw kar sakta hai.
 
 [Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
 <!-- /job5-rationale -->
@@ -135,17 +132,16 @@ D. Gentle palpation with finger pads
 
 **Correct answer: D. Gentle palpation with finger pads**
 
-<!-- job5-rationale -->
-Palpation touch se tissue ki size, consistency, mobility, tenderness aur temperature ka clue deti hai. Small superficial lump ko finger pads se gentle pressure use karke characterize karo. Location, estimated size aur associated findings note karo. Suspicious vascular mass par repeated deep pressure avoid karo aur findings report karo.
+Palpation mein nurse touch se body ki relevant characteristics assess karti hai. Agar skin ke neeche chhota superficial lump feel karna hai, toh finger pads se gentle pressure use kiya ja sakta hai. Nurse lump ki location, estimated size, consistency, movement aur tenderness jaise findings note karti hai. Maan lo lump touch karne par pulsatile feel hota hai. Aisi suspicious vascular finding mein repeated deep pressure avoid karke appropriate clinical review arrange karna chahiye. Sirf palpation se lump ka exact diagnosis confirm nahi hota.
 
 **Option-by-option reasoning**
 
-- **A:** Percussion tapping se underlying density ka clue deti hai, superficial texture directly nahi.
-- **B:** Bell auscultation low-frequency sounds sunne ke liye hai.
-- **C:** Distant inspection surface appearance batati hai, tactile properties nahi.
-- **D:** Gentle finger-pad palpation superficial lump assess karne ke liye suitable hai.
+- **A:** Percussion mein tapping se underlying tissue density ya air ka clue milta hai. Chhote superficial lump ki texture feel karne ke liye palpation zyada suitable hai.
+- **B:** Stethoscope bell se low-frequency internal sounds suni jaati hain. Isse lump ki consistency directly feel nahi hoti.
+- **C:** Inspection se lump ki visible appearance assess ho sakti hai, lekin texture aur mobility jaise tactile findings ke liye touch chahiye.
+- **D:** Finger pads se gentle palpation superficial lump ki relevant tactile properties assess karne mein help karti hai. Isliye D sahi hai.
 
-**Exam clue:** Inspection = look, palpation = feel, percussion = tap, auscultation = listen.
+**Exam clue:** Inspection mein dekhte hain, palpation mein touch karte hain, percussion mein tap karte hain aur auscultation mein sounds sunte hain.
 
 [Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
 <!-- /job5-rationale -->
@@ -174,17 +170,16 @@ D. Move stethoscope while patient speaks
 
 **Correct answer: B. Compare corresponding sites on bare skin**
 
-<!-- job5-rationale -->
-Comparative chest auscultation mein stethoscope bare skin par place karke right aur left lung ke matching levels ko alternate karte hain. Isse local reduction ya added sounds distinguish karna easier hai. Comfortable position aur quiet environment maintain karo, patient tolerate kare utni breathing instructions do. Distress ho toh priority emergency assessment hai.
+Chest auscultation mein nurse stethoscope se lungs ki breathing sounds sunti hai. Agar right aur left sides compare karni hain, toh same level ke corresponding sites par alternate karke sunna useful hota hai. Stethoscope ko bare skin par rakhne se clothing rubbing ka unwanted noise kam hota hai. Nurse patient ko comfortable position deti hai aur tolerated breathing instructions samjhati hai. Agar patient ko severe distress hai, toh detailed routine examination complete karne ke liye urgent assessment delay nahi karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Clothing rubbing noise create kar sakti hai aur one-side exam incomplete hai.
-- **B:** Matching sites on bare skin reliable side-to-side comparison support karte hain.
-- **C:** Left chest omit karne se asymmetry miss ho sakti hai.
-- **D:** Movement aur speech sound artifacts create kar sakte hain.
+- **A:** Clothing rub hone se extra sound aa sakti hai aur sirf ek side sunne se bilateral comparison incomplete rahega.
+- **B:** Bare skin par corresponding right aur left sites compare karne se local reduction aur added sounds identify karne mein help milti hai. Isliye B sahi hai.
+- **C:** Left chest omit karne se important asymmetry miss ho sakti hai. Dono sides ko appropriate tareeke se examine karo.
+- **D:** Patient ke bolne aur stethoscope move karne se unwanted noise aa sakti hai. Quiet interval mein stable contact se sounds better assess hoti hain.
 
-**Exam clue:** Compare right and left at equivalent levels.
+**Exam clue:** Chest auscultation mein corresponding right aur left sites ko bare skin par compare karo.
 
 [Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/)
 <!-- /job5-rationale -->
@@ -213,17 +208,16 @@ D. Ignore the concern
 
 **Correct answer: A. Warm the chest piece in the hand**
 
-<!-- job5-rationale -->
-Cold chest piece touch karne se patient uncomfortable ya tense ho sakta hai. Clean stethoscope chest piece ko hand mein gently warm karo aur use se pehle temperature comfortable ensure karo. Excess heating avoid karo aur IPC cleaning maintain karo. Comfort se patient cooperation improve ho sakta hai.
+Cold stethoscope chest piece skin par lagne se patient uncomfortable feel kar sakta hai aur muscles tense kar sakta hai. Nurse clean chest piece ko apne hand mein gently warm kar sakti hai. Use karne se pehle check karo ki temperature comfortable hai. Excessive heat use nahi karni chahiye, kyunki skin injury ya equipment damage ho sakta hai. Manufacturer-compatible cleaning aur infection prevention requirements bhi follow karo. Patient ka comfort maintain karne se examination mein cooperation better ho sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Gentle hand warming discomfort reduce karta hai.
-- **B:** Hard pressure discomfort increase kar sakta hai.
-- **C:** Folded towel sound transmission muffle kar sakta hai.
-- **D:** Avoidable discomfort ignore karna patient-centered care nahi hai.
+- **A:** Hand mein chest piece gently warm karne se avoidable discomfort kam ho sakta hai. Isliye A sahi hai.
+- **B:** Hard pressure lagane se cold sensation reliably resolve nahi hoti aur patient ka discomfort badh sakta hai.
+- **C:** Folded towel chest piece aur skin ke beech barrier banata hai. Isse internal sounds muffled ho sakti hain.
+- **D:** Patient ne discomfort report kiya hai. Use ignore karne ke bajay simple safe adjustment karna patient-centered approach hai.
 
-**Exam clue:** Warm the chest piece, not by excessive heat.
+**Exam clue:** Stethoscope chest piece ko hand mein gently warm karo aur excessive heating avoid karo.
 
 [Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
 <!-- /job5-rationale -->
@@ -252,17 +246,16 @@ D. Hold bell above skin
 
 **Correct answer: C. Place bell lightly on bare skin**
 
-<!-- job5-rationale -->
-Traditional separate bell low-frequency sounds, jaise S3, S4 aur kuch low-pitched murmurs, sunne ke liye lightly place hoti hai. Firm pressure skin ko tension dekar diaphragm-like filtering produce kar sakta hai aur low frequencies attenuate ho sakti hain. Tunable diaphragm devices mein manufacturer instructions follow karo.
+Traditional stethoscope mein bell aur diaphragm ki sound-filtering properties alag hoti hain. Separate bell ko bare skin par lightly place karne se low-frequency cardiac sounds, jaise S3, S4 aur kuch low-pitched murmurs, sunne mein help milti hai. Agar bell ko bahut firmly press karo, toh skin taut ho sakti hai aur diaphragm ki tarah behave karke low-frequency sounds attenuate kar sakti hai. Tunable diaphragm wale modern devices ka pressure response alag ho sakta hai, isliye manufacturer ki instructions follow karo.
 
 **Option-by-option reasoning**
 
-- **A:** Firm pressure traditional bell ka intended low-frequency response reduce kar sakta hai.
-- **B:** Thick clothing sound distort karti hai aur diaphragm different frequency response deta hai.
-- **C:** Light contact on bare skin correct traditional bell technique hai.
-- **D:** Skin contact ke bina reliable sound transmission nahi hoti.
+- **A:** Traditional bell par firm pressure low-frequency sound transmission kam kar sakta hai. Light contact preferred hai.
+- **B:** Thick clothing sounds distort kar sakti hai aur traditional diaphragm ka frequency response bell se different hota hai.
+- **C:** Bare skin par traditional bell lightly place karne se intended low-frequency sounds sunne mein help milti hai. Isliye C sahi hai.
+- **D:** Bell ko skin ke upar hawa mein hold karne se suitable acoustic contact nahi milta aur sounds reliably assess nahi hongi.
 
-**Exam clue:** Traditional bell light pressure, diaphragm firmer contact.
+**Exam clue:** Traditional bell low-frequency sounds ke liye light pressure se use hoti hai. Device-specific instructions bhi follow karo.
 
 [Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK493211/)
 <!-- /job5-rationale -->
@@ -291,17 +284,16 @@ D. Resonance
 
 **Correct answer: D. Resonance**
 
-<!-- job5-rationale -->
-Percussion sound underlying tissue ki air aur density se influence hota hai. Normally aerated lung par resonant, hollow quality expected hai. Dullness dense tissue ya fluid ke saath, flatness bone/muscle jaise dense areas par aur tympany gas-filled hollow organ par mil sakti hai. Site aur clinical context important hain.
+Percussion mein nurse body surface par tap karke resulting sound sunti hai. Sound underlying tissue mein air aur density ke according change hoti hai. Normal lung mein air-filled alveoli hote hain, isliye percussion par relatively hollow resonant note expected hota hai. Dense tissue ya fluid dull sound produce kar sakte hain. Bahut dense areas mein flatness aur gas-filled stomach par tympany mil sakti hai. Nurse actual site, comparison aur other clinical findings ke saath percussion interpret karti hai.
 
 **Option-by-option reasoning**
 
-- **A:** Flatness dense tissues par typical hai, normally aerated lung par nahi.
-- **B:** Dullness relatively dense tissue ya fluid ka clue ho sakti hai.
-- **C:** Tympany commonly gas-filled stomach over heard hoti hai.
-- **D:** Resonance normal aerated lung ka expected note hai.
+- **A:** Flatness usually very dense tissue, jaise bone ya muscle, ke upar mil sakti hai. Normally aerated lung ka expected note flat nahi hota.
+- **B:** Dullness relatively increased tissue density ya fluid ka clue ho sakti hai. Normal aerated lung mein generally resonance expected hoti hai.
+- **C:** Tympany drum jaisi sound hai jo gas-filled hollow organ, jaise stomach, ke upar mil sakti hai. Ye normal lung percussion ka usual note nahi hai.
+- **D:** Air-filled normal lung par resonance expected hoti hai. Isliye D sahi hai.
 
-**Exam clue:** Normal lung = resonance, stomach gas = tympany.
+**Exam clue:** Normal aerated lung par resonance aur gas-filled stomach par tympany expected ho sakti hai. Site aur context consider karo.
 
 [Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/)
 <!-- /job5-rationale -->
@@ -334,17 +326,16 @@ D. Pneumothorax is proven
 
 **Correct answer: B. Correlate the new finding with other clinical data**
 
-<!-- job5-rationale -->
-New dull percussion note suggest kar sakti hai ki normally air-filled region ki density increase hui hai. Consolidation, pleural fluid ya collapse possible causes hain, lekin percussion alone se diagnosis confirm nahi hota. Breath sounds, chest movement, symptoms, oxygenation aur indicated imaging correlate karo. Acute distress mein prompt escalation karo.
+Maan lo patient ke chest ka ek area pehle resonant tha aur ab percussion par dull sound aa rahi hai. Isse normally air-filled region mein density badhne ka clue mil sakta hai. Consolidation, pleural fluid ya lung collapse possible explanations hain, lekin percussion alone exact disease establish nahi karti. Nurse patient ke symptoms, chest expansion, breath sounds aur oxygenation check karti hai. Clinical indication ke according imaging ya further review arrange kiya ja sakta hai. Acute respiratory distress mein prompt escalation chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Pneumonia ek possibility hai, definitive proof nahi.
-- **B:** New finding ko other clinical data se correlate karna correct hai.
-- **C:** Dullness aur resonance separate percussion qualities hain.
-- **D:** Pneumothorax mein hyperresonance possible hai, dullness uska proof nahi.
+- **A:** Pneumonia mein consolidation ke kaaran dullness mil sakti hai, lekin doosre causes bhi possible hain. Sirf dullness se pneumonia prove nahi hoti.
+- **B:** Nayi percussion finding ko symptoms aur doosre clinical data ke saath compare karna appropriate hai. Isliye B sahi hai.
+- **C:** Dullness aur resonance different percussion notes hain. Dull sound ko normal resonance record nahi karna chahiye.
+- **D:** Pneumothorax mein hyperresonance mil sakti hai, lekin percussion ki koi ek finding definite diagnosis nahi deti. Dullness pneumothorax ka proof nahi hai.
 
-**Exam clue:** Percussion is a clue, not a standalone diagnosis.
+**Exam clue:** Percussion note disease ka clue deta hai. Exact cause samajhne ke liye other assessment findings correlate karo.
 
 [Additional concept reference](https://www.ncbi.nlm.nih.gov/sites/books/NBK596716/)
 <!-- /job5-rationale -->
@@ -375,17 +366,16 @@ D. All quadrants assessed
 
 **Correct answer: A. Bowel sound heard at examined site**
 
-<!-- job5-rationale -->
-Bowel sounds gastrointestinal movement se generate hote hain aur abdomen mein conduct ho sakte hain. Ek site par sound sunna sirf us observation ko support karta hai. Yeh motility normal hone, obstruction absent hone ya full examination complete hone ka proof nahi. Local procedure aur symptoms ke hisaab se further assessment karo.
+Bowel sounds gastrointestinal tract mein gas aur fluid movement se generate ho sakti hain. Ye sounds abdomen ke doosre areas tak conduct bhi ho sakti hain. Agar nurse ne sirf ek site par sound suni hai, toh woh accurately usi observation ko document kar sakti hai. Ek sound se poori bowel function normal prove nahi hoti aur obstruction bhi exclude nahi hota. Patient ki symptoms aur facility ke abdominal assessment procedure ke according relevant examination continue karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** Actual observed sound accurately document karna correct hai.
-- **B:** One sound normal overall bowel function establish nahi karta.
-- **C:** Obstruction ko sound alone se exclude nahi kar sakte.
-- **D:** Examined single site ko all quadrants document karna false hai.
+- **A:** Examined site par bowel sound actually suni gayi hai, toh wahi observation document karna accurate hai. Isliye A sahi hai.
+- **B:** Ek bowel sound poore gastrointestinal tract ki motility normal hone ka reliable proof nahi hai. Other findings bhi assess karni chahiye.
+- **C:** Bowel obstruction mein bhi sounds present ho sakti hain. Sirf ek sound se obstruction exclude nahi hota.
+- **D:** Ek site examine karne se baaki quadrants examine nahi ho jaate. All quadrants assessed likhna inaccurate documentation hoga.
 
-**Exam clue:** Document what you actually examined.
+**Exam clue:** Jo site actually examine ki hai aur jo sound actually suni hai, wahi record karo.
 
 [Additional concept reference](https://www.ncbi.nlm.nih.gov/books/NBK596738/)
 <!-- /job5-rationale -->
