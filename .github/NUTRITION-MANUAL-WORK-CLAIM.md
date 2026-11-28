@@ -1,10 +1,13 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-08d-reference-intakes-20261128-0913Z
-Scope: Isolated PR35 08D dietary reference intake interpretation, new bank, guide, diagram and local audit. No shared navigation, website or other chapter edits.
-Claimed UTC: 2026-11-28T09:13:00Z
-Expiry UTC: 2026-11-28T09:43:00Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 08D dietary reference intakes and nutrient adequacy
+
+Candidate head: 62eca89e7e6bd622887f0673139e2044f89f7222
+Inventory: 760 staged originals, 3040 individual Roman Hinglish rationales, 38 banks, 21 guides, 21 SVGs. Four legacy originals and one reported adaptation preserved separately. New bank f674c6500c5e9207188800b8a30dec54c4852894, guide 863fdb9209d87595ed84a0d30b9e701e2d9ffb4b, SVG cede4f6a27cf4b32211b7290add800b6b4af01f7. All exact readbacks, structural validation and local SVG rendering passed, zero normalized exact matches against 740 prior candidate stems. Exact-head CI 46129743356 pending. Draft only. Complete preflight, independent clinical/dietetic/pharmacy/regulatory and exhaustive semantic review, AMB full PDF, INC curriculum depth, item video evidence, flagged clusters, PR7/8 navigation clearance and final integration remain pending. Next screen genuine remaining curriculum gaps, especially major minerals and therapeutic renal diet coordination, without regenerating earlier banks. Preserve other jobs, website, learner history and five hourly schedules.
 
 ## Latest released checkpoint — 08C food fortification and quality assurance
 
