@@ -1,15 +1,13 @@
 # Perioperative Nursing manual chapter claim
 
-State: CLAIMED
-Owner: perioperative-b04-20261128-1218Z
-Scope: PR58 isolated Batch 04 new topic banks, concepts and evidence.
-Claimed UTC: 2026-11-28T12:18:48Z
-Expiry UTC: 2026-11-28T12:48:48Z
+State: FREE
+Owner: none
+Scope: No active write lease. PR58 isolated draft awaits validation.
 
-Last owner: perioperative-b03-20261128-1159Z
-Last checkpoint: 5df79c35a07fc37ae5acf7aa8e92caa8214fbf42
+Last owner: perioperative-b04-20261128-1218Z
+Last checkpoint: 97663776dfaa2476967c22d66717f0303ce38aa3
 Draft: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/58
 
-Batch 03 adds 100 originals, 400 separate Roman Hinglish rationales, five concept guides and five item-mapped evidence registers. All 15 new files and corrections exact readback, final 100 structural/key checks passed. Cumulative 280 original candidates, 1120 rationales, 14 banks, 14 guides, 14 evidence registers, two earlier SVGs. Four preserved legacy starters, 284 distinct normalized chapter stems, zero exact matches, no new live credit. Previous 180 staged originals and starter byte-identical. Inventory readback at 5df79c35a07fc37ae5acf7aa8e92caa8214fbf42.
+Batch 04 adds 100 originals, 400 individual Roman Hinglish rationales, five concept guides and five evidence registers. 15 new files and two corrective readbacks exact. New banks 35 Easy, 35 Medium, 30 Difficult, keys five per letter per bank. Cumulative 380 original candidates, 1520 rationales, 19 banks, 19 guides, 19 evidence registers, two earlier SVGs. Four legacy starters preserved, 384 chapter slots, no exact normalized stem matches for new 100 against prior 284. Previous 280 candidates byte-identical. New live credit zero. Inventory exact readback at 97663776dfaa2476967c22d66717f0303ce38aa3.
 
-Remaining goal: 720 original candidates to author and 1,000 to publish after independent review. Continue meaningful perioperative gaps after adjacent bank and active PR screening, then topic-complete exclusive mocks. Follow merged PR59 content-first rules. Independent clinical, comprehensive semantic, curriculum, source/video, rendering, CI and PR7/8 coordination remain publication gates. Preserve all other sessions, learner history and five hourly automations.
+Remaining goal: 620 original candidates to author and 1000 to publish after validation. Next unfinished topic ambulatory surgery discharge and home safety, if distinct after screening PACU, preoperative and Foundations 18; then other meaningful perioperative gaps and difficulty-balancing deficits, then chapter-exclusive mocks after topic coverage. Follow PR59 and latest repository difficulty rule. Independent clinical, comprehensive semantic, source/video, curriculum, rendering, CI, latest-main and PR7/8 gates remain pending. All other owners, clinical files, website, learner history and five hourly automations preserved.
