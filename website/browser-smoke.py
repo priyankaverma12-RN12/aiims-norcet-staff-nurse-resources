@@ -387,7 +387,10 @@ try:
                 expect(mobile.locator("#chapter-total")).to_be_visible()
                 assert mobile.locator(".stats").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==6
                 assert mobile.locator(".stats").bounding_box()["height"]<=255
+                print(f"V11.7 measured narrow hero at {width}: {mobile.locator('.hero').bounding_box()['height']:.1f}px",flush=True)
                 assert mobile.locator(".hero").bounding_box()["height"]<=300
+                assert mobile.locator(".hero-actions .cta").bounding_box()["height"]>=43
+                assert mobile.locator(".hero-secondary").bounding_box()["height"]>=43
                 assert mobile.locator(".stats").bounding_box()["y"]<mobile.locator("#daily-study").bounding_box()["y"]
                 assert mobile.locator(".daily-milestones").evaluate("e=>getComputedStyle(e).gridTemplateColumns.split(' ').length")==2
                 expect(mobile.locator(".daily-week-details")).not_to_have_attribute("open","")
