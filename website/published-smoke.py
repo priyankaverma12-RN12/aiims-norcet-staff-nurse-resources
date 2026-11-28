@@ -75,6 +75,37 @@ with sync_playwright() as p:
         expect(bank.locator(".study-tag[data-role=status]")).to_have_text("✓ Completed")
         expect(bank.locator(".tracked-resource-line strong")).to_have_text("100%")
         assert page.evaluate("(p)=>loadCompletion()[p].slots",sample)==44
+        # Marks from any study list must count toward the daily home goal immediately.
+        page.goto(base+"?build="+commit)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-count-breakdown")).to_contain_text("0 answered here")
+        expect(page.locator(".daily-count-breakdown")).to_contain_text("44 more marked done")
+        expect(page.locator(".study-day.today strong")).to_have_text("44")
+        expect(page.locator("#daily-study h2")).to_have_text("Daily goal complete!")
+        # Marked completion and an actual answer in the same bank do not count twice.
+        go({"doc":sample})
+        ready()
+        page.get_by_role("button",name="Learn with instant feedback").click()
+        page.locator("input[name=learn-choice][value=B]").check()
+        page.get_by_role("button",name="Check answer").click()
+        page.once("dialog",lambda d:d.accept())
+        page.get_by_role("button",name="Exit learning").click()
+        page.goto(base+"?build="+commit)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-count-breakdown")).to_contain_text("1 answered here")
+        expect(page.locator(".daily-count-breakdown")).to_contain_text("43 more marked done")
+        # Mark/unmark from a recent card on the home screen must refresh the goal without navigation.
+        recent=page.locator("#recent .tracked-resource-card").filter(has=page.locator("a[href*='Day-01-Complete-Respiratory-Anatomy-Physiology.md']")).first
+        expect(recent.locator("input[type=checkbox]")).to_be_checked()
+        recent.locator("input[type=checkbox]").uncheck()
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions")
+        recent.locator("input[type=checkbox]").check()
+        expect(page.locator(".daily-progress-label strong")).to_have_text("44 / 5 questions")
+        # Verify unmark/reset without corrupting the subsequent existing regression.
+        go({"doc":sample.rsplit("/",1)[0]+"/"})
+        ready()
+        expect(bank.locator("input[type=checkbox]")).to_be_checked()
+
         page.reload()
         ready()
         expect(bank.locator("input[type=checkbox]")).to_be_checked()
@@ -88,6 +119,10 @@ with sync_playwright() as p:
         page.once("dialog",lambda d:d.accept())
         metric.locator(".completion-reset").click()
         expect(metric.locator(".tracked-resource-line strong")).to_have_text("0%")
+        page.goto(base+"?build="+commit)
+        expect(page.locator(".daily-progress-label strong")).to_have_text("1 / 5 questions",timeout=30000)
+        expect(page.locator(".daily-count-breakdown")).to_contain_text("0 more marked done")
+        print(f"Daily manual mark, existing answer deduplication and reset verified at {width}x{height}.",flush=True)
         go({"doc":"Chapters/Respiratory-System/README.md"})
         ready()
         expect(page.locator(".resource-subtitle .resource-question-count")).to_contain_text("MCQs")

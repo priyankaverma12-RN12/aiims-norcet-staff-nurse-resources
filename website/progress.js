@@ -1,5 +1,5 @@
 'use strict';
-// Manual completion is separate from timed attempts and daily activity.
+// Manual completion is independent of answer accuracy; the daily dashboard reads its saved dates.
 const completionKey='nursing-completion-v1';
 const progressTypes={theory:'Theory topics',mcq:'MCQ banks',mock:'Mock tests',pyq:'PYQ practice',revision:'Revision topics',imported:'Imported practice',embedded:'Embedded practice'};
 let progressCatalog=null;
@@ -50,7 +50,7 @@ function completionSummary(records,marks,routine){
  s.percent=completionPercent(s.done,s.total);s.questionPercent=completionPercent(s.covered,s.slots);return s;
 }
 function setCompletion(r,done){
- const d=loadCompletion(),state=completionState(r,d,loadRoutine());if(done)d[r.path]={slots:r.slots,signature:r.signature||null,at:new Date().toISOString()};else if(state.checked===r.slots&&r.slots>0)d[r.path]={mode:'pending',slots:r.slots,signature:r.signature||null};else delete d[r.path];
+ const d=loadCompletion(),state=completionState(r,d,loadRoutine());if(done){const previous=d[r.path];d[r.path]={slots:r.slots,signature:r.signature||null,at:state.done&&previous?.mode!=='pending'&&previous?.at?previous.at:new Date().toISOString()}}else if(state.checked===r.slots&&r.slots>0)d[r.path]={mode:'pending',slots:r.slots,signature:r.signature||null};else delete d[r.path];
  if(!writeCompletion(d))return false;
  document.dispatchEvent(new CustomEvent('study-progress-change'));return true;
 }
@@ -58,7 +58,7 @@ function clearScope(marks,routine,paths){
  for(const p of paths){delete marks[p];delete routine.banks[p]}return {marks,routine};
 }
 function resetCompletionScope(records,label){
- if(!confirm('Reset '+label+'? This clears your completed marks, answered questions and revision reminders here. Your daily history, bookmarks and saved test results stay safe.'))return false;
+ if(!confirm('Reset '+label+'? This clears your completed marks, answered questions and revision reminders here. Questions answered today still count toward your daily history. Manual completion credit will be removed. Your bookmarks and saved test results stay safe.'))return false;
  const old=loadCompletion(),d=loadCompletion(),routine=loadRoutine();clearScope(d,routine,records.map(r=>r.path));
  if(!writeCompletion(d)){alert('Your browser could not reset progress.');return false}
  if(!saveRoutine(routine)){writeCompletion(old);alert('Your browser could not reset question progress.');return false}

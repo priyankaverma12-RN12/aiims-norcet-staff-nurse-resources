@@ -64,3 +64,7 @@ All website-generated question-count labels use questions or MCQs; internal sche
 ### V10.1 — mock counts and study labels
 
 Mock test totals count published question-containing documents classified as Mock test (including short topic mocks). Draft fragments and plans are not additional tests. Draft sections and their question totals are shown separately. Existing inventory counts and stored progress are unchanged. Shared readable type, count and personal-status labels appear on chapter, topic, Metrics and Progress cards. No invented difficulty or priority badges; colour is supplementary to text. The existing tests verify actual counts and status changes.
+
+### V10.2 — Today’s progress includes Mark done
+
+The daily goal combines actual checked answers with self-reported question totals from existing dated completion marks. Per bank and local day, use the larger count instead of adding both. The home screen separately displays answers checked here and additional questions marked done. Theory-only marks count as study topics but not questions. Existing marks made today are recognized without migration; older marks do not add to today's goal. Undoing/resetting a mark removes manual credit from its dated day; real answered-question history and test results are unchanged. Home refreshes on progress events, tab visibility and returning from browser history. Internal progress keys and original study content stay intact.
