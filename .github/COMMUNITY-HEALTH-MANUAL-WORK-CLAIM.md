@@ -1,10 +1,10 @@
 # Community Health Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: community-pr61-b02-20261128-0959Z
+Scope: PR61 isolated Batch 02: health workers and referral system, TB programme, immunization and cold chain, occupational health, school health. Exclude PR62 existing environmental sanitation and overlapping Batch01 topics. No PR62 writes or shared navigation.
+Claimed UTC: 2026-11-28T09:59:27Z
+Expiry UTC: 2026-11-28T10:29:27Z
 
 ## Verified Batch 01 checkpoint — 28 November 2026
 
