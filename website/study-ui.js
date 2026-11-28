@@ -29,7 +29,7 @@ async function showMetrics(){
     const row=node('a',undefined,'metric-record'),left=node('div',undefined,'metric-record-copy'),kind=getResourceMeta(f.path).type==='Draft question set'?'Draft question set':metricLabels[f.category];
     row.href=route(f.path);row.dataset.category=f.category;
     const glyph=node('span',({mcq:'▤',mock:'◷',pyq:'◴',imported:'↓',embedded:'▧'}[f.category]||'▤'),'metric-record-icon');glyph.setAttribute('aria-hidden','true');
-    left.append(node('span',knownTitle(f.path),'metric-record-title'),node('small',kind));
+    left.append(node('span',knownTitle(f.path),'metric-record-title'),node('small',kind));const personal=studyLabel(f.path);if(personal)left.append(personal);else if(f.scoreable>0&&getResourceMeta(f.path).type!=='Draft question set')left.append(node('span','Not practised here','personal-topic-label unpractised-label'));
     const count=node('div',undefined,'metric-record-count');count.append(node('strong',f.slots.toLocaleString('en-IN')),node('span',f.slots===1?'question':'questions'));
     const arrow=node('span','›','metric-record-arrow');arrow.setAttribute('aria-hidden','true');
     row.append(glyph,left,count,arrow);rows.append(row)
