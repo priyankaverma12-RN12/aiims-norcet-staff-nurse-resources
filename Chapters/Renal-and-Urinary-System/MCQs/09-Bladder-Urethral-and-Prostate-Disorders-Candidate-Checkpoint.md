@@ -1,0 +1,20 @@
+# Renal Group 09 — bladder, urethral and prostate disorders candidate checkpoint
+
+**Status:** Isolated draft PR63, not live. 28 November 2026. Five new banks, 100 newly authored original English MCQs, 400 separate Roman Hinglish option rationales and 100 clues. Previous Group 08 five banks (100 originals, 400 rationales) remain byte-identical to checkpoint 22d89c96bfb014d1895c7713818affc26df4f129. PR63 cumulative 200 staged originals and 800 rationales in ten banks. Separate PR52 head 8342b78e0932530dee00de9f07c82aeb35b698fc unchanged, 30 additional recurrent UTI candidates not included in these counts. Published Renal inventory remains 604 originals, 22 diagrams, 30 reported adaptations and zero full-length mocks.
+
+| Topic | New originals | Exact content commit | Final blob |
+|---|---:|---|---|
+| [09A Urinary retention and bladder emptying](09A-Urinary-Retention-and-Bladder-Emptying-20-MCQs.md) | 20 | `773bf0f6b2e1088adbd73cb1e207bfef5f02e2ac` | `2562bc3c1d44fc1349bc08f47a6b2544dbbe0f34` |
+| [09B Urinary incontinence](09B-Urinary-Incontinence-20-MCQs.md) | 20 | `b5b0d23f5e545695e7728f361173661ddbb5b0f2` | `335e5df780a8294d4fa20a9b8665aeb20672dae8` |
+| [09C Neurogenic bladder and spinal cord injury](09C-Neurogenic-Bladder-and-Spinal-Cord-Injury-20-MCQs.md) | 20 | `471aba22ea59a4a3b99824823182e9b7c0f78ba9` | `0a2d3405905373d31b188cb216612756685cc487` |
+| [09D Urethral stricture and reconstructive nursing](09D-Urethral-Stricture-and-Reconstructive-Nursing-20-MCQs.md) | 20 | `d90a707e3c1774769d18657734424f1a74718fb5` | `cb21535cb4cc7fc9feba1762386dc639dd10a75a` |
+| [09E Prostate disorders and perioperative prostate nursing](09E-Prostate-Disorders-and-Perioperative-Prostate-Nursing-20-MCQs.md) | 20 | `8e6effddd7cd9f00826d6fbc43005c5a951019db` | `5c1e6a1a5eb909f6b7070a410dab7ab9c6522d29` |
+| **Total** | **100** | | |
+
+All new content commits exact readback passed. New-bank structural check: 100 distinct normalized stems, 400 English options, 400 rationales, 100 aligned key letters and text, 100 closed hidden answers and 100 clues. Easy 7, Medium 43, Difficult 50, answer positions A/B/C/D 25 each. No detected structural errors. 09E Q20 revised before release to distinguish its learning task from the new retention neurological red-flag question. Editorial difficulty is not psychometric calibration.
+
+Research: directly retrieved NIDDK retention diagnosis/treatment and BPH, EAU neuro-urology, urethral stricture diagnosis/management and non-neurogenic male LUTS, and NHS TURP pages. NICE NG123 direct retrieval returned 403, indexed recommendations consulted. Indexed additional references on autonomic dysreflexia, prostatitis and androgen deprivation bone health. Individual bank source links and limitations recorded. No invented historical exam attribution. No new mocks or PYQs.
+
+Scope and remaining gates: verified main chapter coverage map Group 09 pending, current PR63/52 paths and related PR45/46/48/49 changed-path names screened. This was a bounded inventory screen, not full sibling question-level semantic certification. PR63 existing Group 08 overlap concern in comment 7237585002 remains for coordinated integration, no older bank edits made. Under merged PR59 prioritize new content rather than repeating historical audits. Full bounded historical rule/audit reread not certified. Independent clinical and cross-chapter semantic review, source-specific gaps, concept guides/diagrams, dedicated question-level videos, INC reconciliation, latest-main reconciliation, navigation clearance and exact-head CI remain before merge. No live credit.
+
+Next: Group 10 catheterization, catheter care, CAUTI prevention, bladder irrigation and urine specimens, only for distinct renal-specific objectives after screening existing Nursing Foundations and Infection Control banks and the newly authored Group 09. If overlap precludes distinct items, advance to pending dialysis and access topics. Preserve PR52, PR63 Group 08/09, other sessions and all five hourly automations. Release only this run's Renal claim after checkpoint readback.
