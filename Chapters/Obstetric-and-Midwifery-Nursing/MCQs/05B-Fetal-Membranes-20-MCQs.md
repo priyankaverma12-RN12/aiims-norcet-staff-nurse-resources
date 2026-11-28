@@ -294,7 +294,7 @@
 
 ### Q13. At 39 weeks, a woman reports confirmed rupture of membranes before contractions begin. Which term is most appropriate?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Preterm prelabor rupture of membranes
 - **B.** Term prelabor rupture of membranes
@@ -318,7 +318,7 @@
 
 ### Q14. At 33 weeks, membranes rupture before labor begins. What does the gestational age add to the diagnosis?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** It establishes a post-term pregnancy
 - **B.** It proves fetal lung maturity
@@ -342,7 +342,7 @@
 
 ### Q15. A woman at 31 weeks reports possible fluid leakage without contractions. Which nursing history is most useful before the maternity assessment?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Only her preferred baby name
 - **B.** Only the last meal
@@ -366,7 +366,7 @@
 
 ### Q16. According to NICE, which initial examination is appropriate when preterm prelabor rupture of membranes is suspected?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Sterile speculum examination to look for fluid pooling
 - **B.** Abdominal palpation alone to exclude rupture
@@ -390,7 +390,7 @@
 
 ### Q17. If no amniotic fluid pooling is seen on speculum examination in suspected PPROM, which test does NICE recommend considering?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Routine serum creatinine alone
 - **B.** Urine glucose dipstick
@@ -414,7 +414,7 @@
 
 ### Q18. A vaginal biomarker result is positive but the history and examination are equivocal. What is the safest interpretation?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Interpret the result alongside gestation, history and clinical assessment
 - **B.** The result alone mandates immediate delivery
@@ -438,7 +438,7 @@
 
 ### Q19. Which approach is consistent with NICE guidance on nitrazine testing for suspected PPROM?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Use nitrazine as the sole definitive test
 - **B.** Do not use nitrazine to diagnose PPROM
@@ -462,7 +462,7 @@
 
 ### Q20. A patient with confirmed PPROM develops a raised C-reactive protein. Which approach is appropriate for assessing intrauterine infection?
 
-**Difficulty:** 🔴 Hard · **Priority:** 🔴 MOST IMPORTANT
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT
 
 - **A.** Diagnose infection from CRP alone
 - **B.** Exclude infection if one temperature is normal

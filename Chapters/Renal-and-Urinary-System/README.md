@@ -27,6 +27,7 @@
 - [RPGN](Concepts/Rapidly-Progressive-Glomerulonephritis.md)
 - [IgA nephropathy](Concepts/IgA-Nephropathy.md)
 - [Lower UTI and cystitis](Concepts/Lower-Urinary-Tract-Infection-and-Cystitis.md)
+- [Pyelonephritis](Concepts/Pyelonephritis.md)
 
 ### 📝 Topic-wise MCQs
 
@@ -48,6 +49,7 @@
 - [30 RPGN MCQs](MCQs/Rapidly-Progressive-Glomerulonephritis-30-MCQs.md)
 - [30 IgA nephropathy MCQs](MCQs/IgA-Nephropathy-30-MCQs.md)
 - [30 lower UTI and cystitis MCQs](MCQs/Lower-Urinary-Tract-Infection-and-Cystitis-30-MCQs.md)
+- [30 pyelonephritis MCQs](MCQs/Pyelonephritis-30-MCQs.md)
 - [4 preserved starter MCQs](MCQs/Renal-and-Urinary-System-Topic-Wise-Starter-MCQs.md)
 
 ### 🧪 Mock Tests
@@ -74,6 +76,7 @@
 - [1 RPGN adaptation](Previous-Year-Questions/RPGN-Reported-Evidence.md)
 - [IgA evidence gaps](Previous-Year-Questions/IgA-Nephropathy-Reported-Evidence.md)
 - [Lower UTI evidence gaps](Previous-Year-Questions/Lower-UTI-Reported-Evidence.md)
+- [Pyelonephritis evidence](Previous-Year-Questions/Pyelonephritis-Reported-Evidence.md)
 - [2 preserved earlier adaptations](Previous-Year-Questions/Renal-and-Urinary-System-India-Wide-Additional-Reported-PYQs.md)
 - [Research register](Previous-Year-Questions/Renal-and-Urinary-System-Past-Paper-Research-Register.md)
 
@@ -81,7 +84,7 @@
 
 Teaching and MCQ practice are separated in the [anatomy concepts](Concepts/Kidney-Nephron-and-Urinary-Tract-Anatomy.md#-youtube-teaching-aur-practice) and the [physiology concepts](Concepts/Renal-Physiology-Urine-Formation-and-Regulation.md), and [hyperkalemia](Concepts/Hyperkalemia.md#-teaching-and-mcq-practice), and [CKD-MBD teaching and practice](Concepts/CKD-Mineral-Bone-Disorder.md#-teaching-and-mcq-practice), and [renal diet videos](Concepts/Renal-Diet-and-Nutrition.md#-teaching-and-mcq-practice), and [renal pharmacology teaching and practice](Concepts/Renal-Pharmacology.md#-teaching-and-mcq-practice), and [glomerulonephritis teaching and practice](Concepts/Glomerulonephritis.md#-teaching-and-mcq-practice), and [nephritic syndrome teaching and practice](Concepts/Nephritic-Syndrome.md#-teaching-and-mcq-practice), and [nephrotic syndrome teaching and practice](Concepts/Nephrotic-Syndrome.md), with explicit pending verification in the evidence files.
 
-**Inventory:** 544 original questions (540 new, 4 preserved), thirty published reported adaptations (twenty-eight new, two preserved), twenty original SVG diagrams, 0/10 full-length mocks. Historical sources are not authenticated official keys.
+**Inventory:** 574 original questions (570 new, 4 preserved), thirty published reported adaptations (twenty-eight new, two preserved), twenty-one original SVG diagrams, 0/10 full-length mocks. Historical sources are not authenticated official keys.
 
 ## Kaise padhna hai?
 
@@ -117,9 +120,11 @@ Pehle anatomy diagram aur notes padho. Phir 30 questions solve karo. Answer dekh
 
 28 November 2026 — Lower UTI and cystitis package published and exact readbacks verified: 30 original MCQs 5333bef372d3b15f492be8f0540aabb3f7d9171f (blob 4b98788a9c2bf94f39896d8e1d915c25f1afaa2a), concept f10b61095b5530ebf89bc4a896db7947fc7603bc, original diagram 5fb19dcee6c46cf19e80d2dd578e4df84700f935, evidence 1832e726d43b2a02ac189ac34763c27d9c44655b, topic map 783fb37af59308d401ffca7878a72fed97678dc4, research register e40f88c24e5c8caecbc78fa50e2b43405277d391. Added 15 Medium and 15 Difficult originals, 120 individual option reasons, 30 closed hidden answers, 30 aligned answer keys, zero normalized exact stem matches across 514 prior renal questions and 50 related NF 09A/09B questions. Exhaustive cross-chapter semantic audit and independent clinical certification pending. ICMR July 2026 nephrology workflow extracted official text reviewed, screenshot unavailable, EAU and NICE directly opened. SCTIMST official 2019 paper Q8 recurrent UTI item reserved, official answer key not authenticated. UP NHM indexed third-party paper retrieval failed. No historical adaptations counted. All 30 question-level video practice mappings pending, indexed candidate watch page inaccessible. A concurrent GitHub commit caused one 409 during concept creation, recovered via fresh claim/file inspection and verified retry. Both skills and audit material retrieved, relevant requirements and prior reviewed context applied, fresh complete line-by-line reread not certified. Other jobs and schedules unchanged by this run. Global tracker and PR branches untouched. All existing material preserved.
 
-**Next:** Pyelonephritis, then asymptomatic bacteriuria, recurrent UTI prevention and remaining urinary infection topics. Expand individual assessment and physiology subtopic banks before full mocks.
+28 November 2026 — Pyelonephritis package published and exact readbacks verified: 30 original MCQs e8732753bdf4f002accf7851518f248a9b9da19f (blob c836e11168ecc19037fbb48b7a90c9eb6327b5bb), concept aea0b81efae2976c9b8617383d5ed3b788ec440e, original diagram 737681f2b8d772f659c83d128793c507b54d3ba8, evidence afc1d694c69fa531158b6cc96d3645bb9470ee54, topic map ad08dc3600d69c961c0d508b52384e8e7dc71953, research register 045624fe6fff1b46db419f4e9931657dad33e06f. Added 13 Medium and 17 Difficult originals, 120 individual option rationales, 30 aligned keys and closed hidden answers, zero normalized exact stem matches against 544 prior renal originals. Related upper and lower UTI, AKI, assessment, anatomy and pharmacology tasks screened; exhaustive semantic and independent clinical certification pending. EAU and IDSA direct guideline text retrieved, ICMR July 2026 official PDF text retrieved with screenshot failure, ACOG and NICE indexed recommendations with direct access blocked. NORCET 7 Prelims 2024 third-party memory-based report directly retrieved; one source-based exercise with four rationales retained uncounted pending official key and overlap review. HPRCA official key listing indexed, paper retrieval failed. Broad UTI MCQ practice candidate indexed; all 30 exact mappings and the exercise playback pending. Both skill files and current audit materials retrieved and applicable sections reviewed; fresh full line-by-line reread not certified. Per-script tool-call ceiling interrupted multi-file operations, recovered with smaller verified calls. Other jobs, global tracker, PR branches and schedules not edited. All existing material preserved.
+
+**Next:** Asymptomatic bacteriuria, then recurrent UTI prevention and remaining urinary infection topics. Expand individual assessment and physiology subtopic banks before full mocks.
 
 - [Full syllabus index](../NORCET-Full-Chapter-Index.md)
 - [Repository home](../../README.md)
 
-<!-- Manual Renal scope claim: ACTIVE. Owner: renal-pyelo-20261128-0349. Scope: Pyelonephritis original MCQs, concepts, diagram, evidence and chapter-local indexes only. Claimed UTC: 2026-11-28T03:49:00Z. Expiry UTC: 2026-11-28T04:19:00Z. -->
+<!-- Manual Renal scope claim: FREE. Owner: none. Released after exact readback of pyelonephritis package and chapter-local indexes. -->
