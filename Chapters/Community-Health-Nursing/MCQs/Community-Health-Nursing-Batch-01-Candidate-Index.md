@@ -32,3 +32,21 @@ Batch 02 difficulty: 7 Easy, 51 Medium and 42 Difficult. PR61 cumulative: 17 Eas
 PR62 independently contains 100 candidates in partly overlapping Batch 01 topics, including environmental sanitation. Those candidates are not included in PR61 totals and must not be added to live inventory without reconciliation. Both existing chapter claim locations were reserved for the same PR61 Batch 02 scope. Environmental sanitation was deliberately excluded from this batch because PR62 already has a bank. Preserve both branches and coordinate one authoritative combined chapter inventory before integration. No shared navigation change, mock or historical-question credit.
 
 Next: verify the two ownership markers and PR62 activity, then continue distinct uncovered Community Health Nursing topics such as family health and home visiting and other national health programmes. Do not regenerate the ten PR61 banks or repeat completed structural checks. Reconcile topic coverage before starting ten 120-question original-exclusive chapter mocks. No draft-to-live credit.
+
+## Batch 03 — verified candidate continuation
+
+| Topic | New originals | Bank |
+|---|---:|---|
+| Family Health Nursing | 20 | [Open bank](11-Family-Health-Nursing-20-MCQs.md) |
+| Home visiting and bag technique | 20 | [Open bank](12-Home-Visiting-and-Bag-Technique-20-MCQs.md) |
+| Malaria and vector control | 20 | [Open bank](13-Malaria-and-Vector-Control-20-MCQs.md) |
+| National Leprosy Eradication Programme | 20 | [Open bank](14-NLEP-Leprosy-Control-20-MCQs.md) |
+| National NCD programme and prevention | 20 | [Open bank](15-NP-NCD-Prevention-and-Continuity-20-MCQs.md) |
+| Batch 03 total | 100 | 400 individual rationales |
+| PR61 cumulative | 300 | 1200 individual rationales |
+
+Batch 03 difficulty: 5 Easy, 52 Medium, 43 Difficult. PR61 cumulative: 22 Easy, 152 Medium, 126 Difficult. All five banks verified by exact remote readback. 100 distinct new normalized stems, 400 options and individual rationales, 100 aligned keys, 100 closed hidden answer blocks and 100 exam clues. Zero exact normalized matches against 204 PR61/legacy stems and 100 PR62 stems. Git compare from Batch02 checkpoint to Batch03 content head shows only five new files and zero deletions, preserving earlier ten banks. Bounded exact screening is not comprehensive semantic or clinical certification.
+
+Topic-level source research included NHM's updated 2026 SSBSK programme, WHO family planning and malaria/leprosy resources, CDC infection prevention, NCVBDC malaria surveillance, current DGHS NLEP and MoHFW NP-NCD. Item-specific verification, independent review, concept guides, diagrams and dedicated video/PYQ evidence remain pending. Do not mark as live. PR62 coordination comment 7237645277 was read, no response was present at inspection, and its head remained unchanged. No PR62 edits or shared navigation edits.
+
+Next: check the current chapter allocation and adjacent active banks before adding distinct uncovered topics, including health education, health information and community records, disaster preparedness at community level, national mental health services and community rehabilitation where not already covered. Reconcile PR61/PR62 topic overlap and current curriculum before mocks. Avoid repeating completed structural checks. Preserve both branches and learner history.
