@@ -1,10 +1,10 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: forward-pr48-source-20261128-090347Z
+Scope: PR48 candidate-only specific source corrections and remaining numbered-bank comparison checkpoint. No shared navigation, Renal or other owner writes.
+Claimed UTC: 2026-11-28T09:03:47Z
+Expiry UTC: 2026-11-28T09:33:47Z
 
 ## Latest isolated reconciliation and visual-review checkpoint — 28 November 2026
 
