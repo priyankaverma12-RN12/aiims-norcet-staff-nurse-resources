@@ -1,7 +1,10 @@
 # Independent NORCET coverage-gap claim
 
-State: FREE
-Owner: none
+State: CLAIMED
+Owner: coverage-gap-hematology-20261128-032650
+Scope: Hematology only, new coagulation diagnostics and hemostasis original bank, separate evidence and existing local inventory. No other chapter or shared navigation changes.
+Claimed UTC: 2026-11-28T03:26:50Z
+Expiry UTC: 2026-11-28T03:56:50Z
 
 Last owner: coverage-gap-hematology-20261128-032114
 Last scope: Hematology and Blood Disorders only. Released on controlled stop after verified writes.
