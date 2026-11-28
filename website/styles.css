@@ -906,7 +906,7 @@ body{font-family:var(--ui-font)}
 @media(max-width:360px){#metrics-filter-panel .metrics-filters{grid-template-columns:minmax(0,1fr)}}
 
 /* Keep icon hit areas stable throughout reader entry and narrow flex layout. */
-#metrics-filter-toggle,.mobile-reader-controls .panel-icon{box-sizing:border-box;flex:0 0 44px;min-width:44px;min-height:44px;width:44px;height:44px;transform:none}
+#metrics-filter-toggle,#progress-filter-toggle,.mobile-reader-controls .panel-icon{box-sizing:border-box;flex:0 0 44px;min-width:44px;min-height:44px;width:44px;height:44px;transform:none}
 @media(max-width:600px){#reader>.reader-head{animation:none}.mobile-reader-controls{align-items:center}}
 
 /* V12.5 — dedicated Library workspace; Home is a study dashboard. */
