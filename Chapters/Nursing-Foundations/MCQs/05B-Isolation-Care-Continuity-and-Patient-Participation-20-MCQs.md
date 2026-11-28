@@ -891,6 +891,8 @@ D. Ask the patient to perform all exercises alone despite needing assistance
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/precautions.html)
 
+[CDC — task-specific training and documented competency, II.A](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
+
 **YouTube MCQ practice: verification pending.**
 
 </details>
@@ -919,6 +921,8 @@ D. Omit the hearing assessment without informing the patient
 [Additional clinical reference](https://www.cdc.gov/infection-control/hcp/core-practices/index.html)
 
 [Concept](../Concepts/05B-Isolation-Care-Continuity-and-Patient-Participation.md#additional-bedside-decisions) · [CDC guidance](https://www.cdc.gov/infection-control/hcp/isolation-precautions/prevention.html)
+
+[CDC — reusable equipment reprocessing policy, I.B.9 and IV.E](https://www.cdc.gov/infection-control/hcp/isolation-precautions/recommendations.html)
 
 **YouTube MCQ practice: verification pending.**
 
