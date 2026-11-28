@@ -10,17 +10,17 @@
 
 - **A.** Iodine
 - **B.** Fluoride
-- **C.** Molybdenum
-- **D.** Zinc
+- **C.** Zinc
+- **D.** Molybdenum
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Zinc**
+**Correct: C. Zinc**
 
 - **A. Incorrect:** Iodine thyroid hormones ka structural part hai. Is symptom combination mein zinc-related functions more directly relevant hain.
 - **B. Incorrect:** Fluoride dental mineralization aur caries prevention se related hai. Taste aur wound healing ka combined pattern fluoride deficiency ka typical clue nahi hai.
-- **C. Incorrect:** Molybdenum specific enzymes ka cofactor hai. Is common nutritional presentation mein zinc deficiency zyada relevant consideration hai.
-- **D. Correct:** Zinc protein aur DNA synthesis, taste aur immune function mein important hai. In findings se zinc deficiency possible hai, lekin clinical assessment se other causes bhi evaluate karne chahiye.
+- **C. Correct:** Zinc protein aur DNA synthesis, taste aur immune function mein important hai. In findings se zinc deficiency possible hai, lekin clinical assessment se other causes bhi evaluate karne chahiye.
+- **D. Incorrect:** Molybdenum specific enzymes ka cofactor hai. Is common nutritional presentation mein zinc deficiency zyada relevant consideration hai.
 
 </details>
 
@@ -48,18 +48,18 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
-- **A.** Iodine
-- **B.** Fluoride
-- **C.** Copper
+- **A.** Copper
+- **B.** Iodine
+- **C.** Fluoride
 - **D.** Selenium
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Copper**
+**Correct: A. Copper**
 
-- **A. Incorrect:** Excess zinc ka classic mineral interaction copper ke saath hai. Iodine deficiency thyroid function affect karti hai.
-- **B. Incorrect:** Fluoride dental exposure se related hai. Zinc-induced anaemia aur neutropenia ka typical mechanism fluoride depletion nahi hai.
-- **C. Correct:** Excess zinc intestinal metallothionein increase kar sakta hai, jo copper ko bind karke absorption reduce karta hai. Copper deficiency anaemia aur neutropenia cause kar sakti hai.
+- **A. Correct:** Excess zinc intestinal metallothionein increase kar sakta hai, jo copper ko bind karke absorption reduce karta hai. Copper deficiency anaemia aur neutropenia cause kar sakti hai.
+- **B. Incorrect:** Excess zinc ka classic mineral interaction copper ke saath hai. Iodine deficiency thyroid function affect karti hai.
+- **C. Incorrect:** Fluoride dental exposure se related hai. Zinc-induced anaemia aur neutropenia ka typical mechanism fluoride depletion nahi hai.
 - **D. Incorrect:** Selenium antioxidant enzymes mein role rakhta hai. Chronic excess zinc ka established secondary deficiency risk copper hai.
 
 </details>
@@ -88,17 +88,17 @@
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
-- **A.** A diet dominated by high-phytate unprocessed cereals with little dietary variety
-- **B.** A varied diet containing animal protein and low-phytate foods
+- **A.** A varied diet containing animal protein and low-phytate foods
+- **B.** A diet dominated by high-phytate unprocessed cereals with little dietary variety
 - **C.** A meal containing an appropriate zinc-fortified food
 - **D.** A mixed meal with appropriately processed pulses and other zinc sources
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. A diet dominated by high-phytate unprocessed cereals with little dietary variety**
+**Correct: B. A diet dominated by high-phytate unprocessed cereals with little dietary variety**
 
-- **A. Correct:** Phytate zinc bind karke absorbable fraction reduce kar sakta hai. Food processing, variety aur total intake ka combined effect assess karna chahiye.
-- **B. Incorrect:** Animal sources aur lower phytate pattern zinc absorption support kar sakte hain. Yeh reduced bioavailability ka most likely pattern nahi hai.
+- **A. Incorrect:** Animal sources aur lower phytate pattern zinc absorption support kar sakte hain. Yeh reduced bioavailability ka most likely pattern nahi hai.
+- **B. Correct:** Phytate zinc bind karke absorbable fraction reduce kar sakta hai. Food processing, variety aur total intake ka combined effect assess karna chahiye.
 - **C. Incorrect:** Fortification zinc supply badha sakti hai. Actual absorption food matrix par depend karti hai, lekin fortification itself high phytate pattern nahi hai.
 - **D. Incorrect:** Soaking ya fermentation kuch phytate reduce kar sakti hai. Varied food sources adequacy support karte hain.
 
@@ -109,18 +109,18 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
 - **A.** Phenylketonuria
-- **B.** Acrodermatitis enteropathica
-- **C.** Galactosaemia
-- **D.** Hereditary haemochromatosis
+- **B.** Galactosaemia
+- **C.** Hereditary haemochromatosis
+- **D.** Acrodermatitis enteropathica
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Acrodermatitis enteropathica**
+**Correct: D. Acrodermatitis enteropathica**
 
 - **A. Incorrect:** Phenylketonuria amino acid metabolism disorder hai. Is triad ka classic inherited zinc-related diagnosis nahi hai.
-- **B. Correct:** Inherited intestinal zinc transport defect se characteristic skin lesions, diarrhoea aur alopecia ho sakte hain. Prompt clinical confirmation aur specialist treatment chahiye.
-- **C. Incorrect:** Galactosaemia galactose metabolism disturb karti hai aur infants mein liver ya infection complications de sakti hai. Is dermatitis pattern ka best explanation zinc malabsorption hai.
-- **D. Incorrect:** Haemochromatosis iron accumulation se related hai. Zinc malabsorption aur periorificial dermatitis is disorder ki classic triad nahi hai.
+- **B. Incorrect:** Galactosaemia galactose metabolism disturb karti hai aur infants mein liver ya infection complications de sakti hai. Is dermatitis pattern ka best explanation zinc malabsorption hai.
+- **C. Incorrect:** Haemochromatosis iron accumulation se related hai. Zinc malabsorption aur periorificial dermatitis is disorder ki classic triad nahi hai.
+- **D. Correct:** Inherited intestinal zinc transport defect se characteristic skin lesions, diarrhoea aur alopecia ho sakte hain. Prompt clinical confirmation aur specialist treatment chahiye.
 
 </details>
 
@@ -149,17 +149,17 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
 - **A.** Assume all standard IV crystalloid solutions contain adequate trace elements
-- **B.** Add unrestricted over-the-counter mineral products directly to the IV bag
-- **C.** Review the formulation and monitor trace-element provision according to clinical status
+- **B.** Review the formulation and monitor trace-element provision according to clinical status
+- **C.** Add unrestricted over-the-counter mineral products directly to the IV bag
 - **D.** Monitor only the patient's height after each infusion
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Review the formulation and monitor trace-element provision according to clinical status**
+**Correct: B. Review the formulation and monitor trace-element provision according to clinical status**
 
 - **A. Incorrect:** Routine crystalloids fluid aur selected electrolytes provide karte hain. Complete trace-element nutrition guarantee nahi karte.
-- **B. Incorrect:** Unapproved additives se contamination, incompatibility aur overdose ho sakti hai. Sterile pharmacy preparation aur prescription zaroori hai.
-- **C. Correct:** Parenteral nutrition gut bypass karti hai, isliye trace elements prescribed formulation mein adequately supplied hone chahiye. Losses, organ function aur duration se needs change ho sakti hain.
+- **B. Correct:** Parenteral nutrition gut bypass karti hai, isliye trace elements prescribed formulation mein adequately supplied hone chahiye. Losses, organ function aur duration se needs change ho sakti hain.
+- **C. Incorrect:** Unapproved additives se contamination, incompatibility aur overdose ho sakti hai. Sterile pharmacy preparation aur prescription zaroori hai.
 - **D. Incorrect:** Height short-term trace-element status identify nahi karti. Clinical findings, formulation aur relevant labs more informative hain.
 
 </details>
@@ -229,18 +229,18 @@
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
 - **A.** Pancreatic amylases
-- **B.** Glutathione peroxidases
-- **C.** Brush-border lactases
-- **D.** Thyroid-binding globulins
+- **B.** Brush-border lactases
+- **C.** Thyroid-binding globulins
+- **D.** Glutathione peroxidases
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Glutathione peroxidases**
+**Correct: D. Glutathione peroxidases**
 
 - **A. Incorrect:** Amylase starch digest karta hai. Glutathione peroxidase ka selenium-dependent antioxidant role different hai.
-- **B. Correct:** Selenium selenoproteins mein incorporated hota hai. Kuch glutathione peroxidases harmful peroxides reduce karke oxidative damage limit karne mein help karte hain.
-- **C. Incorrect:** Lactase lactose digestion mein important hai, selenium-dependent peroxide reduction enzyme nahi hai.
-- **D. Incorrect:** These proteins circulating thyroid hormones transport karte hain. Selenium ka antioxidant role glutathione peroxidases se associated hai.
+- **B. Incorrect:** Lactase lactose digestion mein important hai, selenium-dependent peroxide reduction enzyme nahi hai.
+- **C. Incorrect:** These proteins circulating thyroid hormones transport karte hain. Selenium ka antioxidant role glutathione peroxidases se associated hai.
+- **D. Correct:** Selenium selenoproteins mein incorporated hota hai. Kuch glutathione peroxidases harmful peroxides reduce karke oxidative damage limit karne mein help karte hain.
 
 </details>
 
@@ -248,18 +248,18 @@
 
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
-- **A.** Conversion of thyroid hormone through iodothyronine deiodinases
-- **B.** Addition of iron to haemoglobin by selenium transporters
-- **C.** Direct replacement of iodine atoms by selenium within T4
+- **A.** Addition of iron to haemoglobin by selenium transporters
+- **B.** Direct replacement of iodine atoms by selenium within T4
+- **C.** Conversion of thyroid hormone through iodothyronine deiodinases
 - **D.** Complete suppression of pituitary TSH release
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Conversion of thyroid hormone through iodothyronine deiodinases**
+**Correct: C. Conversion of thyroid hormone through iodothyronine deiodinases**
 
-- **A. Correct:** Deiodinases thyroid hormones se iodine atoms remove karke hormone activation ya inactivation mein help karte hain. Kuch deiodinases selenoproteins hain.
-- **B. Incorrect:** Haemoglobin iron insertion distinct pathway hai. Selenium ka relevant thyroid link deiodination hai.
-- **C. Incorrect:** T4 ka iodine-containing structure selenium se replace nahi hota. Selenium enzyme function support karta hai.
+- **A. Incorrect:** Haemoglobin iron insertion distinct pathway hai. Selenium ka relevant thyroid link deiodination hai.
+- **B. Incorrect:** T4 ka iodine-containing structure selenium se replace nahi hota. Selenium enzyme function support karta hai.
+- **C. Correct:** Deiodinases thyroid hormones se iodine atoms remove karke hormone activation ya inactivation mein help karte hain. Kuch deiodinases selenoproteins hain.
 - **D. Incorrect:** TSH feedback system regulate hota hai. Selenium-dependent deiodinase function ka matlab pituitary TSH ko completely suppress karna nahi hai.
 
 </details>
@@ -268,18 +268,18 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
-- **A.** Isolated dietary fluoride inadequacy
-- **B.** Expected harmless effects proving adequate selenium intake
-- **C.** Chronic selenium excess
+- **A.** Chronic selenium excess
+- **B.** Isolated dietary fluoride inadequacy
+- **C.** Expected harmless effects proving adequate selenium intake
 - **D.** A definite diagnosis of iron deficiency based on breath odour
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Chronic selenium excess**
+**Correct: A. Chronic selenium excess**
 
-- **A. Incorrect:** Low fluoride dental protection affect kar sakta hai. Hair, nails aur garlic-like odour ka pattern selenium excess se more relevant hai.
-- **B. Incorrect:** Hair aur nail changes toxicity warning ho sakti hain. Inhe normal supplement response nahi maanna chahiye.
-- **C. Correct:** These findings selenosis se associated ho sakti hain. Supplement labels aur total dose urgently review karke clinical evaluation arrange karni chahiye.
+- **A. Correct:** These findings selenosis se associated ho sakti hain. Supplement labels aur total dose urgently review karke clinical evaluation arrange karni chahiye.
+- **B. Incorrect:** Low fluoride dental protection affect kar sakta hai. Hair, nails aur garlic-like odour ka pattern selenium excess se more relevant hai.
+- **C. Incorrect:** Hair aur nail changes toxicity warning ho sakti hain. Inhe normal supplement response nahi maanna chahiye.
 - **D. Incorrect:** Garlic-like odour iron deficiency ka specific diagnostic sign nahi hai. Supplement history selenium toxicity evaluate karne mein useful hai.
 
 </details>
@@ -288,19 +288,19 @@
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
-- **A.** Iodine
-- **B.** Zinc
-- **C.** Fluoride
-- **D.** Selenium
+- **A.** Selenium
+- **B.** Iodine
+- **C.** Zinc
+- **D.** Fluoride
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Selenium**
+**Correct: A. Selenium**
 
-- **A. Incorrect:** Iodine deficiency goitre aur thyroid-related effects se associated hai. Keshan cardiomyopathy ka classic nutritional association selenium hai.
-- **B. Incorrect:** Zinc deficiency growth, skin aur immune effects de sakti hai. Keshan disease ka historical regional association selenium ke saath hai.
-- **C. Incorrect:** Fluoride exposure dental aur skeletal effects se related hai. Keshan disease ka characteristic trace-mineral link fluoride nahi hai.
-- **D. Correct:** Keshan disease cardiomyopathy low-selenium regions mein historically associated rahi hai. Other contributing factors bhi matter karte hain, isliye selenium deficiency alone har case explain nahi karti.
+- **A. Correct:** Keshan disease cardiomyopathy low-selenium regions mein historically associated rahi hai. Other contributing factors bhi matter karte hain, isliye selenium deficiency alone har case explain nahi karti.
+- **B. Incorrect:** Iodine deficiency goitre aur thyroid-related effects se associated hai. Keshan cardiomyopathy ka classic nutritional association selenium hai.
+- **C. Incorrect:** Zinc deficiency growth, skin aur immune effects de sakti hai. Keshan disease ka historical regional association selenium ke saath hai.
+- **D. Incorrect:** Fluoride exposure dental aur skeletal effects se related hai. Keshan disease ka characteristic trace-mineral link fluoride nahi hai.
 
 </details>
 
@@ -309,17 +309,17 @@
 **Difficulty:** Medium | **Priority:** High | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
 - **A.** Copper
-- **B.** Fluoride
-- **C.** Selenium
+- **B.** Selenium
+- **C.** Fluoride
 - **D.** Iodine
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Fluoride**
+**Correct: C. Fluoride**
 
 - **A. Incorrect:** Copper enzymes aur iron handling mein important hai. Routine caries-preventive topical mineral fluoride hai.
-- **B. Correct:** Appropriate fluoride exposure enamel remineralization support kar sakti hai aur acid-related demineralization reduce kar sakti hai. Age-specific dental advice aur swallowing precautions important hain.
-- **C. Incorrect:** Selenium antioxidant selenoproteins ka component hai. Enamel remineralization ke liye established topical agent fluoride hai.
+- **B. Incorrect:** Selenium antioxidant selenoproteins ka component hai. Enamel remineralization ke liye established topical agent fluoride hai.
+- **C. Correct:** Appropriate fluoride exposure enamel remineralization support kar sakti hai aur acid-related demineralization reduce kar sakti hai. Age-specific dental advice aur swallowing precautions important hain.
 - **D. Incorrect:** Iodine thyroid hormone synthesis ke liye zaroori hai. Caries prevention ka topical role fluoride se associated hai.
 
 </details>
@@ -329,18 +329,18 @@
 **Difficulty:** Medium | **Priority:** High | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
 - **A.** Acute scurvy
-- **B.** Dental fluorosis
-- **C.** Iron overload
-- **D.** Iodine-deficiency goitre
+- **B.** Iron overload
+- **C.** Iodine-deficiency goitre
+- **D.** Dental fluorosis
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Dental fluorosis**
+**Correct: D. Dental fluorosis**
 
 - **A. Incorrect:** Vitamin C deficiency gums aur connective tissue affect karti hai. Developmental enamel mottling fluoride exposure ka more direct clue hai.
-- **B. Correct:** Developing enamel excessive fluoride se mineralization changes develop kar sakta hai. Severity aur cause dental assessment se determine karte hain.
-- **C. Incorrect:** Iron excess systemic organs affect kar sakta hai, lekin described developmental enamel changes typical dental fluorosis hain.
-- **D. Incorrect:** Goitre thyroid enlargement hai. Mottled permanent enamel se iodine deficiency establish nahi hoti.
+- **B. Incorrect:** Iron excess systemic organs affect kar sakta hai, lekin described developmental enamel changes typical dental fluorosis hain.
+- **C. Incorrect:** Goitre thyroid enlargement hai. Mottled permanent enamel se iodine deficiency establish nahi hoti.
+- **D. Correct:** Developing enamel excessive fluoride se mineralization changes develop kar sakta hai. Severity aur cause dental assessment se determine karte hain.
 
 </details>
 
@@ -350,17 +350,17 @@
 
 - **A.** Advise residents to swallow additional fluoride toothpaste
 - **B.** Assume boiling always removes all dissolved fluoride
-- **C.** Treat every resident with zinc without investigating water
-- **D.** Test water sources and arrange access to water meeting applicable fluoride safety standards
+- **C.** Test water sources and arrange access to water meeting applicable fluoride safety standards
+- **D.** Treat every resident with zinc without investigating water
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Test water sources and arrange access to water meeting applicable fluoride safety standards**
+**Correct: C. Test water sources and arrange access to water meeting applicable fluoride safety standards**
 
 - **A. Incorrect:** Extra ingestion systemic exposure badha sakti hai. Community excess fluoride concern mein yeh harmful advice hai.
 - **B. Incorrect:** Ordinary boiling dissolved fluoride reliably remove nahi karta aur evaporation concentration badha sakti hai. Appropriate water treatment aur testing chahiye.
-- **C. Incorrect:** Zinc supplementation excessive water fluoride ka source eliminate nahi karti. Environmental assessment priority hai.
-- **D. Correct:** Chronic high fluoride exposure skeletal fluorosis contribute kar sakti hai. Water testing aur safe source provision exposure ko address karte hain, while clinical assessment individual patients ke liye chahiye.
+- **C. Correct:** Chronic high fluoride exposure skeletal fluorosis contribute kar sakti hai. Water testing aur safe source provision exposure ko address karte hain, while clinical assessment individual patients ke liye chahiye.
+- **D. Incorrect:** Zinc supplementation excessive water fluoride ka source eliminate nahi karti. Environmental assessment priority hai.
 
 </details>
 
@@ -369,17 +369,17 @@
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
 - **A.** Fluoride
-- **B.** Iodine
-- **C.** Molybdenum
+- **B.** Molybdenum
+- **C.** Iodine
 - **D.** Zinc
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Molybdenum**
+**Correct: B. Molybdenum**
 
 - **A. Incorrect:** Fluoride dental mineral effects se associated hai. Sulfite oxidase ka specified metal cofactor molybdenum hai.
-- **B. Incorrect:** Iodine thyroid hormone molecule mein incorporated hota hai. Sulfite oxidation ka cofactor iodine nahi hai.
-- **C. Correct:** Molybdenum cofactor sulfite oxidase jaise enzymes ke function mein important hai. Deficiency rare hai, lekin specialized nutrition context mein relevant ho sakti hai.
+- **B. Correct:** Molybdenum cofactor sulfite oxidase jaise enzymes ke function mein important hai. Deficiency rare hai, lekin specialized nutrition context mein relevant ho sakti hai.
+- **C. Incorrect:** Iodine thyroid hormone molecule mein incorporated hota hai. Sulfite oxidation ka cofactor iodine nahi hai.
 - **D. Incorrect:** Zinc many enzymes ka cofactor hai, lekin sulfite oxidase molybdenum cofactor-dependent enzyme hai.
 
 </details>
@@ -388,17 +388,17 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Zinc and trace minerals | **Type:** Original practice
 
-- **A.** Possible accumulation of trace elements excreted through bile, such as manganese
-- **B.** Automatic loss of all manganese through urine requiring unrestricted replacement
+- **A.** Automatic loss of all manganese through urine requiring unrestricted replacement
+- **B.** Possible accumulation of trace elements excreted through bile, such as manganese
 - **C.** Guaranteed deficiency of every trace element despite normal provision
 - **D.** Permanent discontinuation of all parenteral nutrients without assessment
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Possible accumulation of trace elements excreted through bile, such as manganese**
+**Correct: B. Possible accumulation of trace elements excreted through bile, such as manganese**
 
-- **A. Correct:** Manganese biliary excretion se eliminate hota hai. Cholestasis mein accumulation aur neurological toxicity risk ho sakta hai, isliye individualized review zaroori hai.
-- **B. Incorrect:** Manganese ka major excretion route bile hai. Cholestasis mein routine unrestricted replacement accumulation risk increase kar sakti hai.
+- **A. Incorrect:** Manganese ka major excretion route bile hai. Cholestasis mein routine unrestricted replacement accumulation risk increase kar sakti hai.
+- **B. Correct:** Manganese biliary excretion se eliminate hota hai. Cholestasis mein accumulation aur neurological toxicity risk ho sakta hai, isliye individualized review zaroori hai.
 - **C. Incorrect:** Different elements ke absorption, excretion aur losses different hote hain. Clinical status aur formulation dekhkar specific decisions lene chahiye.
 - **D. Incorrect:** Parenteral nutrition essential ho sakti hai. Trace-element formulation ko specialist adjust karte hain, complete nutrition abruptly stop nahi karna chahiye.
 

@@ -49,18 +49,18 @@
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Iodine nutrition | **Type:** Original practice
 
 - **A.** Thyroglobulin
-- **B.** Transferrin
-- **C.** Glucose transporter 4
-- **D.** Sodium-iodide symporter
+- **B.** Sodium-iodide symporter
+- **C.** Transferrin
+- **D.** Glucose transporter 4
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Sodium-iodide symporter**
+**Correct: B. Sodium-iodide symporter**
 
 - **A. Incorrect:** Thyroglobulin thyroid hormone synthesis ka protein scaffold hai, blood-side iodide uptake transporter nahi hai.
-- **B. Incorrect:** Transferrin iron carry karta hai. Iodide uptake ke liye sodium-iodide symporter chahiye.
-- **C. Incorrect:** GLUT4 insulin-responsive glucose uptake mein important hai, thyroid iodide transport ka specific protein nahi hai.
-- **D. Correct:** Yeh transporter sodium gradient ka use karke iodide follicular cell mein lata hai. Is uptake ke bina hormone synthesis ke liye iodine availability compromise ho sakti hai.
+- **B. Correct:** Yeh transporter sodium gradient ka use karke iodide follicular cell mein lata hai. Is uptake ke bina hormone synthesis ke liye iodine availability compromise ho sakti hai.
+- **C. Incorrect:** Transferrin iron carry karta hai. Iodide uptake ke liye sodium-iodide symporter chahiye.
+- **D. Incorrect:** GLUT4 insulin-responsive glucose uptake mein important hai, thyroid iodide transport ka specific protein nahi hai.
 
 </details>
 
@@ -69,18 +69,18 @@
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Iodine nutrition | **Type:** Original practice
 
 - **A.** Transporting all thyroid hormone through plasma without binding proteins
-- **B.** Facilitating iodination of thyroglobulin tyrosine residues and coupling reactions
-- **C.** Converting dietary starch into iodine
-- **D.** Secreting TSH directly from the thyroid gland
+- **B.** Converting dietary starch into iodine
+- **C.** Secreting TSH directly from the thyroid gland
+- **D.** Facilitating iodination of thyroglobulin tyrosine residues and coupling reactions
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Facilitating iodination of thyroglobulin tyrosine residues and coupling reactions**
+**Correct: D. Facilitating iodination of thyroglobulin tyrosine residues and coupling reactions**
 
 - **A. Incorrect:** Blood transport mein thyroid hormone-binding proteins important hote hain. Peroxidase gland ke synthesis reactions mein kaam karta hai.
-- **B. Correct:** Thyroid peroxidase iodine ko reactive form mein use karne aur tyrosine residues ki iodination aur coupling mein help karta hai. In reactions se hormone precursors bante hain.
-- **C. Incorrect:** Starch carbohydrate hai aur iodine element hai. Enzyme starch se iodine produce nahi karta.
-- **D. Incorrect:** TSH pituitary se release hota hai. Thyroid peroxidase ka function gland ke hormone synthesis mein hai.
+- **B. Incorrect:** Starch carbohydrate hai aur iodine element hai. Enzyme starch se iodine produce nahi karta.
+- **C. Incorrect:** TSH pituitary se release hota hai. Thyroid peroxidase ka function gland ke hormone synthesis mein hai.
+- **D. Correct:** Thyroid peroxidase iodine ko reactive form mein use karne aur tyrosine residues ki iodination aur coupling mein help karta hai. In reactions se hormone precursors bante hain.
 
 </details>
 
@@ -88,17 +88,17 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Iodine nutrition | **Type:** Original practice
 
-- **A.** An exact diagnosis of every child's thyroid disorder
-- **B.** Recent iodine intake at the population level
+- **A.** Recent iodine intake at the population level
+- **B.** An exact diagnosis of every child's thyroid disorder
 - **C.** Long-term iodine stores of each person without variability
 - **D.** The concentration of serum TSH in every child
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Recent iodine intake at the population level**
+**Correct: A. Recent iodine intake at the population level**
 
-- **A. Incorrect:** Single urine iodine thyroid function aur diagnosis establish nahi karti. Individual assessment alag chahiye.
-- **B. Correct:** Urinary iodine recent intake reflect karti hai aur group median population status estimate karne mein useful hai. Single individual sample ka day-to-day variation interpretation limit karta hai.
+- **A. Correct:** Urinary iodine recent intake reflect karti hai aur group median population status estimate karne mein useful hai. Single individual sample ka day-to-day variation interpretation limit karta hai.
+- **B. Incorrect:** Single urine iodine thyroid function aur diagnosis establish nahi karti. Individual assessment alag chahiye.
 - **C. Incorrect:** Urine iodine recent intake se fluctuate kar sakti hai. Group median ko individual lifetime store nahi samajhna chahiye.
 - **D. Incorrect:** Urinary iodine aur serum TSH different measurements hain. Dono ka purpose alag hai.
 
@@ -128,19 +128,19 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Iodine nutrition | **Type:** Original practice
 
-- **A.** At least 15 ppm
-- **B.** 1 ppm
-- **C.** 150 ppm as the minimum household target
-- **D.** 15 grams per kilogram
+- **A.** 1 ppm
+- **B.** 150 ppm as the minimum household target
+- **C.** 15 grams per kilogram
+- **D.** At least 15 ppm
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. At least 15 ppm**
+**Correct: D. At least 15 ppm**
 
-- **A. Correct:** DGHS programme household consumption ke liye adequately iodized salt ka 15 ppm target batata hai. Yeh population programme criterion hai, daily iodine dose nahi.
-- **B. Incorrect:** Yeh programme ke household adequacy target se kam hai. Sirf trace detection adequate iodization establish nahi karti.
-- **C. Incorrect:** Yeh 15 ppm target ka tenfold hai. Programme ka stated minimum household benchmark 15 ppm hai.
-- **D. Incorrect:** ppm ko grams per kilogram samajhna major unit error hai. 15 ppm mass basis par roughly 15 mg/kg hota hai.
+- **A. Incorrect:** Yeh programme ke household adequacy target se kam hai. Sirf trace detection adequate iodization establish nahi karti.
+- **B. Incorrect:** Yeh 15 ppm target ka tenfold hai. Programme ka stated minimum household benchmark 15 ppm hai.
+- **C. Incorrect:** ppm ko grams per kilogram samajhna major unit error hai. 15 ppm mass basis par roughly 15 mg/kg hota hai.
+- **D. Correct:** DGHS programme household consumption ke liye adequately iodized salt ka 15 ppm target batata hai. Yeh population programme criterion hai, daily iodine dose nahi.
 
 </details>
 
@@ -149,18 +149,18 @@
 **Difficulty:** Medium | **Priority:** High | **Topic:** Iodine nutrition | **Type:** Original practice
 
 - **A.** Increase total salt intake substantially to obtain more iodine
-- **B.** Assume every rock salt is adequately iodized
-- **C.** Leave salt exposed to moisture indefinitely
-- **D.** Store labelled iodized salt in a closed dry container and use modest amounts
+- **B.** Store labelled iodized salt in a closed dry container and use modest amounts
+- **C.** Assume every rock salt is adequately iodized
+- **D.** Leave salt exposed to moisture indefinitely
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Store labelled iodized salt in a closed dry container and use modest amounts**
+**Correct: B. Store labelled iodized salt in a closed dry container and use modest amounts**
 
 - **A. Incorrect:** Iodization ka goal existing salt use ko safer iodine source banana hai. Excess sodium blood pressure risk badha sakta hai.
-- **B. Incorrect:** Salt ka colour ya origin iodine content confirm nahi karta. Fortification label check karna zaroori hai.
-- **C. Incorrect:** Poor storage iodine retention aur salt quality affect kar sakti hai. Dry storage better hai.
-- **D. Correct:** Moisture aur storage conditions iodine retention affect kar sakti hain. Labelled iodized salt ko dry closed container mein rakhna aur sodium excess avoid karna practical advice hai.
+- **B. Correct:** Moisture aur storage conditions iodine retention affect kar sakti hain. Labelled iodized salt ko dry closed container mein rakhna aur sodium excess avoid karna practical advice hai.
+- **C. Incorrect:** Salt ka colour ya origin iodine content confirm nahi karta. Fortification label check karna zaroori hai.
+- **D. Incorrect:** Poor storage iodine retention aur salt quality affect kar sakti hai. Dry storage better hai.
 
 </details>
 
@@ -169,18 +169,18 @@
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Iodine nutrition | **Type:** Original practice
 
 - **A.** All pink salt contains more iodine than fortified salt
-- **B.** Use larger amounts of rock salt until thyroid symptoms appear
-- **C.** Avoid all iodine sources if the salt is unfortified
-- **D.** Check whether the product is actually iodized rather than assuming adequate iodine
+- **B.** Check whether the product is actually iodized rather than assuming adequate iodine
+- **C.** Use larger amounts of rock salt until thyroid symptoms appear
+- **D.** Avoid all iodine sources if the salt is unfortified
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Check whether the product is actually iodized rather than assuming adequate iodine**
+**Correct: B. Check whether the product is actually iodized rather than assuming adequate iodine**
 
 - **A. Incorrect:** Colour iodine content ka reliable marker nahi hai. Product composition vary karti hai.
-- **B. Incorrect:** Symptoms develop hone ka wait preventive approach nahi hai. Extra salt sodium-related harm badha sakta hai.
-- **C. Incorrect:** Unfortified salt se iodine shortfall risk ho sakta hai. Adequate safe sources identify karna appropriate hai.
-- **D. Correct:** Natural ya speciality salt automatically iodine-fortified nahi hota. Label se iodine availability check karein aur recommended sodium limit maintain karein.
+- **B. Correct:** Natural ya speciality salt automatically iodine-fortified nahi hota. Label se iodine availability check karein aur recommended sodium limit maintain karein.
+- **C. Incorrect:** Symptoms develop hone ka wait preventive approach nahi hai. Extra salt sodium-related harm badha sakta hai.
+- **D. Incorrect:** Unfortified salt se iodine shortfall risk ho sakta hai. Adequate safe sources identify karna appropriate hai.
 
 </details>
 
@@ -208,19 +208,19 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Iodine nutrition | **Type:** Original practice
 
-- **A.** Review total iodine exposure and use pregnancy-specific advice rather than unregulated high-dose kelp
-- **B.** Kelp is always safe in unlimited amounts because it is natural
-- **C.** Replace the prescribed prenatal supplement with kelp without review
-- **D.** Avoid iodine throughout pregnancy
+- **A.** Kelp is always safe in unlimited amounts because it is natural
+- **B.** Replace the prescribed prenatal supplement with kelp without review
+- **C.** Avoid iodine throughout pregnancy
+- **D.** Review total iodine exposure and use pregnancy-specific advice rather than unregulated high-dose kelp
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Review total iodine exposure and use pregnancy-specific advice rather than unregulated high-dose kelp**
+**Correct: D. Review total iodine exposure and use pregnancy-specific advice rather than unregulated high-dose kelp**
 
-- **A. Correct:** Seaweed products mein iodine quantity widely vary kar sakti hai. Pregnancy mein deficiency aur excess dono concern hain, isliye supplement plan clinician se review karna chahiye.
-- **B. Incorrect:** Natural origin dose safety guarantee nahi karta. High iodine thyroid dysfunction cause kar sakta hai.
-- **C. Incorrect:** Prenatal formulation multiple nutrients cover karti hai. Kelp replacement se iodine excess aur other nutrient gaps ho sakte hain.
-- **D. Incorrect:** Fetal brain development aur maternal thyroid function ke liye iodine important hai. Appropriate intake chahiye, blanket avoidance nahi.
+- **A. Incorrect:** Natural origin dose safety guarantee nahi karta. High iodine thyroid dysfunction cause kar sakta hai.
+- **B. Incorrect:** Prenatal formulation multiple nutrients cover karti hai. Kelp replacement se iodine excess aur other nutrient gaps ho sakte hain.
+- **C. Incorrect:** Fetal brain development aur maternal thyroid function ke liye iodine important hai. Appropriate intake chahiye, blanket avoidance nahi.
+- **D. Correct:** Seaweed products mein iodine quantity widely vary kar sakti hai. Pregnancy mein deficiency aur excess dono concern hain, isliye supplement plan clinician se review karna chahiye.
 
 </details>
 
@@ -228,17 +228,17 @@
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Iodine nutrition | **Type:** Original practice
 
-- **A.** A varied diet with appropriate iodized salt and labelled iodine-containing foods
-- **B.** A restrictive diet excluding seafood, dairy and eggs
+- **A.** A restrictive diet excluding seafood, dairy and eggs
+- **B.** A varied diet with appropriate iodized salt and labelled iodine-containing foods
 - **C.** A diet containing seafood and milk as tolerated with normal portions
 - **D.** A diet with a verified adequate iodine-fortified staple
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. A restrictive diet excluding seafood, dairy and eggs**
+**Correct: A. A restrictive diet excluding seafood, dairy and eggs**
 
-- **A. Incorrect:** Yeh pattern iodine adequacy support kar sakta hai. Individual intake aur health needs phir bhi matter karti hain.
-- **B. Correct:** In foods se iodine mil sakta hai, though content variable hota hai. Agar fortified sources bhi absent hain toh intake assessment important hai.
+- **A. Correct:** In foods se iodine mil sakta hai, though content variable hota hai. Agar fortified sources bhi absent hain toh intake assessment important hai.
+- **B. Incorrect:** Yeh pattern iodine adequacy support kar sakta hai. Individual intake aur health needs phir bhi matter karti hain.
 - **C. Incorrect:** These foods iodine contribute kar sakte hain. Absence of all reliable sources zyada concern hai.
 - **D. Incorrect:** Fortification se iodine supply improve ho sakti hai. Risk total intake par depend karta hai, fortification presence alone inadequacy suggest nahi karti.
 
@@ -248,17 +248,17 @@
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Iodine nutrition | **Type:** Original practice
 
-- **A.** All seaweed products contain identical iodine concentrations
-- **B.** Iodine content varies greatly by species and product, so excess is possible
+- **A.** Iodine content varies greatly by species and product, so excess is possible
+- **B.** All seaweed products contain identical iodine concentrations
 - **C.** Seaweed never contributes biologically available iodine
 - **D.** Seaweed can replace all other minerals in the diet
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Iodine content varies greatly by species and product, so excess is possible**
+**Correct: A. Iodine content varies greatly by species and product, so excess is possible**
 
-- **A. Incorrect:** Species aur product variability documented hai. Label aur source review important hai.
-- **B. Correct:** Seaweed ka iodine concentration species aur processing se change hota hai. Isliye ek fixed portion ko universal safe dose nahi samajhna chahiye.
+- **A. Correct:** Seaweed ka iodine concentration species aur processing se change hota hai. Isliye ek fixed portion ko universal safe dose nahi samajhna chahiye.
+- **B. Incorrect:** Species aur product variability documented hai. Label aur source review important hai.
 - **C. Incorrect:** Seaweed iodine-rich ho sakta hai. Problem variable quantity aur possible excess hai.
 - **D. Incorrect:** Seaweed ek food source hai, complete balanced nutrition ka universal substitute nahi hai.
 
@@ -268,19 +268,19 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Iodine nutrition | **Type:** Original practice
 
-- **A.** Iodine excess can never alter thyroid hormone synthesis
-- **B.** Excess iodine always increases thyroid hormones in every person
-- **C.** Iodine excess only causes iron deficiency anaemia
-- **D.** Excess iodine can disturb thyroid function in susceptible individuals
+- **A.** Excess iodine can disturb thyroid function in susceptible individuals
+- **B.** Iodine excess can never alter thyroid hormone synthesis
+- **C.** Excess iodine always increases thyroid hormones in every person
+- **D.** Iodine excess only causes iron deficiency anaemia
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Excess iodine can disturb thyroid function in susceptible individuals**
+**Correct: A. Excess iodine can disturb thyroid function in susceptible individuals**
 
-- **A. Incorrect:** Thyroid iodine exposure ko regulate karti hai, lekin regulation har situation mein protection guarantee nahi karta.
-- **B. Incorrect:** Response underlying thyroid condition par depend karta hai. Excess se hypothyroidism bhi ho sakta hai.
-- **C. Incorrect:** Iodine excess ka main relevant concern thyroid function hai. Iron deficiency independent evaluation maangti hai.
-- **D. Correct:** Bahut high iodine se thyroid hormone synthesis ya release disturb ho sakti hai. Susceptible patients mein hypo ya hyperthyroidism dono possible hain.
+- **A. Correct:** Bahut high iodine se thyroid hormone synthesis ya release disturb ho sakti hai. Susceptible patients mein hypo ya hyperthyroidism dono possible hain.
+- **B. Incorrect:** Thyroid iodine exposure ko regulate karti hai, lekin regulation har situation mein protection guarantee nahi karta.
+- **C. Incorrect:** Response underlying thyroid condition par depend karta hai. Excess se hypothyroidism bhi ho sakta hai.
+- **D. Incorrect:** Iodine excess ka main relevant concern thyroid function hai. Iron deficiency independent evaluation maangti hai.
 
 </details>
 
@@ -308,19 +308,19 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Iodine nutrition | **Type:** Original practice
 
-- **A.** The drug contains substantial iodine and can affect thyroid function
-- **B.** Amiodarone removes all iodine from the body
-- **C.** The drug is a routine dietary iodine supplement
-- **D.** The drug affects only serum iron and cannot affect thyroid tests
+- **A.** Amiodarone removes all iodine from the body
+- **B.** The drug is a routine dietary iodine supplement
+- **C.** The drug affects only serum iron and cannot affect thyroid tests
+- **D.** The drug contains substantial iodine and can affect thyroid function
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. The drug contains substantial iodine and can affect thyroid function**
+**Correct: D. The drug contains substantial iodine and can affect thyroid function**
 
-- **A. Correct:** Amiodarone iodine-rich medicine hai aur thyroid metabolism ko multiple ways se affect kar sakti hai. Monitoring prescribed schedule se honi chahiye.
-- **B. Incorrect:** Medicine iodine exposure increase kar sakti hai, complete depletion nahi karti.
-- **C. Incorrect:** Amiodarone cardiac antiarrhythmic hai. Nutrition supplementation ke liye use nahi karte.
-- **D. Incorrect:** Thyroid dysfunction recognized complication hai. Clinical monitoring appropriate hai.
+- **A. Incorrect:** Medicine iodine exposure increase kar sakti hai, complete depletion nahi karti.
+- **B. Incorrect:** Amiodarone cardiac antiarrhythmic hai. Nutrition supplementation ke liye use nahi karte.
+- **C. Incorrect:** Thyroid dysfunction recognized complication hai. Clinical monitoring appropriate hai.
+- **D. Correct:** Amiodarone iodine-rich medicine hai aur thyroid metabolism ko multiple ways se affect kar sakti hai. Monitoring prescribed schedule se honi chahiye.
 
 </details>
 
@@ -330,17 +330,17 @@
 
 - **A.** To induce permanent iodine deficiency in all patients
 - **B.** To replace radioactive iodine treatment entirely
-- **C.** To reduce stable iodine availability and support uptake of therapeutic radioactive iodine
-- **D.** To increase iodine saturation of thyroid cells before treatment
+- **C.** To increase iodine saturation of thyroid cells before treatment
+- **D.** To reduce stable iodine availability and support uptake of therapeutic radioactive iodine
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. To reduce stable iodine availability and support uptake of therapeutic radioactive iodine**
+**Correct: D. To reduce stable iodine availability and support uptake of therapeutic radioactive iodine**
 
 - **A. Incorrect:** Diet usually temporary therapeutic preparation hai. Lifelong deficiency goal nahi hai.
 - **B. Incorrect:** Diet preparatory measure hai, treatment ka substitute nahi hai.
-- **C. Correct:** Specialist plan mein temporary iodine restriction thyroid-derived tissue ke radioiodine uptake ko support kar sakti hai. Timing aur allowed foods treatment team specify karti hai.
-- **D. Incorrect:** High stable iodine uptake therapeutic radioiodine ke uptake ko compete kar sakta hai. Preparation goal usually low iodine availability hai.
+- **C. Incorrect:** High stable iodine uptake therapeutic radioiodine ke uptake ko compete kar sakta hai. Preparation goal usually low iodine availability hai.
+- **D. Correct:** Specialist plan mein temporary iodine restriction thyroid-derived tissue ke radioiodine uptake ko support kar sakti hai. Timing aur allowed foods treatment team specify karti hai.
 
 </details>
 
@@ -349,18 +349,18 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Iodine nutrition | **Type:** Original practice
 
 - **A.** One random urinary iodine result alone
-- **B.** Colour of the patient's salt container
-- **C.** Serum haemoglobin alone
-- **D.** Serum TSH interpreted with free T4 and clinical context
+- **B.** Serum TSH interpreted with free T4 and clinical context
+- **C.** Colour of the patient's salt container
+- **D.** Serum haemoglobin alone
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Serum TSH interpreted with free T4 and clinical context**
+**Correct: B. Serum TSH interpreted with free T4 and clinical context**
 
 - **A. Incorrect:** Random urine recent intake se vary karti hai. Individual thyroid hormone function directly measure nahi hota.
-- **B. Incorrect:** Container appearance fortification ya thyroid function confirm nahi karta. Label aur tests relevant hain.
-- **C. Incorrect:** Anaemia thyroid disease ke saath coexist kar sakti hai, lekin haemoglobin thyroid hormone function ka specific test nahi hai.
-- **D. Correct:** TSH aur free T4 thyroid function evaluate karne mein useful hain. Iodine history possible cause identify karne mein help karti hai, lekin cause separately establish karte hain.
+- **B. Correct:** TSH aur free T4 thyroid function evaluate karne mein useful hain. Iodine history possible cause identify karne mein help karti hai, lekin cause separately establish karte hain.
+- **C. Incorrect:** Container appearance fortification ya thyroid function confirm nahi karta. Label aur tests relevant hain.
+- **D. Incorrect:** Anaemia thyroid disease ke saath coexist kar sakti hai, lekin haemoglobin thyroid hormone function ka specific test nahi hai.
 
 </details>
 
@@ -388,18 +388,18 @@
 
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Iodine nutrition | **Type:** Original practice
 
-- **A.** 60 micrograms
-- **B.** 6 micrograms
-- **C.** 600 micrograms
+- **A.** 6 micrograms
+- **B.** 600 micrograms
+- **C.** 60 micrograms
 - **D.** 60 milligrams
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. 60 micrograms**
+**Correct: C. 60 micrograms**
 
-- **A. Correct:** 20 mg/kg ka matlab 20 micrograms per gram hai. 3 g mein 60 micrograms honge, actual dietary intake retention aur other sources se affect hoti hai.
-- **B. Incorrect:** Yeh 20 micrograms/g ko 3 g se multiply karne ka correct result nahi hai. Decimal conversion mein factor ten miss hua hai.
-- **C. Incorrect:** Yeh 20 micrograms/g ke hisaab se 30 g salt ka amount hoga. Given portion 3 g hai.
+- **A. Incorrect:** Yeh 20 micrograms/g ko 3 g se multiply karne ka correct result nahi hai. Decimal conversion mein factor ten miss hua hai.
+- **B. Incorrect:** Yeh 20 micrograms/g ke hisaab se 30 g salt ka amount hoga. Given portion 3 g hai.
+- **C. Correct:** 20 mg/kg ka matlab 20 micrograms per gram hai. 3 g mein 60 micrograms honge, actual dietary intake retention aur other sources se affect hoti hai.
 - **D. Incorrect:** Unit micrograms hai, milligrams nahi. Milligram result thousand-fold overestimate karega.
 
 </details>

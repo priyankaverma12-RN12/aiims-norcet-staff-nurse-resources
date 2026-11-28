@@ -8,18 +8,18 @@
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
-- **A.** Wait until the patient develops visible muscle wasting
-- **B.** Screen only if the patient has a low serum albumin
-- **C.** Perform a validated nutrition risk screen at admission according to local policy
+- **A.** Perform a validated nutrition risk screen at admission according to local policy
+- **B.** Wait until the patient develops visible muscle wasting
+- **C.** Screen only if the patient has a low serum albumin
 - **D.** Screen only after discharge planning begins
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Perform a validated nutrition risk screen at admission according to local policy**
+**Correct: A. Perform a validated nutrition risk screen at admission according to local policy**
 
-- **A. Incorrect:** Visible wasting late sign ho sakti hai. Risk pehle identify karna useful hai.
-- **B. Incorrect:** Albumin illness aur fluid status se bhi affected hota hai. Screening eligibility ko single laboratory value par depend nahi karna chahiye.
-- **C. Correct:** Screening se risk early identify hota hai aur zarurat par detailed assessment arrange kar sakte hain. Admission par screen karne se intervention unnecessary delay nahi hota.
+- **A. Correct:** Screening se risk early identify hota hai aur zarurat par detailed assessment arrange kar sakte hain. Admission par screen karne se intervention unnecessary delay nahi hota.
+- **B. Incorrect:** Visible wasting late sign ho sakti hai. Risk pehle identify karna useful hai.
+- **C. Incorrect:** Albumin illness aur fluid status se bhi affected hota hai. Screening eligibility ko single laboratory value par depend nahi karna chahiye.
 - **D. Incorrect:** Discharge tak wait karne se inpatient nutritional problems miss ho sakti hain. Local admission screening schedule follow karna chahiye.
 
 </details>
@@ -29,17 +29,17 @@
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
 - **A.** 33.8 kg/m²
-- **B.** 21.1 kg/m²
-- **C.** 18.2 kg/m²
+- **B.** 18.2 kg/m²
+- **C.** 21.1 kg/m²
 - **D.** 84.4 kg/m²
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. 21.1 kg/m²**
+**Correct: C. 21.1 kg/m²**
 
 - **A. Incorrect:** Yeh weight ko height se divide karne ka result hai. BMI mein height square hoti hai.
-- **B. Correct:** BMI weight ko metres mein height ke square se divide karke nikalte hain. 54 divided by 2.56 lagbhag 21.1 hai.
-- **C. Incorrect:** Given weight aur height ke hisaab se calculation 21.1 ke aas-paas aata hai. Is value ke liye formula correct apply nahi hua hai.
+- **B. Incorrect:** Given weight aur height ke hisaab se calculation 21.1 ke aas-paas aata hai. Is value ke liye formula correct apply nahi hua hai.
+- **C. Correct:** BMI weight ko metres mein height ke square se divide karke nikalte hain. 54 divided by 2.56 lagbhag 21.1 hai.
 - **D. Incorrect:** Yeh height multiplication ya incorrect unit conversion se aa sakta hai. BMI calculation mein weight ko squared height se divide karna hai.
 
 </details>
@@ -48,17 +48,17 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
-- **A.** 10%
-- **B.** 11.1%
+- **A.** 11.1%
+- **B.** 10%
 - **C.** 8%
 - **D.** 90%
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. 10%**
+**Correct: B. 10%**
 
-- **A. Correct:** Weight change 8 kg hai aur denominator usual weight 80 kg hai. 8 divided by 80 times 100 se 10 percent milta hai.
-- **B. Incorrect:** Yeh current weight 72 kg ko denominator banane se aata hai. Percentage loss original usual weight ke against calculate karte hain.
+- **A. Incorrect:** Yeh current weight 72 kg ko denominator banane se aata hai. Percentage loss original usual weight ke against calculate karte hain.
+- **B. Correct:** Weight change 8 kg hai aur denominator usual weight 80 kg hai. 8 divided by 80 times 100 se 10 percent milta hai.
 - **C. Incorrect:** 8 kg absolute loss hai. Percentage ke liye usual weight se divide karna zaroori hai.
 - **D. Incorrect:** Current weight usual weight ka 90 percent hai. Loss percentage remaining proportion se alag hai.
 
@@ -69,18 +69,18 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
 - **A.** 0, low risk
-- **B.** 1, medium risk
-- **C.** 4, high risk
-- **D.** 2, high risk
+- **B.** 2, high risk
+- **C.** 1, medium risk
+- **D.** 4, high risk
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. 2, high risk**
+**Correct: B. 2, high risk**
 
 - **A. Incorrect:** BMI aur weight loss dono risk contribute karte hain. Dono scores ignore karke zero assign karna incorrect hai.
-- **B. Incorrect:** Dono components ko add karna hai. Sirf ek score count karne se risk underestimate hoga.
-- **C. Incorrect:** Acute effect absent hone par extra 2 add nahi karte. Given components ka total 2 hai.
-- **D. Correct:** BMI 18.5 se 20 ke range mein score 1 aur 5 se 10 percent weight loss ka score 1 hai. Acute effect absent hai, isliye total 2 high risk category hai.
+- **B. Correct:** BMI 18.5 se 20 ke range mein score 1 aur 5 se 10 percent weight loss ka score 1 hai. Acute effect absent hai, isliye total 2 high risk category hai.
+- **C. Incorrect:** Dono components ko add karna hai. Sirf ek score count karne se risk underestimate hoga.
+- **D. Incorrect:** Acute effect absent hone par extra 2 add nahi karte. Given components ka total 2 hai.
 
 </details>
 
@@ -110,17 +110,17 @@
 
 - **A.** No nutrition screening will ever be required again
 - **B.** The score proves all micronutrient stores are adequate
-- **C.** Start full parenteral nutrition solely because a screen was performed
-- **D.** Current screen indicates low risk, but repeat screening according to policy and clinical changes
+- **C.** Current screen indicates low risk, but repeat screening according to policy and clinical changes
+- **D.** Start full parenteral nutrition solely because a screen was performed
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Current screen indicates low risk, but repeat screening according to policy and clinical changes**
+**Correct: C. Current screen indicates low risk, but repeat screening according to policy and clinical changes**
 
 - **A. Incorrect:** Risk dynamic hota hai. Future illness ya reduced intake se risk change ho sakta hai.
 - **B. Incorrect:** MUST broad undernutrition risk screen karta hai. Individual micronutrient deficiency detect karne ka complete diagnostic tool nahi hai.
-- **C. Incorrect:** Screen karna nutrition support indication establish nahi karta. Route aur need detailed clinical assessment par depend karte hain.
-- **D. Correct:** Low score current risk estimate hai, permanent guarantee nahi. Intake, illness ya weight change hone par rescreening useful hai.
+- **C. Correct:** Low score current risk estimate hai, permanent guarantee nahi. Intake, illness ya weight change hone par rescreening useful hai.
+- **D. Incorrect:** Screen karna nutrition support indication establish nahi karta. Route aur need detailed clinical assessment par depend karte hain.
 
 </details>
 
@@ -144,23 +144,23 @@
 
 </details>
 
-### Q8. A patient with heart failure gains 3 kg in two days while food intake is poor and oedema is increasing. Which interpretation is safest?
+### Q8. An adult has been weighed on a standing scale in clinic, then on a bed scale during admission. The difference seems unexpectedly large. What should the nurse do before interpreting the change as tissue loss?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
-- **A.** The gain proves 3 kg of new muscle has been formed
-- **B.** Fluid retention may mask tissue loss, so interpret weight with fluid status and other nutritional findings
-- **C.** No nutrition review is needed because the patient gained weight
-- **D.** Increase salt intake solely to maintain the new weight
+- **A.** Treat the difference as a definite change in fat mass
+- **B.** Average the two values and label that value the patient's dry weight
+- **C.** Use only the higher value and discard the lower value without documentation
+- **D.** Check measurement conditions, scale calibration, clothing and any attached equipment or bedding
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Fluid retention may mask tissue loss, so interpret weight with fluid status and other nutritional findings**
+**Correct: D. Check measurement conditions, scale calibration, clothing and any attached equipment or bedding**
 
-- **A. Incorrect:** Do din mein rapid weight gain new muscle ka reliable evidence nahi hai. Oedema fluid contribution likely hai.
-- **B. Correct:** Rapid gain oedema-related fluid se ho sakta hai. Nutritional recovery assume karne se pehle clinical fluid status, intake aur tissue findings assess karna chahiye.
-- **C. Incorrect:** Fluid retention poor nutrition ko mask kar sakti hai. Intake aur nutritional assessment ab bhi important hain.
-- **D. Incorrect:** Heart failure mein sodium management clinical plan ke according hona chahiye. Fluid weight maintain karna nutrition goal nahi hai.
+- **A. Incorrect:** Unexplained measurement difference automatically fat loss ya gain establish nahi karta. Measurement reliability aur fluid status review chahiye.
+- **B. Incorrect:** Arithmetic average clinical dry weight establish nahi karta. Consistent measurements aur clinical assessment zaroori hain.
+- **C. Incorrect:** Selective recording trend bias create karti hai. Dono values, methods aur limitations transparently document karein.
+- **D. Correct:** Different scales aur attached items measured weight alter kar sakte hain. Comparison se pehle method aur measurement conditions verify karna chahiye.
 
 </details>
 
@@ -169,18 +169,18 @@
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
 - **A.** Compare pre-dialysis weight one week with post-dialysis weight the next without notation
-- **B.** Use consistent timing and interpret measurements in relation to fluid removal and target weight
-- **C.** Treat every fall after dialysis as loss of body protein
-- **D.** Ignore all weight measurements in patients receiving dialysis
+- **B.** Treat every fall after dialysis as loss of body protein
+- **C.** Ignore all weight measurements in patients receiving dialysis
+- **D.** Use consistent timing and interpret measurements in relation to fluid removal and target weight
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Use consistent timing and interpret measurements in relation to fluid removal and target weight**
+**Correct: D. Use consistent timing and interpret measurements in relation to fluid removal and target weight**
 
 - **A. Incorrect:** Different fluid states comparison distort kar sakti hain. Measurement timing document karna important hai.
-- **B. Correct:** Dialysis se fluid weight change hota hai. Comparable timing aur clinical fluid status record karne se nutritional trend zyada meaningful hota hai.
-- **C. Incorrect:** Post-dialysis decrease commonly fluid removal reflect karti hai. Tissue loss establish karne ke liye wider assessment chahiye.
-- **D. Incorrect:** Weight fluid management aur nutrition trend dono mein useful ho sakta hai. Context ke saath interpretation chahiye.
+- **B. Incorrect:** Post-dialysis decrease commonly fluid removal reflect karti hai. Tissue loss establish karne ke liye wider assessment chahiye.
+- **C. Incorrect:** Weight fluid management aur nutrition trend dono mein useful ho sakta hai. Context ke saath interpretation chahiye.
+- **D. Correct:** Dialysis se fluid weight change hota hai. Comparable timing aur clinical fluid status record karne se nutritional trend zyada meaningful hota hai.
 
 </details>
 
@@ -188,19 +188,19 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
-- **A.** Force standing despite a high fall risk
-- **B.** Invent an average adult height without documenting it
-- **C.** Cancel every element of nutrition assessment because standing height is unavailable
-- **D.** Use a validated alternative height estimate or available reliable documented measurement and record its limitation
+- **A.** Use a validated alternative height estimate or available reliable documented measurement and record its limitation
+- **B.** Force standing despite a high fall risk
+- **C.** Invent an average adult height without documenting it
+- **D.** Cancel every element of nutrition assessment because standing height is unavailable
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Use a validated alternative height estimate or available reliable documented measurement and record its limitation**
+**Correct: A. Use a validated alternative height estimate or available reliable documented measurement and record its limitation**
 
-- **A. Incorrect:** Unsafe measurement patient ko injury de sakti hai. Alternative use karna safer hai.
-- **B. Incorrect:** Assumed height BMI score distort kar sakti hai. Reliable estimate aur method disclosure important hain.
-- **C. Incorrect:** Weight history, intake aur clinical findings ab bhi useful hain. Height limitation ke bawajood screening alternatives available ho sakte hain.
-- **D. Correct:** Ulna length jaise validated alternatives selected settings mein height estimate kar sakte hain. Measurement method aur uncertainty document karni chahiye, unsafe standing avoid karein.
+- **A. Correct:** Ulna length jaise validated alternatives selected settings mein height estimate kar sakte hain. Measurement method aur uncertainty document karni chahiye, unsafe standing avoid karein.
+- **B. Incorrect:** Unsafe measurement patient ko injury de sakti hai. Alternative use karna safer hai.
+- **C. Incorrect:** Assumed height BMI score distort kar sakti hai. Reliable estimate aur method disclosure important hain.
+- **D. Incorrect:** Weight history, intake aur clinical findings ab bhi useful hain. Height limitation ke bawajood screening alternatives available ho sakte hain.
 
 </details>
 
@@ -208,17 +208,17 @@
 
 **Difficulty:** Medium | **Priority:** Medium | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
-- **A.** Reduced temporal, clavicular or interosseous muscle bulk compared with clinical expectations
-- **B.** Hair colour alone
+- **A.** Hair colour alone
+- **B.** Reduced temporal, clavicular or interosseous muscle bulk compared with clinical expectations
 - **C.** A single blood pressure reading
 - **D.** The patient's preferred cuisine alone
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Reduced temporal, clavicular or interosseous muscle bulk compared with clinical expectations**
+**Correct: B. Reduced temporal, clavicular or interosseous muscle bulk compared with clinical expectations**
 
-- **A. Correct:** Selected anatomical sites par muscle wasting observe karke body tissue depletion ka clue mil sakta hai. Age, function aur clinical context ke saath interpret karna chahiye.
-- **B. Incorrect:** Hair colour age aur genetics se influenced ho sakta hai. Muscle bulk ka direct assessment nahi hai.
+- **A. Incorrect:** Hair colour age aur genetics se influenced ho sakta hai. Muscle bulk ka direct assessment nahi hai.
+- **B. Correct:** Selected anatomical sites par muscle wasting observe karke body tissue depletion ka clue mil sakta hai. Age, function aur clinical context ke saath interpret karna chahiye.
 - **C. Incorrect:** Blood pressure haemodynamic assessment ke liye useful hai, lekin muscle mass directly measure nahi karta.
 - **D. Incorrect:** Food preference nutrition planning mein important hai. Muscle depletion assess karne ke liye physical findings chahiye.
 
@@ -228,39 +228,39 @@
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
-- **A.** High BMI guarantees sufficient skeletal muscle mass
-- **B.** Muscle loss can occur only below a BMI of 18.5
-- **C.** Excess body fat can coexist with clinically important muscle depletion
+- **A.** Excess body fat can coexist with clinically important muscle depletion
+- **B.** High BMI guarantees sufficient skeletal muscle mass
+- **C.** Muscle loss can occur only below a BMI of 18.5
 - **D.** Intentional further weight loss is always the immediate priority
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Excess body fat can coexist with clinically important muscle depletion**
+**Correct: A. Excess body fat can coexist with clinically important muscle depletion**
 
-- **A. Incorrect:** Body weight fat, fluid aur lean mass ka combination hai. BMI muscle mass guarantee nahi karta.
-- **B. Incorrect:** Muscle depletion different BMI categories mein ho sakti hai. Clinical examination aur function assess karna zaroori hai.
-- **C. Correct:** BMI total weight ko height se relate karta hai, lean aur fat mass separate nahi karta. High BMI ke bawajood muscle depletion aur nutrition risk possible hai.
+- **A. Correct:** BMI total weight ko height se relate karta hai, lean aur fat mass separate nahi karta. High BMI ke bawajood muscle depletion aur nutrition risk possible hai.
+- **B. Incorrect:** Body weight fat, fluid aur lean mass ka combination hai. BMI muscle mass guarantee nahi karta.
+- **C. Incorrect:** Muscle depletion different BMI categories mein ho sakti hai. Clinical examination aur function assess karna zaroori hai.
 - **D. Incorrect:** Acute illness aur muscle loss mein restriction inappropriate ho sakti hai. Goals individualized assessment se decide karne chahiye.
 
 </details>
 
-### Q13. Which method best quantifies a hospitalized patient's actual meal consumption over the next 48 hours?
+### Q13. A food chart records that a patient ate half of a 400-kcal breakfast and one quarter of an 800-kcal lunch. What estimated energy was consumed from these two meals?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
-- **A.** Record every tray delivered as fully consumed
-- **B.** Ask only whether the patient likes the hospital menu
-- **C.** Use the patient's admission weight as the only measure of current intake
-- **D.** Record estimated portions consumed at each meal and relevant snacks or nutrition supplements
+- **A.** 450 kcal
+- **B.** 400 kcal
+- **C.** 600 kcal
+- **D.** 1,200 kcal
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Record estimated portions consumed at each meal and relevant snacks or nutrition supplements**
+**Correct: B. 400 kcal**
 
-- **A. Incorrect:** Delivered aur consumed food alag ho sakte hain. Is method se intake overestimate hoga.
-- **B. Incorrect:** Preference useful barrier identify kar sakti hai, lekin consumed portion quantify nahi karti.
-- **C. Incorrect:** Weight past aur fluid changes reflect kar sakta hai. Short-term intake ke liye direct meal records more appropriate hain.
-- **D. Correct:** Serial food-intake documentation se actual consumed quantity ka estimate milta hai. Sirf tray delivered hona sufficient intake prove nahi karta.
+- **A. Incorrect:** Yeh unequal meal energies ko correctly weight nahi karta. Har meal ki energy ko consumed fraction se multiply karna chahiye.
+- **B. Correct:** Breakfast se 200 kcal aur lunch se 200 kcal aayi. Dono add karne par 400 kcal milti hain, assuming recorded fractions represent energy proportion.
+- **C. Incorrect:** Yeh breakfast half aur lunch half ke hisaab se ho sakta hai, lekin lunch ka consumed fraction one quarter hai.
+- **D. Incorrect:** Yeh total energy offered hai, consumed energy nahi. Plate waste ko account karna important hai.
 
 </details>
 
@@ -268,18 +268,18 @@
 
 **Difficulty:** Difficult | **Priority:** Medium | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
-- **A.** It may not represent usual intake because of day-to-day variation and recall error
-- **B.** It always measures every nutrient with laboratory precision
-- **C.** It cannot include drinks or snacks under any circumstances
+- **A.** It always measures every nutrient with laboratory precision
+- **B.** It cannot include drinks or snacks under any circumstances
+- **C.** It may not represent usual intake because of day-to-day variation and recall error
 - **D.** It establishes the exact cause of all nutritional deficiencies
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. It may not represent usual intake because of day-to-day variation and recall error**
+**Correct: C. It may not represent usual intake because of day-to-day variation and recall error**
 
-- **A. Correct:** Ek din ka record specific day reflect karta hai. Usual intake assess karne ke liye multiple days ya other history useful ho sakti hai.
-- **B. Incorrect:** Portion estimates aur memory imperfect ho sakte hain. Recall exact laboratory measurement nahi hai.
-- **C. Incorrect:** Recall mein beverages, snacks aur supplements bhi include kar sakte hain. Complete questioning important hai.
+- **A. Incorrect:** Portion estimates aur memory imperfect ho sakte hain. Recall exact laboratory measurement nahi hai.
+- **B. Incorrect:** Recall mein beverages, snacks aur supplements bhi include kar sakte hain. Complete questioning important hai.
+- **C. Correct:** Ek din ka record specific day reflect karta hai. Usual intake assess karne ke liye multiple days ya other history useful ho sakti hai.
 - **D. Incorrect:** Diet history possible gaps suggest karti hai, lekin absorption, losses aur disease bhi consider karni chahiye.
 
 </details>
@@ -289,38 +289,38 @@
 **Difficulty:** Medium | **Priority:** High | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
 - **A.** Assume the patient is simply refusing to cooperate
-- **B.** Ask about chewing difficulties, access to food, medications, mood and help with meal preparation
-- **C.** Ask only about the patient's favourite food and stop the interview
-- **D.** Recommend supplements before asking about the cause of poor intake
+- **B.** Ask only about the patient's favourite food and stop the interview
+- **C.** Recommend supplements before asking about the cause of poor intake
+- **D.** Ask about chewing difficulties, access to food, medications, mood and help with meal preparation
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Ask about chewing difficulties, access to food, medications, mood and help with meal preparation**
+**Correct: D. Ask about chewing difficulties, access to food, medications, mood and help with meal preparation**
 
 - **A. Incorrect:** Blaming se underlying barriers miss ho sakte hain. Nonjudgmental assessment more useful hai.
-- **B. Correct:** Intake reduced hone ke multiple practical aur clinical causes ho sakte hain. Open questions se barriers identify hote hain aur individualized assistance plan ho sakta hai.
-- **C. Incorrect:** Food preference ek factor hai, lekin access, chewing aur functional ability bhi important hain.
-- **D. Incorrect:** Supplements useful ho sakte hain, lekin barrier assessment se targeted intervention aur safety better hoti hai.
+- **B. Incorrect:** Food preference ek factor hai, lekin access, chewing aur functional ability bhi important hain.
+- **C. Incorrect:** Supplements useful ho sakte hain, lekin barrier assessment se targeted intervention aur safety better hoti hai.
+- **D. Correct:** Intake reduced hone ke multiple practical aur clinical causes ho sakte hain. Open questions se barriers identify hote hain aur individualized assistance plan ho sakta hai.
 
 </details>
 
-### Q16. A patient with a functioning hand struggles to open food packaging because of arthritis. Which nursing intervention directly addresses the observed intake barrier?
+### Q16. A patient repeatedly eats less lunch because routine nonurgent ward procedures interrupt the meal. Which service-level intervention addresses the identified barrier?
 
 **Difficulty:** Medium | **Priority:** High | **Topic:** Nutritional screening and assessment | **Type:** Original practice
 
-- **A.** Prescribe tube feeding solely because packages are difficult to open
-- **B.** Remove all foods requiring utensils without discussing alternatives
-- **C.** Provide appropriate meal setup and adaptive assistance while supporting independence
-- **D.** Document the meal as refused without offering assistance
+- **A.** Cancel all urgent clinical observations during meals
+- **B.** Record every interrupted meal as a patient refusal
+- **C.** Increase portion size without changing interruption timing
+- **D.** Coordinate protected mealtimes when clinically safe and arrange essential care around meals
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Provide appropriate meal setup and adaptive assistance while supporting independence**
+**Correct: D. Coordinate protected mealtimes when clinically safe and arrange essential care around meals**
 
-- **A. Incorrect:** Packaging difficulty alone enteral tube indication nahi hai. Oral meal access improve karna pehle appropriate ho sakta hai.
-- **B. Incorrect:** Unnecessary restriction variety kam kar sakti hai. Patient ki preference aur adaptive equipment consider karein.
-- **C. Correct:** Patient ke paas food present hai lekin packaging barrier hai. Setup help aur suitable adaptive aids se intake improve ho sakti hai without unnecessary dependence.
-- **D. Incorrect:** Refusal label actual physical barrier miss karta hai. Help provide karke consumed intake assess karna chahiye.
+- **A. Incorrect:** Patient safety urgent care demand kar sakti hai. Protected mealtime ka goal avoidable interruptions reduce karna hai, essential care stop karna nahi.
+- **B. Incorrect:** Interruption environment-related barrier hai. Refusal label problem ko patient par incorrectly shift karega.
+- **C. Incorrect:** Bada portion available hone par bhi time aur opportunity barrier remain kar sakta hai. Identified cause address karna priority hai.
+- **D. Correct:** Nonurgent interruptions kam karne se patient ko meal complete karne ka mauka milta hai. Urgent clinical care delay nahi karni chahiye, isliye ward team timing coordinate karti hai.
 
 </details>
 
