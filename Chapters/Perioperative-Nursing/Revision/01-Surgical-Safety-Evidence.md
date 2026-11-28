@@ -1,0 +1,36 @@
+# Surgical Safety Checklist — candidate evidence and inventory
+
+Baseline: 4 preserved original starters, zero complete mocks. This isolated batch adds 20 staged original questions, 80 separately written option rationales, 20 exam clues, one concept guide and one original SVG. Live additions: zero until merge and verified publication. No historical question claims.
+
+## Item-level mapping
+
+| Question | Learning task | Clinical source |
+|---|---|---|
+| 1 | A patient with a functioning IV line arrives for elective surgery, but the pulse oximeter has failed its self-test. What should the circulating nurse verify before induction? | [WHO manual, sign in](https://www.who.int/publications/i/item/9789241598590) |
+| 2 | During sign in, a patient reports a previous difficult tracheal intubation. The planned induction equipment is ready but no additional airway support has been arranged. Which response is most appropriate? | [WHO manual, sign in](https://www.who.int/publications/i/item/9789241598590) |
+| 3 | The patient reports facial swelling and wheezing after a previous antibiotic, but the allergy section of the theatre record is empty. What should the nurse do during sign in? | [WHO manual, sign in](https://www.who.int/publications/i/item/9789241598590) |
+| 4 | The anesthesia provider has not completed the equipment and medication safety check for the next elective case. Which action by the checklist coordinator is appropriate? | [WHO manual, sign in](https://www.who.int/publications/i/item/9789241598590) |
+| 5 | A 35-kg child is scheduled for an operation with an estimated blood loss of 300 mL. Under the WHO checklist screening criterion of greater than 7 mL/kg in children, what should the nurse conclude? | [WHO manual, sign in](https://www.who.int/publications/i/item/9789241598590) |
+| 6 | A new assistant enters the operating room immediately before incision. The other staff have worked together all morning. Which time-out action best supports team communication? | [WHO manual, time out](https://www.who.int/publications/i/item/9789241598590) |
+| 7 | A surgeon begins preparing to incise while the anesthesia provider is adjusting equipment and has not participated in the scheduled time out. What should the circulating nurse request? | [WHO manual, time out](https://www.who.int/publications/i/item/9789241598590) |
+| 8 | For a scheduled operation, a prescribed prophylactic antibiotic has not yet been administered when the pre-incision time out begins. What is the best action? | [WHO manual, time out](https://www.who.int/publications/i/item/9789241598590) |
+| 9 | An elective procedure requires essential localization imaging, but the images cannot be accessed on the theatre display at time out. Which response is appropriate? | [WHO manual, time out](https://www.who.int/publications/i/item/9789241598590) |
+| 10 | During the pre-incision briefing, the surgeon anticipates a prolonged technically difficult dissection. Which information should be shared with the entire operating team? | [WHO manual, time out](https://www.who.int/publications/i/item/9789241598590) |
+| 11 | The scrub nurse identifies an uncertain sterilization indicator on an instrument tray during the time out. Which action best addresses this finding? | [WHO manual, time out and OpenStax 31.3](https://www.who.int/publications/i/item/9789241598590) |
+| 12 | An elective operation is approaching final closure and the sponge count is one short. Which action is the safest next step for the circulating nurse? | [WHO manual, sign out](https://www.who.int/publications/i/item/9789241598590) |
+| 13 | Two different tissue specimens have been collected from separate anatomical locations. One container is labeled with the patient identity but not the specimen site. What should the circulating nurse do before dispatch? | [WHO manual, sign out](https://www.who.int/publications/i/item/9789241598590) |
+| 14 | The planned laparoscopic procedure was converted to an open operation. Which procedure information should be confirmed during sign out? | [WHO manual, sign out](https://www.who.int/publications/i/item/9789241598590) |
+| 15 | A suction unit repeatedly malfunctioned during surgery and a replacement unit was used successfully. Which sign-out action is most appropriate? | [WHO manual, sign out](https://www.who.int/publications/i/item/9789241598590) |
+| 16 | At sign out, the surgeon identifies a high risk of postoperative bleeding despite satisfactory final counts. Which nursing action is most appropriate? | [WHO manual, sign out and OpenStax 31.3](https://www.who.int/publications/i/item/9789241598590) |
+| 17 | A hospital plans to introduce the WHO checklist in ten operating rooms. Which initial implementation approach is most consistent with WHO guidance? | [WHO manual, implementation](https://www.who.int/publications/i/item/9789241598590) |
+| 18 | A manager proposes measuring surgical safety solely by the percentage of forms filed, although observation shows that staff rarely pause or speak during time out. What is the best improvement measure? | [WHO manual, implementation and evaluation](https://www.who.int/publications/i/item/9789241598590) |
+| 19 | An unstable emergency patient requires immediate life-saving surgery, and one usual sign-in item cannot be completed despite attempts. Which checklist response is appropriate? | [WHO manual, sign in emergency caveats](https://www.who.int/publications/i/item/9789241598590) |
+| 20 | A hospital appoints a circulating nurse as checklist coordinator. Which statement correctly describes the coordinator's role? | [WHO manual, checklist coordinator](https://www.who.int/publications/i/item/9789241598590) |
+
+## Research and limitations
+
+- WHO implementation manual retrieved as extracted PDF text and WHO FAQ and OpenStax 31.3 directly retrieved. PDF page screenshot requests returned cache misses. The manual's sign-in, time-out, sign-out and implementation recommendations were checked in extracted text. NICE NG125 indexed but direct retrieval returned 403. No claim of comprehensive independent guideline authentication.
+- [AIIMS NORCET 10 notice](https://aiipmr.gov.in/ReadWriteData/News/news_28220269302652.pdf) indexed. [HPRCA portal](https://www.hprca.hp.gov.in/) located. Exact official HPRCA item/key and INC unit-level curriculum mapping pending. Original exam-level practice only.
+- [WHO checklist teaching lead](https://www.youtube.com/watch?v=0UVUPKArrL8) and [Anaesthesia OT ICU mixed teaching/MCQ lead](https://www.youtube.com/watch?v=QM-vcyGCM-s) indexed. Exact channel, playback and question-specific coverage not verified. All 20 exact video mappings pending.
+- Four starter stems and chapter map/register/mock plan inspected. Exact normalized comparison against four starters and 20 new stems passed. Full sibling-bank semantic screening, independent clinical review, difficulty/distractor review, visual SVG rendering, complete bounded preflight and PR7/8 coordination remain pending. Do not merge or count as live before applicable gates pass.
+- Next: preoperative assessment and preparation, surgical asepsis and infection prevention, positioning, PACU, postoperative complications and discharge. Resume this draft rather than create a second competing chapter lane.
