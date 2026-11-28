@@ -4,23 +4,23 @@
 
 [Chapter](../README.md) · [Concepts](../Concepts/09-Maternal-and-Lactation-Nutrition.md)
 
-### Q1. A breastfeeding mother is partially breastfeeding and also gives formula. Which factor should influence estimation of her additional energy needs?
+### Q1. A breastfeeding mother asks whether changing her intake of omega-3-rich foods can influence human milk fatty acids. What is the most accurate response?
 
-**Difficulty:** Difficult | **Priority:** Medium | **Topic:** Lactation nutrition and human milk | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Lactation nutrition and human milk | **Type:** Original practice
 
-- **A.** The infant's sex alone
-- **B.** The amount of milk she produces along with her own nutritional status and activity
-- **C.** A fixed energy increment unrelated to feeding pattern
-- **D.** The number of maternal meals without their composition
+- **A.** Milk DHA is always fixed independently of maternal intake
+- **B.** Maternal dietary intake can influence milk DHA and EPA concentrations
+- **C.** Increasing dietary sodium directly produces DHA in the breast
+- **D.** Maternal DHA intake guarantees a specific developmental outcome in every infant
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. The amount of milk she produces along with her own nutritional status and activity**
+**Correct: B. Maternal dietary intake can influence milk DHA and EPA concentrations**
 
-- **A. Incorrect:** Infant sex alone milk production aur maternal needs establish nahi karta.
-- **B. Correct:** Partial aur exclusive lactation mein milk production aur energy expenditure differ kar sakte hain. Individual intake assess karna chahiye.
-- **C. Incorrect:** Fixed increment feeding intensity aur maternal reserves ignore kar sakta hai.
-- **D. Incorrect:** Meal count alone energy intake nahi batata. Portions aur nutrients bhi matter karte hain.
+- **A. Incorrect:** Milk fatty acid composition maternal intake se vary kar sakti hai. Absolute fixed value assume nahi karein.
+- **B. Correct:** Maternal omega-3 intake aur milk fatty acid profile ka relationship evidence mein supported hai. Overall diet and safe food sources review karein, but one meal se exact milk concentration predict nahi kar sakte.
+- **C. Incorrect:** Sodium fatty acid precursor nahi hai. DHA omega-3 fatty acid hai.
+- **D. Incorrect:** Milk composition aur infant clinical outcomes different hain. Individual benefit guarantee karna evidence se supported nahi.
 
 </details>
 
@@ -408,3 +408,5 @@
 
 - [CDC maternal diet](https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html) direct HTML, US reference choline 550 mg and iodine 290 mcg. [CDC vitamin D](https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html), [CDC milk storage](https://www.cdc.gov/breastfeeding/breast-milk-preparation-and-storage/handling-breastmilk.html), [CDC storage FAQ](https://www.cdc.gov/breastfeeding/php/guidelines-recommendations/faqs.html) and [OWH milk storage](https://womenshealth.gov/breastfeeding/pumping-and-storing-breastmilk) indexed. Indian maternity, infant supplementation, galactagogue and institutional milk policy review pending. No breast physiology or latch questions duplicated. Independent review pending.
 - [Nutrition nursing MCQ practice](https://www.youtube.com/watch?v=KiXAdrObmTU) indexed general practice lead only, no exact lactation mapping or playback verified. No historical attribution.
+
+- [CDC storage guidance](https://www.cdc.gov/breastfeeding/breast-milk-preparation-and-storage/handling-breastmilk.html), [CDC storage FAQ](https://www.cdc.gov/breastfeeding/php/guidelines-recommendations/faqs.html) and [CDC infant vitamin D](https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/vitamin-d.html) subsequently retrieved directly. Q1 replacement: [maternal intake and milk composition systematic review](https://pubmed.ncbi.nlm.nih.gov/38053371/) indexed abstract, direct CAPTCHA.

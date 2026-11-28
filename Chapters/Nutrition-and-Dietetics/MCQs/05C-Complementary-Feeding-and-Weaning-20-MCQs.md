@@ -224,23 +224,23 @@
 
 </details>
 
-### Q12. A 13-month-old consumed rice, chapati, potato, milk and yogurt yesterday, with no other foods. How many WHO MDD groups are represented?
+### Q12. A non-breastfed 10-month-old receives four milk feeds but no solid, semisolid or soft food on the previous day. Does this meet WHO minimum meal frequency?
 
-**Difficulty:** Difficult | **Priority:** Medium | **Topic:** Complementary feeding and weaning | **Type:** Original practice
+**Difficulty:** Difficult | **Priority:** High | **Topic:** Complementary feeding and weaning | **Type:** Original practice
 
-- **A.** Five
-- **B.** Two
-- **C.** Three
-- **D.** Four
+- **A.** Yes, any four liquid feeds alone meet the definition
+- **B.** No, at least one of the four feedings must be solid, semisolid or soft food
+- **C.** No, the threshold is seven feeds for every non-breastfed child
+- **D.** Yes, because any milk intake proves minimum dietary diversity
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Two**
+**Correct: B. No, at least one of the four feedings must be solid, semisolid or soft food**
 
-- **A. Incorrect:** Five individual foods hain, but MDD food groups count karta hai.
-- **B. Correct:** Rice, chapati aur potato grains-roots-tubers group mein count hote hain. Milk aur yogurt dairy group hain. Distinct foods ko separate groups nahi count karein.
-- **C. Incorrect:** Milk aur yogurt ko separate groups count karna incorrect hai.
-- **D. Incorrect:** Grain and root category ko arbitrarily split karna indicator definition change karega.
+- **A. Incorrect:** Milk feeds count ho sakte hain, but indicator mein solid or soft feed condition bhi hai.
+- **B. Correct:** Nonbreastfed 6–23 month indicator total four feeds count karta hai but at least one complementary solid, semisolid ya soft feed mandatory hai. Four milk feeds alone insufficient hain.
+- **C. Incorrect:** WHO MMF threshold nonbreastfed children ke liye four hai with specified food criterion, seven universal nahi.
+- **D. Incorrect:** Milk dairy group contribute karta hai but minimum diversity five groups require karti hai. MMF aur MDD different indicators hain.
 
 </details>
 
@@ -408,3 +408,5 @@
 
 - [WHO 2023 recommendations](https://www.ncbi.nlm.nih.gov/books/NBK596423/), [WHO MDD](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/minimum-dietary-diversity-6-23-months), [MMF](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/minimum-meal-frequency-6-23-months), [MAD](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/minimum-acceptable-diet-6-23-months) direct HTML. [CDC foods to avoid](https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/foods-and-drinks-to-avoid-or-limit.html) indexed. Q3/Q5–8/Q20 developmental, allergy and recovery guidance needs additional paediatric review. Q10–16 deliberately distinguish population definitions, group counting and frequency conditions. No claim of independent clinical certification.
 - [Nutrition nursing MCQ practice](https://www.youtube.com/watch?v=KiXAdrObmTU) indexed general lead, exact complementary feeding mapping/playback pending. No historical attribution.
+
+- Q12 replaced with a distinct non-breastfed MMF condition directly supported by WHO indicator metadata. The WHO 2023 conditional milk recommendations differ from some national policies, so Q19 explicitly names WHO and excludes special medical formulas.

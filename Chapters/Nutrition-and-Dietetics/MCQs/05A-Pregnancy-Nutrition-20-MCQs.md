@@ -24,23 +24,23 @@
 
 </details>
 
-### Q2. A pregnant woman gains 2 kg in three days and develops facial swelling. What should the nurse do before attributing the increase to extra food?
+### Q2. A maternal nutrition programme in an undernourished population evaluates a proposed 400-kcal balanced energy-protein supplement containing 20 g protein. Using 4 kcal/g for protein and the WHO definition, which interpretation is correct?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** Pregnancy nutrition | **Type:** Original practice
 
-- **A.** Arrange prompt clinical assessment for fluid retention and hypertensive complications
-- **B.** Reduce dietary calories immediately
-- **C.** Count the gain as new maternal fat tissue
-- **D.** Wait until delivery to assess the change
+- **A.** Protein supplies 20% of energy, below the 25% balanced-supplement threshold
+- **B.** Protein supplies 50% of energy
+- **C.** Protein supplies 5% of energy
+- **D.** Protein supplies exactly 25% of energy
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Arrange prompt clinical assessment for fluid retention and hypertensive complications**
+**Correct: A. Protein supplies 20% of energy, below the 25% balanced-supplement threshold**
 
-- **A. Correct:** Rapid weight gain fluid retention ho sakti hai. Swelling ke saath BP aur clinical assessment important hai.
-- **B. Incorrect:** Calorie restriction fluid-related illness treat nahi karti. Pehle cause assess karein.
-- **C. Incorrect:** Itne rapid change ko fat mass assume karna unreliable hai.
-- **D. Incorrect:** Possible pregnancy complication ko delay karna unsafe hai.
+- **A. Correct:** 20 g protein se 80 kcal aati hain. 80/400 times 100 equals 20 percent, jo WHO balanced energy-protein supplement ke less-than-25-percent criterion ke andar hai. Actual programme suitability alag assess karein.
+- **B. Incorrect:** 20 g ko 4 kcal/g se multiply karne par 80 kcal hain, 200 kcal nahi. Denominator 400 kcal hai.
+- **C. Incorrect:** 20 g ko directly 400 kcal se divide karna mismatched units hain. Pehle protein grams ko kcal mein convert karein.
+- **D. Incorrect:** 25 percent of 400 kcal equals 100 kcal. Given protein contribution 80 kcal hai.
 
 </details>
 
@@ -408,3 +408,5 @@
 
 - [RCOG healthy eating in pregnancy](https://www.rcog.org.uk/for-the-public/browse-our-patient-information/healthy-eating-and-vitamin-supplements-in-pregnancy/) direct HTML; [ICMR-NIN Dietary Guidelines 2024](https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf) extracted text, screenshot cache miss. [NHM AMB](https://nhm.gov.in/images/pdf/Nutrition/AMB-guidelines/Anemia-Mukt-Bharat-Operational-Guidelines-FINAL.pdf) indexed. Q1–20 individual clinical and India-specific protocol review pending. Q13 uses hypothetical limit, not a universal prescription. No repeat of OBG antenatal IFA dose/folate timing tasks.
 - [GS India Nursing pregnancy nutrition MCQs](https://www.youtube.com/watch?v=-_ll-UQILJw) indexed title/description only, no verified item playback or timestamps. No historical attribution.
+
+- Additional direct evidence: [WHO balanced energy and protein supplementation](https://www.who.int/tools/elena/interventions/energy-protein-pregnancy) supports Q2's replacement. [NIH pregnancy supplements](https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/) indexed separation of iron/calcium; independent local clinical review remains open.
