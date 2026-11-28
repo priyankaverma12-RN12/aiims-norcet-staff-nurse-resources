@@ -153,18 +153,26 @@ try:
         expect(page.locator("#metrics-chapter")).to_have_value("Nursing-Foundations")
         expect(page.locator("#metrics-personal .history-month")).to_have_count(12)
         expect(page.locator("#metrics-personal .history-period")).to_have_count(3)
-        for target in ("#history-panel-toggle","#metrics-summary-panel","#metrics-filter-panel"):
+        for target in ("#history-panel-toggle","#metrics-summary-panel"):
             panel=page.locator(target)
             panel.locator(":scope > summary").click()
             expect(panel.locator(":scope > .study-panel-body")).to_be_hidden()
             panel.locator(":scope > summary").click()
             expect(panel.locator(":scope > .study-panel-body")).to_be_visible()
+        expect(page.locator("#metrics-filter-panel")).to_be_hidden()
+        expect(page.locator("#metrics-filter-toggle")).to_have_attribute("aria-expanded","false")
+        page.locator("#metrics-filter-toggle").click()
+        expect(page.locator("#metrics-filter-panel")).to_be_visible()
+        page.keyboard.press("Escape")
+        expect(page.locator("#metrics-filter-panel")).to_be_hidden()
+        page.locator("#metrics-filter-toggle").click()
         # Temporary isolated fixture, restore exactly before the existing integration suite.
         page.evaluate("""()=>{window.historyFixtureBackup=localStorage.getItem(routineKey);const d=emptyRoutine();const t=localDay();d.days[t]={'fixture':['one','one','two']};d.days['2020-12-15']={'fixture':['old']};localStorage.setItem(routineKey,JSON.stringify(d));document.dispatchEvent(new CustomEvent('study-progress-change'))}""")
         expect(page.locator('[data-period=today] .history-solved')).to_have_text("2")
         expect(page.locator('[data-period=week] .history-solved')).to_have_text("2")
         expect(page.locator('[data-period=month] .history-solved')).to_have_text("2")
         assert page.locator("#study-history-year option").count()>=5
+        page.locator("#metrics-personal .history-disclosure > summary").first.click()
         page.locator("#study-history-year").select_option("2020")
         expect(page.locator('[data-month="2020-12"] .history-month-solved')).to_have_text("1")
         page.evaluate("""()=>{if(window.historyFixtureBackup===null)localStorage.removeItem(routineKey);else localStorage.setItem(routineKey,window.historyFixtureBackup);document.dispatchEvent(new CustomEvent('study-progress-change'))}""")
@@ -213,6 +221,8 @@ try:
         expect(page.locator(".metric-records a.metric-record:not([data-category=theory])").first).to_be_visible(timeout=30000)
         print("Expanded metrics cards, complete chapter resource destinations, boxed styling and whole-card navigation passed.",flush=True)
 
+        if page.locator("#metrics-filter-panel").get_attribute("open") is None:
+            page.locator("#metrics-filter-toggle").click()
         page.locator("#metrics-category").select_option("mock")
         expand_folders(page,only="mock")
         expect(page.locator(".metric-record .study-tag[data-role=type]").first).to_have_text("Mock test")
@@ -629,7 +639,26 @@ try:
                     group.locator("summary").tap()
                 print(f"V11.8 isolated closed Metrics folders at {width}x{height}.",flush=True)
                 no_overflow(mobile)
+                expect(mobile.locator("#metrics-filter-panel")).to_be_hidden()
+                icon=mobile.locator("#metrics-filter-toggle")
+                expect(icon).to_have_attribute("aria-expanded","false")
+                assert icon.bounding_box()["height"]>=44
+                icon.tap()
+                expect(mobile.locator("#metrics-filter-panel")).to_be_visible()
                 assert mobile.locator("#metrics-chapter").bounding_box()["height"]>=43
+                mobile.locator("#metrics-search").fill("no matching topic xyz")
+                expect(mobile.locator("#metrics-list .empty-state")).to_be_visible()
+                icon.tap()
+                expect(mobile.locator("#metrics-filter-panel")).to_be_hidden()
+                icon.tap()
+                expect(mobile.locator("#metrics-search")).to_have_value("no matching topic xyz")
+                mobile.locator("#clear-metrics").tap()
+                expect(mobile.locator("#metrics-search")).to_have_value("")
+                mobile.reload()
+                expect(mobile.locator("#metrics-filter-panel")).to_be_hidden()
+                expect(mobile.locator(".history-period")).to_have_count(3)
+                no_overflow(mobile)
+                print(f"V12.4 compact Metrics filter and activity cards passed at {width}x{height}.",flush=True)
                 mobile.goto(base+"?progress=1&chapter=Nursing-Foundations")
                 expect(mobile.locator("#progress-list .completion-chapter").first).to_be_visible(timeout=30000)
                 if width<=600:
