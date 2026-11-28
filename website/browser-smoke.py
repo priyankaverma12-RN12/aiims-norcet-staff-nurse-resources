@@ -74,6 +74,18 @@ try:
         page.goto(base+"?metrics=1&chapter=Nursing-Foundations")
         expect(page.locator("#metrics-totals .metric-tile")).to_have_count(6,timeout=30000)
         expect(page.locator("#metrics-chapter")).to_have_value("Nursing-Foundations")
+        expect(page.locator("#metrics-personal .history-month")).to_have_count(12)
+        expect(page.locator("#metrics-personal .history-period")).to_have_count(3)
+        # Temporary isolated fixture, restore exactly before the existing integration suite.
+        page.evaluate("""()=>{window.historyFixtureBackup=localStorage.getItem(routineKey);const d=emptyRoutine();const t=localDay();d.days[t]={'fixture':['one','one','two']};d.days['2020-12-15']={'fixture':['old']};localStorage.setItem(routineKey,JSON.stringify(d));document.dispatchEvent(new CustomEvent('study-progress-change'))}""")
+        expect(page.locator('[data-period=today] .history-solved')).to_have_text("2")
+        expect(page.locator('[data-period=week] .history-solved')).to_have_text("2")
+        expect(page.locator('[data-period=month] .history-solved')).to_have_text("2")
+        page.locator("#study-history-year").select_option("2020")
+        expect(page.locator('[data-month="2020-12"] .history-month-solved')).to_have_text("1")
+        page.evaluate("""()=>{if(window.historyFixtureBackup===null)localStorage.removeItem(routineKey);else localStorage.setItem(routineKey,window.historyFixtureBackup);document.dispatchEvent(new CustomEvent('study-progress-change'))}""")
+        no_overflow(page)
+        print("V11.3 calendar totals, year navigation and historical activity passed.",flush=True)
         assert page.locator("#metrics-chapter").bounding_box()["height"]>=43
         assert page.locator("#metrics-search").bounding_box()["height"]>=43
         expect(page.locator(".metric-record").first).to_be_visible()
@@ -371,6 +383,9 @@ try:
             no_overflow(mobile)
             if width == 320:
                 mobile.goto(base+"?metrics=1&chapter=Nursing-Foundations")
+                expect(mobile.locator("#metrics-personal .history-month")).to_have_count(12)
+                expect(mobile.locator("#metrics-personal .history-period")).to_have_count(3)
+                no_overflow(mobile)
                 expect(mobile.locator(".metric-record").first).to_be_visible(timeout=30000)
                 no_overflow(mobile)
                 assert mobile.locator("#metrics-chapter").bounding_box()["height"]>=43
