@@ -15,11 +15,11 @@
 
 ## Manual chapter work claim
 
-State: CLAIMED
-Owner: community-pr62-b06-20261128T1802Z
-Scope: PR62 Batch06 only: JAS-SHC facility financial governance and national/international public health agency mandates, distinct from VHSNC, IHR, ward inventory and PR61 disease programme banks. Draft content only.
-Claimed UTC: 2026-11-28T18:02:00Z
-Expiry UTC: 2026-11-28T18:32:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Latest candidate: [PR62 — Batch 01](https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/62), head `b6157733d7f4e1b0180e98569d35f47ddce7fb84`. Five banks, 100 original MCQs, 400 individual Roman Hinglish option rationales, 100 exam clues, 16 Easy, 55 Medium, 29 Difficult. All bank and candidate index exact remote readbacks passed, 100 distinct normalized stems, four options and aligned key per question. Not live. Preserve four existing originals and two reported adaptations. Resume actual remaining topic banks on the same candidate branch after exclusive ownership, then ten 120-question original-only mocks, then source-traced PYQs. Concept/visual, video and independent release checks remain pending. No repeat retrospective audit during content creation. Preserve other owners and five hourly schedules.
 
@@ -86,3 +86,8 @@ PR62 verified head `adaf63290dae17ac9a271194eda71ce20df1a740`. Added six topic-m
 ## PR62 Batch 05 checkpoint — 28 November 2026
 
 PR62 verified head `f4dc9f228d410351c75aa6957fd1ede5c92c9cc8`. Three new topic banks, 60 original MCQs, 240 individual Roman Hinglish rationales and 60 clues, 20 Easy/21 Medium/19 Difficult. Cumulative 396 staged originals, 1584 rationales, 396 clues, 18 base banks and six supplements, 119 Easy/161 Medium/116 Difficult. Three banks, two refinements and index exact readbacks passed; 60 distinct normalized stems and clues, zero structural/key errors, no matches against 206 relevant prior stems, 15 keys per letter. Git comparison shows only three new banks and index append, zero deletions. PR61 head `760510aafdeed4a8aa25bc29e5f1551247988da3` unchanged. Coordination comments 7241799747 and 7242496960. Official JJM, NHM and WHO sources retrieved; HP 2012 order text available but page screenshots timed out, state rules explicitly dated and current applicability not certified. Full semantic/clinical/difficulty, historical and video evidence, concepts/visuals, navigation and CI gates pending. No live credit. Next screen national/international health agencies and subcentre financial management against related PRs, reconcile overlapping initial topic allocations before mocks. Preserve five hourly automations and learner history. Released owner community-pr62-b05-20261128T1642Z.
+
+
+## PR62 Batch 06 checkpoint — 28 November 2026
+
+PR62 verified head `6fb939a4301db7c09a6077d5869e06cc51e210a1`. Two new banks, 40 original MCQs, 160 individual Roman Hinglish rationales and 40 clues, 14 Easy/14 Medium/12 Difficult. Cumulative 436 staged originals, 1744 rationales, 436 clues, 20 base banks and six supplements, 133 Easy/175 Medium/128 Difficult. Both banks, three new-item refinements and index exact readbacks passed, 40 distinct normalized stems and clues, no matches against 140 relevant prior stems, zero structural/key errors, ten keys per letter. Git comparison shows only two new banks and index append, zero deletions. PR61 preserved at `760510aafdeed4a8aa25bc29e5f1551247988da3`; coordination comments 7242496960 and 7243533042. Official JAS guideline text and page screenshot retrieved; agency mandates researched and linked; actual local grants not certified. Full cross-branch semantic comparison, independent clinical/difficulty calibration, specific historical and video evidence, concepts/visuals, navigation and CI gates pending. No live credit. Next screen remaining meaningful community programme gaps and reconcile initial overlapping allocations before curriculum certification and original-only mocks. Preserve five hourly automations and learner history. Released owner community-pr62-b06-20261128T1802Z.
