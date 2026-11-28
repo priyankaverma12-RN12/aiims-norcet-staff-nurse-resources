@@ -1,10 +1,10 @@
 # NORCET shared work claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: forward-foundations-g11a-20261128T131350Z
+Scope: isolated new Nursing Foundations Group11A pressure redistribution equipment and bedside prevention bank only, disjoint from PR48 Group10, PR68 IPC, PR38 skin pathology and staging. New draft only, no live navigation or inventory updates. Preserve all other PRs and claims.
+Claimed UTC: 2026-11-28T13:13:50Z
+Expiry UTC: 2026-11-28T13:43:50Z
 
 ## PR48 navigation handoff preparation — 28 November 2026
 
