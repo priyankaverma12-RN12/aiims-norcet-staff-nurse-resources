@@ -1,10 +1,19 @@
 # Child Health Nursing manual chapter claim
 
-State: CLAIMED
-Owner: child-health-b04-20261128-0830Z
-Scope: PR45 01C sequential corrective audit and candidate-local inventory; no shared navigation or other owners
-Claimed UTC: 2026-11-28T08:30:45Z
-Expiry UTC: 2026-11-28T09:00:45Z
+State: FREE
+Owner: none
+Scope: Reserved continuation of draft PR45; no active writer
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified checkpoint — Batch 04
+
+- Released owner: child-health-b04-20261128-0830Z. Acquired d6acaf3d120e9060cb8bf7c905523888d54ea637, UTC 08:30:45–09:00:45 on 2026-11-28.
+- Draft PR45: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/45
+- Branch child-health-priority-20261128. Verified head 0db9b1c2100e65b0247408c5582590589126ad8f. All 26 changed paths chapter-local; open draft, mergeable, no final-head check runs yet returned. Prior exact-head CI jobs 140911659483 and 140914145554 passed.
+- 01C Q1–20 and 01D Q1–20 reviewed: 160 full individual rationales expanded, 40 clues added, source references and difficulty corrected. All English stems, options, key letters/text and priorities preserved. Commits 42841bdb23f946d5a36d9989220392c18b0f90dd and 88e7d61d7ab006b452aa1afb10232c4536e54003. All ten banks verified: 200 distinct normalized stems, 800 rationales, 200 aligned keys, A/B/C/D 50 each, zero structural errors. 34 Easy, 116 Medium, 50 Difficult. No new originals. Four concept guides, six rendered SVGs, four legacy originals and one reported adaptation preserved.
+- Inventory and audit ledger exact readbacks passed. Batch-04-Developmental-and-Family-Care-Audit.md records source checks, remaining weak distractors, limitations and next scope. PR7/8/12/35 requests remain without explicit clearance. No repeated coordination comments.
+- Next: 01E Q1–20 then remaining unaudited 02 banks. Preserve earlier 01A–D and priority corrections. Complete bounded preflight, independent clinical and semantic review, plausible distractors, INC/sibling reconciliation, exact video evidence, latest-main and CI, website links and rendering. Author up to 100 new originals when applicable gates permit. No mock or PYQ authorship before verified coverage. No live count, shared navigation, other owners, learner history or five hourly automation changes.
 
 ## Verified checkpoint — Batch 03 priority continuation
 
