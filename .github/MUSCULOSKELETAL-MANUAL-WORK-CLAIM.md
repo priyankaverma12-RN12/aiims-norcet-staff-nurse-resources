@@ -1,5 +1,17 @@
 # Musculoskeletal System manual chapter claim
 
+State: FREE
+Owner: none
+Scope: no active write lease; continuation reserved at PR46.
+Claimed UTC: none
+Expiry UTC: none
+
+Released integration-pr46-three-overlaps-20261128T1218Z at verified checkpoint fb1647448c8312c39dda03f3019fc373ba92a048. Q07/Q14/Q20 replaced in commit 9929e53d89d8f1d611857f6f0e385907c98e2645. Q01 and all other bank blocks preserved. PR48 retained unchanged; four confirmed pairs allocated, eight related pairs remain. 478 staged originals/1912 rationales preserved. Exact readbacks passed. Independent review, semantic, video, navigation and CI gates remain; no live credit or merge. Preserve other sessions and schedules.
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
 State: CLAIMED
 Owner: integration-pr46-three-overlaps-20261128T1218Z
 Scope: isolated PR46 03E Q07/Q14/Q20 replacements and checkpoint. Retain PR48 10C Q21/Q13/Q22; preserve corrected PR46 Q01 and all other questions. No shared navigation, live clinical writes or other branches.
