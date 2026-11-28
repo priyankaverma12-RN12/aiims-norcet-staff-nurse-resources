@@ -25,7 +25,8 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - [NST concepts](06C-Nonstress-Test-NST.md) · [20 original MCQs](../MCQs/06C-Nonstress-Test-NST-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06C-NST-Reported-Evidence.md). Published, independent review pending.
   - [CST concepts](06D-Contraction-Stress-Test-CST.md) · [20 original MCQs](../MCQs/06D-Contraction-Stress-Test-CST-20-MCQs.md) · [Official-source exam adaptation](../Previous-Year-Questions/06D-CST-Exam-Evidence.md). Published, independent review pending.
   - [CTG concepts](06E-Cardiotocography-CTG.md) · [20 original MCQs](../MCQs/06E-Cardiotocography-CTG-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06E-CTG-Reported-Evidence.md). Published, independent review pending.
-  - Biophysical profile, ultrasound and Doppler: individual topic packages pending.
+  - [BPP concepts](06F-Biophysical-Profile-BPP.md) · [20 original MCQs](../MCQs/06F-Biophysical-Profile-BPP-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06F-BPP-Reported-Evidence.md). Published, independent review pending.
+  - Ultrasound and Doppler: individual topic packages pending.
 - normal pregnancy and labor
 - partograph and delivery
 - hypertensive disorders
