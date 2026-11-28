@@ -381,61 +381,61 @@
 
 </details>
 
-### Q14. A rehabilitation nurse observes that a prescribed residual limb elastic wrap has rolled into a narrow tight circumferential band at the proximal end. Which concern is most relevant?
-
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
-
-- **A.** The wrap will necessarily improve arterial inflow
-- **B.** The band proves the limb is ready for definitive fitting
-- **C.** Localized constriction may compromise tissue drainage and perfusion
-- **D.** The patient should add another tight circular layer
-
-<details><summary>✅ Correct answer and detailed explanation</summary>
-
-**Correct answer: C. Localized constriction may compromise tissue drainage and perfusion**
-
-**A kyun galat hai:** Narrow tight band vessel compression kar sakti hai. Inflow aur venous return impair ho sakte hain.
-
-**B kyun galat hai:** Unsafe wrap configuration prosthetic readiness prove nahi karti. Wound status aur fit assessment separate hain.
-
-**C kyun sahi hai:** Focal constriction tourniquet-like pressure create kar sakti hai. Nurse prescribed wrap technique correct karvati hai aur skin/perfusion assess karti hai.
-
-**D kyun galat hai:** Extra tight layer pressure aur increase karegi. Safe gradient aur prescribed application maintain karna chahiye.
-
-**Exam clue:** Compression wrap mein narrow constrictive band avoid karo.
-
-**Clinical reference:** [Merck residual limb edema](https://www.merckmanuals.com/professional/special-subjects/limb-prosthetics/edema-of-the-residual-limb). Retrieved text.
-
-**YouTube MCQ practice:** Verification pending. The [ADAPT NCLEX REVIEW amputation practice video](https://www.youtube.com/watch?v=Usx22PPtdPg&t=647s) is a general amputation candidate, not verified for this specific prosthetic learning task.
-
-</details>
-
-### Q15. A patient asks why the first temporary socket may require replacement as rehabilitation progresses. Which explanation is most accurate?
+### Q14. A patient has been prescribed elastic bandaging of a healed residual limb by the rehabilitation team. Which application principle helps shape the limb without creating a constrictive proximal ring?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Temporary sockets always fracture after a fixed number of days
-- **B.** Residual limb healing and changing volume can alter the fit over time
-- **C.** Once a temporary prosthesis fits, the limb can no longer change shape
-- **D.** Replacement is necessary only if the patient changes height
+- **A.** Create a tight isolated circular band at the upper end
+- **B.** Use the taught diagonal or figure-of-eight wrapping technique with appropriately graded compression
+- **C.** Apply greater focal pressure directly over every bony prominence
+- **D.** Wrap over new skin injury without seeking advice
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Residual limb healing and changing volume can alter the fit over time**
+**Correct answer: B. Use the taught diagonal or figure-of-eight wrapping technique with appropriately graded compression**
 
-**A kyun galat hai:** Replacement timing individual clinical aur fit needs par depend karti hai. Fixed fracture schedule nahi hota.
+**A kyun galat hai:** Tight isolated proximal ring fluid drainage aur perfusion impair kar sakti hai. Uniform prescribed technique important hai.
 
-**B kyun sahi hai:** Edema resolution, tissue maturation aur muscle changes socket fit alter kar sakte hain. Prosthetist reassessment ke according socket adjustment ya replacement plan karta hai.
+**B kyun sahi hai:** Taught diagonal ya figure-of-eight technique pressure ko controlled tarike se distribute karne mein help karti hai. Compression gradient, wound status aur fit rehabilitation team guide karti hai. Skin aur symptoms monitor karne chahiye.
 
-**C kyun galat hai:** Residual limb shape early rehabilitation mein especially change ho sakti hai. Fit monitoring ongoing process hai.
+**C kyun galat hai:** Bony prominence par excessive focal pressure skin injury create kar sakti hai. Wrap smooth aur appropriate pressure wala hona chahiye.
 
-**D kyun galat hai:** Height change ek possible factor ho sakta hai but residual limb volume aur fit changes independently important hain.
+**D kyun galat hai:** New skin injury compression plan change karne ka reason ho sakti hai. Clinical advice ke bina injured skin ko tightly wrap nahi karna chahiye.
 
-**Exam clue:** Early fitting ke baad limb maturation ko monitor karna zaroori hai.
+**Exam clue:** Prescribed wrapping mein smooth graded pressure aur skin protection dono important hain.
 
-**Clinical reference:** [Merck residual limb edema](https://www.merckmanuals.com/professional/special-subjects/limb-prosthetics/edema-of-the-residual-limb). Retrieved text.
+**Clinical reference:** [VA residual limb wrapping education](https://www.veteranshealthlibrary.va.gov/TestsTreatments/BoneJointMuscle/3%2C86559). Source indexed, full independent item-level review pending.
 
-**YouTube MCQ practice:** Verification pending. The [ADAPT NCLEX REVIEW amputation practice video](https://www.youtube.com/watch?v=Usx22PPtdPg&t=647s) is a general amputation candidate, not verified for this specific prosthetic learning task.
+**YouTube MCQ practice:** Verification pending.
+
+</details>
+
+### Q15. A patient using a prescribed roll-on gel liner notices a fold and a trapped air pocket after donning it. Which action is most appropriate before fitting the socket?
+
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
+
+- **A.** Continue wear because folds always disappear safely during walking
+- **B.** Add a sharp pin to release the trapped air
+- **C.** Remove and reapply the liner using the taught technique until it sits smoothly
+- **D.** Tighten the socket independently over the folded liner
+
+<details><summary>✅ Correct answer and detailed explanation</summary>
+
+**Correct answer: C. Remove and reapply the liner using the taught technique until it sits smoothly**
+
+**A kyun galat hai:** Fold ya air pocket uneven interface create kar sakte hain. Walking ke dauran pressure aur shear injury risk increase ho sakta hai.
+
+**B kyun galat hai:** Roll-on liner ko device-specific technique se smoothly apply karna chahiye. Fold aur trapped air correct karke skin aur fit reassess karo.
+
+**C kyun sahi hai:** Pin liner puncture ya skin injury cause kar sakta hai. Improvised alteration safe nahi hai.
+
+**D kyun galat hai:** Tightening poor liner application correct nahi karti. Socket fit ko trained prosthetist review karta hai.
+
+**Exam clue:** Roll-on liner mein folds aur air pockets ko wear se pehle correct karo.
+
+**Clinical reference:** [Ottobock liner instructions (manufacturer-specific)](https://www.ottobock.com/en-gb/prosthetics/liners). Source indexed, full independent item-level review pending.
+
+**YouTube MCQ practice:** Verification pending.
 
 </details>
 
