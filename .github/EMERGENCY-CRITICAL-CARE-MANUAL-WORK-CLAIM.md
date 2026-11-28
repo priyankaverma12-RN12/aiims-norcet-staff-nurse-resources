@@ -1,5 +1,17 @@
 # Emergency and Critical Care Nursing manual claim
 
+State: CLAIMED
+Owner: emergency-b02-completion-20261128-0830Z
+Scope: PR49 draft-only poisoning and ICU topic files and local checkpoint. No live navigation, other owners or schedules.
+Claimed UTC: 2026-11-28T08:30:00Z
+Expiry UTC: 2026-11-28T09:00:00Z
+
+PR29/7/8 acknowledgment remains pending. Existing draft reservation, no integration authority. Prior preflight and independent review remain incomplete.
+
+## Previous checkpoint
+
+# Emergency and Critical Care Nursing manual claim
+
 State: FREE
 Owner: none
 Scope: none
