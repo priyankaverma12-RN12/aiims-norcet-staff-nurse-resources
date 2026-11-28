@@ -20,17 +20,16 @@
 
 **Correct answer: A. It sounds difficult to feel that your disappointment is not understood. What has been hardest?**
 
-<!-- job5-rationale -->
-Therapeutic response patient ke actual emotion ko acknowledge karti hai. Yahan disappointment ke saath misunderstood feel karna main concern hai. Nurse feeling reflect karke open-ended question se patient ko apni priority explain karne ka chance deti hai. Acceptance ka matlab har belief se agree karna nahi, balki patient ke experience ko respect karna hai.
+Maan lo patient ke aas-paas ke log baar-baar keh rahe hain ki use grateful feel karna chahiye, lekin patient khud disappointed hai. Therapeutic communication mein nurse pehle patient ki actual feeling samajhne ki koshish karti hai. Nurse acknowledge karti hai ki jab doosre log uski disappointment nahi samajhte, toh use aur difficult feel ho sakta hai. Phir nurse open-ended question poochti hai, taaki patient khud bata sake ki uske liye sabse mushkil baat kya rahi hai. Patient ki feelings accept karne ka matlab uski har belief se agree karna nahi hai. Iska matlab hai uske experience ko respect karna.
 
 **Option-by-option reasoning**
 
-- **A:** A emotion acknowledge karta hai aur further discussion invite karta hai.
-- **B:** B positive thinking impose karke concern explore nahi karta.
-- **C:** C generalization patient ke individual experience ko minimize karti hai.
-- **D:** D family ki judgment ko patient ke own feelings se upar rakhta hai.
+- **A:** Ye response patient ki disappointment aur misunderstood feel karne ki baat acknowledge karta hai. Open-ended question se patient apni main concern explain kar sakta hai. Isliye A sahi hai.
+- **B:** Positive aspects par focus karne ko kehna kabhi helpful lag sakta hai, lekin yahan nurse patient ki actual disappointment samjhe bina apna perspective impose kar rahi hai.
+- **C:** Sabhi log disappointed hote hain kehne se patient ki individual takleef chhoti dikh sakti hai. Nurse ko uska specific experience explore karna chahiye.
+- **D:** Family ki opinion important ho sakti hai, lekin usse patient ki apni feelings automatically galat nahi ho jaati hain. Is response mein patient ki concern explore nahi hoti.
 
-**Exam clue:** Reflect feeling first, then explore concern.
+**Exam clue:** Pehle patient ki feeling reflect karo. Phir uski actual concern samajhne ke liye open-ended question poochho.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610828/table/ptii.tab1/)
 <!-- /job5-rationale -->
@@ -60,17 +59,16 @@ Therapeutic response patient ke actual emotion ko acknowledge karti hai. Yahan d
 
 **Correct answer: D. Focusing on the concern the patient identifies as most important**
 
-<!-- job5-rationale -->
-Focusing technique scattered conversation ko patient ki identified priority par gently organize karti hai. Nurse pehle concerns sun sakti hai, phir pooch sakti hai ki abhi kaunsi baat sabse important lag rahi hai. Isse patient ko control milta hai aur limited time mein meaningful assessment ho sakti hai. Urgent clinical safety concern ho toh usko timely address karna hai.
+Focusing ek therapeutic communication technique hai jisme nurse baat ko gently organize karti hai. Maan lo patient ek saath ghar, medicine, pain aur future treatment ke baare mein kai worries bata raha hai. Nurse uski baat sunti hai aur poochti hai ki abhi inmein se kaunsi concern uske liye sabse important hai. Phir nurse usi concern ko detail mein samajhti hai. Isse patient ko conversation mein control milta hai aur available time ka meaningful use hota hai. Agar koi urgent clinical safety concern milti hai, toh use timely address karna zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** A interruption aur diagnostic list patient ki priority clear nahi karti.
-- **B:** B topic change karne se actual concern unaddressed rehta hai.
-- **C:** C nurse ki selected priority impose karta hai.
-- **D:** D patient-identified concern par focused exploration karta hai.
+- **A:** Possible diagnoses ki list beech mein batane se patient ki actual priority clear nahi hoti. Pehle uski baat sunna aur relevant concern identify karna helpful hai.
+- **B:** Emotional topic se turant doosri baat par jaana patient ki main worry ko unresolved chhod sakta hai.
+- **C:** Sirf nurse ke selected topic par baat karne ko kehna patient ki own priority ignore karta hai. Focusing ka purpose conversation ko jointly organize karna hai.
+- **D:** Patient jis concern ko sabse important maanta hai, us par gently focus karna therapeutic focusing hai. Isliye D sahi hai.
 
-**Exam clue:** Focusing is collaborative, not controlling.
+**Exam clue:** Focusing mein patient ke saath milkar main concern select karte hain. Nurse apna topic zabardasti impose nahi karti.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610828/table/ptii.tab1/)
 <!-- /job5-rationale -->
@@ -100,17 +98,16 @@ Focusing technique scattered conversation ko patient ki identified priority par 
 
 **Correct answer: C. I can sit with you for a while while we discuss what is worrying you.**
 
-<!-- job5-rationale -->
-Offering self ka matlab professional capacity mein apna time aur attentive presence offer karna hai. Patient worried hai, nurse uske saath baithne aur concern discuss karne ka realistic offer de sakti hai. Ismein medical outcome guarantee nahi hota. Jo time promise kiya hai usko fulfill karo ya appropriate follow-up arrange karo.
+Offering self ka matlab hai ki nurse apne professional role mein patient ko apna time aur attentive presence offer karti hai. Maan lo patient kisi treatment ke baare mein worried hai aur use apni baat kehne ke liye kisi ki zaroorat hai. Nurse realistically keh sakti hai ki woh kuch der uske saath baithkar concern discuss kar sakti hai. Isse emotional support milta hai, lekin nurse treatment ke outcome ki unsupported guarantee nahi deti. Agar nurse time offer karti hai, toh use commitment fulfill karni chahiye ya appropriate follow-up arrange karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A worry ko unjustified bata kar feeling reject karta hai.
-- **B:** B exact personal experience jaanne ka unsupported claim karta hai.
-- **C:** C available time aur presence offer karta hai.
-- **D:** D uncertain outcome ka guarantee false reassurance hai.
+- **A:** Patient ke worry karne ka koi reason nahi hai kehne se uski actual feeling dismiss hoti hai. Ye supportive presence offer karna nahi hai.
+- **B:** Nurse patient ka exact experience jaanti hai, aisa claim bina evidence sahi nahi hai. Empathy mein nurse samajhne ki koshish karti hai, exact same experience ka claim nahi karti.
+- **C:** Patient ke saath baithne aur uski concern discuss karne ka realistic offer professional presence dikhata hai. Isliye C offering self ka example hai.
+- **D:** Sab kuch definitely theek hoga kehna uncertain outcome ki guarantee hai. Ye false reassurance ho sakti hai.
 
-**Exam clue:** Offer presence, not promises.
+**Exam clue:** Patient ko apna realistic time aur supportive presence offer karo. Aisa outcome promise mat karo jise guarantee nahi kar sakte.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610828/table/ptii.tab1/)
 <!-- /job5-rationale -->
@@ -140,17 +137,16 @@ Offering self ka matlab professional capacity mein apna time aur attentive prese
 
 **Correct answer: B. Reflecting feelings**
 
-<!-- job5-rationale -->
-Reflecting feelings mein nurse patient ki expressed ya apparent emotion ko tentative language mein acknowledge karti hai. Treatment overwhelming lag raha hai, toh managing tasks ke concern ko reflect karna patient ko feeling clarify karne ka chance deta hai. Nurse check kare ki interpretation sahi hai, emotion ko fact ki tarah impose na kare.
+Reflecting feelings mein nurse patient ki expressed feeling ko gently acknowledge karti hai. Yahan patient keh raha hai ki treatment plan overwhelming lag raha hai. Iska matlab ho sakta hai ki use ek saath kai naye tasks manage karne ki chinta hai. Nurse tentative words mein us concern ko reflect karti hai, taaki patient bata sake ki nurse ne sahi samjha ya nahi. Nurse apni interpretation ko confirmed fact ki tarah patient par impose nahi karti.
 
 **Option-by-option reasoning**
 
-- **A:** A subject change nahi hua, response same concern par hai.
-- **B:** B emotional concern reflect hua hai.
-- **C:** C patient ko task perform karne ka directive nahi diya gaya.
-- **D:** D disease ka diagnosis nahi kiya gaya.
+- **A:** Nurse conversation ko kisi doosre topic par nahi le ja rahi hai. Woh treatment manage karne se judi patient ki original concern par baat kar rahi hai.
+- **B:** Nurse patient ki emotional concern ko apne response mein reflect karti hai. Isliye B reflecting feelings ka example hai.
+- **C:** Nurse patient ko koi specific task karne ka instruction nahi de rahi hai. Woh uski feeling samajhne ki koshish kar rahi hai.
+- **D:** Concern acknowledge karne se disease ka medical diagnosis establish nahi hota. Is response mein diagnosis diya bhi nahi gaya hai.
 
-**Exam clue:** Reflecting feelings names emotion, paraphrasing restates meaning.
+**Exam clue:** Reflecting feelings mein emotion ko acknowledge karte hain. Paraphrasing mein message ka main meaning apne words mein dobara batate hain.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610828/table/ptii.tab1/)
 <!-- /job5-rationale -->
@@ -180,17 +176,16 @@ Reflecting feelings mein nurse patient ki expressed ya apparent emotion ko tenta
 
 **Correct answer: D. Summarizing to confirm shared understanding**
 
-<!-- job5-rationale -->
-Summarizing mein interview ke main points aur agreed actions concise form mein review kiye jaate hain. Patient details correct kar sakta hai aur nurse confirm kar sakti hai ki dono same plan samajh rahe hain. Agar koi pending concern hai toh uska follow-up specify karo. Relevant clinical documentation separately complete karni hoti hai.
+Summarizing mein nurse interview ke important points aur agreed next steps ko short aur clear tareeke se dobara batati hai. Maan lo patient ne do concerns batayi hain aur nurse ke saath follow-up plan agree kiya hai. Conversation khatam karne se pehle nurse dono concerns aur plan review karti hai. Patient ko mauka milta hai ki agar koi baat galat samjhi gayi hai toh woh correct kar sake. Jo concern abhi pending hai, uska follow-up clear hona chahiye. Relevant clinical documentation alag se complete karni hoti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A unrelated topic summary ka purpose nahi hai.
-- **B:** B verbal review formal clinical record replace nahi karta.
-- **C:** C correction rokna shared understanding ke opposite hai.
-- **D:** D main concerns aur next steps review karke understanding confirm karta hai.
+- **A:** Unrelated information introduce karne se interview ki main baatein confirm nahi hoti hain. Summary ka focus already discussed concerns aur next steps par hota hai.
+- **B:** Verbal summary patient aur nurse ki shared understanding check karti hai. Ye required written ya electronic clinical record ko replace nahi karti.
+- **C:** Patient ko correction karne se rokne par galat understanding reh sakti hai. Summary mein patient ko clarify karne ka mauka dena chahiye.
+- **D:** Main concerns aur agreed actions review karke nurse confirm kar sakti hai ki dono same baat samajh rahe hain. Isliye D sahi hai.
 
-**Exam clue:** Summary closes the conversation, not the documentation.
+**Exam clue:** Conversation ke end mein key points aur next steps summarize karo. Clinical documentation ki responsibility phir bhi separately complete karo.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610828/table/ptii.tab1/)
 <!-- /job5-rationale -->
@@ -220,17 +215,16 @@ Summarizing mein interview ke main points aur agreed actions concise form mein r
 
 **Correct answer: C. Acknowledge the fear and explain what is known and what remains uncertain**
 
-<!-- job5-rationale -->
-Patient ka fear unlikely hone ke bawajood genuine distress create kar sakta hai. Nurse emotion validate kare, accurate known information simple words mein explain kare aur uncertainty honestly acknowledge kare. Patient ko realistic safety steps bata sakti hai. Agar fear clinical deterioration ya self-harm risk se linked ho toh appropriate assessment aur escalation kare.
+Patient jis event se dar raha hai, woh nurse ko unlikely lag sakta hai. Lekin patient ka dar aur usse hone wali distress phir bhi real ho sakti hai. Nurse patient ki feeling acknowledge karti hai aur simple words mein batati hai ki available evidence ke according abhi kya pata hai aur kya uncertain hai. Woh realistic safety steps bhi samjha sakti hai. Isse nurse bina false guarantee diye trust maintain karti hai. Agar patient ka fear clinical deterioration ya self-harm risk se related ho, toh relevant assessment aur escalation karna zaroori hai.
 
 **Option-by-option reasoning**
 
-- **A:** A concern avoid karne se fear aur uncertainty unresolved rehte hain.
-- **B:** B feared outcome certain kehna evidence ke bina anxiety badha sakta hai.
-- **C:** C emotion respect karta hai aur truthful information deta hai.
-- **D:** D impossible hone ka promise unsupported hai.
+- **A:** Concern discuss na karne se patient ki anxiety aur uncertainty unresolved reh sakti hai. Nurse ko appropriate support ke saath baat samajhni chahiye.
+- **B:** Bina evidence feared event ko certain kehne se patient ki anxiety badh sakti hai. Feeling acknowledge karna aur unsupported prediction confirm karna alag cheezein hain.
+- **C:** Ye response patient ki emotion respect karta hai aur known information aur uncertainty honestly explain karta hai. Isliye C trust maintain karne ka best response hai.
+- **D:** Feared event kabhi nahi hoga kehna aisi guarantee hai jo nurse ke paas evidence na hone par nahi deni chahiye.
 
-**Exam clue:** Validate emotion without validating an unsupported prediction.
+**Exam clue:** Patient ki feeling ko valid samjho. Lekin kisi uncertain outcome ko definite sach ya definite impossible mat batao.
 
 [Concept reference](https://www.ncbi.nlm.nih.gov/books/NBK610828/table/ptii.tab1/)
 <!-- /job5-rationale -->
@@ -260,17 +254,16 @@ Patient ka fear unlikely hone ke bawajood genuine distress create kar sakta hai.
 
 **Correct answer: B. Use a qualified interpreter and address the patient directly**
 
-<!-- job5-rationale -->
-Complex treatment decision mein accurate language access informed participation ke liye essential hai. Qualified interpreter patient ki preferred language mein material benefits, risks aur alternatives convey karne mein help karta hai. Nurse directly patient se baat kare, short segments use kare aur understanding verify kare. Consent process authorized clinician aur facility policy ke according complete hota hai.
+Complex treatment decision mein patient ko relevant benefits, risks aur alternatives apni samajh mein aane wali language mein pata hone chahiye. Agar nurse aur patient alag language bolte hain, toh qualified interpreter arrange karna appropriate hai. Nurse interpreter ki help lete hue bhi patient se directly baat karti hai. Woh information chhote parts mein explain karti hai aur understanding check karti hai. Formal consent process authorized clinician aur facility policy ke according complete kiya jaata hai.
 
 **Option-by-option reasoning**
 
-- **A:** A gestures complex risks accurately explain nahi kar sakte.
-- **B:** B trained interpretation aur direct patient engagement support karta hai.
-- **C:** C child par emotional burden aur accuracy/privacy risk ho sakta hai.
-- **D:** D patient ko conversation se exclude karta hai.
+- **A:** Gestures simple baat communicate karne mein help kar sakte hain, lekin complex treatment ke saare important risks aur alternatives accurately explain karne ke liye gestures alone reliable nahi hain.
+- **B:** Qualified interpreter language barrier kam karne mein help karta hai. Patient se directly baat karne se uski participation aur autonomy preserve hoti hai. Isliye B sahi hai.
+- **C:** Young child ko complex treatment decision interpret karne ke liye use karne se accuracy, privacy aur emotional burden ki problems ho sakti hain. Qualified interpreter zyada suitable hai.
+- **D:** Sirf interpreter se baat karne par patient discussion se exclude ho sakta hai. Nurse ko patient ko central participant rakhna chahiye.
 
-**Exam clue:** Speak to the patient, not only to the interpreter.
+**Exam clue:** Interpreter ki help lo, lekin baat patient se directly karo. Important information usne samjhi hai ya nahi, ye bhi check karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -298,17 +291,16 @@ Complex treatment decision mein accurate language access informed participation 
 
 **Correct answer: A. Use short plain-language statements and allow interpretation and clarification between ideas**
 
-<!-- job5-rationale -->
-Interpreter ko long technical paragraph dene se memory aur translation burden badhta hai. Nurse ek idea at a time plain language mein explain kare, interpretation ke liye pause kare aur patient ko question poochne de. Important medical terms ka meaning explain karo, material information omit mat karo. Understanding teach-back se check ki ja sakti hai.
+Agar nurse interpreter ke saamne ek bahut lamba technical paragraph bolti hai, toh interpreter aur patient dono ke liye saari information process karna mushkil ho sakta hai. Nurse ko ek time par ek clear idea simple words mein samjhana chahiye. Phir interpretation ke liye pause karna chahiye aur patient ko questions poochne ka mauka dena chahiye. Zaroori medical terms ka meaning samjhana chahiye, na ki difficult lekin important information hata deni chahiye. Patient ki understanding check karne ke liye teach-back use kiya ja sakta hai.
 
 **Option-by-option reasoning**
 
-- **A:** A short clear segments aur clarification support karta hai.
-- **B:** B speed badhane se message miss ho sakta hai.
-- **C:** C difficult concepts omit karne se informed decision compromise ho sakta hai.
-- **D:** D unfamiliar abbreviations extra confusion create karti hain.
+- **A:** Short plain-language statements aur beech mein interpretation aur clarification ka samay dene se information accurately communicate karne mein help milti hai. Isliye A sahi hai.
+- **B:** Jaldi-jaldi bolne se interpreter ya patient important details miss kar sakte hain. Speed badhane se understanding automatically improve nahi hoti.
+- **C:** Difficult concepts omit karne se patient ko important risks ya alternatives ki poori information nahi mil sakti. Unhe simple language mein explain karna chahiye.
+- **D:** Abbreviations unfamiliar ho sakti hain aur unka meaning alag samjha ja sakta hai. Sirf words chhote karne se message clearer nahi ho jaata.
 
-**Exam clue:** Chunk, pause, interpret, verify.
+**Exam clue:** Information ko chhote meaningful parts mein samjhao. Har part ke baad interpretation aur clarification ka time do aur understanding verify karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -336,17 +328,16 @@ Interpreter ko long technical paragraph dene se memory aur translation burden ba
 
 **Correct answer: C. Ask about preferred accessible formats and offer safe guided demonstration**
 
-<!-- job5-rationale -->
-Low vision ka degree aur patient ki preferred format vary kar sakti hai. Nurse pooche ki large print, audio, tactile explanation ya guided demonstration mein kya helpful hai. Device ko safely orient karo aur patient ko appropriate assistance ke saath return demonstration ka chance do. Family involvement patient ki consent aur preference ke according ho.
+Low vision ka matlab hai ki patient ko dekhne mein dikkat hai, lekin har patient ki remaining vision aur preferred learning method alag ho sakta hai. Nurse pehle poochti hai ki patient ke liye large print, audio, tactile explanation ya guided demonstration mein se kya helpful rahega. Phir unfamiliar device ko safely samjhati hai aur appropriate assistance ke saath patient ko use karke dikhane ka mauka deti hai. Family ki help tab include ki ja sakti hai jab patient ki preference aur consent uske liye appropriate ho.
 
 **Option-by-option reasoning**
 
-- **A:** A vision impairment se independent learning ability automatically eliminate nahi hoti.
-- **B:** B loudness visual access improve nahi karti.
-- **C:** C accessibility aur practical learning dono address karta hai.
-- **D:** D small print sole method barrier ko maintain karta hai.
+- **A:** Vision impairment hone se patient ki learning aur self-care ki ability automatically khatam nahi ho jaati. Pehle accessible teaching method explore karna chahiye.
+- **B:** Zyada zor se bolne se visual information accessible nahi ho jaati. Teaching format ko patient ki actual visual needs ke hisaab se adapt karna zaroori hai.
+- **C:** Preferred accessible format poochna aur safe guided demonstration dena patient ki individual needs aur practical learning dono ko address karta hai. Isliye C sahi hai.
+- **D:** Agar patient small print nahi padh sakta, toh sirf wahi leaflet dene se teaching barrier bana rahega. Alternative accessible method chahiye.
 
-**Exam clue:** Adapt format to patient, not patient to format.
+**Exam clue:** Teaching format ko patient ki abilities aur preference ke hisaab se badlo. Patient ko unsuitable format use karne ke liye force mat karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -374,17 +365,16 @@ Low vision ka degree aur patient ki preferred format vary kar sakti hai. Nurse p
 
 **Correct answer: B. Arrange an appropriate communication aid and confirm the patient's intended message**
 
-<!-- job5-rationale -->
-Airway device speech ko temporarily limit kar sakta hai without impairing decision-making capacity. Nurse suitable writing board, picture board, gesture system ya communication device arrange kare. Patient ke intended message ko confirm kare, especially yes/no signals. New respiratory distress ho toh urgent assessment first. Patient ki own choices preserve karo.
+Kuch temporary airway devices ki wajah se patient normal tareeke se bol nahi paata, lekin woh alert ho sakta hai aur apne decisions khud le sakta hai. Nurse uski communication ability assess karti hai aur suitable writing board, picture board, gesture system ya communication device arrange karti hai. Woh patient ke intended message ko confirm karti hai, khaaskar jab yes aur no ke signals use ho rahe hon. Agar nayi breathing difficulty develop hoti hai, toh urgent assessment pehle zaroori hai. Patient ki own choices aur autonomy ko preserve karna chahiye.
 
 **Option-by-option reasoning**
 
-- **A:** A communication delay se pain, needs ya distress miss ho sakte hain.
-- **B:** B alternative communication aur message validation provide karta hai.
-- **C:** C speech difficulty ko incapacity assume karta hai.
-- **D:** D silence informed consent establish nahi karti.
+- **A:** Speech wapas aane tak questions na poochne se pain, discomfort aur doosri important needs miss ho sakti hain. Accessible communication ka tareeka abhi arrange karna helpful hai.
+- **B:** Appropriate communication aid aur message confirmation se patient apni baat aur choices express kar sakta hai. Isliye B autonomy ko support karta hai.
+- **C:** Bolne mein difficulty ka matlab ye nahi hai ki patient informed decision nahi le sakta. Accompanying person ko automatically har decision dena appropriate nahi hai.
+- **D:** Patient ka silent rehna informed consent ka proof nahi hai. Nurse ko patient ka actual intended decision accessible method se confirm karna chahiye.
 
-**Exam clue:** Cannot speak does not mean cannot decide.
+**Exam clue:** Patient bol nahi paa raha hai, iska matlab ye nahi hai ki woh decide nahi kar sakta. Uski communication ability ko support karo.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
@@ -412,17 +402,16 @@ Airway device speech ko temporarily limit kar sakta hai without impairing decisi
 
 **Correct answer: A. Prioritize essential actions, teach in manageable segments and verify understanding**
 
-<!-- job5-rationale -->
-Cognitive load ka matlab ek time par information process karne ka mental burden hai. Discharge teaching mein essential safety actions pehle cover karo, phir remaining instructions short meaningful chunks mein do. Patient ko rest aur questions ka time do. Har segment ke baad teach-back ya return demonstration se check karo. Written accessible summary support ho sakti hai.
+Cognitive load ka matlab hai ki ek time par information samajhne aur process karne ke liye mind par kitna burden pad raha hai. Maan lo discharge ke waqt patient ko kai medicines, follow-up aur home-care instructions ek saath bata di gayi hain. Patient confuse ho sakta hai, chahe information clinically correct ho. Nurse pehle essential safety actions explain karti hai, phir remaining instructions ko chhote meaningful parts mein divide karti hai. Patient ko rest aur questions ka samay deti hai. Har part ke baad teach-back ya practical return demonstration se understanding check karti hai. Accessible written summary bhi yaad rakhne mein help kar sakti hai.
 
 **Option-by-option reasoning**
 
-- **A:** A information prioritize aur manageable segments mein teach karta hai.
-- **B:** B same overloaded method repeat karta hai.
-- **C:** C terminology memorization practical self-care ko unnecessarily delay karti hai.
-- **D:** D necessary safety instruction miss kar sakta hai.
+- **A:** Essential actions ko prioritize karke information manageable parts mein dene se patient ko samajhne ka mauka milta hai. Understanding verify karna bhi zaroori hai, isliye A sahi hai.
+- **B:** Same speed se poora leaflet dobara padhne par pehle wali information overload ki problem reh sakti hai. Teaching approach change karna chahiye.
+- **C:** Har medical term memorize karwana practical self-care sikhane ke liye zaroori nahi hai. Important terms ka simple meaning samjhana zyada helpful hai.
+- **D:** Patient khud instruction maange tab tak saari teaching delay karne se important discharge safety information miss ho sakti hai. Nurse ko suitable time aur method se essential teaching deni chahiye.
 
-**Exam clue:** Chunk and check, not dump and repeat.
+**Exam clue:** Teaching ko chhote parts mein divide karo aur har part ke baad samajh check karo. Ek saath bahut saari information dene se bacho.
 <!-- /job5-rationale -->
 
 <!-- job4-metadata -->
