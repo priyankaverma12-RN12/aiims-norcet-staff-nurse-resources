@@ -112,28 +112,30 @@
 
 </details>
 
-### Q05. A 68-year-old woman sustains a wrist fracture after falling from standing height. Besides fracture treatment, which follow-up is most appropriate?
+### Q05. An older patient with a documented vertebral fragility fracture has no recent DXA result. Which treatment-planning principle is appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Wait for another fracture before investigating bone health
-- **B.** Arrange fracture-risk and osteoporosis assessment for secondary prevention
-- **C.** Treat the injury as evidence that bone density must be normal
-- **D.** Advise permanent bed rest to avoid every future fall
+- **A.** Treatment review must always wait for a DXA appointment
+- **B.** Fracture history may justify prompt osteoporosis treatment assessment even before DXA if clinical risk is high
+- **C.** No bone-health assessment is required once the acute pain settles
+- **D.** A normal serum calcium concentration excludes high fracture risk
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Arrange fracture-risk and osteoporosis assessment for secondary prevention**
+**Correct answer: B. Fracture history may justify prompt osteoporosis treatment assessment even before DXA if clinical risk is high**
 
-**A kyun galat hai:** Doosre fracture ka wait prevention ka opportunity miss karta hai. Recent fracture ke baad risk elevated ho sakta hai.
+**A kyun galat hai:** High-risk treatment review ko unnecessary DXA delay ke liye postpone nahi karna chahiye.
 
-**B kyun sahi hai:** Standing height se girne par fracture fragility fracture ho sakta hai. Is event ke baad future fracture risk evaluate karke timely prevention plan banana important hai.
+**B kyun sahi hai:** Vertebral fragility fracture subsequent fracture risk ka strong marker hai. Clinician risk aur treatment suitability assess kar sakta hai, DXA ko appropriate time par arrange karte hue.
 
-**C kyun galat hai:** Fracture se normal BMD prove nahi hoti. Bone health assessment clinical context par based honi chahiye.
+**C kyun galat hai:** Pain relief fracture risk resolve nahi karti.
 
-**D kyun galat hai:** Permanent bed rest weakness aur fall risk worsen kar sakta hai. Safe rehabilitation aur prevention better approach hai.
+**D kyun galat hai:** Serum calcium normal hone se osteoporosis exclude nahi hota.
 
-**Clinical reference:** [NOGG guideline summary](https://www.nogg.org.uk/full-guideline/summary-main-recommendations). Direct page retrieved.
+**Exam clue:** Fracture risk assessment mein previous vertebral fracture ko high importance do.
+
+**Clinical reference:** [NOGG](https://www.nogg.org.uk/full-guideline/summary-main-recommendations).
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -193,28 +195,30 @@
 
 </details>
 
-### Q08. Which home-care plan best addresses fracture prevention in an older adult with osteoporosis and recurrent falls?
+### Q08. A patient with established vertebral osteoporosis wants to begin resistance exercises. Which instruction is most appropriate?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Avoid all standing activities permanently
-- **B.** Use sedative medicines routinely before walking
-- **C.** Increase stair climbing without supervision despite poor balance
-- **D.** Arrange individualized strength and balance training and reduce home fall hazards
+- **A.** Begin repeated loaded end-range spinal flexion without supervision
+- **B.** Avoid every form of muscle strengthening indefinitely
+- **C.** Seek an individualized strengthening plan that avoids unsafe loaded spinal flexion and adapts exercises to fracture history
+- **D.** Perform high-impact jumping before any assessment
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Arrange individualized strength and balance training and reduce home fall hazards**
+**Correct answer: C. Seek an individualized strengthening plan that avoids unsafe loaded spinal flexion and adapts exercises to fracture history**
 
-**A kyun galat hai:** Permanent inactivity muscles ko aur weak kar sakti hai. Safe movement functional independence ke liye useful hai.
+**A kyun galat hai:** Vertebral fracture history mein loaded end-range flexion excessive spinal load create kar sakti hai.
 
-**B kyun galat hai:** Sedatives alertness aur balance affect kar sakte hain. Routine pre-walking sedation protective strategy nahi hai.
+**B kyun galat hai:** Complete exercise avoidance se strength aur function deteriorate ho sakte hain.
 
-**C kyun galat hai:** Poor balance ke saath unsupervised challenging activity fall risk badha sakti hai. Exercise ko patient ke ability ke hisaab se adapt karo.
+**C kyun sahi hai:** Individualized plan strength improve karne ke saath fracture history, spinal loading aur movement safety consider karta hai.
 
-**D kyun sahi hai:** Falls aur weak bones milkar fracture risk badhate hain. Individualized balance-strength training aur safe environment risk reduce karne mein help karte hain.
+**D kyun galat hai:** High-impact exercise har high-risk patient ke liye suitable nahi; assessment zaroori hai.
 
-**Clinical reference:** [NOGG guideline summary](https://www.nogg.org.uk/full-guideline/summary-main-recommendations). Direct page retrieved.
+**Exam clue:** Osteoporosis exercise advice risk-specific hona chahiye, blanket bed rest nahi.
+
+**Clinical reference:** [NOGG](https://www.nogg.org.uk/full-guideline/summary-main-recommendations).
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -328,55 +332,59 @@
 
 </details>
 
-### Q13. Which finding most strongly suggests osteomalacia rather than uncomplicated osteoporosis in an adult?
+### Q13. A patient with suspected osteomalacia has persistent hypophosphatemia despite adequate dietary intake. Which interpretation is appropriate?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Diffuse bone pain and proximal muscle weakness with evidence of defective mineralization
-- **B.** An isolated high-impact fracture in otherwise healthy bone
-- **C.** An asymptomatic low DXA T-score alone
-- **D.** A hot swollen joint with acute bacterial infection
+- **A.** Osteomalacia is always due to low calcium intake alone
+- **B.** Low phosphate excludes impaired bone mineralization
+- **C.** Every patient should self-start high-dose phosphate
+- **D.** Renal phosphate loss or another metabolic cause requires further assessment
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Diffuse bone pain and proximal muscle weakness with evidence of defective mineralization**
+**Correct answer: D. Renal phosphate loss or another metabolic cause requires further assessment**
 
-**A kyun sahi hai:** Osteomalacia mein nayi bone matrix ko adequately mineral nahi milta. Diffuse bone pain aur hip-shoulder ke paas muscle weakness walking aur chair se uthne mein difficulty de sakti hain.
+**A kyun galat hai:** Osteomalacia defective mineralization hai, aur different vitamin D ya phosphate disorders cause ho sakte hain.
 
-**B kyun galat hai:** High-impact fracture healthy bone mein bhi ho sakta hai. Ye mineralization defect specifically establish nahi karta.
+**B kyun galat hai:** Phosphate mineralization ke liye important hai; persistent deficiency relevant finding ho sakti hai.
 
-**C kyun galat hai:** Low DXA result osteoporosis ya other causes mein aa sakta hai. Sirf density se mineralization defect confirm nahi hota.
+**C kyun galat hai:** Phosphate replacement cause, renal function aur monitoring ke hisaab se clinician decide karta hai.
 
-**D kyun galat hai:** Hot infected joint septic arthritis ka concern hai. Ye osteomalacia ka typical generalized pattern nahi hai.
+**D kyun sahi hai:** Persistent low phosphate with adequate intake renal loss ya other metabolic cause ka clue ho sakta hai; further biochemical evaluation necessary hai.
 
-**Clinical reference:** [NHS rickets and osteomalacia](https://www.nhs.uk/conditions/rickets-and-osteomalacia/). Indexed source, independent full-page verification pending.
+**Exam clue:** Mineralization disorder ka cause identify karo, sirf calcium intake par focus mat karo.
+
+**Clinical reference:** [NHS rickets and osteomalacia](https://www.nhs.uk/conditions/rickets-and-osteomalacia/).
 
 **YouTube MCQ practice:** Verification pending.
 
 </details>
 
-### Q14. A patient with vitamin D deficiency develops osteomalacia. Which physiological explanation is most appropriate?
+### Q14. A patient with longstanding fat malabsorption develops osteomalacia despite reporting regular dietary vitamin D intake. Which mechanism should be considered?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Vitamin D deficiency directly increases articular cartilage production
-- **B.** Reduced intestinal mineral absorption can impair bone mineralization
-- **C.** Vitamin D deficiency causes excess mineral deposition in every bone
-- **D.** Vitamin D is required only for blood clotting and has no role in bone
+- **A.** Excessive absorption of dietary vitamin D
+- **B.** Impaired absorption of fat-soluble vitamin D
+- **C.** Direct infection of the articular cartilage
+- **D.** Increased mechanical load alone
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Reduced intestinal mineral absorption can impair bone mineralization**
+**Correct answer: B. Impaired absorption of fat-soluble vitamin D**
 
-**A kyun galat hai:** Articular cartilage production osteomalacia ka main mechanism nahi hai. Problem osteoid mineralization se related hai.
+**A kyun galat hai:** Fat malabsorption vitamin D absorption ko improve nahi karta.
 
-**B kyun sahi hai:** Vitamin D gut se calcium aur phosphate availability support karta hai. Deficiency mein mineral supply inadequate ho sakti hai, jisse bone matrix ki mineralization impair hoti hai.
+**B kyun sahi hai:** Vitamin D fat-soluble hai. Malabsorption ki wajah se reported adequate intake ke baad bhi absorbed amount insufficient ho sakta hai, jo mineralization affect karta hai.
 
-**C kyun galat hai:** Deficiency mein adequate mineral deposit karna difficult ho sakta hai, na ki excess deposition universally hoti hai.
+**C kyun galat hai:** Cartilage infection separate diagnosis hai; malabsorption-related osteomalacia ka mechanism nahi.
 
-**D kyun galat hai:** Vitamin D ka bone-mineral metabolism mein important role hai. Blood clotting ke liye vitamin K alag vitamin hai.
+**D kyun galat hai:** Mechanical loading symptoms affect kar sakta hai, lekin malabsorption-related biochemical cause explain nahi karta.
 
-**Clinical reference:** [NHS rickets and osteomalacia](https://www.nhs.uk/conditions/rickets-and-osteomalacia/). Indexed source, independent full-page verification pending.
+**Exam clue:** Adequate intake aur adequate absorption same nahi hain.
+
+**Clinical reference:** [NHS rickets and osteomalacia](https://www.nhs.uk/conditions/rickets-and-osteomalacia/).
 
 **YouTube MCQ practice:** Verification pending.
 
@@ -517,28 +525,30 @@
 
 </details>
 
-### Q20. A frail patient has a low-trauma hip fracture and poor oral intake during recovery. Which nutrition principle is appropriate?
+### Q20. A patient with osteoporosis has an upcoming denosumab injection. A recent blood test shows hypocalcemia. Which action is appropriate before administration?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Use high-dose supplements in every patient regardless of laboratory results or comorbidity
-- **B.** Exclude dietary protein because it weakens bone
-- **C.** Replace rehabilitation entirely with vitamin tablets
-- **D.** Assess intake and support adequate protein, calcium and vitamin D according to individual needs
+- **A.** Give the dose regardless of calcium status
+- **B.** Double the injection dose to compensate
+- **C.** Review hypocalcemia with the prescriber and arrange correction and monitoring before dosing
+- **D.** Discontinue all osteoporosis treatment permanently without a plan
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Assess intake and support adequate protein, calcium and vitamin D according to individual needs**
+**Correct answer: C. Review hypocalcemia with the prescriber and arrange correction and monitoring before dosing**
 
-**A kyun galat hai:** Unnecessary high-dose supplementation harm kar sakti hai. Dose individual deficiency aur clinical context par based honi chahiye.
+**A kyun galat hai:** Denosumab hypocalcemia worsen kar sakta hai; existing low calcium ignore nahi karna.
 
-**B kyun galat hai:** Protein tissue repair aur muscle preservation ke liye useful hai. Routine exclusion recovery worsen kar sakti hai.
+**B kyun galat hai:** Dose double karne ka indication nahi aur harm ho sakta hai.
 
-**C kyun galat hai:** Vitamins rehabilitation ka replacement nahi hain. Safe activity, fracture care aur nutrition milkar recovery support karte hain.
+**C kyun sahi hai:** Pre-existing hypocalcemia ko correct karna aur risk-specific monitoring zaroori hai. Prescriber ke saath timing coordinate karo, unnecessary long interruption bhi avoid karo.
 
-**D kyun sahi hai:** Healing aur muscle recovery ke liye adequate energy, protein aur relevant minerals-vitamin supply important hain. Nurse intake assess karti hai aur patient ki renal function, deficiencies aur nutrition plan ke hisaab se support arrange karti hai.
+**D kyun galat hai:** Permanent unplanned discontinuation rebound fracture risk create kar sakta hai; treatment plan clinician decide kare.
 
-**Clinical reference:** [Open RN musculoskeletal alterations](https://www.ncbi.nlm.nih.gov/books/NBK613072/). Direct page retrieved.
+**Exam clue:** Denosumab mein calcium safety aur planned dosing continuity dono important hain.
+
+**Clinical reference:** [NOGG](https://www.nogg.org.uk/full-guideline/summary-main-recommendations).
 
 **YouTube MCQ practice:** Verification pending.
 
