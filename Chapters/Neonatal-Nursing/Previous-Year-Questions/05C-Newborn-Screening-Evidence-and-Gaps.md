@@ -1,0 +1,7 @@
+# 05C newborn screening evidence and gaps
+
+Original practice, 28 November 2026. [Bank](../MCQs/05C-Newborn-Screening-and-Referral-20-MCQs.md) · [Guide](../Concepts/05C-Newborn-Screening-and-Referral.md)
+
+- [CDC 2025 CCHD algorithm](https://www.cdc.gov/heart-defects/hcp/screening/) directly retrieved, Q01, Q08–10, Q15–16; named algorithm and original numerical scenarios. [ICMR newborn critical heart disease](https://www.icmr.gov.in/icmrobject/uploads/STWs/1726651147_2_critical_heart_disease_in_the_newborn.pdf) indexed only; Indian protocol reconciliation pending.
+- [ASHA/JCIH](https://www.asha.org/Practice-Portal/Professional-Issues/Newborn-Hearing-Screening/) directly retrieved, Q02–03, Q06, Q11–12, Q17–18, Q20. [Indian newborn care recommendations](https://www.ijppediatricsindia.in/care-of-the-normal-newborn/) indexed, Q05, Q07, Q13, Q19 (original quality arithmetic). [ISPAE 2018](https://pubmed.ncbi.nlm.nih.gov/29380252/) indexed abstract, direct PubMed challenge, Q04, Q14. Blood-spot collection/rejection programme instructions need additional source verification.
+- Prior normal assessment tests femoral pulse abnormalities; Q16 is specific screen limitation but requires targeted semantic comparison. ROP, glucose and jaundice screening not repeated here. PR45/61/62 screening path checks completed, full objective-level comparison pending. No verified historical item or video playback. Independent clinical/difficulty review and publication gates outstanding.
