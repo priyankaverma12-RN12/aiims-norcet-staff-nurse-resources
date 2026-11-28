@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="420" viewBox="0 0 840 420" role="img" aria-labelledby="title desc">
+<title id="title">Reading an Indian food label</title><desc id="desc">Four checks for ingredients, nutrition values, safety information, and claims.</desc>
+<rect width="840" height="420" rx="16" fill="#f8fafc"/>
+<g font-family="Arial,sans-serif" text-anchor="middle" fill="#172b43">
+<text x="420" y="40" font-size="24" font-weight="bold">Read the food label in four steps</text>
+<rect x="28" y="75" width="378" height="105" rx="12" fill="#dbeafe" stroke="#2563eb"/>
+<text x="217" y="105" font-size="19" font-weight="bold">1. Ingredients</text><text x="217" y="133" font-size="15">Order, highlighted ingredient percentage</text><text x="217" y="156" font-size="15">Check compound ingredients</text>
+<rect x="434" y="75" width="378" height="105" rx="12" fill="#dcfce7" stroke="#15803d"/>
+<text x="623" y="105" font-size="19" font-weight="bold">2. Nutrition panel</text><text x="623" y="133" font-size="15">Compare on a common serving basis</text><text x="623" y="156" font-size="15">Avoid double-counting subcomponents</text>
+<rect x="28" y="203" width="378" height="105" rx="12" fill="#fef3c7" stroke="#a16207"/>
+<text x="217" y="233" font-size="19" font-weight="bold">3. Safety and suitability</text><text x="217" y="261" font-size="15">Allergens, dates, storage directions</text><text x="217" y="284" font-size="15">Use the clinical plan if relevant</text>
+<rect x="434" y="203" width="378" height="105" rx="12" fill="#f3e8ff" stroke="#7e22ce"/>
+<text x="623" y="233" font-size="19" font-weight="bold">4. Claims and symbols</text><text x="623" y="261" font-size="15">Check claim criteria, not just marketing</text><text x="623" y="284" font-size="15">Verify the regulation's effective date</text>
+<path d="M217 308 V329 H420 M623 308 V329 H420 V345" stroke="#475569" fill="none" stroke-width="2.5"/>
+<path d="M414 339 L420 347 L426 339" fill="none" stroke="#475569" stroke-width="2"/>
+<rect x="95" y="350" width="650" height="47" rx="10" fill="#172b43"/>
+<text x="420" y="379" font-size="17" fill="white" font-weight="bold">Interpret the complete label before advising a food choice.</text>
+</g></svg>
