@@ -155,3 +155,8 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Eclampsia — 28 November 2026
 
 [08C clinical and historical evidence](08C-Eclampsia-Evidence.md). NORCET 20 November 2021 Shift II monitoring report corroborated by two indexed versions, direct opens failed. Ambiguous duplicate reflex alternatives and temperature exception, no new adaptation counted. NHM, ISSHP, WHO and NICE retrieved. 20 specific video gaps. Obstetrics historical adaptations remain 28.
+
+
+## HELLP syndrome — 28 November 2026
+
+[08D evidence and reported adaptation](08D-HELLP-Syndrome-Evidence.md). RRB Staff Nurse 20 July 2019 Shift III report directly retrieved, pre-eclampsia association, one independently worded adaptation. Official booklet and key pending. HPRCA post 25026 listing indexed only. Direct StatPearls, NHM and NICE NCBI text, specialty guidance indexed. Twenty-one specific video gaps. Obstetrics adaptations 29.
