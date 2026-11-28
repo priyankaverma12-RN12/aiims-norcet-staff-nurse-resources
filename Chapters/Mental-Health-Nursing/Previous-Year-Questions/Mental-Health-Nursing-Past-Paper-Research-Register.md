@@ -22,3 +22,10 @@ Further research targets include JIPMER, SGPGI, KGMU, RML, NIMHANS, DSSSB, RRB, 
 - [2 previously preserved India-wide adaptations](Mental-Health-Nursing-India-Wide-Additional-Reported-PYQs.md).
 - Total existing plus new: 6 reported source-linked adaptations, 0 authenticated official exact questions confirmed in this run.
 - NORCET 2/4/5/10, KPSC, OSSSC and AIIMS Jodhpur MSE leads are indexed, full item review pending. HP recruitment, PGIMER, SGPGI, ESIC, RRB, JIPMER and state/NHM/CHO papers and answer keys require further research.
+
+## 28 November 2026 — Group 02A and 02B
+
+- [RRB Staff Nurse 21 July 2019 Shift II reported Q70 adaptation](02A-History-Assessment-Reported-Evidence.md). Official paper and key pending.
+- [NORCET 5 Mains coping outcome adaptation](02B-Psychosocial-Assessment-Reported-Evidence.md). Direct NPrep question page retrieved. Official question number, booklet and key pending.
+- 8 cumulative reported adaptations, no newly authenticated official exact questions. Do not count archive links as question items.
+- [References and video gaps](../References.md). HPRCA 26004 and 25026, HPSSC 933 and India-wide archives remain leads pending item-level review.
