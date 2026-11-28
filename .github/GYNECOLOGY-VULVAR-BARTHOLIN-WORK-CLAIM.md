@@ -1,10 +1,10 @@
 # Independent vulvar and Bartholin topic claim
 
-State: CLAIMED
-Owner: gyne-v14-20261128
-Scope: Vulvar Q14 only and claim checkpoint
-Claimed UTC: 2026-11-28T08:00:00Z
-Expiry UTC: 2026-11-28T09:00:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Baseline: 504 indexed original slots, 20 preserved overlapping AUB raw slots excluded. No mocks until topic banks complete.
 
@@ -27,3 +27,9 @@ Baseline: 504 indexed original slots, 20 preserved overlapping AUB raw slots exc
 - V11 internal overlap with V10 corrected to lichen simplex chronicus. V15 generic STI counseling overlap corrected to CDC-supported genital ulcer syphilis/HIV evaluation. Vulvar bank commit d5e0caa66590d6ae45362aa5242a260d90e4c962, blob cfe7e344e13d8801386acdb330555981c22c15c4. Remote readback 20 Q and 20 hidden answers.
 - Cross-bank audit addendum commit 516e01af95b1933d182ce2a7555fccd738fc7a80, exact remote readback verified. CDC ulcer, CDC herpes and WHO simple fistula source pages directly checked. Full 40-item clinical/distractor and all-link audit remains incomplete.
 - Preserve 564 allocated original slots, 20 Vulvar unallocated, 20 Fistula unallocated and 19 menstrual revision = 623 raw slots. No shared README count change, no mocks.
+
+## 28 November 2026 — targeted full-option comparison and corrections
+- Full target-bank stems/options/keys and 80 overlapping Procedures/RTI bank stems/options/keys compared. Confirmed V14 duplicate with RTI expansion HSV lesion NAAT, corrected to recurrent HSV-2 suppressive counseling, commit e73b7d2f2b192792f2f95456d05b5e3a96a42274.
+- Confirmed F11 overlap with Procedures postoperative oliguria, corrected to fistula-repair catheter bag positioning and traction avoidance, commit 3a0747ac642ed8c3661887c5ff66bc7fcf33bae1.
+- Updated 40-item audit and source verification caveats, commit 5b0f35c3eae808cdfc819c8e57c8ebb1d0bccd3a. Remote readbacks confirmed 20 Q and 20 hidden answers per bank. WHO/CDC HSV opened, CDC CAUTI and genital ulcers timed out. Complete 160-option independent clinical audit not finished.
+- Preserve 564 allocated originals, 20 Vulvar unallocated, 20 Fistula unallocated and 19 menstrual revision = 623 physical slots. README count unchanged; no mocks.
