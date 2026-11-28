@@ -368,27 +368,27 @@
 
 </details>
 
-### Q15. A patient passes mobility screening but has several necessary lines and drains. What preparation best enables safe team-assisted mobility?
+### Q15. An awake, cooperative adult develops diffuse symmetrical limb weakness following prolonged critical illness. The team obtains a valid Medical Research Council (MRC) sum score of 42/60 and is assessing alternative causes. What does this result suggest?
 
-**Difficulty:** Difficult | **Priority:** High | **Type:** Original practice | **Topic:** ICU organization, monitoring and liberation
+**Difficulty:** Medium | **Priority:** High | **Type:** Original practice | **Topic:** ICU organization, monitoring and liberation
 
-- **A.** Remove all necessary invasive devices to permit walking
-- **B.** Assign staff to manage devices and assess the activity plan before movement
-- **C.** Assume the patient must remain on bed rest until every line is removed
-- **D.** Ask family members alone to support the first mobilization
+- **A.** Normal limb strength because the score exceeds half the maximum
+- **B.** Clinically significant weakness compatible with ICU-acquired weakness
+- **C.** Definitive proof of critical illness polyneuropathy rather than myopathy
+- **D.** A direct measurement of readiness to discontinue mechanical ventilation
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Assign staff to manage devices and assess the activity plan before movement**
+**Correct: B. Clinically significant weakness compatible with ICU-acquired weakness**
 
-- **A.** Necessary line remove karna treatment interrupt kar sakta hai. Device-aware mobility plan better hai.
-- **B.** Mobility ke dauran devices ka securement aur staff roles plan karne se dislodgement risk kam hota hai. Clinical readiness ke hisaab se activity progress hoti hai.
-- **C.** Lines ke saath bhi selected patients safe activity kar sakte hain. Individual assessment required hai.
-- **D.** First complex mobilization trained team ki supervision mein honi chahiye. Family support professional safety ka substitute nahi.
+- **A.** MRC sum score ko sirf maximum ke half se compare nahi karte. ICU-acquired weakness ke assessment mein commonly 48/60 se kam score significant weakness ka clue hota hai.
+- **B.** MRC sum score bilateral muscle groups ki manual strength testing se milta hai. Awake aur cooperative patient mein valid 42/60 score, diffuse weakness ke clinical context ke saath, ICU-acquired weakness support karta hai. Team doosre possible causes assess karegi aur rehabilitation needs plan karegi.
+- **C.** MRC score weakness ki severity batata hai, lekin nerve aur muscle pathology ko independently distinguish nahi karta. Zaroorat ke hisaab se specialist assessment aur neurophysiological tests ki help li ja sakti hai.
+- **D.** Ventilator liberation ke liye respiratory status, airway protection, hemodynamic stability aur appropriate breathing-trial assessment chahiye. Limb strength score akela extubation clearance nahi deta.
 
-**Exam clue:** Mobility ke dauran devices ka securement aur staff roles plan karne se dislodgement risk kam hota hai.
+**Exam clue:** Cooperative ICU patient mein MRC sum score below 48/60 significant weakness ka clue hai. Score ko clinical context aur alternative causes ke saath interpret karo.
 
-**Reference:** [SCCM ICU Liberation A–F bundle](https://sccm.org/clinical-resources/iculiberation-home/abcdef-bundles).
+**Reference:** [BMJ clinical review — Intensive care unit acquired weakness and physical rehabilitation in the ICU](https://www.bmj.com/content/388/bmj-2023-077292). [Clinical review — intensive care unit acquired weakness](https://pmc.ncbi.nlm.nih.gov/articles/PMC4526175/).
 
 **YouTube MCQ practice:** specific item verification pending.
 
