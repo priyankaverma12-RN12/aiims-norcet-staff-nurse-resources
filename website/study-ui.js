@@ -10,11 +10,11 @@ function studyLink(label,p){const a=node('a',label);a.href=route(p);return a}
 function metricCard(label,value){const c=node('div',undefined,'metric-tile');c.append(node('span',label),node('strong',Number(value||0).toLocaleString('en-IN')));return c}
 function mountStudyHistory(){
  const host=$('metrics-personal');if(!host)return;
- const title=node('div',undefined,'history-heading'),copy=node('div');copy.append(node('p','YOUR PERSONAL ACTIVITY','kicker'),node('h2','Questions solved'),node('p','Daily, weekly and monthly totals.','muted history-intro'));
- const yearLabel=node('label','History year'),year=node('select');year.id='study-history-year';yearLabel.htmlFor=year.id;yearLabel.append(year);title.append(copy,yearLabel);
+ const title=node('div',undefined,'history-heading'),copy=node('div');copy.append(node('h2','Questions solved'));
+ const yearLabel=node('label','History year'),year=node('select');year.id='study-history-year';yearLabel.htmlFor=year.id;yearLabel.append(year);title.append(copy);
  const periods=node('div',undefined,'history-periods'),history=node('div',undefined,'history-months');history.id='study-month-history';history.setAttribute('aria-label','Monthly study history');const legend=node('p','Solved = questions answered in practice or submitted tests. Marked done = additional self-reported questions. Repeated answers to the same question in one bank on the same day count once.','muted history-note');
  const limits=node('p','Only saved browser history is shown. Older daily records removed by previous versions cannot be recovered. Future months are shown as a dash.','muted history-note');
- const monthDetails=node('details',undefined,'history-disclosure');monthDetails.append(node('summary','Monthly history'),history);const info=node('details',undefined,'history-disclosure');info.append(node('summary','About activity counts'),legend,limits);host.replaceChildren(title,periods,monthDetails,info);
+ const monthDetails=node('details',undefined,'history-disclosure');monthDetails.append(node('summary','Monthly history'),yearLabel,history);const info=node('details',undefined,'history-disclosure');info.append(node('summary','About activity counts'),legend,limits);host.replaceChildren(title,periods,monthDetails,info);
  let selected=localDay().slice(0,4);
  const fmt=n=>n.toLocaleString('en-IN');
  function render(){
@@ -26,7 +26,7 @@ function mountStudyHistory(){
   periods.replaceChildren();
   for(const [key,label,value,range] of [['today','Today',data.daily,data.today],['week','This week',data.weekly,data.monday+' to '+data.today],['month','This month',data.monthly,data.today.slice(0,7)]]){
    const card=node('div',undefined,'history-period');card.dataset.period=key;
-   card.append(node('span',label),node('strong',fmt(value.answered),'history-solved'),node('small','solved MCQs'),node('small',fmt(value.total)+' studied incl. '+fmt(value.extra)+' marked done'),node('small',range,'history-range'));periods.append(card);
+   card.append(node('span',label),node('strong',fmt(value.answered),'history-solved'),node('small','MCQs solved','history-unit'));if(value.extra)card.append(node('small','+'+fmt(value.extra)+' marked done','history-marked'));card.title=range;periods.append(card);
   }
   history.replaceChildren();
   const max=Math.max(1,...Object.entries(data.months).filter(([m])=>m.startsWith(selected+'-')).map(([,v])=>v.answered));
@@ -50,13 +50,13 @@ async function showMetrics(){
  const data=await getMetrics();if(!data){$('metrics-status').textContent='Question counts could not load. Your study progress is safe.';const retry=node('button','Try again');retry.type='button';retry.onclick=()=>location.reload();$('metrics-status').after(retry);return}
  progressCatalog=completionRecords(data);const requested=params.get('chapter'),select=$('metrics-chapter'),category=$('metrics-category'),search=$('metrics-search'),grid=$('metrics-totals'),list=$('metrics-list');
  for(const c of data.chapters){const o=node('option',c.name);o.value=c.id;select.append(o)}if(data.chapters.some(c=>c.id===requested))select.value=requested;
- $('metrics-status').textContent='Counts updated · '+new Date(data.generatedAt).toLocaleDateString('en-IN',{dateStyle:'medium'})+' · '+data.sourceCommit.slice(0,8);
+ $('metrics-status').textContent='Counts updated '+new Date(data.generatedAt).toLocaleDateString('en-IN',{dateStyle:'medium'});$('metrics-status').title='Source commit '+data.sourceCommit;
  $('metrics-method').textContent=data.method;
  const folderKinds=['theory','mcq','mock','pyq','other'];
  function draw(){
   const chapters=select.value?data.chapters.filter(c=>c.id===select.value):data.chapters,k=category.value,q=search.value.trim().toLowerCase();grid.replaceChildren();list.replaceChildren();let visible=0;
   const theory=chapters.flatMap(c=>theoryRecords(data,'Chapters/'+c.id+'/README.md')),theoryTile=metricCard('Theory topics',theory.length);theoryTile.dataset.category='theory';const theoryDone=node('small',undefined,'theory-metric-completed');theoryTile.append(theoryDone);grid.append(theoryTile);liveProgressRefresh(()=>{const ids=new Set(theory.map(r=>r.path)),s=completionSummary(progressCatalog.filter(r=>r.kind==='theory'&&ids.has(r.path)),loadCompletion(),loadRoutine());theoryDone.textContent=s.done+' completed · '+scopeProgressText(progressCatalog.filter(r=>r.kind==='theory'&&ids.has(r.path)))},theoryTile);
-  const totals={};for(const key of Object.keys(metricLabels)){totals[key]=chapters.reduce((sum,c)=>sum+(c.totals[key]||0),0);const mock=key==='mock'?mockSummary(data,chapters.flatMap(c=>c.records)):null;const tile=metricCard(mock?'Mock tests':metricLabels[key],mock?mock.tests:totals[key]);if(mock){tile.append(node('small',countPhrase(mock.questions,'question'),'mock-question-total'));if(mock.drafts)tile.append(node('small',countPhrase(mock.drafts,'unfinished mock section')+' · '+countPhrase(mock.draftQuestions,'question'),'mock-draft-total'));if(mock.otherQuestions)tile.append(node('small',countPhrase(mock.otherQuestions,'other mock question')))}if(['mcq','mock','pyq'].includes(key)){const ids=new Set(chapters.map(c=>c.id)),status=node('small',undefined,'metric-study-status');tile.append(bindScopeStatus(status,progressCatalog.filter(r=>ids.has(r.chapter)&&studyFolderKind(r.kind)===key)))}grid.append(tile)}
+  const totals={};for(const key of Object.keys(metricLabels)){totals[key]=chapters.reduce((sum,c)=>sum+(c.totals[key]||0),0);const mock=key==='mock'?mockSummary(data,chapters.flatMap(c=>c.records)):null;const tile=metricCard(mock?'Mock tests':metricLabels[key],mock?mock.tests:totals[key]);tile.dataset.category=key;if(mock){tile.append(node('small',countPhrase(mock.questions,'question'),'mock-question-total'));if(mock.drafts)tile.append(node('small',countPhrase(mock.drafts,'unfinished mock section')+' · '+countPhrase(mock.draftQuestions,'question'),'mock-draft-total'));if(mock.otherQuestions)tile.append(node('small',countPhrase(mock.otherQuestions,'other mock question')))}if(['mcq','mock','pyq'].includes(key)){const ids=new Set(chapters.map(c=>c.id)),status=node('small',undefined,'metric-study-status');tile.append(bindScopeStatus(status,progressCatalog.filter(r=>ids.has(r.chapter)&&studyFolderKind(r.kind)===key)))}grid.append(tile)}
   for(const c of chapters){
    const topics=theoryRecords(data,'Chapters/'+c.id+'/README.md'),available=[...topics,...c.records];const matches=available.filter(f=>(!k||f.category===k)&&(!q||(f.title+' '+f.path+' '+c.name).toLowerCase().includes(q)));
    if((q||k)&&!matches.length&&!(k==='theory'&&select.value===c.id&&!q))continue;visible+=matches.length;
@@ -70,7 +70,7 @@ async function showMetrics(){
     const group=node('details',undefined,'metric-category');group.dataset.kind=kind;
     const head=node('summary'),copy=node('span',studyFolderLabel(kind),'metric-category-name');
     const count=kind==='theory'?countPhrase(entries.length,'topic'):kind==='mock'?mockCountText(mockSummary(data,entries)):countPhrase(entries.reduce((sum,f)=>sum+f.slots,0),'question');
-    const groupPaths=new Set(entries.map(f=>f.path)),status=node('small',undefined,'metric-study-status');head.append(copy,node('small',count,'metric-category-count'));copy.append(bindScopeStatus(status,progressCatalog.filter(r=>groupPaths.has(r.path)),' · '));group.append(head);
+    const groupPaths=new Set(entries.map(f=>f.path)),status=node('small',undefined,'metric-study-status');head.append(copy,node('small',count,'metric-category-count'));copy.append(bindScopeStatus(status,progressCatalog.filter(r=>groupPaths.has(r.path))));group.append(head);
     const rows=node('div',undefined,'metric-records');group.append(rows);folders.append(group);
     function populateRows(){if(rows.children.length)return;for(const f of entries){
     const row=node('a',undefined,'metric-record'),left=node('div',undefined,'metric-record-copy');
@@ -85,9 +85,9 @@ async function showMetrics(){
    }}
    card.ontoggle=()=>{if(card.open)populate()};list.append(card);
   }
-  if(!list.children.length)list.append(node('p','No matching topics. Try another search or clear the filters.','empty-state'));$('metrics-match-count').textContent=countPhrase(visible,'matching study item');$('clear-metrics').hidden=!select.value&&!category.value&&!q;
+  if(!list.children.length)list.append(node('p','No matching topics. Try another search or clear the filters.','empty-state'));$('metrics-match-count').textContent=countPhrase(visible,k||q||select.value?'matching resource':'resource');$('clear-metrics').hidden=!select.value&&!category.value&&!q;
  }
- select.onchange=()=>{const u=new URL(location.href);if(select.value)u.searchParams.set('chapter',select.value);else u.searchParams.delete('chapter');history.replaceState(history.state,'',u.href);draw()};category.onchange=draw;search.oninput=draw;$('clear-metrics').onclick=()=>{select.value='';category.value='';search.value='';select.onchange();search.focus()};draw();
+ select.onchange=()=>{const u=new URL(location.href);if(select.value)u.searchParams.set('chapter',select.value);else u.searchParams.delete('chapter');history.replaceState(history.state,'',u.href);draw()};category.onchange=draw;search.oninput=draw;$('clear-metrics').onclick=()=>{select.value='';category.value='';search.value='';select.onchange();if($('metrics-filter-panel').open)search.focus();else $('metrics-filter-toggle').focus()};draw();
 }
 function isIndexDocument(p){return /\/(?:README|[^/]*[- ]Index|[^/]*-Topic-Coverage-Map|[^/]*-Mock-Test-Plan)\.md$/i.test(p)&&!p.includes('/Mock-Tests/Original-Only-')}
 function compactIndex(content,p,catalog){

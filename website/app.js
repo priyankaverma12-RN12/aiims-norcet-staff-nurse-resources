@@ -69,7 +69,16 @@ function mountProgressFilterIcon(){
  panel.addEventListener('keydown',e=>{if(e.key==='Escape'&&mobile.matches&&panel.open){e.preventDefault();panel.open=false;sync();button.focus()}});
  $('progress-page').addEventListener('click',e=>{if(e.target.closest('#clear-progress')&&mobile.matches&&!panel.open)button.focus()});
 }
-// Mobile reader chrome: move the existing controls, never clone stateful inputs.
+// The Metrics filter uses the same icon interaction as Progress at every width.
+function mountMetricsFilterIcon(){
+ const button=$('metrics-filter-toggle'),panel=$('metrics-filter-panel');if(!button||!panel)return;
+ const sync=()=>{button.setAttribute('aria-expanded',String(panel.open));button.setAttribute('aria-label',panel.open?'Hide resource filters':'Show resource filters')};
+ const set=open=>{panel.open=open;sync()};set(false);
+ button.addEventListener('click',()=>set(!panel.open));panel.addEventListener('toggle',sync);
+ document.addEventListener('keydown',e=>{if(e.key==='Escape'&&panel.open&&!$('metrics').hidden){e.preventDefault();set(false);button.focus()}});
+ window.addEventListener('pageshow',e=>{if(e.persisted)set(false)});
+}
+ // Mobile reader chrome: move the existing controls, never clone stateful inputs.
 function mountMobileReader(){
  if(!path)return;
  const mobile=matchMedia('(max-width:600px)'),head=document.querySelector('.reader-head'),aside=$('reader-aside'),sections=$('reader-sections-panel'),outline=aside.querySelector('.outline-card'),tools=$('reading-tools-panel'),focus=$('focus-study'),locationBar=document.querySelector('.reading-location'),toolbar=document.querySelector('#reader > .toolbar');
@@ -188,6 +197,7 @@ $('back-top').onclick=()=>window.scrollTo({top:0,behavior:matchMedia('(prefers-r
 mountResponsiveDisclosures();
 mountCompactPanels();
 mountProgressFilterIcon();
+mountMetricsFilterIcon();
 mountMobileReader();
 mountPageWelcome();
 (params.get('progress')==='1'?showProgress():params.get('metrics')==='1'?showMetrics():path?reader(path):home()).catch(e=>{const target=params.get('progress')==='1'?$('progress-status'):params.get('metrics')==='1'?$('metrics-status'):path?$('status'):$('count');target.textContent='This study page could not load. Your saved progress is safe.';target.classList.add('load-error');const actions=node('div',undefined,'load-recovery'),retry=node('button','Try again'),library=node('a','Back to Library');retry.type='button';retry.onclick=()=>location.reload();library.href='./#library';actions.append(retry,library);if(path&&safe(path)){const original=node('a','Open original study material');original.href=path.endsWith('/')?'https://github.com/'+repo+'/tree/main/'+encodeRepoPath(path):git+encodeRepoPath(path);original.target='_blank';original.rel='noopener noreferrer';actions.append(original)}target.after(actions)});

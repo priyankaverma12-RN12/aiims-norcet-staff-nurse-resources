@@ -827,3 +827,84 @@ html:has(body.reader-page){scroll-padding-top:calc(var(--header-offset) + var(--
 }
 
 @media(max-width:600px){body.focus-study .topbar nav{display:none!important}}
+
+/* V12.4 — shared visual hierarchy, compact study dashboard and semantic count colors.
+   No external font dependency; the reader's compact question-first spacing is preserved. */
+:root{--ui-font:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;--ui-heading:clamp(1.3rem,2.4vw,1.85rem);--ui-section:clamp(1.15rem,1.8vw,1.45rem);--count-solved:#166534;--count-week:#185a85;--count-month:#67409a;--count-theory:#185a85;--count-mock:#67409a;--count-pyq:#8a4b14}
+html[data-theme=dark]{--count-solved:#a3e7ba;--count-week:#a6d9ff;--count-month:#dbc2ff;--count-theory:#a6d9ff;--count-mock:#dbc2ff;--count-pyq:#ffd39a}
+body{font-family:var(--ui-font)}
+#home .hero h1,#metrics .section-heading h1,#progress-page .section-heading h1{font-family:var(--ui-font);font-size:var(--ui-heading);font-weight:800;letter-spacing:-.035em;line-height:1.2}
+.library-toolbar h2,.inventory-heading{font-family:var(--ui-font);font-size:var(--ui-section);font-weight:800;letter-spacing:-.025em;line-height:1.25;color:var(--ink)}
+#metrics .metrics-heading{display:grid;grid-template-columns:minmax(0,1fr) auto 44px;align-items:center;gap:.35rem;margin:0 0 .45rem}
+#metrics .metrics-heading>div{min-width:0}
+#metrics .metrics-heading h1{margin:0}
+#metrics .metrics-heading>a{min-height:44px;display:inline-flex;align-items:center;white-space:nowrap;font-size:.8rem}
+#metrics-filter-toggle{position:relative;justify-self:end}
+#metrics-filter-toggle[aria-expanded=true]{background:var(--accent-bg);border-color:var(--accent)}
+#metrics:has(#clear-metrics:not([hidden])) #metrics-filter-toggle::after{content:"";position:absolute;right:5px;top:5px;width:7px;height:7px;border-radius:50%;background:var(--accent)}
+#metrics-filter-panel>summary,#metrics-filter-panel:not([open]){display:none}
+#metrics-filter-panel .study-panel-body{padding:.45rem}
+#metrics-filter-panel .metrics-filters{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:.45rem}
+#metrics-filter-panel input,#metrics-filter-panel select{width:100%;min-width:0}
+#metrics #history-panel-toggle,#metrics #metrics-summary-panel{margin:.35rem 0 .55rem}
+#metrics #history-panel-toggle>.study-panel-body,#metrics #metrics-summary-panel>.study-panel-body{padding:.35rem}
+#metrics #metrics-personal{padding:.4rem;border:0;box-shadow:none}
+#metrics .history-heading{margin:0 0 .35rem}
+#metrics .history-heading h2{font-size:1rem;font-weight:750;letter-spacing:-.015em;margin:0}
+#metrics .history-periods{grid-template-columns:repeat(3,minmax(0,1fr));gap:.35rem;margin:0}
+#metrics .history-period{grid-column:auto;display:flex;flex-direction:column;gap:.1rem;background:var(--paper);border:1px solid var(--line);border-top:3px solid var(--count-solved);border-radius:9px;padding:.55rem .55rem .45rem;min-width:0}
+#metrics .history-period[data-period=week]{border-top-color:var(--count-week)}
+#metrics .history-period[data-period=month]{border-top-color:var(--count-month)}
+#metrics .history-period>span{font-size:.78rem;font-weight:700;color:var(--muted);line-height:1.25}
+#metrics .history-solved{font-size:clamp(1.4rem,3.2vw,2.2rem);line-height:1.15;letter-spacing:-.04em;color:var(--count-solved);font-weight:800}
+#metrics [data-period=week] .history-solved{color:var(--count-week)}
+#metrics [data-period=month] .history-solved{color:var(--count-month)}
+#metrics .history-unit{font-size:.7rem;line-height:1.3;color:var(--muted)}
+#metrics .history-marked{font-size:.68rem;line-height:1.3;color:var(--muted)}
+#metrics .history-disclosure{margin:.3rem 0 0}
+#metrics .history-disclosure>summary{font-size:.8rem}
+#metrics .history-disclosure>label{display:flex;align-items:center;gap:.5rem;justify-content:flex-end;font-size:.78rem;color:var(--muted);margin:0 0 .25rem}
+#metrics .history-disclosure select{min-height:44px}
+#metrics .inventory-heading{margin:.75rem 0 .15rem}
+#metrics-status{font-size:.72rem;margin:0 0 .35rem;color:var(--muted)}
+#metrics .metrics-totals{grid-template-columns:repeat(3,minmax(0,1fr));gap:.35rem;margin:0}
+#metrics .metric-tile{padding:.55rem .6rem;display:flex;flex-direction:column;gap:.12rem;border-radius:9px}
+#metrics .metric-tile>span{font-size:.75rem;font-weight:700;line-height:1.3}
+#metrics .metric-tile>strong{font-size:clamp(1.35rem,2.9vw,1.9rem);line-height:1.2;font-weight:800;color:var(--accent)}
+#metrics .metric-tile[data-category=theory]>strong{color:var(--count-theory)}
+#metrics .metric-tile[data-category=mock]>strong{color:var(--count-mock)}
+#metrics .metric-tile[data-category=pyq]>strong{color:var(--count-pyq)}
+#metrics .metric-tile[data-category=imported]>strong,#metrics .metric-tile[data-category=embedded]>strong{color:var(--muted)}
+#metrics .metric-tile small{line-height:1.3;font-size:.7rem;overflow-wrap:anywhere}
+#metrics .metric-chapter{padding:.35rem .6rem;margin:.35rem 0;border-radius:10px}
+#metrics .metric-category{border-radius:9px}
+#metrics .metric-category-name .metric-study-status{display:block;margin:.12rem 0 0;font-size:.7rem;line-height:1.3}
+#metrics .metric-chapter-title,.completion-chapter-title{font-weight:750;letter-spacing:-.01em}
+#metrics .metric-record-count strong,.resource-question-count,.file-count,.metric-category-count{font-variant-numeric:tabular-nums;font-weight:700;color:var(--accent)}
+#metrics .metric-record[data-category=theory] .metric-record-count strong{color:var(--count-theory)}
+#metrics .metric-record[data-category=mock] .metric-record-count strong{color:var(--count-mock)}
+#metrics .metric-record[data-category=pyq] .metric-record-count strong{color:var(--count-pyq)}
+#home .daily-progress-label strong,#home .daily-count-breakdown span:first-child,.completion-stat>strong,.history-month-solved{color:var(--count-solved);font-variant-numeric:tabular-nums}
+#home .daily-progress-label strong{font-weight:800}
+#home .library-toolbar{margin:.65rem 0 .3rem}
+#home .library-toolbar h2{font-size:var(--ui-section)}
+@media(max-width:600px){
+ :root{--ui-heading:1.42rem;--ui-section:1.3rem}
+ #metrics .metrics-heading .kicker{display:none}
+ #metrics .metrics-totals{grid-template-columns:repeat(2,minmax(0,1fr));gap:.3rem}
+ #metrics .metric-tile{padding:.45rem .5rem}
+ #metrics .history-period{padding:.4rem .3rem}
+ #metrics .history-period>span{font-size:.72rem}
+ #metrics .history-solved{font-size:1.45rem}
+ #metrics .history-unit,#metrics .history-marked{font-size:.65rem}
+ #metrics-filter-panel .metrics-filters{grid-template-columns:repeat(2,minmax(0,1fr))}
+ #metrics-filter-panel .metrics-filters label:last-child{grid-column:1/-1}
+ #metrics-filter-panel .metrics-filters select,#metrics-filter-panel .metrics-filters input{font-size:16px}
+ #home .hero h1{font-size:1.3rem}
+ #home .library-toolbar h2{font-size:1.3rem;font-weight:800}
+}
+@media(max-width:360px){#metrics-filter-panel .metrics-filters{grid-template-columns:minmax(0,1fr)}}
+
+/* Keep icon hit areas stable throughout reader entry and narrow flex layout. */
+#metrics-filter-toggle,.mobile-reader-controls .panel-icon{box-sizing:border-box;flex:0 0 44px;min-width:44px;min-height:44px;width:44px;height:44px;transform:none}
+@media(max-width:600px){#reader>.reader-head{animation:none}.mobile-reader-controls{align-items:center}}
