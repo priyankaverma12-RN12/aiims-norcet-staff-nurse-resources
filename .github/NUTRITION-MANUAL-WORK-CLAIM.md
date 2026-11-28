@@ -1,10 +1,20 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-10b-oral-rehabilitation-20261128-1345Z
-Scope: PR35 isolated 10B adult underweight oral nutrition rehabilitation, concept and SVG; no shared navigation or other workstream writes.
-Claimed UTC: 2026-11-28T13:45:00Z
-Expiry UTC: 2026-11-28T14:15:00Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 10B adult underweight and oral nutrition rehabilitation
+
+Candidate head: 5c5a892f0dbeac845d2625116b65f3f1892665cd
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-10b-oral-rehabilitation-20261128-1345Z
+
+Added 20 original candidates, 80 individual Roman Hinglish rationales, 20 exam clues and evidence rows, 20 aligned keys with five per option letter, 7 Easy/8 Medium/5 Difficult. Final bank 52851e4ec018d676869a0bd6a7f127ed169f7004 blob daaec8089635b2f912ad9fae91851328a3eeb199; guide cb8569da5270754852b450ae21a11d6ca287744b; SVG c45bf59ed1218a56c14abc103e8937ae0ff28c74. All exact readbacks passed. Q14 replaced to avoid direct overlap, other 19 slots preserved. Zero normalized exact matches against 180 relevant prior stems. Prior 900 originals preserved; delta exactly four new Nutrition-local files including review. Both prior 09B TB SVG and new 10B SVG XML parsed, locally rendered and visually inspected from exact matching remote Git blobs. PR description exact readback passed.
+
+Staged inventory: 920 original MCQs, 3680 individual rationales, 46 banks, 29 concept guides, 29 SVGs. Four legacy originals and one reported adaptation separately preserved. Requested CI 46142439765 and baseline CI 46144965167 successful. Exact candidate CI 46151538858 pending at inspection. INC government-hosted Gazette PDF text retrieved, printed p274 Unit IX confirms underweight and diarrhoea; page screenshot unavailable, full programme-specific mapping incomplete. AMB 2026 full guideline still inaccessible. Independent clinical/dietetic/pharmacy/regulatory and comprehensive semantic review, earlier flagged corrections, full curriculum depth, individual videos, PR7/8 explicit release and integration gates outstanding. No live, mock or PYQ credit. No changes to other jobs, website, learner history or five schedules.
+
+Next: distinct diarrhoea dietary-care bank after screening existing 04D Q13/Q14 and active GI, Child and Communicable chapter banks, then other genuine curriculum gaps. Do not regenerate 09C–E or 10A/B. Prioritize actual new content and targeted necessary corrections. Complete mandatory review and release gates before integration, then original-only mocks and authenticated topic-mapped PYQs.
 
 ## Latest released checkpoint — 10A GLIM adult malnutrition diagnosis
 
