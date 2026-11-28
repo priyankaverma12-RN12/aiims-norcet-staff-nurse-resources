@@ -10,7 +10,7 @@
 
 - **A.** 5.5 days
 - **B.** 5.8 days
-- **C.** 6.2 days
+- **C.** 5.2 days
 - **D.** 11 days
 
 <details><summary>Answer aur easy explanation dekho</summary>
@@ -22,7 +22,7 @@
 **Baaki options kyun galat hain?**
 
 - **A.** Yeh dono ward means ka simple average hai. Ward sizes different hone se is method mein patient-level weight galat ho jata hai.
-- **C.** Agar ward sizes ulte apply kiye jayein toh 6.2 milta hai. Actual patient counts ke according weighting karni chahiye.
+- **C.** Agar ward sizes ulte apply kiye jayein toh (18 × 4 + 12 × 7)/30 = 5.2 milta hai. Actual patient counts ke according weighting karni chahiye.
 - **D.** Dono means ko add karna pooled mean nahi hai. Total observations ko account karna zaroori hai.
 
 **YouTube MCQ practice:** verification pending.
@@ -154,7 +154,7 @@
 
 </details>
 
-### Q7. Five observed training scores are 2, 4, 4, 6 and 9. The research team wants the sample variance rather than the population variance. Which divisor should be applied to the sum of squared deviations from the sample mean?
+### Q7. Five observed simulation scores are 3, 5, 7, 8 and 12. The research team wants the sample variance rather than the population variance. Which divisor should be applied to the sum of squared deviations from the sample mean?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original exam-style practice
 
