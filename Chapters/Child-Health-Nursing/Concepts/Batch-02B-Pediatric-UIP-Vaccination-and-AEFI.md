@@ -1,6 +1,6 @@
 # Pediatric UIP vaccination and AEFI — Batch 02B
 
-> Draft original Roman Hinglish notes. Use the cited Indian MoHFW health-worker immunization manual for these version-specific exam cases. Current program amendments, eligibility, product-specific instructions and facility orders supersede these revision notes for real care. The 2026 HPV campaign needs separate current-program review.
+> Draft original Roman Hinglish notes. Use the cited Indian MoHFW health-worker immunization manual for these version-specific exam cases. Current program amendments, eligibility, product-specific instructions and facility orders supersede these revision notes for real care. The HPV programme note below is dated to the 2026 campaign and is not a universal clinical schedule.
 
 ![Original session-safety diagram](../Assets/Batch-02-UIP-Session-Safety.svg)
 
@@ -30,7 +30,15 @@ Settle child and give oral vaccines before injections according to the cited ses
 
 ## 4. AEFI is not automatically vaccine causation
 
-After vaccination, the cited manual recommends 30-minute observation at the session site. Rapid generalized hives, swelling and wheeze suggest possible anaphylaxis; trained staff should activate emergency support, give protocol-indicated IM adrenaline promptly and arrange urgent transfer. Reporting an event is distinct from determining causality. For a serious suspected AEFI, stop use of the implicated vial and retain it properly under the investigation protocol. Preserve documentation and traceability.
+After vaccination, the cited manual recommends 30-minute observation at the session site. Rapid generalized hives, swelling and wheeze suggest possible anaphylaxis; trained staff should activate emergency support, give protocol-indicated IM adrenaline promptly and arrange urgent transfer. Reporting an event is distinct from determining causality. Serious suspected AEFI mein patient care first. Implicated vial ka use roko, identify aur document karo, authorized cold-chain mein safely separate rakho aur designated MO/DIO investigation protocol se handover karo. Records preserve karo. Vitamin A supplementation hai, vaccine nahi.
+
+## 5. HPV vaccination: 2026 India programme update
+
+28 February 2026 ko national HPV vaccination campaign launch hua. 23 November 2026 ki PIB update ke mutabik eligible 14-year-old girls ko designated government health facilities par free, voluntary single-dose HPV vaccination milti hai, parental consent ke saath. March 2026 government update Gardasil-4 (quadrivalent HPV vaccine) specify karti hai. U-WIN par information aur vaccination slot booking available hai.
+
+Nursing point: age/programme eligibility, parental consent, vaccination record, authorized product aur session protocol verify karo. Counselling mein cervical cancer prevention ka purpose samjhao. Is programme schedule ko har age, immunocompromised patient ya private clinical vaccination schedule par automatically apply mat karo. Current local eligibility and clinical advice follow karo.
+
+Sources: [PIB launch, 28 Feb 2026](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2233906&lang=2&reg=3), [PIB 17 March 2026 programme details](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2241079&lang=2&reg=3), [PIB update, 23 Nov 2026](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2340488&lang=1&reg=3). No new MCQ authored here; cross-chapter HPV overlap and independent curriculum review pending.
 
 ## Sources and practice
 
