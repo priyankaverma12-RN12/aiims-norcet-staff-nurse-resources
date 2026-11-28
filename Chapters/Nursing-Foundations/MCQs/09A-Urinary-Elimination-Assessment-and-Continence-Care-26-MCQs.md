@@ -6,7 +6,7 @@
 
 ### Q1. A woman leaks a few drops of urine when lifting a grocery bag, without a preceding urgent need to void. Which pattern is most consistent?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Stress incontinence
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Stress incontinence · **🟣 [ESIC Staff Nurse 19 Mar 2016 Shift II — related reported concept](https://testbook.com/question-answer/bonneys-test-is-used-to-confirm--624ea038f44aa39e0556359b)**
 
 A. Urgency incontinence
 
@@ -27,7 +27,13 @@ D. Continuous fistula-related leakage
 
 **Clinical reference:** [NIDDK bladder control](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/symptoms-causes)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#2-common-symptom-patterns-ko-distinguish-karo)
+
+**Historical evidence limitation:** Is report mein Bonney test aur stress leakage ka sambandh poochha gaya tha. Hamara sawal symptom pattern ki pehchan par hai. Isko exact PYQ ya routine diagnostic test ki recommendation mat samjho. Official answer key independently authenticate nahi hui hai.
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**▶️ [YouTube MCQ practice — stress incontinence, Stancoast NCLEX Coaching](https://www.youtube.com/watch?v=4mTRsT8qYs0).** Publisher description mein stress, urge aur overflow incontinence ki question practice di gayi hai. Exact item aur playback verify nahi hue hain.
 
 </details>
 
@@ -35,7 +41,7 @@ D. Continuous fistula-related leakage
 
 ### Q2. A patient feels an abrupt compelling desire to urinate and loses urine on the way to the bathroom despite being able to walk normally. Which symptom pattern should the nurse document?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Urgency incontinence
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Urgency incontinence · **🟣 [DSSSB Nursing Officer 28 Aug 2019 Shift III — related reported concept](https://testbook.com/question-answer/what-is-the-common-cause-for-urge-incontinence--61641fcb160baf11a2b8d7b6)**
 
 A. Stress leakage
 
@@ -56,7 +62,13 @@ D. Urgency urinary incontinence
 
 **Clinical reference:** [NIDDK bladder control](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/symptoms-causes)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#2-common-symptom-patterns-ko-distinguish-karo)
+
+**Historical evidence limitation:** Is report mein urgency leakage ka common underlying mechanism poochha gaya tha. Hamara sawal symptom pattern ki pehchan par hai. Detrusor overactivity ko har urgency incontinence case mein confirmed diagnosis mat samjho. Existing evidence register mein isi report se alag mechanism adaptation hai, use dobara count nahi kiya gaya. Official answer key independently authenticate nahi hui hai.
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**▶️ [YouTube MCQ practice — urge incontinence, Stancoast NCLEX Coaching](https://www.youtube.com/watch?v=4mTRsT8qYs0).** Publisher description mein stress, urge aur overflow incontinence ki question practice di gayi hai. Exact item aur playback verify nahi hue hain.
 
 </details>
 
@@ -64,7 +76,7 @@ D. Urgency urinary incontinence
 
 ### Q3. A woman reports leakage both on sneezing and during a sudden strong urge. Which initial rehabilitation plan best addresses both patterns after assessment?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Mixed incontinence
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Mixed incontinence
 
 A. Supervised pelvic floor muscle training plus bladder training
 
@@ -85,7 +97,11 @@ D. Strictly avoid all oral fluids
 
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#pelvic-floor-muscle-training)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -93,7 +109,7 @@ D. Strictly avoid all oral fluids
 
 ### Q4. An older adult has a weak stream, repeated small-volume dribbling and a persistent feeling of incomplete emptying. Which action is most appropriate before starting urge-suppression exercises?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Overflow assessment
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Overflow assessment · **🟣 [RRB Nursing Superintendent 29 Apr 2025 Shift II — related reported concept](https://testbook.com/question-answer/which-statement-best-explains-the-urinary-retentio--681c87f9ab6019bcdccc5848)**
 
 A. Assume stress incontinence and begin strengthening immediately
 
@@ -114,7 +130,13 @@ D. Fit absorbent pads and omit further assessment
 
 **Clinical reference:** [NIDDK retention](https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes/)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#4-retention-aur-post-void-residual-pvr)
+
+**Historical evidence limitation:** Is report mein retention ka basic meaning poochha gaya tha. Hamara sawal incomplete emptying ke cues dekhkar assessment choose karne par hai. Yeh related concept hai, exact historical question nahi. Official answer key independently authenticate nahi hui hai.
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**▶️ [YouTube MCQ practice — overflow and incomplete emptying, Stancoast NCLEX Coaching](https://www.youtube.com/watch?v=4mTRsT8qYs0).** Publisher description mein stress, urge aur overflow incontinence ki question practice di gayi hai. Exact item aur playback verify nahi hue hain.
 
 </details>
 
@@ -122,7 +144,7 @@ D. Fit absorbent pads and omit further assessment
 
 ### Q5. A patient is asked to complete a bladder diary before a continence review. Which entry set gives the most useful clinical picture?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bladder diary
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bladder diary
 
 A. Only the number of pads used each week
 
@@ -143,7 +165,11 @@ D. Only the colour of the first morning urine
 
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#3-assessment-pehle-pattern-samjho-phir-intervention-choose-karo)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -151,7 +177,7 @@ D. Only the colour of the first morning urine
 
 ### Q6. A woman with new urinary incontinence attends a continence clinic. Under NICE NG123, which diary instruction is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Diary duration
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Diary duration
 
 A. Record one void only
 
@@ -172,7 +198,11 @@ D. Record at least three days, including variations in usual activities
 
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#3-assessment-pehle-pattern-samjho-phir-intervention-choose-karo)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -180,7 +210,7 @@ D. Record at least three days, including variations in usual activities
 
 ### Q7. A woman with stress urinary incontinence asks whether a supervised exercise programme should be abandoned after one week without improvement. Which response reflects recommended first-line care?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Pelvic floor training duration
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Pelvic floor training duration
 
 A. Continue the supervised programme for at least three months, with review
 
@@ -201,7 +231,11 @@ D. Perform exercises only when leakage occurs
 
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#pelvic-floor-muscle-training)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -209,7 +243,7 @@ D. Perform exercises only when leakage occurs
 
 ### Q8. During instruction, a woman repeatedly bears down instead of lifting and contracting her pelvic floor. What should the nurse do?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Correct contraction
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Correct contraction
 
 A. Increase the number of repetitions immediately
 
@@ -230,7 +264,11 @@ D. Declare pelvic floor therapy ineffective without assessment
 
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#pelvic-floor-muscle-training)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -238,7 +276,7 @@ D. Declare pelvic floor therapy ineffective without assessment
 
 ### Q9. A woman with urgency urinary incontinence has no evidence of retention and is beginning behavioural therapy. What is the minimum first-line bladder training duration recommended by NICE?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bladder training duration
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bladder training duration
 
 A. 48 hours
 
@@ -259,7 +297,11 @@ D. One week
 
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#bladder-training)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -267,7 +309,7 @@ D. One week
 
 ### Q10. A patient with assessed urgency incontinence voids pre-emptively every 25 minutes. Which strategy best reflects bladder training?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bladder training technique
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bladder training technique
 
 A. Force a six-hour interval from the first day
 
@@ -288,7 +330,11 @@ D. Use the diary to set a tolerable interval and gradually extend it with urge-c
 
 **Clinical reference:** [NHS continence treatment](https://www.nhs.uk/conditions/urinary-incontinence/treatment/)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#bladder-training)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -296,7 +342,7 @@ D. Use the diary to set a tolerable interval and gradually extend it with urge-c
 
 ### Q11. A resident with dementia can recognise a toilet when reminded but rarely initiates a request. Which nursing intervention specifically represents prompted voiding?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Prompted voiding
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Prompted voiding
 
 A. Regularly ask about wetness and the need to void, offer assistance and reinforce participation
 
@@ -317,7 +363,11 @@ D. Record pad use without offering toileting opportunities
 
 **Clinical reference:** [OpenStax nursing](https://openstax.org/books/fundamentals-nursing/pages/26-4-the-nurses-role-in-urinary-elimination)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#prompted-voiding-aur-timed-toileting)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -325,7 +375,7 @@ D. Record pad use without offering toileting opportunities
 
 ### Q12. A dependent patient usually passes urine around 10 am and 2 pm but cannot reliably communicate a request. Which approach is most consistent with timed toileting?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Timed toileting
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Timed toileting
 
 A. Offer the toilet only after a wet episode
 
@@ -346,7 +396,11 @@ D. Start a catheter because the patient cannot announce urgency
 
 **Clinical reference:** [NIDDK treatment](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/treatment)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#prompted-voiding-aur-timed-toileting)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -354,7 +408,7 @@ D. Start a catheter because the patient cannot announce urgency
 
 ### Q13. A patient with worsening urinary dribbling has also developed severe constipation. Which interpretation should guide the nursing assessment?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Reversible contributors
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Reversible contributors
 
 A. Constipation cannot affect bladder emptying
 
@@ -375,7 +429,11 @@ D. Increase urge-suppressing medicine without evaluating bowel function
 
 **Clinical reference:** [NIDDK retention](https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes/)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#4-retention-aur-post-void-residual-pvr)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -383,7 +441,7 @@ D. Increase urge-suppressing medicine without evaluating bowel function
 
 ### Q14. After starting an antimuscarinic medicine for overactive bladder, a patient develops new difficulty initiating urine and lower abdominal fullness. What is the best nursing response?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Medication-associated retention
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Medication-associated retention
 
 A. Reassure that this always proves successful treatment
 
@@ -404,7 +462,11 @@ D. Assess for retention promptly and seek prescriber review
 
 **Clinical reference:** [NIDDK retention](https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes/)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#4-retention-aur-post-void-residual-pvr)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -412,7 +474,7 @@ D. Assess for retention promptly and seek prescriber review
 
 ### Q15. A patient taking a prescribed diuretic late in the evening reports disrupted sleep from repeated voiding. Which intervention is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Diuretic timing
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Diuretic timing
 
 A. Discuss dose timing with the prescriber while maintaining the prescribed treatment
 
@@ -433,7 +495,11 @@ D. Restrict fluids irrespective of cardiac or renal status
 
 **Clinical reference:** [NHS continence treatment](https://www.nhs.uk/conditions/urinary-incontinence/treatment/)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#lifestyle-and-medication-review)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -441,7 +507,7 @@ D. Restrict fluids irrespective of cardiac or renal status
 
 ### Q16. A patient with leakage says, 'I will drink almost nothing during the day.' There is no prescribed fluid restriction. What is the most appropriate teaching?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Fluid advice
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Fluid advice
 
 A. Approve severe restriction until completely dry
 
@@ -462,7 +528,11 @@ D. Drink all daily fluids just before sleep
 
 **Clinical reference:** [NHS continence treatment](https://www.nhs.uk/conditions/urinary-incontinence/treatment/)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#lifestyle-and-medication-review)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -470,7 +540,7 @@ D. Drink all daily fluids just before sleep
 
 ### Q17. A patient's diary shows urgency episodes clustering after several cups of strong tea. Which initial advice is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Caffeine
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Caffeine
 
 A. Replace tea with an equal amount of caffeinated energy drinks
 
@@ -491,7 +561,11 @@ D. Assume the diary proves a structural obstruction
 
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#lifestyle-and-medication-review)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -499,7 +573,7 @@ D. Assume the diary proves a structural obstruction
 
 ### Q18. A patient with new severe low back pain reports difficulty initiating urine and altered sensation around the perineum. What is the priority?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Neurological emergency
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Neurological emergency
 
 A. Schedule routine continence teaching next month
 
@@ -520,7 +594,11 @@ D. Escalate immediately for suspected cauda equina syndrome
 
 **Clinical reference:** [NSW emergency low back pain](https://aci.health.nsw.gov.au/networks/eci/clinical/tools/orthopaedic-and-musculoskeletal/acute-low-back-pain)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#4-retention-aur-post-void-residual-pvr)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -528,7 +606,7 @@ D. Escalate immediately for suspected cauda equina syndrome
 
 ### Q19. An adult with marked ascites has a high automated bladder scan reading that is inconsistent with the clinical assessment. What is the safest interpretation?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bladder scan limitation
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Bladder scan limitation
 
 A. Ascites can produce a falsely high reading, so verify with appropriate clinical assessment
 
@@ -549,7 +627,11 @@ D. Ignore all future bladder assessments
 
 **Clinical reference:** [PVR clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK539839/)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#4-retention-aur-post-void-residual-pvr)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -557,7 +639,7 @@ D. Ignore all future bladder assessments
 
 ### Q20. A patient has voided and a post-void residual measurement is ordered. Which timing gives the most meaningful measurement?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Residual measurement timing
+**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Residual measurement timing
 
 A. After the next full meal
 
@@ -578,7 +660,11 @@ D. Only on the following morning
 
 **Clinical reference:** [PVR clinical reference](https://www.ncbi.nlm.nih.gov/books/NBK539839/)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#4-retention-aur-post-void-residual-pvr)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -586,7 +672,7 @@ D. Only on the following morning
 
 ### Q21. A woman with uncomplicated urinary incontinence is undergoing initial assessment. Which approach to pad-weight testing is consistent with NICE NG123?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Initial investigations
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Initial investigations
 
 A. Perform a pad-weight test routinely in every woman
 
@@ -607,7 +693,11 @@ D. Require daily pad weighing before any conservative advice
 
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#3-assessment-pehle-pattern-samjho-phir-intervention-choose-karo)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -615,7 +705,7 @@ D. Require daily pad weighing before any conservative advice
 
 ### Q22. A patient wakes from sleep twice each night, voluntarily passes urine and returns to bed without any wetting. Which term best describes this symptom?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Nocturnal symptom description
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Nocturnal symptom description
 
 A. Nocturnal enuresis
 
@@ -636,7 +726,11 @@ D. Nocturia
 
 **Clinical reference:** [NIDDK bladder control](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/symptoms-causes)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#2-common-symptom-patterns-ko-distinguish-karo)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -644,7 +738,7 @@ D. Nocturia
 
 ### Q23. A man using a condom-style external urine collection device develops penile swelling and a constricting mark. What should the nurse prioritise?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** External collection device safety
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** External collection device safety
 
 A. Remove the constricting device, assess skin and circulation, and escalate as indicated
 
@@ -665,7 +759,11 @@ D. Replace the device with an indwelling catheter without assessing indication
 
 **Clinical reference:** [CDC CAUTI recommendations](https://www.cdc.gov/infection-control/hcp/cauti/summary-of-recommendations.html)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#6-dignity-containment-aur-skin-protection)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -673,7 +771,7 @@ D. Replace the device with an indwelling catheter without assessing indication
 
 ### Q24. A patient with frequent urine leakage develops diffuse superficial erythema across the perineum and inner thighs without a focal pressure-point lesion. Which assessment is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Moisture versus pressure injury
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Moisture versus pressure injury
 
 A. Automatically classify it as a stage 3 pressure injury
 
@@ -694,7 +792,11 @@ D. Assume every lesion is a fungal infection
 
 **Clinical reference:** [IAD differential study](https://pmc.ncbi.nlm.nih.gov/articles/PMC12210662/)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#6-dignity-containment-aur-skin-protection)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -702,7 +804,7 @@ D. Assume every lesion is a fungal infection
 
 ### Q25. A patient who previously had six daily leakage episodes now reports two and can attend a family gathering confidently. Which evaluation is most appropriate?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Outcome evaluation
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Outcome evaluation
 
 A. Classify treatment as failure because complete dryness is not achieved
 
@@ -723,7 +825,11 @@ D. Evaluate only the number of pads purchased
 
 **Clinical reference:** [NIDDK treatment](https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems/treatment)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#7-evaluation-and-patient-education)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>
 
@@ -731,7 +837,7 @@ D. Evaluate only the number of pads purchased
 
 ### Q26. A woman presenting for continence advice mentions repeated unexplained visible blood in her urine. Which nursing response is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Haematuria referral
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice · **Exam focus:** NORCET / all-India Staff Nurse · **Topic:** Haematuria referral
 
 A. Treat it as an expected feature of stress incontinence
 
@@ -752,6 +858,10 @@ D. Arrange prompt clinical evaluation through the appropriate haematuria referra
 
 **Clinical reference:** [NICE NG123](https://www.nice.org.uk/guidance/ng123/chapter/recommendations)
 
-**Dedicated video practice:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (topic-level candidate, title and channel indexed, question-specific timestamp not verified).
+[Related concept](../Concepts/09A-Urinary-Elimination-Assessment-and-Continence-Care.md#3-assessment-pehle-pattern-samjho-phir-intervention-choose-karo)
+
+**Supplementary general MCQ practice lead:** [Nexus Nursing Institute — NCLEX Practice for Urinary Elimination](https://www.youtube.com/watch?v=x1a-q6SY3sk) (General urinary-elimination question-practice description indexed. Is specific question ki coverage aur playback verify nahi hue hain.)
+
+**Dedicated YouTube MCQ practice:** Specific coverage verification pending.
 
 </details>

@@ -81,3 +81,11 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Contraction stress test — 28 November 2026
 
 [SKAU Staff Nurse 22 November 2026, Set C Q62 adaptation](06D-CST-Exam-Evidence.md). Official paper and provisional key matched directly. Final key not established, independently worded adaptation, not verbatim. Historical adaptation inventory 22. Safdarjung 2019 and other recruitment leads remain pending. CST MCQ-labelled video title indexed, exact playback pending.
+
+## CTG — 28 November 2026
+
+[NORCET 6 Prelims 2024 reported late-deceleration adaptation](06E-CTG-Reported-Evidence.md). Direct third-party report retrieved, official key not authenticated. Related NORCET 9 and AIIMS Delhi 2019 leads not counted again. Historical adaptation inventory 23. Dedicated topic chapter markers checked, exact playback pending.
+
+## BPP — 28 November 2026
+
+[NORCET 9 Mains 27 September 2025 reported-key discrepancy adaptation](06F-BPP-Reported-Evidence.md). Direct third-party item retrieved. The reported 10% false-negative answer conflicts with standard teaching and is not adopted. Official key unavailable. Historical adaptation inventory 24. MCQ-oriented BPP description indexed, exact playback pending.
