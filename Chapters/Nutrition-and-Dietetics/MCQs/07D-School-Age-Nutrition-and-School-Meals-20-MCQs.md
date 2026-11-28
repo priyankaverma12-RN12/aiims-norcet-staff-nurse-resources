@@ -8,18 +8,18 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Breakfast access | **Type:** Original practice
 
-- **A.** Arrange an age-appropriate breakfast that can be eaten before departure or at an approved school breakfast service
+- **A.** Use a sweetened beverage as the routine complete breakfast
 - **B.** Add a larger evening meal while leaving the morning fasting pattern unchanged
-- **C.** Use a sweetened beverage as the routine complete breakfast
+- **C.** Arrange an age-appropriate breakfast that can be eaten before departure or at an approved school breakfast service
 - **D.** Wait for an abnormal weight measurement before discussing the meal schedule
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Arrange an age-appropriate breakfast that can be eaten before departure or at an approved school breakfast service**
+**Correct: C. Arrange an age-appropriate breakfast that can be eaten before departure or at an approved school breakfast service**
 
-- **A. Correct:** Subah jaldi bus hone par breakfast ka time miss ho sakta hai. Chhota balanced breakfast ya school mein available suitable breakfast se morning intake ka practical gap kam ho sakta hai.
+- **A. Incorrect:** Meetha drink energy de sakta hai, lekin complete breakfast ke protein aur doosre nutrients ko zaroori nahi ki cover kare.
 - **B. Incorrect:** Dinner badhane se agle din ka lamba morning gap directly solve nahi hota. Bacche ko din mein bhi regular khana chahiye.
-- **C. Incorrect:** Meetha drink energy de sakta hai, lekin complete breakfast ke protein aur doosre nutrients ko zaroori nahi ki cover kare.
+- **C. Correct:** Subah jaldi bus hone par breakfast ka time miss ho sakta hai. Chhota balanced breakfast ya school mein available suitable breakfast se morning intake ka practical gap kam ho sakta hai.
 - **D. Incorrect:** Weight normal hone par bhi meal timing ki problem ho sakti hai. Nurse ko preventive advice dene ke liye abnormal weight ka wait nahi karna chahiye.
 
 **Exam clue:** School timetable ko dekhkar breakfast ka feasible time plan karo.
@@ -34,17 +34,17 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Post-illness feeding | **Type:** Original practice
 
-- **A.** Return immediately to large compulsory meals regardless of tolerance
-- **B.** Offer small nutrient-dense meals more frequently and gradually restore usual intake
+- **A.** Offer small nutrient-dense meals more frequently and gradually restore usual intake
+- **B.** Return immediately to large compulsory meals regardless of tolerance
 - **C.** Maintain clear liquids until appetite is completely normal
 - **D.** Use a restrictive low-energy diet until the next scheduled school assessment
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Offer small nutrient-dense meals more frequently and gradually restore usual intake**
+**Correct: A. Offer small nutrient-dense meals more frequently and gradually restore usual intake**
 
-- **A. Incorrect:** Bada meal force karne se kam appetite wale bacche ke liye khana aur mushkil ho sakta hai. Quantity tolerance ke hisab se badhani chahiye.
-- **B. Correct:** Illness ke baad appetite kam ho sakti hai, lekin recovery ke liye energy aur nutrients chahiye. Chhoti frequent servings bacche ko dheere-dheere normal intake tak pahunchne mein madad karti hain.
+- **A. Correct:** Illness ke baad appetite kam ho sakti hai, lekin recovery ke liye energy aur nutrients chahiye. Chhoti frequent servings bacche ko dheere-dheere normal intake tak pahunchne mein madad karti hain.
+- **B. Incorrect:** Bada meal force karne se kam appetite wale bacche ke liye khana aur mushkil ho sakta hai. Quantity tolerance ke hisab se badhani chahiye.
 - **C. Incorrect:** Clear liquids se hydration mein madad mil sakti hai, par ye complete diet nahi hoti. Stable bacche ko tolerated nutritious food se rokna zaroori nahi hai.
 - **D. Incorrect:** Recovery mein bina indication energy restrict karne se lost intake cover nahi ho pata. Persistent poor intake ya weight loss par assessment karna chahiye.
 
@@ -56,27 +56,27 @@
 
 </details>
 
-### Q3. A trainee copies the ICMR-NIN 2024 illustrative 7–9-year menu and tells a parent that every eight-year-old must consume exactly 1,710 kcal daily. Which correction is most accurate?
+### Q3. A seven-year-old routinely brings a nutritionally suitable packed lunch but returns most of it uneaten. Direct observation shows that the child cannot open the tightly sealed containers independently. Which intervention best addresses the identified cause?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Interpretation of reference child menu | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Independent access to packed lunch | **Type:** Original practice
 
-- **A.** The figure is a therapeutic minimum for all children regardless of growth
-- **B.** The figure applies only to a child with an acute infection
-- **C.** It is a sample diet for a reference physically active child and is not an individual prescription
-- **D.** Every child should receive the same menu because age is the only determinant
+- **A.** Change to a more expensive meal without assessing packaging
+- **B.** Increase the quantity of food in the same containers
+- **C.** Record the child as refusing all food
+- **D.** Arrange easy-to-open safe packaging or supervised assistance at mealtime
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. It is a sample diet for a reference physically active child and is not an individual prescription**
+**Correct: D. Arrange easy-to-open safe packaging or supervised assistance at mealtime**
 
-- **A. Incorrect:** Illustrative menu ko therapeutic minimum samajhna sahi nahi hai. Illness ya nutrition deficit mein alag individualized assessment lag sakta hai.
-- **B. Incorrect:** Reference figure normally nourished active bacche ke example se aata hai. Acute infection ke treatment ke liye ye specific prescription nahi hai.
-- **C. Correct:** Guideline mein 7–9 years ka menu reference child ke liye diya gaya hai. Actual energy need body size, activity, growth aur clinical situation ke hisab se badal sakti hai.
-- **D. Incorrect:** Age useful information hai, par usi age ke bacchon ki body size aur activity bhi alag ho sakti hai. Isliye ek fixed menu sabko prescribe nahi karte.
+- **A. Incorrect:** Expensive food dene se container kholne ki difficulty solve nahi hoti. Nurse ko observed practical problem address karni chahiye.
+- **B. Incorrect:** Quantity badhane par bhi baccha container nahi khol payega. Pehle food tak actual access improve karna chahiye.
+- **C. Incorrect:** Food return hone ka reason refusal nahi bhi ho sakta hai. Direct observation se pata chala ki packaging barrier hai, isliye intake problem ko accurately document karo.
+- **D. Correct:** Bacche ko suitable food mila hai, lekin packaging ki wajah se woh kha nahi paa raha. Safe easy-open container ya supervised help se existing nutritious lunch accessible ban sakta hai.
 
-**Exam clue:** Reference menu aur patient-specific diet order ko alag samjho.
+**Exam clue:** Suitable food available hone ke baad bhi physical access assess karo.
 
-**Evidence:** [ICMR-NIN Dietary Guidelines for Indians 2024, Guideline 5, retrieved PDF text](https://www.nin.res.in/dietaryguidelines/pdfjs/locale/DGI24thJune2024fin.pdf). [Concepts](../Concepts/16-School-Age-Nutrition-and-School-Meals.md).
+**Evidence:** [CDC Making Time for Lunch, assistance with packaged items](https://www.cdc.gov/school-nutrition/school-meals/time-for-lunch.html). [Concepts](../Concepts/16-School-Age-Nutrition-and-School-Meals.md).
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -87,18 +87,18 @@
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Nonpunitive access to meals | **Type:** Original practice
 
 - **A.** Continue withholding lunch but give pupils a longer lesson break
-- **B.** Offer lunch only after pupils achieve a target examination score
+- **B.** Keep meal access independent of disciplinary consequences
 - **C.** Replace the missed lunch with a drink after school
-- **D.** Keep meal access independent of disciplinary consequences
+- **D.** Offer lunch only after pupils achieve a target examination score
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Keep meal access independent of disciplinary consequences**
+**Correct: B. Keep meal access independent of disciplinary consequences**
 
 - **A. Incorrect:** Extra break dene se meal na milne ki nutritional problem solve nahi hoti. School discipline ko khane se alag rakhna chahiye.
-- **B. Incorrect:** Marks par lunch depend karne se bacche ki food access academic performance se jud jaati hai. Nutritional need marks se decide nahi hoti.
+- **B. Correct:** Khana reward ya punishment nahi hona chahiye. Nurse ko aisa discipline approach support karna chahiye jisme meal access sabke liye bana rahe.
 - **C. Incorrect:** Baad mein drink dena missed nutritious meal ka reliable replacement nahi hai. Bacche ko regular lunch access milna chahiye.
-- **D. Correct:** Khana reward ya punishment nahi hona chahiye. Nurse ko aisa discipline approach support karna chahiye jisme meal access sabke liye bana rahe.
+- **D. Incorrect:** Marks par lunch depend karne se bacche ki food access academic performance se jud jaati hai. Nutritional need marks se decide nahi hoti.
 
 **Exam clue:** School meal ko punishment ka tool mat banao.
 
@@ -112,17 +112,17 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Hydration during school activity | **Type:** Original practice
 
-- **A.** Provide accessible safe drinking water and planned drinking opportunities during activity
-- **B.** Require all children to bring sports drinks instead of water
+- **A.** Require all children to bring sports drinks instead of water
+- **B.** Provide accessible safe drinking water and planned drinking opportunities during activity
 - **C.** Allow drinking only when a child reports marked thirst
 - **D.** Limit drinking during activity to reduce classroom toilet visits
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Provide accessible safe drinking water and planned drinking opportunities during activity**
+**Correct: B. Provide accessible safe drinking water and planned drinking opportunities during activity**
 
-- **A. Correct:** Activity ke dauran sweating se fluid loss ho sakta hai. Accessible safe water aur planned breaks bacchon ko dehydration se bachane mein madad karte hain.
-- **B. Incorrect:** Routine school activity ke liye sabko sports drinks dena zaroori nahi hai. Safe plain water accessible hona important hai.
+- **A. Incorrect:** Routine school activity ke liye sabko sports drinks dena zaroori nahi hai. Safe plain water accessible hona important hai.
+- **B. Correct:** Activity ke dauran sweating se fluid loss ho sakta hai. Accessible safe water aur planned breaks bacchon ko dehydration se bachane mein madad karte hain.
 - **C. Incorrect:** Bacche kabhi play mein busy hote hain aur thirst batane mein delay kar sakte hain. Sirf complaint ke baad water access dena inadequate ho sakta hai.
 - **D. Incorrect:** Toilet visits kam karne ke liye water rokna health need ko ignore karta hai. School ko drinking aur toilet access dono plan karne chahiye.
 
@@ -138,17 +138,17 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Seated meal-time calculation | **Type:** Original practice
 
-- **A.** 2 minutes
-- **B.** 4 minutes
+- **A.** 4 minutes
+- **B.** 2 minutes
 - **C.** 10 minutes
 - **D.** 14 minutes
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. 4 minutes**
+**Correct: A. 4 minutes**
 
-- **A. Incorrect:** Current 16 minutes mein 2 minutes add karne par 18 minutes milte hain. Ye stated 20-minute benchmark se abhi bhi kam hai.
-- **B. Correct:** Seat time woh time hai jab baccha food lekar baith chuka hota hai. 20 minus 16 karne par 4 minutes ka shortfall milta hai.
+- **A. Correct:** Seat time woh time hai jab baccha food lekar baith chuka hota hai. 20 minus 16 karne par 4 minutes ka shortfall milta hai.
+- **B. Incorrect:** Current 16 minutes mein 2 minutes add karne par 18 minutes milte hain. Ye stated 20-minute benchmark se abhi bhi kam hai.
 - **C. Incorrect:** 10 minutes add karna benchmark meet karega, par question minimum additional time pooch raha hai. Required difference sirf 4 minutes hai.
 - **D. Incorrect:** 14 minutes walking aur queue ka time hai, seated-time deficit nahi. Isliye poore transition time ko shortfall nahi ginte.
 
@@ -232,7 +232,7 @@
 
 **Exam clue:** Allergen-free recipe ke saath cross-contact prevention bhi zaroori hai.
 
-**Evidence:** [AAP Management of Food Allergy in Schools, clinical report](https://doi.org/10.1542/peds.2025-073168) (indexed clinical guidance). [Concepts](../Concepts/16-School-Age-Nutrition-and-School-Meals.md).
+**Evidence:** [AAP Management of Food Allergy in Schools, clinical report](https://doi.org/10.1542/peds.2025-073168) (indexed clinical guidance, supplemented by [AAP family guidance, retrieved text](https://www.healthychildren.org/English/ages-stages/gradeschool/school/Pages/managing-food-allergies-at-school-information-for-families.aspx)). [Concepts](../Concepts/16-School-Age-Nutrition-and-School-Meals.md).
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -243,22 +243,22 @@
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Nutrient adequacy of allergy substitution | **Type:** Original practice
 
 - **A.** Whether the drink has the same colour as milk
-- **B.** Whether the alternative is safe for the allergy and nutritionally appropriate within the child's overall plan
+- **B.** Whether it has the same package size, regardless of ingredients
 - **C.** Whether it has the highest added-sugar content
-- **D.** Whether it has the same package size, regardless of ingredients
+- **D.** Whether the alternative is safe for the allergy and nutritionally appropriate within the child's overall plan
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Whether the alternative is safe for the allergy and nutritionally appropriate within the child's overall plan**
+**Correct: D. Whether the alternative is safe for the allergy and nutritionally appropriate within the child's overall plan**
 
 - **A. Incorrect:** Colour same hone se ingredients ya nutrients same nahi hote. Allergy-safe aur nutritional suitability dono check karne chahiye.
-- **B. Correct:** Milk avoid karna allergy safety ke liye zaroori ho sakta hai. Substitute ka ingredient list aur protein, calcium jaise relevant nutrients clinician ya dietitian ke plan ke saath check karo.
+- **B. Incorrect:** Package size se allergen ya nutrient content ka pata nahi chalta. Actual label aur individualized plan compare karna zaroori hai.
 - **C. Incorrect:** Added sugar se taste badh sakta hai, lekin allergy safety ya adequate nutrition confirm nahi hoti. Sugar ko replacement choose karne ka main criterion nahi banana chahiye.
-- **D. Incorrect:** Package size se allergen ya nutrient content ka pata nahi chalta. Actual label aur individualized plan compare karna zaroori hai.
+- **D. Correct:** Milk avoid karna allergy safety ke liye zaroori ho sakta hai. Substitute ka ingredient list aur protein, calcium jaise relevant nutrients clinician ya dietitian ke plan ke saath check karo.
 
 **Exam clue:** Allergy substitution mein safety aur nutrient adequacy dono chahiye.
 
-**Evidence:** [AAP Management of Food Allergy in Schools, clinical report](https://doi.org/10.1542/peds.2025-073168) (indexed clinical guidance). [Concepts](../Concepts/16-School-Age-Nutrition-and-School-Meals.md).
+**Evidence:** [AAP Management of Food Allergy in Schools, clinical report](https://doi.org/10.1542/peds.2025-073168) (indexed clinical guidance, supplemented by [AAP family guidance, retrieved text](https://www.healthychildren.org/English/ages-stages/gradeschool/school/Pages/managing-food-allergies-at-school-information-for-families.aspx)). [Concepts](../Concepts/16-School-Age-Nutrition-and-School-Meals.md).
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -269,22 +269,22 @@
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** School trip dietary safety plan | **Type:** Original practice
 
 - **A.** Keep the emergency plan at school because the trip is short
-- **B.** Ask the child to skip all meals during the trip
-- **C.** Arrange safe meals, trained responsible staff and immediate access to the child's prescribed emergency medication according to the plan
+- **B.** Arrange safe meals, trained responsible staff and immediate access to the child's prescribed emergency medication according to the plan
+- **C.** Ask the child to skip all meals during the trip
 - **D.** Allow shared snacks as long as the child avoids visible allergens
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Arrange safe meals, trained responsible staff and immediate access to the child's prescribed emergency medication according to the plan**
+**Correct: B. Arrange safe meals, trained responsible staff and immediate access to the child's prescribed emergency medication according to the plan**
 
 - **A. Incorrect:** Allergic reaction school premises ke bahar bhi ho sakta hai. Plan school mein chhodne se trip par staff ko necessary instructions nahi milengi.
-- **B. Incorrect:** Poore din khana skip karwana nutrition access aur inclusion dono ko affect karta hai. Safe meal arrange karna better hai.
-- **C. Correct:** Trip se pehle staff ko allergy aur emergency plan samajhna chahiye. Safe food aur prescribed emergency medicine ki access se accidental exposure aur delayed response ka risk kam hota hai.
+- **B. Correct:** Trip se pehle staff ko allergy aur emergency plan samajhna chahiye. Safe food aur prescribed emergency medicine ki access se accidental exposure aur delayed response ka risk kam hota hai.
+- **C. Incorrect:** Poore din khana skip karwana nutrition access aur inclusion dono ko affect karta hai. Safe meal arrange karna better hai.
 - **D. Incorrect:** Shared snacks mein hidden allergen ya cross-contact ho sakta hai. Sirf visible ingredients avoid karna reliable safety measure nahi hai.
 
 **Exam clue:** Food-allergy plan school trips par bhi child ke saath applicable hota hai.
 
-**Evidence:** [AAP Management of Food Allergy in Schools, clinical report](https://doi.org/10.1542/peds.2025-073168) (indexed clinical guidance). [Concepts](../Concepts/16-School-Age-Nutrition-and-School-Meals.md).
+**Evidence:** [AAP Management of Food Allergy in Schools, clinical report](https://doi.org/10.1542/peds.2025-073168) (indexed clinical guidance, supplemented by [AAP family guidance, retrieved text](https://www.healthychildren.org/English/ages-stages/gradeschool/school/Pages/managing-food-allergies-at-school-information-for-families.aspx)). [Concepts](../Concepts/16-School-Age-Nutrition-and-School-Meals.md).
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -296,17 +296,17 @@
 
 - **A.** Count the discarded portions as fully consumed because they were served
 - **B.** Conclude that pupils do not require vegetables
-- **C.** Remove the vegetable category from the permanent menu
-- **D.** Investigate acceptability and actual consumption before testing a nutritionally comparable preparation
+- **C.** Investigate acceptability and actual consumption before testing a nutritionally comparable preparation
+- **D.** Remove the vegetable category from the permanent menu
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Investigate acceptability and actual consumption before testing a nutritionally comparable preparation**
+**Correct: C. Investigate acceptability and actual consumption before testing a nutritionally comparable preparation**
 
 - **A. Incorrect:** Serve ki gayi quantity aur actual intake same nahi hote. Leftover food ko consumed maan kar intake estimate karna galat hoga.
 - **B. Incorrect:** Ek unfamiliar dish pasand na aane se vegetable requirement khatam nahi hoti. Preparation ya acceptability ki problem samajhna chahiye.
-- **C. Incorrect:** Vegetable group remove karne se dietary variety kam ho sakti hai. Comparable acceptable preparation test karna better hai.
-- **D. Correct:** Menu paper par adequate ho sakta hai, lekin baccha agar dish nahi kha raha toh planned nutrients poore nahi milenge. Acceptability assess karke suitable recipe test ki ja sakti hai.
+- **C. Correct:** Menu paper par adequate ho sakta hai, lekin baccha agar dish nahi kha raha toh planned nutrients poore nahi milenge. Acceptability assess karke suitable recipe test ki ja sakti hai.
+- **D. Incorrect:** Vegetable group remove karne se dietary variety kam ho sakti hai. Comparable acceptable preparation test karna better hai.
 
 **Exam clue:** Planned menu aur consumed meal ko separate evaluate karo.
 
@@ -342,27 +342,27 @@
 
 </details>
 
-### Q14. A school proposes attractive posters about healthy foods as its only intervention, although suitable healthy meals are rarely available for purchase. Which policy correction is most appropriate under WHO school-food guidance?
+### Q14. A school has adopted a written rule limiting the sale of foods that do not support a healthy diet. Which audit finding most directly tests whether the canteen is complying with this rule?
 
-**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Limits of school nutrition nudges | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Observed compliance with school food standards | **Type:** Original practice
 
-- **A.** Use more posters and keep the food supply unchanged
-- **B.** Establish access to suitable foods and nutrition rules, then consider supportive choice-environment interventions
-- **C.** Classify posters alone as direct provision of school meals
-- **D.** Remove the healthier items whenever pupils choose other foods
+- **A.** The number of pupils who can recall the school's nutrition slogan
+- **B.** The number of staff who attended the launch ceremony
+- **C.** The actual foods and beverages offered for sale compared with the adopted criteria
+- **D.** The total number of printed copies of the written policy
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Establish access to suitable foods and nutrition rules, then consider supportive choice-environment interventions**
+**Correct: C. The actual foods and beverages offered for sale compared with the adopted criteria**
 
-- **A. Incorrect:** Poster awareness badha sakta hai, par unavailable food ko baccha select nahi kar sakta. Supply problem ko bhi solve karna zaroori hai.
-- **B. Correct:** Healthy choice tab practical hoti hai jab healthy food available ho. Standards aur provision base create karte hain, jinke saath supportive nudges use kiye ja sakte hain.
-- **C. Incorrect:** Direct provision ka matlab actual food ya drink provide karna hai. Information poster khud meal supply nahi karta.
-- **D. Incorrect:** Less healthy choice hone par healthier item hataana access aur reduce karega. Barrier ko identify karke suitable supply improve karna chahiye.
+- **A. Incorrect:** Slogan recall nutrition awareness measure kar sakta hai. Ye directly nahi batata ki canteen approved criteria follow kar rahi hai ya nahi.
+- **B. Incorrect:** Launch attendance se initial participation ka idea mil sakta hai. Lekin sale par daily rule follow ho raha hai ya nahi, ye measure nahi hota.
+- **C. Correct:** Canteen mein actually kaunse food aur drinks available hain, unko adopted criteria ke saath compare karo. Isse written rule aur actual implementation ka difference samajh aata hai.
+- **D. Incorrect:** Printed policy copies communication ka indicator hain. Actual food offering verify kiye bina compliance conclude nahi kar sakte.
 
-**Exam clue:** Nudge aur education healthy food availability ka substitute nahi hain.
+**Exam clue:** School standard ka implementation actual offered foods se check karo.
 
-**Evidence:** [WHO school food environments guideline, chapter 4](https://www.ncbi.nlm.nih.gov/books/NBK620641/). [Concepts](../Concepts/16-School-Age-Nutrition-and-School-Meals.md).
+**Evidence:** [WHO school food environments guideline, nutrition standards](https://www.ncbi.nlm.nih.gov/books/NBK620641/). [Concepts](../Concepts/16-School-Age-Nutrition-and-School-Meals.md).
 
 **YouTube MCQ practice:** Specific item verification pending.
 
@@ -374,17 +374,17 @@
 
 - **A.** Replace lunch with a larger serving of the same sweet drink
 - **B.** Skip lunch and provide a single meal after school
-- **C.** Offer an age-appropriate meal containing a staple, a protein-containing food and fruit or vegetables, with safe water
-- **D.** Prescribe a calorie-restricted diet without assessing growth or clinical needs
+- **C.** Prescribe a calorie-restricted diet without assessing growth or clinical needs
+- **D.** Offer an age-appropriate meal containing a staple, a protein-containing food and fruit or vegetables, with safe water
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: C. Offer an age-appropriate meal containing a staple, a protein-containing food and fruit or vegetables, with safe water**
+**Correct: D. Offer an age-appropriate meal containing a staple, a protein-containing food and fruit or vegetables, with safe water**
 
 - **A. Incorrect:** Sweet drink ka portion badhane se energy badh sakti hai, lekin protein aur dietary variety ki problem solve nahi hoti.
 - **B. Incorrect:** Lunch skip karne se school day ka food gap aur lamba ho sakta hai. Hungry child ko feasible nourishing meal chahiye.
-- **C. Correct:** Staple energy deta hai aur protein-containing food tissue growth ke liye useful hai. Fruit ya vegetables aur water add karne se meal varied banta hai bina unnecessary weight restriction ke.
-- **D. Incorrect:** Baccha grow kar raha hai, isliye bina assessment restrictive diet prescribe nahi karni chahiye. Pehle regular nourishing intake aur clinical need evaluate karo.
+- **C. Incorrect:** Baccha grow kar raha hai, isliye bina assessment restrictive diet prescribe nahi karni chahiye. Pehle regular nourishing intake aur clinical need evaluate karo.
+- **D. Correct:** Staple energy deta hai aur protein-containing food tissue growth ke liye useful hai. Fruit ya vegetables aur water add karne se meal varied banta hai bina unnecessary weight restriction ke.
 
 **Exam clue:** School-age meal quality improve karo, weight-loss diet automatically prescribe mat karo.
 
@@ -399,18 +399,18 @@
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Bullying-related meal avoidance | **Type:** Original practice
 
 - **A.** Ask the child to discuss the incident in front of the class immediately
-- **B.** Tell the child to stop bringing lunch to avoid attention
+- **B.** Explore the problem confidentially and coordinate appropriate school support so the child can eat safely
 - **C.** Post the child's food intake record publicly
-- **D.** Explore the problem confidentially and coordinate appropriate school support so the child can eat safely
+- **D.** Tell the child to stop bringing lunch to avoid attention
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. Explore the problem confidentially and coordinate appropriate school support so the child can eat safely**
+**Correct: B. Explore the problem confidentially and coordinate appropriate school support so the child can eat safely**
 
 - **A. Incorrect:** Public discussion se child embarrassment aur bullying ka risk badh sakta hai. Pehle private setting mein situation samajhna chahiye.
-- **B. Incorrect:** Lunch avoid karna food access ko aur kam karega. Nurse ko barrier address karne mein child ki help karni chahiye.
+- **B. Correct:** Private conversation se nurse reason, intake aur safety assess kar sakti hai. School support ke saath child ke liye respectful meal environment banana important hai.
 - **C. Incorrect:** Food record publicly dikhana privacy violate karta hai. Isse eating avoidance aur badh sakti hai.
-- **D. Correct:** Private conversation se nurse reason, intake aur safety assess kar sakti hai. School support ke saath child ke liye respectful meal environment banana important hai.
+- **D. Incorrect:** Lunch avoid karna food access ko aur kam karega. Nurse ko barrier address karne mein child ki help karni chahiye.
 
 **Exam clue:** Eating avoidance ke social cause ko confidentially assess karo.
 
@@ -424,17 +424,17 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** School garden to food skills | **Type:** Original practice
 
-- **A.** Have pupils identify edible produce and practise choosing a safe, varied meal using familiar foods
-- **B.** Use the garden only to rank pupils by body weight
+- **A.** Use the garden only to rank pupils by body weight
+- **B.** Have pupils identify edible produce and practise choosing a safe, varied meal using familiar foods
 - **C.** Require pupils to taste unidentified plants without supervision
 - **D.** Replace the school's regular meal programme with garden lessons
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Have pupils identify edible produce and practise choosing a safe, varied meal using familiar foods**
+**Correct: B. Have pupils identify edible produce and practise choosing a safe, varied meal using familiar foods**
 
-- **A. Correct:** Garden se bacchon ko pata chal sakta hai ki familiar vegetables kahan se aati hain aur meal mein kaise use hoti hain. Safe supervised activity practical food choice skill develop karti hai.
-- **B. Incorrect:** Body weight ranking se nutrition skill nahi sikhayi jaati aur stigma ho sakta hai. Learning ko food knowledge aur safe choices par focus karna chahiye.
+- **A. Incorrect:** Body weight ranking se nutrition skill nahi sikhayi jaati aur stigma ho sakta hai. Learning ko food knowledge aur safe choices par focus karna chahiye.
+- **B. Correct:** Garden se bacchon ko pata chal sakta hai ki familiar vegetables kahan se aati hain aur meal mein kaise use hoti hain. Safe supervised activity practical food choice skill develop karti hai.
 - **C. Incorrect:** Unknown plant edible hai ya nahi, ye confirm nahi hota. Bina supervision taste karwana food safety risk hai.
 - **D. Incorrect:** Garden learning meal provision ka replacement nahi hai. Bacchon ko actual nutritious meals aur education dono ki zarurat ho sakti hai.
 
@@ -451,18 +451,18 @@
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** School breakfast service timing | **Type:** Original practice
 
 - **A.** Provide nutrition posters to the late-arriving pupils only
-- **B.** Coordinate service hours or an approved alternate breakfast pickup with actual arrival times
+- **B.** Increase the number of dishes while keeping the inaccessible service window
 - **C.** Record all late-arriving pupils as having refused breakfast
-- **D.** Increase the number of dishes while keeping the inaccessible service window
+- **D.** Coordinate service hours or an approved alternate breakfast pickup with actual arrival times
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Coordinate service hours or an approved alternate breakfast pickup with actual arrival times**
+**Correct: D. Coordinate service hours or an approved alternate breakfast pickup with actual arrival times**
 
 - **A. Incorrect:** Poster breakfast ka importance bata sakta hai, par closed service ko accessible nahi banata. Timing ka practical barrier address karna chahiye.
-- **B. Correct:** Bus timing aur food service window align karne se eligible children ko breakfast mil sakta hai. Safe alternate distribution bhi local policy ke andar plan ki ja sakti hai.
+- **B. Incorrect:** Menu variety useful ho sakti hai, par closed counter se pupil ko food nahi milega. Pehle access window correct karo.
 - **C. Incorrect:** Late arrival ka matlab voluntary refusal nahi hota. Galat classification programme ki access problem ko hide kar sakti hai.
-- **D. Incorrect:** Menu variety useful ho sakti hai, par closed counter se pupil ko food nahi milega. Pehle access window correct karo.
+- **D. Correct:** Bus timing aur food service window align karne se eligible children ko breakfast mil sakta hai. Safe alternate distribution bhi local policy ke andar plan ki ja sakti hai.
 
 **Exam clue:** Meal service ko children's real arrival schedule ke saath align karo.
 
@@ -502,19 +502,19 @@
 
 **Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Scope of school food standards | **Type:** Original practice
 
-- **A.** Only donated meals are relevant to a school food environment
+- **A.** School food rules can address both provided meals and foods or beverages sold at school
 - **B.** Only meals eaten at home should be covered by school rules
 - **C.** A healthy lunch makes the quality of other school food irrelevant
-- **D.** School food rules can address both provided meals and foods or beverages sold at school
+- **D.** Only donated meals are relevant to a school food environment
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: D. School food rules can address both provided meals and foods or beverages sold at school**
+**Correct: A. School food rules can address both provided meals and foods or beverages sold at school**
 
-- **A. Incorrect:** Donated meal school food environment ka sirf ek part hai. Purchased items bhi children ki dietary choices ko influence karte hain.
+- **A. Correct:** School standards food provision ke saath sold food aur beverages ko bhi cover kar sakte hain. Local rules aur dietary guidance ke basis par implementation decide hota hai.
 - **B. Incorrect:** Home diet important hai, lekin school rules specifically school mein milne wale foods ko bhi address karte hain.
 - **C. Incorrect:** Healthy lunch useful hai, par school snacks aur drinks bhi daily intake mein contribute karte hain. Unki quality ignore karna incomplete approach hoga.
-- **D. Correct:** School standards food provision ke saath sold food aur beverages ko bhi cover kar sakte hain. Local rules aur dietary guidance ke basis par implementation decide hota hai.
+- **D. Incorrect:** Donated meal school food environment ka sirf ek part hai. Purchased items bhi children ki dietary choices ko influence karte hain.
 
 **Exam clue:** School food environment mein served aur sold dono items include ho sakte hain.
 
