@@ -1,10 +1,18 @@
 # Dedicated Mental Health Nursing manual claim
 
-State: CLAIMED
-Owner: mental-health-manual-20261128-0532Z
-Scope: Mental Health Group 02D neurological examination only, new topic files and chapter-local indexes. No shared tracker or PR changes.
-Claimed UTC: 2026-11-28T05:32:00Z
-Expiry UTC: 2026-11-28T06:02:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
+
+## Verified continuation — Group 02D, 28 November 2026
+
+- 30 original neurological examination MCQs, 2 Easy, 16 Medium and 12 Difficult editorial labels, 120 English options and 120 individual option reasons, 30 closed answer blocks. Answer distribution A8 B8 C7 D7. Bank commit 83838f7e04a378cae6673bfb07da766f80ba1c43, blob 4116c8c595e18ce821c4cac52189af1894ad9ce6. Exact normalized duplicate comparison against 133 earlier chapter original/reported stems passed. Cross-chapter semantic and independent clinical/difficulty audit pending.
+- Concepts 6bdad61d66061d1bbc11b4d7f532333ea9941204, original SVG 7ffb8f1e25a1a06f9c3269262e94cbd6c6ebbe64, one NORCET 5 Prelims Shift 2 reported adaptation f0bd8cc2e14533e36652d3c1c2901f0a03925a31. NPrep directly retrieved, no official paper/key claim. OpenStax and official GCS site direct pages consulted, including NT and component-specific documentation. Additional guideline and HPRCA/HPSSSB and GMCH leads indexed, full item/key verification pending.
+- Nine questions with qualified cranial-nerve topic-level MCQ video candidates, 21 original question-specific practice gaps, one broad reported-item video candidate. Direct YouTube opens failed/throttled. Exact mappings and playback not authenticated.
+- References 5e913ee5162a0e1b784c3af04a0b5b59e05b46d3, coverage map 0c02ac359b70d8dd802b5b2fe6ef5cd26e0d5e5a, evidence register 8f89fa25050334e0133f552a8eebf8e4fb4dc610, README debc02fa54246021ba062679c8b467e274971b18. Exact readbacks. All discovered formal and manual claims checked, disjoint OBG scope preserved. Both complete skills retrieved, SHA unchanged from preceding bounded review, fresh complete line-by-line reread not certified. AGENTS/Copilot and latest audit learnings fetched. No PR, global tracker or schedule changes. Earlier PR7/8 reconciliation caveats remain.
+- Current chapter-local total 154 original MCQs, 10 reported adaptations, 6 original diagrams, 0 of 1200 mock-exclusive questions. Next 02E EEG, then CT/MRI, laboratory investigations and psychometric tests, remaining groups and 10 original-only mocks. No chapter completion certified. Own claim released.
 
 ## Verified continuation — Group 02C, 28 November 2026
 
