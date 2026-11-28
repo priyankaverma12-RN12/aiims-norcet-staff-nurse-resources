@@ -1,12 +1,20 @@
 # Child Health Nursing manual chapter claim
 
-State: CLAIMED
-Owner: child-health-b03-priority-fixes-20261128-075807Z
-Scope: PR45 isolated existing 02D bronchiolitis, 02E EA/TEF, 02B UIP/AEFI, matching concept/evidence and candidate inventories only. No shared navigation, live counts, other owners or schedules.
-Claimed UTC: 2026-11-28T07:58:07Z
-Expiry UTC: 2026-11-28T08:28:07Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
-## Verified checkpoint — Batch 03 corrective audit
+## Verified checkpoint — Batch 03 priority continuation
+
+- Released owner: child-health-b03-priority-fixes-20261128-075807Z. Acquired at 75e1daecce4d56e4101ca65590eb228356c86d6f; prior owner release 17365c7b0dac9766b705a924704ea335045ded78.
+- Exact PR45 head: a7fb7dac64862b83021f2c3dd96d3cb5d07a4ab4; draft, unmerged. Seven candidate commits and exact file readbacks passed. Existing 02D six, 02E eight and 02B six question blocks corrected; 56 full rationales rewritten plus four targeted UIP/AEFI rationale edits. Ten difficulty labels recalibrated. Two concept guides updated including HPV 2026 programme. All original answer letters and correct option texts preserved.
+- Fresh ten-bank structural audit: 200 distinct normalized stems, 800 individual rationales, 200 aligned keys and closed answer sections, A/B/C/D 50 each, 24 Easy / 102 Medium / 74 Difficult; zero structural errors. No added originals. Inventory commit 7eaab2fed7a23e6dd74e130f8ccaf9a68b3aef5e and evidence ledger a7fb7dac64862b83021f2c3dd96d3cb5d07a4ab4. Prior four legacy originals, one reported adaptation, six SVGs and 01A/01B corrections preserved; no new edits to those files.
+- Prior comments 7236165646, 7236157796, 7236176948 addressed by actual targeted changes; no redundant comments. CAHS PDF pages 5–6 visually verified. Independent clinical and semantic review, uncovered INC topic and sibling overlap reconciliation, full video verification, latest-main CI, website and coordination gates not cleared. No new question authorship or integration. No other owners, schedules, live counts or learner-history changes.
+- Next: review 01C/01D/01E and remaining unaudited Batch02 questions, prioritize concrete independent findings. Expand up to 100 unique originals across five verified uncovered topics only once applicable gates pass. Do not repeat documented corrections without new evidence.
+
+## Previous verified checkpoint — Batch 03 corrective audit
 
 - Released owner: child-health-b03-20261128-0744Z. Lease acquired at da44c8f60241a891f3a87d8136063de8e03c776d; UTC 07:44:13 to 08:14:13 on 2026-11-28.
 - Draft PR45: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/45
