@@ -1,10 +1,20 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-carbohydrate-balance-20261128T1736Z
-Scope: Isolated PR35 additive carbohydrate foundational difficulty supplement only; no navigation, production, other job or schedule edits.
-Claimed UTC: 2026-11-28T17:36:03Z
-Expiry UTC: 2026-11-28T18:06:03Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — foundational carbohydrate difficulty supplement
+
+Candidate head: 5f48b1a2052f2bbec72d0caeb08f659402c2f8f4
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-carbohydrate-balance-20261128T1736Z
+
+Added six distinct Easy carbohydrate originals and 24 individual Roman Hinglish rationales under merged PR67, bank f9f1c526c23b8b8715402b568d13c62837717a9b blob 300b5029764fea30e43c513a34c9ebbe67151833. Exact remote readback, 6 aligned keys, 24 English options and rationales, 6 clues/evidence rows and closed answer blocks. Direct FAO dietary carbohydrate composition text verified. Zero normalized exact matches against 140 relevant prior Nutrition and Biochemistry stems. Carbohydrate topic now 6 Easy/16 Medium/4 Difficult, partial balancing. Prior 940 originals and all prior assets preserved; exact candidate delta two added Nutrition-local files, supplement and review. PR description verified.
+
+Staged inventory: 946 original MCQs, 3784 rationales, 47 base banks plus one six-item supplement, 30 guides and 30 SVGs. Four legacy originals and one reported adaptation separately preserved. 10C transfer already completed, not regenerated. Exact 10C review-head CI 46169077259 job 141053123293 failed mobile Progress-filter minimum 44px assertion at website/browser-smoke.py line 726; unit tests and catalog generation passed. Shared website issue to coordinate, not a demonstrated Nutrition-content failure. New exact-head CI 46171473790 pending at inspection. Full independent clinical/dietetic/regulatory and semantic review, INC depth, flagged 07D/07E corrections, AMB 2026, dedicated videos, PR7/8 release, latest-main reconciliation and integration gates remain outstanding. No merge or live/mock/PYQ credit. No other job, website, learner history or automation edits.
+
+Next: continue distinct foundational Easy/Medium deficit supplements for 01B proteins and 01C fats or genuine uncovered INC topics, after relevant adjacent-bank screening. Do not regenerate 10C or the six new 01A questions. Complete mandatory independent and integration gates before publication, and certify topic coverage before original-exclusive mocks and authenticated PYQs.
 
 ## Latest released checkpoint — 10C diarrhoea dietary care
 
