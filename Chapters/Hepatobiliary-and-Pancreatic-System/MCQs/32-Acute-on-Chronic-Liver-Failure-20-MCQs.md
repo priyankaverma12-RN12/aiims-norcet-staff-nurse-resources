@@ -329,53 +329,53 @@
 
 </details>
 
-### Q14. Which nursing action supports early recognition of infection during an ACLF admission when fever may be absent?
+### Q14. An ACLF patient develops new nosocomial septic shock after prolonged ICU support and broad-spectrum antibiotics. Which additional concern should the nurse communicate to the treating team?
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Monitor temperature alone once daily
-- **B.** Wait for a positive culture before notifying the team of deterioration
-- **C.** Trend clinical observations, new organ dysfunction and suspected infection findings, escalating changes promptly
-- **D.** Assume all leukocyte changes are harmless
+- **A.** A guarantee that the original antibiotic covers every pathogen
+- **B.** A reason to omit cultures because previous antibiotics were given
+- **C.** Possible invasive fungal infection and resistant bacterial infection requiring urgent reassessment
+- **D.** An automatic indication for antifungal prophylaxis in every cirrhosis patient
 
 <details><summary>Answer aur explanation dekho</summary>
 
-**Correct: C. Trend clinical observations, new organ dysfunction and suspected infection findings, escalating changes promptly**
+**Correct: C. Possible invasive fungal infection and resistant bacterial infection requiring urgent reassessment**
 
 **Option-wise explanation:**
-- **A (Galat):** Temperature alone occult infection detect nahi karti.
-- **B (Galat):** Culture result se pehle clinical deterioration urgent assessment maang sakti hai.
-- **C (Sahi):** Advanced liver disease mein immune response altered ho sakta hai. New organ dysfunction aur infection clues ko early recognize karna important hai.
-- **D (Galat):** Leukocyte changes infection ya inflammation ke context mein interpret hote hain.
+- **A (Galat):** Original regimen all pathogens cover kare aisi guarantee nahi hai. New infection ya resistance possible hai.
+- **B (Galat):** Prior antibiotic exposure culture yield affect kar sakti hai, lekin indicated cultures aur source assessment ab bhi important hain.
+- **C (Sahi):** Prolonged ICU support aur broad antibiotic exposure invasive fungal ya resistant bacterial infection ka risk badha sakte hain. New septic shock mein urgent source aur microbiological assessment, aur risk-based empirical treatment ka review chahiye.
+- **D (Galat):** Empirical antifungal therapy selected high-risk septic shock cases mein consider hoti hai. Har cirrhosis patient ko prophylaxis dena equivalent nahi hai.
 
-**Exam clue:** Do not rely on fever alone in ACLF.
+**Exam clue:** Reassess new septic shock for resistant and fungal causes rather than assuming the first regimen remains adequate.
 
-**Clinical reference:** [AASLD ACLF guidance](https://doi.org/10.1097/hep.0000000000000671). **YouTube MCQ practice:** specific verification pending.
+**Clinical reference:** [Clinical guidance](https://doi.org/10.1097/hep.0000000000000671). **YouTube MCQ practice:** specific verification pending.
 
 </details>
 
-### Q15. A critically ill ACLF patient has an elevated INR but no active bleeding. Which interpretation is most appropriate before an invasive procedure?
+### Q15. An immobile ACLF patient has elevated INR and no active bleeding. A colleague assumes that venous thromboembolism prevention is unnecessary. Which response is appropriate?
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Review procedure-specific bleeding risk, clinical findings and coagulation strategy with the team rather than using INR alone
-- **B.** INR precisely predicts all bleeding risk in cirrhosis
-- **C.** High INR ensures complete protection from thrombosis
-- **D.** Every abnormal INR requires automatic plasma correction regardless of context
+- **A.** Assess VTE and bleeding risks with the team and use individualized prophylaxis when appropriate
+- **B.** Elevated INR guarantees protection against venous thrombosis
+- **C.** Give full therapeutic anticoagulation to every ACLF patient
+- **D.** Use pharmacologic prophylaxis without assessing recent bleeding or platelet count
 
 <details><summary>Answer aur explanation dekho</summary>
 
-**Correct: A. Review procedure-specific bleeding risk, clinical findings and coagulation strategy with the team rather than using INR alone**
+**Correct: A. Assess VTE and bleeding risks with the team and use individualized prophylaxis when appropriate**
 
 **Option-wise explanation:**
-- **A (Sahi):** Cirrhosis mein procoagulant aur anticoagulant factors dono change hote hain. INR alone overall hemostasis ko fully describe nahi karta, procedure-specific assessment chahiye.
-- **B (Galat):** INR limited coagulation pathway measure karta hai, all bleeding risk nahi.
-- **C (Galat):** Thrombosis risk cirrhosis mein bhi exist karta hai.
-- **D (Galat):** Routine correction unnecessary transfusion aur volume risks cause kar sakti hai.
+- **A (Sahi):** Cirrhosis mein hemostasis rebalanced hoti hai aur venous thrombosis ka risk remain karta hai. Prophylaxis modality bleeding history, platelet count, renal function aur local protocol se individualize hoti hai.
+- **B (Galat):** INR anticoagulated state ka reliable complete measure nahi hai. High INR ke bawajood thrombosis possible hai.
+- **C (Galat):** Therapeutic dose anticoagulation confirmed indication aur risk assessment ke bina routine prevention ke liye appropriate nahi hai.
+- **D (Galat):** Recent bleeding aur thrombocytopenia prophylaxis selection affect kar sakte hain. Safety assessment ke bina drug administration appropriate nahi hai.
 
-**Exam clue:** INR alone is not a complete hemostatic assessment.
+**Exam clue:** Elevated INR does not remove VTE risk in ACLF.
 
-**Clinical reference:** [AASLD ACLF guidance](https://doi.org/10.1097/hep.0000000000000671). **YouTube MCQ practice:** specific verification pending.
+**Clinical reference:** [Clinical guidance](https://doi.org/10.14309/ajg.0000000000001595). **YouTube MCQ practice:** specific verification pending.
 
 </details>
 
