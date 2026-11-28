@@ -6,7 +6,7 @@
 
 ### Q1. A child develops superficial sores around the nose with golden honey-coloured crusts. Which disorder is most likely?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Herpes zoster
 - **B.** Tinea capitis
@@ -81,7 +81,7 @@ Fluctuance pus collection ka clue hai. Abscess mein source control ke liye clini
 
 ### Q4. A patient has severe leg pain disproportionate to the visible skin changes, rapidly worsening swelling and systemic toxicity. Which concern takes priority?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Possible necrotizing soft tissue infection requiring emergency surgical assessment
 - **B.** Stable uncomplicated contact dermatitis
@@ -131,7 +131,7 @@ Toe-web fissures bacteria ko entry point de sakte hain. Associated fungal infect
 
 ### Q6. A patient treated for lower-limb cellulitis develops confusion, tachypnea and hypotension. What is the priority nursing action?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Document the findings for the next routine clinic visit
 - **B.** Apply moisturizer and continue routine observations only
@@ -156,7 +156,7 @@ Confusion, fast breathing aur low BP possible systemic infection aur organ dysfu
 
 ### Q7. An adolescent has an annular itchy plaque with an advancing scaly edge and relative central clearing. Which diagnosis should be considered?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Nonbullous impetigo
 - **B.** Tinea corporis
@@ -256,7 +256,7 @@ Dermatophytes warm moist environment mein grow karte hain. Toe spaces dry rakhna
 
 ### Q11. An adult has intense nocturnal itching with burrows between the fingers and similar symptoms in family members. Which diagnosis is most likely?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
 
 - **A.** Seborrhoeic dermatitis
 - **B.** Plaque psoriasis
@@ -306,7 +306,7 @@ Scabies contacts symptoms aane se pehle bhi infested ho sakte hain. Simultaneous
 
 ### Q13. A resident with extensive crusted skin lesions and minimal itching is suspected of having crusted scabies. Which implication is most important?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Minimal itching excludes transmissible scabies
 - **B.** Standard moisturizer alone prevents institutional spread
@@ -356,7 +356,7 @@ Mites eliminate hone ke baad hypersensitivity ki wajah se itch kuch weeks persis
 
 ### Q15. An adult develops burning pain followed by grouped vesicles along one thoracic dermatome. Which mechanism explains the disorder?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Reactivation of latent varicella-zoster virus
 - **B.** Primary dermatophyte invasion of hair shafts
@@ -381,7 +381,7 @@ Varicella infection ke baad virus sensory ganglia mein latent reh sakta hai. Rea
 
 ### Q16. A hospital patient with disseminated herpes zoster requires which transmission-based precautions in addition to standard precautions?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Droplet precautions alone
 - **B.** Protective isolation only
@@ -406,7 +406,7 @@ Disseminated zoster mein VZV airborne aur lesion contact se transmit ho sakta ha
 
 ### Q17. A patient with shingles involving the forehead develops eye pain and visual disturbance. Which action is most appropriate?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Apply routine skin lotion and wait for spontaneous resolution
 - **B.** Arrange urgent ophthalmic and medical assessment
@@ -431,7 +431,7 @@ Ophthalmic division involvement eye structures ko affect kar sakta hai aur visio
 
 ### Q18. A patient reports persistent burning pain months after the shingles rash has healed. Which complication is most consistent?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟢 Easy · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** Postherpetic neuralgia
 - **B.** Recurrent impetigo confirmed by pain alone
@@ -456,7 +456,7 @@ Zoster nerve injury ke baad neuropathic pain rash resolve hone ke baad bhi persi
 
 ### Q19. A patient has pustules centred on hair follicles after shaving. Which finding best supports folliculitis rather than an abscess?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original NORCET / Staff Nurse practice
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · Original NORCET / Staff Nurse practice
 
 - **A.** One deep fluctuant cavity with surrounding swelling
 - **B.** A unilateral band of painful vesicles
