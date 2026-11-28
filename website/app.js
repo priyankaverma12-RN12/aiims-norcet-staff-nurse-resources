@@ -6,7 +6,15 @@ if(!path&&!params.has('progress')&&!params.has('metrics')&&location.hash==='#lib
 const libraryPage=params.get('library')==='1'&&!path&&params.get('progress')!=='1'&&params.get('metrics')!=='1';
 function safe(p){return typeof p==='string'&&p.startsWith('Chapters/')&&!/[?#%\\\u0000-\u001f]/.test(p)&&!p.split('/').some(x=>x==='..'||x==='.')}
 function route(p,hash=''){return '?doc='+encodeURIComponent(p)+hash;}
-async function read(p){const res=await fetch(raw+encodeRepoPath(p),{cache:'no-cache'});if(!res.ok)throw Error('Source unavailable ('+res.status+')');return res.text();}
+async function read(p){
+ const url=raw+encodeRepoPath(p);let failure;
+ for(let attempt=0;attempt<3;attempt++){
+  let res;try{res=await fetch(url,{cache:'no-cache'});if(res.ok)return await res.text()}catch(e){failure=e}
+  if(res&&!res.ok){failure=Error('Source unavailable ('+res.status+') for '+p);if(res.status!==429&&res.status<500)throw failure}
+  if(attempt<2)await new Promise(resolve=>setTimeout(resolve,350*(attempt+1)));
+ }
+ throw failure||Error('Source unavailable for '+p);
+}
 function storage(key,value){try{if(value!==undefined)localStorage.setItem(key,value);return localStorage.getItem(key)}catch{return null}}
 
 function node(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n}
@@ -203,4 +211,4 @@ mountProgressFilterIcon();
 mountMetricsFilterIcon();
 mountMobileReader();
 mountPageWelcome();
-(params.get('progress')==='1'?showProgress():params.get('metrics')==='1'?showMetrics():path?reader(path):home()).catch(e=>{const target=params.get('progress')==='1'?$('progress-status'):params.get('metrics')==='1'?$('metrics-status'):path?$('status'):libraryPage?$('count'):$('daily-study');target.textContent='This study page could not load. Your saved progress is safe.';target.classList.add('load-error');const actions=node('div',undefined,'load-recovery'),retry=node('button','Try again'),library=node('a','Back to Library');retry.type='button';retry.onclick=()=>location.reload();library.href='./?library=1';actions.append(retry,library);if(path&&safe(path)){const original=node('a','Open original study material');original.href=path.endsWith('/')?'https://github.com/'+repo+'/tree/main/'+encodeRepoPath(path):git+encodeRepoPath(path);original.target='_blank';original.rel='noopener noreferrer';actions.append(original)}target.after(actions)});
+(params.get('progress')==='1'?showProgress():params.get('metrics')==='1'?showMetrics():path?reader(path):home()).catch(e=>{console.error('Study page load failed:',e);const target=params.get('progress')==='1'?$('progress-status'):params.get('metrics')==='1'?$('metrics-status'):path?$('status'):libraryPage?$('count'):$('daily-study');target.textContent='This study page could not load. Your saved progress is safe.';target.classList.add('load-error');const actions=node('div',undefined,'load-recovery'),retry=node('button','Try again'),library=node('a','Back to Library');retry.type='button';retry.onclick=()=>location.reload();library.href='./?library=1';actions.append(retry,library);if(path&&safe(path)){const original=node('a','Open original study material');original.href=path.endsWith('/')?'https://github.com/'+repo+'/tree/main/'+encodeRepoPath(path):git+encodeRepoPath(path);original.target='_blank';original.rel='noopener noreferrer';actions.append(original)}target.after(actions)});
