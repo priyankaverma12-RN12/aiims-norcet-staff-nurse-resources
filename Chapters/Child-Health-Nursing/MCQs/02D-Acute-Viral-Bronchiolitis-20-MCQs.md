@@ -375,7 +375,7 @@ Original practice, not PYQs. Draft-only. Oxygen and hydration specifics refer to
 
 **Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/).
 
-**MCQ-practice evidence:** Dedicated question-specific MCQ video evidence pending.
+**MCQ-practice evidence:** [Nursing Wallah by PW NORCET 10 respiratory MCQ series](https://www.youtube.com/watch?v=tVX4Q7LwYu4&t=5905s) — indexed chapter 01:38:25 is bronchiolitis management; question-specific match/playback unverified.
 
 </details>
 
@@ -466,32 +466,29 @@ Original practice, not PYQs. Draft-only. Oxygen and hydration specifics refer to
 
 </details>
 
-### Q17. An infant has typical bronchiolitis and no evidence of bacterial infection. Which statement about antibiotics is most accurate?
+### Q17. A 6-month-old with typical bronchiolitis is assessed on the first day of increased work of breathing. The infant is currently stable and the caregiver assumes that respiratory symptoms should peak immediately. Which counselling statement reflects the RCH description of the usual course?
 
 **Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Acute viral bronchiolitis | **Type:** Original
 
-- **A.** Every infant with crackles requires an antibiotic
-- **B.** Antibiotics are not routinely indicated for the viral syndrome itself
-- **C.** Antibiotics directly reduce viral replication
-- **D.** Antibiotics replace hydration assessment
+- **A.** Severity is generally maximal before increased work of breathing begins, so no further monitoring is needed
+- **B.** Severity often peaks around day 2–3 after increased work of breathing begins, but the individual course may vary
+- **C.** All infants remain at maximum respiratory severity for at least four weeks
+- **D.** A persistent mild cough after breathing improves always indicates a new bacterial infection
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Antibiotics are not routinely indicated for the viral syndrome itself**
+**Correct: B. Severity often peaks around day 2–3 after increased work of breathing begins, but the individual course may vary**
 
-- **A.** Crackles bronchiolitis mein small-airway secretions aur atelectasis se bhi occur kar sakti hain. They do not independently prove bacterial pneumonia.
+- **A.** Coryza pehle aa sakti hai, lekin increased work of breathing ke baad illness worsen ho sakti hai. Isliye day one par stable assessment se future deterioration exclude nahi hoti. Caregiver ko monitoring aur return precautions samjhao.
+- **B.** RCH describes a usual peak around second or third day after increased breathing effort begins. Yeh average clinical pattern hai, fixed deadline nahi; individual severity and risk factors decide observation and reassessment.
+- **C.** Most children gradually improve over roughly 7–10 days, although symptoms may vary. Four weeks of maximal respiratory severity ko expected course assume karna unsafe hai; persistent severe illness needs review.
+- **D.** Mild cough recovery ke baad weeks tak persist kar sakti hai. Isolated residual cough necessarily bacterial infection establish nahi karti; new fever, worsening effort or poor feeding would change the assessment.
 
-- **B.** Typical bronchiolitis viral syndrome hai. Antibiotics bacterial infection evidence ya separate indication par use honi chahiye, not routine crackles or wheeze alone.
+**Exam clue:** Timing starts from increased work of breathing, not necessarily first nasal symptom.
 
-- **C.** Antibacterial drugs viruses ko directly target nahi karte. Routine use adverse effects and resistance risk badhata hai.
+**Reference:** [RCH bronchiolitis guideline: background and expected progression](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/).
 
-- **D.** Hydration management separate essential component hai. Antibiotic fluid needs assess ya correct nahi karti.
-
-**Exam clue:** Treat bacterial infection only when indicated, not bronchiolitis by default.
-
-**Reference:** [RCH clinical guideline: bronchiolitis](https://www.rch.org.au/clinicalguide/guideline_index/Bronchiolitis/).
-
-**MCQ-practice evidence:** Dedicated question-specific MCQ video evidence pending.
+**MCQ-practice evidence:** Exact item-specific video evidence pending.
 
 </details>
 
