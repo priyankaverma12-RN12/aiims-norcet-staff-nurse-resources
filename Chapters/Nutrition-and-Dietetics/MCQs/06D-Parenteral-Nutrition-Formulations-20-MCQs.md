@@ -6,7 +6,7 @@
 
 ### Q1. A hypothetical PN admixture includes 180 g of intravenous dextrose. Using 3.4 kcal per gram, how much energy does this component provide?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** 720 kcal
 - **B.** 180 kcal
@@ -28,7 +28,7 @@
 
 ### Q2. A hypothetical PN label lists 80 g amino acids. Assuming approximately 4 kcal/g, what energy contribution is included in total energy accounting?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** 272 kcal
 - **B.** 320 kcal
@@ -50,7 +50,7 @@
 
 ### Q3. A specific IV lipid emulsion label states 2 kcal/mL. What energy is provided by 250 mL of this product?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** 500 kcal
 - **B.** 250 kcal
@@ -72,7 +72,7 @@
 
 ### Q4. A hypothetical nutrition order provides 680 kcal from IV dextrose, 400 kcal from lipid emulsion and 360 kcal from amino acids. What is the nonprotein energy contribution?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** 1,440 kcal
 - **B.** 360 kcal
@@ -85,8 +85,8 @@
 
 - **A. Incorrect:** Yeh total energy hai, including amino acids. Question nonprotein energy pooch raha hai.
 - **B. Incorrect:** Yeh amino acid component hai, nonprotein calories nahi.
-- **C. Correct:** Nonprotein calories dextrose plus lipid se calculate hoti hain. 680 plus 400 equals 1080 kcal; amino acid energy total calories mein included but nonprotein mein exclude hoti hai.
-- **D. Incorrect:** 680 plus 360 is dextrose plus amino acid energy; lipid omit ho gayi.
+- **C. Correct:** Nonprotein calories dextrose plus lipid se calculate hoti hain. 680 plus 400 equals 1080 kcal. Amino acid energy total calories mein included but nonprotein mein exclude hoti hai.
+- **D. Incorrect:** 680 plus 360 is dextrose plus amino acid energy. Lipid omit ho gayi.
 
 **Evidence:** PN energy conversion references and stated hypothetical arithmetic; Q5 nitrogen conversion and Q17 lipid monitoring need additional source confirmation.
 
@@ -94,7 +94,7 @@
 
 ### Q5. A PN order specifies 96 g amino acids per day. Using the conventional approximation of 6.25 g protein-equivalent per gram nitrogen, what nitrogen amount is estimated?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** 15.36 g
 - **B.** 600 g
@@ -116,7 +116,7 @@
 
 ### Q6. A hypothetical adult weighs 60 kg and receives 180 g IV dextrose uniformly over 24 hours. What is the calculated glucose infusion rate, rounded to two decimal places?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** 3.00 mg/kg/min
 - **B.** 125 mg/kg/min
@@ -128,7 +128,7 @@
 **Correct: C. 2.08 mg/kg/min**
 
 - **A. Incorrect:** 180/60 = 3 g/kg/day, not mg/kg/min. Time and mass conversion required hai.
-- **B. Incorrect:** 180000/1440 = 125 mg/min total rate hai; weight se divide nahi hua.
+- **B. Incorrect:** 180000/1440 = 125 mg/min total rate hai. Weight se divide nahi hua.
 - **C. Correct:** 180 g equals 180000 mg. 24 hours equals 1440 min. 180000/(60 times 1440) = 2.083. This is arithmetic only, safe limit clinical status par depend karta hai.
 - **D. Incorrect:** Yeh gram-to-milligram conversion miss karta hai. Correct result about 2.08 hai.
 
@@ -138,7 +138,7 @@
 
 ### Q7. The same total dextrose mass is administered over 12 hours instead of 24 hours in a separately authorized cyclic PN plan. Holding body weight constant, what happens to the calculated average glucose infusion rate during infusion?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** It halves
 - **B.** It doubles
@@ -160,7 +160,7 @@
 
 ### Q8. A hypothetical constant-rate PN bag contains 1,680 mL and is prescribed over 24 hours. What rate corresponds to the order, assuming no taper or other adjustment?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** 24 mL/h
 - **B.** 84 mL/h
@@ -182,7 +182,7 @@
 
 ### Q9. A patient receives a PN bag containing amino acids and dextrose, with lipid emulsion supplied separately. Which distinction explains a three-in-one admixture?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** It contains only three different glucose concentrations
 - **B.** It is a mixture of three crystalloid electrolyte fluids only
@@ -204,7 +204,7 @@
 
 ### Q10. A multi-chamber PN product is proposed for a patient with unusual electrolyte and nutrient requirements. Which factor should determine whether an individualized compounded formula is needed?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** Whether the available product can safely meet the assessed individual nutrient and fluid requirements
 - **B.** Always use customized PN for every patient regardless of need
@@ -226,7 +226,7 @@
 
 ### Q11. A PN label lists energy and amino acids but gives no information about multivitamin or trace-element provision. What should be verified before administration?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** Assume all PN bags contain the same micronutrients
 - **B.** Add an arbitrary oral vitamin tablet to the IV bag
@@ -248,7 +248,7 @@
 
 ### Q12. A new calcium and phosphate addition is requested for a customized PN bag. Which pharmaceutical issue requires specialist verification before the admixture is prepared?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** Calcium and phosphate can always be combined at any concentration
 - **B.** Risk of incompatible precipitation and admixture instability
@@ -260,8 +260,8 @@
 **Correct: B. Risk of incompatible precipitation and admixture instability**
 
 - **A. Incorrect:** Precipitation potential exists. Universal compatibility assumption unsafe hai.
-- **B. Correct:** Calcium-phosphate compatibility formulation, concentrations and conditions par depend karti hai. Pharmacy validated compatibility checks required hain; bedside mixing inappropriate hai.
-- **C. Incorrect:** Admixture formulation properties matter karte hain; body temperature alone sufficient nahi.
+- **B. Correct:** Calcium-phosphate compatibility formulation, concentrations and conditions par depend karti hai. Pharmacy validated compatibility checks required hain. Bedside mixing inappropriate hai.
+- **C. Incorrect:** Admixture formulation properties matter karte hain. Body temperature alone sufficient nahi.
 - **D. Incorrect:** Precipitate unsafe ho sakta hai, including embolic risk. Stable admixture required hai.
 
 **Evidence:** ESPEN home parenteral nutrition practical guideline 2023, recommendation(s) 46.
@@ -270,7 +270,7 @@
 
 ### Q13. A lipid-containing all-in-one PN admixture shows visible separation into distinct oil and aqueous layers before use. What is the appropriate response?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** Infuse it rapidly before more separation occurs
 - **B.** Withhold the suspect bag and obtain pharmacy assessment of emulsion stability
@@ -282,7 +282,7 @@
 **Correct: B. Withhold the suspect bag and obtain pharmacy assessment of emulsion stability**
 
 - **A. Incorrect:** Rapid infusion instability resolve nahi karti and harm risk create kar sakti hai.
-- **B. Correct:** Separation possible physical instability indicate karti hai. Product ko independently shake and infuse nahi karein; replacement/assessment arrange karein.
+- **B. Correct:** Separation possible physical instability indicate karti hai. Product ko independently shake and infuse nahi karein. Replacement/assessment arrange karein.
 - **C. Incorrect:** Unapproved admixture changes compatibility and sterility compromise kar sakti hain.
 - **D. Incorrect:** Expiry date visible defect ko acceptable nahi banati. Bag inspection and pharmacy assessment needed hai.
 
@@ -292,7 +292,7 @@
 
 ### Q14. A clinician considers injecting a separate prescribed medicine into an all-in-one PN bag. What principle governs this decision?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** Every injectable medicine is compatible with PN
 - **B.** Compatibility can be inferred solely from the medicine's colour
@@ -314,7 +314,7 @@
 
 ### Q15. A home PN delivery arrives with evidence that required refrigerated transport conditions were not maintained. What is the safest action before using the customized admixture?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** Quarantine the affected supply and verify the documented temperature excursion with the pharmacy team
 - **B.** Refrigerate again and assume all stability is restored
@@ -336,7 +336,7 @@
 
 ### Q16. A home PN patient asks why a customized bag needs a patient-specific label in addition to the manufacturer's original packaging. Which information best explains the need?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** It replaces every prescription and medication verification step
 - **B.** It only records the company's advertising slogan
@@ -358,7 +358,7 @@
 
 ### Q17. A patient receives long-term PN and serial serum triglycerides rise after lipid provision changes. Which review is most directly relevant to the formulation?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** Assess lipid dose, product, infusion pattern and clinical contributors with the nutrition team
 - **B.** Increase lipid provision solely to correct the high result
@@ -369,7 +369,7 @@
 
 **Correct: A. Assess lipid dose, product, infusion pattern and clinical contributors with the nutrition team**
 
-- **A. Correct:** Triglyceride response lipid delivery and metabolic clearance se influenced ho sakta hai. Specialist review may adjust plan; independent cessation or dose change avoid karein.
+- **A. Correct:** Triglyceride response lipid delivery and metabolic clearance se influenced ho sakta hai. Specialist review may adjust plan. Independent cessation or dose change avoid karein.
 - **B. Incorrect:** High triglycerides further lipid administration risk indicate kar sakte hain. Cause and tolerance assess karna important hai.
 - **C. Incorrect:** Amino acids essential protein support provide karte hain. This does not directly address lipid tolerance.
 - **D. Incorrect:** Lipid infusion circulating triglyceride concentrations influence kar sakti hai. Monitoring relevant hai.
@@ -380,7 +380,7 @@
 
 ### Q18. A long-term PN patient has an increased requirement for fluid and electrolyte replacement because of new gastrointestinal losses. What formulation-management principle applies?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** Double all PN components automatically whenever stool output increases
 - **B.** Use only weight change to calculate exact electrolyte requirements
@@ -402,7 +402,7 @@
 
 ### Q19. A patient on cyclic PN develops low glucose shortly after an authorized infusion ends on repeated days. Which formulation-delivery issue should the team assess?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
 - **A.** Increase the preceding glucose rate independently
 - **B.** Stop monitoring glucose because PN has already ended
@@ -422,28 +422,30 @@
 
 </details>
 
-### Q20. A patient has gradually re-established adequate and tolerated oral plus enteral nutrition after PN. Which principle should govern discontinuation?
+### Q20. A clinically stable adult is expected to require PN for seven days, has no separate indication for central venous access, and is being considered for peripheral PN. Under NICE CG32, which additional formula property requires specific review?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Parenteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Parenteral formulations | **Type:** Original practice
 
-- **A.** Continue PN for a mandatory month after every patient meets oral targets
-- **B.** Review sustained nutritional adequacy and an authorized transition plan rather than imposing a fixed minimum PN duration
-- **C.** Stop all oral and enteral intake before reducing PN
-- **D.** Change route solely because a new bag has been ordered
+- **A.** Only the external bag colour
+- **B.** Tonicity, pH and compatibility of the peripheral formulation
+- **C.** The rule that every PN formulation may safely be infused into a peripheral vein
+- **D.** Only whether the bag has three chambers
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Review sustained nutritional adequacy and an authorized transition plan rather than imposing a fixed minimum PN duration**
+**Correct: B. Tonicity, pH and compatibility of the peripheral formulation**
 
-- **A. Incorrect:** No universal minimum duration once adequate alternatives established. Continued PN exposes patient to unnecessary risks.
-- **B. Correct:** NICE PN stop consider karta hai once adequate oral/EN support established. Individual metabolic safety, monitoring and transition matter karte hain.
-- **C. Incorrect:** Adequate alternative intake transition support karta hai. Removing it defeats nutrition plan.
-- **D. Incorrect:** Bag ordering does not establish current clinical indication. Reassess need and plan.
+- **A. Incorrect:** Bag colour does not establish peripheral vein tolerance or solute concentration.
+- **B. Correct:** Peripheral vein suitability sirf duration se decide nahi hoti. NICE short-term use mein catheter choice, formulation pH, tonicity and compatibility emphasize karta hai. Pharmacy and clinician approve the route.
+- **C. Incorrect:** Concentrated solutions can be unsuitable for peripheral administration. Product and local policy review important hai.
+- **D. Incorrect:** Number of chambers does not establish pH, tonicity, stability or route suitability.
 
-**Evidence:** NICE CG32 section 1.8.
+**Evidence:** NICE CG32 section 1.8.9.
 
 </details>
 
 ## Sources and evidence gaps
 
 - [ESPEN home parenteral nutrition 2023](https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Home_parenteral_nutrition.pdf), extracted recommendation text reviewed including formulation stability, labels, cold chain, cyclic delivery and monitoring; one screenshot retrieved (management/indication page). [NICE CG32](https://www.nice.org.uk/guidance/cg32/resources/guidance-nutrition-support-in-adults-pdf-975383198917), extracted section 1.8, screenshot cache miss. [Parenteral Nutrition in the Critically Ill Patient](https://pmc.ncbi.nlm.nih.gov/articles/PMC3064749/), indexed energy factors, not used for current dosing recommendations. [Saudi MOH adult PN guideline 2024](https://www.moh.gov.sa/en/Ministry/MediaCenter/Publications/Documents/CPG_Adult_PARENTERAL_NUTRITION_with_Appendix_Sept2024.pdf), indexed. Q5 nitrogen conversion, Q17 triglycerides and product-specific details need further source confirmation. No direct dose recommendation, bedside compounding or line-infection task reused. Independent clinical pharmacy review and dedicated item-level video evidence pending; no historical claims.
+
+- Q20 replaced the parallel EN discontinuation learning task with short-term peripheral PN formulation suitability, directly grounded in NICE 1.8.9. Dedicated practice lead: [VS Nursing Academy — Total Parenteral Nutrition MCQ Session for NORCET-11, Ritika Mam](https://www.youtube.com/watch?v=5qK9EhBaV0M). Indexed title and description confirm TPN question-solving focus. Exact Q1–20 match, playback and timestamps are pending, so no individual item is marked verified and no historical provenance inferred.

@@ -6,7 +6,7 @@
 
 ### Q1. Which nitrogen source characterizes a standard polymeric enteral formula?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** Only free amino acids
 - **B.** Only short peptides
@@ -28,7 +28,7 @@
 
 ### Q2. A patient with documented digestive impairment is being evaluated for a semi-elemental formula. Which composition distinguishes this formula from a standard intact-protein product?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** Protein supplied mainly as smaller peptides
 - **B.** Protein supplied entirely as intact casein in every product
@@ -40,7 +40,7 @@
 **Correct: A. Protein supplied mainly as smaller peptides**
 
 - **A. Correct:** Hydrolysed protein peptides ke form mein ho sakta hai, so digestion requirements differ. Specialist decides whether clinical benefit expected hai.
-- **B. Incorrect:** Intact protein standard polymeric pattern hai; semi-elemental category partial hydrolysis use karti hai.
+- **B. Incorrect:** Intact protein standard polymeric pattern hai. Semi-elemental category partial hydrolysis use karti hai.
 - **C. Incorrect:** Glucose energy provide karta hai but semi-elemental formula amino acid needs bhi address karti hai.
 - **D. Incorrect:** Electrolyte solution complete enteral nutrition formula nahi hota.
 
@@ -50,7 +50,7 @@
 
 ### Q3. Which ingredient form differentiates an elemental formula from a peptide-based formula?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** Long-chain intact protein exclusively
 - **B.** Only short protein peptides
@@ -72,7 +72,7 @@
 
 ### Q4. A fluid-restricted adult has a prescribed energy target of 1,500 kcal from enteral formula. Which formula volume would mathematically provide this target at 1.5 kcal/mL?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** 2,250 mL
 - **B.** 1,000 mL
@@ -94,7 +94,7 @@
 
 ### Q5. Two formulas both supply 1,800 kcal. Formula X provides 1.2 kcal/mL and Formula Y provides 1.8 kcal/mL. How much less formula volume does Y require?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** 300 mL
 - **B.** 500 mL
@@ -116,7 +116,7 @@
 
 ### Q6. A prescribed enteral formula supplies 82 mL of water per 100 mL. If 1,250 mL formula is delivered, how much water does the formula itself provide?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** 1,250 mL
 - **B.** 225 mL
@@ -127,7 +127,7 @@
 
 **Correct: D. 1,025 mL**
 
-- **A. Incorrect:** Formula volume mein dissolved nutrients bhi hain; water percentage given hai.
+- **A. Incorrect:** Formula volume mein dissolved nutrients bhi hain. Water percentage given hai.
 - **B. Incorrect:** Yeh difference between formula volume and water contribution hai, actual water nahi.
 - **C. Incorrect:** 820 mL would be the water in 1000 mL formula, not 1250.
 - **D. Correct:** 1250 times 0.82 equals 1025 mL water. Total formula volume aur free water contribution ko confuse nahi karein.
@@ -138,7 +138,7 @@
 
 ### Q7. A feed label lists 6 g protein per 100 mL. The prescribed daily formula volume is 1,400 mL. What protein amount would be delivered if the full volume is given?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** 84 g
 - **B.** 60 g
@@ -160,7 +160,7 @@
 
 ### Q8. A formula provides 1.5 kcal/mL and 7 g protein per 100 mL. For a daily target of 1,500 kcal, the selected volume is 1,000 mL. Which statement is correct if the independent protein target is 80 g/day?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** Both targets are met exactly
 - **B.** Protein target is met but energy is 500 kcal short
@@ -182,7 +182,7 @@
 
 ### Q9. An enteral prescription specifies 1,200 mL to be delivered over 20 actual feeding hours. What constant rate corresponds to this order if there is no ramping or other adjustment?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** 50 mL/h
 - **B.** 100 mL/h
@@ -204,7 +204,7 @@
 
 ### Q10. An enteral feed runs at 50 mL/h for 17 recorded hours. The formula contains 1.2 kcal/mL. What actual energy delivery should be documented?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** 1,440 kcal
 - **B.** 850 kcal
@@ -216,7 +216,7 @@
 **Correct: C. 1,020 kcal**
 
 - **A. Incorrect:** Yeh 24 hours of uninterrupted delivery assume karta hai, actual hours 17 hain.
-- **B. Incorrect:** 850 actual mL hai; kcal density multiply karni hogi.
+- **B. Incorrect:** 850 actual mL hai. Kcal density multiply karni hogi.
 - **C. Correct:** 50 times 17 = 850 mL. 850 times 1.2 = 1020 kcal. Planned volume ke bajay actual delivered amount record karein.
 - **D. Incorrect:** This would correspond to 500 mL formula, not 850 mL.
 
@@ -226,7 +226,7 @@
 
 ### Q11. A formula is nutritionally complete only when consumed at its stated minimum daily volume. A patient receives a substantially smaller volume because of tolerance limitations. Which concern warrants nutrition-team review?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** Micronutrient adequacy may not be achieved at the reduced delivered volume
 - **B.** All micronutrient needs are met by any amount of complete formula
@@ -238,7 +238,7 @@
 **Correct: A. Micronutrient adequacy may not be achieved at the reduced delivered volume**
 
 - **A. Correct:** Complete formula label usually specified reference amount se linked hota hai. Lower volume may deliver insufficient vitamins/minerals as well as energy and protein.
-- **B. Incorrect:** Small volume proportionally fewer nutrients supplies; label claim arbitrary quantity par apply nahi hota.
+- **B. Incorrect:** Small volume proportionally fewer nutrients supplies. Label claim arbitrary quantity par apply nahi hota.
 - **C. Incorrect:** Energy, protein, electrolytes and micronutrients also vary with volume.
 - **D. Incorrect:** Supplement plan actual gaps and clinical condition se determined hota hai, arbitrary excess unsafe ho sakta hai.
 
@@ -248,7 +248,7 @@
 
 ### Q12. A patient needs additional protein but already receives the prescribed energy target from a standard formula. Which type of product might be considered in a specialist-designed adjustment?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** A carbohydrate-only modular product as the sole protein source
 - **B.** A protein modular supplement with reviewed nutrient and energy contribution
@@ -270,7 +270,7 @@
 
 ### Q13. An adult on home enteral nutrition is stable without diarrhoea, constipation or diabetes. Which product approach does ESPEN generally recommend under specialist direction?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** A standard commercial enteral formula
 - **B.** An elemental formula for every patient irrespective of digestion
@@ -282,7 +282,7 @@
 **Correct: A. A standard commercial enteral formula**
 
 - **A. Correct:** ESPEN 2022 standard commercial formula ko suitable default maanta hai unless specific condition requires modification. Individual prescription still necessary hai.
-- **B. Incorrect:** Elemental formula specific cases mein considered ho sakti hai; universal default nahi.
+- **B. Incorrect:** Elemental formula specific cases mein considered ho sakti hai. Universal default nahi.
 - **C. Incorrect:** Renal formulation electrolyte, protein and energy composition modify kar sakti hai, but indication chahiye.
 - **D. Incorrect:** Modular supplement complete balanced diet ka automatic substitute nahi.
 
@@ -292,7 +292,7 @@
 
 ### Q14. A clinically stable home-enteral patient has constipation after assessment of hydration, medicines and other causes. Which formulation characteristic is supported by ESPEN if appropriate for the patient?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** Universal removal of all fibre without assessment
 - **B.** Fibre-containing enteral formula
@@ -314,7 +314,7 @@
 
 ### Q15. A home enteral patient has diabetes and persistent post-feed glucose excursions. Which formula feature may be considered under ESPEN guidance alongside medication review?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** More rapidly absorbable sugars as the only carbohydrate source
 - **B.** Eliminate all protein from the feed
@@ -336,7 +336,7 @@
 
 ### Q16. A patient on a standard commercial formula requests homemade blenderized feeding for cultural reasons. Which planning issue requires specialist assessment before changing the formulation?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** Assume all blended meals have identical nutrient content
 - **B.** Choose only the colour of the blended meal
@@ -349,7 +349,7 @@
 
 - **A. Incorrect:** Recipes differ in water and nutrient quantity, so exact equivalence assume nahi karte.
 - **B. Incorrect:** Colour viscosity or nutrient adequacy establish nahi karta.
-- **C. Correct:** Blended food variable composition and particle size rakh sakta hai. Hygiene, nutrition analysis and tube compatibility check karein; patient preference respect karein.
+- **C. Correct:** Blended food variable composition and particle size rakh sakta hai. Hygiene, nutrition analysis and tube compatibility check karein. Patient preference respect karein.
 - **D. Incorrect:** Recipe useful hai but actual intake, tolerance and safety monitoring still required hai.
 
 **Evidence:** ESPEN home enteral nutrition practical guideline 2022, products and monitoring sections.
@@ -358,7 +358,7 @@
 
 ### Q17. A nutrition formula label specifies its concentration per 100 mL as prepared. A caregiver uses extra water contrary to the recipe to make the same final volume. Which consequence is most relevant?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** Energy density necessarily rises when extra water is added
 - **B.** Protein density remains exactly unchanged regardless of preparation
@@ -378,31 +378,31 @@
 
 </details>
 
-### Q18. A hospital receives a product marketed as a concentrated enteral formula and another as an isocaloric standard formula. What label information is needed to compare their fluid contributions fairly?
+### Q18. A tube-fed adult with documented fat maldigestion is being considered for a formula with a larger proportion of medium-chain triglycerides. Which property is relevant to this selection?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
-- **A.** Only whether both containers have the same cap colour
-- **B.** Water content per unit volume and the volume required to meet the same energy target
-- **C.** Only the total grams of sodium per bottle
-- **D.** Assume both provide the same water whenever calories match
+- **A.** Medium-chain triglycerides provide no energy
+- **B.** Medium-chain triglycerides can be absorbed with less reliance on the usual long-chain fat digestive and transport pathways
+- **C.** All medium-chain triglycerides must first be converted into glucose inside the feeding container
+- **D.** A formula rich in MCT automatically meets every nutrient need regardless of the volume given
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Water content per unit volume and the volume required to meet the same energy target**
+**Correct: B. Medium-chain triglycerides can be absorbed with less reliance on the usual long-chain fat digestive and transport pathways**
 
-- **A. Incorrect:** Cap colour water contribution ka valid indicator nahi hai.
-- **B. Correct:** Same kcal target ke liye different volumes chahiye ho sakte hain. Free water per mL also differs, so both quantities calculate karein.
-- **C. Incorrect:** Sodium value fluid needs influence kar sakti hai but actual water contribution calculate nahi karti.
-- **D. Incorrect:** Concentrated formula often less water per kcal provide karti hai. Product-specific data necessary hain.
+- **A. Incorrect:** MCT energy-yielding fats hain. Fat maldigestion mein selected formulation consideration ho sakti hai.
+- **B. Correct:** MCT digestion and absorption long-chain triglycerides se differ kar sakti hai. Formula choice clinical cause and actual tolerance ke according hoti hai. MCT essential fatty acid requirement alone fully meet nahi karti.
+- **C. Incorrect:** MCT food mein glucose mein convert nahi hote before administration. Metabolism absorption ke baad occur karta hai.
+- **D. Incorrect:** Fat type alone completeness, protein, vitamins or mineral adequacy establish nahi karta. Actual formula composition and intake assess karein.
 
-**Evidence:** MSD Manual Enteral Nutrition (indexed); formula label or hypothetical arithmetic as specified.
+**Evidence:** Dietitians Australia enteral manual 2018, indexed; mechanistic and specialist source review pending.
 
 </details>
 
 ### Q19. A patient with an established long-term enteral prescription begins to tolerate adequate oral intake consistently. Which criterion should guide team evaluation of whether the enteral formulation is still needed?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** The patient's request alone without assessment of intake or safety
 - **B.** A fixed number of feeding days regardless of recovery
@@ -415,7 +415,7 @@
 
 - **A. Incorrect:** Preference important hai but adequacy and safety verify karni chahiye.
 - **B. Incorrect:** Support duration indication and response se decide hoti hai, calendar alone nahi.
-- **C. Correct:** NICE adequate oral intake established hone par tube nutrition stop evaluate karne ko kehta hai. Single good meal enough proof nahi; safe swallowing and clinical status confirm karein.
+- **C. Correct:** NICE adequate oral intake established hone par tube nutrition stop evaluate karne ko kehta hai. Single good meal enough proof nahi. Safe swallowing and clinical status confirm karein.
 - **D. Incorrect:** Cost relevant ho sakta hai but nutrition need and route safety primary clinical criteria hain.
 
 **Evidence:** NICE CG32 section 1.7.3.
@@ -424,7 +424,7 @@
 
 ### Q20. A home enteral nutrition team is evaluating whether a formulation change improved care rather than only increasing prescribed calories. Which outcome set is most relevant?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Enteral formulations | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Enteral formulations | **Type:** Original practice
 
 - **A.** Actual nutrient delivery, hydration, gastrointestinal tolerance and agreed clinical outcomes
 - **B.** Only the number of containers purchased
@@ -447,3 +447,5 @@
 ## Sources and evidence gaps
 
 - [ESPEN home enteral nutrition 2022](https://www.espen.org/files/ESPEN-Guidelines/ESPEN_practical_guideline_Home_enteral_nutrition.pdf), extracted product and monitoring recommendation text checked; screenshot returned no usable page. [NICE CG32](https://www.nice.org.uk/guidance/cg32/resources/guidance-nutrition-support-in-adults-pdf-975383198917), PDF text retrieved, screenshot cache miss. [MSD enteral nutrition](https://www.msdmanuals.com/professional/nutritional-disorders/nutritional-support/enteral-nutrition?ruleredirectid=743autoredirectid%3D25240), indexed formula classifications, free-water data and density guidance; direct cache miss. [Dietitians Australia enteral nutrition manual](https://member.dietitiansaustralia.org.au/Common/Uploaded%20files/DAA/Resource_Library/2020/DAA_Enteral_nutrition_manual_NSIG_2018.pdf), indexed corroborating formula types. Actual product labels, specialist clinical review, local policy and independent semantic calibration pending. No dedicated verified MCQ video or historical evidence.
+
+- Q18 replaced the repeated energy-density/water comparison with MCT formulation selection. The 2018 manual supports the formulation lead at index level, and the mechanistic detail needs independent source confirmation. No bedside tube-care task credited.

@@ -6,7 +6,7 @@
 
 ### Q1. An adult is preparing for elective major abdominal surgery and reports poor intake for two months. Which step should occur during surgical planning rather than only after the operation?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Wait for a postoperative complication before assessing nutrition
 - **B.** Use the planned incision size as the sole nutrition indicator
@@ -19,7 +19,7 @@
 
 - **A. Incorrect:** Early risk recognition ka benefit miss ho jayega. Assessment surgery planning ka part hai.
 - **B. Incorrect:** Incision size patient intake aur tissue reserves establish nahi karta.
-- **C. Incorrect:** Long-term intake and nutritional status relevant hain; single meal sufficient nahi.
+- **C. Incorrect:** Long-term intake and nutritional status relevant hain. Single meal sufficient nahi.
 - **D. Correct:** ESPEN 2025 major surgery se pehle nutritional assessment emphasize karta hai. Poor intake ko early identify karne se optimization possible hoti hai.
 
 **Evidence:** ESPEN clinical nutrition in surgery 2025, recommendation 6.
@@ -28,7 +28,7 @@
 
 ### Q2. A severely malnourished patient is scheduled for nonurgent major surgery. Under ESPEN 2025, what preoperative nutritional therapy period should be considered when clinically feasible?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** 10–14 days, even if the operation is postponed by the surgical team
 - **B.** Only the final two hours before surgery
@@ -50,7 +50,7 @@
 
 ### Q3. A patient with severe nutritional risk is awaiting elective surgery but cannot receive adequate oral or enteral nutrition because of obstructing disease. What specific route should be considered by the team?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Unrestricted solid meals despite the obstruction
 - **B.** Maintenance saline as complete nutrition
@@ -72,7 +72,7 @@
 
 ### Q4. A low-aspiration-risk adult follows the anaesthetist's approved fasting plan for elective surgery. Under ESPEN 2025's general recommendation, when may permitted clear liquids be consumed until?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Six hours before anaesthesia in every low-risk patient
 - **B.** Two hours before anaesthesia begins
@@ -84,7 +84,7 @@
 **Correct: B. Two hours before anaesthesia begins**
 
 - **A. Incorrect:** Six-hour interval solid food context se associated hai. Clear liquids ka specified interval different hai.
-- **B. Correct:** Named guidance low-risk patients mein clear liquids ka two-hour interval describe karti hai. Actual anaesthesia instructions override; milk or opaque nutritional drinks automatically clear nahi.
+- **B. Correct:** Named guidance low-risk patients mein clear liquids ka two-hour interval describe karti hai. Actual anaesthesia instructions override. Milk or opaque nutritional drinks automatically clear nahi.
 - **C. Incorrect:** Two-hour reference interval ignore karna safe nahi. Individual instructions follow karein.
 - **D. Incorrect:** Prolonged universal liquid fasting routine recommendation nahi hai.
 
@@ -94,7 +94,7 @@
 
 ### Q5. A patient with suspected diabetic gastroparesis is listed for elective major abdominal surgery. What is the appropriate approach to an enhanced-recovery carbohydrate drink order?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Administer the same carbohydrate load as every low-risk patient
 - **B.** Flag the aspiration and metabolic risk for anaesthesia-team review before giving the drink
@@ -106,7 +106,7 @@
 **Correct: B. Flag the aspiration and metabolic risk for anaesthesia-team review before giving the drink**
 
 - **A. Incorrect:** Risk stratification necessary hai. Standard protocol blindly copy nahi karna chahiye.
-- **B. Correct:** Gastroparesis delayed emptying cause kar sakti hai. ESPEN preoperative carbohydrate loading selected patients ke liye hai; suspected gastroparesis mein avoid/review important hai.
+- **B. Correct:** Gastroparesis delayed emptying cause kar sakti hai. ESPEN preoperative carbohydrate loading selected patients ke liye hai. Suspected gastroparesis mein avoid/review important hai.
 - **C. Incorrect:** High-fat solid food emptying further delay kar sakta hai. This is not a safer alternative.
 - **D. Incorrect:** BP gastric contents or aspiration risk directly measure nahi karta.
 
@@ -116,7 +116,7 @@
 
 ### Q6. Why is preoperative carbohydrate loading selectively used in some enhanced-recovery pathways for major surgery?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** To guarantee that postoperative diabetes cannot develop
 - **B.** To sterilize the stomach before surgery
@@ -138,7 +138,7 @@
 
 ### Q7. A fully conscious, haemodynamically stable patient after uncomplicated colorectal surgery has no contraindication to the surgeon-approved feeding plan. Which general principle is supported by ESPEN 2025?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Resume oral or tube nutrition early according to tolerance and the approved plan
 - **B.** Wait for a bowel movement in every patient before considering any feeding
@@ -160,7 +160,7 @@
 
 ### Q8. A patient is expected to be unable to eat orally for six perioperative days. Which action matches the ESPEN 2025 general nutritional therapy threshold?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Wait until actual weight loss exceeds 20%
 - **B.** Use only a fixed maintenance glucose infusion as complete feeding
@@ -182,7 +182,7 @@
 
 ### Q9. A malnourished surgical patient is unlikely to meet oral energy needs and has a usable gastrointestinal tract. According to ESPEN 2025 recommendation 28, what timeframe is generally targeted for starting postoperative enteral nutrition?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** After at least two weeks in every patient
 - **B.** Only after hospital discharge
@@ -204,7 +204,7 @@
 
 ### Q10. A patient has a planned nutrition target of 1,800 kcal/day but has consumed 700 kcal/day orally for eight days during surgical recovery. What feature makes the situation concerning under ESPEN 2025?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Intake is exactly 50% of target
 - **B.** Intake is less than half of target for more than seven days
@@ -226,7 +226,7 @@
 
 ### Q11. A patient with a 2,000-kcal planned daily target receives 500 kcal orally and 900 kcal from tube nutrition. What remaining energy deficit should the team review?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** 600 kcal
 - **B.** 1,500 kcal
@@ -248,7 +248,7 @@
 
 ### Q12. A surgical patient receives oral and enteral nutrition but remains below half of the planned energy needs despite three to four days of appropriate efforts. Which additional route does ESPEN 2025 suggest evaluating?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Stop all tolerated enteral intake solely because the target is unmet
 - **B.** Use intravenous water alone as the missing calories
@@ -261,7 +261,7 @@
 
 - **A. Incorrect:** Combination can preserve feasible gut use. Complete cessation necessarily required nahi.
 - **B. Incorrect:** Water calories or amino acids provide nahi karta.
-- **C. Correct:** R10 deficit persistent ho toh combined route support consider karta hai. PN automatic order nahi; indications and complications specialist assess karein.
+- **C. Correct:** R10 deficit persistent ho toh combined route support consider karta hai. PN automatic order nahi. Indications and complications specialist assess karein.
 - **D. Incorrect:** Micronutrients alone energy-protein deficit address nahi karte.
 
 **Evidence:** ESPEN clinical nutrition in surgery 2025, recommendation 10.
@@ -270,7 +270,7 @@
 
 ### Q13. Which description best matches immunonutrition in the ESPEN 2025 major tumour surgery context?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** A selected oral or enteral formula enriched with nutrients such as arginine, omega-3 fatty acids and nucleotides
 - **B.** An ordinary antibiotic dissolved in every feed
@@ -281,7 +281,7 @@
 
 **Correct: A. A selected oral or enteral formula enriched with nutrients such as arginine, omega-3 fatty acids and nucleotides**
 
-- **A. Correct:** Immunonutrition special formula composition hai. Indication and timing surgical nutrition team determine karti hai; universal use nahi.
+- **A. Correct:** Immunonutrition special formula composition hai. Indication and timing surgical nutrition team determine karti hai. Universal use nahi.
 - **B. Incorrect:** Antibiotic infection treatment hai, immunonutrient formula composition nahi.
 - **C. Incorrect:** Arginine amino acid hai. Immunonutrition specified nutrients include kar sakti hai.
 - **D. Incorrect:** Concentrated sugar alone named immunonutrition formulation meet nahi karti.
@@ -292,7 +292,7 @@
 
 ### Q14. A patient with gastrointestinal cancer is prescribed preoperative immunonutrition under ESPEN 2025 recommendation 25. Which duration is described in the guideline?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** A single sip immediately before anaesthesia
 - **B.** Five to seven days
@@ -314,7 +314,7 @@
 
 ### Q15. A patient has a documented food allergy and a modified hospital diet prescription. The kitchen ticket lists only the diet code, not the allergy. Which system correction best prevents a wrong meal?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Rely solely on the patient's memory to intercept every error
 - **B.** Replace all allergy orders with a generic low-salt diet
@@ -336,7 +336,7 @@
 
 ### Q16. A hospital menu for nutritionally at-risk inpatients is restricted for several conditions and many patients leave most of their trays uneaten. Which service-level intervention is most appropriate?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Judge adequacy solely from the nutrient content of the uneaten trays
 - **B.** Add another restriction to every menu without assessment
@@ -356,31 +356,31 @@
 
 </details>
 
-### Q17. A ward wants to improve nutritional delivery in patients repeatedly absent for procedures at meal times. Which service change directly addresses the identified cause?
+### Q17. An adult inpatient at low nutritional risk receives the ordinary standard diet under the ESPEN hospital nutrition 2021 framework. When does recommendation 13 advise re-evaluating the indication for that diet?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
-- **A.** Deliver the original meal while the patient remains fasting for anaesthesia
-- **B.** Arrange an authorized replacement meal or appropriate nutrition support once procedure restrictions are lifted
-- **C.** Count all meals delivered to the ward as eaten by each absent patient
-- **D.** Change every patient's diet to clear liquids indefinitely
+- **A.** Only at discharge
+- **B.** After three to five days
+- **C.** Every 30 minutes in all stable patients
+- **D.** Only when the kitchen changes the printed menu
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: B. Arrange an authorized replacement meal or appropriate nutrition support once procedure restrictions are lifted**
+**Correct: B. After three to five days**
 
-- **A. Incorrect:** Procedure fasting order violate nahi karna chahiye.
-- **B. Correct:** Missed meal scheduling barrier hai. Safe timing and replacement system intake opportunity preserve karte hain.
-- **C. Incorrect:** Delivery and actual consumption distinct hain. Accurate recording important hai.
-- **D. Incorrect:** Unnecessary liquid restriction nutrient adequacy compromise kar sakti hai.
+- **A. Incorrect:** Discharge tak wait karne se new nutritional risk miss ho sakta hai during prolonged admission.
+- **B. Correct:** Initial low nutritional risk permanent status nahi hai. ESPEN R13 three to five days mein diet indication reassess karne ko kehta hai because illness and intake may change.
+- **C. Incorrect:** Such universal interval is not the stated diet review schedule. Clinical deterioration can require earlier review.
+- **D. Incorrect:** Menu revision and individual clinical diet reassessment different tasks hain.
 
-**Evidence:** ESPEN hospital nutrition guideline (indexed); scenario-specific calculation or service design requires additional verification.
+**Evidence:** ESPEN hospital nutrition 2021, recommendation 13.
 
 </details>
 
 ### Q18. A hospital diet audit finds a clear-liquid-only diet continuing for several days without review in a patient whose procedure is complete. What is the key nutrition concern?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Clear liquids always provide more protein than a full diet
 - **B.** The diet automatically meets every micronutrient need
@@ -400,31 +400,31 @@
 
 </details>
 
-### Q19. A hospital kitchen changes a planned standard lunch to a fortified version for a patient with low meal-volume tolerance. Which outcome should be checked to verify benefit?
+### Q19. According to the ESPEN hospital nutrition 2021 framework, which regular diet category is intended for inpatients with moderate or high nutritional risk or malnutrition when oral feeding remains appropriate?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
-- **A.** Whether the patient consumes more energy and protein within the tolerated meal volume
-- **B.** Only whether the plate weighs more before serving
-- **C.** Only whether the plate colour changes
-- **D.** Only the number of menu names changed
+- **A.** The protein-energy enriched hospital diet
+- **B.** The low-risk standard diet without any adaptation
+- **C.** A routine clear-fluid-only diet for the whole admission
+- **D.** An automatic identical renal-restricted diet for every at-risk patient
 
 <details><summary>Answer aur detailed explanation dekho</summary>
 
-**Correct: A. Whether the patient consumes more energy and protein within the tolerated meal volume**
+**Correct: A. The protein-energy enriched hospital diet**
 
-- **A. Correct:** Fortification nutrient density improve kar sakti hai but actual intake important hai. Before-after consumption compare karein.
-- **B. Incorrect:** Mass increase alone energy/protein consumed establish nahi karta.
-- **C. Incorrect:** Appearance palatability influence kar sakti hai but actual nutrient delivery measure nahi.
-- **D. Incorrect:** Administrative label change nutritional impact prove nahi karta.
+- **A. Correct:** ESPEN R14 risk-based hospital diet ko standard diet se distinguish karta hai. Enrichment intake support kar sakti hai and therapeutic restrictions must be individually reviewed.
+- **B. Incorrect:** Standard diet primarily low-risk patients ke liye hai. Moderate/high risk mein enrichment consider karna framework ka specific recommendation hai.
+- **C. Incorrect:** Clear fluid restriction ordinarily complete energy and protein supply nahi karti. Specific short-term indication required hai.
+- **D. Incorrect:** Renal restrictions clinical indication se depend karti hain. Unnecessary restriction adequacy compromise kar sakti hai.
 
-**Evidence:** ESPEN hospital nutrition guideline (indexed); scenario-specific calculation or service design requires additional verification.
+**Evidence:** ESPEN hospital nutrition 2021, recommendation 14.
 
 </details>
 
 ### Q20. A patient after major gastrointestinal surgery still fails to meet nutritional targets just before discharge. What should the discharge nutrition plan include?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** Hospital and perioperative nutrition | **Type:** Original practice
 
 - **A.** Stop all supplementation automatically when the discharge order is written
 - **B.** Document only the operation date without intake history
@@ -447,3 +447,5 @@
 ## Sources and gaps
 
 - [ESPEN surgery guideline 2025](https://aspen.espen.org/files/ESPEN-Guidelines/ESPEN-guideline-on-clinical-nutrition-in-surgery-Update-2025.pdf): extracted recommendation text reviewed; screenshot cache miss. [ESPEN hospital nutrition](https://15.espen.org/files/ESPEN-Guidelines/ESPEN_guideline_on_hospital_nutrition.pdf): indexed. Independent clinical review, local fasting orders, current hospital food service policies, contraindication details and precise evidence for Q11,15–19 pending. No verified dedicated MCQ video; no historical attribution. Existing Foundations 25 and Perioperative starter banks screened; no consent, airway, instrument, generic aspiration or fasting violation task reused.
+
+- Hospital nutrition 2021 extracted full text subsequently retrieved, including recommendations 13–15. Q17 replaces a missed-meal task overlapping 02E Q16. Q19 replaces a general intake evaluation task with the named hospital diet category. Screenshot cache miss.

@@ -6,7 +6,7 @@
 
 ### Q1. Under the published 2022 Saksham Anganwadi and Poshan 2.0 guidelines, which daily supplementary food allocation is specified for a registered child aged 24 months without severe malnutrition?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** 600 kcal and 18–20 g protein
 - **B.** 500 kcal and 12–15 g protein
@@ -18,7 +18,7 @@
 **Correct: B. 500 kcal and 12–15 g protein**
 
 - **A. Incorrect:** Yeh table mein pregnant/lactating women aur specified adolescent girls ke liye listed hai.
-- **B. Correct:** Yeh 2022 guideline section 3.2.1 ka supplementary ration norm hai. Isko child's total daily requirement nahi samajhna chahiye; current implementation bhi verify karein.
+- **B. Correct:** Yeh 2022 guideline section 3.2.1 ka supplementary ration norm hai. Isko child's total daily requirement nahi samajhna chahiye. Current implementation bhi verify karein.
 - **C. Incorrect:** Yeh severe malnutrition category ka supplementary norm hai, ordinary child category nahi.
 - **D. Incorrect:** Yeh primary school PM POSHAN meal norm hai, Anganwadi toddler category nahi.
 
@@ -28,7 +28,7 @@
 
 ### Q2. A district calculates food procurement under the 2022 Poshan 2.0 norm of 800 kcal per severely malnourished child per service day. What aggregate energy is planned for 25 eligible children for one day?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** 12,500 kcal
 - **B.** 15,000 kcal
@@ -50,7 +50,7 @@
 
 ### Q3. Which supplementary protein range is specified for pregnant women and nursing mothers in the 2022 Poshan 2.0 guideline table?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** 18–20 g/day
 - **B.** 12–15 g/day
@@ -64,7 +64,7 @@
 - **A. Correct:** Table ka yeh additional programme food contribution hai. Total maternal protein need individual diet aur clinical condition par depend karti hai.
 - **B. Incorrect:** Yeh general 6–72 month child category ki range hai.
 - **C. Incorrect:** Yeh severely malnourished child category ki range hai.
-- **D. Incorrect:** Yeh specified supplementary table range nahi; whole-day protein requirements alag assess hoti hain.
+- **D. Incorrect:** Yeh specified supplementary table range nahi. Whole-day protein requirements alag assess hoti hain.
 
 **Evidence:** MWCD, Saksham Anganwadi and Poshan 2.0 scheme guidelines, 2022, sections 1.3 and 3.2–3.6.
 
@@ -72,7 +72,7 @@
 
 ### Q4. An Anganwadi is planning its annual supplementary nutrition service schedule under the published 2022 guidelines. What is the minimum number of service days in a calendar year?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** 180
 - **B.** 200
@@ -94,7 +94,7 @@
 
 ### Q5. A registered 20-month-old and a registered four-year-old without severe malnutrition attend the same Anganwadi. Which delivery distinction matches the standard 2022 guideline categories?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** Cooked school meal for both under PM POSHAN
 - **B.** Only a raw grain allocation for both
@@ -105,7 +105,7 @@
 
 **Correct: C. Take-home ration for the younger child and cooked meal with morning snack for the older child**
 
-- **A. Incorrect:** PM POSHAN school-based scheme hai; these Anganwadi beneficiaries specific delivery categories mein hain.
+- **A. Incorrect:** PM POSHAN school-based scheme hai. These Anganwadi beneficiaries specific delivery categories mein hain.
 - **B. Incorrect:** THR guideline prepared nutritious food emphasize karti hai, raw grain alone nahi.
 - **C. Correct:** 6–36 months ke liye THR aur 3–6 years ke liye HCM plus snack table mein described hain. Local approved alternatives may apply.
 - **D. Incorrect:** Supplementary support six months se eligible children ko cover karti hai.
@@ -116,7 +116,7 @@
 
 ### Q6. Under the specified 2022 Scheme for Adolescent Girls component of Poshan 2.0, which group is geographically targeted?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** Girls aged 14–18 years in Aspirational Districts and the North Eastern Region
 - **B.** All girls aged 10–19 in every district under this component
@@ -128,7 +128,7 @@
 **Correct: A. Girls aged 14–18 years in Aspirational Districts and the North Eastern Region**
 
 - **A. Correct:** Programme component ki age aur geographical eligibility important hai. Current extension or state instructions independently verify karein.
-- **B. Incorrect:** WIFS aur other adolescent services broader categories cover kar sakti hain; this named component ka stated scope different hai.
+- **B. Incorrect:** WIFS aur other adolescent services broader categories cover kar sakti hain. This named component ka stated scope different hai.
 - **C. Incorrect:** Age aur eligibility named programme se match nahi karte.
 - **D. Incorrect:** School-meal scheme aur adolescent girls component distinct hain.
 
@@ -138,7 +138,7 @@
 
 ### Q7. A supervisor wants to track Anganwadi beneficiary registration, service delivery and growth monitoring digitally under Poshan 2.0. Which platform is relevant?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** CoWIN
 - **B.** eSanjeevani
@@ -150,7 +150,7 @@
 **Correct: D. Poshan Tracker**
 
 - **A. Incorrect:** CoWIN vaccination delivery context mein developed platform hai, Anganwadi nutrition tracking ka named system nahi.
-- **B. Incorrect:** Teleconsultation platform hai; specified beneficiary tracker nahi.
+- **B. Incorrect:** Teleconsultation platform hai. Specified beneficiary tracker nahi.
 - **C. Incorrect:** Tuberculosis programme tracking ke liye use hota hai, Poshan 2.0 tracking ke liye nahi.
 - **D. Correct:** Poshan Tracker programme monitoring and service records ke liye digital system hai. Data verification ground-level records se bhi important hai.
 
@@ -160,7 +160,7 @@
 
 ### Q8. A school nurse is reviewing a cooked lunch for class IV under the 2022 PM POSHAN guidelines. Which minimum nutritional contribution is specified?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** 700 kcal and 20 g protein
 - **B.** 450 kcal and 12 g protein
@@ -182,7 +182,7 @@
 
 ### Q9. A school has 80 class VII pupils attending on a meal day. Under the PM POSHAN food-grain norm of 150 g per upper-primary pupil, how much grain is planned before preparation?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** 8 kg
 - **B.** 12 kg
@@ -204,7 +204,7 @@
 
 ### Q10. A primary-school meal provides 450 kcal but laboratory assessment estimates only 8 g protein per serving. How should it be evaluated against the named PM POSHAN nutrition norms?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** Both targets are met because energy is adequate
 - **B.** Protein target is met but energy target is not
@@ -218,7 +218,7 @@
 - **A. Incorrect:** Protein and energy separately assess hote hain. 8 g specified 12 g se kam hai.
 - **B. Incorrect:** Given energy 450 kcal target match karti hai, protein deficit remains.
 - **C. Correct:** Primary meal norm 12 g protein bhi require karta hai. Calorie target meet hona alone complete compliance prove nahi karta.
-- **D. Incorrect:** Meal composition standard ke against independently compare ho sakti hai; individual BMI needed nahi.
+- **D. Incorrect:** Meal composition standard ke against independently compare ho sakti hai. Individual BMI needed nahi.
 
 **Evidence:** PM POSHAN guidelines, 2022, sections 1.5–1.7 and 14.1.
 
@@ -226,7 +226,7 @@
 
 ### Q11. A school committee wants to assess transparency and community accountability in PM POSHAN, rather than only weighing food portions. Which mechanism is explicitly supported by the scheme guidelines?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** Social audit
 - **B.** Only a single supplier invoice
@@ -248,7 +248,7 @@
 
 ### Q12. A child aged eight months is being considered for routine Indian vitamin A prophylaxis solely because the child is under five. Which age-specific programme clarification is correct?
 
-**Difficulty:** Medium | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🟡 Medium | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** Routine prophylaxis begins at birth for every infant
 - **B.** Routine prophylaxis starts at six years
@@ -270,7 +270,7 @@
 
 ### Q13. Which Anaemia Mukt Bharat intervention directly addresses causes such as malaria or haemoglobinopathies in endemic settings instead of treating every case as dietary iron deficiency?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** Universal increase in iron dose regardless of cause
 - **B.** Only distribution of fortified staple food
@@ -282,7 +282,7 @@
 **Correct: D. Addressing non-nutritional causes of anaemia**
 
 - **A. Incorrect:** Every anaemia iron deficiency nahi hoti. Unassessed dose escalation unsafe ho sakti hai.
-- **B. Incorrect:** Fortification nutrition intervention hai; malaria ya inherited disorders ki assessment replace nahi karti.
+- **B. Incorrect:** Fortification nutrition intervention hai. Malaria ya inherited disorders ki assessment replace nahi karti.
 - **C. Incorrect:** Education important hai but cause-specific diagnosis and management bhi required hain.
 - **D. Correct:** AMB six interventions mein non-nutritional causes ko address karna included hai. Cause-specific assessment prevents inappropriate single-cause treatment.
 
@@ -292,7 +292,7 @@
 
 ### Q14. A health team wants to distinguish anaemia detection from supplement distribution under the AMB 6×6×6 approach. Which activity represents the detection and treatment component?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** Periodic deworming without haemoglobin assessment
 - **B.** Haemoglobin testing followed by appropriate point-of-care management or referral
@@ -304,7 +304,7 @@
 **Correct: B. Haemoglobin testing followed by appropriate point-of-care management or referral**
 
 - **A. Incorrect:** Deworming separate intervention hai, anaemia detection task nahi.
-- **B. Correct:** Testing identifies anaemia and severity; pathway treatment or referral guide karta hai. Tablet distribution alone diagnosis establish nahi karta.
+- **B. Correct:** Testing identifies anaemia and severity. Pathway treatment or referral guide karta hai. Tablet distribution alone diagnosis establish nahi karta.
 - **C. Incorrect:** Food fortification supply support karti hai, individual anaemia test nahi.
 - **D. Incorrect:** Communication awareness improve karti hai, Hb assessment replace nahi karti.
 
@@ -314,7 +314,7 @@
 
 ### Q15. Under NIDDCP, a district has already completed a baseline iodine-deficiency survey. Which subsequent activity directly assesses whether iodine-deficiency control is being sustained?
 
-**Difficulty:** Difficult | **Priority:** High | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟠 HIGH YIELD | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** Periodic resurvey with laboratory monitoring of iodized salt and urinary iodine
 - **B.** Only recording the number of thyroid clinics opened
@@ -336,7 +336,7 @@
 
 ### Q16. Which institution is a constituent institute of ICMR with a central role in nutrition research and Indian dietary guidance?
 
-**Difficulty:** Easy | **Priority:** Medium | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🟢 Easy | **Priority:** 🟡 IMPORTANT | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** Central Food Technological Research Institute
 - **B.** Food Corporation of India
@@ -358,7 +358,7 @@
 
 ### Q17. A food producer needs technical research assistance with processing and preservation technology. Which national institution most directly matches this request?
 
-**Difficulty:** Easy | **Priority:** Medium | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🟢 Easy | **Priority:** 🟡 IMPORTANT | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** CSIR-CFTRI
 - **B.** Indian Council of Nursing
@@ -380,7 +380,7 @@
 
 ### Q18. A policy team seeks support from a United Nations specialized agency whose core mandate links food, agriculture and reduction of hunger. Which agency is most directly relevant?
 
-**Difficulty:** Easy | **Priority:** Medium | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🟢 Easy | **Priority:** 🟡 IMPORTANT | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** ILO
 - **B.** ICAO
@@ -402,7 +402,7 @@
 
 ### Q19. An Indian child-nutrition programme seeks technical support for complementary feeding and nutrition services for women and children. Which international organization has this specific child-focused mandate?
 
-**Difficulty:** Easy | **Priority:** Medium | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🟢 Easy | **Priority:** 🟡 IMPORTANT | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** International Maritime Organization
 - **B.** World Intellectual Property Organization
@@ -424,7 +424,7 @@
 
 ### Q20. A family receives supplementary food from an Anganwadi but the child is repeatedly ill and growth is deteriorating. What is the most appropriate programme coordination role for the nurse?
 
-**Difficulty:** Difficult | **Priority:** Medium | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
+**Difficulty:** 🔴 Difficult | **Priority:** 🟡 IMPORTANT | **Topic:** National nutrition programmes and agencies | **Type:** Original practice
 
 - **A.** Record ration receipt as proof of recovery
 - **B.** Link food support to clinical assessment and applicable health-service referral rather than treating food distribution as complete care
@@ -447,3 +447,5 @@
 ## Source links and limitations
 
 - [MWCD 2022 scheme guidelines](https://wcd.gov.in/documents/uploaded/Mission%20Saksham%20Anganwadi%20and%20Poshan%202.0%20scheme%20guidelines.pdf?v=1), PDF text retrieved; section 3.2.1 notes norms under revision; screenshot cache miss. [PM POSHAN guidelines](https://pmposhan.education.gov.in/Files/Guidelines/2023/Guidelines%20on%20PM%20POSHAN%20SCHEME.pdf), text retrieved and beneficiary-page screenshot retrieved. [NHM Nutrition](https://nhm.gov.in/nhm/about-nhm/index1.php?lang=1&level=2&lid=796&sublinkid=1446), [AMB](https://nhm.gov.in/images/pdf/programmes/wifs/guidelines/index1.php?lang=1&level=3&lid=797&sublinkid=1448), [NIDDCP](https://nhm.gov.in/nhm_live/index1.php?lang=1&level=3&lid=230&sublinkid=1054), indexed only. [NIN](https://www.nin.res.in/aboutus.html), [CFTRI](https://www.cftri.res.in/profile/index.php/csir), [FAO](https://www.fao.org/about/about-fao), [UNICEF India](https://www.unicef.org/india/reports/nutrition-children), indexed. Independent programme/clinical audit and latest amendments pending. [National nutritional programme and role of nurse](https://www.youtube.com/watch?v=nvrk7Z9XRdI) is a teaching lead, not verified MCQ practice; no item-level video match established.
+
+- PM POSHAN beneficiary page visually inspected. Anganwadi 2022 and PM POSHAN numeric norms are named-document questions, not a certification of all later amendments. Q12–15 remain indexed programme evidence. No dedicated MCQ-practice video verified for this bank.
