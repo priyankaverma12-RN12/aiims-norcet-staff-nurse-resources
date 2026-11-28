@@ -646,3 +646,6 @@ html:has(body.reader-page){scroll-padding-top:calc(var(--header-offset) + var(--
  .metric-chapter-tools>span{font-size:.72rem}
 }
 @media(prefers-reduced-motion:no-preference){.metric-category>summary::before{transition:transform .15s ease}.metric-category[open]>.metric-records{animation:study-enter .18s ease-out}}
+
+/* Keep the reader outline target consistent at desktop and touch widths. */
+.reader-aside .outline-card > summary{min-height:44px;display:flex;align-items:center;justify-content:space-between;gap:.4rem}

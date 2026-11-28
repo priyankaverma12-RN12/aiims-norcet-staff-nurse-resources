@@ -21,6 +21,35 @@ def no_overflow(page):
     assert page.evaluate("document.documentElement.scrollWidth <= window.innerWidth + 2"), "Horizontal overflow"
 
 
+def verify_chapter_folders(page):
+    expect(page.locator(".index-resource-group").first).to_be_visible()
+    expect(page.locator(".index-resource-group[open]")).to_have_count(0)
+    expect(page.locator("#original-index")).not_to_have_attribute("open","")
+    expect(page.locator(".outline-card")).not_to_have_attribute("open","")
+    for kind in ("theory","mcq","mock","pyq"):
+        group=page.locator(f".index-resource-group[data-kind={kind}]")
+        expect(group).to_have_count(1)
+        summary=group.locator(":scope > summary")
+        assert summary.bounding_box()["height"]>=44, f"Chapter folder {kind} below 44px"
+        summary.click()
+        expect(group).to_have_attribute("open","")
+        expect(page.locator(".index-resource-group[open]")).to_have_count(1)
+        expect(group.locator(".index-link-list")).to_be_visible()
+        assert group.locator(".index-link-list a[href]").evaluate_all("""(els,k)=>els.every(a=>{
+            const path=new URL(a.href).searchParams.get('doc');
+            if(!path)return true;
+            const type=getResourceMeta(path).type;
+            const folder=path.split('/')[2];
+            return (type==='Mock test'||type==='Draft question set'?'mock':({Concepts:'theory',MCQs:'mcq','Mock-Tests':'mock','Previous-Year-Questions':'pyq'}[folder]||'other'))===k;
+        })""",kind)
+        summary.click()
+        expect(group).not_to_have_attribute("open","")
+        no_overflow(page)
+    for selector in ("#original-index > summary",".outline-card > summary"):
+        assert page.locator(selector).bounding_box()["height"]>=44, f"{selector} below 44px"
+    expect(page.locator(".index-resource-group[open]")).to_have_count(0)
+
+
 def expand_chapter(page, kind="metric"):
     card=page.locator(".metric-chapter" if kind=="metric" else ".completion-chapter").first
     expect(card).to_be_visible(timeout=30000)
@@ -192,7 +221,7 @@ try:
         # A chapter overview uses Assets/... relative to its own directory.
         page.goto(base + "?" + urlencode({"doc":"Chapters/Respiratory-System/README.md"}))
         ready(page)
-        expect(page.locator(".index-resource-group[open]")).to_have_count(0)
+        verify_chapter_folders(page)
         original_index=page.locator("#original-index")
         if original_index.count():
             original_index.locator("summary").first.click()
@@ -496,7 +525,7 @@ try:
                 for section in ["theory","mcq","mock","pyq"]:
                     group=mobile.locator(f".metric-category[data-kind={section}]")
                     expect(group).to_have_count(1)
-                    assert group.locator("summary").bounding_box()["height"]>=43
+                    assert group.locator("summary").bounding_box()["height"]>=44
                     group.locator("summary").tap()
                     expect(group.locator(".metric-record").first).to_be_visible()
                     assert group.locator(".metric-record").evaluate_all("(els,k)=>els.every(e=>studyFolderKind(e.dataset.category)===k)",section)
@@ -518,6 +547,7 @@ try:
                 expect(mobile.locator(".completion-category:not([data-kind=theory]) .completion-resource")).to_have_count(0)
                 for section in ["theory","mcq","mock","pyq"]:
                     group=mobile.locator(f".completion-category[data-kind={section}]")
+                    assert group.locator("summary").bounding_box()["height"]>=44
                     if group.get_attribute("open") is None:
                         group.locator("summary").tap()
                     expect(group.locator(".completion-resource").first).to_be_visible()
@@ -557,6 +587,10 @@ try:
                 assert mobile.locator(".topbar").evaluate("e=>getComputedStyle(e).position")== "sticky"
                 assert mobile.locator(".reading-location").evaluate("e=>parseFloat(getComputedStyle(e).top)>=document.querySelector('.topbar').getBoundingClientRect().height-1")
 
+            mobile.goto(base+"?"+urlencode({"doc":"Chapters/Nursing-Foundations/README.md"}))
+            ready(mobile)
+            verify_chapter_folders(mobile)
+            print(f"V11.8 chapter index isolated closed folders and 44px targets at {width}x{height}.",flush=True)
             print(f'Touch layout {width}x{height}: search, theme persistence, reader controls, quiz targets and timer passed.', flush=True)
             ctx.close()
         browser.close()
