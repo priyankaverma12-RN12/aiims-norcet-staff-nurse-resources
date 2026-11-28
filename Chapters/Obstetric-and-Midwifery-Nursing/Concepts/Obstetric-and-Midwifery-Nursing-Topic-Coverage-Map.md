@@ -41,7 +41,12 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - WHO Labour Care Guide: [Concepts](07J-WHO-Labour-Care-Guide.md) · [20 originals](../MCQs/07J-WHO-Labour-Care-Guide-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07J-WHO-Labour-Care-Guide-Evidence.md). Published, independent review pending.
   - Nursing management: [Concepts](07K-Nursing-Management-in-Normal-Labour.md) · [20 originals](../MCQs/07K-Nursing-Management-in-Normal-Labour-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07K-Nursing-Management-in-Normal-Labour-Evidence.md). Published, independent review pending.
 - partograph and delivery
-- hypertensive disorders
+- Hypertensive disorders
+  - Classification and recognition: [Concepts](08A-Hypertensive-Disorders-Classification-and-Recognition.md) · [20 originals](../MCQs/08A-Hypertensive-Disorders-Classification-and-Recognition-20-MCQs.md) · [Evidence](../Previous-Year-Questions/08A-Hypertensive-Disorders-Classification-and-Recognition-Evidence.md). Published, independent review pending.
+  - Pre-eclampsia: pending.
+  - Eclampsia: pending.
+  - HELLP syndrome: pending.
+  - Hypertension management and nursing monitoring: pending.
 - antepartum hemorrhage
 - obstetric emergencies
 - PPH

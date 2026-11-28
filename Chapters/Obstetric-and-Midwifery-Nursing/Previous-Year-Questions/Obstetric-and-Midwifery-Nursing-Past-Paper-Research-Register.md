@@ -140,3 +140,8 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 ## Nursing management in normal labour — 28 November 2026
 
 [07K evidence and gaps](07K-Nursing-Management-in-Normal-Labour-Evidence.md). WHO direct text reviewed, NICE and NHM indexed. HPRCA retained placental fragment lead and DSSSB AMTSL lead not recounted. Zero new historical adaptations. Twenty broad candidate links and twenty specific video gaps. Obstetrics historical adaptation count remains 27.
+
+
+## Hypertensive disorders classification — 28 November 2026
+
+[08A clinical and exam evidence](08A-Hypertensive-Disorders-Classification-and-Recognition-Evidence.md). ISSHP recommendations and classification table, NHM CEmONC 2024 and INC OBG Nursing II Unit I extracted text directly reviewed. PDF screenshots failed. NORCET 7 Prelims 2024 reported abruption association retrieved and reserved for 08B. HPRCA 25026 paper retrieval failed. No new historical adaptations. Twenty broad video candidate links, twenty specific gaps. Obstetrics adaptations remain 27.
