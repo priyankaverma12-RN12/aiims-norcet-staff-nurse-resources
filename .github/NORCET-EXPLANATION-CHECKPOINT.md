@@ -1,10 +1,10 @@
 # Job 5 — deep explanation and answer audit
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: job5-run48e-20261128-0316
+Scope: Nursing Foundations Group09A Q12 hidden rationale terminology clarification only and Group28 original-bank rationale-only edits. No legacy mock, PR, shared index, Group09B or other job edits. Preserve Group26/27 staging.
+Claimed UTC: 2026-11-28T03:16:22Z
+Expiry UTC: 2026-11-28T03:46:22Z
 
 ## Operating rules
 Read both complete SKILL.md files, AGENTS.md, copilot instructions, all claims/checkpoints, recent commits and audit learnings every run. Follow chapter index top to bottom, starting Nursing Foundations group 01 Q1. Do not edit any actively claimed chapter or overlapping Job 3/4 target. Acquire this claim with current blob SHA and 30-minute lease, verify readback, coordinate with all lanes, re-fetch each target before SHA-guarded writes, release on stop. Other jobs must be aware of this claim before concurrent edits; defer if uncertain. No force writes.
