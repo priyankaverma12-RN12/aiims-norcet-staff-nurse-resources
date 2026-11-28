@@ -1,10 +1,10 @@
 # Neonatal Nursing manual chapter claim
 
-State: FREE
-Owner: none
-Scope: none
-Claimed UTC: none
-Expiry UTC: none
+State: CLAIMED
+Owner: neonatal-b06-20261128T1736Z
+Scope: Isolated PR57 assessment and thermal Easy supplements, neonatal transport and opioid withdrawal; no shared navigation or existing banks
+Claimed UTC: 2026-11-28T17:36:00Z
+Expiry UTC: 2026-11-28T18:06:00Z
 
 ## Verified released checkpoint — 2026-11-28
 
