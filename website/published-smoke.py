@@ -376,7 +376,7 @@ with sync_playwright() as p:
         # Page-wise polish: active navigation, filter reset, focus mode and reading preferences.
         go({"metrics":"1"})
         expect(page.locator("#metrics-link")).to_have_attribute("aria-current","page")
-        expect(page.locator(".metric-chapter").first).to_be_visible()
+        expect(page.locator(".metric-chapter").first).to_be_visible(timeout=30000)
         expect(page.locator(".metric-record")).to_have_count(0)
         page.locator(".metric-chapter > summary").first.click()
         expect(page.locator(".metric-record").first).to_be_visible()

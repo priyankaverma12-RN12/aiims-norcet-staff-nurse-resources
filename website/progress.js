@@ -85,7 +85,7 @@ function readerCompletion(p){
  panel.hidden=false;
  const summary=node('div',undefined,'reader-progress-summary'),text=node('strong'),bar=completionMeter(0,'Topic progress'),control=completionControl(r);
  summary.append(text,bar);panel.replaceChildren(summary,control);
- function refresh(){const x=completionState(r,loadCompletion(),loadRoutine());text.textContent=x.slots?(x.done?'Completed · ':'')+x.checked+' / '+x.slots+' checked · '+completionPercent(x.covered,x.slots)+'% covered'+(x.changed?' · Bank changed':''):x.done?'Theory topic completed':'Mark this topic done after studying';bar.hidden=false;bar.value=x.slots?completionPercent(x.covered,x.slots):x.done?100:0;control.refreshCompletion();panel.classList.toggle('is-completed',x.done)}
+ function refresh(){const x=completionState(r,loadCompletion(),loadRoutine());text.textContent=x.slots?(x.done?'Completed · ':'')+x.checked+' / '+x.slots+' checked · '+completionPercent(x.covered,x.slots)+'% covered'+(x.changed?' · Bank changed':''):x.done?'Topic completed':'Mark this topic done after studying';bar.hidden=false;bar.value=x.slots?completionPercent(x.covered,x.slots):x.done?100:0;control.refreshCompletion();panel.classList.toggle('is-completed',x.done)}
  refresh();document.addEventListener('study-progress-change',refresh);
 }
 
