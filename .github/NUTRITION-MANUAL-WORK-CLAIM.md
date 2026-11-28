@@ -1,10 +1,18 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-priority-run4-20261128-0649Z
-Scope: PR35 Nutrition-only new topic banks and support files. No shared navigation, website, or other jobs.
-Claimed UTC: 2026-11-28T06:49:00Z
-Expiry UTC: 2026-11-28T07:19:00Z
+State: FREE
+Owner: none
+Scope: no active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — Run 4
+
+Candidate head: 4d161eeb00bc4d5805e46135b5fa9fc4962480d6
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-priority-run4-20261128-0649Z
+
+Run 4: 100 staged originals in diabetes meal planning, hypertension/DASH, weight management/underweight, GI/liver diets, and IDDSI texture testing; 400 individual Roman Hinglish rationales, two guides, two SVGs and one inventory. Cumulative 400 staged originals, 1600 rationales, eight guides and eight SVGs. All 36 prior Nutrition blobs and six live Nutrition blobs unchanged. Four live legacy originals and one reported adaptation preserved. Zero normalized exact duplicate stems among 405 candidate/legacy items, final 100 blocks structurally valid, balanced A/B/C/D each 25 and diversified sequences. Ten new files exact remote readback; final six revised files exact readback. Targeted review of 54 adjacent questions, five new tasks replaced, renal topic substituted with weight management due to existing renal bank. INC Unit IX extracted text checked; screenshot cache miss. Direct/ indexed clinical sources and evidence gaps recorded in Nutrition-Run-04-Inventory.md. No independent clinician certification or exhaustive semantic/curriculum/difficulty/distractor audit; complete fresh bounded preflight, item-level source/video, current IDDSI definitions, coordination, CI and UI gates remain open. PR7/8 prior notices rechecked, no explicit release. No new mocks/PYQs or live credit. No other jobs, learner history, website or automation edits. Reacquire lease before continuing. Next: pregnancy nutrition, lactation, complementary feeding, adolescent nutrition, elderly nutrition after checking OBG/Child/Geriatric overlap. Substitute genuinely uncovered perioperative nutrition, enteral/parenteral formulation, food preservation/adulteration or community nutrition programmes when justified. Twenty distinct items per meaningful topic, target 100 per run. Continue same chapter, then ten mock-exclusive 120-item tests, two per run, then source-traced PYQs.
+
+## Previous checkpoint (preserved)
 
 ## Latest released checkpoint — Run 3
 
