@@ -76,23 +76,23 @@
 
 </details>
 
-### Q4. A nine-year-old understands ordered numbers and can reliably describe pain intensity. Which scale permits direct numerical self-report?
+### Q4. A seven-year-old repeats the number 10 whenever asked to rate pain but cannot distinguish mild from severe pain using number examples. What should the nurse do?
 
-**Difficulty:** Medium | **Priority:** 🟠 Important | **Topic:** Pediatric pain assessment | **Type:** Original
+**Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Pediatric pain assessment | **Type:** Original
 
-- **A.** FLACC behavioral score assigned by staff only
-- **B.** Apgar scale
-- **C.** Pediatric early warning score alone
-- **D.** A 0–10 numerical rating scale
+- **A.** Accept 10 as a reliable numerical rating without checking comprehension
+- **B.** Ask the parent to assign a numerical self-report in the child's name
+- **C.** Use the child's school grade to calculate a pain score
+- **D.** Check understanding and use a validated developmentally suitable self-report tool such as a faces scale if understood
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. A 0–10 numerical rating scale**
+**Correct: D. Check understanding and use a validated developmentally suitable self-report tool such as a faces scale if understood**
 
-- **A.** FLACC behavior observe karta hai aur self-report possible ho toh generally secondary role hai.
-- **B.** Apgar newborn transition ka assessment hai.
-- **C.** Early warning score deterioration identify karne ke liye hai, pain self-report scale nahi.
-- **D.** Numerical rating mein child zero se ten tak apne pain ko rate karta hai. Child ko numbers ka meaning samajhna zaroori hai.
+- **A.** Unverified number actual pain intensity ko accurately represent nahi kar sakta.
+- **B.** Parent report useful hai, lekin child ke naam par self-report assign karna correct nahi hai.
+- **C.** School grade se pain score calculate nahi hota. Individual understanding assess karni chahiye.
+- **D.** Number bol paana aur intensity ka ordered meaning samajhna alag abilities hain. Suitable self-report tool choose karke comprehension verify karo.
 
 **Reference:** [RCH pediatric acute pain](https://www.rch.org.au/clinicalguide/guideline_index/Acute_pain_management/) · [RCH pain assessment](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Pain_assessment_and_measurement/)
 
@@ -196,23 +196,23 @@
 
 </details>
 
-### Q9. After prescribed opioid analgesia, a child becomes difficult to awaken and breathing slows. Which nursing priority is most appropriate?
+### Q9. A child with a communication disability has an individualized pain plan stating that unusual laughter may indicate pain. During a new illness the child laughs repeatedly while guarding the abdomen. What should the nurse do?
 
 **Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Pediatric pain assessment | **Type:** Original
 
-- **A.** Give another opioid dose because the child is not speaking
-- **B.** Wait for the next routine pain score without assessing breathing
-- **C.** Urgently assess and support airway and breathing, summon help and follow the opioid emergency protocol
-- **D.** Interpret reduced responsiveness as successful analgesia alone
+- **A.** Treat laughter as proof of absence of pain
+- **B.** Delete the individualized cue from the care plan
+- **C.** Compare the behavior with the individualized baseline and assess the abdomen and pain using the agreed tool
+- **D.** Use laughter alone to assign the maximum score
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: C. Urgently assess and support airway and breathing, summon help and follow the opioid emergency protocol**
+**Correct: C. Compare the behavior with the individualized baseline and assess the abdomen and pain using the agreed tool**
 
-- **A.** Further opioid respiratory depression worsen kar sakta hai.
-- **B.** Routine scoring ka wait airway emergency mein unsafe hai.
-- **C.** Excess sedation aur slow breathing opioid-related respiratory depression ka warning ho sakte hain. Airway, ventilation aur urgent escalation priority hain.
-- **D.** Pain relief aur dangerous sedation alag cheezein hain. Safety assessment zaroori hai.
+- **A.** Laughter ka meaning har child mein same nahi hota. Documented pain cue ko ignore nahi karna chahiye.
+- **B.** Care plan ka useful baseline bina reassessment delete nahi karna chahiye.
+- **C.** Kuch children pain ko atypical behavior se express karte hain. Individual cue aur new guarding ko clinical examination aur appropriate tool ke saath interpret karo.
+- **D.** Single cue se automatically maximum score assign nahi hota. Full assessment chahiye.
 
 **Reference:** [RCH pediatric acute pain](https://www.rch.org.au/clinicalguide/guideline_index/Acute_pain_management/) · [RCH pain assessment](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Pain_assessment_and_measurement/)
 
@@ -220,23 +220,23 @@
 
 </details>
 
-### Q10. A child reports pain intensity falling from 8 to 4 after treatment but still cannot take a deep breath because of incision pain. What should the nurse assess next?
+### Q10. A toddler with a painful dressing has a low FLACC score while resting but cries and stiffens when the dressing area is approached for routine care. Which measurement plan is most informative?
 
 **Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Pediatric pain assessment | **Type:** Original
 
-- **A.** Document complete relief because the number decreased
-- **B.** Discontinue all pain assessment
-- **C.** Ask the child to avoid deep breathing indefinitely
-- **D.** Functional pain impact, respiratory status and need for further protocol-based pain management
+- **A.** Record only the lowest score from rest
+- **B.** Provoke repeated unnecessary painful stimulation to find the highest score
+- **C.** Average all observations without noting when they occurred
+- **D.** Document pain behavior at rest and during necessary care, with context and reassessment after comfort measures
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Functional pain impact, respiratory status and need for further protocol-based pain management**
+**Correct: D. Document pain behavior at rest and during necessary care, with context and reassessment after comfort measures**
 
-- **A.** Number decrease complete relief ka proof nahi hai.
-- **B.** Ongoing pain aur respiratory function ko monitor karna zaroori hai.
-- **C.** Deep breathing avoid karne se postoperative pulmonary complications ka risk badh sakta hai.
-- **D.** Pain score improve hua hai lekin breathing function abhi affected hai. Functional assessment aur care adjustment important hain.
+- **A.** Resting score alone procedure-related pain ko miss kar sakta hai.
+- **B.** Unnecessary painful stimulation avoid karni chahiye. Existing necessary care ke observations sufficient ho sakte hain.
+- **C.** Context hata kar average banane se pain trigger aur treatment planning ki information lost ho jati hai.
+- **D.** Movement ya care ke time pain rest se different ho sakta hai. Context ke saath dono observations record karne se plan targeted banta hai.
 
 **Reference:** [RCH pediatric acute pain](https://www.rch.org.au/clinicalguide/guideline_index/Acute_pain_management/) · [RCH pain assessment](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Pain_assessment_and_measurement/)
 
@@ -388,23 +388,23 @@
 
 </details>
 
-### Q17. A child has sudden severe limb pain after application of a cast, with new tingling and increasing pain on passive movement. What should the nurse prioritize?
+### Q17. A preschool child says that the ear hurts during a hospital assessment but repeatedly points to a painful tooth when asked to show the site. What should the nurse do?
 
 **Difficulty:** Difficult | **Priority:** 🔴 High | **Topic:** Pediatric pain assessment | **Type:** Original
 
-- **A.** Urgent neurovascular assessment and escalation for possible compartment syndrome
-- **B.** Treat the pain score as routine and wait for the next shift
-- **C.** Reassure because all cast pain is expected
-- **D.** Encourage vigorous exercise of the affected limb before review
+- **A.** Clarify the location using simple prompts or a body diagram and assess both possible sites
+- **B.** Record only the first verbal location and ignore the pointing
+- **C.** Assume the child has no pain because the descriptions differ
+- **D.** Ask the child to provide an anatomical diagnosis before assessing
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: A. Urgent neurovascular assessment and escalation for possible compartment syndrome**
+**Correct: A. Clarify the location using simple prompts or a body diagram and assess both possible sites**
 
-- **A.** Increasing disproportionate pain, tingling aur passive stretch pain tissue pressure ke serious concern ho sakte hain. Urgent assessment aur escalation se tissue injury prevent karne ka chance milta hai.
-- **B.** Routine wait time-sensitive complication ko delay kar sakta hai.
-- **C.** Cast-related discomfort aur severe progressive neurovascular symptoms alag hain.
-- **D.** Vigorous exercise pain worsen kar sakti hai aur urgent assessment delay kar sakti hai.
+- **A.** Young child anatomical words accurately use nahi kar sakta aur referred pain bhi possible hai. Simple location clarification aur clinical examination se source samajh aata hai.
+- **B.** Pointing important extra information hai. Sirf first word par depend karna location error create kar sakta hai.
+- **C.** Inconsistent localization pain absence ka proof nahi hai.
+- **D.** Diagnosis dena child ki responsibility nahi hai. Nurse age-appropriate assessment karti hai.
 
 **Reference:** [RCH pediatric acute pain](https://www.rch.org.au/clinicalguide/guideline_index/Acute_pain_management/) · [RCH pain assessment](https://www.rch.org.au/rchcpg/hospital_clinical_guideline_index/Pain_assessment_and_measurement/)
 
