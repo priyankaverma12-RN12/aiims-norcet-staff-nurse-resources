@@ -8,8 +8,8 @@ Status: draft only. Do not add to live learner inventory until mandatory indepen
 | [01B Developmental surveillance](01B-Developmental-Surveillance-and-Milestones-20-MCQs.md) | 20 | 80 | 8 | 12 | 0 | aeeda1992a8ef833958ff9e7172905c33d0e93d3 |
 | [01C Theories and play](01C-Developmental-Theories-and-Play-20-MCQs.md) | 20 | 80 | 9 | 11 | 0 | 76a8025808900c70550c6b3b2727f96d06bf3b0e |
 | [01D Hospital and family-centered care](01D-Hospitalized-Child-and-Family-Centered-Care-20-MCQs.md) | 20 | 80 | 1 | 19 | 0 | 5f019a271659cbbb546b8bed33e17af286808adf |
-| [01E Pediatric pain](01E-Pediatric-Pain-Assessment-and-Reassessment-20-MCQs.md) | 20 | 80 | 0 | 8 | 12 | 743eb7dc7f439b475b066bfd2819d0336f29a641 |
-| Total | 100 | 400 | 28 | 60 | 12 | Candidate only |
+| [01E Pediatric pain](01E-Pediatric-Pain-Assessment-and-Reassessment-20-MCQs.md) | 20 | 80 | 6 | 14 | 0 | d9fc7786ea770ba1afce6d07e835bf711886c2e3 |
+| Total | 100 | 400 | 34 | 66 | 0 | Candidate only |
 
 Remote structural audit: 100/100 distinct normalized stems within candidate, sequential question numbers per bank, 4 English choices and 4 labeled Roman Hinglish option explanations per item, matching answer text and letter, closed details blocks, difficulty/priority/type/source fields. Zero structural exceptions found. Correct option totals A=25, B=25, C=25, D=25. This does not establish clinical accuracy, calibrated difficulty, or exhaustive semantic uniqueness.
 
@@ -35,3 +35,7 @@ Targeted comparison included existing Child Health starter bank and reported deh
 Full fresh line-by-line skills and audit-log review not certified. Independent clinical/source passage verification, option plausibility and difficulty calibration, conversational language review, repository-wide semantic review including mocks/PYQs and in-flight PRs, complete INC topic reconciliation, video playback and item mapping, link and website rendering verification (six SVG source renders completed in Batch 03), candidate CI, current main comparison and explicit PR7/8/12 and Nutrition PR35 coordination remain open. PDF screenshot retrieval failed. Do not merge until all applicable gates pass. Do not change shared progress files, learner history or automations.
 
 Next: resume this candidate, resolve gates, reconcile remaining Child Health topics against INC and sibling owners, then extend phase 1. No mock or new PYQ count claimed. Begin two original-only 120-question mocks per run only after verified topic coverage, toward ten mocks.
+
+## Batch 05 continuation
+
+01E Q1–20 reviewed; 80 separately labeled rationales expanded, 20 clues and targeted references added. Original stems/options/keys/priorities unchanged. Commit 276dde1805434240cb3e39162623bef11fba456f. Independent review pending. Five additional banks (03A–03E) staged; see [current cumulative inventory](Batch-05-Original-MCQ-Candidate-Inventory.md). Next corrective scope is remaining unreviewed Batch 02 items, without repeating completed priority fixes.
