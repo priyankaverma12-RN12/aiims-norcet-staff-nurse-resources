@@ -401,25 +401,25 @@
 
 </details>
 
-### Q19. The 2012 HP order specified at least 50% female membership. In an illustrative 18-member committee with seven women, how many seats must be reassigned to women to meet that historical threshold without changing total size?
+### Q19. Under the March 2012 HP order, an urgent public health expenditure was not included in the approved annual work plan. Which approval sequence was specified for that historical situation?
 
 **Difficulty:** Difficult | **Priority:** High | **Topic:** VHSNC composition and accountability | **Type:** Original practice
 
-- **A.** One
-- **B.** Three
-- **C.** Nine
-- **D.** Two
+- **A.** Spend privately without any approval and hide the expenditure
+- **B.** Wait solely for a private vendor's approval
+- **C.** Obtain approval only from a school examination board
+- **D.** Seek Gram Panchayat approval and subsequently obtain Gram Sabha approval
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: D. Two**
+**Correct: D. Seek Gram Panchayat approval and subsequently obtain Gram Sabha approval**
 
-- **A.** One reassignment se eight women hongi, threshold se kam.
-- **B.** Three reassignment minimum se zyada hain.
-- **C.** Nine total required number hai, additional seats nahi.
-- **D.** 18 ka half nine hai, current seven se two more women required hain.
+- **A.** Unapproved spending hide karna financial accountability ke against hai.
+- **B.** Private vendor local public fund approval authority nahi hai.
+- **C.** School examination board committee expenditure approval nahi karta.
+- **D.** Dated HP order emergent unplanned expenditure ke liye Gram Panchayat approval aur baad mein Gram Sabha approval specify karta tha.
 
-**Exam clue:** Compute the dated state representation requirement.
+**Exam clue:** Historical HP order separates emergency approval from subsequent ratification.
 
 </details>
 
