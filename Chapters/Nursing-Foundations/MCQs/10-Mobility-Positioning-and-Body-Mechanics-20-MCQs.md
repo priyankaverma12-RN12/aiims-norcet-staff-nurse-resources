@@ -312,7 +312,7 @@ Partial weight bearing ka matlab affected limb par prescribed limited load allow
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**YouTube MCQ practice: specific verification pending.**
+**▶️ [Related MCQ practice — crutch walking, Stancoast NCLEX Coaching](https://www.youtube.com/watch?v=eotgbD74YkA).** 26 October 2024 ke publisher description mein crutch walking techniques par NCLEX question-answer practice listed hai. Is exact partial-weight-bearing scenario, timestamp aur playback verify nahi hue hain.
 
 [Legacy mock practice: Mock 03, Q10](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q10-a-patient-using-crutches-is-permitted-partial-weight-bearing-what-determines-the-appropriate-gait-pattern) — same topic-bank question, not a new original.
 
@@ -382,7 +382,7 @@ Immobility venous stasis badha sakti hai. New painful swollen calf DVT ya doosri
 
 ### Q13. Which positioning principle helps prevent foot drop during prolonged bed rest?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 AIIMS Raipur Nursing Officer, 9 September 2017 — related reported concept only](https://testbook.com/question-answer/which-comfort-device-is-used-to-prevent-foot-drop--62d788109982d749dafefa33)**
 
 - **A.** Avoid inspecting the heels
 - **B.** Maintain neutral ankle alignment using appropriate support and reassess the skin
@@ -404,6 +404,8 @@ Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur 
 **Exam clue:** Neutral ankle alignment + skin checks, no prolonged plantarflexion.
 
 **Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
+
+**Related exam evidence:** Is third-party memory-based report mein foot drop ko rokne ke liye foot board ka selection poochha gaya tha. Is original question mein neutral ankle support aur skin reassessment ka principle poochha gaya hai. Patient ke liye suitable support choose karna aur pressure damage se bachna zaroori hai. Official paper aur key verify nahi hue hain.
 
 **YouTube MCQ practice: specific verification pending.**
 
@@ -475,7 +477,7 @@ Deconditioning prolonged inactivity se muscle strength, endurance aur function k
 
 ### Q16. During first ambulation after surgery a patient becomes pale and dizzy. Which action is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 ESIC Staff Nurse, 26 February 2019 Shift III — related reported concept only](https://testbook.com/question-answer/when-dangling-the-patient-at-the-bedside-monitor--619cce828951c43cb2baf2bc)**
 
 - **A.** Leave the patient standing while obtaining equipment
 - **B.** Encourage rapid walking to improve circulation
@@ -497,6 +499,8 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 **Exam clue:** Dizzy during ambulation = stop, support, assess.
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
+
+**Related exam evidence:** Is third-party report mein bed ke kinaare baithne ke dauraan orthostatic hypotension aur dizziness ko monitor karne ka concept poochha gaya tha. Is original question mein operation ke baad chalne ke dauraan symptoms aane par safe action poochha gaya hai. Dono related hain, lekin exact question same nahi hai. Official paper aur answer key verify nahi hue hain.
 
 **YouTube MCQ practice: specific verification pending.**
 
