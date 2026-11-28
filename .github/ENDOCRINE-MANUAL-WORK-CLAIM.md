@@ -1,17 +1,19 @@
 # Endocrine manual work claim
 
-State: CLAIMED
-Owner: endocrine-b05-20261128-1216Z
-Scope: PR54 isolated adult primary hyperparathyroidism, endocrine calcium-regulation, adult diabetes classification and endocrine glycemic medication/inpatient care candidates only. Exclude renal treatment, nutrition, pediatric, pregnancy, pump and emergency crisis protocols. No shared navigation or prior bank changes.
-Claimed UTC: 2026-11-28T12:16:24Z
-Expiry UTC: 2026-11-28T12:46:24Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
-Last owner: endocrine-b04-20261128-1159Z
-Released: 2026-11-28 after isolated Batch 04 authoring, targeted corrections, rendering and remote readback.
-
-Resume existing draft PR #54: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/54
-Verified head: 5946f2d965625eb23984a8d0c264fe1847119984
-Verified content checkpoint: 35b034bae63cdea9181a724cf302ab936ffbc892
-Candidate checkpoint: Chapters/Endocrine-System/Batch-04-Candidate-Checkpoint.md
-
-400 staged original MCQs, 1,600 separate Roman Hinglish option rationales, 400 exam clues, 20 concept guides, 20 original SVGs and 20 evidence registers. Batch 04 added 100 across five thyroid topics and replaced four overlapping items. All earlier 300 and nine Batch 03 corrections unchanged. All 400 normalized candidate stems distinct. New 100 no exact matches against 336 legacy slots (216 distinct). Structural and key checks, exact readbacks, and five exact-blob local SVG renders passed. Prior CI 46130117679 succeeded. New checkpoint CI: 46143424805 pending . No live, mock or verified PYQ credit. Reacquire only this claim after fresh coordination. Full bounded preflight, independent clinical/difficulty/language review, exhaustive cross-repository and active-draft semantic screening, INC inventory, item-specific source/video verification, browser rendering, PR7/8 navigation clearance, latest-main reconciliation and exact-head CI remain integration gates. Continue uncovered topics only after current claims and inventory screening. Do not regenerate 400 candidates. Preserve other owners, learner history and five hourly automations.
+Last owner: endocrine-b05-20261128-1216Z
+Release: Batch 05 completed staging and exact readbacks on 2026-11-28.
+Draft PR: #54
+Verified checkpoint: baa85c4f053bc8c3245ec884f7d8bbbd708f420b
+Content head: 6cba6b685853b38b29f0f9221f2d326cb2679623
+Checkpoint: Chapters/Endocrine-System/Batch-05-Candidate-Checkpoint.md
+Inventory: 500 staged originals; 2000 individual Roman Hinglish rationales; 500 exam clues; 25 banks; 25 concepts; 25 SVGs; 25 evidence registers.
+Batch 05: 100 originals (29 Easy, 36 Medium, 35 Difficult), 400 rationales. Existing 400 preserved.
+Prior CI 46143424805 succeeded. New exact-head CI: 46144827945: pending/pending.
+No publication or live/mock/PYQ credit. Independent clinical, source, semantic, INC, difficulty/language, video, visual rendering, navigation, latest-main reconciliation and CI gates remain open.
+Next: fresh isolated claim and adjacent coverage screening; prioritize genuinely uncovered diabetes complications, hypoglycemia prevention, pituitary water balance or other verified gaps. Follow PR59 content-first; preserve existing banks, other sessions, learner history and five hourly automations.
