@@ -132,7 +132,7 @@ Suspected cervical injury mein unstable vertebral injury ho sakti hai. Unnecessa
 
 ### Q5. Which body mechanics technique reduces spinal strain when moving an object within safe lifting limits?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 AIIMS Bhatinda Nursing Officer, 29 September 2019 — related memory-based concept](https://testbook.com/question-answer/a-principle-of-good-body-mechanics-includes-which--617656cab2cc971558e83de3)**
 
 - **A.** Hold the load far away and twist the trunk
 - **B.** Keep knees rigid while bending from the waist
@@ -152,6 +152,8 @@ Object lifting mein load ka weight aur body se distance dono spinal torque par a
 - **D (Sahi):** Close load, stable stance aur hip-knee movement object lifting mein control aur leverage improve karte hain.
 
 **Exam clue:** Object lifting ≠ dependent patient lifting. Mechanical aids ko priority dein.
+
+**Historical evidence (related concept only):** Testbook ki memory-based report mein stable base aur knees bend karne ka principle poochha gaya tha. Yeh original MCQ usi principle ko safe object lifting mein apply karta hai. Isse dependent patient ko manually lift karna safe nahi maana ja sakta. Official paper aur final key authenticate nahi hue hain.
 
 **Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
@@ -186,7 +188,7 @@ Non-weight-bearing dependent patient apne legs se transfer support nahi kar sakt
 
 **Clinical reference:** [OSHA safe patient handling](https://www.osha.gov/healthcare/safe-patient-handling) · [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
-**YouTube MCQ practice: specific verification pending.**
+**MCQ practice lead (topic-level, publisher description):** [ADAPT NCLEX REVIEW — Basic Care & Comfort NCLEX Questions](https://www.youtube.com/watch?v=QdgEI9XrcuY&t=464s), 5 July 2026. Publisher ne 07:44 par mechanical lift aur safe transfer ki question practice list ki hai. Yeh transfer safety se related practice hai, lekin is exact patient scenario aur video playback ko abhi verify nahi kiya gaya hai.
 
 [Legacy mock practice: Mock 02, Q54](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q54-a-patient-requires-maximal-assistance-and-cannot-bear-weight-which-transfer-method-is-safest) — same topic-bank question, not a new original.
 
@@ -218,6 +220,8 @@ Walker grips generally standing mein wrist crease ke aas-paas set hote hain, jis
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients)
 
 **YouTube MCQ practice: specific verification pending.**
+
+**Supplementary teaching video (not counted as MCQ practice):** [RegisteredNurseRN — Walker Nursing Assistive Devices Mobility NCLEX](https://www.youtube.com/watch?v=GzTp6Xy6ako), 16 August 2019. Video ke indexed description mein walker ke handgrip fit aur elbow flexion samjhaye gaye hain. Yeh demonstration hai aur quiz alag link par hai. Isliye exact in-video MCQ abhi verify nahi hua hai.
 
 [Legacy mock practice: Mock 02, Q6](../Mock-Tests/Nursing-Foundations-Mock-02-120.md#q6-when-adjusting-a-walker-for-a-patient-which-finding-generally-indicates-a-suitable-handgrip-height) — same topic-bank question, not a new original.
 
@@ -312,7 +316,7 @@ Partial weight bearing ka matlab affected limb par prescribed limited load allow
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**YouTube MCQ practice: specific verification pending.**
+**▶️ [Related MCQ practice — crutch walking, Stancoast NCLEX Coaching](https://www.youtube.com/watch?v=eotgbD74YkA).** 26 October 2024 ke publisher description mein crutch walking techniques par NCLEX question-answer practice listed hai. Is exact partial-weight-bearing scenario, timestamp aur playback verify nahi hue hain.
 
 [Legacy mock practice: Mock 03, Q10](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q10-a-patient-using-crutches-is-permitted-partial-weight-bearing-what-determines-the-appropriate-gait-pattern) — same topic-bank question, not a new original.
 
@@ -343,7 +347,7 @@ Passive ROM mein patient joint ko actively contract karke move nahi karta. Careg
 
 **Clinical reference:** [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**YouTube MCQ practice: specific verification pending.**
+**MCQ practice lead (topic-level, publisher description):** [ADAPT NCLEX REVIEW — Basic Care & Comfort NCLEX Review: 12 High-Yield Practice Questions & Rationales](https://www.youtube.com/watch?v=6GsJiFccuiY&t=1739s), 7 September 2023. Publisher ne 28:59 par stroke ke baad passive range of motion exercises ka question segment list kiya hai. Isse passive movement ka concept revise kar sakte hain, lekin is original question ke exact wording aur playback ko verify nahi kiya gaya hai.
 
 [Legacy mock practice: Mock 03, Q87](../Mock-Tests/Nursing-Foundations-Mock-03-120.md#q87-which-exercise-involves-a-caregiver-moving-the-patients-joint-without-active-muscle-effort-from-the-patient) — same topic-bank question, not a new original.
 
@@ -382,7 +386,7 @@ Immobility venous stasis badha sakti hai. New painful swollen calf DVT ya doosri
 
 ### Q13. Which positioning principle helps prevent foot drop during prolonged bed rest?
 
-**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT
+**Difficulty:** 🟡 Medium · **Priority:** 🟡 IMPORTANT · **[🟣 AIIMS Raipur Nursing Officer, 9 September 2017 — related reported concept only](https://testbook.com/question-answer/which-comfort-device-is-used-to-prevent-foot-drop--62d788109982d749dafefa33)**
 
 - **A.** Avoid inspecting the heels
 - **B.** Maintain neutral ankle alignment using appropriate support and reassess the skin
@@ -405,6 +409,8 @@ Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur 
 
 **Clinical reference:** [OpenStax positioning](https://openstax.org/books/clinical-nursing-skills/pages/9-4-positioning-in-bed) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
+**Related exam evidence:** Is third-party memory-based report mein foot drop ko rokne ke liye foot board ka selection poochha gaya tha. Is original question mein neutral ankle support aur skin reassessment ka principle poochha gaya hai. Patient ke liye suitable support choose karna aur pressure damage se bachna zaroori hai. Official paper aur key verify nahi hue hain.
+
 **YouTube MCQ practice: specific verification pending.**
 
 [Legacy mock practice: Mock 04, Q31](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q31-which-positioning-principle-helps-prevent-foot-drop-during-prolonged-bed-rest) — same topic-bank question, not a new original.
@@ -413,7 +419,7 @@ Prolonged bed rest mein ankle plantarflexed rehne se soft tissue shortening aur 
 
 ### Q14. A patient with a weak hemiplegic arm is being transferred. Which action protects the shoulder?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 JIPMER Staff Nurse, 4 June 2013 — related reported concept](https://testbook.com/question-answer/when-helping-a-stroke-patient-nurse-should-assist--6221ec81f798152216401a3c)**
 
 - **A.** Support the affected arm and avoid pulling on it
 - **B.** Lift the patient by the affected wrist
@@ -434,9 +440,11 @@ Stroke ke baad weak ya flaccid arm mein shoulder stabilizing muscle activity kam
 
 **Exam clue:** Hemiplegic shoulder = support, never pull on affected arm.
 
+**Historical evidence (related concept only):** Testbook ki reported item mein stroke patient ko assist karte waqt nurse ki position poochhi gayi thi. Uski explanation affected arm ko support karne ka bhi zikr karti hai. Yeh original MCQ shoulder protection par hai, isliye dono ko exact same question nahi samajhna chahiye. Official paper aur final key authenticate nahi hue hain.
+
 **Clinical reference:** [Canadian Stroke Best Practices](https://www.strokebestpractices.ca/recommendations/stroke-rehabilitation-delivery/2-shoulder-pain-and-complex-regional-pain-syndrome)
 
-**YouTube MCQ practice: specific verification pending.**
+**MCQ practice lead (topic-level, description indexed only):** [NurseStudy Net — Stroke Nursing NCLEX Practice Questions: 30 Neuro Review Questions](https://www.youtube.com/watch?v=QcOj75neLRg), 10 September 2026. Publisher ne stroke recovery ke dauran safe transfers aur rehabilitation ko question coverage mein list kiya hai. Yeh related practice hai, lekin affected arm ko support karne wala exact question, timestamp aur playback verify nahi hue hain. [National Clinical Guideline for Stroke, section 4.23.3](https://www.strokeguideline.org/chapter/motor-recovery-and-physical-effects-of-stroke/?id=302) affected arm ka weight support karne aur handling ke dauran mechanical stress se bachne ki salah deti hai.
 
 [Legacy mock practice: Mock 04, Q28](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q28-a-patient-with-a-weak-hemiplegic-arm-is-being-transferred-which-action-protects-the-shoulder) — same topic-bank question, not a new original.
 
@@ -475,7 +483,7 @@ Deconditioning prolonged inactivity se muscle strength, endurance aur function k
 
 ### Q16. During first ambulation after surgery a patient becomes pale and dizzy. Which action is safest?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 ESIC Staff Nurse, 26 February 2019 Shift III — related reported concept only](https://testbook.com/question-answer/when-dangling-the-patient-at-the-bedside-monitor--619cce828951c43cb2baf2bc)**
 
 - **A.** Leave the patient standing while obtaining equipment
 - **B.** Encourage rapid walking to improve circulation
@@ -498,7 +506,9 @@ First postoperative ambulation mein pallor aur dizziness postural BP drop, blood
 
 **Clinical reference:** [OpenStax transfer and aids](https://openstax.org/books/clinical-nursing-skills/pages/9-3-transferring-patients) · [OpenStax mobility assessment](https://openstax.org/books/clinical-nursing-skills/pages/9-2-assessing-mobility)
 
-**YouTube MCQ practice: specific verification pending.**
+**Related exam evidence:** Is third-party report mein bed ke kinaare baithne ke dauraan orthostatic hypotension aur dizziness ko monitor karne ka concept poochha gaya tha. Is original question mein operation ke baad chalne ke dauraan symptoms aane par safe action poochha gaya hai. Dono related hain, lekin exact question same nahi hai. Official paper aur answer key verify nahi hue hain.
+
+**MCQ practice lead (related question, publisher description):** [Ace My Nursing Exams by NursesPath — Before assisting a patient to ambulate for the first time after surgery, what should be assess first](https://www.youtube.com/watch?v=C1HJHdbHOIw), 5 July 2026. Publisher ke description mein pehli postoperative ambulation se pehle orthostatic blood pressure aur dizziness ki assessment samjhayi gayi hai. Yeh related safety question hai, lekin hamara original question walking ke dauran dizziness hone par action poochhta hai. Exact playback aur timestamp abhi verify nahi hue hain.
 
 [Legacy mock practice: Mock 04, Q117](../Mock-Tests/Nursing-Foundations-Mock-04-120.md#q117-during-first-ambulation-after-surgery-a-patient-becomes-pale-and-dizzy-which-action-is-safest) — same topic-bank question, not a new original.
 
@@ -599,7 +609,7 @@ Slide sheet ya approved transfer aid dependent patient ki repositioning mein fri
 
 ### Q20. A patient has a new restriction against hip flexion beyond the prescribed limit. Which nursing approach is appropriate during toileting?
 
-**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD
+**Difficulty:** 🔴 Difficult · **Priority:** 🟠 HIGH YIELD · **[🟣 HPRCA Assistant Staff Nurse, 20 March 2026 Q76 — related reported concept](https://www.scribd.com/document/1045794040/20-March-HPRCA-Nursing-Staff-paper)**
 
 - **A.** Use a very low toilet seat regardless of the restriction
 - **B.** Flex the hip forcefully to improve range
@@ -620,9 +630,11 @@ Hip flexion restriction surgeon ke specific procedure aur patient plan par depen
 
 **Exam clue:** Specific prescribed hip limit > generic rules.
 
+**Historical evidence (related concept only):** Third-party response sheet mein Q76, ID 4410091684671, hip replacement ke baad dislocation se bachne ke liye movement restriction poochhta hai. Candidate ka selected answer official final key nahi hai. Yeh original MCQ prescribed hip flexion limit ke andar safe toileting ka decision poochhta hai. [NHS guidance](https://www.guysandstthomas.nhs.uk/health-information/precautions-after-hip-surgery) ke mutabik precautions individual surgical plan par depend karti hain. Raised toilet seat tab use ki jaati hai jab assessment ke mutabik uski zaroorat ho. Original key aur official historical key ko ek hi cheez na samjhein.
+
 **Clinical reference:** [NHS individualized hip precautions](https://www.guysandstthomas.nhs.uk/health-information/precautions-after-hip-surgery)
 
-**YouTube MCQ practice: specific verification pending.**
+**MCQ practice lead (topic-level, description indexed only):** [ADAPT NCLEX REVIEW — NCLEX Safety Questions | 35 Most Tested Patient Positioning with Common Sense](https://www.youtube.com/watch?v=hTe_CsWWhKM&t=867s), 9 April 2026. Publisher ke description mein 14:27 par total hip replacement aur abduction wedge ka topic diya gaya hai. Yeh hip protection se related practice hai, lekin toileting aur prescribed hip flexion limit wala exact question ya playback verify nahi hua hai. Patient ke liye surgeon ka individualized plan follow karein.
 
 [Legacy mock practice: Mock 05, Q113](../Mock-Tests/Nursing-Foundations-Mock-05-120.md#q113-a-patient-has-a-new-restriction-against-hip-flexion-beyond-the-prescribed-limit-which-nursing-approach-is-appropriate-during-toileting) — same topic-bank question, not a new original.
 

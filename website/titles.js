@@ -14,6 +14,8 @@ function resourceMeta(p,sourceHeading='',slots=null){
  else if(parts.length===2){title=cleanTitle(sourceHeading)||filename;type='Study index'}
  else if(parts.length===3&&name==='README.md'){title=chapter;type='Chapter overview'}
  else if(name==='README.md'){title=(sectionNames[folder]||words(folder))+' index';type='Resource index'}
+ else if(folder==='Concepts'&&name==='Cardiovascular-System-Master-Guide.md'){type='Theory'}
+ else if(folder==='Concepts'&&/(?:Cross-Chapter-Allocation)\.md$/i.test(name)){type='Study guide'}
  else if(/(?:[- ]Index|[- ]Plan|[- ]Map|[- ]Register|[- ]Audit|[- ]Guide|[- ]Gaps|References)\.md$/i.test(name)){type=/Audit|Register|Gaps/i.test(name)?'Research and evidence notes':'Study guide'}
  else if(draft){type='Draft question set'}
  else if(folder==='Mock-Tests'||folder==='MCQs'&&/(?:^|[-_ ])mock(?:[-_ .]|\d)/i.test(name)){type='Mock test'}

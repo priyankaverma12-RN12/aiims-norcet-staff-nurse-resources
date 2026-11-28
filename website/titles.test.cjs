@@ -18,3 +18,7 @@ for(const [folder,title] of [['Concepts','Theory'],['MCQs','MCQs'],['Mock-Tests'
 assert.equal(resourceMeta('Chapters/Example/MCQs/Asthma-30-MCQs.md','MCQs',30).title,'Asthma');
 assert.equal(resourceMeta('Chapters/NORCET-Full-Chapter-Index.md','NORCET Full Chapter Index').type,'Study index');
 console.log('Folder names and generic heading fallbacks passed.');
+
+assert.equal(resourceMeta('Chapters/Cardiovascular-System/Concepts/Cardiovascular-System-Master-Guide.md','Cardiovascular System — Master Study Guide').type,'Theory');
+assert.equal(resourceMeta('Chapters/Endocrine-System/Concepts/Endocrine-System-Master-Guide.md','Complete Concepts Index').type,'Study guide');
+assert.equal(resourceMeta('Chapters/Nursing-Foundations/Concepts/05-IPC-Cross-Chapter-Allocation.md','Legacy allocation').type,'Study guide');

@@ -35,9 +35,18 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
   - Powers of labour: [Concepts](07D-Powers-of-Labour.md) · [20 originals](../MCQs/07D-Powers-of-Labour-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07D-Powers-of-Labour-Evidence.md). Published, independent review pending.
   - Passenger — fetal factors: [Concepts](07E-Passenger-Fetal-Factors.md) · [20 originals](../MCQs/07E-Passenger-Fetal-Factors-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07E-Passenger-Fetal-Factors-Evidence.md). Published, independent review pending.
   - Passage — maternal pelvis: [Concepts](07F-Passage-Maternal-Pelvis.md) · [20 originals](../MCQs/07F-Passage-Maternal-Pelvis-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07F-Passage-Maternal-Pelvis-Evidence.md). Published, independent review pending.
-  - Passenger, passage, cardinal movements, maternal-fetal assessment, partograph, WHO Labour Care Guide and nursing management: pending.
+  - Mechanism and cardinal movements: [Concepts](07G-Mechanism-and-Cardinal-Movements.md) · [20 originals](../MCQs/07G-Mechanism-and-Cardinal-Movements-20-MCQs.md) · [Reported adaptation and evidence](../Previous-Year-Questions/07G-Mechanism-and-Cardinal-Movements-Evidence.md). Published, independent review pending.
+  - Maternal-fetal intrapartum assessment: [Concepts](07H-Maternal-Fetal-Intrapartum-Assessment.md) · [20 originals](../MCQs/07H-Maternal-Fetal-Intrapartum-Assessment-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07H-Maternal-Fetal-Intrapartum-Assessment-Evidence.md). Published, independent review pending.
+  - Traditional and modified partograph: [Concepts](07I-Partograph.md) · [20 originals](../MCQs/07I-Partograph-20-MCQs.md) · [Reported adaptation and evidence](../Previous-Year-Questions/07I-Partograph-Evidence.md). Published, independent review pending.
+  - WHO Labour Care Guide: [Concepts](07J-WHO-Labour-Care-Guide.md) · [20 originals](../MCQs/07J-WHO-Labour-Care-Guide-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07J-WHO-Labour-Care-Guide-Evidence.md). Published, independent review pending.
+  - Nursing management: [Concepts](07K-Nursing-Management-in-Normal-Labour.md) · [20 originals](../MCQs/07K-Nursing-Management-in-Normal-Labour-20-MCQs.md) · [Evidence](../Previous-Year-Questions/07K-Nursing-Management-in-Normal-Labour-Evidence.md). Published, independent review pending.
 - partograph and delivery
-- hypertensive disorders
+- Hypertensive disorders
+  - Classification and recognition: [Concepts](08A-Hypertensive-Disorders-Classification-and-Recognition.md) · [20 originals](../MCQs/08A-Hypertensive-Disorders-Classification-and-Recognition-20-MCQs.md) · [Evidence](../Previous-Year-Questions/08A-Hypertensive-Disorders-Classification-and-Recognition-Evidence.md). Published, independent review pending.
+  - Pre-eclampsia: [Concepts](08B-Pre-eclampsia.md) · [20 originals](../MCQs/08B-Pre-eclampsia-20-MCQs.md) · [Reported adaptation and evidence](../Previous-Year-Questions/08B-Pre-eclampsia-Evidence.md). Published, independent review pending.
+  - Eclampsia: [Concepts](08C-Eclampsia.md) · [20 originals](../MCQs/08C-Eclampsia-20-MCQs.md) · [Evidence](../Previous-Year-Questions/08C-Eclampsia-Evidence.md). Published, independent review pending.
+  - HELLP syndrome: [Concepts](08D-HELLP-Syndrome.md) · [20 originals](../MCQs/08D-HELLP-Syndrome-20-MCQs.md) · [Reported adaptation and evidence](../Previous-Year-Questions/08D-HELLP-Syndrome-Evidence.md). Published, independent review pending.
+  - Hypertension management and nursing monitoring: pending.
 - antepartum hemorrhage
 - obstetric emergencies
 - PPH

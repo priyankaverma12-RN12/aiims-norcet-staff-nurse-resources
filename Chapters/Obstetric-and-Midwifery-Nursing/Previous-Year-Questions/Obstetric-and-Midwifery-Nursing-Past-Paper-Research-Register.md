@@ -119,3 +119,44 @@ Total indexed reported adaptations: 5. These are not authenticated verbatim offi
 
 ## Passage — maternal pelvis — 28 November 2026
 [Clinical and exam research gaps](07F-Passage-Maternal-Pelvis-Evidence.md). AIIMS conjugate and HPSSC guide indexed leads not authenticated. 12 broad provisional MCQ video mappings and 8 unmapped gaps. Zero exact playback and no new historical adaptation counted.
+
+
+## Mechanism and cardinal movements — 28 November 2026
+
+[HPSSSB October 2020 reported adaptation and research gaps](07G-Mechanism-and-Cardinal-Movements-Evidence.md). Direct third-party report and reported external-rotation key retrieved. Official booklet/key not authenticated. DSSSB 2019 restitution report related to original Q14, not recounted. AIIMS Delhi 2019 and HPRCA archive leads pending. Thirteen broad provisional original video mappings, seven unmapped, exact playback pending all originals and adaptation. Obstetrics historical adaptation inventory now 26.
+
+## Maternal-fetal intrapartum assessment — 28 November 2026
+[Clinical and exam evidence](07H-Maternal-Fetal-Intrapartum-Assessment-Evidence.md). NICE NCBI direct text reviewed, publisher indexed. RRB 29 April 2025 Shift 3 pulse notation report reserved for Partograph. HPRCA 25026 final-key listing indexed, direct retrieval failed. Zero new historical adaptations. Broad MCQ session candidate, all 20 specific practice gaps pending.
+
+## Partograph — 28 November 2026
+[One separate reported RRB 29 April 2025 Shift 3 pulse-symbol adaptation and research gaps](07I-Partograph-Evidence.md). Official final key not authenticated. NHM 2024 text corroborates chart convention. Shift 1 contraction question indexed, not counted. Obstetrics adaptations 27. All 20 originals and adaptation retain exact video gaps.
+
+
+## WHO Labour Care Guide — 28 November 2026
+
+[LCG research gaps](07J-WHO-Labour-Care-Guide-Evidence.md). WHO official form visually inspected, manual and implementation text checked. HPRCA post 25026 key portal returned 403, no matched LCG item or official key. RRB traditional partograph leads remain allocated to 07I. Twenty candidate-linked original video gaps, zero specific verified mappings or playback. Historical adaptation count unchanged at 27 in Obstetrics.
+
+
+## Nursing management in normal labour — 28 November 2026
+
+[07K evidence and gaps](07K-Nursing-Management-in-Normal-Labour-Evidence.md). WHO direct text reviewed, NICE and NHM indexed. HPRCA retained placental fragment lead and DSSSB AMTSL lead not recounted. Zero new historical adaptations. Twenty broad candidate links and twenty specific video gaps. Obstetrics historical adaptation count remains 27.
+
+
+## Hypertensive disorders classification — 28 November 2026
+
+[08A clinical and exam evidence](08A-Hypertensive-Disorders-Classification-and-Recognition-Evidence.md). ISSHP recommendations and classification table, NHM CEmONC 2024 and INC OBG Nursing II Unit I extracted text directly reviewed. PDF screenshots failed. NORCET 7 Prelims 2024 reported abruption association retrieved and reserved for 08B. HPRCA 25026 paper retrieval failed. No new historical adaptations. Twenty broad video candidate links, twenty specific gaps. Obstetrics adaptations remain 27.
+
+
+## Pre-eclampsia — 28 November 2026
+
+[08B evidence and reported adaptation](08B-Pre-eclampsia-Evidence.md). Direct Testbook NORCET 7 Prelims 2024 reported abruption association retrieved. One independently worded clinical scenario adaptation, official key unauthenticated. HPRCA 25026 Shift 3 Q62 neonatal assessment indexed only, no count. Direct ISSHP, NHM and NICE NCBI text reviewed. Twenty original video candidate gaps and one adaptation gap. Obstetrics historical adaptations now 28.
+
+
+## Eclampsia — 28 November 2026
+
+[08C clinical and historical evidence](08C-Eclampsia-Evidence.md). NORCET 20 November 2021 Shift II monitoring report corroborated by two indexed versions, direct opens failed. Ambiguous duplicate reflex alternatives and temperature exception, no new adaptation counted. NHM, ISSHP, WHO and NICE retrieved. 20 specific video gaps. Obstetrics historical adaptations remain 28.
+
+
+## HELLP syndrome — 28 November 2026
+
+[08D evidence and reported adaptation](08D-HELLP-Syndrome-Evidence.md). RRB Staff Nurse 20 July 2019 Shift III report directly retrieved, pre-eclampsia association, one independently worded adaptation. Official booklet and key pending. HPRCA post 25026 listing indexed only. Direct StatPearls, NHM and NICE NCBI text, specialty guidance indexed. Twenty-one specific video gaps. Obstetrics adaptations 29.
