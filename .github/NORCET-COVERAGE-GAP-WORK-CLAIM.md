@@ -1,13 +1,13 @@
 # Independent NORCET coverage-gap claim
 
-State: CLAIMED
-Owner: coverage-gap-hematology-20261128-040142
-Scope: Hematology only, sickle cell disease and thalassemia banks then distinct platelet topics if validated, separate evidence and chapter-local inventory. No shared navigation or other jobs.
-Claimed UTC: 2026-11-28T04:01:42Z
-Expiry UTC: 2026-11-28T04:31:42Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
-Last owner: coverage-gap-hematology-20261128-034158
-Last scope: Hematology and Blood Disorders only. Released after verified Run 3 writes.
+Last owner: coverage-gap-hematology-20261128-040142
+Last scope: Hematology and Blood Disorders only. Released after verified Run 4 writes.
 
 ## Verified checkpoint — 28 November 2026, Run 2
 
@@ -38,3 +38,21 @@ All 36 chapter directories structurally inventoried, 22 other starter files read
 - Run 3 normalized stem checks passed in bounded chapter and related banks. Full cross-repository semantic and independent clinical audit pending. Video leads indexed for 21 items, all exact mappings and playback pending. HPRCA official notice indexed, final question-key mapping unresolved.
 - Read-only inventory extended to 19 reported-question files, 26 hidden practice slots across 14 starter-stage or Mental Health chapters. 36 chapter directories structurally inventoried. Exact populated-chapter and register-content counts remain pending.
 - Both skill files and repository instructions fetched fully in ranges; audit log ranges retrieved with relevant lessons reviewed, not certified as exhaustive independent line-by-line re-review. Existing theory, website, learner history, PR8, PR12, shared navigation, other claims and five hourly automations not modified by this run. Release only this run's owned claim.
+
+## Verified checkpoint — 28 November 2026, Run 4
+
+- Previous released checkpoint 73e8eabf190c5069b15907b9cabd782c745c523e preserved. Run 4 claim acquired at 1953e086f98b55133efb4e7a9a3c5ac175b7f979.
+- Sickle cell disease: e3bc2e06c6b9954867b1df86bbdf809045d69334, 30 original questions, 120 rationales.
+- Thalassemia: 875da4952819771b4802a50c9ca5da0da8dca347, 30 original questions, 120 rationales.
+- Platelet disorders: e9d91bb5711732a18ed2da774ddfddc19792baea, 30 original questions, 120 rationales.
+- Immune thrombocytopenia: 2271f92bd8ec8658fbbbcdb53ac80463e2439095, 30 original questions, 120 rationales.
+- HPSSC 2020 related-concept adaptation and other exam evidence: 9ae2cf53e492db05610696131a2e92629de8f57c, one adaptation, four rationales. Third-party question directly retrieved, official key not authenticated. HPRCA official final-key notice indexed, exact question-key match pending.
+- Chapter-local inventory: 9ce4a9abf619b91a9407a3b924da8331b9c5dcfd, blob eba61b87eb4b41fc87b071d18f17f5201e3827d4.
+- All six content/inventory writes exact remote readback passed. All 120 answer keys, matching option text and individual rationale labels aligned on independent structural readback. Cumulative 304 original slots (four preserved starters and 300 newly authored originals), five separate source-linked adaptations, 1,220 newly authored option rationales. Zero full mocks and zero authenticated verbatim PYQs.
+- Research and limits recorded in inventory: direct CDC/NHLBI/Indian mission/TIF/ARUP text, other indexed clinical references, 2026 ITP focused update indexed but direct article retrieval failed. Full independent clinical and cross-repository semantic review not complete. Exact YouTube question playback and all exact video mappings pending.
+- Read-only inventory extended to eight register-only chapters (zero question/answer blocks), Mental Health 34 topic-bank slots and zero full mocks, Neurological-System 124 topic-bank slots and 120 mock slots in one full mock. All 36 structural directories previously inventoried. Exact populated-chapter counts and semantic deduplication still pending. Preserve other jobs.
+- Full rule files fetched, unchanged hashes compared, applicable lessons and audit ranges through 842 reviewed in extracted summaries, fresh exhaustive line-by-line preflight not certified. Other claim hashes and current PRs inspected. Existing theory, shared navigation, website, learner history, PR8, PR12, PR27 and five hourly automation settings not modified.
+
+### Next safe scope
+
+Recheck all claims, rule files, recent commits and open PRs. Continue distinct leukemia overview/acute and chronic leukemia topics, then transfusion and reactions, anticoagulation and bleeding precautions, reviewing other chapter banks for overlap. Continue remaining eligible hematological curriculum objectives before any ten original-only 120-question mock tests. Complete outstanding independent clinical, comprehensive semantic, HPRCA and other official PYQ key, dedicated MCQ video and repository count checks. Only release owned claim. Do not overwrite any later claim owner.
