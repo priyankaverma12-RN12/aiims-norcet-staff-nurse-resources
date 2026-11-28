@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: CLAIMED
-Owner: hepatobiliary-b11-20261128T1332Z
-Scope: PR60 chapter-local Easy deficit supplements and distinct curriculum gaps, existing banks untouched, no shared navigation.
-Claimed UTC: 2026-11-28T13:32:00Z
-Expiry UTC: 2026-11-28T14:02:00Z
+State: FREE
+Owner: none
+Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
+Claimed UTC: none
+Expiry UTC: none
 
 ## Released checkpoint — 28 November 2026
 
@@ -53,3 +53,8 @@ Candidate head c5a8ebd78f9e8a2e1a82cfa7863e409c86e7c525. Added 100 original MCQs
 ## Batch 10 released checkpoint — 28 November 2026
 
 Candidate head 68c8087983f1fa5cffd50ff14a1064cbeb7ac8ef. Added 100 original MCQs across five new banks (percutaneous cholecystostomy, drug and supplement-induced liver injury, liver biopsy, hepatectomy nursing, acute pancreatitis severity and monitoring), 400 individual rationales and 100 clues. All five banks and appended inventory exact readbacks passed. New difficulty 35 Easy/34 Medium/31 Difficult. A/B/C/D 25 each. 100 aligned keys, closed details and distinct normalized new stems. Targeted prior and sibling heading comparison performed, full 844 prior stem comparison exceeded connector call limit and remains pending. 940 staged originals, 3760 rationales, 940 clues, 47 banks, six existing guides and one SVG. Cumulative 133 Easy/438 Medium/369 Difficult. All previous 42 banks unchanged. No live credit, new mocks or PYQs. Independent clinical/pharmacy/semantic review, full source/video and concept/diagram work, curriculum, PR29/7/8, fresh preflight, main reconciliation and CI remain pending. Next target meaningful uncovered objectives and Easy deficit corrections, then original-only balanced mocks once coverage certified. Preserve other claims, learner history and five hourly jobs.
+
+
+## Batch 11 released checkpoint — 28 November 2026
+
+Candidate head 1c7115047b0712c23c4e9c8b2921061c1c2802fb. Added 100 Easy originals across 17 topic balancing supplements (topics 01–16 six each, topic 17 four), 400 individual Roman Hinglish rationales, 100 clues. All supplements, corrections and inventory exact readbacks passed. Final 100 distinct normalized new stems, 400 options/rationales, aligned answer keys and closed details, zero exact matches in targeted comparison with 340 earlier corresponding stems. Batch10 outstanding exact comparison completed against all 844 earlier candidate and legacy stems, zero exact matches. All previous 47 banks preserved. Cumulative 1,040 staged originals, 4,160 rationales, 1,040 clues, 47 prior banks plus 17 supplements (64 files), six existing guides and one SVG. Difficulty 233 Easy/438 Medium/369 Difficult. No live credit, new mock or PYQ. Independent clinical and full semantic review, source/video, concepts/diagrams, curriculum certification and PR29/7/8, latest main reconciliation and CI gates pending. Continue from topic 17 onward for Easy deficits and genuine remaining curriculum gaps, then balanced original-only mocks once topic coverage verified. Preserve other claims, learner history and five hourly schedules.
