@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-09e-cookery-20261128-1216Z
+Scope: Isolated PR35 Unit X cooking methods and food preparation bank, guide, SVG and candidate inventory. No shared navigation or other chapter changes.
+Claimed UTC: 2026-11-28T12:16:39Z
+Expiry UTC: 2026-11-28T12:46:39Z
 
 ## Latest released checkpoint — 09D dyslipidemia dietary care
 
