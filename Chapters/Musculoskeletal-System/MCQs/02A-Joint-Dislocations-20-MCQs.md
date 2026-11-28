@@ -9,19 +9,19 @@
 **Difficulty:** 🟢 Easy · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Complete dislocation
-- **B.** Subluxation
-- **C.** Ankylosis
+- **B.** Ankylosis
+- **C.** Subluxation
 - **D.** Avulsion fracture
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Subluxation**
+**Correct answer: C. Subluxation**
 
 **A kyun galat hai:** Complete dislocation mein joint surfaces ka normal contact poori tarah lost hota hai. Yahan partial loss describe hua hai.
 
-**B kyun sahi hai:** Subluxation mein joint surfaces ka contact partially lost hota hai. Isliye report complete dislocation ke bajay partial displacement batati hai.
+**B kyun galat hai:** Ankylosis mein joint ki mobility severely limited ya absent hoti hai. Ye partial displacement ka naam nahi hai.
 
-**C kyun galat hai:** Ankylosis mein joint ki mobility severely limited ya absent hoti hai. Ye partial displacement ka naam nahi hai.
+**C kyun sahi hai:** Subluxation mein joint surfaces ka contact partially lost hota hai. Isliye report complete dislocation ke bajay partial displacement batati hai.
 
 **D kyun galat hai:** Avulsion mein tendon ya ligament attachment se bone fragment pull hota hai. Report mein fragment nahi bataya gaya.
 
@@ -37,22 +37,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Support the arm in the position found and arrange urgent skilled assessment
-- **B.** Ask the patient to repeatedly rotate the arm
-- **C.** Pull the arm forcefully until it clicks
-- **D.** Apply a tight circumferential wrap over the deformity
+- **A.** Apply a tight circumferential wrap over the deformity
+- **B.** Pull the arm forcefully until it clicks
+- **C.** Ask the patient to repeatedly rotate the arm
+- **D.** Support the arm in the position found and arrange urgent skilled assessment
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Support the arm in the position found and arrange urgent skilled assessment**
+**Correct answer: D. Support the arm in the position found and arrange urgent skilled assessment**
 
-**A kyun sahi hai:** Joint ko found position mein support karne se unnecessary movement aur nearby nerve-vessel damage ka risk kam hota hai. Trained team fracture aur neurovascular status assess karke reduction karegi.
+**A kyun galat hai:** Tight wrap swelling ke saath circulation restrict kar sakti hai. Support device ko safely apply aur monitor karna hota hai.
 
-**B kyun galat hai:** Repeated rotation se injured tissues aur possible fracture worsen ho sakte hain. Assessment ke pehle movement force nahi karni chahiye.
+**B kyun galat hai:** Untrained forceful reduction nerve, vessel ya fracture injury kar sakti hai. Nurse appropriate emergency care arrange karti hai.
 
-**C kyun galat hai:** Untrained forceful reduction nerve, vessel ya fracture injury kar sakti hai. Nurse appropriate emergency care arrange karti hai.
+**C kyun galat hai:** Repeated rotation se injured tissues aur possible fracture worsen ho sakte hain. Assessment ke pehle movement force nahi karni chahiye.
 
-**D kyun galat hai:** Tight wrap swelling ke saath circulation restrict kar sakti hai. Support device ko safely apply aur monitor karna hota hai.
+**D kyun sahi hai:** Joint ko found position mein support karne se unnecessary movement aur nearby nerve-vessel damage ka risk kam hota hai. Trained team fracture aur neurovascular status assess karke reduction karegi.
 
 **Exam clue:** Suspected dislocation ko independently manipulate nahi karna chahiye.
 
@@ -67,19 +67,19 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Isolated lateral epicondylitis
-- **B.** Anterior patellar dislocation
-- **C.** Posterior glenohumeral dislocation
+- **B.** Posterior glenohumeral dislocation
+- **C.** Anterior patellar dislocation
 - **D.** Carpal tunnel syndrome
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Posterior glenohumeral dislocation**
+**Correct answer: B. Posterior glenohumeral dislocation**
 
 **A kyun galat hai:** Lateral epicondylitis elbow tendon-related pain hai. Ye seizure ke baad fixed shoulder rotation explain nahi karti.
 
-**B kyun galat hai:** Patella knee ka part hai. Is case mein shoulder deformity aur rotation restriction hai.
+**B kyun sahi hai:** Seizure ke powerful muscle contractions posterior shoulder dislocation cause kar sakte hain. Internal rotation aur external rotation restriction important clues hain, imaging se confirm hota hai.
 
-**C kyun sahi hai:** Seizure ke powerful muscle contractions posterior shoulder dislocation cause kar sakte hain. Internal rotation aur external rotation restriction important clues hain, imaging se confirm hota hai.
+**C kyun galat hai:** Patella knee ka part hai. Is case mein shoulder deformity aur rotation restriction hai.
 
 **D kyun galat hai:** Carpal tunnel syndrome wrist par median nerve compression hai. Isse fixed shoulder rotation expected nahi hoti.
 
@@ -95,22 +95,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Ulnar nerve
-- **B.** Median nerve
-- **C.** Tibial nerve
-- **D.** Axillary nerve
+- **A.** Axillary nerve
+- **B.** Tibial nerve
+- **C.** Median nerve
+- **D.** Ulnar nerve
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: D. Axillary nerve**
+**Correct answer: A. Axillary nerve**
 
-**A kyun galat hai:** Ulnar nerve hand ke little-finger side sensation aur intrinsic muscle function se related hai. Lateral deltoid area iska typical territory nahi hai.
+**A kyun sahi hai:** Axillary nerve shoulder joint ke paas course karta hai aur deltoid region ki sensation aur muscle function supply karta hai. Isliye anterior shoulder dislocation mein is finding ko document aur escalate karo.
 
-**B kyun galat hai:** Median nerve palm aur selected fingers ki sensation aur movement se related hai. Shoulder ke lateral patch ka primary nerve nahi hai.
+**B kyun galat hai:** Tibial nerve lower limb mein hota hai. Shoulder injury ke local sensory deficit ko explain nahi karta.
 
-**C kyun galat hai:** Tibial nerve lower limb mein hota hai. Shoulder injury ke local sensory deficit ko explain nahi karta.
+**C kyun galat hai:** Median nerve palm aur selected fingers ki sensation aur movement se related hai. Shoulder ke lateral patch ka primary nerve nahi hai.
 
-**D kyun sahi hai:** Axillary nerve shoulder joint ke paas course karta hai aur deltoid region ki sensation aur muscle function supply karta hai. Isliye anterior shoulder dislocation mein is finding ko document aur escalate karo.
+**D kyun galat hai:** Ulnar nerve hand ke little-finger side sensation aur intrinsic muscle function se related hai. Lateral deltoid area iska typical territory nahi hai.
 
 **Exam clue:** Lateral shoulder sensation axillary nerve assessment ka useful clue hai.
 
@@ -153,22 +153,22 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Popliteal arterial injury after a spontaneously reduced tibiofemoral dislocation
-- **B.** Only superficial bruising because the shape is normal
-- **C.** A patellar tendon disorder can always explain the episode
-- **D.** Vascular assessment can be postponed until routine follow-up
+- **A.** Vascular assessment can be postponed until routine follow-up
+- **B.** A patellar tendon disorder can always explain the episode
+- **C.** Popliteal arterial injury after a spontaneously reduced tibiofemoral dislocation
+- **D.** Only superficial bruising because the shape is normal
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Popliteal arterial injury after a spontaneously reduced tibiofemoral dislocation**
+**Correct answer: C. Popliteal arterial injury after a spontaneously reduced tibiofemoral dislocation**
 
-**A kyun sahi hai:** Tibiofemoral dislocation spontaneously reduce ho sakti hai aur popliteal artery injury phir bhi present ho sakti hai. Palpable pulses alone exclude nahi karte, isliye urgent vascular pathway follow hota hai.
+**A kyun galat hai:** Delayed vascular assessment se limb ischemia miss ho sakti hai. Emergency evaluation ki zaroorat hai.
 
-**B kyun galat hai:** Normal shape prior dislocation ya vascular injury ko exclude nahi karti. History serious injury ka clue hai.
+**B kyun galat hai:** Patellar tendon injury possible differential hai, lekin gross tibiofemoral deformity aur spontaneous reduction ko safely dismiss nahi kar sakte.
 
-**C kyun galat hai:** Patellar tendon injury possible differential hai, lekin gross tibiofemoral deformity aur spontaneous reduction ko safely dismiss nahi kar sakte.
+**C kyun sahi hai:** Tibiofemoral dislocation spontaneously reduce ho sakti hai aur popliteal artery injury phir bhi present ho sakti hai. Palpable pulses alone exclude nahi karte, isliye urgent vascular pathway follow hota hai.
 
-**D kyun galat hai:** Delayed vascular assessment se limb ischemia miss ho sakti hai. Emergency evaluation ki zaroorat hai.
+**D kyun galat hai:** Normal shape prior dislocation ya vascular injury ko exclude nahi karti. History serious injury ka clue hai.
 
 **Exam clue:** Knee dislocation spontaneously reduce ho jaaye toh bhi vascular risk rehta hai.
 
@@ -211,20 +211,20 @@
 
 **Difficulty:** 🔴 Difficult · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Apply a hot pack and reassess in two hours
+- **A.** Wait for routine outpatient imaging
 - **B.** Ask the patient to walk to improve circulation
-- **C.** Wait for routine outpatient imaging
+- **C.** Apply a hot pack and reassess in two hours
 - **D.** Activate urgent orthopedic and vascular assessment while maintaining safe support
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Activate urgent orthopedic and vascular assessment while maintaining safe support**
 
-**A kyun galat hai:** Heat arterial obstruction correct nahi karti aur impaired sensation mein burn risk create kar sakti hai. Delay dangerous hai.
+**A kyun galat hai:** Absent pulse aur cold foot acute ischemia ke red flags hain. Routine appointment ka wait appropriate nahi hai.
 
 **B kyun galat hai:** Walking unstable joint aur ischemic limb ko further harm kar sakti hai. Patient ko safe support chahiye.
 
-**C kyun galat hai:** Absent pulse aur cold foot acute ischemia ke red flags hain. Routine appointment ka wait appropriate nahi hai.
+**C kyun galat hai:** Heat arterial obstruction correct nahi karti aur impaired sensation mein burn risk create kar sakti hai. Delay dangerous hai.
 
 **D kyun sahi hai:** Possible arterial compromise limb-threatening emergency hai. Nurse emergency team activate karti hai aur limb ko safe support ke saath monitor karti hai.
 
@@ -269,22 +269,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** To look for associated osteochondral or other fractures
-- **B.** To prove all ligaments have healed immediately
-- **C.** To measure serum calcium
-- **D.** To eliminate the need for knee examination
+- **A.** To eliminate the need for knee examination
+- **B.** To measure serum calcium
+- **C.** To look for associated osteochondral or other fractures
+- **D.** To prove all ligaments have healed immediately
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. To look for associated osteochondral or other fractures**
+**Correct answer: C. To look for associated osteochondral or other fractures**
 
-**A kyun sahi hai:** Patellar displacement ke waqt cartilage aur underlying bone ka fragment injure ho sakta hai. Spontaneous reduction ke baad bhi imaging associated fracture assess kar sakti hai.
+**A kyun galat hai:** Imaging clinical examination replace nahi karti. Joint stability aur symptoms bhi assess hote hain.
 
-**B kyun galat hai:** Radiograph se all ligament healing prove nahi hoti. Ligament assessment clinical examination aur selected imaging se guide hota hai.
+**B kyun galat hai:** Serum calcium blood test se measure hota hai. Radiograph ka purpose skeletal injury assess karna hai.
 
-**C kyun galat hai:** Serum calcium blood test se measure hota hai. Radiograph ka purpose skeletal injury assess karna hai.
+**C kyun sahi hai:** Patellar displacement ke waqt cartilage aur underlying bone ka fragment injure ho sakta hai. Spontaneous reduction ke baad bhi imaging associated fracture assess kar sakti hai.
 
-**D kyun galat hai:** Imaging clinical examination replace nahi karti. Joint stability aur symptoms bhi assess hote hain.
+**D kyun galat hai:** Radiograph se all ligament healing prove nahi hoti. Ligament assessment clinical examination aur selected imaging se guide hota hai.
 
 **Exam clue:** Patellar relocation ke baad associated fracture screening important hai.
 
@@ -298,20 +298,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** To prevent every future osteoarthritis case
-- **B.** To remove a need for analgesia
-- **C.** To reduce ongoing compromise of the femoral head blood supply
+- **A.** To reduce ongoing compromise of the femoral head blood supply
+- **B.** To prevent every future osteoarthritis case
+- **C.** To remove a need for analgesia
 - **D.** To permanently strengthen the hip abductors
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. To reduce ongoing compromise of the femoral head blood supply**
+**Correct answer: A. To reduce ongoing compromise of the femoral head blood supply**
 
-**A kyun galat hai:** Prompt reduction risk reduce kar sakti hai, lekin post-traumatic arthritis completely prevent hone ki guarantee nahi hai.
+**A kyun sahi hai:** Femoral head ka blood supply displacement ke saath compromise ho sakta hai. Prompt specialist treatment avascular necrosis risk reduce karne mein important hai.
 
-**B kyun galat hai:** Dislocation painful injury hai aur reduction appropriate analgesia or anesthesia support demand kar sakta hai. Pain treatment still needed hai.
+**B kyun galat hai:** Prompt reduction risk reduce kar sakti hai, lekin post-traumatic arthritis completely prevent hone ki guarantee nahi hai.
 
-**C kyun sahi hai:** Femoral head ka blood supply displacement ke saath compromise ho sakta hai. Prompt specialist treatment avascular necrosis risk reduce karne mein important hai.
+**C kyun galat hai:** Dislocation painful injury hai aur reduction appropriate analgesia or anesthesia support demand kar sakta hai. Pain treatment still needed hai.
 
 **D kyun galat hai:** Reduction joint alignment restore karti hai. Abductor strengthening later rehabilitation ka separate task hai.
 
@@ -327,20 +327,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Shoulder shrug only
+- **A.** Jaw opening only
 - **B.** Finger opposition only
-- **C.** Jaw opening only
+- **C.** Shoulder shrug only
 - **D.** Ankle dorsiflexion and plantarflexion as tolerated
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Ankle dorsiflexion and plantarflexion as tolerated**
 
-**A kyun galat hai:** Shoulder shrug upper body nerve-muscle function assess karta hai. Hip ke nearby sciatic nerve ka distal function nahi batata.
+**A kyun galat hai:** Jaw opening cranial nerve aur jaw muscle function se related hai. Hip dislocation mein relevant distal motor test nahi hai.
 
 **B kyun galat hai:** Finger opposition hand function se related hai. Lower limb sciatic distribution ko assess nahi karti.
 
-**C kyun galat hai:** Jaw opening cranial nerve aur jaw muscle function se related hai. Hip dislocation mein relevant distal motor test nahi hai.
+**C kyun galat hai:** Shoulder shrug upper body nerve-muscle function assess karta hai. Hip ke nearby sciatic nerve ka distal function nahi batata.
 
 **D kyun sahi hai:** Sciatic nerve ki branches ankle dorsiflexion aur plantarflexion mein involved hoti hain. Safe examination se pre-post nerve function comparison milta hai.
 
@@ -385,22 +385,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🔴 MOST IMPORTANT · Original practice
 
-- **A.** Deep joint contamination and infection
-- **B.** Only cosmetic scarring
-- **C.** Reduced bone density throughout the body
-- **D.** Permanent absence of all inflammation
+- **A.** Permanent absence of all inflammation
+- **B.** Reduced bone density throughout the body
+- **C.** Deep joint contamination and infection
+- **D.** Only cosmetic scarring
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: A. Deep joint contamination and infection**
+**Correct answer: C. Deep joint contamination and infection**
 
-**A kyun sahi hai:** Open communication se bacteria joint ke andar pahunch sakte hain. Nurse sterile protection aur urgent surgical review facilitate karti hai aur ordered infection-prevention care follow karti hai.
+**A kyun galat hai:** Inflammation injury aur infection dono mein develop ho sakti hai. Wound hone se inflammation absent nahi hoti.
 
-**B kyun galat hai:** Scar possible hai, lekin acute deep infection aur tissue injury ka risk cosmetic concern se zyada important hai.
+**B kyun galat hai:** Bone density systemic condition hai. Open joint wound ka immediate specific concern contamination hai.
 
-**C kyun galat hai:** Bone density systemic condition hai. Open joint wound ka immediate specific concern contamination hai.
+**C kyun sahi hai:** Open communication se bacteria joint ke andar pahunch sakte hain. Nurse sterile protection aur urgent surgical review facilitate karti hai aur ordered infection-prevention care follow karti hai.
 
-**D kyun galat hai:** Inflammation injury aur infection dono mein develop ho sakti hai. Wound hone se inflammation absent nahi hoti.
+**D kyun galat hai:** Scar possible hai, lekin acute deep infection aur tissue injury ka risk cosmetic concern se zyada important hai.
 
 **Exam clue:** Open joint injury contamination risk ko increase karti hai.
 
@@ -414,20 +414,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Repeated unassisted patient manipulation
-- **B.** Permanent observation regardless of neurovascular compromise
-- **C.** Open reduction in a controlled surgical setting
+- **A.** Open reduction in a controlled surgical setting
+- **B.** Repeated unassisted patient manipulation
+- **C.** Permanent observation regardless of neurovascular compromise
 - **D.** Routine massage until joint alignment changes
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Open reduction in a controlled surgical setting**
+**Correct answer: A. Open reduction in a controlled surgical setting**
 
-**A kyun galat hai:** Patient manipulation tissue injury aur pain worsen kar sakti hai. Failed professional reduction ke baad uncontrolled attempt safe nahi hai.
+**A kyun sahi hai:** Open reduction surgical exposure ke through joint alignment restore karne ka method hai. Failed or unsuitable closed reduction mein specialist ye option consider kar sakta hai.
 
-**B kyun galat hai:** Persistent displacement mein associated injury aur blood supply assess karna important hai. Observation regardless of compromise inappropriate hai.
+**B kyun galat hai:** Patient manipulation tissue injury aur pain worsen kar sakti hai. Failed professional reduction ke baad uncontrolled attempt safe nahi hai.
 
-**C kyun sahi hai:** Open reduction surgical exposure ke through joint alignment restore karne ka method hai. Failed or unsuitable closed reduction mein specialist ye option consider kar sakta hai.
+**C kyun galat hai:** Persistent displacement mein associated injury aur blood supply assess karna important hai. Observation regardless of compromise inappropriate hai.
 
 **D kyun galat hai:** Massage displaced articular surfaces restore karne ka reliable treatment nahi hai.
 
@@ -443,20 +443,20 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** The sling permanently replaces joint muscles
+- **A.** The sling means physiotherapy will never be needed
 - **B.** The sling prevents all later instability regardless of ligament injury
-- **C.** The sling means physiotherapy will never be needed
+- **C.** The sling permanently replaces joint muscles
 - **D.** Temporary support helps protect alignment and injured stabilizing tissues during early recovery
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
 **Correct answer: D. Temporary support helps protect alignment and injured stabilizing tissues during early recovery**
 
-**A kyun galat hai:** Sling external support provide karta hai. Joint muscle function later rehabilitation se maintain ya restore hota hai.
+**A kyun galat hai:** Temporary immobilization ke baad indicated rehabilitation stiffness aur weakness reduce karne mein useful hoti hai.
 
 **B kyun galat hai:** Sling recurrent instability ka risk completely eliminate nahi karta. Ligament, labrum aur other injuries recovery affect karti hain.
 
-**C kyun galat hai:** Temporary immobilization ke baad indicated rehabilitation stiffness aur weakness reduce karne mein useful hoti hai.
+**C kyun galat hai:** Sling external support provide karta hai. Joint muscle function later rehabilitation se maintain ya restore hota hai.
 
 **D kyun sahi hai:** Dislocation mein capsule aur ligaments stretch ya tear ho sakte hain. Prescribed support early healing ke dauran joint ko protect karta hai.
 
@@ -502,9 +502,9 @@
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
 - **A.** Confirm trained monitoring and airway-rescue readiness according to sedation protocol
-- **B.** Give the patient an unrestricted meal immediately before the procedure
+- **B.** Turn off physiological monitoring once pain improves
 - **C.** Allow the sedated patient to walk unassisted
-- **D.** Turn off physiological monitoring once pain improves
+- **D.** Give the patient an unrestricted meal immediately before the procedure
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
@@ -512,11 +512,11 @@
 
 **A kyun sahi hai:** Sedative drugs ventilation aur circulation affect kar sakti hain. Appropriate monitoring, trained personnel aur rescue equipment readiness patient safety ke liye essential hain.
 
-**B kyun galat hai:** Fasting and urgency assessment sedation team decide karti hai. Immediate unrestricted food dena aspiration risk ke context mein inappropriate hai.
+**B kyun galat hai:** Pain improve hone ka matlab sedative effect khatam hona nahi hai. Monitoring recovery criteria tak continue honi chahiye.
 
 **C kyun galat hai:** Sedation balance aur alertness affect kar sakti hai. Unassisted ambulation fall risk badha sakti hai.
 
-**D kyun galat hai:** Pain improve hone ka matlab sedative effect khatam hona nahi hai. Monitoring recovery criteria tak continue honi chahiye.
+**D kyun galat hai:** Fasting and urgency assessment sedation team decide karti hai. Immediate unrestricted food dena aspiration risk ke context mein inappropriate hai.
 
 **Exam clue:** Reduction sedation mein airway, breathing aur recovery safety ko priority do.
 
@@ -532,20 +532,20 @@
 
 - **A.** Permanent immobilization is required for every elbow dislocation
 - **B.** Unrestricted heavy loading should start immediately
-- **C.** Duration and progression of movement depend on stability and the orthopedic rehabilitation plan
-- **D.** The immobilizer can be removed without assessment whenever pain settles
+- **C.** The immobilizer can be removed without assessment whenever pain settles
+- **D.** Duration and progression of movement depend on stability and the orthopedic rehabilitation plan
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: C. Duration and progression of movement depend on stability and the orthopedic rehabilitation plan**
+**Correct answer: D. Duration and progression of movement depend on stability and the orthopedic rehabilitation plan**
 
 **A kyun galat hai:** Prolonged unnecessary immobilization joint stiffness increase kar sakti hai. Duration injury-specific hoti hai.
 
 **B kyun galat hai:** Heavy loading healing capsule aur ligament par excess stress daal sakti hai. Clearance ke according activity progress hoti hai.
 
-**C kyun sahi hai:** Joint stable ho toh planned protected movement stiffness reduce kar sakti hai. Associated fracture ya instability plan change kar sakte hain.
+**C kyun galat hai:** Pain reduction alone stability prove nahi karti. Prescribed immobilization aur follow-up instructions important hain.
 
-**D kyun galat hai:** Pain reduction alone stability prove nahi karti. Prescribed immobilization aur follow-up instructions important hain.
+**D kyun sahi hai:** Joint stable ho toh planned protected movement stiffness reduce kar sakti hai. Associated fracture ya instability plan change kar sakte hain.
 
 **Exam clue:** Elbow recovery mein stability aur stiffness prevention balance karna hota hai.
 
@@ -559,22 +559,22 @@
 
 **Difficulty:** 🟡 Medium · **Priority:** 🟠 HIGH YIELD · Original practice
 
-- **A.** Standing abdominal radiograph
-- **B.** Axillary shoulder view
+- **A.** Axillary shoulder view
+- **B.** DXA of the lumbar spine
 - **C.** Lateral ankle radiograph
-- **D.** DXA of the lumbar spine
+- **D.** Standing abdominal radiograph
 
 <details><summary>✅ Correct answer and detailed explanation</summary>
 
-**Correct answer: B. Axillary shoulder view**
+**Correct answer: A. Axillary shoulder view**
 
-**A kyun galat hai:** Abdominal radiograph shoulder articulation ko adequately visualize nahi karti. Suspected injury ke relevant joint views chahiye.
+**A kyun sahi hai:** Axillary view humeral head aur glenoid ka relation additional plane mein dikhati hai. Posterior displacement standard AP view par miss ho sakta hai. Agar positioning unsafe ho toh radiology team suitable alternative choose karti hai.
 
-**B kyun sahi hai:** Axillary view humeral head aur glenoid ka relation additional plane mein dikhati hai. Posterior displacement standard AP view par miss ho sakta hai. Agar positioning unsafe ho toh radiology team suitable alternative choose karti hai.
+**B kyun galat hai:** DXA bone density measure karti hai. Acute shoulder joint congruity assess karne ke liye relevant test nahi hai.
 
 **C kyun galat hai:** Ankle radiograph lower limb joint ke liye hoti hai. Shoulder alignment assess nahi karti.
 
-**D kyun galat hai:** DXA bone density measure karti hai. Acute shoulder joint congruity assess karne ke liye relevant test nahi hai.
+**D kyun galat hai:** Abdominal radiograph shoulder articulation ko adequately visualize nahi karti. Suspected injury ke relevant joint views chahiye.
 
 **Exam clue:** Posterior shoulder dislocation ko exclude karne ke liye AP view alone sufficient nahi ho sakti.
 
