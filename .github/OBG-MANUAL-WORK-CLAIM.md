@@ -1,10 +1,10 @@
 # OBG manual scope claim
 
-State: CLAIMED
-Owner: obg-signs-onset-20261128-0357
-Scope: Obstetrics only, 07B signs and onset of labour concept, MCQ and evidence package, chapter-local README, coverage map and research register. No other chapter or PR edits.
-Claimed UTC: 2026-11-28T03:57:00Z
-Expiry UTC: 2026-11-28T04:27:00Z
+State: FREE
+Owner: none
+Scope: none
+Claimed UTC: none
+Expiry UTC: none
 
 Previous verified checkpoint: Pregnancy Diagnosis 20 original MCQs in four parts published at commit 1bebd39ba675c47de34f01ff52eee29a002e16f5, blob 7e9e330cc6fd0d49ed175eaaaf2189786f78e66f. Remote exact content readback: 20 numbered questions, 20 hidden answer blocks, 4 parts. Chapter README indexed and verified at commit e0bc7f2460fb6cee00d3a939101fabec9cd5f3eb, blob 2fa5fb802c31ab4280a9648c71ececdba17864f2. OBG obstetric total now 44 original slots including 4 preserved starters, 20 ANC and 20 Pregnancy Diagnosis. Existing two reported ANC adaptations preserved. No new PYQs or mocks in this run. All five job claims were FREE at initial inspection, separate OBG scope claimed and verified before writing. Both skill contents fetched but full independent clinical verification, semantic duplicate audit across all parallel chapters, direct medical references and question-level YouTube evidence remain pending. Do not label this a fully certified bank. Next: physiological changes of pregnancy, then remaining OBG topics, evidence-backed PYQs and ten distinct mocks. Recheck claims and file SHAs before every write. Other jobs untouched.
 
@@ -138,3 +138,9 @@ Normal labour physiology package published atomically at 5d5c40f3b240fcff7aac9c7
 Direct Endotext and StatPearls contraction clinical text inspected; additional cervical physiology, IGNOU nursing, WHO/ACOG and INC syllabus evidence indexed. Existing 26 Obstetrics bank headings screened for labour-related tasks; 20 new stems internally distinct. Independent clinical/rationale and comprehensive semantic cross-chapter audits, rendered diagrams and exhaustive relative/external link audit remain pending. HPRCA direct paper retrieval unsuccessful; official final key not matched, DSSSB true-labour and HPSSC third-stage leads reserved. Dedicated MCQ video candidate indexed but channel/actual playback and 20 item-specific coverage gaps remain pending; no new authenticated PYQ or exact video match counted.
 
 Inventory reconciled: Obstetrics 524 originals and 25 historical adaptations; separate Gynecology README unchanged at 17539c567382b96b1c998a26276297c2104d0b89 with 564 allocated originals, 11 adaptations, 39 separately preserved unallocated physical slots. Combined 1088 allocated originals and 36 adaptations. No mock or learner completion changed. No other jobs, PRs, shared global indexes or five hourly schedules edited. Next: signs and onset of labour, then stages, powers/passenger/passage, cardinal movements, maternal-fetal assessment, partograph/WHO Labour Care Guide and nursing management, 20 distinct originals each meaningful topic with evidence and independent audit gaps revisited. Own claim released.
+
+## Verified signs and onset of labour checkpoint — 28 November 2026 IST
+
+Owner obg-signs-onset-20261128-0357 released after actual publication f6b025071ba90d0bd405825a959a985f1fcd69e8. Claim acquisition 4b43260f8737d8b4c91c494243f483178b6f4b13. Previous 33 metadata corrections and physiology package preserved. Mandatory earlier preflight hashes reconciled. All 27 prior obstetric bank headings screened for related tasks. Two prepublication guards rejected concurrent head or claim changes, refreshed disjoint Nursing Foundations and Hematology scopes before safe non-force update. No other job, PR, website, learner status or automation edited.
+
+Six files exact remote readback passed: bank 61fd04195c4ec711ac65b9e800a744597c4879e7, concept 977a82b9b44d0e2ceb63812bd37a1f8c8fc68a07, evidence 5df2fd81dd620aed21bbf235d02c79425e06c539, chapter README b417695cbd05d7fbfc1329efd9f14628b73db48b, map 5e32dd15ab4baf8aa6609faf62f396e3e816d8dc, research register 569e179b8ef984a8efb7073a9c180d5ac0022e87. 20 originals, 80 options and 80 individual Roman Hinglish rationales, 20 closed details and all keys/text mappings validated from main. Difficulty {"Medium":11,"Easy":3,"Difficult":6}. Two original Mermaid diagrams. NHS direct HTML, NICE and WHO indexed recommendations, NICE direct 403. DSSSB official paper and third-party leads indexed, no key or new adaptation authenticated. Three provisional topic-level MCQ video mappings, 17 gaps, zero exact playback. Independent clinical, exhaustive semantic, official syllabus and rendered UI checks pending. No new mock or learner completion. Obstetrics 544 originals and 25 adaptations, Gynecology 564 allocated originals and 11 adaptations with 39 separately preserved raw slots. Combined 1108 allocated originals and 36 adaptations, subject to concurrent reconciliation. Next 07C stages of labour, then subsequent meaningful normal labour topics. Preserve all other jobs and five hourly schedules. Own claim released.
