@@ -1,8 +1,10 @@
 # Nutrition and Dietetics manual work claim
 
-State: FREE
-Owner: none
-Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+State: CLAIMED
+Owner: nutrition-10b-oral-rehabilitation-20261128-1345Z
+Scope: PR35 isolated 10B adult underweight oral nutrition rehabilitation, concept and SVG; no shared navigation or other workstream writes.
+Claimed UTC: 2026-11-28T13:45:00Z
+Expiry UTC: 2026-11-28T14:15:00Z
 
 ## Latest released checkpoint — 10A GLIM adult malnutrition diagnosis
 
