@@ -21,7 +21,8 @@ This is a curriculum-based checklist, not full theory notes. No learning complet
 - Six-topic batch allocation: 120 new original questions, 20 per topic. Next: fetal assessment, then subsequent chapters in existing order. No mock completion or learning attempt recorded.
 - Fetal assessment
   - [Fetal movement assessment concepts](06A-Fetal-Movements-and-Reduced-Movements.md) · [20 original MCQs](../MCQs/06A-Fetal-Movements-and-Reduced-Movements-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06A-Fetal-Movements-Reported-Evidence.md). Published, independent review pending.
-  - Fetal heart rate, NST, CST, CTG, biophysical profile, ultrasound and Doppler: individual topic packages pending.
+  - [Fetal heart rate concepts](06B-Fetal-Heart-Rate-and-Intermittent-Auscultation.md) · [20 original MCQs](../MCQs/06B-Fetal-Heart-Rate-and-Intermittent-Auscultation-20-MCQs.md) · [Reported evidence](../Previous-Year-Questions/06B-Fetal-Heart-Rate-Reported-Evidence.md). Published, independent review pending.
+  - NST, CST, CTG, biophysical profile, ultrasound and Doppler: individual topic packages pending.
 - normal pregnancy and labor
 - partograph and delivery
 - hypertensive disorders
