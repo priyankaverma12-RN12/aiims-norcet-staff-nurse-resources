@@ -485,6 +485,7 @@ with sync_playwright() as p:
         page.locator(".metric-chapter > summary").first.click()
         expect(page.locator(".metric-category[open]")).to_have_count(0)
         expect(page.locator(".metric-record")).to_have_count(0)
+        expect(page.locator(".metric-category").first).to_be_visible(timeout=10000)
         assert page.locator(".metric-category").count()>=4
         page.locator("#metrics-search").fill("no matching topic xyz")
         expect(page.locator("#metrics-list .empty-state")).to_be_visible()
