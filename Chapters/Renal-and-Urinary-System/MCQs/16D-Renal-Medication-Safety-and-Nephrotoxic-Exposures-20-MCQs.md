@@ -77,28 +77,28 @@ Kuch opioid metabolites kidney se clear hote hain; accumulation se CNS aur breat
 
 </details>
 
-### Q4. Which investigation is routinely relevant before reviewing a renal dose adjustment for an antibiotic?
+### Q4. Which fibrosing disorder has been associated with exposure to older high-risk gadolinium contrast agents in severe kidney impairment?
 
 **Difficulty:** Easy | **Topic:** Renal medication safety and nephrotoxic exposures | **Priority:** Medium | **Type:** Original practice
 
-- **A.** Visual acuity alone
-- **B.** Current kidney function estimate
-- **C.** Serum amylase alone
-- **D.** Skin prick test alone
+- **A.** Systemic lupus erythematosus
+- **B.** Nephrogenic systemic fibrosis
+- **C.** Renal papillary necrosis
+- **D.** Minimal change disease
 
 <details><summary>Answer aur easy explanation dekho</summary>
 
-**Correct: B. Current kidney function estimate**
+**Correct: B. Nephrogenic systemic fibrosis**
 
-Current renal estimate dose review ke liye important hai; specific drug label ka measure bhi verify karein.
+Nephrogenic systemic fibrosis severe renal impairment mein certain gadolinium agents se associated rare fibrosing disorder hai.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Visual acuity kidney drug clearance estimate nahi karti.
-- **C.** Amylase renal dosing ka primary measure nahi.
-- **D.** Skin allergy testing renal clearance determine nahi karta.
+- **A.** Lupus autoimmune disease hai; yeh older high-risk gadolinium ki characteristic fibrosing complication nahi.
+- **C.** Papillary necrosis renal papilla ki ischemic ya toxic injury hai, systemic fibrosis nahi.
+- **D.** Minimal change disease glomerular protein leakage disorder hai, contrast-related fibrosis nahi.
 
-**Exam clue:** Check the renal dosing measure specified for that drug.
+**Exam clue:** Recognize NSF as the historical gadolinium-associated fibrosing complication.
 
 </details>
 
@@ -507,5 +507,7 @@ Essential infection treatment benefit ko preserve karke avoidable exposures aur 
 - [KDIGO 2024 CKD guideline](https://kdigo.org/guidelines/ckd-evaluation-and-management/) — medication stewardship and individualized imaging, chapter 4.
 - [NKF safe medicine use](https://www.kidney.org/kidney-topics/safe-medicine-use-chronic-kidney-disease), [pain medicines](https://www.kidney.org/kidney-topics/pain-medicines-and-kidney-disease), [herbal products](https://www.kidney.org/kidney-topics/herbal-supplements-and-kidney-disease).
 - [DailyMed IV acyclovir](https://www.dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=cb64dfab-52ee-4312-bc9c-c3d04efe9109), [cefepime](https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=b9914e7e-13f6-42d4-9cbb-8c7ed1ce7a01), [oral baclofen product information](https://www.medicines.org.uk/emc/product/102660/smpc), [MedlinePlus sodium phosphate](https://medlineplus.gov/druginfo/meds/a609019.html).
+
+[2024 gadolinium guidance on NSF](https://pmc.ncbi.nlm.nih.gov/articles/PMC11828755/).
 
 Indexed clinical and label excerpts retrieved; independent full question-level pharmacy and clinical verification, video and PYQ mapping and publication gates remain. No authentic historical credit.
