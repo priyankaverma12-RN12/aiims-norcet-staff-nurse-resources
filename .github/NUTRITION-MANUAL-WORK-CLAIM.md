@@ -1,10 +1,18 @@
 # Nutrition and Dietetics manual work claim
 
-State: CLAIMED
-Owner: nutrition-run7-pn-audit-20261128-0750Z
-Scope: PR35 isolated 06D PN formulation clinical, rationale and difficulty corrections, corresponding 12 guide and chapter-local evidence only. No shared navigation, live integration, other jobs or automations.
-Claimed UTC: 2026-11-28T07:50:00Z
-Expiry UTC: 2026-11-28T08:20:00Z
+State: FREE
+Owner: none
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — Run 7 corrective pass
+
+Candidate head: ea413512f21aba7f46ee8b9e45d40aa702e99c5f
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-run7-pn-audit-20261128-0750Z
+
+Actual corrective commits: f50c0a29b2bd3e89e2ddeae3741dfc442cf438d9 (06D 20 existing originals, 80 revised individual Roman Hinglish rationales, 20 clues and source mappings, all original stems/options/keys preserved), 0f74a1585d2f1622e09915239264c242ae12d4c1 (guide 12), ea413512f21aba7f46ee8b9e45d40aa702e99c5f (chapter-local review record). All three exact remote readbacks passed. Candidate delta from Run 6 consists only of these three files. Inventory unchanged: 580 staged originals, 2320 rationales, 29 banks, 12 guides, 12 SVGs, four live legacy originals and one reported adaptation. No new original, live, mock or PYQ credit. Corrected product-specific lipid safety and evidence, calibrated difficulty to 6 Easy/13 Medium/1 Difficult. Full qualified independent clinical/pharmacy and semantic reviews, source access and video evidence, INC depth, PR7/8 navigation release and rendering/CI remain pending. Current PR35 draft, mergeable false, no workflow run returned for exact head. Prior requests 7235777582 and 7235778156 remain without explicit release. No website, learner history, other job or automation edits. Historical log unchanged, previously retrieved through 842 with some output truncation.
+
+Next: resume 06C enteral formulation question-level corrective audit under fresh isolated ownership, then reconcile genuinely uncovered INC topics, cross-lane semantic checks and author new questions only when distinct. Complete independent review, preflight and coordination gates before safe integration, then mock/PYQ phases as previously authorized.
 
 ## Latest released checkpoint — Run 6
 
