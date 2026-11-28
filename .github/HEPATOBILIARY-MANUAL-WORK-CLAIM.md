@@ -1,10 +1,10 @@
 # Hepatobiliary and Pancreatic System manual chapter claim
 
-State: CLAIMED
-Owner: hepatobiliary-b15-balance-20261128T163638Z
-Scope: PR60 isolated deficit supplements 34A–37A only; no existing banks, other claims or navigation edits.
-Claimed UTC: 2026-11-28T16:36:38Z
-Expiry UTC: 2026-11-28T17:06:38Z
+State: FREE
+Owner: none
+Scope: No active lease. Chapter candidate reserved in draft PR60. Coordinate before editing candidate or navigation.
+Claimed UTC: none
+Expiry UTC: none
 
 ## Released checkpoint — 28 November 2026
 
@@ -70,3 +70,7 @@ Candidate head 88db351d6545995752dbdfb0646f7679bda432f8. Added 30 Easy originals
 ## Batch 14 partial released checkpoint — 28 November 2026
 
 Candidate head 47bd4fb2848593e264d1156f5647b59a59cf3c27. Added 30 Easy originals in 29A–33A, 120 individual rationales and 30 clues. Exact five new bank, SBP Q4 corrective and inventory readbacks passed; 30 distinct normalized stems, zero exact matches against 100 corresponding prior stems; 120 options/rationales, aligned keys, closed details. Cumulative 1,139 staged originals, 4,556 rationales, 1,139 clues, 47 base banks plus 34 supplements (81 files), six guides and one SVG. Difficulty 332 Easy/438 Medium/369 Difficult. Previous 76 question files preserved. No live credit, mock or PYQ. Dedicated deficit balancing remains partial; resume topic 34 onward under PR67. Independent clinical/semantic/distractor, source/video, concepts/diagrams, curriculum, preflight and PR29/7/8 latest-main CI gates outstanding. No policy edits, other claim changes, learner history or schedule changes. Released only own claim.
+
+## Batch 15 partial released checkpoint — 28 November 2026
+
+Candidate head 77ac2b78bb3026fd5913e355c7958a38574f5f19. Added 24 Easy originals in 34A–37A, 96 individual rationales and 24 clues. Exact four bank writes, two corrections and inventory readbacks passed. Final 24 distinct stems, zero exact matches against 132 targeted prior stems, 96 options/rationales, 24 aligned keys and closed details. Cumulative 1,163 staged originals, 4,652 rationales, 1,163 clues, 47 base banks plus 38 supplements (85 question files), six guides and one SVG. Difficulty 356 Easy/438 Medium/369 Difficult. Previous 81 question files preserved. Topics 38–47 already approximately balanced. First forward deficit pass complete, residual topic deficits and genuine curriculum gaps remain; no certification or mocks yet. Continue targeted deficit-based authorship, then curriculum certification and original-exclusive balanced mocks under PR67. Independent clinical/semantic/distractor, source/video, concepts/diagrams, preflight, navigation, reconciliation and CI gates pending. No live credit, mock, PYQ, policy changes, other claim changes or learner history/schedule changes. Released only own claim.
