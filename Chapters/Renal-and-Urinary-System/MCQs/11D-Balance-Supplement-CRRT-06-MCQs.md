@@ -52,28 +52,28 @@ SLED ka full form sustained low-efficiency dialysis hai. Yeh prolonged intermitt
 
 </details>
 
-### Q3. What is the role of the blood pump in CRRT?
+### Q3. Which nutrient component can be lost in CRRT effluent and therefore needs consideration in nutrition planning?
 
 **Difficulty:** Easy | **Topic:** Continuous renal replacement therapy | **Priority:** High | **Type:** Original practice
 
-- **A.** Maintains prescribed circulation of blood through the extracorporeal circuit
-- **B.** Measures urine pH
-- **C.** Warms enteral nutrition
-- **D.** Delivers oxygen directly into the venous return line
+- **A.** Free amino acids
+- **B.** Intact red blood cells during normal filtration
+- **C.** Large dietary fiber particles
+- **D.** Intact platelets during normal filtration
 
 <details><summary>Answer aur explanation dekho</summary>
 
-**Correct: A. Maintains prescribed circulation of blood through the extracorporeal circuit**
+**Correct: A. Free amino acids**
 
-Blood pump patient ke blood ko prescribed rate par circuit aur filter mein circulate karta hai.
+CRRT filter se free amino acids ka loss ho sakta hai. Critical illness mein catabolism bhi hota hai, isliye dietitian ko protein needs assess karni chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **B.** Urine pH separate urine test se measure hota hai.
-- **C.** Enteral nutrition ko CRRT blood pump se nahi diya jaata.
-- **D.** Venous blood line mein oxygen gas directly deliver karna unsafe hai. CRRT oxygenation support ka replacement nahi hai.
+- **B.** Intact red cells normal filter se waste fluid mein nahi jaate. Blood leak ek safety issue hai.
+- **C.** Dietary fiber particles gut mein rehte hain aur CRRT blood filter se normally nahi nikalte.
+- **D.** Intact platelets normal effluent mein expected nutritional loss nahi hain.
 
-**Exam clue:** CRRT blood circuit aur ventilatory support alag systems hain.
+**Exam clue:** CRRT mein solute clearance ke saath nutrition losses bhi consider karo.
 
 </details>
 
@@ -102,28 +102,28 @@ Continuous clearance aur low-potassium solution ki wajah se serum potassium kam 
 
 </details>
 
-### Q5. An ICU patient on CRRT receives a prescribed replacement-fluid bag that has a different composition from the label specified in the order. What should the nurse do?
+### Q5. A patient on citrate-anticoagulated CRRT is receiving enteral feeding. What should the nurse communicate to the dietitian about energy assessment?
 
 **Difficulty:** Medium | **Topic:** Continuous renal replacement therapy | **Priority:** High | **Type:** Original practice
 
-- **A.** Connect it because all CRRT fluids have identical electrolyte concentrations
-- **B.** Withhold connecting the discrepant bag and clarify the prescription with the treating team
-- **C.** Mix it with another bag at the bedside to approximate the ordered formula
-- **D.** Change the filter blood flow to compensate for the fluid composition difference
+- **A.** Citrate always provides the same calories as heparin
+- **B.** Metabolized citrate may contribute non-nutritional calories
+- **C.** The CRRT effluent volume alone gives the total daily calorie intake
+- **D.** All enteral feeding should be discontinued during citrate anticoagulation
 
 <details><summary>Answer aur explanation dekho</summary>
 
-**Correct: B. Withhold connecting the discrepant bag and clarify the prescription with the treating team**
+**Correct: B. Metabolized citrate may contribute non-nutritional calories**
 
-CRRT fluids mein electrolytes aur buffer alag ho sakte hain. Galat bag lagane se metabolic disturbance ho sakta hai, isliye pehle order clarify karo.
+Citrate ka kuch hissa patient ki body mein metabolize hokar energy de sakta hai. Actual contribution prescription aur clearance par depend karta hai, isliye dietitian ko citrate therapy ki information chahiye.
 
 **Baaki options kyun galat hain?**
 
-- **A.** Sab solutions interchangeable nahi hote. Label check essential hai.
-- **C.** Bedside mixing se sterility aur concentration error ka risk hota hai.
-- **D.** Blood flow change galat electrolyte composition ko reliably correct nahi karta.
+- **A.** Heparin citrate ki tarah metabolizable energy source nahi hai.
+- **C.** Effluent volume se total calorie intake calculate nahi hota. Feed, medicines aur CRRT fluids ki composition bhi dekhni hoti hai.
+- **D.** Enteral feeding automatically stop nahi ki jaati. Nutrition plan clinical condition ke hisaab se adjust hota hai.
 
-**Exam clue:** Solution label aur prescribed composition match hona chahiye.
+**Exam clue:** ICU nutrition mein feed ke alawa treatment-derived energy bhi ho sakti hai.
 
 </details>
 
@@ -155,5 +155,7 @@ Bicarbonate-based dialysis aur replacement fluid acid-base correction ke liye ge
 ## Clinical references (28 November 2026)
 - [ISCCM AKI/RRT guideline, indexed recommendations](https://pmc.ncbi.nlm.nih.gov/articles/PMC9989875/)
 - [StatPearls CRRT, indexed clinical text](https://www.ncbi.nlm.nih.gov/books/NBK556028/)
+
+- [UK Kidney Association: impact of KRT on nutritional requirements, directly retrieved](https://www.ukkidney.org/clinical-resources/aki-guide-resources/nutritional-considerations/principles-of-nutrition-support-in-patients-with-aki/the-impact-of-kidney-replacement-therapy-krt-on-nutritional-requirements/)
 
 Indexed references are identified where direct retrieval was blocked. Independent clinical and semantic review, question-specific video/PYQ mapping and publication gates pending.
