@@ -127,4 +127,4 @@ Fresh targeted comparison across 13 cross-chapter files (162 original bank headi
 
 Next: continue the unresolved semantic/evidence and visual gates, not repeated clinical review or new mock authorship. Mock 02 remains staged until assembly is safely justified; do not begin Mock 03 prematurely.
 
-<!-- Mock-only scope claim: FREE. Owner: none. Released after verified Q101–Q120 clinical rereview and audit ledger. -->
+<!-- Mock-only scope claim: CLAIMED. Owner: eye-mock-02-semantic-20261128-0140. Scope: read-only external bank comparisons, Mock 02 video evidence, audit ledger and mock plan only. Claimed UTC: 2026-11-28T01:40:00Z. Expiry UTC: 2026-11-28T02:10:00Z. -->
