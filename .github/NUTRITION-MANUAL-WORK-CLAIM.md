@@ -2,7 +2,53 @@
 
 State: FREE
 Owner: none
-Scope: no active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+Scope: No active writer lease. Nutrition workstream reserved in draft PR35. Coordinate before candidate or navigation changes.
+
+## Latest released checkpoint — 07C food exchange, menu and budget planning
+
+Candidate head: be7f8eae159093a04a480f95ca60959bfc9bb8eb
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-07c-20261128-0825Z
+
+20 new original candidate questions and 80 separate Roman Hinglish rationales in 07C. Initial bank 5ee81f20de518525b45749b2f55e704420559202, final two-slot semantic replacements and bank 6bc334cee8d8432278221c327b640aa75c9d6c6e, blob e3a4073593b9569f2a383e2c3ac068c095416d63. Guide 15 c09fa315a343d860f27dfe28749ed0514fc8e72c, original SVG 166d6cea62825f1788723d89bf3fccc5496719a0. SVG XML parsed and rendered with matching Git blob, visually checked. All content exact remote readbacks passed. 20 aligned keys, four options and individual reasons each, 20 exam clues, 20 evidence rows and 20 video gaps. Five correct keys per letter, 20 unique stems. Previous 06C/06D and 07A/07B verified unchanged. Inventory and PR description updated and verified.
+
+Current staged totals: 640 original questions, 2560 rationales, 32 banks, 15 guides, 15 original SVGs. Four separate live legacy originals and one reported adaptation preserved. No new live, mock or PYQ credit. 120 relevant prior stems screened, independent comprehensive semantic and clinical/dietetic review remains pending, including 07C Q7 versus 04A Q18. Full INC coverage, item-level video evidence, explicit PR7/8 navigation clearance and final candidate CI/rendering not certified. Final candidate CI 46126035116 pending when checked. Draft unmerged. No changes to other jobs, website, learner history or automation.
+
+Next: acquire fresh isolated ownership and prioritize school-age nutrition, separate elderly nutrition objectives, and current programme/food standards depth. Do not repeat completed 06C/06D and 07A–C. Continue up to 100 genuinely distinct originals with four individual rationales, concept guides, diagrams and verified evidence as feasible. Complete mandatory independent review and other gates before integration, mock-exclusive questions and authenticated PYQs.
+
+## Latest released checkpoint — 07B Nutrition education expansion
+
+Candidate head: eb87469f9743aaf8d921a82722679688a76ff663
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-07b-20261128-0817Z
+
+20 new original candidate questions and 80 separate Roman Hinglish rationales in 07B nutrition education/counselling, final bank commit c93ac3f2852304cca241e1b2e09063a9d1aa4e81, blob f2632bed360565fad2d367a8fe05bc882f02459f. Initial authoring a305999bf667cf333f33f65f28eb122a63b5f6f2, Q14 semantic replacement cd97c645f9e438100c46ebb31649a1ccf78b716e, guide 14 5bd4fe713387580c7090c2c98e4d37603d489d14, original SVG 8cc54ece3f2cd97033ef7de9eb00e3098d22f4b5, exact matching Git blob rendered and visually checked. All content exact remote readbacks passed. 20 aligned keys, four options and individual reasons each, 20 exam clues, 20 evidence rows and 20 video gaps. Balanced 5 correct keys per letter. Difficulty two Easy and 18 Medium. Prior 06C/06D/07A and all other existing content preserved. Inventory and PR description updated and verified.
+
+Current staged totals: 620 original questions, 2480 rationales, 31 banks, 14 guides, 14 original SVGs. Four live legacy originals and one reported adaptation separately preserved. No new live, mock or PYQ credit. 140 relevant Nutrition stems screened, adjacent PR file lists inspected. Independent qualified clinical/pharmacy and exhaustive semantic reviews remain pending, including adjacent PR40 educator competency comparison. Full INC coverage and exact programme/version, specific video evidence, explicit PR7/8 release and final CI/rendering not certified. Prior CI 46125379653 pending at last check, no final-head workflow returned. Draft remains unmerged.
+
+Next: prioritize actual 07C food exchange/menu/budget planning after screening existing 03D and 04A objectives, then school-age/elderly and programme/standards depth. Do not repeat completed 06C/06D, 07A or 07B authoring or unchanged historical retrieval. Acquire fresh isolated ownership and continue up to 100 genuinely distinct originals with complete rationales, concepts, diagrams and evidence. All independent gates required before integration, mock-exclusive tests and authenticated PYQs. No other job, website, learner history or automation edits.
+
+## Latest released checkpoint — Run 7 enteral correction and 07A expansion
+
+Candidate head: 02364dfc74b84e6e7c3ffb8cedc7eed15548d1ff
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-run7-en-audit-20261128-0755Z
+
+06C 20 existing questions and 80 rationales corrected at b7f6d649283a5b59aabe1b09a98cf89e95475e95, matching guide 12 at 8a65aeb79b7b9a5e1472a40c3e53411883e490de. Prior 06D bank and revised PN section verified unchanged. New 07A FFQ and dietary records 20 original candidate MCQs and 80 rationales authored at df729d851fbff67e975b82454b3ff252cf8fd47c, Q8 semantic replacement at 1ba3da5b5f461df2156aeabffea71dfa2c76f14b, final bank blob c2f8e2355624af015457ec39aa7a76de843ef698. 20 stems, 80 English options and separate rationales, 20 aligned hidden keys and evidence rows, balanced five correct answers per letter. Guide 13 final b74386079d7c31b746fb4ffa1d308d82ca08266f, SVG e266687b1d10df73cf66ccd48447b2af8aad7460 locally rendered/visually inspected with exact Git blob match. All content writes exactly read back. Inventory and corrective review 02364dfc74b84e6e7c3ffb8cedc7eed15548d1ff. PR35 body updated and verified.
+
+Current staged inventory: 600 originals, 2400 rationales, 30 topic banks, 13 guides, 13 original SVGs; four separate legacy originals and one adaptation. Run 7 cumulative 40 previously existing MCQs corrected and 160 rationales revised, plus 20 genuinely new candidate originals and 80 new rationales. No live, mock or PYQ credit. 580 previous headings keyword screened across 29 banks, 80 selected adjacent stems and four legacy originals inspected; full independent semantic review pending. 07A Q8 replaced for close calculation overlap. Qualified clinical/pharmacy review unavailable, complete curriculum depth, dedicated videos, independent semantic, PR7/8 navigation clearance and final CI/rendering remain mandatory. Prior e66e195 CI run 46123776734 in progress at last check; final 02364dfc74b84e6e7c3ffb8cedc7eed15548d1ff had no workflow returned when checked, PR draft mergeable but not certified. Preserve all other jobs, learner history, website, and five hourly automations. No edits to them. No merge.
+
+Next: 07B nutrition education and counselling after targeted adjacent-bank gap screening, then menu/food exchange/budget planning, school-age and elderly nutrition and current programme/food standards depth. Do not repeat 06C, 06D or 07A completed work or unchanged historical retrieval. Continue up to 100 distinct original MCQs per run when safely possible, complete remaining independent gates before integration, then original-only 120-question mocks and authenticated India-wide topic-mapped PYQs as authorized.
+
+## Latest released checkpoint — Run 7 corrective pass
+
+Candidate head: ea413512f21aba7f46ee8b9e45d40aa702e99c5f
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/35
+Prior owner: nutrition-run7-pn-audit-20261128-0750Z
+
+Actual corrective commits: f50c0a29b2bd3e89e2ddeae3741dfc442cf438d9 (06D 20 existing originals, 80 revised individual Roman Hinglish rationales, 20 clues and source mappings, all original stems/options/keys preserved), 0f74a1585d2f1622e09915239264c242ae12d4c1 (guide 12), ea413512f21aba7f46ee8b9e45d40aa702e99c5f (chapter-local review record). All three exact remote readbacks passed. Candidate delta from Run 6 consists only of these three files. Inventory unchanged: 580 staged originals, 2320 rationales, 29 banks, 12 guides, 12 SVGs, four live legacy originals and one reported adaptation. No new original, live, mock or PYQ credit. Corrected product-specific lipid safety and evidence, calibrated difficulty to 6 Easy/13 Medium/1 Difficult. Full qualified independent clinical/pharmacy and semantic reviews, source access and video evidence, INC depth, PR7/8 navigation release and rendering/CI remain pending. Current PR35 draft, mergeable false, no workflow run returned for exact head. Prior requests 7235777582 and 7235778156 remain without explicit release. No website, learner history, other job or automation edits. Historical log unchanged, previously retrieved through 842 with some output truncation.
+
+Next: resume 06C enteral formulation question-level corrective audit under fresh isolated ownership, then reconcile genuinely uncovered INC topics, cross-lane semantic checks and author new questions only when distinct. Complete independent review, preflight and coordination gates before safe integration, then mock/PYQ phases as previously authorized.
 
 ## Latest released checkpoint — Run 6
 

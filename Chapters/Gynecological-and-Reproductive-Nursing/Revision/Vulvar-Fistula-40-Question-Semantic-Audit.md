@@ -87,3 +87,37 @@ These checks verify selected *clinical facts*, not all 40 answer keys and distra
 ### F1/F6 internal overlap resolution
 
 F1 was revised a second time to assess **urgent postoperative ureteric injury escalation with fever, flank pain and rising creatinine**, rather than the ureterovaginal dye-test diagnosis already tested by F6. New SHA-guarded commit `1d30dc3f33b5b7b96087f540701890859000d242`, exact readback 20 questions and 20 hidden answers. The two items now have different primary decisions, but independent complete-bank clinical certification is still pending.
+
+## 28 November 2026 — option structure and targeted clinical recheck
+
+**Method:** Fetched both current 20-question banks. Each of 40 stems has exactly four English options, one `Correct: A/B/C/D` key and a closed hidden answer block. This is a structural answer-key mapping check, **not** an independent medical verification of all 160 distractors. The original 31 indexed banks were used in the previous stem-level audit, but have not all been reverified at option level. Accordingly the 40-question distinct allocation remains **pending**.
+
+### Concrete revisions, checked clinical guidance
+
+| Item | Actual defect and repair | Evidence and status |
+|---|---|---|
+| V11 | Prior V11 and V10 both tested persistent itching despite antifungals and dermatosis assessment. V11 now tests lichen simplex chronicus **lichenification from itch–scratch cycle**, distinct from V10's negative fungal test differential. | ACOG vulvar disorders FAQ used as clinical background. Full independent answer-option review still pending. Commit `d5e0caa66590d6ae45362aa5242a260d90e4c962`. |
+| V15 | Prior V15 repeated general nonjudgmental STI counseling from existing RTI bank. V15 now asks for **syphilis serology and HIV testing in genital ulcer evaluation**, not V14's HSV lesion NAAT decision. | [CDC genital ulcer guideline](https://www.cdc.gov/std/treatment-guidelines/genital-ulcers.htm) directly confirms syphilis and HIV evaluation. Commit `d5e0caa66590d6ae45362aa5242a260d90e4c962`. |
+| V14 | HSV lesion NAAT is more sensitive than culture and sampling fresh lesions is appropriate. | [CDC herpes guideline](https://www.cdc.gov/std/treatment-guidelines/herpes.htm). Previously rewritten, retained. |
+| F10 | 7–10-day catheter duration applies specifically after **simple obstetric urinary fistula repair**, not complex repairs. | [WHO 2018](https://www.who.int/publications/i/item/9789241550192). Retained. |
+
+### Prior flagged partial overlaps — updated decisions
+
+| Item | Existing overlap | Question-specific disposition |
+|---|---|---|
+| F8 | Generic perineal skin hygiene also appears in postoperative care. | **Provisional distinct application** because F8 addresses chronic urine-associated maceration, barrier care and frequent pad changes, not generic wound cleaning. Must compare full options and rationale with original bank before unique credit. |
+| F11 | Postoperative low output escalation is already covered in Procedures Q20. | **Partial overlap, do not count yet.** F11 adds fistula-repair catheter patency and suprapubic discomfort. The same immediate escalation skill may still be duplicated. |
+| F12 | Postoperative fever and infection already appear in Procedures Q19. | **Partial overlap, do not count yet.** F12 adds flank pain and dysuria to test upper urinary tract infection or pyelonephritis. |
+| F16 | Generic postoperative psychosocial support appears in Procedures Q16. | **Partial overlap, do not count yet.** F16 focuses on fistula-associated odor, stigma, social isolation and repair referral. |
+| V15 | Prior generic STI counseling overlap with RTI Q20. | **Original overlap repaired** to specific genital-ulcer syphilis/HIV diagnostic assessment. Independent complete cross-bank option review pending. |
+| V10/V11 | Internal duplicate in vulvar bank discovered in current run. | **Repaired V11** to lichen simplex chronicus. Clinical answer remains to be independently certified. |
+
+### Source URL validation boundary
+
+- The CDC genital-ulcer page, CDC herpes page and WHO 2018 publication page were opened and their relevant guidance inspected in this run. These three URLs are **confirmed accessible**.
+- Other ACOG, MSD/Merck, NCBI, FIGO and Mayo URLs were **not all reopened** in this run. Do not label all URLs verified or invent question-specific YouTube timestamps.
+- No PYQ provenance or YouTube MCQ solution was verified. All 40 remain original practice, not authenticated previous-year questions.
+
+### Accounting and next owner action
+
+Preserve **564 allocated originals + 20 Vulvar unallocated + 20 Fistula unallocated + 19 menstrual revision = 623 physical slots**. The four-part structure and 20-question size of each bank are intact. The shared README must not credit additional distinct questions until an independent full 40-question clinical, distractor, and cross-bank audit passes. Continue remaining F8/F11/F12/F16 comparisons against actual options, inspect all 40 medical explanations and source URLs, and then acquire a free shared README claim for verified allocation. No mocks.

@@ -2,7 +2,7 @@
 
 State: FREE
 Owner: none
-Scope: none
+Scope: Released Batch 06; PR42 reserved for chapter continuation.
 Claimed UTC: none
 Expiry UTC: none
 
@@ -34,3 +34,13 @@ PR42 draft head 7c1195abaf2044c2207498da9d729337a384cbb1. 40 added original cand
 ## Final topic audit pass 01 released checkpoint
 
 PR42 draft head a4d8f09e0ecabd5864aaa6eb71c481f68f762756. 40 questions and 160 rationales reviewed and corrected, four overlapping objectives replaced in place, no count increase. 440 staged originals and 1,760 rationales retained, four legacy originals, one reported adaptation, ten guides and ten SVGs. Exact remote readbacks verified. 400 questions remain for detailed corrective review. Independent clinical and comprehensive semantic, curriculum, source/video, PR7/8/30 coordination and rendering/CI gates remain open. No main study content merged or mock/PYQ/live credit. Other jobs and schedules preserved.
+
+
+## Final topic audit pass 02 released checkpoint
+
+PR42 draft head 508b99c78370139eabcc7348a73d6599e985b4d9, exact checkpoint readback verified. Five real content commits corrected Banks 03–07, 100 original candidate slots and 400 individually rewritten rationales, all answer letters retained. 140/440 candidates and 560/1760 rationales corrected cumulatively. 440 staged originals, 1760 rationales, four legacy originals, one reported adaptation, ten concept guides and ten SVGs retained. Only five banks plus local checkpoint changed against Pass 01. PR30 two known objective collisions replaced within PR42, notice 7236230405 verified, owner acknowledgment pending. Remaining 300 questions/1200 rationales, next Banks 08–12. Full preflight, independent clinical, comprehensive semantic, curriculum, exact source/video, PR7/8/30 coordination, latest-main reconciliation, green CI and rendered validation remain required. No live publication, no new historical or mock credit, no other claims or schedules modified. Lease released; resume same branch only.
+
+
+## Batch 06 NEW QUESTION CREATION released checkpoint
+
+PR42 draft branch verified checkpoint f333278587973a7a30c69dbaa24335c9ac790a87, checkpoint blob c47d119c5c945a15cf48dd94d06bc2c0d6f56082. Actual 100 new originals and 400 new individual rationales across semen, CSF, stool, serous cavity and synovial fluid analytical pathology. 540 staged originals, 2160 rationales, 27 banks, 13 guides and 13 SVGs. Four legacy originals and one separate reported adaptation preserved. All new keys and structures verified, all new files exactly read back, zero normalized stem matches against previous 440 and internally. Scoped semantic checks only. Comparison confirms 17 commits ahead of 508b99c, 11 added content files and one append-only checkpoint, no deletions. No workflow runs returned for final head at query time; CI/rendering, independent clinical and comprehensive semantic, curriculum/source/video, complete fresh preflight and PR7/8/30 coordination gates remain. No merge, live credit, mock or PYQ credit. Other jobs and five hourly schedules not modified. Next: Batch 07 new creation, target up to 100 genuinely uncovered questions with validation alongside authoring, not another audit-only batch. Resume same draft PR42 only. Lease released by owning session.

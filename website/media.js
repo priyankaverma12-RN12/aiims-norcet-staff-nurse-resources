@@ -28,6 +28,15 @@ function resolveResource(input,base){
  }
  return {url:u.href,external:true};
 }
+// Route both explicit directory links and extensionless chapter folders inside the study UI.
+function studyDocumentPath(resource){
+ if(!resource||resource.external||typeof resource.path!=='string')return null;
+ const p=resource.path;
+ if(!p.startsWith('Chapters/')||/[?#%\\\u0000-\u001f]/.test(p))return null;
+ const parts=p.split('/');if(parts.slice(1).some((part,i)=>part==='.'||part==='..'||(!part&&i!==parts.length-2)))return null;
+ if(/\.md$/i.test(p)||p.endsWith('/'))return p;
+ return parts.at(-1).includes('.')?null:p+'/';
+}
 function sourceLink(target){return 'https://github.com/'+MEDIA_REPO+'/'+(target.endsWith('/')?'tree':'blob')+'/main/'+encodeRepoPath(target)}
 function getCatalog(){if(!getCatalog.promise)getCatalog.promise=fetch('./site-catalog.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('Catalog unavailable');return r.json()}).catch(()=>null);return getCatalog.promise}
 function decorateImages(target,p){
@@ -100,4 +109,4 @@ function scrollStudyFragment(root,hash){
  if(top<clearance)window.scrollBy({top:top-clearance,behavior:'instant'});
  return true;
 }
-if(typeof module!=='undefined')module.exports={resolveResource,encodeRepoPath,diagramSource,findStudyFragment,studyFragmentTarget,scrollStudyFragment};
+if(typeof module!=='undefined')module.exports={resolveResource,studyDocumentPath,encodeRepoPath,diagramSource,findStudyFragment,studyFragmentTarget,scrollStudyFragment};

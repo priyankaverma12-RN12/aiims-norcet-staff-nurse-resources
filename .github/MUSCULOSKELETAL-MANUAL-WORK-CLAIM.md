@@ -1,6 +1,32 @@
 # Musculoskeletal System manual chapter claim
 
 State: CLAIMED
+Owner: musculoskeletal-b04-20261128-0830
+Scope: PR46 candidate-only Batch 04 new topic banks, concept, evidence and checkpoint. No prior question changes, shared navigation, learner history or schedule changes.
+Claimed UTC: 2026-11-28T08:30:00Z
+Expiry UTC: 2026-11-28T09:00:00Z
+
+Prior lease history:
+
+# Musculoskeletal System manual chapter claim
+
+State: FREE
+Owner: none
+Scope: no active write lease; continuation reserved at draft PR46.
+Last owner: musculoskeletal-b03-20261128-0745
+Last checkpoint: 9f9a4bfe8a8bd09692cf99bc87f557609d66b91c
+Draft PR: https://github.com/priyankaverma12-RN12/aiims-norcet-staff-nurse-resources/pull/46
+Branch: study/musculoskeletal-batch01
+
+Batch 03: 100 new staged originals, 400 individual rationales, two new guides and two SVGs. Total 300 staged originals, 1,200 rationales, 15 banks, six guides and six SVGs. Exact readbacks and combined structural audit passed. Authorized Q05/Q06/Q15 corrections in Batch01 01C verified; other 17 blocks and 25 of 26 prior chapter files unchanged. Four legacy originals and one reported adaptation preserved. Live delta zero. No mocks or new PYQs. PR7/8 renewed notices 7236237914 and 7236238322, acknowledgment pending.
+
+Next: fresh bounded preflight and isolated lease. Independent clinical and comprehensive semantic review, INC individual-topic depth, source and video mapping, distractor calibration, rendering, exact final-head CI and navigation clearance remain pending. Continue genuinely uncovered topics only. Do not merge or count drafts as live until all applicable gates pass. Preserve all other sessions, learner history and five hourly schedules.
+
+Prior lease and checkpoint history:
+
+# Musculoskeletal System manual chapter claim
+
+State: CLAIMED
 Owner: musculoskeletal-b03-20261128-0745
 Scope: PR46 candidate-only Batch 03 new topic files and specifically flagged Batch01 C05/C06/C15 corrective audit, concept/evidence/checkpoint. No live navigation or other chapter, shared job or schedule changes.
 Claimed UTC: 2026-11-28T07:45:00Z

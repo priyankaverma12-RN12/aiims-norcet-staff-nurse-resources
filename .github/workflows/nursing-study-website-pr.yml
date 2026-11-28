@@ -4,6 +4,8 @@ on:
     branches: [main]
     paths:
       - 'website/**'
+      - 'Chapters/**'
+      - 'Assets/**'
       - '.github/workflows/nursing-study-website-pr.yml'
 permissions:
   contents: read
